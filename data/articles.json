@@ -1,6 +1,138 @@
 {
-  "updatedAt": "2026-06-11T12:56:13.492Z",
+  "updatedAt": "2026-06-11T21:10:10.826Z",
   "articles": [
+    {
+      "id": "085733bac3588204",
+      "title": "小泉光咲×四坂亮翔W主演『陽キャ集団にいる芹沢は、俺の前だと様子がおかしい』放送決定",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/06/post-2423846.html",
+      "publishedAt": "2026-06-11T21:00:56.000Z",
+      "summary": "原因は自分にある。の小泉光咲と四坂亮翔がW主演を務める連続ドラマ『陽キャ集団にいる芹沢は、俺の前だと様子がおかしい』が、8月10日より読売テレビのドラマDiVE枠で放送されることが決定した。 『みなと商事コインランド",
+      "groups": [
+        "原因は自分にある。"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "小泉光咲",
+          "group": "原因は自分にある。",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "141a2876e1574989",
+      "title": "ゲンジブ小泉光咲×四坂亮翔がW主演！「修仲」手がけた山下すばる脚本の青春ボーイズラブコメディ",
+      "sourceName": "音楽ナタリー",
+      "sourceUrl": "https://natalie.mu/music/feed/news",
+      "articleUrl": "https://natalie.mu/music/news/675788",
+      "publishedAt": "2026-06-11T21:00:00.000Z",
+      "summary": "小泉光咲（原因は自分にある。）が8月10日に読売テレビにてスタートする新ドラマ「陽キャ集団にいる芹沢は、俺の前だと様子がおかしい」で四坂亮翔とともにダブル主演を務める。なお小泉がドラマの主演を務めるのは本作が初となる。",
+      "groups": [
+        "原因は自分にある。"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "小泉光咲",
+          "group": "原因は自分にある。",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "7d1da24ef4bd3f7c",
+      "title": "原因は自分にある。小泉光咲、個人で連ドラ初主演 四坂亮翔とBLドラマ実写化でW主演",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1012649/",
+      "publishedAt": "2026-06-11T21:00:00.000Z",
+      "summary": "ダンスボーカルユニット・原因は自分にある。の小泉光咲と俳優の四坂亮翔が、8月10日にスタートする読売テレビの連続ドラマ『陽キャ集団にいる芹沢は、俺の前だと様子がおかしい』（月曜深夜1時29分）でダブル主演することが、12 […]",
+      "groups": [
+        "原因は自分にある。"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "小泉光咲",
+          "group": "原因は自分にある。",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "34c437dddfe90550",
+      "title": "徳井義実、『ラストノート』で内田有紀の元夫役に 桜井日奈子＆超特急 草川拓弥も出演",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/06/post-2423467.html",
+      "publishedAt": "2026-06-11T20:30:46.000Z",
+      "summary": "フジテレビ系木曜劇場『ラストノート』に徳井義実、桜井日奈子、草川拓弥の出演が決定。内田有紀と寺西拓人がダブル主演を務める大人の純愛ドラマで、7月9日スタート。",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "タクヤ",
+          "group": "超特急",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "4a0e3e04509abe81",
+      "title": "超特急・草川拓弥がドラマ「ラストノート」出演、timelesz寺西拓人演じる主人公の幼なじみ役",
+      "sourceName": "音楽ナタリー",
+      "sourceUrl": "https://natalie.mu/music/feed/news",
+      "articleUrl": "https://natalie.mu/music/news/675797",
+      "publishedAt": "2026-06-11T20:30:00.000Z",
+      "summary": "フジテレビ系木曜劇場枠で7月9日より放送される連続ドラマ「ラストノート」に、草川拓弥（超特急）が出演する。",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "タクヤ",
+          "group": "超特急",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "15f099fddfc605dc",
+      "title": "ついに8クール連続連ドラ出演! 草川拓弥に『ラストノート』プロデューサーが期待「きっと温かく愛おしいものとして届けてくださる」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260612-4568759/",
+      "publishedAt": "2026-06-11T20:30:00.000Z",
+      "summary": "俳優・草川拓弥が、7月9日スタートのフジテレビ系ドラマ『ラストノート』(毎週木曜22:00～)に出演することが12日、発表された。現在放送中の『LOVED ONE』(フジテレビ)に続く出演で、8クール連続の連続ドラマ出演となる。",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "タクヤ",
+          "group": "超特急",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "cc5ac2d0f2585820",
       "title": "佐々木美玲＆森次政裕の健やかさの秘訣。共演してわかった互いの愛され力とは？",
