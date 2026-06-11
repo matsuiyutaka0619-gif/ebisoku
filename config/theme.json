@@ -1,0 +1,12 @@
+{
+  "brandColors": [
+    "#e85b3f",
+    "#ffb14a",
+    "#23b6b8"
+  ],
+  "background": "#fffaf6",
+  "text": "#261b18",
+  "mutedText": "#75635b",
+  "cardRadius": "18px",
+  "motif": "shrimp-wave"
+}

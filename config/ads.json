@@ -1,0 +1,20 @@
+{
+  "enabled": false,
+  "provider": "google-adsense",
+  "clientId": "",
+  "adsTxt": "",
+  "slots": [
+    {
+      "id": "header-under",
+      "label": "ヘッダー下"
+    },
+    {
+      "id": "list-middle",
+      "label": "記事一覧途中"
+    },
+    {
+      "id": "list-bottom",
+      "label": "記事一覧下"
+    }
+  ]
+}

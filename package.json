@@ -1,0 +1,10 @@
+{
+  "name": "ebisoku",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "update:feeds": "node scripts/update-feeds.mjs",
+    "serve": "python3 -m http.server 4181"
+  }
+}

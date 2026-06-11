@@ -1,0 +1,96 @@
+{
+  "allLabel": "すべて",
+  "categories": [
+    {
+      "id": "bullettrain",
+      "label": "超特急",
+      "color": "#e85b3f",
+      "path": "./groups/bullettrain/",
+      "url": "https://bullettrain.jp/"
+    },
+    {
+      "id": "milk",
+      "label": "M!LK",
+      "color": "#fff2d7",
+      "path": "./groups/milk/",
+      "url": "https://sd-milk.com/"
+    },
+    {
+      "id": "superdragon",
+      "label": "SUPER★DRAGON",
+      "color": "#102b3c",
+      "path": "./groups/superdragon/",
+      "url": "https://super-dragon.jp/"
+    },
+    {
+      "id": "sakurashimeji",
+      "label": "Sakurashimeji",
+      "color": "#f6a03a",
+      "path": "./groups/sakurashimeji/",
+      "url": "https://sakurashimeji.com/"
+    },
+    {
+      "id": "onenonly",
+      "label": "ONE N' ONLY",
+      "color": "#14a3a6",
+      "path": "./groups/onenonly/",
+      "url": "https://one-n-only.jp/"
+    },
+    {
+      "id": "genjibu",
+      "label": "原因は自分にある。",
+      "color": "#8d4fe8",
+      "path": "./groups/genjibu/",
+      "url": "https://genjibu.jp/"
+    },
+    {
+      "id": "buddiis",
+      "label": "BUDDiiS",
+      "color": "#ff7a59",
+      "path": "./groups/buddiis/",
+      "url": "https://buddiis.com/"
+    },
+    {
+      "id": "icex",
+      "label": "ICEx",
+      "color": "#63c7e6",
+      "path": "./groups/icex/",
+      "url": "https://icex.jp/"
+    },
+    {
+      "id": "lienel",
+      "label": "Lienel",
+      "color": "#f2c14e",
+      "path": "./groups/lienel/",
+      "url": "https://lienel.jp/"
+    }
+  ],
+  "statuses": [
+    {
+      "id": "active",
+      "label": "現役"
+    },
+    {
+      "id": "og",
+      "label": "元メンバー"
+    }
+  ],
+  "archiveLinks": [
+    {
+      "label": "今日",
+      "path": "./today/"
+    },
+    {
+      "label": "週間",
+      "path": "./weekly/"
+    },
+    {
+      "label": "メンバー",
+      "path": "./members/"
+    },
+    {
+      "label": "公式リンク",
+      "path": "./links/"
+    }
+  ]
+}

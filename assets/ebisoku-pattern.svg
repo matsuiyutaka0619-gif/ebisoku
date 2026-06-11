@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="520" viewBox="0 0 520 520">
+  <defs>
+    <style>
+      .shrimp{fill:none;stroke:#e85b3f;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;opacity:.18}
+      .dish{fill:none;stroke:#ffb14a;stroke-width:4;stroke-linecap:round;opacity:.16}
+      .wave{fill:none;stroke:#23b6b8;stroke-width:4;stroke-linecap:round;opacity:.15}
+      .dot{fill:#ffb14a;opacity:.14}
+    </style>
+  </defs>
+
+  <g transform="translate(62 74) rotate(-14)">
+    <path class="shrimp" d="M72 28c-28-8-58 13-62 42-4 31 18 58 50 61 29 3 55-16 62-43"/>
+    <path class="shrimp" d="M41 39c14 8 26 20 33 36"/>
+    <path class="shrimp" d="M70 28l25-22M74 35l31-4"/>
+    <circle class="dot" cx="36" cy="53" r="7"/>
+  </g>
+
+  <g transform="translate(320 68) rotate(10)">
+    <ellipse class="dish" cx="64" cy="58" rx="62" ry="25"/>
+    <path class="dish" d="M20 58c12 23 76 23 88 0"/>
+    <path class="shrimp" d="M51 41c-18-5-36 7-38 24-2 17 12 32 31 33 16 1 30-9 36-24"/>
+  </g>
+
+  <g transform="translate(90 282) rotate(8)">
+    <path class="dish" d="M4 84c34 24 116 24 150 0"/>
+    <path class="dish" d="M24 84c0 22 110 22 110 0"/>
+    <path class="wave" d="M34 38c16-10 28 10 44 0s28-10 44 0"/>
+    <path class="shrimp" d="M85 33c-20-4-39 12-39 32 0 18 16 33 37 31 14-1 27-11 33-25"/>
+  </g>
+
+  <g transform="translate(332 316) rotate(-18)">
+    <path class="shrimp" d="M78 31c-27-10-58 9-64 39-6 32 15 62 48 66 30 4 58-14 67-43"/>
+    <path class="shrimp" d="M42 44c15 8 28 20 36 37"/>
+    <path class="shrimp" d="M76 30l27-20M81 38l32-1"/>
+    <path class="wave" d="M8 151c22-14 38 14 60 0s38-14 60 0"/>
+  </g>
+</svg>

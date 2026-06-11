@@ -1,0 +1,400 @@
+{
+  "updatedAt": "2026-06-11",
+  "note": "EBiDAN公式ARTISTページを参考にした初期辞書です。卒業・改名・表記ゆれはこのファイルを直接編集してください。",
+  "members": [
+    {
+      "name": "カイ",
+      "group": "超特急",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "リョウガ",
+      "group": "超特急",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "タクヤ",
+      "group": "超特急",
+      "status": "active",
+      "aliases": [
+        "草川拓弥"
+      ]
+    },
+    {
+      "name": "ユーキ",
+      "group": "超特急",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "タカシ",
+      "group": "超特急",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "シューヤ",
+      "group": "超特急",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "マサヒロ",
+      "group": "超特急",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "アロハ",
+      "group": "超特急",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "ハル",
+      "group": "超特急",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "佐野勇斗",
+      "group": "M!LK",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "塩﨑太智",
+      "group": "M!LK",
+      "status": "active",
+      "aliases": [
+        "塩崎太智"
+      ]
+    },
+    {
+      "name": "曽野舜太",
+      "group": "M!LK",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "山中柔太朗",
+      "group": "M!LK",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "吉田仁人",
+      "group": "M!LK",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "志村玲於",
+      "group": "SUPER★DRAGON",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "古川毅",
+      "group": "SUPER★DRAGON",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "ジャン海渡",
+      "group": "SUPER★DRAGON",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "飯島颯",
+      "group": "SUPER★DRAGON",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "伊藤壮吾",
+      "group": "SUPER★DRAGON",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "田中洸希",
+      "group": "SUPER★DRAGON",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "池田彪馬",
+      "group": "SUPER★DRAGON",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "松村和哉",
+      "group": "SUPER★DRAGON",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "柴崎楽",
+      "group": "SUPER★DRAGON",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "田中雅功",
+      "group": "Sakurashimeji",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "髙田彪我",
+      "group": "Sakurashimeji",
+      "status": "active",
+      "aliases": [
+        "高田彪我"
+      ]
+    },
+    {
+      "name": "TETTA",
+      "group": "ONE N' ONLY",
+      "status": "active",
+      "aliases": [
+        "関哲汰"
+      ]
+    },
+    {
+      "name": "REI",
+      "group": "ONE N' ONLY",
+      "status": "active",
+      "aliases": [
+        "沢村玲"
+      ]
+    },
+    {
+      "name": "EIKU",
+      "group": "ONE N' ONLY",
+      "status": "active",
+      "aliases": [
+        "山下永玖"
+      ]
+    },
+    {
+      "name": "HAYATO",
+      "group": "ONE N' ONLY",
+      "status": "active",
+      "aliases": [
+        "高尾颯斗"
+      ]
+    },
+    {
+      "name": "NAOYA",
+      "group": "ONE N' ONLY",
+      "status": "active",
+      "aliases": [
+        "草川直弥"
+      ]
+    },
+    {
+      "name": "大倉空人",
+      "group": "原因は自分にある。",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "小泉光咲",
+      "group": "原因は自分にある。",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "桜木雅哉",
+      "group": "原因は自分にある。",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "長野凌大",
+      "group": "原因は自分にある。",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "武藤潤",
+      "group": "原因は自分にある。",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "杢代和人",
+      "group": "原因は自分にある。",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "吉澤要人",
+      "group": "原因は自分にある。",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "FUMINORI",
+      "group": "BUDDiiS",
+      "status": "active",
+      "aliases": [
+        "小川史記"
+      ]
+    },
+    {
+      "name": "KEVIN",
+      "group": "BUDDiiS",
+      "status": "active",
+      "aliases": [
+        "ケビン"
+      ]
+    },
+    {
+      "name": "MORRIE",
+      "group": "BUDDiiS",
+      "status": "active",
+      "aliases": [
+        "森英寿"
+      ]
+    },
+    {
+      "name": "SEIYA",
+      "group": "BUDDiiS",
+      "status": "active",
+      "aliases": [
+        "岡本聖哉"
+      ]
+    },
+    {
+      "name": "YUMA",
+      "group": "BUDDiiS",
+      "status": "active",
+      "aliases": [
+        "野瀬勇馬"
+      ]
+    },
+    {
+      "name": "SHOW",
+      "group": "BUDDiiS",
+      "status": "active",
+      "aliases": [
+        "西田祥"
+      ]
+    },
+    {
+      "name": "TAKUYA",
+      "group": "BUDDiiS",
+      "status": "active",
+      "aliases": [
+        "大槻拓也"
+      ]
+    },
+    {
+      "name": "FUMIYA",
+      "group": "BUDDiiS",
+      "status": "active",
+      "aliases": [
+        "高尾楓弥"
+      ]
+    },
+    {
+      "name": "SHOOT",
+      "group": "BUDDiiS",
+      "status": "active",
+      "aliases": [
+        "森愁斗"
+      ]
+    },
+    {
+      "name": "志賀李玖",
+      "group": "ICEx",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "中村旺太郎",
+      "group": "ICEx",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "阿久根温世",
+      "group": "ICEx",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "千田波空斗",
+      "group": "ICEx",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "筒井俊旭",
+      "group": "ICEx",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "山本龍人",
+      "group": "ICEx",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "竹野世梛",
+      "group": "ICEx",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "八神遼介",
+      "group": "ICEx",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "芳賀柊斗",
+      "group": "Lienel",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "近藤駿太",
+      "group": "Lienel",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "高岡ミロ",
+      "group": "Lienel",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "森田璃空",
+      "group": "Lienel",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "武田創世",
+      "group": "Lienel",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "高桑真之",
+      "group": "Lienel",
+      "status": "active",
+      "aliases": []
+    }
+  ]
+}

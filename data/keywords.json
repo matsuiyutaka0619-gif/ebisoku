@@ -1,0 +1,104 @@
+{
+  "groups": [
+    {
+      "id": "ebidan",
+      "name": "EBiDAN",
+      "keywords": [
+        "EBiDAN",
+        "エビダン",
+        "えびだん",
+        "恵比寿学園男子部",
+        "DAN! DAN! EBiDAN"
+      ]
+    },
+    {
+      "id": "bullettrain",
+      "name": "超特急",
+      "keywords": [
+        "超特急",
+        "BULLET TRAIN",
+        "Bullet Train"
+      ]
+    },
+    {
+      "id": "milk",
+      "name": "M!LK",
+      "keywords": [
+        "M!LK",
+        "MILK",
+        "み！るきーず"
+      ]
+    },
+    {
+      "id": "superdragon",
+      "name": "SUPER★DRAGON",
+      "keywords": [
+        "SUPER★DRAGON",
+        "SUPER DRAGON",
+        "スパドラ"
+      ]
+    },
+    {
+      "id": "sakurashimeji",
+      "name": "Sakurashimeji",
+      "keywords": [
+        "Sakurashimeji",
+        "さくらしめじ",
+        "サクラシメジ"
+      ]
+    },
+    {
+      "id": "onenonly",
+      "name": "ONE N' ONLY",
+      "keywords": [
+        "ONE N' ONLY",
+        "ONE N ONLY",
+        "ワンエン",
+        "ワンエンオンリー"
+      ]
+    },
+    {
+      "id": "genjibu",
+      "name": "原因は自分にある。",
+      "keywords": [
+        "原因は自分にある。",
+        "原因は自分にある",
+        "げんじぶ",
+        "GENJIBU"
+      ]
+    },
+    {
+      "id": "buddiis",
+      "name": "BUDDiiS",
+      "keywords": [
+        "BUDDiiS",
+        "バディーズ"
+      ]
+    },
+    {
+      "id": "icex",
+      "name": "ICEx",
+      "keywords": [
+        "ICEx"
+      ]
+    },
+    {
+      "id": "lienel",
+      "name": "Lienel",
+      "keywords": [
+        "Lienel",
+        "リエネル"
+      ]
+    }
+  ],
+  "negativeKeywords": [
+    "海老",
+    "エビ料理",
+    "えび料理",
+    "海老名",
+    "海老蔵",
+    "シュリンプ",
+    "エビフライ",
+    "伊勢海老"
+  ]
+}

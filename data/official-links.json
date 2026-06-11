@@ -1,0 +1,94 @@
+{
+  "groups": [
+    {
+      "name": "超特急",
+      "color": "#e85b3f",
+      "links": [
+        {
+          "label": "公式サイト",
+          "url": "https://bullettrain.jp/"
+        }
+      ]
+    },
+    {
+      "name": "M!LK",
+      "color": "#fff2d7",
+      "links": [
+        {
+          "label": "公式サイト",
+          "url": "https://sd-milk.com/"
+        }
+      ]
+    },
+    {
+      "name": "SUPER★DRAGON",
+      "color": "#102b3c",
+      "links": [
+        {
+          "label": "公式サイト",
+          "url": "https://super-dragon.jp/"
+        }
+      ]
+    },
+    {
+      "name": "Sakurashimeji",
+      "color": "#f6a03a",
+      "links": [
+        {
+          "label": "公式サイト",
+          "url": "https://sakurashimeji.com/"
+        }
+      ]
+    },
+    {
+      "name": "ONE N' ONLY",
+      "color": "#14a3a6",
+      "links": [
+        {
+          "label": "公式サイト",
+          "url": "https://one-n-only.jp/"
+        }
+      ]
+    },
+    {
+      "name": "原因は自分にある。",
+      "color": "#8d4fe8",
+      "links": [
+        {
+          "label": "公式サイト",
+          "url": "https://genjibu.jp/"
+        }
+      ]
+    },
+    {
+      "name": "BUDDiiS",
+      "color": "#ff7a59",
+      "links": [
+        {
+          "label": "公式サイト",
+          "url": "https://buddiis.com/"
+        }
+      ]
+    },
+    {
+      "name": "ICEx",
+      "color": "#63c7e6",
+      "links": [
+        {
+          "label": "公式サイト",
+          "url": "https://icex.jp/"
+        }
+      ]
+    },
+    {
+      "name": "Lienel",
+      "color": "#f2c14e",
+      "links": [
+        {
+          "label": "公式サイト",
+          "url": "https://lienel.jp/"
+        }
+      ]
+    }
+  ]
+}

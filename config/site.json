@@ -1,0 +1,11 @@
+{
+  "siteName": "えびそく！",
+  "shortName": "えびそく",
+  "tagline": "EBiDANニュースを毎日さくっと追える速報まとめ",
+  "description": "超特急、M!LK、SUPER★DRAGON、Sakurashimeji、ONE N' ONLY、原因は自分にある。、BUDDiiS、ICEx、LienelなどEBiDAN関連ニュースをRSSから整理する速報まとめサイトです。",
+  "baseUrl": "https://ebisoku.pages.dev/",
+  "language": "ja",
+  "timezone": "Asia/Tokyo",
+  "footerNote": "記事タイトルとリンクは各ニュース提供元のRSSをもとに表示しています。本文は転載せず、元記事へのリンクを掲載します。",
+  "searchPlaceholder": "グループ名・メンバー名・ニュース名で検索"
+}
