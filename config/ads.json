@@ -1,8 +1,8 @@
 {
-  "enabled": false,
+  "enabled": true,
   "provider": "google-adsense",
-  "clientId": "",
-  "adsTxt": "",
+  "clientId": "ca-pub-8002455848254296",
+  "adsTxt": "google.com, pub-8002455848254296, DIRECT, f08c47fec0942fa0",
   "slots": [
     {
       "id": "header-under",
