@@ -105,6 +105,29 @@ function statusLabel(status) {
   return (state.config?.categories?.statuses || []).find((item) => item.id === status)?.label || (status === "og" ? "OG" : "現役");
 }
 
+function categoryFor(value) {
+  return (state.config?.categories?.categories || []).find((category) => category.id === value || category.label === value);
+}
+
+function articleMatchesGroup(article, groupId) {
+  if (groupId === "all") return true;
+  const category = categoryFor(groupId);
+  const aliases = [groupId, category?.id, category?.label].filter(Boolean);
+  return (article.groups || []).some((group) => aliases.includes(group));
+}
+
+function articleMatchesStatus(article, statusId) {
+  return statusId === "all" || (article.statuses || []).includes(statusId);
+}
+
+function availableGroupFilters() {
+  return GROUPS.filter((group) => group.id === "all" || state.articles.some((article) => matchesPage(article) && articleMatchesGroup(article, group.id)));
+}
+
+function availableStatusFilters() {
+  return STATUSES.filter((status) => status.id === "all" || state.articles.some((article) => matchesPage(article) && articleMatchesGroup(article, state.activeGroup) && articleMatchesStatus(article, status.id)));
+}
+
 function normalize(value) {
   return String(value || "").toLowerCase();
 }
@@ -113,8 +136,8 @@ function filteredArticles() {
   const query = normalize(state.query);
   return state.articles.filter((article) => {
     const pageOk = matchesPage(article);
-    const groupOk = state.activeGroup === "all" || article.groups?.includes(state.activeGroup);
-    const statusOk = state.activeStatus === "all" || article.statuses?.includes(state.activeStatus);
+    const groupOk = articleMatchesGroup(article, state.activeGroup);
+    const statusOk = articleMatchesStatus(article, state.activeStatus);
     const memberOk = !state.activeMember || (article.memberMatches || []).some((member) => member.name === state.activeMember);
     const text = normalize([
       article.title,
@@ -128,7 +151,7 @@ function filteredArticles() {
 }
 
 function matchesPage(article) {
-  if (pageConfig.page === "group") return article.groups?.includes(pageConfig.group);
+  if (pageConfig.page === "group") return articleMatchesGroup(article, pageConfig.group);
   if (pageConfig.page === "og") return article.statuses?.includes("og");
   if (pageConfig.page === "today") return isToday(article.publishedAt);
   if (pageConfig.page === "weekly") return isWithinDays(article.publishedAt, 7);
@@ -167,12 +190,18 @@ function render() {
 
   renderMemberDirectory();
 
-  createFilterButtons(document.querySelector("#groupFilters"), GROUPS, state.activeGroup, (id) => {
+  const groupFilters = availableGroupFilters();
+  if (!groupFilters.some((group) => group.id === state.activeGroup)) state.activeGroup = "all";
+  const statusFilters = availableStatusFilters();
+  if (!statusFilters.some((status) => status.id === state.activeStatus)) state.activeStatus = "all";
+
+  createFilterButtons(document.querySelector("#groupFilters"), groupFilters, state.activeGroup, (id) => {
     state.activeGroup = id;
+    state.activeStatus = "all";
     render();
   });
 
-  createFilterButtons(document.querySelector("#statusFilters"), STATUSES, state.activeStatus, (id) => {
+  createFilterButtons(document.querySelector("#statusFilters"), statusFilters, state.activeStatus, (id) => {
     state.activeStatus = id;
     render();
   });
