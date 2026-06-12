@@ -1,58 +1,14 @@
 {
-  "updatedAt": "2026-06-12T00:59:36.439Z",
+  "updatedAt": "2026-06-12T10:07:05.404Z",
   "articles": [
     {
-      "id": "085733bac3588204",
-      "title": "小泉光咲×四坂亮翔W主演『陽キャ集団にいる芹沢は、俺の前だと様子がおかしい』放送決定",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/06/post-2423846.html",
-      "publishedAt": "2026-06-11T21:00:56.000Z",
-      "summary": "原因は自分にある。の小泉光咲と四坂亮翔がW主演を務める連続ドラマ『陽キャ集団にいる芹沢は、俺の前だと様子がおかしい』が、8月10日より読売テレビのドラマDiVE枠で放送されることが決定した。 『みなと商事コインランド",
-      "groups": [
-        "原因は自分にある。"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "小泉光咲",
-          "group": "原因は自分にある。",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "141a2876e1574989",
-      "title": "ゲンジブ小泉光咲×四坂亮翔がW主演！「修仲」手がけた山下すばる脚本の青春ボーイズラブコメディ",
-      "sourceName": "音楽ナタリー",
-      "sourceUrl": "https://natalie.mu/music/feed/news",
-      "articleUrl": "https://natalie.mu/music/news/675788",
-      "publishedAt": "2026-06-11T21:00:00.000Z",
-      "summary": "小泉光咲（原因は自分にある。）が8月10日に読売テレビにてスタートする新ドラマ「陽キャ集団にいる芹沢は、俺の前だと様子がおかしい」で四坂亮翔とともにダブル主演を務める。なお小泉がドラマの主演を務めるのは本作が初となる。",
-      "groups": [
-        "原因は自分にある。"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "小泉光咲",
-          "group": "原因は自分にある。",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "34c437dddfe90550",
-      "title": "徳井義実、『ラストノート』で内田有紀の元夫役に 桜井日奈子＆超特急 草川拓弥も出演",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/06/post-2423467.html",
-      "publishedAt": "2026-06-11T20:30:46.000Z",
-      "summary": "フジテレビ系木曜劇場『ラストノート』に徳井義実、桜井日奈子、草川拓弥の出演が決定。内田有紀と寺西拓人がダブル主演を務める大人の純愛ドラマで、7月9日スタート。",
+      "id": "c71d27ee705c07b1",
+      "title": "超特急リョウガ「ユーキくんはドジっ子」 ユーキ「リョウガは多才」 仲の良さをアピール",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202606120001382.html",
+      "publishedAt": "2026-06-12T09:31:39.000Z",
+      "summary": "超特急のリョウガ（31）とユーキ（31）が12日、都内で「シチズン エコ・ドライブ」誕生50周年記念イベントに出席した。この日は「恋人の日」で、リョウガは「ユーキくんはドジっ子で、食べ物をこぼしたりしているけど、ライブでは光り輝いていて…",
       "groups": [
         "超特急"
       ],
@@ -61,20 +17,89 @@
       ],
       "memberMatches": [
         {
-          "name": "タクヤ",
+          "name": "リョウガ",
+          "group": "超特急",
+          "status": "active"
+        },
+        {
+          "name": "ユーキ",
           "group": "超特急",
           "status": "active"
         }
       ]
     },
     {
-      "id": "4a0e3e04509abe81",
-      "title": "超特急・草川拓弥がドラマ「ラストノート」出演、timelesz寺西拓人演じる主人公の幼なじみ役",
+      "id": "65ced20e524062e1",
+      "title": "再生数急上昇ソング定点観測 （2026年6月2週目） M!LKが歌う“あなたも誰かのアイドル”という主張 / 「マチアプリンセス」が描く令和恋愛あるある / ポルノグラフィティ「みんなのうた」に大人も感動",
       "sourceName": "音楽ナタリー",
       "sourceUrl": "https://natalie.mu/music/feed/news",
-      "articleUrl": "https://natalie.mu/music/news/675797",
-      "publishedAt": "2026-06-11T20:30:00.000Z",
-      "summary": "フジテレビ系木曜劇場枠で7月9日より放送される連続ドラマ「ラストノート」に、草川拓弥（超特急）が出演する。",
+      "articleUrl": "https://natalie.mu/music/column/675817",
+      "publishedAt": "2026-06-12T09:30:00.000Z",
+      "summary": "YouTubeでの視聴回数チャートや、ストリーミングサービスでの再生数が伸びている楽曲を観測し、今何が注目されているのかを解説する週イチ連載「再生数急上昇ソング定点観測」。今週はYouTubeで5月29日から6月4日にかけて集計されたミュージックビデオランキングの中から要注目トピックをピックアップします。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "b92aecdabcf0f0bd",
+      "title": "『MUSIC AWARDS JAPAN 2026』Grand Ceremony 追加パフォーマンスアーティストにM!LK",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1071088",
+      "publishedAt": "2026-06-12T08:29:46.000Z",
+      "summary": "⼀般社団法⼈カルチャーアンドエンタテインメント産業振興会(CEIPA)による国内最⼤規模の国際⾳楽賞『MUSIC AWARDS JAPAN 2026』の授賞式が6⽉13⽇(土)にTOYOTA ARENA TOKYOおよびSGCホール有明にて開催される。このうち、Grand Ceremonyで行なわれる特別パフォーマンスの出演アーティスト陣にM!LKが追加決定",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "3c6cdfa0c6b7b5f5",
+      "title": "M!LKが明日開催「MUSIC AWARDS JAPAN」でパフォーマンス披露、NHKやYouTubeで観られる",
+      "sourceName": "音楽ナタリー",
+      "sourceUrl": "https://natalie.mu/music/feed/news",
+      "articleUrl": "https://natalie.mu/music/news/675937",
+      "publishedAt": "2026-06-12T08:28:00.000Z",
+      "summary": "M!LKが、明日6月13日に開催されるイベント「『MUSIC AWARDS JAPAN 2026』Grand Ceremony」にパフォーマンスアーティストとして出演することが発表された。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "4f92d7c954397bf5",
+      "title": "『トイ・ストーリー５』最先端タブレットがジェシーを挑発、おもちゃを圧倒する本編映像解禁",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/06/87671/",
+      "publishedAt": "2026-06-12T08:00:00.000Z",
+      "summary": "7月3日(金)より全国公開されるディズニー＆ピクサー最新作『トイ・ストーリー５』の本編映像が解禁された。 おもちゃたちの世界を舞台に、人とおもちゃのかけがえのない絆を描いてきた『トイ・ストーリー』シリーズ。最新作となる本作ではウッディやバズ、ジェシーらおなじみの仲間たちに加え最先端タブレットの“リリーパッド”が登場し、スマホやデジタル機器が当たり前となった時",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "e97fd7e7c6840022",
+      "title": "超特急リョウガ＆ユーキが褒め合いイジり合う！「エコ・ドライブ」イベントで若槻千夏も“絡みやすさ”に太鼓判",
+      "sourceName": "音楽ナタリー",
+      "sourceUrl": "https://natalie.mu/music/feed/news",
+      "articleUrl": "https://natalie.mu/music/news/675822",
+      "publishedAt": "2026-06-12T04:26:00.000Z",
+      "summary": "超特急の3号車・リョウガと5号車・ユーキが、本日6月12日に東京・表参道ヒルズで行われた「シチズン エコ・ドライブ誕生50周年記念イベント」にゲスト出演した。",
       "groups": [
         "超特急"
       ],
@@ -83,7 +108,12 @@
       ],
       "memberMatches": [
         {
-          "name": "タクヤ",
+          "name": "リョウガ",
+          "group": "超特急",
+          "status": "active"
+        },
+        {
+          "name": "ユーキ",
           "group": "超特急",
           "status": "active"
         }
@@ -92,8 +122,8 @@
     {
       "id": "15f099fddfc605dc",
       "title": "ついに8クール連続連ドラ出演! 草川拓弥に『ラストノート』プロデューサーが期待「きっと温かく愛おしいものとして届けてくださる」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
       "articleUrl": "https://news.mynavi.jp/article/20260612-4568759/",
       "publishedAt": "2026-06-11T20:30:00.000Z",
       "summary": "俳優・草川拓弥が、7月9日スタートのフジテレビ系ドラマ『ラストノート』(毎週木曜22:00～)に出演することが12日、発表された。現在放送中の『LOVED ONE』(フジテレビ)に続く出演で、8クール連続の連続ドラマ出演となる。",
@@ -204,20 +234,6 @@
       "articleUrl": "https://news.mynavi.jp/article/20260610-4562723/",
       "publishedAt": "2026-06-10T04:29:00.000Z",
       "summary": "マイナビが運営する「マイナビティーンズラボ」は10日、「2026年上半期 10代女子が選ぶトレンドランキング」を発表した。調査は、13～19歳の女性610人を対象にアンケートを実施した。期間は4月16日～4月30日。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "d21a6353d5b1ff89",
-      "title": "『THE MUSIC DAY』M!LK、SixTONES、Number_i、BE:FIRSTら第1弾出演アーティスト",
-      "sourceName": "マイナビニュース テレビ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-      "articleUrl": "https://news.mynavi.jp/article/20260607-4551800/",
-      "publishedAt": "2026-06-07T10:58:00.000Z",
-      "summary": "日本テレビ系大型音楽特番『THE MUSIC DAY 2026』(7月4日13:30～)の第1弾出演アーティストが7日、発表された。M!LK、HANA、SixTONES、Number_i、SUPER BEAVER、BE:FIRSTをはじめ、NEWS、中島健人、なにわ男子、NiziU、IVE、CUTIE STREET、アイナ・ジ・エンド、マルシィという14組の",
       "groups": [
         "M!LK"
       ],
