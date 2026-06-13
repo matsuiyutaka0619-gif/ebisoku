@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T17:03:35.485Z",
+  "updatedAt": "2026-06-13T21:54:50.267Z",
   "articles": [
     {
       "id": "162aee65d13e5283",
@@ -16,33 +16,6 @@
         "active"
       ],
       "memberMatches": [
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "562497ae1aebb305",
-      "title": "【MAJ】M!LKが5冠 山中柔太朗は涙「アイドルは素晴らしい」吉田仁人「いつかは世界を元気に」",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202606140000005.html",
-      "publishedAt": "2026-06-13T15:48:08.000Z",
-      "summary": "最優秀ボーイズアイドルカルチャーアーティスト賞にM!LKが選ばれた。M!LKは「最優秀ボーイズアイドルカルチャー楽曲賞」「最優秀バイラル楽曲賞」など5冠を獲得した。 最優秀ボーイズアイドルカルチャーアーティスト賞で名前が呼ばれると、メン…",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "山中柔太朗",
-          "group": "M!LK",
-          "status": "active"
-        },
         {
           "name": "吉田仁人",
           "group": "M!LK",
@@ -155,20 +128,6 @@
       "articleUrl": "https://natalie.mu/music/news/676085",
       "publishedAt": "2026-06-13T13:02:00.000Z",
       "summary": "「MUSIC AWARDS JAPAN 2026」の授賞式にてM!LKが最優秀ボーイズアイドルカルチャーアーティスト賞を受賞した。国際音楽賞「MUSIC AWARDS JAPAN 2026」は本日6月13日に東京・TOYOTA ARENA TOKYOで行われており、最優秀ボーイズアイドルカルチャーアーティスト賞にはほかに、SixTONES、Snow Man、",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "92f4bb4ccf9e7907",
-      "title": "【MAJ2026】M!LK、最優秀ボーイズアイドルカルチャーアーティスト賞を受賞「信じられない気持ち」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1013720/",
-      "publishedAt": "2026-06-13T12:54:33.000Z",
-      "summary": "国内最大規模の国際音楽賞「MUSIC AWARDS JAPAN 2026」（MAJ）の授賞式が13日、TOYOTA ARENA TOKYOで開催された。M!LKが「最優秀ボーイズアイドルカルチャーアーティスト賞（グループ […]",
       "groups": [
         "M!LK"
       ],
