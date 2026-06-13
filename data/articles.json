@@ -1,27 +1,69 @@
 {
-  "updatedAt": "2026-06-12T23:04:01.775Z",
+  "updatedAt": "2026-06-13T10:16:26.989Z",
   "articles": [
     {
-      "id": "6d8e6abba7f44b9f",
-      "title": "M!LK曽野舜太、X始めてみた",
-      "sourceName": "音楽ナタリー",
-      "sourceUrl": "https://natalie.mu/music/feed/news",
-      "articleUrl": "https://natalie.mu/music/news/675987",
-      "publishedAt": "2026-06-12T12:17:00.000Z",
-      "summary": "曽野舜太（M!LK）のXの個人アカウントが開設された。",
+      "id": "7a53987a2202bf74",
+      "title": "M!LK「好きすぎて滅!」が“カラオケで最も歌われたJ-Pop”に MAJ2026カラオケ特別賞",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260613-4576268/",
+      "publishedAt": "2026-06-13T07:25:49.000Z",
+      "summary": "M!LKの「好きすぎて滅！」が、MUSIC AWARDS JAPAN 2026(MAJ2026)の「カラオケ特別賞 カラオケ・オブ・ザ・イヤー powered by DAM ＆ JOYSOUND」J-Pop部門を受賞したことが13日、発表された。演歌・歌謡曲部門では、水森かおりの「大阪恋しずく」が受賞。“カラオケで最も歌われた楽曲”を表彰する同賞で、M!LK",
       "groups": [
         "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "cc594e13701c3e3f",
+      "title": "草川拓弥が明かした恐怖の扇風機エピソード、ホラー映画「祝山」撮影でオカルト好きキャラが乗り移る",
+      "sourceName": "音楽ナタリー",
+      "sourceUrl": "https://natalie.mu/music/feed/news",
+      "articleUrl": "https://natalie.mu/music/news/676038",
+      "publishedAt": "2026-06-13T06:55:00.000Z",
+      "summary": "ホラー映画「祝山」の公開記念舞台挨拶が本日6月13日、東京・新宿ピカデリーにて開催。主演の橋本愛と共演の石川恋、久保田紗友、草川拓弥（超特急）、武田真悟監督が登壇した。",
+      "groups": [
+        "超特急"
       ],
       "statuses": [
         "active"
       ],
       "memberMatches": [
         {
-          "name": "曽野舜太",
-          "group": "M!LK",
+          "name": "タクヤ",
+          "group": "超特急",
           "status": "active"
         }
       ]
+    },
+    {
+      "id": "e5f0123e3b658f30",
+      "title": "≠ME、菅波美玲が卒業「皆さんがいたから、ステージでたくさん輝けました」",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1071166",
+      "publishedAt": "2026-06-13T02:53:50.000Z",
+      "summary": "≠MEが6月12日（金）に＜≠ME 菅波美玲卒業コンサート～みんなのことが大好きなの～＞が東京都・NHKホールにて開催した。 ◆ライブ写真 5月11日(月)にグループからの卒業を報告した菅波美玲。卒業コンサート当日は菅波の過去のライブ映像を振り返るOvertureが流れ冒頭から会場がエモーショナルな雰囲気に包まれる中メンバーが登場すると、菅波は「最高の日にし",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "34e65967510f88ce",
+      "title": "M!LK、「MUSIC AWARDS JAPAN 2026」Grand Ceremony追加パフォーマンスアーティストに決定",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/music2/630712.html",
+      "publishedAt": "2026-06-13T02:45:46.000Z",
+      "summary": "国内最大規模の国際音楽賞「MUSIC AWARDS JAPAN 2026」が、6月13日にTOYOTA ARENA TOKYOで開催するGrand Ceremonyの追加パフォーマンスアーティストとして、M!LKの出演を発表した。「世界とつながり、音楽の未来を灯す」をコ ... The post M!LK、「MUSIC AWARDS JAPAN 2026」G",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
     },
     {
       "id": "4f92d7c954397bf5",
