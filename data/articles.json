@@ -1,6 +1,236 @@
 {
-  "updatedAt": "2026-06-13T10:16:26.989Z",
+  "updatedAt": "2026-06-13T17:03:35.485Z",
   "articles": [
+    {
+      "id": "162aee65d13e5283",
+      "title": "M!LK「MAJ」で5冠！吉田仁人「トロフィーに滅しても大丈夫でしょうか？」",
+      "sourceName": "音楽ナタリー",
+      "sourceUrl": "https://natalie.mu/music/feed/news",
+      "articleUrl": "https://natalie.mu/music/news/676109",
+      "publishedAt": "2026-06-13T16:01:00.000Z",
+      "summary": "M!LKが、国内最大規模の国際音楽賞「MUSIC AWARDS JAPAN 2026」にて最優秀ボーイズアイドルカルチャーアーティスト賞など5つの賞を受賞。昨日6月13日に開催された授賞式に登壇後、囲み取材に応じた。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "562497ae1aebb305",
+      "title": "【MAJ】M!LKが5冠 山中柔太朗は涙「アイドルは素晴らしい」吉田仁人「いつかは世界を元気に」",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202606140000005.html",
+      "publishedAt": "2026-06-13T15:48:08.000Z",
+      "summary": "最優秀ボーイズアイドルカルチャーアーティスト賞にM!LKが選ばれた。M!LKは「最優秀ボーイズアイドルカルチャー楽曲賞」「最優秀バイラル楽曲賞」など5冠を獲得した。 最優秀ボーイズアイドルカルチャーアーティスト賞で名前が呼ばれると、メン…",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "01ba2c95a5bc2fbe",
+      "title": "M!LK「MUSIC AWARDS JAPAN 2026」授賞式後に会見！佐野勇斗ファンへ思い溢れる",
+      "sourceName": "Edge Line",
+      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/199683",
+      "publishedAt": "2026-06-13T15:33:12.000Z",
+      "summary": "ダンスボーカルグループ『M!LK』の佐野勇斗、吉田仁人、塩﨑太智、山中柔太朗、曽野舜太が6月13日に東京・有明のTOYOTA ARENA TOKYOで国際音楽賞『MUSIC AWARDS JAPAN 2026』（通称：...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "塩﨑太智",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "曽野舜太",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "2eda2400e50173df",
+      "title": "M!LK、最優秀ボーイズアイドルカルチャーアーティスト賞を受賞！〈MUSIC AWARDS JAPAN 2026〉",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/music2/631190.html",
+      "publishedAt": "2026-06-13T15:08:58.000Z",
+      "summary": "国内最大規模の国際音楽賞「MUSIC AWARDS JAPAN 2026」の授賞式が6 月 13 日（土）、TOYOTA ARENA TOKYOで開催され、M!LKが、最優秀ボーイズアイドルカルチャーアーティスト賞を受賞した。レッドカーペットには、佐野勇斗、吉田仁人、塩 ... The post M!LK、最優秀ボーイズアイドルカルチャーアーティスト賞を受賞",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "4a42efa26e9cce8e",
+      "title": "ミセス、藤井風、King & Prince、M!LKら60組超が続々！「MAJ2026」レッドカーペットをフォトレポートで",
+      "sourceName": "音楽ナタリー",
+      "sourceUrl": "https://natalie.mu/music/feed/news",
+      "articleUrl": "https://natalie.mu/music/news/676096",
+      "publishedAt": "2026-06-13T14:10:00.000Z",
+      "summary": "本日6月13日に東京・TOYOTA ARENA TOKYOで国内最大規模の国際音楽賞「MUSIC AWARDS JAPAN 2026」のGrand Ceremony（主要部門授賞式）が開催され、開会を前に会場ではレッドカーペットアライバルが行われた。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "e0e529a588daf021",
+      "title": "【MUSIC AWARDS JAPAN】最優秀楽曲賞はサカナクション「怪獣」、山口一郎は「勇気をいただきました」",
+      "sourceName": "音楽ナタリー",
+      "sourceUrl": "https://natalie.mu/music/feed/news",
+      "articleUrl": "https://natalie.mu/music/news/676016",
+      "publishedAt": "2026-06-13T13:49:00.000Z",
+      "summary": "「MUSIC AWARDS JAPAN 2026」の授賞式にて、サカナクション「怪獣」が最優秀楽曲賞を受賞した。音楽アワード「MUSIC AWARDS JAPAN 2026」は本日6月13日に東京・TOYOTA ARENA TOKYOで行われており、最優秀楽曲賞にはほかに、HANA「Blue Jeans」、米津玄師「IRIS OUT」、アイナ・ジ・エンド「革",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "3bbb1d6465e4fcdd",
+      "title": "【MUSIC AWARDS JAPAN】M!LKが最優秀ボーイズアイドルカルチャーアーティスト賞",
+      "sourceName": "音楽ナタリー",
+      "sourceUrl": "https://natalie.mu/music/feed/news",
+      "articleUrl": "https://natalie.mu/music/news/676085",
+      "publishedAt": "2026-06-13T13:02:00.000Z",
+      "summary": "「MUSIC AWARDS JAPAN 2026」の授賞式にてM!LKが最優秀ボーイズアイドルカルチャーアーティスト賞を受賞した。国際音楽賞「MUSIC AWARDS JAPAN 2026」は本日6月13日に東京・TOYOTA ARENA TOKYOで行われており、最優秀ボーイズアイドルカルチャーアーティスト賞にはほかに、SixTONES、Snow Man、",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "92f4bb4ccf9e7907",
+      "title": "【MAJ2026】M!LK、最優秀ボーイズアイドルカルチャーアーティスト賞を受賞「信じられない気持ち」",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1013720/",
+      "publishedAt": "2026-06-13T12:54:33.000Z",
+      "summary": "国内最大規模の国際音楽賞「MUSIC AWARDS JAPAN 2026」（MAJ）の授賞式が13日、TOYOTA ARENA TOKYOで開催された。M!LKが「最優秀ボーイズアイドルカルチャーアーティスト賞（グループ […]",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "150ec4e2d06c0493",
+      "title": "M!LK「MUSIC AWARDS JAPAN 2026」レッドカーペットで『好きすぎて滅！』",
+      "sourceName": "Edge Line",
+      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/199589",
+      "publishedAt": "2026-06-13T12:37:15.000Z",
+      "summary": "ダンスボーカルグループ『M!LK』の佐野勇斗、吉田仁人、塩﨑太智、山中柔太朗、曽野舜太が6月13日に東京・有明のTOYOTA ARENA TOKYO前の歩道で開催された国際音楽賞『MUSIC AWARDS JAPAN ...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "塩﨑太智",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "曽野舜太",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "006da92b88247b29",
+      "title": "Mrs. GREEN APPLE、『MUSIC AWARDS JAPAN 2026』Grand Ceremony第2部の開幕を飾るパフォーマンスアーティストとして緊急出演決定",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1071236",
+      "publishedAt": "2026-06-13T11:55:00.000Z",
+      "summary": "国内最大規模の国際音楽賞『MUSIC AWARDS JAPAN 2026』が本日6月13日、東京・TOYOTA ARENA TOKYO他にて開催中だ。同祭典の主要部門授賞式となるGrand Ceremonyの第2部の開幕を飾るパフォーマンスアーティストとして、Mrs. GREEN APPLEが出演することが急遽発表された。 『MUSIC AWARDS JAP",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "7a53987a2202bf74",
       "title": "M!LK「好きすぎて滅!」が“カラオケで最も歌われたJ-Pop”に MAJ2026カラオケ特別賞",
@@ -9,56 +239,6 @@
       "articleUrl": "https://news.mynavi.jp/article/20260613-4576268/",
       "publishedAt": "2026-06-13T07:25:49.000Z",
       "summary": "M!LKの「好きすぎて滅！」が、MUSIC AWARDS JAPAN 2026(MAJ2026)の「カラオケ特別賞 カラオケ・オブ・ザ・イヤー powered by DAM ＆ JOYSOUND」J-Pop部門を受賞したことが13日、発表された。演歌・歌謡曲部門では、水森かおりの「大阪恋しずく」が受賞。“カラオケで最も歌われた楽曲”を表彰する同賞で、M!LK",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "cc594e13701c3e3f",
-      "title": "草川拓弥が明かした恐怖の扇風機エピソード、ホラー映画「祝山」撮影でオカルト好きキャラが乗り移る",
-      "sourceName": "音楽ナタリー",
-      "sourceUrl": "https://natalie.mu/music/feed/news",
-      "articleUrl": "https://natalie.mu/music/news/676038",
-      "publishedAt": "2026-06-13T06:55:00.000Z",
-      "summary": "ホラー映画「祝山」の公開記念舞台挨拶が本日6月13日、東京・新宿ピカデリーにて開催。主演の橋本愛と共演の石川恋、久保田紗友、草川拓弥（超特急）、武田真悟監督が登壇した。",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "タクヤ",
-          "group": "超特急",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "e5f0123e3b658f30",
-      "title": "≠ME、菅波美玲が卒業「皆さんがいたから、ステージでたくさん輝けました」",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1071166",
-      "publishedAt": "2026-06-13T02:53:50.000Z",
-      "summary": "≠MEが6月12日（金）に＜≠ME 菅波美玲卒業コンサート～みんなのことが大好きなの～＞が東京都・NHKホールにて開催した。 ◆ライブ写真 5月11日(月)にグループからの卒業を報告した菅波美玲。卒業コンサート当日は菅波の過去のライブ映像を振り返るOvertureが流れ冒頭から会場がエモーショナルな雰囲気に包まれる中メンバーが登場すると、菅波は「最高の日にし",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "34e65967510f88ce",
-      "title": "M!LK、「MUSIC AWARDS JAPAN 2026」Grand Ceremony追加パフォーマンスアーティストに決定",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/music2/630712.html",
-      "publishedAt": "2026-06-13T02:45:46.000Z",
-      "summary": "国内最大規模の国際音楽賞「MUSIC AWARDS JAPAN 2026」が、6月13日にTOYOTA ARENA TOKYOで開催するGrand Ceremonyの追加パフォーマンスアーティストとして、M!LKの出演を発表した。「世界とつながり、音楽の未来を灯す」をコ ... The post M!LK、「MUSIC AWARDS JAPAN 2026」G",
       "groups": [
         "M!LK"
       ],
@@ -431,20 +611,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "30d944c4b9022854",
-      "title": "超特急の新曲「C’est la vie」今夜24時配信リリース、オープニング飾るTVアニメも直後に放送",
-      "sourceName": "Bezzy",
-      "sourceUrl": "https://bezzy.jp/feed/",
-      "articleUrl": "https://bezzy.jp/2026/04/84042/",
-      "publishedAt": "2026-04-07T11:00:00.000Z",
-      "summary": "9人組メインダンサー＆バックボーカルグループ・超特急が、5月13日(水)に発売する23rdシングル『ガチ夢中！』から新曲「C’est la vie」を4月8日(水)0時に先行配信リリースする。 本楽曲はTVアニメ『ただいま、おじゃまされます！』のオープニング主題歌で、優雅さの中に軽やかでポップなキュートさを詰め込んだラブソング。“C’est la vie（セ",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
     }
   ]
 }
