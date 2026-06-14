@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-06-14T11:10:32.022Z",
+  "updatedAt": "2026-06-14T17:03:23.455Z",
   "articles": [
+    {
+      "id": "ace3c8c3ed662595",
+      "title": "ONE N' ONLY初アリーナツアーのテーマ曲「INFERNO」をリリース",
+      "sourceName": "音楽ナタリー",
+      "sourceUrl": "https://natalie.mu/music/feed/news",
+      "articleUrl": "https://natalie.mu/music/news/676161",
+      "publishedAt": "2026-06-14T13:00:00.000Z",
+      "summary": "ONE N' ONLYの新曲「INFERNO」が6月29日に配信リリースされる。",
+      "groups": [
+        "ONE N' ONLY"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "de3ae10c82e0b1b5",
       "title": "ミセス、サカナクション、藤井 風、M!LK、HANA……写真で振り返る『MAJ2026』Grand Ceremonyで見せた豪華ステージ",
@@ -117,28 +131,6 @@
       ]
     },
     {
-      "id": "162aee65d13e5283",
-      "title": "M!LK「MAJ」で5冠！吉田仁人「トロフィーに滅しても大丈夫でしょうか？」",
-      "sourceName": "音楽ナタリー",
-      "sourceUrl": "https://natalie.mu/music/feed/news",
-      "articleUrl": "https://natalie.mu/music/news/676109",
-      "publishedAt": "2026-06-13T16:01:00.000Z",
-      "summary": "M!LKが、国内最大規模の国際音楽賞「MUSIC AWARDS JAPAN 2026」にて最優秀ボーイズアイドルカルチャーアーティスト賞など5つの賞を受賞。昨日6月13日に開催された授賞式に登壇後、囲み取材に応じた。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "01ba2c95a5bc2fbe",
       "title": "M!LK「MUSIC AWARDS JAPAN 2026」授賞式後に会見！佐野勇斗ファンへ思い溢れる",
       "sourceName": "Edge Line",
@@ -206,48 +198,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "4a42efa26e9cce8e",
-      "title": "ミセス、藤井風、King & Prince、M!LKら60組超が続々！「MAJ2026」レッドカーペットをフォトレポートで",
-      "sourceName": "音楽ナタリー",
-      "sourceUrl": "https://natalie.mu/music/feed/news",
-      "articleUrl": "https://natalie.mu/music/news/676096",
-      "publishedAt": "2026-06-13T14:10:00.000Z",
-      "summary": "本日6月13日に東京・TOYOTA ARENA TOKYOで国内最大規模の国際音楽賞「MUSIC AWARDS JAPAN 2026」のGrand Ceremony（主要部門授賞式）が開催され、開会を前に会場ではレッドカーペットアライバルが行われた。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "e0e529a588daf021",
-      "title": "【MUSIC AWARDS JAPAN】最優秀楽曲賞はサカナクション「怪獣」、山口一郎は「勇気をいただきました」",
-      "sourceName": "音楽ナタリー",
-      "sourceUrl": "https://natalie.mu/music/feed/news",
-      "articleUrl": "https://natalie.mu/music/news/676016",
-      "publishedAt": "2026-06-13T13:49:00.000Z",
-      "summary": "「MUSIC AWARDS JAPAN 2026」の授賞式にて、サカナクション「怪獣」が最優秀楽曲賞を受賞した。音楽アワード「MUSIC AWARDS JAPAN 2026」は本日6月13日に東京・TOYOTA ARENA TOKYOで行われており、最優秀楽曲賞にはほかに、HANA「Blue Jeans」、米津玄師「IRIS OUT」、アイナ・ジ・エンド「革",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "3bbb1d6465e4fcdd",
-      "title": "【MUSIC AWARDS JAPAN】M!LKが最優秀ボーイズアイドルカルチャーアーティスト賞",
-      "sourceName": "音楽ナタリー",
-      "sourceUrl": "https://natalie.mu/music/feed/news",
-      "articleUrl": "https://natalie.mu/music/news/676085",
-      "publishedAt": "2026-06-13T13:02:00.000Z",
-      "summary": "「MUSIC AWARDS JAPAN 2026」の授賞式にてM!LKが最優秀ボーイズアイドルカルチャーアーティスト賞を受賞した。国際音楽賞「MUSIC AWARDS JAPAN 2026」は本日6月13日に東京・TOYOTA ARENA TOKYOで行われており、最優秀ボーイズアイドルカルチャーアーティスト賞にはほかに、SixTONES、Snow Man、",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "150ec4e2d06c0493",
