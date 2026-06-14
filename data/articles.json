@@ -1,6 +1,121 @@
 {
-  "updatedAt": "2026-06-13T21:54:50.267Z",
+  "updatedAt": "2026-06-14T11:10:32.022Z",
   "articles": [
+    {
+      "id": "de3ae10c82e0b1b5",
+      "title": "ミセス、サカナクション、藤井 風、M!LK、HANA……写真で振り返る『MAJ2026』Grand Ceremonyで見せた豪華ステージ",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/06/post-2427296.html",
+      "publishedAt": "2026-06-14T05:47:57.000Z",
+      "summary": "6月13日、TOYOTA ARENA TOKYO他にて国内最大規模の国際音楽賞『MUSIC AWARDS JAPAN 2026』の授賞式が開催された。『MUSIC AWARDS JAPAN』は、「世界とつながり、音楽の",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "21b476a294e66caf",
+      "title": "FANTASTICS、MAZZEL、BUDDiiS、Lienel、BMSG TRAINEEがKアリーナ横浜で競演",
+      "sourceName": "音楽ナタリー",
+      "sourceUrl": "https://natalie.mu/music/feed/news",
+      "articleUrl": "https://natalie.mu/music/news/676103",
+      "publishedAt": "2026-06-14T01:00:00.000Z",
+      "summary": "ライブイベント「BEAT AX -SUMMER EDITION 2026-」が7月10日と12日に神奈川・Kアリーナ横浜で開催される。このうち7月10日に出演するアーティストが発表された。",
+      "groups": [
+        "BUDDiiS",
+        "Lienel"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "b8cf80406752c735",
+      "title": "NCT・YUTAが映画「仮面ライダーゼッツ」主題歌担当、M!LK曽野舜太が最恐の敵演じる予告公開",
+      "sourceName": "音楽ナタリー",
+      "sourceUrl": "https://natalie.mu/music/feed/news",
+      "articleUrl": "https://natalie.mu/music/news/676102",
+      "publishedAt": "2026-06-14T00:30:00.000Z",
+      "summary": "YUTA（NCT 127）が7月24日に公開される映画「仮面ライダーゼッツ さよならのミッション」の主題歌を担当することが発表された。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "曽野舜太",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "f2e20d306df53fcc",
+      "title": "M!LK「MUSIC AWARDS JAPAN 2026」Premiere CeremonyとGrand Ceremonyaで5賞！各スピーチ掲載で「滅！」",
+      "sourceName": "Edge Line",
+      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/199696",
+      "publishedAt": "2026-06-13T23:49:46.000Z",
+      "summary": "ダンスボーカルグループ『M!LK』の佐野勇斗、吉田仁人、塩﨑太智、山中柔太朗、曽野舜太が6月13日に東京・有明のTOKYO DREAM PARK内にあるSGCホールで国際音楽賞『MUSIC AWARDS JAPAN 2...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "塩﨑太智",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "曽野舜太",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "7d885099d3196ef2",
+      "title": "古川雄輝×長野凌大W主演ドラマ「普通の恋愛」、60秒予告映像と追加キャストが解禁！",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/tv/631282.html",
+      "publishedAt": "2026-06-13T22:30:18.000Z",
+      "summary": "古川雄輝と長野凌大がW主演を務める新ドラマ「普通の恋愛」が、2026年7月2日よりCBCテレビ「ドラマトリップ」枠、MBS、BS朝日、TOKYO MXで順次放送スタートする。同作は、SNS総フォロワー約40万人の漫画家・直正也が描くリアルBLコミックを実写ドラマ化した作 ... The post 古川雄輝×長野凌大W主演ドラマ「普通の恋愛」、60秒予告映像と",
+      "groups": [
+        "原因は自分にある。"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "長野凌大",
+          "group": "原因は自分にある。",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "162aee65d13e5283",
       "title": "M!LK「MAJ」で5冠！吉田仁人「トロフィーに滅しても大丈夫でしょうか？」",
@@ -177,24 +292,10 @@
       ]
     },
     {
-      "id": "006da92b88247b29",
-      "title": "Mrs. GREEN APPLE、『MUSIC AWARDS JAPAN 2026』Grand Ceremony第2部の開幕を飾るパフォーマンスアーティストとして緊急出演決定",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1071236",
-      "publishedAt": "2026-06-13T11:55:00.000Z",
-      "summary": "国内最大規模の国際音楽賞『MUSIC AWARDS JAPAN 2026』が本日6月13日、東京・TOYOTA ARENA TOKYO他にて開催中だ。同祭典の主要部門授賞式となるGrand Ceremonyの第2部の開幕を飾るパフォーマンスアーティストとして、Mrs. GREEN APPLEが出演することが急遽発表された。 『MUSIC AWARDS JAP",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
       "id": "7a53987a2202bf74",
       "title": "M!LK「好きすぎて滅!」が“カラオケで最も歌われたJ-Pop”に MAJ2026カラオケ特別賞",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260613-4576268/",
       "publishedAt": "2026-06-13T07:25:49.000Z",
       "summary": "M!LKの「好きすぎて滅！」が、MUSIC AWARDS JAPAN 2026(MAJ2026)の「カラオケ特別賞 カラオケ・オブ・ザ・イヤー powered by DAM ＆ JOYSOUND」J-Pop部門を受賞したことが13日、発表された。演歌・歌謡曲部門では、水森かおりの「大阪恋しずく」が受賞。“カラオケで最も歌われた楽曲”を表彰する同賞で、M!LK",
@@ -388,28 +489,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "67372363263a7f7f",
-      "title": "M!LK佐野勇斗のサービス精神がすごい 記者が感じた“ファンのみならず愛される”理由",
-      "sourceName": "マイナビニュース 映画",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
-      "articleUrl": "https://news.mynavi.jp/article/20260522-4482229/",
-      "publishedAt": "2026-05-22T11:00:00.000Z",
-      "summary": "俳優、そしてアイドルグループ・M!LKとしても存在感を示している佐野勇斗。18日に東京・池袋で行われた映画『トイ・ストーリー5』のイベントに登場し、同作の日本版声優を務めることを発表した。今回のレポートでは、そんなイベントで記者の目を引いた佐野の“サービス精神”あふれる姿を紹介する。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "8a2525e65219e9a6",
