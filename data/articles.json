@@ -1,25 +1,123 @@
 {
-  "updatedAt": "2026-06-16T18:22:12.234Z",
+  "updatedAt": "2026-06-17T13:04:30.853Z",
   "articles": [
     {
-      "id": "07ed595e7cfe2983",
-      "title": "Lienel「メロ・コレクション」パフォーマンスビデオ公開、“メロメロ”な振付はパワーパフボーイズ",
-      "sourceName": "音楽ナタリー",
-      "sourceUrl": "https://natalie.mu/music/feed/news",
-      "articleUrl": "https://natalie.mu/music/news/676438",
-      "publishedAt": "2026-06-16T12:00:00.000Z",
-      "summary": "Lienelの最新曲「メロ・コレクション」のパフォーマンスビデオがYouTubeで公開された。",
+      "id": "3b7b0194b0b496a5",
+      "title": "【写真特集66枚】ミセスは艶やか和装姿、中島健人はハート連発 キンプリ・M!LKら豪華アーティスト集結 「MAJ 2026」レッドカーペット",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260616-4585749/",
+      "publishedAt": "2026-06-17T12:00:00.000Z",
+      "summary": "国内最大規模の国際音楽賞「MUSIC AWARDS JAPAN 2026」(MAJ)のレッドカーペットが13日、東京・青海のTOYOTA ARENA TOKYOで開催され、3人組バンドのMrs. GREEN APPLEやKing & Prince、M!LKらアーティストが登場した。",
       "groups": [
-        "Lienel"
+        "M!LK"
       ],
       "statuses": [],
       "memberMatches": []
     },
     {
+      "id": "39644ce4d1a386d5",
+      "title": "NHK「ザ・バックヤード」動物大好き・超特急タカシが見つめる動物たちの本当の姿と街ぐるみの支え",
+      "sourceName": "音楽ナタリー",
+      "sourceUrl": "https://natalie.mu/music/feed/news",
+      "articleUrl": "https://natalie.mu/music/news/676603",
+      "publishedAt": "2026-06-17T11:30:00.000Z",
+      "summary": "本日6月17日22:00にNHK Eテレでオンエアされる「ザ・バックヤード 知の迷宮の裏側探訪」に、超特急のタカシこと松尾太陽が出演する。",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "タカシ",
+          "group": "超特急",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "e657c3b53c9be8b8",
+      "title": "白の山中柔太朗×黒の曽野舜太、対照的な2人が惹かれ合う運命歌う「真・運命」MV",
+      "sourceName": "音楽ナタリー",
+      "sourceUrl": "https://natalie.mu/music/feed/news",
+      "articleUrl": "https://natalie.mu/music/news/676621",
+      "publishedAt": "2026-06-17T11:00:00.000Z",
+      "summary": "M!LKの曽野舜太、山中柔太朗によるユニット曲「真・運命」（マジデスティニー）のミュージックビデオがYouTubeで公開された。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "曽野舜太",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "4286b1a3077348d3",
+      "title": "曽野舜太×山中柔太朗「真・運命」MV公開、2人がジャケ写衣装で対照的な美しさを魅せる",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/06/87889/",
+      "publishedAt": "2026-06-17T11:00:00.000Z",
+      "summary": "5人組ダンスボーカルグループ・M!LKの曽野舜太と山中柔太朗が、ユニット曲「真・運命」（マジ・デスティニー）のMusic Videoを公開した。 「真・運命」は、M!LKが展開中の新曲連続リリース企画「モー烈モー進！プロジェクト2026」の第二弾シングル。恋に落ちる瞬間の衝撃やどうしても抗えず惹かれ合っていく運命を描いた一曲で、誰もが耳にしたことのあるような",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "曽野舜太",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "4b8f376f8863c266",
+      "title": "超特急・髙松アロハ、「つまみは紅しょうが」にゲスト出演！ドラマ共演秘話や加入前のエピソード語る",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/tv/631881.html",
+      "publishedAt": "2026-06-17T04:00:42.000Z",
+      "summary": "超特急の髙松アロハが、6月20日（土）23時からBSよしもとで放送される「つまみは紅しょうが 男子～！宅飲みするからウチ来ぃや～！」にゲスト出演する。同番組は、紅しょうがの熊元プロレスと稲田美紀が、宅飲みスタイルで男子ゲストと食べて飲みながらトークを繰り広げる冠番組。今 ... The post 超特急・髙松アロハ、「つまみは紅しょうが」にゲスト出演！ドラマ",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "アロハ",
+          "group": "超特急",
+          "status": "active"
+        }
+      ]
+    },
+    {
       "id": "7f2e071e300a03d8",
       "title": "「僕たちが大事に歌い続けて…」M!LK吉田仁人、「好きすぎて滅!」大ヒットで“父親世代”からも反響",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260616-4584980/",
       "publishedAt": "2026-06-16T12:00:00.000Z",
       "summary": "5人組ボーカルダンスユニット・M!LKが13日、東京・TOYOTA ARENA TOKYOで開催された国際音楽賞「MUSIC AWARDS JAPAN 2026」(MAJ)で「カラオケ特別賞 カラオケ・オブ・ザ・イヤー powered by DAM ＆ JOYSOUND」J-POP部門を受賞。「好きすぎて滅!」大ヒットの反響を明かした。",
@@ -40,8 +138,8 @@
     {
       "id": "93a46becec3d0410",
       "title": "M!LK曽野舜太＆高橋成美、『小5クイズ』全問正解で1000万円獲得 高橋は再びの快挙",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
       "articleUrl": "https://news.mynavi.jp/article/20260616-4586722/",
       "publishedAt": "2026-06-16T12:00:00.000Z",
       "summary": "M!LKの曽野舜太とプロフィギュアスケーターの高橋成美が、16日に放送された日本テレビ系クイズ番組『クイズ! あなたは小学5年生より賢いの? 賞金1000万円SP』で全問正解を達成し、賞金1000万円を獲得した。高橋は、2024年1月5日の放送でも全問正解、賞金300万円を獲得しており、再びの快挙となった。",
@@ -60,113 +158,15 @@
       ]
     },
     {
-      "id": "342e5e54bf952b90",
-      "title": "『小5クイズ』M!LK曽野舜太・高橋成美ペアが賞金1000万円獲得 全問正解で小学生とハイタッチ",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1015572/",
-      "publishedAt": "2026-06-16T12:00:00.000Z",
-      "summary": "M!LK曽野舜太、元フィギュアスケーターでタレントの高橋成美が、16日に放送された日本テレビ系『クイズ！あなたは小学5年生より賢いの？賞金1000万円SP』で全問正解を達成し、賞金1000万円を獲得した。曽野は学習院大卒 […]",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "曽野舜太",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "6f9761bb8df57fa1",
-      "title": "Lienel、“メロすぎ”な振付に注目の「メロ・コレクション」のパフォーマンスビデオ公開",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1071674",
-      "publishedAt": "2026-06-16T12:00:00.000Z",
-      "summary": "Lienelが、メジャーデビューシングル「メロ・コレクション」のパフォーマンスビデオを公式YouTubeチャンネルにて公開した。 今作の振付を担当したのは、SEKAI NO OWARI「Habit」や、あの「ちゅ、多様性。」のコレオグラフィーも務め、ハッピーでキャッチーな振り付けで3人組ダンスグループ・パワーパフボーイズだ。「“メロい”と思われたいのに、空回",
-      "groups": [
-        "Lienel"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "芳賀柊斗",
-          "group": "Lienel",
-          "status": "active"
-        },
-        {
-          "name": "近藤駿太",
-          "group": "Lienel",
-          "status": "active"
-        },
-        {
-          "name": "高岡ミロ",
-          "group": "Lienel",
-          "status": "active"
-        },
-        {
-          "name": "森田璃空",
-          "group": "Lienel",
-          "status": "active"
-        },
-        {
-          "name": "武田創世",
-          "group": "Lienel",
-          "status": "active"
-        },
-        {
-          "name": "高桑真之",
-          "group": "Lienel",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "efd15421a5b63a08",
-      "title": "ももクロ、読売ジャイアンツ・田中将大投手の登場曲「SECOND ROUTE」配信記念のハイレゾDLキャンペーン開催決定",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1071677",
-      "publishedAt": "2026-06-16T12:00:00.000Z",
-      "summary": "ももいろクローバーZが、プロ野球の読売ジャイアンツ・田中将大投手の2026年シーズン登場曲である「SECOND ROUTE」の配信を記念して、「田中将大投手サイン入り野球ボール」「ももいろクローバーZメンバー別サイン入りカラーボール」が当たるダウンロードキャンペーンの開催を発表した。 このキャンペーンでは、キャンペーン期間中にレコチョク・moraでそれぞれ「",
-      "groups": [
-        "超特急",
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
       "id": "c6bbb5ed58e1671b",
       "title": "M!LK、GP帯初冠バラエティ決定! サプライズ発表の瞬間も公開『M!LKの爆裂ミッション』七夕放送",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
       "articleUrl": "https://news.mynavi.jp/article/20260616-4589546/",
       "publishedAt": "2026-06-16T07:04:20.000Z",
       "summary": "5人組ダンスボーカルグループ・M!LKが出演する冠バラエティ特番『M!LKの爆裂ミッション』(TBS系)が、7月7日(22:00～)に放送されることが決定した。",
       "groups": [
         "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "6c72016f0768d053",
-      "title": "Sakurashimeji、結成12周年記念生配信で新曲「スタンプ」配信リリースと8年ぶり2nd EP発売を発表",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/music2/631420.html",
-      "publishedAt": "2026-06-14T22:30:49.000Z",
-      "summary": "ギターデュオ・Sakurashimejiが2026年6月14日、結成12周年を迎え、同日に弾き語りライブを生配信した。後半にはファンクラブ限定配信で縁日をモチーフにした企画も実施し、ファンとともに記念日を盛り上げた。弾き語りライブの最後には、今夏開催される対バンツアー「 ... The post Sakurashimeji、結成12周年記念生配信で新曲「スタ",
-      "groups": [
-        "Sakurashimeji"
       ],
       "statuses": [],
       "memberMatches": []
@@ -203,28 +203,6 @@
         {
           "name": "佐野勇斗",
           "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "15f099fddfc605dc",
-      "title": "ついに8クール連続連ドラ出演! 草川拓弥に『ラストノート』プロデューサーが期待「きっと温かく愛おしいものとして届けてくださる」",
-      "sourceName": "マイナビニュース テレビ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-      "articleUrl": "https://news.mynavi.jp/article/20260612-4568759/",
-      "publishedAt": "2026-06-11T20:30:00.000Z",
-      "summary": "俳優・草川拓弥が、7月9日スタートのフジテレビ系ドラマ『ラストノート』(毎週木曜22:00～)に出演することが12日、発表された。現在放送中の『LOVED ONE』(フジテレビ)に続く出演で、8クール連続の連続ドラマ出演となる。",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "タクヤ",
-          "group": "超特急",
           "status": "active"
         }
       ]
