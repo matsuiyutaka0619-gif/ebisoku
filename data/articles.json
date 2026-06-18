@@ -1,36 +1,14 @@
 {
-  "updatedAt": "2026-06-17T23:11:42.063Z",
+  "updatedAt": "2026-06-18T12:35:27.292Z",
   "articles": [
     {
-      "id": "16b7ea6e6f1d5df1",
-      "title": "「入った瞬間合格顔」曽野舜太のスカウトされた当時にネット衝撃「二重幅スゲェ」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1016170/",
-      "publishedAt": "2026-06-17T22:50:00.000Z",
-      "summary": "ダンスボーカルユニットM!LKの最年少メンバーの曽野舜太（24）が17日までにXを更新し、スカウトされた当時を紹介し、100万インプレッションを超える注目が集まっている。100万インプレッションを超える注目 ダンスボー […]",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "曽野舜太",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "7a3f6217867d3b78",
-      "title": "井上和＆松井ケムリが『トイ・ストーリー5』新キャラ声優に M!LK佐野勇斗と“テックトリオ”…本編シーンも解禁",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1016066/",
-      "publishedAt": "2026-06-17T21:00:00.000Z",
-      "summary": "アイドルグループ・乃木坂46の井上和と、お笑いコンビ・令和ロマンの松井ケムリが、7月3日に公開されるディズニー＆ピクサー映画『トイ・ストーリー5』で、新キャラクターの日本版声優として出演することが18日、発表された。スナ […]",
+      "id": "9330b189e58ee53f",
+      "title": "「あれは泣けるよ」「本当によかった」「ヤバい」両親が大絶賛した、M!LK佐野勇斗の出演ドラマとは",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260618-4589781/",
+      "publishedAt": "2026-06-18T10:00:00.000Z",
+      "summary": "「役になり切るからすごい」5人組ダンスボーカルグループ・M!LKの佐野勇斗の両親が、“息子”の出演作について熱弁した――。",
       "groups": [
         "M!LK"
       ],
@@ -70,8 +48,8 @@
     {
       "id": "3b7b0194b0b496a5",
       "title": "【写真特集66枚】ミセスは艶やか和装姿、中島健人はハート連発 キンプリ・M!LKら豪華アーティスト集結 「MAJ 2026」レッドカーペット",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260616-4585749/",
       "publishedAt": "2026-06-17T12:00:00.000Z",
       "summary": "国内最大規模の国際音楽賞「MUSIC AWARDS JAPAN 2026」(MAJ)のレッドカーペットが13日、東京・青海のTOYOTA ARENA TOKYOで開催され、3人組バンドのMrs. GREEN APPLEやKing & Prince、M!LKらアーティストが登場した。",
@@ -80,55 +58,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "39644ce4d1a386d5",
-      "title": "NHK「ザ・バックヤード」動物大好き・超特急タカシが見つめる動物たちの本当の姿と街ぐるみの支え",
-      "sourceName": "音楽ナタリー",
-      "sourceUrl": "https://natalie.mu/music/feed/news",
-      "articleUrl": "https://natalie.mu/music/news/676603",
-      "publishedAt": "2026-06-17T11:30:00.000Z",
-      "summary": "本日6月17日22:00にNHK Eテレでオンエアされる「ザ・バックヤード 知の迷宮の裏側探訪」に、超特急のタカシこと松尾太陽が出演する。",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "タカシ",
-          "group": "超特急",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "e657c3b53c9be8b8",
-      "title": "白の山中柔太朗×黒の曽野舜太、対照的な2人が惹かれ合う運命歌う「真・運命」MV",
-      "sourceName": "音楽ナタリー",
-      "sourceUrl": "https://natalie.mu/music/feed/news",
-      "articleUrl": "https://natalie.mu/music/news/676621",
-      "publishedAt": "2026-06-17T11:00:00.000Z",
-      "summary": "M!LKの曽野舜太、山中柔太朗によるユニット曲「真・運命」（マジデスティニー）のミュージックビデオがYouTubeで公開された。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "曽野舜太",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "山中柔太朗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "4286b1a3077348d3",
