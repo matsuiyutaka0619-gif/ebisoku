@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-06-18T12:35:27.292Z",
+  "updatedAt": "2026-06-19T00:13:46.387Z",
   "articles": [
+    {
+      "id": "9ab328a514dd9697",
+      "title": "超特急・髙松アロハが教師役で新ドラマ「名探偵のままでいて」出演！吉川愛、綱啓永と三角関係に",
+      "sourceName": "音楽ナタリー",
+      "sourceUrl": "https://natalie.mu/music/feed/news",
+      "articleUrl": "https://natalie.mu/music/news/676820",
+      "publishedAt": "2026-06-18T20:30:00.000Z",
+      "summary": "超特急の髙松アロハが、7月17日より放送されるテレビ朝日系連続ドラマ「名探偵のままでいて」に出演する。",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "アロハ",
+          "group": "超特急",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "9330b189e58ee53f",
       "title": "「あれは泣けるよ」「本当によかった」「ヤバい」両親が大絶賛した、M!LK佐野勇斗の出演ドラマとは",
