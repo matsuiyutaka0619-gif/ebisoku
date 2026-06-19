@@ -1,36 +1,86 @@
 {
-  "updatedAt": "2026-06-19T00:13:46.387Z",
+  "updatedAt": "2026-06-19T13:01:55.142Z",
   "articles": [
     {
-      "id": "9ab328a514dd9697",
-      "title": "超特急・髙松アロハが教師役で新ドラマ「名探偵のままでいて」出演！吉川愛、綱啓永と三角関係に",
-      "sourceName": "音楽ナタリー",
-      "sourceUrl": "https://natalie.mu/music/feed/news",
-      "articleUrl": "https://natalie.mu/music/news/676820",
-      "publishedAt": "2026-06-18T20:30:00.000Z",
-      "summary": "超特急の髙松アロハが、7月17日より放送されるテレビ朝日系連続ドラマ「名探偵のままでいて」に出演する。",
+      "id": "ddcca2b9f308a500",
+      "title": "「素敵すぎて滅」「プラベで言うのって…」M!LK山中柔太朗、“悩まない”理由にファン感動",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260619-4591366/",
+      "publishedAt": "2026-06-19T13:00:00.000Z",
+      "summary": "「それが楽しいから……」アイドルグループ・M!LKの山中柔太朗が、悩まない理由を明かした――。",
       "groups": [
-        "超特急"
+        "M!LK"
       ],
       "statuses": [
         "active"
       ],
       "memberMatches": [
         {
-          "name": "アロハ",
-          "group": "超特急",
+          "name": "山中柔太朗",
+          "group": "M!LK",
           "status": "active"
         }
       ]
     },
     {
-      "id": "9330b189e58ee53f",
-      "title": "「あれは泣けるよ」「本当によかった」「ヤバい」両親が大絶賛した、M!LK佐野勇斗の出演ドラマとは",
+      "id": "2529895e93a19184",
+      "title": "沢村玲、胸キュンシーンを“エアで個人練習”していた 岡本夏美が明かした爆笑の撮影舞台裏",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1016902/",
+      "publishedAt": "2026-06-19T11:31:25.000Z",
+      "summary": "俳優の岡本夏美が19日、都内で行われたMBS連続ドラマ『今から、親友やめようか。』（6月25日放送スタート）の1話先行試写＆完成披露トークイベントに、岡本と共にダブル主演を務める沢村玲（ONE N’ ONLY […]",
+      "groups": [
+        "ONE N' ONLY"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "REI",
+          "group": "ONE N' ONLY",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "cd6cc109c9b32e9c",
+      "title": "M!LK、グループ初となるミニアルバムリリース 初回生産限定ソロ盤含む全7形態をラインナップ",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/06/post-2434052.html",
+      "publishedAt": "2026-06-19T11:00:31.000Z",
+      "summary": "M!LKが、グループ初となるミニアルバムを9月16日にリリースする。 本情報は、本日6月19日に東京 LINE CUBE SHIBUYAで開催された『み！るきーず感謝祭2026 〜爆裂ホームパーティー〜』のステージ上",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "7bfc04779f1de6bc",
+      "title": "M!LK初のミニアルバムリリース、メンバーソロ盤にユニット曲収録",
+      "sourceName": "音楽ナタリー",
+      "sourceUrl": "https://natalie.mu/music/feed/news",
+      "articleUrl": "https://natalie.mu/music/news/676994",
+      "publishedAt": "2026-06-19T11:00:00.000Z",
+      "summary": "M!LK初のミニアルバム（タイトル未定）が9月16日にCDリリースされることが決定した。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "da7748ae03571b85",
+      "title": "「ここ1～2カ月の変わりようがすごい」「バラエティスターになる」佐野勇斗、一番“変わった”と思うM!LKメンバー明かす",
       "sourceName": "マイナビニュース エンタメ",
       "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-      "articleUrl": "https://news.mynavi.jp/article/20260618-4589781/",
-      "publishedAt": "2026-06-18T10:00:00.000Z",
-      "summary": "「役になり切るからすごい」5人組ダンスボーカルグループ・M!LKの佐野勇斗の両親が、“息子”の出演作について熱弁した――。",
+      "articleUrl": "https://news.mynavi.jp/article/20260619-4595559/",
+      "publishedAt": "2026-06-19T11:00:00.000Z",
+      "summary": "「天性の才能に近いものがある」アイドルグループ・M!LKの佐野勇斗が、最近変わったと思うメンバーについて語った――。",
       "groups": [
         "M!LK"
       ],
@@ -41,6 +91,275 @@
         {
           "name": "佐野勇斗",
           "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "639f894c1ae76067",
+      "title": "SUPER★DRAGON飯島颯「猫が『ご飯をくれ！』と…」仕事がない日も朝8時起床、規則正しい私生活明かす",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260619-4604252/",
+      "publishedAt": "2026-06-19T11:00:00.000Z",
+      "summary": "鞘師里保がパーソナリティをつとめるTOKYO FMのラジオ番組「鞘師里保のライフアップ・チョイス supported by マイベスト」（毎週土曜9:30～9:55）。 6月のマンスリーゲストは、9人組進化系ミクスチャーユニット・SUPER★DRAGON（スーパードラゴン／通称：スパドラ）から飯島颯さんと伊藤壮吾さん。6月6日（土）の放送では、お二人のモーニ",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "飯島颯",
+          "group": "SUPER★DRAGON",
+          "status": "active"
+        },
+        {
+          "name": "伊藤壮吾",
+          "group": "SUPER★DRAGON",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "3802b0b8c00ef3ef",
+      "title": "M!LK、＜み！るきーず感謝祭2026＞で初のミニアルバムリリースをサプライズ発表",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1072853",
+      "publishedAt": "2026-06-19T11:00:00.000Z",
+      "summary": "M!LKが、9月16日にグループ初となる1stミニアルバムをリリースすることを発表した。 本日、東京・LINE CUBE SHIBUYAで開催された＜み！るきーず感謝祭2026 〜爆裂ホームパーティー〜＞のステージ上で、M!LKが1stミニアルバムのリリースをファンに向けてサプライズ発表した。メジャー8thシングル「爆裂愛してる / 好きすぎて滅！」以来、約",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "塩﨑太智",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "曽野舜太",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "acc28d47453a073a",
+      "title": "M!LKが初ミニアルバムを9月16日リリース、全7形態のほかFC限定アクスタ付きセットも販売",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/06/87977/",
+      "publishedAt": "2026-06-19T11:00:00.000Z",
+      "summary": "5人組ダンスボーカルグループ・M!LKが、グループ初となる1st Mini Albumを9月16日(水)にリリースすることを発表した。 本日6月19日(金)、M!LKは東京・LINE CUBE SHIBUYAにてファンクラブイベント「み！るきーず感謝祭2026 〜爆裂ホームパーティー〜」を開催。そのステージ上でメンバー自らファンにサプライズ発表した今回のミニ",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "b600002de5f6686f",
+      "title": "M!LK佐野勇斗が「東京カレンダー」表紙に登場、日向坂46藤嶌果歩は串に刺さない焼き鳥を初体験",
+      "sourceName": "音楽ナタリー",
+      "sourceUrl": "https://natalie.mu/music/feed/news",
+      "articleUrl": "https://natalie.mu/music/news/676998",
+      "publishedAt": "2026-06-19T10:56:00.000Z",
+      "summary": "本日6月19日発売の「東京カレンダー」8月号特別増刊の表紙を、M!LKの佐野勇斗が飾っている。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "9e0edd9a0788b1e7",
+      "title": "福山雅治「蛍」、人気BLマンガ原作のドラマ「君は夏のなか」主題歌に決定 主演は奥智哉＆杢代和人",
+      "sourceName": "音楽ナタリー",
+      "sourceUrl": "https://natalie.mu/music/feed/news",
+      "articleUrl": "https://natalie.mu/music/news/676961",
+      "publishedAt": "2026-06-19T10:24:00.000Z",
+      "summary": "7月1日に放送開始する奥智哉と杢代和人（原因は自分にある）のダブル主演ドラマ「君は夏のなか」の主題歌に決定した。",
+      "groups": [
+        "原因は自分にある。"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "杢代和人",
+          "group": "原因は自分にある。",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "af58c7bd07072d94",
+      "title": "M!LK佐野勇斗、メンバー5人での温泉オフショ 「50年後も一緒に温泉入ろうなぁー」",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/06/post-2434242.html",
+      "publishedAt": "2026-06-19T09:10:06.000Z",
+      "summary": "M!LKの佐野勇斗の公式Instagramが更新され、メンバー5人で温泉を楽しむオフショットが公開された。 投稿された写真には、夜の露天風呂につかる佐野勇斗、塩﨑太智、吉田仁人、山中柔太朗、曽野舜太の姿が収められてい",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "塩﨑太智",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "曽野舜太",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "ae82c62c3229e933",
+      "title": "M!LK『JUNON』8月号登場！アイドルとしてのモットーや「僕のアイドルはミッキーです」なメンバー",
+      "sourceName": "Edge Line",
+      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/200139",
+      "publishedAt": "2026-06-19T08:00:05.000Z",
+      "summary": "ダンスボーカルグループ『M!LK』の佐野勇斗、吉田仁人、塩﨑太智、山中柔太朗、曽野舜太が6月22日発売の『JUNON』（主婦と生活社）8月号に出演していることが6月19日に発表となった。 8月号では、特集『今こそ！ ...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "塩﨑太智",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "曽野舜太",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "0a09e78003427859",
+      "title": "SUPER★DRAGON、初の冠番組『スパドラ★クエスト』決定 自己PR対決で個性爆発＆新曲披露",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260619-4603266/",
+      "publishedAt": "2026-06-19T07:11:19.000Z",
+      "summary": "スターダストプロモーション所属の9人組進化系ミクスチャーユニット・SUPER★DRAGON初の冠番組『スパドラ★クエスト』(毎週土曜25:45～、全24回予定)が、7月11日(25:50～)にフジテレビでスタートする。",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "4388826dee947d6d",
+      "title": "岡本夏美×沢村玲、“親友”から一線を越える2人に 『今から、親友やめようか。』FOD独占見放題配信",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
+      "articleUrl": "https://news.mynavi.jp/article/20260619-4602437/",
+      "publishedAt": "2026-06-19T05:30:00.000Z",
+      "summary": "「俺で試してみる?」――岡本夏美と沢村玲(ONE N' ONLY)がW主演を務めるMBSのドラマ『今から、親友やめようか。』が、25日25時59分からフジテレビの動画配信サービス・FODで独占見放題配信される(毎週木曜深夜最新話配信)。大学時代からの親友で職場の同僚でもある2人が、ある出来事をきっかけに“友情”と“恋愛”の狭間で揺れ動いていく。",
+      "groups": [
+        "ONE N' ONLY"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "REI",
+          "group": "ONE N' ONLY",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "1ef4fe189f2a27a8",
+      "title": "「好き」の先にある現実と日常を描く…古川雄輝×長野凌大で実写化『普通の恋愛』FOD独占配信",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
+      "articleUrl": "https://news.mynavi.jp/article/20260619-4602500/",
+      "publishedAt": "2026-06-19T05:00:00.000Z",
+      "summary": "「引かないっすよ。絶対に」――古川雄輝と長野凌大(原因は自分にある。)がW主演を務めるCBCテレビのドラマ『普通の恋愛』が、7月2日25時30分からフジテレビの動画配信サービス・FODで独占配信される(毎週木曜深夜最新話配信)。会社では上司と部下の関係である一良と慶伊が、過去の恋愛や家族への告白、12歳差と同性であることへの不安に向き合いながら、“普通”とは",
+      "groups": [
+        "原因は自分にある。"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "長野凌大",
+          "group": "原因は自分にある。",
           "status": "active"
         }
       ]
@@ -109,28 +428,6 @@
       ]
     },
     {
-      "id": "4b8f376f8863c266",
-      "title": "超特急・髙松アロハ、「つまみは紅しょうが」にゲスト出演！ドラマ共演秘話や加入前のエピソード語る",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/tv/631881.html",
-      "publishedAt": "2026-06-17T04:00:42.000Z",
-      "summary": "超特急の髙松アロハが、6月20日（土）23時からBSよしもとで放送される「つまみは紅しょうが 男子～！宅飲みするからウチ来ぃや～！」にゲスト出演する。同番組は、紅しょうがの熊元プロレスと稲田美紀が、宅飲みスタイルで男子ゲストと食べて飲みながらトークを繰り広げる冠番組。今 ... The post 超特急・髙松アロハ、「つまみは紅しょうが」にゲスト出演！ドラマ",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "アロハ",
-          "group": "超特急",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "7f2e071e300a03d8",
       "title": "「僕たちが大事に歌い続けて…」M!LK吉田仁人、「好きすぎて滅!」大ヒットで“父親世代”からも反響",
       "sourceName": "マイナビニュース 芸能",
@@ -182,20 +479,6 @@
       "articleUrl": "https://news.mynavi.jp/article/20260616-4589546/",
       "publishedAt": "2026-06-16T07:04:20.000Z",
       "summary": "5人組ダンスボーカルグループ・M!LKが出演する冠バラエティ特番『M!LKの爆裂ミッション』(TBS系)が、7月7日(22:00～)に放送されることが決定した。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "7a53987a2202bf74",
-      "title": "M!LK「好きすぎて滅!」が“カラオケで最も歌われたJ-Pop”に MAJ2026カラオケ特別賞",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260613-4576268/",
-      "publishedAt": "2026-06-13T07:25:49.000Z",
-      "summary": "M!LKの「好きすぎて滅！」が、MUSIC AWARDS JAPAN 2026(MAJ2026)の「カラオケ特別賞 カラオケ・オブ・ザ・イヤー powered by DAM ＆ JOYSOUND」J-Pop部門を受賞したことが13日、発表された。演歌・歌謡曲部門では、水森かおりの「大阪恋しずく」が受賞。“カラオケで最も歌われた楽曲”を表彰する同賞で、M!LK",
       "groups": [
         "M!LK"
       ],
