@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2026-06-19T22:12:42.188Z",
+  "updatedAt": "2026-06-20T10:21:31.169Z",
   "articles": [
+    {
+      "id": "423eba31b8e11d2f",
+      "title": "「業界でも有名になっているぐらい…」M!LK佐野勇斗、ファンにも知られていない“意外な一面”を告白",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260620-4598292/",
+      "publishedAt": "2026-06-20T10:00:00.000Z",
+      "summary": "「多くのファンの方は知らない気がする」アイドルグループ・M!LKの佐野勇斗が、自身の“意外な一面”を明かした――。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "bd5b86bb17687fcd",
+      "title": "M!LK、超特急に続き“俳優”としてもブレイクへ 原因は自分にある。がドラマ界で躍進する理由",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/06/post-2434200.html",
+      "publishedAt": "2026-06-19T22:30:28.000Z",
+      "summary": "2025年末の『NHK紅白歌合戦』出場を皮切りに、その後も音楽番組のみならず、バラエティ番組、そしてドラマや映画、舞台などといったお芝居の分野においても勢いが止まらないグループといえばM!LKである。M!LKといえば、",
+      "groups": [
+        "超特急",
+        "M!LK",
+        "原因は自分にある。"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "5baf527d5fb62560",
       "title": "トラジャ宮近、STARGLOWカノン、ICEx筒井ら「サクヒム」でマイケル・ジャクソンを語り尽くす",
@@ -24,104 +62,10 @@
       ]
     },
     {
-      "id": "ddcca2b9f308a500",
-      "title": "「素敵すぎて滅」「プラベで言うのって…」M!LK山中柔太朗、“悩まない”理由にファン感動",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-      "articleUrl": "https://news.mynavi.jp/article/20260619-4591366/",
-      "publishedAt": "2026-06-19T13:00:00.000Z",
-      "summary": "「それが楽しいから……」アイドルグループ・M!LKの山中柔太朗が、悩まない理由を明かした――。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "山中柔太朗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "2529895e93a19184",
-      "title": "沢村玲、胸キュンシーンを“エアで個人練習”していた 岡本夏美が明かした爆笑の撮影舞台裏",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1016902/",
-      "publishedAt": "2026-06-19T11:31:25.000Z",
-      "summary": "俳優の岡本夏美が19日、都内で行われたMBS連続ドラマ『今から、親友やめようか。』（6月25日放送スタート）の1話先行試写＆完成披露トークイベントに、岡本と共にダブル主演を務める沢村玲（ONE N’ ONLY […]",
-      "groups": [
-        "ONE N' ONLY"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "REI",
-          "group": "ONE N' ONLY",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "cd6cc109c9b32e9c",
-      "title": "M!LK、グループ初となるミニアルバムリリース 初回生産限定ソロ盤含む全7形態をラインナップ",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/06/post-2434052.html",
-      "publishedAt": "2026-06-19T11:00:31.000Z",
-      "summary": "M!LKが、グループ初となるミニアルバムを9月16日にリリースする。 本情報は、本日6月19日に東京 LINE CUBE SHIBUYAで開催された『み！るきーず感謝祭2026 〜爆裂ホームパーティー〜』のステージ上",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "7bfc04779f1de6bc",
-      "title": "M!LK初のミニアルバムリリース、メンバーソロ盤にユニット曲収録",
-      "sourceName": "音楽ナタリー",
-      "sourceUrl": "https://natalie.mu/music/feed/news",
-      "articleUrl": "https://natalie.mu/music/news/676994",
-      "publishedAt": "2026-06-19T11:00:00.000Z",
-      "summary": "M!LK初のミニアルバム（タイトル未定）が9月16日にCDリリースされることが決定した。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "da7748ae03571b85",
-      "title": "「ここ1～2カ月の変わりようがすごい」「バラエティスターになる」佐野勇斗、一番“変わった”と思うM!LKメンバー明かす",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-      "articleUrl": "https://news.mynavi.jp/article/20260619-4595559/",
-      "publishedAt": "2026-06-19T11:00:00.000Z",
-      "summary": "「天性の才能に近いものがある」アイドルグループ・M!LKの佐野勇斗が、最近変わったと思うメンバーについて語った――。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "639f894c1ae76067",
       "title": "SUPER★DRAGON飯島颯「猫が『ご飯をくれ！』と…」仕事がない日も朝8時起床、規則正しい私生活明かす",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260619-4604252/",
       "publishedAt": "2026-06-19T11:00:00.000Z",
       "summary": "鞘師里保がパーソナリティをつとめるTOKYO FMのラジオ番組「鞘師里保のライフアップ・チョイス supported by マイベスト」（毎週土曜9:30～9:55）。 6月のマンスリーゲストは、9人組進化系ミクスチャーユニット・SUPER★DRAGON（スーパードラゴン／通称：スパドラ）から飯島颯さんと伊藤壮吾さん。6月6日（土）の放送では、お二人のモーニ",
@@ -157,28 +101,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "b600002de5f6686f",
-      "title": "M!LK佐野勇斗が「東京カレンダー」表紙に登場、日向坂46藤嶌果歩は串に刺さない焼き鳥を初体験",
-      "sourceName": "音楽ナタリー",
-      "sourceUrl": "https://natalie.mu/music/feed/news",
-      "articleUrl": "https://natalie.mu/music/news/676998",
-      "publishedAt": "2026-06-19T10:56:00.000Z",
-      "summary": "本日6月19日発売の「東京カレンダー」8月号特別増刊の表紙を、M!LKの佐野勇斗が飾っている。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "ae82c62c3229e933",
@@ -364,42 +286,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "93a46becec3d0410",
-      "title": "M!LK曽野舜太＆高橋成美、『小5クイズ』全問正解で1000万円獲得 高橋は再びの快挙",
-      "sourceName": "マイナビニュース テレビ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-      "articleUrl": "https://news.mynavi.jp/article/20260616-4586722/",
-      "publishedAt": "2026-06-16T12:00:00.000Z",
-      "summary": "M!LKの曽野舜太とプロフィギュアスケーターの高橋成美が、16日に放送された日本テレビ系クイズ番組『クイズ! あなたは小学5年生より賢いの? 賞金1000万円SP』で全問正解を達成し、賞金1000万円を獲得した。高橋は、2024年1月5日の放送でも全問正解、賞金300万円を獲得しており、再びの快挙となった。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "曽野舜太",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "c6bbb5ed58e1671b",
-      "title": "M!LK、GP帯初冠バラエティ決定! サプライズ発表の瞬間も公開『M!LKの爆裂ミッション』七夕放送",
-      "sourceName": "マイナビニュース テレビ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-      "articleUrl": "https://news.mynavi.jp/article/20260616-4589546/",
-      "publishedAt": "2026-06-16T07:04:20.000Z",
-      "summary": "5人組ダンスボーカルグループ・M!LKが出演する冠バラエティ特番『M!LKの爆裂ミッション』(TBS系)が、7月7日(22:00～)に放送されることが決定した。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "4f92d7c954397bf5",
