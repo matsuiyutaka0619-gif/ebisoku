@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-06-20T10:21:31.169Z",
+  "updatedAt": "2026-06-20T17:09:59.763Z",
   "articles": [
+    {
+      "id": "cba5cf06aadc1613",
+      "title": "Caramel’s Guitar Kitchen、24ヶ月連続プロト新作はEarly Milk Paint_CountryBlue",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1073314",
+      "publishedAt": "2026-06-20T13:46:17.000Z",
+      "summary": "24ヶ月連続で新作プロト・ギターをリリースしているCaramel’s Guitar Kitchen（キャラメルズ・ギター・キッチン）の第18弾モデルとなる『CGK_PT18_ Early Milk Paint_CountryBlue（アーリー・ミルク・ペイント・カントリーブルー）』が発表された。 今回のギターは先月発売した第17弾の続編となるモデルで、ソリッ",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "c8297259fc2fc41c",
+      "title": "鞘師里保「必死に頑張っていた青春時代の自分を思い出させてくれるような」SUPER★DRAGONの新曲を絶賛",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260620-4608386/",
+      "publishedAt": "2026-06-20T11:00:00.000Z",
+      "summary": "鞘師里保がパーソナリティをつとめるTOKYO FMのラジオ番組「鞘師里保のライフアップ・チョイス supported by マイベスト」（毎週土曜9:30～9:55）。 6月のマンスリーゲストは、9人組進化系ミクスチャーユニット・SUPER★DRAGON（スーパードラゴン／通称：スパドラ）から飯島颯さんと伊藤壮吾さん。 6月6日（土）の放送では、7月15日（",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "飯島颯",
+          "group": "SUPER★DRAGON",
+          "status": "active"
+        },
+        {
+          "name": "伊藤壮吾",
+          "group": "SUPER★DRAGON",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "423eba31b8e11d2f",
       "title": "「業界でも有名になっているぐらい…」M!LK佐野勇斗、ファンにも知られていない“意外な一面”を告白",
@@ -38,28 +79,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "5baf527d5fb62560",
-      "title": "トラジャ宮近、STARGLOWカノン、ICEx筒井ら「サクヒム」でマイケル・ジャクソンを語り尽くす",
-      "sourceName": "音楽ナタリー",
-      "sourceUrl": "https://natalie.mu/music/feed/news",
-      "articleUrl": "https://natalie.mu/music/news/677023",
-      "publishedAt": "2026-06-19T21:00:00.000Z",
-      "summary": "本日6月20日23:30より放送される日本テレビ系「サクサクヒムヒム ☆推しの降る夜☆」に宮近海斗（Travis Japan）、KANON（STARGLOW）、筒井俊旭（ICEx）、kazuki（s**t kingz）、ARATAが出演する。",
-      "groups": [
-        "ICEx"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "筒井俊旭",
-          "group": "ICEx",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "639f894c1ae76067",
@@ -101,48 +120,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "ae82c62c3229e933",
-      "title": "M!LK『JUNON』8月号登場！アイドルとしてのモットーや「僕のアイドルはミッキーです」なメンバー",
-      "sourceName": "Edge Line",
-      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/200139",
-      "publishedAt": "2026-06-19T08:00:05.000Z",
-      "summary": "ダンスボーカルグループ『M!LK』の佐野勇斗、吉田仁人、塩﨑太智、山中柔太朗、曽野舜太が6月22日発売の『JUNON』（主婦と生活社）8月号に出演していることが6月19日に発表となった。 8月号では、特集『今こそ！ ...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "塩﨑太智",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "曽野舜太",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "山中柔太朗",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "0a09e78003427859",
