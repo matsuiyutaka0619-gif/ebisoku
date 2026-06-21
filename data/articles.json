@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-06-21T17:13:46.633Z",
+  "updatedAt": "2026-06-21T22:45:50.428Z",
   "articles": [
+    {
+      "id": "17e61d65ac09fc1a",
+      "title": "「TOKYO MER」劇場版3作目に中条あやみ、M!LK佐野勇斗、SixTONESジェシーが帰ってくる",
+      "sourceName": "音楽ナタリー",
+      "sourceUrl": "https://natalie.mu/music/feed/news",
+      "articleUrl": "https://natalie.mu/music/news/677184",
+      "publishedAt": "2026-06-21T22:00:00.000Z",
+      "summary": "8月21日に公開される鈴木亮平主演の「TOKYO MER」シリーズの劇場版「TOKYO MER～走る緊急救命室～CAPITAL CRISIS」にオリジナルメンバーの中条あやみ、佐野勇斗（M!LK）、ジェシー（SixTONES）が出演。中条は大阪MER、佐野は名古屋MER、ジェシーは札幌MERのメンバーとしてシリーズに帰ってくる。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "c7776f3e68f7a654",
       "title": "リョウガ×ユーキ×橘柊生はAIに勝てるのか…「ハイドアウト404」Vol.7も盛況、人気ゲームの“復刻”も",
