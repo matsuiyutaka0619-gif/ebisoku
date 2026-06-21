@@ -1,19 +1,73 @@
 {
-  "updatedAt": "2026-06-21T11:34:39.276Z",
+  "updatedAt": "2026-06-21T17:13:46.633Z",
   "articles": [
     {
-      "id": "2379552b80ccb24a",
-      "title": "ONE N' ONLY「Beast Mode」ダンスパフォーマンス映像公開、クランプで闘争心を表現",
+      "id": "c7776f3e68f7a654",
+      "title": "リョウガ×ユーキ×橘柊生はAIに勝てるのか…「ハイドアウト404」Vol.7も盛況、人気ゲームの“復刻”も",
       "sourceName": "音楽ナタリー",
       "sourceUrl": "https://natalie.mu/music/feed/news",
-      "articleUrl": "https://natalie.mu/music/news/677139",
-      "publishedAt": "2026-06-21T03:10:00.000Z",
-      "summary": "ONE N' ONLYの楽曲「Beast Mode」のダンスパフォーマンス映像がYouTubeでプレミア公開された。",
+      "articleUrl": "https://natalie.mu/music/news/677127",
+      "publishedAt": "2026-06-21T13:21:00.000Z",
+      "summary": "超特急のリョウガとユーキ、DISH//の橘柊生が、6月14日に東京・ニッショーホールで行われたゲームイベント「ハイドアウト404 Vol.7」に出演した。",
       "groups": [
-        "ONE N' ONLY"
+        "超特急"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "リョウガ",
+          "group": "超特急",
+          "status": "active"
+        },
+        {
+          "name": "ユーキ",
+          "group": "超特急",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "27270db0cf5ec31d",
+      "title": "Lienel次のツアーは「ロマンティック・シンドローーム!!!!!!」秋に東名阪で6公演",
+      "sourceName": "音楽ナタリー",
+      "sourceUrl": "https://natalie.mu/music/feed/news",
+      "articleUrl": "https://natalie.mu/music/news/677185",
+      "publishedAt": "2026-06-21T11:44:00.000Z",
+      "summary": "Lienelが9月から11月にかけて東名阪ツアー「Lienel 6th Live Tour 2026『ロマンティック・シンドローーム!!!!!!』」を開催することが決定した。",
+      "groups": [
+        "Lienel"
       ],
       "statuses": [],
       "memberMatches": []
+    },
+    {
+      "id": "e9381474a4c9cb88",
+      "title": "実はガチの鉄道オタク!? スパドラ伊藤壮吾「12月から3月にかけてはもうバタバタ」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260621-4612369/",
+      "publishedAt": "2026-06-21T11:00:00.000Z",
+      "summary": "鞘師里保がパーソナリティをつとめるTOKYO FMのラジオ番組「鞘師里保のライフアップ・チョイス supported by マイベスト」（毎週土曜9:30～9:55）。 6月のマンスリーゲストは、9人組進化系ミクスチャーユニット・SUPER★DRAGON（スーパードラゴン／通称：スパドラ）から飯島颯さんと伊藤壮吾さん。 6月6日（土）の放送では、2人のプライ",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "飯島颯",
+          "group": "SUPER★DRAGON",
+          "status": "active"
+        },
+        {
+          "name": "伊藤壮吾",
+          "group": "SUPER★DRAGON",
+          "status": "active"
+        }
+      ]
     },
     {
       "id": "c8297259fc2fc41c",
