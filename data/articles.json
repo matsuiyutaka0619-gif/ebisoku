@@ -1,24 +1,56 @@
 {
-  "updatedAt": "2026-06-22T18:06:00.135Z",
+  "updatedAt": "2026-06-22T23:07:22.399Z",
   "articles": [
     {
-      "id": "85938ae907ff0a64",
-      "title": "奥智哉「エモエモなエネルギーを全身で感じてもらえたら」杢代和人とＷ主演、人気BL漫画ドラマ化",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202606220001620.html",
-      "publishedAt": "2026-06-22T13:00:38.000Z",
-      "summary": "俳優奥智哉（21）、杢代和人（22）が22日、都内で、ダブル主演するテレビ東京系連続ドラマ「君は夏のなか」（7月1日スタート、水曜深夜0時半）記者会見に出席した。 人気BL漫画のドラマ化で、高校生男子2人のひと夏の恋と青春を描く。杢代は…",
+      "id": "456a10c7d615c132",
+      "title": "M!LK佐野勇斗やSixTONESジェシーら集結した劇場版「TOKYO MER」“絆”ビジュアル公開",
+      "sourceName": "音楽ナタリー",
+      "sourceUrl": "https://natalie.mu/music/feed/news",
+      "articleUrl": "https://natalie.mu/music/news/677338",
+      "publishedAt": "2026-06-22T22:00:00.000Z",
+      "summary": "佐野勇斗（M!LK）、ジェシー（SixTONES）が出演する劇場版「TOKYO MER～走る緊急救命室～CAPITAL CRISIS」より、キャスト13名が集結した“絆”ビジュアルが公開された。",
       "groups": [
-        "原因は自分にある。"
+        "M!LK"
       ],
       "statuses": [
         "active"
       ],
       "memberMatches": [
         {
-          "name": "杢代和人",
-          "group": "原因は自分にある。",
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "86488e92beeef4f6",
+      "title": "M!LK・塩﨑太智、曽野舜太、吉田仁人サマージャンボCM登場でCD手売り！キャンペーンで招き猫にも",
+      "sourceName": "Edge Line",
+      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+      "articleUrl": "https://www.edgeline-tokyo.com/society/200328",
+      "publishedAt": "2026-06-22T21:57:03.000Z",
+      "summary": "アイドルグループ『M!LK』の塩﨑太智、曽野舜太、吉田仁人が6月27日より全国放送となるサマージャンボ新TVCM各種に出演していることが6月23日に発表となった。 CMは『路上ミュージシャン篇』、『サマージャンボの歌...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "塩﨑太智",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "曽野舜太",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
           "status": "active"
         }
       ]
@@ -127,50 +159,6 @@
         {
           "name": "高桑真之",
           "group": "Lienel",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "4133dc4d087b7ef9",
-      "title": "M!LK佐野勇斗が「サンド屋台」で下積みトーク、メンバーが“カッコいいところ”を明かす",
-      "sourceName": "音楽ナタリー",
-      "sourceUrl": "https://natalie.mu/music/feed/news",
-      "articleUrl": "https://natalie.mu/music/news/677246",
-      "publishedAt": "2026-06-22T09:00:00.000Z",
-      "summary": "6月30日にTBS系で放送される「サンド屋台」に佐野勇斗（M!LK）、猪狩蒼弥（KEY TO LIT）がゲスト出演する。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "da58b31bc2c1fa64",
-      "title": "中条あやみ、佐野勇斗、SixTONES ジェシー、劇場版『TOKYO MER』第3弾に出演",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/06/post-2435822.html",
-      "publishedAt": "2026-06-22T05:01:17.000Z",
-      "summary": "8月21日に公開される鈴木亮平主演の劇場版『TOKYO MER～走る緊急救命室～CAPITAL CRISIS』に中条あやみ、佐野勇斗、ジェシー（SixTONES）が出演することが決定した。 2021年7月期にTBS日",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
           "status": "active"
         }
       ]
