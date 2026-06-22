@@ -1,14 +1,72 @@
 {
-  "updatedAt": "2026-06-21T22:45:50.428Z",
+  "updatedAt": "2026-06-22T18:06:00.135Z",
   "articles": [
     {
-      "id": "17e61d65ac09fc1a",
-      "title": "「TOKYO MER」劇場版3作目に中条あやみ、M!LK佐野勇斗、SixTONESジェシーが帰ってくる",
+      "id": "85938ae907ff0a64",
+      "title": "奥智哉「エモエモなエネルギーを全身で感じてもらえたら」杢代和人とＷ主演、人気BL漫画ドラマ化",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202606220001620.html",
+      "publishedAt": "2026-06-22T13:00:38.000Z",
+      "summary": "俳優奥智哉（21）、杢代和人（22）が22日、都内で、ダブル主演するテレビ東京系連続ドラマ「君は夏のなか」（7月1日スタート、水曜深夜0時半）記者会見に出席した。 人気BL漫画のドラマ化で、高校生男子2人のひと夏の恋と青春を描く。杢代は…",
+      "groups": [
+        "原因は自分にある。"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "杢代和人",
+          "group": "原因は自分にある。",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "0ed72fdb04e219e6",
+      "title": "BUDDiiSが目指すのはどんな恋にも打ち勝つ“伝説の男”",
       "sourceName": "音楽ナタリー",
       "sourceUrl": "https://natalie.mu/music/feed/news",
-      "articleUrl": "https://natalie.mu/music/news/677184",
-      "publishedAt": "2026-06-21T22:00:00.000Z",
-      "summary": "8月21日に公開される鈴木亮平主演の「TOKYO MER」シリーズの劇場版「TOKYO MER～走る緊急救命室～CAPITAL CRISIS」にオリジナルメンバーの中条あやみ、佐野勇斗（M!LK）、ジェシー（SixTONES）が出演。中条は大阪MER、佐野は名古屋MER、ジェシーは札幌MERのメンバーとしてシリーズに帰ってくる。",
+      "articleUrl": "https://natalie.mu/music/news/677332",
+      "publishedAt": "2026-06-22T12:00:00.000Z",
+      "summary": "BUDDiiSの新曲「キミは都市伝説」が本日6月22日に配信リリースされ、YouTubeでミュージックビデオが公開された。",
+      "groups": [
+        "BUDDiiS"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "972c560b87ba25a2",
+      "title": "ゲンジブ杢代和人“レベチ生誕祭”で奥智哉と雪駄をおそろいに、主演ドラマ「君は夏のなか」会見",
+      "sourceName": "音楽ナタリー",
+      "sourceUrl": "https://natalie.mu/music/feed/news",
+      "articleUrl": "https://natalie.mu/music/news/677290",
+      "publishedAt": "2026-06-22T10:07:00.000Z",
+      "summary": "奥智哉と杢代和人（原因は自分にある。）が主演を務めるテレビ東京系の新ドラマ「君は夏のなか」の制作発表会見が本日6月22日に東京都内で行われた。",
+      "groups": [
+        "原因は自分にある。"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "杢代和人",
+          "group": "原因は自分にある。",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "058c017038bacfb9",
+      "title": "「2～3日気まずかった」「リリースイベントのときに…」M!LK佐野勇斗が唯一“ケンカ”したことがあるメンバーとは",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260622-4598330/",
+      "publishedAt": "2026-06-22T10:00:00.000Z",
+      "summary": "「マジでしょうもないことなんだけど……」5人組アイドルグループ・M!LKの佐野勇斗が、過去にケンカしたことがあるメンバーを打ち明けた――。",
       "groups": [
         "M!LK"
       ],
@@ -24,51 +82,104 @@
       ]
     },
     {
-      "id": "c7776f3e68f7a654",
-      "title": "リョウガ×ユーキ×橘柊生はAIに勝てるのか…「ハイドアウト404」Vol.7も盛況、人気ゲームの“復刻”も",
-      "sourceName": "音楽ナタリー",
-      "sourceUrl": "https://natalie.mu/music/feed/news",
-      "articleUrl": "https://natalie.mu/music/news/677127",
-      "publishedAt": "2026-06-21T13:21:00.000Z",
-      "summary": "超特急のリョウガとユーキ、DISH//の橘柊生が、6月14日に東京・ニッショーホールで行われたゲームイベント「ハイドアウト404 Vol.7」に出演した。",
+      "id": "3c46c9e7dd0a8e03",
+      "title": "【ライブレポート】Lienel、ツアー＜Osyan＞ファイナルは結成発表の地で全29曲披露「さらに大きな絆を繋いでいきたい」",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1073609",
+      "publishedAt": "2026-06-22T09:26:49.000Z",
+      "summary": "6月3日にメジャーデビューを果たした6人組ダンスボーカルグループのLienelが、名古屋・大阪・横浜の3都市を回る＜Lienel 5th Live Tour 2026「Osyan」＞の最終公演を6月21日、パシフィコ横浜 国立大ホールで開催した。3都市7公演を全公演ソールドアウトさせ、13,000人を動員したグループ史上最大規模のツアーを無事に完走。同公演の",
       "groups": [
-        "超特急"
+        "EBiDAN",
+        "超特急",
+        "M!LK",
+        "Lienel"
       ],
       "statuses": [
         "active"
       ],
       "memberMatches": [
         {
-          "name": "リョウガ",
-          "group": "超特急",
+          "name": "芳賀柊斗",
+          "group": "Lienel",
           "status": "active"
         },
         {
-          "name": "ユーキ",
-          "group": "超特急",
+          "name": "近藤駿太",
+          "group": "Lienel",
+          "status": "active"
+        },
+        {
+          "name": "高岡ミロ",
+          "group": "Lienel",
+          "status": "active"
+        },
+        {
+          "name": "森田璃空",
+          "group": "Lienel",
+          "status": "active"
+        },
+        {
+          "name": "武田創世",
+          "group": "Lienel",
+          "status": "active"
+        },
+        {
+          "name": "高桑真之",
+          "group": "Lienel",
           "status": "active"
         }
       ]
     },
     {
-      "id": "27270db0cf5ec31d",
-      "title": "Lienel次のツアーは「ロマンティック・シンドローーム!!!!!!」秋に東名阪で6公演",
+      "id": "4133dc4d087b7ef9",
+      "title": "M!LK佐野勇斗が「サンド屋台」で下積みトーク、メンバーが“カッコいいところ”を明かす",
       "sourceName": "音楽ナタリー",
       "sourceUrl": "https://natalie.mu/music/feed/news",
-      "articleUrl": "https://natalie.mu/music/news/677185",
-      "publishedAt": "2026-06-21T11:44:00.000Z",
-      "summary": "Lienelが9月から11月にかけて東名阪ツアー「Lienel 6th Live Tour 2026『ロマンティック・シンドローーム!!!!!!』」を開催することが決定した。",
+      "articleUrl": "https://natalie.mu/music/news/677246",
+      "publishedAt": "2026-06-22T09:00:00.000Z",
+      "summary": "6月30日にTBS系で放送される「サンド屋台」に佐野勇斗（M!LK）、猪狩蒼弥（KEY TO LIT）がゲスト出演する。",
       "groups": [
-        "Lienel"
+        "M!LK"
       ],
-      "statuses": [],
-      "memberMatches": []
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "da58b31bc2c1fa64",
+      "title": "中条あやみ、佐野勇斗、SixTONES ジェシー、劇場版『TOKYO MER』第3弾に出演",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/06/post-2435822.html",
+      "publishedAt": "2026-06-22T05:01:17.000Z",
+      "summary": "8月21日に公開される鈴木亮平主演の劇場版『TOKYO MER～走る緊急救命室～CAPITAL CRISIS』に中条あやみ、佐野勇斗、ジェシー（SixTONES）が出演することが決定した。 2021年7月期にTBS日",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
     },
     {
       "id": "e9381474a4c9cb88",
       "title": "実はガチの鉄道オタク!? スパドラ伊藤壮吾「12月から3月にかけてはもうバタバタ」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260621-4612369/",
       "publishedAt": "2026-06-21T11:00:00.000Z",
       "summary": "鞘師里保がパーソナリティをつとめるTOKYO FMのラジオ番組「鞘師里保のライフアップ・チョイス supported by マイベスト」（毎週土曜9:30～9:55）。 6月のマンスリーゲストは、9人組進化系ミクスチャーユニット・SUPER★DRAGON（スーパードラゴン／通称：スパドラ）から飯島颯さんと伊藤壮吾さん。 6月6日（土）の放送では、2人のプライ",
@@ -238,20 +349,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "3b7b0194b0b496a5",
-      "title": "【写真特集66枚】ミセスは艶やか和装姿、中島健人はハート連発 キンプリ・M!LKら豪華アーティスト集結 「MAJ 2026」レッドカーペット",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260616-4585749/",
-      "publishedAt": "2026-06-17T12:00:00.000Z",
-      "summary": "国内最大規模の国際音楽賞「MUSIC AWARDS JAPAN 2026」(MAJ)のレッドカーペットが13日、東京・青海のTOYOTA ARENA TOKYOで開催され、3人組バンドのMrs. GREEN APPLEやKing & Prince、M!LKらアーティストが登場した。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "4286b1a3077348d3",
