@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-06-22T23:07:22.399Z",
+  "updatedAt": "2026-06-23T11:47:01.727Z",
   "articles": [
+    {
+      "id": "10ed81cf82de9959",
+      "title": "「愛100%なのすごい」「これからも5人欠けずに」佐野勇斗が明かした、“M!LKが10年以上仲良くいられる理由”にファンから感動の声",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260623-4598394/",
+      "publishedAt": "2026-06-23T10:00:00.000Z",
+      "summary": "「努力とかっていうよりも……」アイドルグループ・M!LKの佐野勇斗が、メンバーと仲良くいられる“秘訣”を語った――。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "456a10c7d615c132",
       "title": "M!LK佐野勇斗やSixTONESジェシーら集結した劇場版「TOKYO MER」“絆”ビジュアル公開",
@@ -51,114 +73,6 @@
         {
           "name": "吉田仁人",
           "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "0ed72fdb04e219e6",
-      "title": "BUDDiiSが目指すのはどんな恋にも打ち勝つ“伝説の男”",
-      "sourceName": "音楽ナタリー",
-      "sourceUrl": "https://natalie.mu/music/feed/news",
-      "articleUrl": "https://natalie.mu/music/news/677332",
-      "publishedAt": "2026-06-22T12:00:00.000Z",
-      "summary": "BUDDiiSの新曲「キミは都市伝説」が本日6月22日に配信リリースされ、YouTubeでミュージックビデオが公開された。",
-      "groups": [
-        "BUDDiiS"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "972c560b87ba25a2",
-      "title": "ゲンジブ杢代和人“レベチ生誕祭”で奥智哉と雪駄をおそろいに、主演ドラマ「君は夏のなか」会見",
-      "sourceName": "音楽ナタリー",
-      "sourceUrl": "https://natalie.mu/music/feed/news",
-      "articleUrl": "https://natalie.mu/music/news/677290",
-      "publishedAt": "2026-06-22T10:07:00.000Z",
-      "summary": "奥智哉と杢代和人（原因は自分にある。）が主演を務めるテレビ東京系の新ドラマ「君は夏のなか」の制作発表会見が本日6月22日に東京都内で行われた。",
-      "groups": [
-        "原因は自分にある。"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "杢代和人",
-          "group": "原因は自分にある。",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "058c017038bacfb9",
-      "title": "「2～3日気まずかった」「リリースイベントのときに…」M!LK佐野勇斗が唯一“ケンカ”したことがあるメンバーとは",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-      "articleUrl": "https://news.mynavi.jp/article/20260622-4598330/",
-      "publishedAt": "2026-06-22T10:00:00.000Z",
-      "summary": "「マジでしょうもないことなんだけど……」5人組アイドルグループ・M!LKの佐野勇斗が、過去にケンカしたことがあるメンバーを打ち明けた――。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "3c46c9e7dd0a8e03",
-      "title": "【ライブレポート】Lienel、ツアー＜Osyan＞ファイナルは結成発表の地で全29曲披露「さらに大きな絆を繋いでいきたい」",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1073609",
-      "publishedAt": "2026-06-22T09:26:49.000Z",
-      "summary": "6月3日にメジャーデビューを果たした6人組ダンスボーカルグループのLienelが、名古屋・大阪・横浜の3都市を回る＜Lienel 5th Live Tour 2026「Osyan」＞の最終公演を6月21日、パシフィコ横浜 国立大ホールで開催した。3都市7公演を全公演ソールドアウトさせ、13,000人を動員したグループ史上最大規模のツアーを無事に完走。同公演の",
-      "groups": [
-        "EBiDAN",
-        "超特急",
-        "M!LK",
-        "Lienel"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "芳賀柊斗",
-          "group": "Lienel",
-          "status": "active"
-        },
-        {
-          "name": "近藤駿太",
-          "group": "Lienel",
-          "status": "active"
-        },
-        {
-          "name": "高岡ミロ",
-          "group": "Lienel",
-          "status": "active"
-        },
-        {
-          "name": "森田璃空",
-          "group": "Lienel",
-          "status": "active"
-        },
-        {
-          "name": "武田創世",
-          "group": "Lienel",
-          "status": "active"
-        },
-        {
-          "name": "高桑真之",
-          "group": "Lienel",
           "status": "active"
         }
       ]
@@ -271,50 +185,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "4388826dee947d6d",
-      "title": "岡本夏美×沢村玲、“親友”から一線を越える2人に 『今から、親友やめようか。』FOD独占見放題配信",
-      "sourceName": "マイナビニュース テレビ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-      "articleUrl": "https://news.mynavi.jp/article/20260619-4602437/",
-      "publishedAt": "2026-06-19T05:30:00.000Z",
-      "summary": "「俺で試してみる?」――岡本夏美と沢村玲(ONE N' ONLY)がW主演を務めるMBSのドラマ『今から、親友やめようか。』が、25日25時59分からフジテレビの動画配信サービス・FODで独占見放題配信される(毎週木曜深夜最新話配信)。大学時代からの親友で職場の同僚でもある2人が、ある出来事をきっかけに“友情”と“恋愛”の狭間で揺れ動いていく。",
-      "groups": [
-        "ONE N' ONLY"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "REI",
-          "group": "ONE N' ONLY",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "1ef4fe189f2a27a8",
-      "title": "「好き」の先にある現実と日常を描く…古川雄輝×長野凌大で実写化『普通の恋愛』FOD独占配信",
-      "sourceName": "マイナビニュース テレビ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-      "articleUrl": "https://news.mynavi.jp/article/20260619-4602500/",
-      "publishedAt": "2026-06-19T05:00:00.000Z",
-      "summary": "「引かないっすよ。絶対に」――古川雄輝と長野凌大(原因は自分にある。)がW主演を務めるCBCテレビのドラマ『普通の恋愛』が、7月2日25時30分からフジテレビの動画配信サービス・FODで独占配信される(毎週木曜深夜最新話配信)。会社では上司と部下の関係である一良と慶伊が、過去の恋愛や家族への告白、12歳差と同性であることへの不安に向き合いながら、“普通”とは",
-      "groups": [
-        "原因は自分にある。"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "長野凌大",
-          "group": "原因は自分にある。",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "fb6a40e8523b91e9",
