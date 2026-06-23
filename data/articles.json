@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-06-23T11:47:01.727Z",
+  "updatedAt": "2026-06-23T19:30:31.837Z",
   "articles": [
+    {
+      "id": "5d2f6f3a1abc45c5",
+      "title": "「THE MUSIC DAY」第3弾発表で亀梨和也、CANDY TUNE、超特急、MAZZEL、山下智久ら追加",
+      "sourceName": "音楽ナタリー",
+      "sourceUrl": "https://natalie.mu/music/feed/news",
+      "articleUrl": "https://natalie.mu/music/news/677480",
+      "publishedAt": "2026-06-23T15:54:00.000Z",
+      "summary": "7月4日に日本テレビ系で生放送される音楽特番「THE MUSIC DAY 2026」の出演アーティスト第3弾が発表された。",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "10ed81cf82de9959",
       "title": "「愛100%なのすごい」「これからも5人欠けずに」佐野勇斗が明かした、“M!LKが10年以上仲良くいられる理由”にファンから感動の声",
@@ -9,28 +23,6 @@
       "articleUrl": "https://news.mynavi.jp/article/20260623-4598394/",
       "publishedAt": "2026-06-23T10:00:00.000Z",
       "summary": "「努力とかっていうよりも……」アイドルグループ・M!LKの佐野勇斗が、メンバーと仲良くいられる“秘訣”を語った――。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "456a10c7d615c132",
-      "title": "M!LK佐野勇斗やSixTONESジェシーら集結した劇場版「TOKYO MER」“絆”ビジュアル公開",
-      "sourceName": "音楽ナタリー",
-      "sourceUrl": "https://natalie.mu/music/feed/news",
-      "articleUrl": "https://natalie.mu/music/news/677338",
-      "publishedAt": "2026-06-22T22:00:00.000Z",
-      "summary": "佐野勇斗（M!LK）、ジェシー（SixTONES）が出演する劇場版「TOKYO MER～走る緊急救命室～CAPITAL CRISIS」より、キャスト13名が集結した“絆”ビジュアルが公開された。",
       "groups": [
         "M!LK"
       ],
