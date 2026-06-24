@@ -1,28 +1,36 @@
 {
-  "updatedAt": "2026-06-23T19:30:31.837Z",
+  "updatedAt": "2026-06-24T11:23:30.354Z",
   "articles": [
     {
-      "id": "5d2f6f3a1abc45c5",
-      "title": "「THE MUSIC DAY」第3弾発表で亀梨和也、CANDY TUNE、超特急、MAZZEL、山下智久ら追加",
-      "sourceName": "音楽ナタリー",
-      "sourceUrl": "https://natalie.mu/music/feed/news",
-      "articleUrl": "https://natalie.mu/music/news/677480",
-      "publishedAt": "2026-06-23T15:54:00.000Z",
-      "summary": "7月4日に日本テレビ系で生放送される音楽特番「THE MUSIC DAY 2026」の出演アーティスト第3弾が発表された。",
+      "id": "b865d37d1970a008",
+      "title": "小川史記×瀬戸利樹W主演ドラマ『しもべの王子様』7月3日よりTOKYO MXで放送",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/06/post-2438976.html",
+      "publishedAt": "2026-06-24T11:05:05.000Z",
+      "summary": "BUDDiiSの小川史記と瀬戸利樹がW主演を務める連続ドラマ『しもべの王子様』が、7月3日よりTOKYO MXで放送される。 本作は、累計200万ダウンロードを突破したたつもとみおによる人気BLコミックを実写ドラマ化",
       "groups": [
-        "超特急"
+        "BUDDiiS"
       ],
-      "statuses": [],
-      "memberMatches": []
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "FUMINORI",
+          "group": "BUDDiiS",
+          "status": "active"
+        }
+      ]
     },
     {
-      "id": "10ed81cf82de9959",
-      "title": "「愛100%なのすごい」「これからも5人欠けずに」佐野勇斗が明かした、“M!LKが10年以上仲良くいられる理由”にファンから感動の声",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-      "articleUrl": "https://news.mynavi.jp/article/20260623-4598394/",
-      "publishedAt": "2026-06-23T10:00:00.000Z",
-      "summary": "「努力とかっていうよりも……」アイドルグループ・M!LKの佐野勇斗が、メンバーと仲良くいられる“秘訣”を語った――。",
+      "id": "1fef2811b3024250",
+      "title": "M!LK・佐野勇斗「ドクターシーラボ（R）」新ブランドアンバサダー就任記念限定フォトカードを先着でプレゼントへ",
+      "sourceName": "Edge Line",
+      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+      "articleUrl": "https://www.edgeline-tokyo.com/beauty/200410",
+      "publishedAt": "2026-06-24T03:00:11.000Z",
+      "summary": "ダンスボーカルグループ『M!LK』で俳優・佐野勇斗がスキンケアブランド『』の新ブランドアンバサダーに就任したことが6月24日に発表。この就任を記念し佐野の限定フォトカードをプレゼントするキャンペーンが展開することがアナ...",
       "groups": [
         "M!LK"
       ],
@@ -38,13 +46,13 @@
       ]
     },
     {
-      "id": "86488e92beeef4f6",
-      "title": "M!LK・塩﨑太智、曽野舜太、吉田仁人サマージャンボCM登場でCD手売り！キャンペーンで招き猫にも",
+      "id": "707b61340f4c55f3",
+      "title": "佐野勇斗 2026年後半は「『M!LK』として2回目の紅白出場」目標！ドクターシーラボ新アンバサダーに",
       "sourceName": "Edge Line",
       "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-      "articleUrl": "https://www.edgeline-tokyo.com/society/200328",
-      "publishedAt": "2026-06-22T21:57:03.000Z",
-      "summary": "アイドルグループ『M!LK』の塩﨑太智、曽野舜太、吉田仁人が6月27日より全国放送となるサマージャンボ新TVCM各種に出演していることが6月23日に発表となった。 CMは『路上ミュージシャン篇』、『サマージャンボの歌...",
+      "articleUrl": "https://www.edgeline-tokyo.com/beauty/200402",
+      "publishedAt": "2026-06-24T03:00:11.000Z",
+      "summary": "ダンスボーカルグループ『M!LK』で俳優・佐野勇斗がスキンケアブランド『ドクターシーラボ（R）』の新ブランドアンバサダーに就任したことが6月24日に発表。あわせて6月25日より全国放送（沖縄除く）となる新TVCM『VC...",
       "groups": [
         "M!LK"
       ],
@@ -53,17 +61,29 @@
       ],
       "memberMatches": [
         {
-          "name": "塩﨑太智",
+          "name": "佐野勇斗",
           "group": "M!LK",
           "status": "active"
-        },
+        }
+      ]
+    },
+    {
+      "id": "81a4805e100aca5e",
+      "title": "「ドクターシーラボ」関係者が明かすM!LK・佐野勇斗ブランドアンバサダー起用理由！4つの条件",
+      "sourceName": "Edge Line",
+      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+      "articleUrl": "https://www.edgeline-tokyo.com/beauty/200414",
+      "publishedAt": "2026-06-24T03:00:08.000Z",
+      "summary": "『ドクターシーラボ（R）新ブランドアンバサダー就任式』が6月24日に都内で開催。ダンスボーカルグループ『M!LK』で俳優・佐野勇斗をブランドアンバサダーに迎えたことへJNTLコンシューマーヘルス株式会社ドクターシーラボ...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
         {
-          "name": "曽野舜太",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "吉田仁人",
+          "name": "佐野勇斗",
           "group": "M!LK",
           "status": "active"
         }
@@ -160,20 +180,6 @@
       "summary": "5人組ダンスボーカルグループ・M!LKが、グループ初となる1st Mini Albumを9月16日(水)にリリースすることを発表した。 本日6月19日(金)、M!LKは東京・LINE CUBE SHIBUYAにてファンクラブイベント「み！るきーず感謝祭2026 〜爆裂ホームパーティー〜」を開催。そのステージ上でメンバー自らファンにサプライズ発表した今回のミニ",
       "groups": [
         "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "0a09e78003427859",
-      "title": "SUPER★DRAGON、初の冠番組『スパドラ★クエスト』決定 自己PR対決で個性爆発＆新曲披露",
-      "sourceName": "マイナビニュース テレビ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-      "articleUrl": "https://news.mynavi.jp/article/20260619-4603266/",
-      "publishedAt": "2026-06-19T07:11:19.000Z",
-      "summary": "スターダストプロモーション所属の9人組進化系ミクスチャーユニット・SUPER★DRAGON初の冠番組『スパドラ★クエスト』(毎週土曜25:45～、全24回予定)が、7月11日(25:50～)にフジテレビでスタートする。",
-      "groups": [
-        "SUPER★DRAGON"
       ],
       "statuses": [],
       "memberMatches": []
