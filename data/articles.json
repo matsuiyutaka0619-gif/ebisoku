@@ -1,14 +1,50 @@
 {
-  "updatedAt": "2026-06-24T18:23:03.672Z",
+  "updatedAt": "2026-06-25T10:30:50.333Z",
   "articles": [
     {
-      "id": "b865d37d1970a008",
-      "title": "小川史記×瀬戸利樹W主演ドラマ『しもべの王子様』7月3日よりTOKYO MXで放送",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/06/post-2438976.html",
-      "publishedAt": "2026-06-24T11:05:05.000Z",
-      "summary": "BUDDiiSの小川史記と瀬戸利樹がW主演を務める連続ドラマ『しもべの王子様』が、7月3日よりTOKYO MXで放送される。 本作は、累計200万ダウンロードを突破したたつもとみおによる人気BLコミックを実写ドラマ化",
+      "id": "06efdae448261b20",
+      "title": "EBiDAN「Yes! 東京」先行配信＆MV公開が決定！当日にはメンバー登場の生配信も",
+      "sourceName": "音楽ナタリー",
+      "sourceUrl": "https://natalie.mu/music/feed/news",
+      "articleUrl": "https://natalie.mu/music/news/677752",
+      "publishedAt": "2026-06-25T09:00:00.000Z",
+      "summary": "EBiDANの15周年を記念して8月11日にリリースされるシングル「Yes! 東京」の表題曲が、7月2日に先行配信されることが決定した。",
+      "groups": [
+        "EBiDAN"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "e409829ce6a3956d",
+      "title": "西山智樹「高校はちょっとやんちゃ」 森愁斗は「怒られないタイプ」 高校でのサプライズイベントで学生時代回想",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1020625/",
+      "publishedAt": "2026-06-25T07:57:05.000Z",
+      "summary": "ダンスボーカルグループ・TAGRIGHTの西山智樹とダンスボーカルグループ・BUDDiiSの森愁斗が25日、東京・江東区の中央学院大中央高校で行われた映画『口に関するアンケート』（7月3日公開、清水崇監督）の公開直前学校 […]",
+      "groups": [
+        "BUDDiiS"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "SHOOT",
+          "group": "BUDDiiS",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "a61a65625d0b3907",
+      "title": "ちゃくら、ドラマ「しもべの王子様」のエンディング主題歌担当 主演はBUDDiiS小川史記と瀬戸利樹",
+      "sourceName": "音楽ナタリー",
+      "sourceUrl": "https://natalie.mu/music/feed/news",
+      "articleUrl": "https://natalie.mu/music/news/677722",
+      "publishedAt": "2026-06-25T04:01:00.000Z",
+      "summary": "ちゃくらが、7月3日23:00にTOKYO MXでスタートする小川史記（BUDDiiS）と瀬戸利樹のダブル主演ドラマ「しもべの王子様」のエンディング主題歌を担当する。",
       "groups": [
         "BUDDiiS"
       ],
@@ -22,6 +58,92 @@
           "status": "active"
         }
       ]
+    },
+    {
+      "id": "7c33aade513fa6d8",
+      "title": "「え、ちょっと待って」「爆裂うれしすぎて滅!」M!LK、上半期全10部門通じて自身初の1位",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260625-4626117/",
+      "publishedAt": "2026-06-25T02:22:30.000Z",
+      "summary": "5人組ダンスボーカルグループ・M!LKのシングル「爆裂愛してる / 好きすぎて滅!」が、25日発表の「オリコン上半期ランキング2026」において、作品別売上数部門「合算シングルランキング」で1位を獲得した。M!LKにとって同ランキングでの首位は初めてで、上半期全10部門を通じても自身初の1位となる。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "eab3eefb87ff015e",
+      "title": "【ライブレポート】TOMORROW X TOGETHER、デビュー7周年記念ファンコンサート＜2026 TXT MOA CON IN JAPAN＞完遂「MOAに喜んでもらえることだけを考えて」",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1074240",
+      "publishedAt": "2026-06-25T00:00:00.000Z",
+      "summary": "TOMORROW X TOGETHERが6月24日、ファンコンサート＜2026 TXT MOA CON IN JAPAN＞の最終公演となる兵庫公演をGLION ARENA KOBEで開催した。同公演のオフィシャルレポートをお届けしたい。 4都市8公演の規模で開催された＜2026 TXT MOA CON IN JAPAN＞は、TOMORROW X TOGETH",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "44123eb54f049cef",
+      "title": "草川拓弥が暴力的な演技に挑戦、奈緒に感情ぶつける映画「死ねばいいのに」新映像公開",
+      "sourceName": "音楽ナタリー",
+      "sourceUrl": "https://natalie.mu/music/feed/news",
+      "articleUrl": "https://natalie.mu/music/news/677681",
+      "publishedAt": "2026-06-24T23:00:00.000Z",
+      "summary": "超特急のタクヤこと草川拓弥が出演する映画「死ねばいいのに」の本編映像の一部がYouTubeで公開された。",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "タクヤ",
+          "group": "超特急",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "0496b2357f8d50f2",
+      "title": "椎名林檎、書き下ろし新曲「裸」がTVドラマ『ラストノート』の主題歌に決定",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1074002",
+      "publishedAt": "2026-06-24T21:00:00.000Z",
+      "summary": "椎名林檎がフジテレビ系木曜劇場『ラストノート』ドラマ主題歌にして新曲「裸」を書き下ろしたことが発表となった。 椎名はこれまでも、連続テレビ小説『カーネーション』(NHK／2011年)の主題歌『カーネーション』、『ヤスコとケンジ』(日テレ系／2008年)の主題歌『雨傘』、『熱海の捜査官』(テレ朝系／2010年)の主題歌『天国へようこそ』、『カルテット』(TBS",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "タクヤ",
+          "group": "超特急",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "04ad900817f35f1a",
+      "title": "「オリコン上半期ランキング」M!LK、Snow Man、BTS、米津玄師、嵐、Number_i、timeleszが1位に輝く",
+      "sourceName": "音楽ナタリー",
+      "sourceUrl": "https://natalie.mu/music/feed/news",
+      "articleUrl": "https://natalie.mu/music/news/677680",
+      "publishedAt": "2026-06-24T19:00:00.000Z",
+      "summary": "オリコンが「オリコン上半期ランキング 2026」における「作品別売上数部門」を発表。全10部門のうちtimeleszが3冠、BTSが2冠を達成したほか、M!LK、Snow Man、米津玄師、嵐、Number_iが1位に輝いた。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
     },
     {
       "id": "1fef2811b3024250",
