@@ -1,6 +1,136 @@
 {
-  "updatedAt": "2026-06-25T10:30:50.333Z",
+  "updatedAt": "2026-06-25T19:27:00.900Z",
   "articles": [
+    {
+      "id": "73f69131f46ae87f",
+      "title": "【イベントレポート】Lienel、メジャーデビューを祝う温かくもおもしろい空間と誓い「絶対に約束した武道館に連れて行く」",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1074398",
+      "publishedAt": "2026-06-25T13:45:00.000Z",
+      "summary": "スターダストプロモーション所属 EBiDAN注目の6人組メインボーカル＆ダンスグループ・Lienelが、6月25日、東京・東京国際フォーラム ホールCにてメジャーデビューシングル「メロ・コレクション」発売記念スペシャルパフォーマンスイベントの振替公演を行った。先ごろ公開した＜Lienel 5th Live Tour 2026「Osyan」＞ファイナルのレポー",
+      "groups": [
+        "EBiDAN",
+        "原因は自分にある。",
+        "Lienel"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "大倉空人",
+          "group": "原因は自分にある。",
+          "status": "active"
+        },
+        {
+          "name": "小泉光咲",
+          "group": "原因は自分にある。",
+          "status": "active"
+        },
+        {
+          "name": "武藤潤",
+          "group": "原因は自分にある。",
+          "status": "active"
+        },
+        {
+          "name": "吉澤要人",
+          "group": "原因は自分にある。",
+          "status": "active"
+        },
+        {
+          "name": "芳賀柊斗",
+          "group": "Lienel",
+          "status": "active"
+        },
+        {
+          "name": "近藤駿太",
+          "group": "Lienel",
+          "status": "active"
+        },
+        {
+          "name": "高岡ミロ",
+          "group": "Lienel",
+          "status": "active"
+        },
+        {
+          "name": "森田璃空",
+          "group": "Lienel",
+          "status": "active"
+        },
+        {
+          "name": "武田創世",
+          "group": "Lienel",
+          "status": "active"
+        },
+        {
+          "name": "高桑真之",
+          "group": "Lienel",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "9273a031a26ea4f3",
+      "title": "Lienel念願のメジャーデビュー記念イベントで届けた感謝、先輩からのサプライズや占い企画に大盛り上がり",
+      "sourceName": "音楽ナタリー",
+      "sourceUrl": "https://natalie.mu/music/feed/news",
+      "articleUrl": "https://natalie.mu/music/news/677844",
+      "publishedAt": "2026-06-25T13:00:00.000Z",
+      "summary": "Lienelのメジャーデビューシングル「メロ・コレクション」のリリースイベント振替公演が、本日6月25日に東京・東京国際フォーラム ホールCで開催された。",
+      "groups": [
+        "Lienel"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "f3f7645a812be74b",
+      "title": "Lienel、台風乗り越えリベンジイベント開催 先輩からメジャーデビューをサプライズ祝福…「ガツガツいく」と決意",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1020339/",
+      "publishedAt": "2026-06-25T13:00:00.000Z",
+      "summary": "6人組ダンスボーカルグループ・Lienel（高岡ミロ、近藤駿太、武田創世、森田璃空、高桑真之、芳賀柊斗）が25日、都内で行われたメジャーデビューシングル『メロ・コレクション』発売記念スペシャルパフォーマンスイベントに出席 […]",
+      "groups": [
+        "Lienel"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "芳賀柊斗",
+          "group": "Lienel",
+          "status": "active"
+        },
+        {
+          "name": "近藤駿太",
+          "group": "Lienel",
+          "status": "active"
+        },
+        {
+          "name": "高岡ミロ",
+          "group": "Lienel",
+          "status": "active"
+        },
+        {
+          "name": "森田璃空",
+          "group": "Lienel",
+          "status": "active"
+        },
+        {
+          "name": "武田創世",
+          "group": "Lienel",
+          "status": "active"
+        },
+        {
+          "name": "高桑真之",
+          "group": "Lienel",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "06efdae448261b20",
       "title": "EBiDAN「Yes! 東京」先行配信＆MV公開が決定！当日にはメンバー登場の生配信も",
@@ -16,129 +146,13 @@
       "memberMatches": []
     },
     {
-      "id": "e409829ce6a3956d",
-      "title": "西山智樹「高校はちょっとやんちゃ」 森愁斗は「怒られないタイプ」 高校でのサプライズイベントで学生時代回想",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1020625/",
-      "publishedAt": "2026-06-25T07:57:05.000Z",
-      "summary": "ダンスボーカルグループ・TAGRIGHTの西山智樹とダンスボーカルグループ・BUDDiiSの森愁斗が25日、東京・江東区の中央学院大中央高校で行われた映画『口に関するアンケート』（7月3日公開、清水崇監督）の公開直前学校 […]",
-      "groups": [
-        "BUDDiiS"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "SHOOT",
-          "group": "BUDDiiS",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "a61a65625d0b3907",
-      "title": "ちゃくら、ドラマ「しもべの王子様」のエンディング主題歌担当 主演はBUDDiiS小川史記と瀬戸利樹",
-      "sourceName": "音楽ナタリー",
-      "sourceUrl": "https://natalie.mu/music/feed/news",
-      "articleUrl": "https://natalie.mu/music/news/677722",
-      "publishedAt": "2026-06-25T04:01:00.000Z",
-      "summary": "ちゃくらが、7月3日23:00にTOKYO MXでスタートする小川史記（BUDDiiS）と瀬戸利樹のダブル主演ドラマ「しもべの王子様」のエンディング主題歌を担当する。",
-      "groups": [
-        "BUDDiiS"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "FUMINORI",
-          "group": "BUDDiiS",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "7c33aade513fa6d8",
       "title": "「え、ちょっと待って」「爆裂うれしすぎて滅!」M!LK、上半期全10部門通じて自身初の1位",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260625-4626117/",
       "publishedAt": "2026-06-25T02:22:30.000Z",
       "summary": "5人組ダンスボーカルグループ・M!LKのシングル「爆裂愛してる / 好きすぎて滅!」が、25日発表の「オリコン上半期ランキング2026」において、作品別売上数部門「合算シングルランキング」で1位を獲得した。M!LKにとって同ランキングでの首位は初めてで、上半期全10部門を通じても自身初の1位となる。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "eab3eefb87ff015e",
-      "title": "【ライブレポート】TOMORROW X TOGETHER、デビュー7周年記念ファンコンサート＜2026 TXT MOA CON IN JAPAN＞完遂「MOAに喜んでもらえることだけを考えて」",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1074240",
-      "publishedAt": "2026-06-25T00:00:00.000Z",
-      "summary": "TOMORROW X TOGETHERが6月24日、ファンコンサート＜2026 TXT MOA CON IN JAPAN＞の最終公演となる兵庫公演をGLION ARENA KOBEで開催した。同公演のオフィシャルレポートをお届けしたい。 4都市8公演の規模で開催された＜2026 TXT MOA CON IN JAPAN＞は、TOMORROW X TOGETH",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "44123eb54f049cef",
-      "title": "草川拓弥が暴力的な演技に挑戦、奈緒に感情ぶつける映画「死ねばいいのに」新映像公開",
-      "sourceName": "音楽ナタリー",
-      "sourceUrl": "https://natalie.mu/music/feed/news",
-      "articleUrl": "https://natalie.mu/music/news/677681",
-      "publishedAt": "2026-06-24T23:00:00.000Z",
-      "summary": "超特急のタクヤこと草川拓弥が出演する映画「死ねばいいのに」の本編映像の一部がYouTubeで公開された。",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "タクヤ",
-          "group": "超特急",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "0496b2357f8d50f2",
-      "title": "椎名林檎、書き下ろし新曲「裸」がTVドラマ『ラストノート』の主題歌に決定",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1074002",
-      "publishedAt": "2026-06-24T21:00:00.000Z",
-      "summary": "椎名林檎がフジテレビ系木曜劇場『ラストノート』ドラマ主題歌にして新曲「裸」を書き下ろしたことが発表となった。 椎名はこれまでも、連続テレビ小説『カーネーション』(NHK／2011年)の主題歌『カーネーション』、『ヤスコとケンジ』(日テレ系／2008年)の主題歌『雨傘』、『熱海の捜査官』(テレ朝系／2010年)の主題歌『天国へようこそ』、『カルテット』(TBS",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "タクヤ",
-          "group": "超特急",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "04ad900817f35f1a",
-      "title": "「オリコン上半期ランキング」M!LK、Snow Man、BTS、米津玄師、嵐、Number_i、timeleszが1位に輝く",
-      "sourceName": "音楽ナタリー",
-      "sourceUrl": "https://natalie.mu/music/feed/news",
-      "articleUrl": "https://natalie.mu/music/news/677680",
-      "publishedAt": "2026-06-24T19:00:00.000Z",
-      "summary": "オリコンが「オリコン上半期ランキング 2026」における「作品別売上数部門」を発表。全10部門のうちtimeleszが3冠、BTSが2冠を達成したほか、M!LK、Snow Man、米津玄師、嵐、Number_iが1位に輝いた。",
       "groups": [
         "M!LK"
       ],
@@ -246,33 +260,6 @@
       "articleUrl": "https://news.mynavi.jp/article/20260620-4608386/",
       "publishedAt": "2026-06-20T11:00:00.000Z",
       "summary": "鞘師里保がパーソナリティをつとめるTOKYO FMのラジオ番組「鞘師里保のライフアップ・チョイス supported by マイベスト」（毎週土曜9:30～9:55）。 6月のマンスリーゲストは、9人組進化系ミクスチャーユニット・SUPER★DRAGON（スーパードラゴン／通称：スパドラ）から飯島颯さんと伊藤壮吾さん。 6月6日（土）の放送では、7月15日（",
-      "groups": [
-        "SUPER★DRAGON"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "飯島颯",
-          "group": "SUPER★DRAGON",
-          "status": "active"
-        },
-        {
-          "name": "伊藤壮吾",
-          "group": "SUPER★DRAGON",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "639f894c1ae76067",
-      "title": "SUPER★DRAGON飯島颯「猫が『ご飯をくれ！』と…」仕事がない日も朝8時起床、規則正しい私生活明かす",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260619-4604252/",
-      "publishedAt": "2026-06-19T11:00:00.000Z",
-      "summary": "鞘師里保がパーソナリティをつとめるTOKYO FMのラジオ番組「鞘師里保のライフアップ・チョイス supported by マイベスト」（毎週土曜9:30～9:55）。 6月のマンスリーゲストは、9人組進化系ミクスチャーユニット・SUPER★DRAGON（スーパードラゴン／通称：スパドラ）から飯島颯さんと伊藤壮吾さん。6月6日（土）の放送では、お二人のモーニ",
       "groups": [
         "SUPER★DRAGON"
       ],
