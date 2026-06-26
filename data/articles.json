@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26T11:27:26.501Z",
+  "updatedAt": "2026-06-26T18:15:15.389Z",
   "articles": [
     {
       "id": "7eb3e54cdc8f27ee",
@@ -9,20 +9,6 @@
       "articleUrl": "https://natalie.mu/music/news/678023",
       "publishedAt": "2026-06-26T11:00:00.000Z",
       "summary": "ICExの新曲「プン☆ジェラ」のミュージックビデオが、ICExのYouTube公式チャンネルで公開された。",
-      "groups": [
-        "ICEx"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "c25d5d87c9a73a7f",
-      "title": "ICEx、槙田紗子振り付けによる初の“ヤキモチ”ソング「プン☆ジェラ」のMV公開",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1074552",
-      "publishedAt": "2026-06-26T11:00:00.000Z",
-      "summary": "ICExが、7月1日に発売する2ndアルバム『FRESH!!』より、リードトラックとなる新曲「プン☆ジェラ」のMVを公開した。 新曲の「プン☆ジェラ」はICEx初の“ヤキモチ”ソングとなっており、MVではICExのメンバー8人による演技とパフォーマンスを中心に、学校の日常で芽生える初恋のときめきと嫉妬の気持ちが、飾らない可愛らしさで描き出されているという。「",
       "groups": [
         "ICEx"
       ],
@@ -71,28 +57,307 @@
       ]
     },
     {
-      "id": "c8297259fc2fc41c",
-      "title": "鞘師里保「必死に頑張っていた青春時代の自分を思い出させてくれるような」SUPER★DRAGONの新曲を絶賛",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260620-4608386/",
-      "publishedAt": "2026-06-20T11:00:00.000Z",
-      "summary": "鞘師里保がパーソナリティをつとめるTOKYO FMのラジオ番組「鞘師里保のライフアップ・チョイス supported by マイベスト」（毎週土曜9:30～9:55）。 6月のマンスリーゲストは、9人組進化系ミクスチャーユニット・SUPER★DRAGON（スーパードラゴン／通称：スパドラ）から飯島颯さんと伊藤壮吾さん。 6月6日（土）の放送では、7月15日（",
+      "id": "acc28d47453a073a",
+      "title": "M!LKが初ミニアルバムを9月16日リリース、全7形態のほかFC限定アクスタ付きセットも販売",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/06/87977/",
+      "publishedAt": "2026-06-19T11:00:00.000Z",
+      "summary": "5人組ダンスボーカルグループ・M!LKが、グループ初となる1st Mini Albumを9月16日(水)にリリースすることを発表した。 本日6月19日(金)、M!LKは東京・LINE CUBE SHIBUYAにてファンクラブイベント「み！るきーず感謝祭2026 〜爆裂ホームパーティー〜」を開催。そのステージ上でメンバー自らファンにサプライズ発表した今回のミニ",
       "groups": [
-        "SUPER★DRAGON"
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "fb6a40e8523b91e9",
+      "title": "井上和と松井ケムリが『トイ・ストーリー５』日本版声優に決定、佐野勇斗と新キャラトリオを演じる",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/06/87909/",
+      "publishedAt": "2026-06-17T21:00:00.000Z",
+      "summary": "7月3日(金)に全国公開される映画『トイ・ストーリー５』に登場する新キャラクターの日本版声優を乃木坂46・井上和と令和ロマン・松井ケムリが務めることが決定した。 おもちゃと人との絆を描き、世代を超えて愛されてきたディズニー＆ピクサーの『トイ・ストーリー』シリーズ。最新作ではウッディ役の唐沢寿明やバズ役の所ジョージが続投するほか、新たにリリーパッド役の広瀬アリ",
+      "groups": [
+        "M!LK"
       ],
       "statuses": [
         "active"
       ],
       "memberMatches": [
         {
-          "name": "飯島颯",
-          "group": "SUPER★DRAGON",
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "4286b1a3077348d3",
+      "title": "曽野舜太×山中柔太朗「真・運命」MV公開、2人がジャケ写衣装で対照的な美しさを魅せる",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/06/87889/",
+      "publishedAt": "2026-06-17T11:00:00.000Z",
+      "summary": "5人組ダンスボーカルグループ・M!LKの曽野舜太と山中柔太朗が、ユニット曲「真・運命」（マジ・デスティニー）のMusic Videoを公開した。 「真・運命」は、M!LKが展開中の新曲連続リリース企画「モー烈モー進！プロジェクト2026」の第二弾シングル。恋に落ちる瞬間の衝撃やどうしても抗えず惹かれ合っていく運命を描いた一曲で、誰もが耳にしたことのあるような",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "曽野舜太",
+          "group": "M!LK",
           "status": "active"
         },
         {
-          "name": "伊藤壮吾",
-          "group": "SUPER★DRAGON",
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "4f92d7c954397bf5",
+      "title": "『トイ・ストーリー５』最先端タブレットがジェシーを挑発、おもちゃを圧倒する本編映像解禁",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/06/87671/",
+      "publishedAt": "2026-06-12T08:00:00.000Z",
+      "summary": "7月3日(金)より全国公開されるディズニー＆ピクサー最新作『トイ・ストーリー５』の本編映像が解禁された。 おもちゃたちの世界を舞台に、人とおもちゃのかけがえのない絆を描いてきた『トイ・ストーリー』シリーズ。最新作となる本作ではウッディやバズ、ジェシーらおなじみの仲間たちに加え最先端タブレットの“リリーパッド”が登場し、スマホやデジタル機器が当たり前となった時",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "cc5ac2d0f2585820",
+      "title": "佐々木美玲＆森次政裕の健やかさの秘訣。共演してわかった互いの愛され力とは？",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/06/87486/",
+      "publishedAt": "2026-06-11T09:00:00.000Z",
+      "summary": "一夜限りの関係を結んだ相手は、誰もが羨むハイスペ社長だった──。 2026年4月クールで放送中のドラマ特区『あの夜、社長の子供を授かりました』は、一夜の過ちから運命が大きく変わる波乱のラブストーリー。自己評価の低さゆえに、つい自分を犠牲にして他人のために頑張りすぎてしまうヒロイン・花井栞里を佐々木美玲。そんな栞里に無償の愛を注ぐ溺愛社長・瀬古貴人を森次政裕（",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "63b99a8e04894f82",
+      "title": "伊東蒼が圧巻の表現力で“危うい”人物を演じ切る、奈緒主演映画『死ねばいいのに』本編映像解禁",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/06/87607/",
+      "publishedAt": "2026-06-11T03:00:00.000Z",
+      "summary": "7月3日(金)にテアトル新宿ほかで公開される奈緒主演映画『死ねばいいのに』より、伊東蒼演じる亜佐美にフォーカスした本編映像と場面写真が解禁された。 京極夏彦の同名小説を映画化した本作は、何者かによって殺された“亜佐美”を巡るミステリー。その“亜佐美”について尋ね歩く謎めいた人物・渡来映子を奈緒が演じ、従来のイメージを覆すアウトローな雰囲気で新境地を開拓する。",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "タクヤ",
+          "group": "超特急",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "32786c31026c54f4",
+      "title": "M!LKの連続リリース第二弾「真・運命」6月17日配信、曽野舜太＆山中柔太朗が抗えない恋を歌う",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/06/87641/",
+      "publishedAt": "2026-06-10T10:50:00.000Z",
+      "summary": "5人組ダンスボーカルグループ・M!LKの曽野舜太と山中柔太朗が、6月17日(水)に2人ユニット曲「真・運命」（読み：マジ・デスティニー）を配信リリースする。 M!LKの連続リリース企画「モー烈モー進プロジェクト」の第二弾シングルとなる今作は、恋に落ちる瞬間の衝撃、どうしても抗えず惹かれあっていく運命を描いた一曲。曽野舜太と山中柔太朗の対照的な関係性や、誰しも",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "曽野舜太",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "3fb662210aaeb54f",
+      "title": "森愁斗主演『ウォーターガーディアンズ』本予告解禁、ライフセーバーの本格訓練シーンが初お披露目",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/06/87426/",
+      "publishedAt": "2026-06-05T22:00:00.000Z",
+      "summary": "森愁斗主演映画『ウォーターガーディアンズ』の公開日が8月21日(金)に決定し、本予告映像と主題歌、追加キャスト情報が一挙解禁された。 本作は、ライフセーバーを目指す若者たちの本気のひと夏を描いた青春サマームービー。思いがけずライフセーバーになるという目標を得た若者たちが友情を育み、恋と出会う姿を描く。キャストでは主人公・海翔役の森愁斗（BUDDiiS）、海翔",
+      "groups": [
+        "原因は自分にある。",
+        "BUDDiiS"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "小泉光咲",
+          "group": "原因は自分にある。",
+          "status": "active"
+        },
+        {
+          "name": "SHOOT",
+          "group": "BUDDiiS",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "907a05018837ed91",
+      "title": "M!LKの最新エールソング「アイドルパワー」PV公開、これまでの歩みを一気に体感できる4分間",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/05/87136/",
+      "publishedAt": "2026-05-29T11:00:00.000Z",
+      "summary": "5人組ダンスボーカルグループ・M!LKが、最新プロジェクト「モー烈モー進！リリースプロジェクト2026」の幕開けを飾るデジタルシングル「アイドルパワー」のOfficial Promotion Videoを公開した。 “2026年、日本を元気に！”という力強いテーマのもと制作された「アイドルパワー」は、アイドルとしての輝きと、聴く人の背中をそっと押すエールソン",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "8a2525e65219e9a6",
+      "title": "板垣李光人、綱啓永、吉川愛、MOMONAらが戦慄する『口に関するアンケート』場面写真解禁",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/05/86294/",
+      "publishedAt": "2026-05-14T22:00:00.000Z",
+      "summary": "7月3日(金)より全国公開される板垣李光人主演のホラー映画『口に関するアンケート』から場面写真11点が解禁された。 本作の原作は、昨年映画化された『近畿地方のある場所について』も話題となったホラー作家・背筋による累計32万部突破中の同名小説。手のひらサイズの装丁と60ページという短い物語の中でしっかりと恐怖を味わえる読書体験が「怖すぎて人に薦められない」「読",
+      "groups": [
+        "BUDDiiS"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "SHOOT",
+          "group": "BUDDiiS",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "cabd384d729c335d",
+      "title": "「だから友達じゃねえ！」奈緒が前原滉、草川拓弥らを追い込む『死ねばいいのに』本予告解禁",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/04/85464/",
+      "publishedAt": "2026-04-29T23:00:00.000Z",
+      "summary": "7月3日(金)よりテアトル新宿ほかで全国公開される映画『死ねばいいのに』の本ビジュアルと本予告編が解禁された。 京極夏彦の同名小説を金井純一監督が映画化した本作で、主人公・渡来映子を演じるのは奈緒。確かな演技力で観客を魅了し続ける彼女が、本作では従来のイメージを覆す、アウトローな雰囲気を漂わせた役柄で新境地を開拓する。また、何者かによって殺され、映子がその存",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "タクヤ",
+          "group": "超特急",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "4ffbe3152623ce28",
+      "title": "BUDDiiS森愁斗の初主演映画『ウォーターガーディアンズ』公開決定、“夏！海！青春！”な特報解禁",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/04/85470/",
+      "publishedAt": "2026-04-29T22:00:00.000Z",
+      "summary": "ダンス＆ボーカルグループ・BUDDiiSのメンバーで、俳優としても活躍する森愁斗の初主演映画『ウォーターガーディアンズ』が2026年夏に全国公開されることが決定した。 本作は、ただ日々を楽しく過ごしていた若者たちがひょんなことからライフセーバーになるという目標を得て、人生で初めて夢中になれる夢や友情、そして恋と出会った彼らの本気のひと夏を描いた青春ムービー。",
+      "groups": [
+        "BUDDiiS"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "SHOOT",
+          "group": "BUDDiiS",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "6586e9e502806f81",
+      "title": "M!LKが6万人を動員したアリーナツアーを映像作品化、ファイナル代々木体育館公演を完全収録",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/04/85443/",
+      "publishedAt": "2026-04-28T09:00:00.000Z",
+      "summary": "5人組ダンスボーカルグループ・M!LKが、2025年12月から2026年2月にかけて開催したアリーナツアー「M!LK ARENA TOUR 2025-2026 “SMILE POP!”」のDVD＆Blu-rayを7月22日(水)にリリースすることを発表した。 本作では、2025年12月6日・7日の兵庫・ワールド記念ホール公演を皮切りに、2026年1月17日・",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "e7ceee6f54bdf2b7",
+      "title": "M!LKの連続リリース第一弾「アイドルパワー」配信開始、聴く人の日常に光を贈るきらめきソング",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/04/85398/",
+      "publishedAt": "2026-04-27T04:00:00.000Z",
+      "summary": "5人組ダンスボーカルグループM!LKが、新曲「アイドルパワー」を本日4月27日(月)に配信リリースした。 本楽曲はM!LKの最新プロジェクト「モー烈モー進！リリースプロジェクト2026」の幕開けを飾るデジタルシングル。このプロジェクトでは4月から8月までの5ヵ月間に計5曲がリリース予定で、その第一弾となる「アイドルパワー」は“2026年、日本を元気に！”とい",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "4f4ae807a0381eae",
+      "title": "板垣李光人らが全感情をむき出す『口に関するアンケート』予告、中村獅童＆柄本時生が新キャストに",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/04/85273/",
+      "publishedAt": "2026-04-26T22:00:00.000Z",
+      "summary": "板垣李光人主演のホラー映画『口に関するアンケート』の公開日が7月3日(金)に決定し、本予告と本ポスター、新キャストが一挙解禁された。 原作は、『近畿地方のある場所について』の映画化でも話題となったホラー作家・背筋による累計32万部突破の同名小説。手のひらサイズの装丁と60ページという短さでしっかりと恐怖を味わえる“新感覚な読書体験”が話題となり、この度ホラー",
+      "groups": [
+        "BUDDiiS"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "SHOOT",
+          "group": "BUDDiiS",
           "status": "active"
         }
       ]
