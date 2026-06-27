@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T16:19:27.113Z",
+  "updatedAt": "2026-06-27T21:46:34.937Z",
   "articles": [
     {
       "id": "c9f7b28b3ff0c436",
@@ -50,20 +50,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "6da9fcdb27413482",
-      "title": "超特急がジェジュンと相撲勝負で遊ぶ、思わずハグしてしまう場面も",
-      "sourceName": "音楽ナタリー",
-      "sourceUrl": "https://natalie.mu/music/feed/news",
-      "articleUrl": "https://natalie.mu/music/news/678068",
-      "publishedAt": "2026-06-27T03:00:00.000Z",
-      "summary": "6月29日に日本テレビ（関東ローカル）で放送される超特急の冠番組「VS.超特急」にジェジュンが登場する。",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "7c33aade513fa6d8",
