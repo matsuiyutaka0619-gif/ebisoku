@@ -1,6 +1,56 @@
 {
-  "updatedAt": "2026-06-27T09:34:11.556Z",
+  "updatedAt": "2026-06-27T16:19:27.113Z",
   "articles": [
+    {
+      "id": "c9f7b28b3ff0c436",
+      "title": "原因は自分にある。新曲「火宴」リリース、アニメ「鉄鍋のジャン！」OP主題歌",
+      "sourceName": "音楽ナタリー",
+      "sourceUrl": "https://natalie.mu/music/feed/news",
+      "articleUrl": "https://natalie.mu/music/news/678143",
+      "publishedAt": "2026-06-27T11:30:00.000Z",
+      "summary": "原因は自分にある。の新曲「火宴」が7月6日に配信リリースされる。",
+      "groups": [
+        "原因は自分にある。"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "0b787c8738139080",
+      "title": "原因は自分にある。、TVアニメ『鉄鍋のジャン！』OP主題歌の「火宴」配信決定",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1074698",
+      "publishedAt": "2026-06-27T11:30:00.000Z",
+      "summary": "原因は自分にある。（通称：ゲンジブ）が、新曲「火宴」（読み：かえん）を7月6日に配信リリースすることを発表した。 「火宴」は、TVアニメ『鉄鍋のジャン！』のオープニング主題歌で、揺らぐことのなく、自分自身のスタンスを信じて道を切り開いていく様が描かれているという。主人公・秋山醬の生き様と熱さを表現した、まさに燃え上がるような、理屈と狂気が混ざったゲンジブらし",
+      "groups": [
+        "原因は自分にある。"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "7bba73a843a810db",
+      "title": "M!LK塩﨑太智がXアカウント開設、初手で三点倒立",
+      "sourceName": "音楽ナタリー",
+      "sourceUrl": "https://natalie.mu/music/feed/news",
+      "articleUrl": "https://natalie.mu/music/news/678150",
+      "publishedAt": "2026-06-27T11:04:00.000Z",
+      "summary": "M!LKの塩﨑太智が、本日6月27日に個人のX公式アカウント（@shiozaki__info）を開設した。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "塩﨑太智",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "6da9fcdb27413482",
       "title": "超特急がジェジュンと相撲勝負で遊ぶ、思わずハグしてしまう場面も",
