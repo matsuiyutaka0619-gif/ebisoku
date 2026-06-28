@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-06-28T16:43:37.933Z",
+  "updatedAt": "2026-06-28T21:47:08.528Z",
   "articles": [
+    {
+      "id": "f8a06eddd9c850b2",
+      "title": "からあげクン大好きなM!LK佐野勇斗、謎味マンとのCMで「爆裂うめぇ～!!」",
+      "sourceName": "音楽ナタリー",
+      "sourceUrl": "https://natalie.mu/music/feed/news",
+      "articleUrl": "https://natalie.mu/music/news/677855",
+      "publishedAt": "2026-06-28T19:00:00.000Z",
+      "summary": "佐野勇斗（M!LK）が出演するローソンの新テレビCM「近所の佐野くんVS謎味マン」編が、6月29日より全国で放送される。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "638b891bfc946be4",
+      "title": "M!LK佐野勇斗、梅沢富美男の声が好きと“告白”「渋い声を出せるようになりたい」",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1022216/",
+      "publishedAt": "2026-06-28T19:00:00.000Z",
+      "summary": "5人組ダンスボーカルグループ・M!LKの佐野勇斗が、29日より全国で放送開始となるローソンの新CMに出演することが同日発表された。俳優の梅沢富美男と共演する。ローソンの新CMに出演 5人組ダンスボーカルグループ・M!L […]",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "0f8ffe8b9c00b18b",
       "title": "M!LK冠番組で挑戦する“爆裂ミッション”は回転寿司、カラオケ、わらしべ長者企画",
@@ -14,28 +58,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "6113f27837dad6cc",
-      "title": "SUPER★DRAGON、メジャー1stアルバム収録曲「NPC」が飯島颯出演のドラマED主題歌に起用",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/06/post-2442631.html",
-      "publishedAt": "2026-06-28T06:26:19.000Z",
-      "summary": "SUPER★DRAGONの楽曲「NPC」が、8月7日より放送開始となる新ドラマ『席替えしたら、どうやら後ろの男が俺のこと好きらしい』（BSフジ）のエンディング主題歌に起用される。 本ドラマは、第1回『ノベマ！BL短編",
-      "groups": [
-        "SUPER★DRAGON"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "飯島颯",
-          "group": "SUPER★DRAGON",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "7c33aade513fa6d8",
