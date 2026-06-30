@@ -1,19 +1,49 @@
 {
-  "updatedAt": "2026-06-30T11:31:49.656Z",
+  "updatedAt": "2026-06-30T18:25:23.652Z",
   "articles": [
     {
-      "id": "98a429f797a123e4",
-      "title": "M！LK「うれしすぎて滅」受賞の喜びをメッセージ寄せる TikTokミュージック部門賞",
+      "id": "1a5d7f19377628d2",
+      "title": "佐野勇斗、トイ・ストーリー声優になり「生活気をつけないと」M！LK内のルールも明かす",
       "sourceName": "日刊スポーツ 芸能",
       "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202606300001693.html",
-      "publishedAt": "2026-06-30T11:11:58.000Z",
-      "summary": "「TikTok上半期トレンド大賞2026」授賞式が30日、都内で開催され、ミュージック部門賞をM!LKが受賞した。 授賞式を欠席したM!LKはメッセージを寄せた。「うれしすぎて滅です。本当にありがとうございます」とし、「滅は“好きすぎて…",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202606300001865.html",
+      "publishedAt": "2026-06-30T12:04:33.000Z",
+      "summary": "M!LK佐野勇斗（28）が30日、都内でディズニー映画「トイ・ストーリー5」（7月3日公開）ジャパンプレミア舞台あいさつに登壇した。 シリーズ開始から30周年で、7年ぶりの新作。本作では、タブレットに夢中な周囲の子どもたちと話が合わず、…",
       "groups": [
         "M!LK"
       ],
-      "statuses": [],
-      "memberMatches": []
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "ff1ace72b10442f3",
+      "title": "BUDDiiS小川史記、瀬戸利樹からの「唇柔らかいね」に大照れ キスシーン直後のエピソード明かす",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1023130/",
+      "publishedAt": "2026-06-30T11:52:07.000Z",
+      "summary": "ダンス＆ボーカルグループ・BUDDiiSの小川史記と俳優の瀬戸利樹が30日、都内で行われたTOKYO MXの連続ドラマ『しもべの王子様』（金曜午後11時、7月3日スタート）の制作発表会見に出席した。ドラマ『しもべの王子様 […]",
+      "groups": [
+        "BUDDiiS"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "FUMINORI",
+          "group": "BUDDiiS",
+          "status": "active"
+        }
+      ]
     },
     {
       "id": "de46a9ef53652490",
