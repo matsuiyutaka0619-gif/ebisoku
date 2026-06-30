@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-06-29T22:20:33.790Z",
+  "updatedAt": "2026-06-30T11:31:49.656Z",
   "articles": [
     {
-      "id": "fb473233e8c23790",
-      "title": "M!LK、JOYSOUND上半期で急浮上 「好きすぎて滅!」総合2位＆「爆裂愛してる」2026年発売曲1位",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-      "articleUrl": "https://news.mynavi.jp/article/20260630-4644550/",
-      "publishedAt": "2026-06-29T19:00:00.000Z",
-      "summary": "M!LKが、30日に発表された「2026年JOYSOUND カラオケ上半期ランキング」で躍進した。カラオケ総合ランキングの楽曲別では「好きすぎて滅!」が2位に入り、2026年発売曲ランキングでは「爆裂愛してる」が1位を獲得。さらに、ボーイズグループランキングでも「爆裂愛してる」が首位となり、「クルクルエンド」「アイドルパワー」もランクインするなど、“推し活”",
+      "id": "98a429f797a123e4",
+      "title": "M！LK「うれしすぎて滅」受賞の喜びをメッセージ寄せる TikTokミュージック部門賞",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202606300001693.html",
+      "publishedAt": "2026-06-30T11:11:58.000Z",
+      "summary": "「TikTok上半期トレンド大賞2026」授賞式が30日、都内で開催され、ミュージック部門賞をM!LKが受賞した。 授賞式を欠席したM!LKはメッセージを寄せた。「うれしすぎて滅です。本当にありがとうございます」とし、「滅は“好きすぎて…",
       "groups": [
         "M!LK"
       ],
@@ -16,13 +16,35 @@
       "memberMatches": []
     },
     {
-      "id": "c33d4e47cebff68a",
-      "title": "M!LK 塩﨑太智、新曲「しおざきわんだーらんど」配信リリース 永井ゆうじ書き下ろしのジャケットも",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/06/post-2443735.html",
-      "publishedAt": "2026-06-29T11:50:41.000Z",
-      "summary": "M!LKの塩﨑太智が、新曲「しおざきわんだーらんど」を7月6日に配信リリースする。 本楽曲は、5カ月連続リリース企画『モー烈モー進！リリースプロジェクト2026』の第3弾シングル。世界のワンダフルな真理について明るく",
+      "id": "de46a9ef53652490",
+      "title": "SUPER★DRAGON、人気曲「NPC」が飯島颯出演のドラマ『席替えしたら、どうやら後ろの男が俺のこと好きらしい』エンディング主題歌に決定！",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/music2/634594.html",
+      "publishedAt": "2026-06-30T09:00:33.000Z",
+      "summary": "9人組ミクスチャーユニット・SUPER★DRAGON（通称：スパドラ）の楽曲「NPC」が、2026年8月7日よりBSフジにて放送開始となる新ドラマ『席替えしたら、どうやら後ろの男が俺のこと好きらしい』のエンディング主題歌に決定した。ドラマ『席替えしたら、どうやら後ろの男 ... The post SUPER★DRAGON、人気曲「NPC」が飯島颯出演のドラマ",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "飯島颯",
+          "group": "SUPER★DRAGON",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "8a9c3dc8c78aca2d",
+      "title": "M!LK・塩﨑太智「ギャギャギャ」と「尻尾ピピピピ」身体で表現！曽野舜太、吉田仁人とジャンボイベ",
+      "sourceName": "Edge Line",
+      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/200669",
+      "publishedAt": "2026-06-30T05:39:17.000Z",
+      "summary": "アイドルグループ『M!LK』の塩﨑太智、曽野舜太、吉田仁人が6月30日に都内で『サマージャンボプレミアム』、『サマージャンボ宝くじ』、『サマージャンボミニ』発売記念イベントに俳優・吉岡里帆とともに登場した。 ジャンボ...",
       "groups": [
         "M!LK"
       ],
@@ -34,20 +56,61 @@
           "name": "塩﨑太智",
           "group": "M!LK",
           "status": "active"
+        },
+        {
+          "name": "曽野舜太",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
         }
       ]
     },
     {
-      "id": "59d90ed0c33b3ed8",
-      "title": "EBiDANはなぜ人々の心を掴んだのか？ Webメディア「QuizKnock」の元編集者山森彩加氏と考える全力な人を応援したくなる心理",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/06/post-2441265.html",
-      "publishedAt": "2026-06-29T11:00:31.000Z",
-      "summary": "QuizKnockの運営会社としても知られる株式会社batonでイベント企画などを担当する山森彩加氏は、自他共に認める熱心な“8号車”（超特急ファン）としてSNSに応援の様子を綴っている。なぜ、人々はEBiDANにハマるのかーー夢を掲げるアーティストを応援する楽しさを独自の目線で語ってもらった。",
+      "id": "af3093b93401f2b1",
+      "title": "M!LK・塩﨑太智、曽野舜太、吉田仁人 招き猫グッズに大興奮！サマージャンボイベ登場",
+      "sourceName": "Edge Line",
+      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/200667",
+      "publishedAt": "2026-06-30T00:27:12.000Z",
+      "summary": "アイドルグループ『M!LK』の塩﨑太智、曽野舜太、吉田仁人が6月30日に都内で『サマージャンボプレミアム』、『サマージャンボ宝くじ』、『サマージャンボミニ』発売記念イベントに俳優・吉岡里帆とともに登場した。 ジャンボ...",
       "groups": [
-        "EBiDAN",
-        "超特急"
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "塩﨑太智",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "曽野舜太",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "fb473233e8c23790",
+      "title": "M!LK、JOYSOUND上半期で急浮上 「好きすぎて滅!」総合2位＆「爆裂愛してる」2026年発売曲1位",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
+      "articleUrl": "https://news.mynavi.jp/article/20260630-4644550/",
+      "publishedAt": "2026-06-29T19:00:00.000Z",
+      "summary": "M!LKが、30日に発表された「2026年JOYSOUND カラオケ上半期ランキング」で躍進した。カラオケ総合ランキングの楽曲別では「好きすぎて滅!」が2位に入り、2026年発売曲ランキングでは「爆裂愛してる」が1位を獲得。さらに、ボーイズグループランキングでも「爆裂愛してる」が首位となり、「クレッシェンド」「アイドルパワー」もランクインするなど、“推し活”",
+      "groups": [
+        "M!LK"
       ],
       "statuses": [],
       "memberMatches": []
