@@ -1,14 +1,29 @@
 {
-  "updatedAt": "2026-06-30T18:25:23.652Z",
+  "updatedAt": "2026-07-01T11:46:26.071Z",
   "articles": [
     {
-      "id": "1a5d7f19377628d2",
-      "title": "佐野勇斗、トイ・ストーリー声優になり「生活気をつけないと」M！LK内のルールも明かす",
+      "id": "fa452766ea35ebc6",
+      "title": "ICEx、2000人ファンと夏の“プンプン旋風”「幸せ」３年ぶりアルバムイベント６曲熱唱",
       "sourceName": "日刊スポーツ 芸能",
       "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202606300001865.html",
-      "publishedAt": "2026-06-30T12:04:33.000Z",
-      "summary": "M!LK佐野勇斗（28）が30日、都内でディズニー映画「トイ・ストーリー5」（7月3日公開）ジャパンプレミア舞台あいさつに登壇した。 シリーズ開始から30周年で、7年ぶりの新作。本作では、タブレットに夢中な周囲の子どもたちと話が合わず、…",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202607010001149.html",
+      "publishedAt": "2026-07-01T10:00:00.000Z",
+      "summary": "結成4年を迎えたEBiDAN所属の8人組ダンスボーカルグループ、ICExが1日、都内で2ndアルバム「FRESH!!」発売記念スペシャルイベントを行った。 3年ぶりのアルバムに、「2枚目を出せるのは幸せ。3年間の成長したICExの姿を表…",
+      "groups": [
+        "EBiDAN",
+        "ICEx"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "cecb7ab43160a02d",
+      "title": "M!LK佐野勇斗、“夢”を与える立場になって感じたこととは「気を付けていかなきゃ…」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260701-4650516/",
+      "publishedAt": "2026-07-01T10:00:00.000Z",
+      "summary": "「こういう奴なんだと思われないように……」M!LKの佐野勇斗が6月30日、都内で行われたディズニー&ピクサー映画『トイ・ストーリー5』(7月3日公開)のジャパンプレミア舞台挨拶に登壇。大ファンだという作品に参加した熱い思いを語った。",
       "groups": [
         "M!LK"
       ],
@@ -19,28 +34,6 @@
         {
           "name": "佐野勇斗",
           "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "ff1ace72b10442f3",
-      "title": "BUDDiiS小川史記、瀬戸利樹からの「唇柔らかいね」に大照れ キスシーン直後のエピソード明かす",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1023130/",
-      "publishedAt": "2026-06-30T11:52:07.000Z",
-      "summary": "ダンス＆ボーカルグループ・BUDDiiSの小川史記と俳優の瀬戸利樹が30日、都内で行われたTOKYO MXの連続ドラマ『しもべの王子様』（金曜午後11時、7月3日スタート）の制作発表会見に出席した。ドラマ『しもべの王子様 […]",
-      "groups": [
-        "BUDDiiS"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "FUMINORI",
-          "group": "BUDDiiS",
           "status": "active"
         }
       ]
@@ -63,70 +56,6 @@
         {
           "name": "飯島颯",
           "group": "SUPER★DRAGON",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "8a9c3dc8c78aca2d",
-      "title": "M!LK・塩﨑太智「ギャギャギャ」と「尻尾ピピピピ」身体で表現！曽野舜太、吉田仁人とジャンボイベ",
-      "sourceName": "Edge Line",
-      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/200669",
-      "publishedAt": "2026-06-30T05:39:17.000Z",
-      "summary": "アイドルグループ『M!LK』の塩﨑太智、曽野舜太、吉田仁人が6月30日に都内で『サマージャンボプレミアム』、『サマージャンボ宝くじ』、『サマージャンボミニ』発売記念イベントに俳優・吉岡里帆とともに登場した。 ジャンボ...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "塩﨑太智",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "曽野舜太",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "af3093b93401f2b1",
-      "title": "M!LK・塩﨑太智、曽野舜太、吉田仁人 招き猫グッズに大興奮！サマージャンボイベ登場",
-      "sourceName": "Edge Line",
-      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/200667",
-      "publishedAt": "2026-06-30T00:27:12.000Z",
-      "summary": "アイドルグループ『M!LK』の塩﨑太智、曽野舜太、吉田仁人が6月30日に都内で『サマージャンボプレミアム』、『サマージャンボ宝くじ』、『サマージャンボミニ』発売記念イベントに俳優・吉岡里帆とともに登場した。 ジャンボ...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "塩﨑太智",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "曽野舜太",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
           "status": "active"
         }
       ]
@@ -176,20 +105,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "7c33aade513fa6d8",
-      "title": "「え、ちょっと待って」「爆裂うれしすぎて滅!」M!LK、上半期全10部門通じて自身初の1位",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260625-4626117/",
-      "publishedAt": "2026-06-25T02:22:30.000Z",
-      "summary": "5人組ダンスボーカルグループ・M!LKのシングル「爆裂愛してる / 好きすぎて滅!」が、25日発表の「オリコン上半期ランキング2026」において、作品別売上数部門「合算シングルランキング」で1位を獲得した。M!LKにとって同ランキングでの首位は初めてで、上半期全10部門を通じても自身初の1位となる。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "acc28d47453a073a",
