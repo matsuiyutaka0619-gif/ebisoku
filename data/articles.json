@@ -1,28 +1,6 @@
 {
-  "updatedAt": "2026-07-02T18:19:29.498Z",
+  "updatedAt": "2026-07-03T10:17:52.931Z",
   "articles": [
-    {
-      "id": "794e8f0ef2ffd7da",
-      "title": "星野源、書き下ろし新曲がドラマ『君の好きは無敵』主題歌に 第1話の放送で楽曲初公開",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/07/post-2448257.html",
-      "publishedAt": "2026-07-02T11:00:46.000Z",
-      "summary": "星野源が、7月14日にスタートする火曜ドラマ『君の好きは無敵』（TBS）の主題歌を書き下ろすことが発表された。 同ドラマは、松本若菜が主演を務め、佐野勇斗が共演する完全オリジナルストーリー。株式会社サンリオが取材協力",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
     {
       "id": "de844f6813495d21",
       "title": "超特急ユーキが、ONE LOVE ONE HEART夏のワンマンライブの演出を務めることが決定！",
@@ -46,50 +24,6 @@
       ]
     },
     {
-      "id": "81315675286bcb88",
-      "title": "「その一瞬を…」「最近は…」M!LK佐野勇斗、握手会で意識していることを明かす",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-      "articleUrl": "https://news.mynavi.jp/article/20260702-4654158/",
-      "publishedAt": "2026-07-02T10:00:00.000Z",
-      "summary": "「マジでその一瞬を大事にしようって、めっちゃ思う」M!LKの佐野勇斗が、ファンとの握手会について語った――。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "cd52120f51d22503",
-      "title": "松本若菜×佐野勇斗『君の好きは無敵』主題歌は星野源書き下ろし 楽曲は初回放送で初披露",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/07/post-2447859.html",
-      "publishedAt": "2026-07-02T09:00:47.000Z",
-      "summary": "7月14日よりTBS系にて放送がスタートする松本若菜主演ドラマ『君の好きは無敵』の主題歌が、星野源による書き下ろしの新曲になることが発表された。 完全オリジナルストーリーである本作は、世界に広がり続ける日本の“かわい",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "cecb7ab43160a02d",
       "title": "M!LK佐野勇斗、“夢”を与える立場になって感じたこととは「気を付けていかなきゃ…」",
       "sourceName": "マイナビニュース 映画",
@@ -107,28 +41,6 @@
         {
           "name": "佐野勇斗",
           "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "de46a9ef53652490",
-      "title": "SUPER★DRAGON、人気曲「NPC」が飯島颯出演のドラマ『席替えしたら、どうやら後ろの男が俺のこと好きらしい』エンディング主題歌に決定！",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/music2/634594.html",
-      "publishedAt": "2026-06-30T09:00:33.000Z",
-      "summary": "9人組ミクスチャーユニット・SUPER★DRAGON（通称：スパドラ）の楽曲「NPC」が、2026年8月7日よりBSフジにて放送開始となる新ドラマ『席替えしたら、どうやら後ろの男が俺のこと好きらしい』のエンディング主題歌に決定した。ドラマ『席替えしたら、どうやら後ろの男 ... The post SUPER★DRAGON、人気曲「NPC」が飯島颯出演のドラマ",
-      "groups": [
-        "SUPER★DRAGON"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "飯島颯",
-          "group": "SUPER★DRAGON",
           "status": "active"
         }
       ]
