@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T21:50:28.550Z",
+  "updatedAt": "2026-07-04T09:10:28.841Z",
   "articles": [
     {
       "id": "3ccd4d4c2a200bef",
@@ -19,50 +19,6 @@
         {
           "name": "佐野勇斗",
           "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "407c71c1b4b5c2bc",
-      "title": "「それだけはやめて!」「申し訳ないなって…」M!LK佐野勇斗がどうしても応えられないファンの“お願い”とは",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-      "articleUrl": "https://news.mynavi.jp/article/20260703-4654187/",
-      "publishedAt": "2026-07-03T12:00:00.000Z",
-      "summary": "「俺が全部断ってるのは……」M!LKの佐野勇斗が、ファンからの“あるお願い”に本音を明かした――。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "de844f6813495d21",
-      "title": "超特急ユーキが、ONE LOVE ONE HEART夏のワンマンライブの演出を務めることが決定！",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/music2/653183.html",
-      "publishedAt": "2026-07-02T11:00:06.000Z",
-      "summary": "8/6(木)Shibuya LOVEZにて開催される男女混合9人組ONE LOVE ONE HEART(ヨミ：ﾜﾝﾗﾌﾞﾜﾝﾊｰﾄ)のワンマンライブの演出を、超特急のユーキが担当することが発表された。ユーキは自身が所属する超特急のライブ演出を務めてきたが、他アーティスト ... The post 超特急ユーキが、ONE LOVE ONE HEART夏のワンマ",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "ユーキ",
-          "group": "超特急",
           "status": "active"
         }
       ]
