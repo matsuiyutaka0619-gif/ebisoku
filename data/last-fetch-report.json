@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T21:41:15.945Z",
+  "updatedAt": "2026-07-05T08:24:46.390Z",
   "sources": [
     {
       "source": "日刊スポーツ 芸能",
@@ -28,9 +28,8 @@
     },
     {
       "source": "音楽ナタリー",
-      "count": 0,
-      "ok": false,
-      "error": "HTTP 405"
+      "count": 30,
+      "ok": true
     },
     {
       "source": "マイナビニュース エンタメ",
@@ -100,6 +99,26 @@
     {
       "source": "Edge Line",
       "count": 10,
+      "ok": true
+    },
+    {
+      "source": "超特急 公式NEWS",
+      "count": 100,
+      "ok": true
+    },
+    {
+      "source": "SUPER★DRAGON 公式NEWS",
+      "count": 100,
+      "ok": true
+    },
+    {
+      "source": "タワーレコード ニュース",
+      "count": 50,
+      "ok": true
+    },
+    {
+      "source": "THE FIRST TIMES",
+      "count": 30,
       "ok": true
     }
   ]

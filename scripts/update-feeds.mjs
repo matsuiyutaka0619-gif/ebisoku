@@ -63,7 +63,7 @@ async function fetchText(url) {
     const response = await fetch(url, {
       signal: controller.signal,
       headers: {
-        "user-agent": "SakamichiSokuho/0.1 (+https://github.com/)"
+        "user-agent": "Ebisoku/0.1 (+https://github.com/)"
       }
     });
     if (!response.ok) throw new Error(`HTTP ${response.status}`);

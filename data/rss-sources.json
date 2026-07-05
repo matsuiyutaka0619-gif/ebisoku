@@ -189,6 +189,34 @@
     "notes": "舞台・イベント系"
   },
   {
+    "name": "超特急 公式NEWS",
+    "url": "https://bullettrain.jp/news/feed/",
+    "enabled": true,
+    "priority": "high",
+    "notes": "公式NEWS RSS。超特急とEBiDAN横断ニュース向け"
+  },
+  {
+    "name": "SUPER★DRAGON 公式NEWS",
+    "url": "https://super-dragon.jp/news/feed/",
+    "enabled": true,
+    "priority": "high",
+    "notes": "公式NEWS RSS。SUPER★DRAGONとEBiDAN横断ニュース向け"
+  },
+  {
+    "name": "タワーレコード ニュース",
+    "url": "https://tower.jp/feeds/article/news",
+    "enabled": true,
+    "priority": "medium",
+    "notes": "音楽リリース・イベント情報向け。RSS取得確認済み"
+  },
+  {
+    "name": "THE FIRST TIMES",
+    "url": "https://www.thefirsttimes.jp/feed/",
+    "enabled": true,
+    "priority": "medium",
+    "notes": "音楽ニュース向け。RSS取得確認済み"
+  },
+  {
     "name": "Yahoo!ニュース RSS",
     "url": "https://news.yahoo.co.jp/rss/topics/entertainment.xml",
     "enabled": false,
