@@ -1,16 +1,153 @@
 {
-  "updatedAt": "2026-07-05T21:42:06.917Z",
+  "updatedAt": "2026-07-06T14:08:48.976Z",
   "articles": [
     {
-      "id": "521a34f04a446e08",
-      "title": "原因は自分にある。、11月に5thシングル発売決定",
+      "id": "f35e85c59d9de0a7",
+      "title": "『BULLET TRAIN ARENA TOUR 2026 ESCORT』オフィシャルグッズ＆生写真セット 【7/14(火)、15(水) GLION ARENA KOBE公演】会場販売＆整理券配布のお知らせ",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26292/",
+      "publishedAt": "2026-07-06T10:59:26.000Z",
+      "summary": "「BULLET TRAIN ARENA TOUR 2026 ESCORT」GLION ARENA KOBE公演の会場販売が決定しました！ 7/14(火)、15(水)GLION ARENA KOBE公演では、 熱中症対策・ […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "e8e4ef63601574e1",
+      "title": "映画『口に関するアンケート』メイキング映像公開！板垣李光人、MOMONA（ME:I）、森愁斗（BUDDiiS）らの素顔＆舞台裏に密着",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000841723/",
+      "publishedAt": "2026-07-06T09:40:21.000Z",
+      "summary": "板垣李光人主演、MOMONA（ME:I）、森愁斗（BUDDiiS）らが出演する映画『口に関するアンケート...",
+      "groups": [
+        "BUDDiiS"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "SHOOT",
+          "group": "BUDDiiS",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "f8fae65234e1a2ce",
+      "title": "M!LK塩﨑太智の新曲「しおざきわんだーらんど」配信リリース！MVも公開",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000841472/",
+      "publishedAt": "2026-07-06T09:30:40.000Z",
+      "summary": "M!LKの塩﨑太智が、7月6日に「しおざきわんだーらんど」を配信リリース。併せてMVも公開された...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "塩﨑太智",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "2848daa2d2e5cd1b",
+      "title": "M!LK・塩﨑太智、「しおざきわんだーらんど」本日リリース＆MV公開。笑顔が溢れるようなキャッチーな振り付けに注目",
       "sourceName": "BARKS",
       "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1076606",
-      "publishedAt": "2026-07-05T11:30:20.000Z",
-      "summary": "原因は自分にある。（通称：ゲンジブ）が、11月11日に5枚目のシングルを発売することを発表した。 この発売決定の知らせは本日5日に有明アリーナにて開催したアリーナツアー＜ARENA TOUR 2026 仮ノ現＞ファイナル公演の終演後に映像内でサプライズ発表され、観測者（ファンの呼称）の大歓声に包まれ幕を閉じた。ニューシングルの詳細は後日発表となる。 また、こ",
+      "articleUrl": "https://barks.jp/news/1076806",
+      "publishedAt": "2026-07-06T09:30:00.000Z",
+      "summary": "M!LK・塩﨑太智が、「しおざきわんだーらんど」を本日配信リリースした。 本楽曲は、この世界のワンダフルな真理について明るく楽しくハッピーに歌う一曲であり、キャッチーなフレーズや次々と表情を変えるメロディなど、どこを切り取っても“塩﨑太智”の要素が満載のポップナンバーに仕上がっているという。 配信リリース後、MVも公開された。映像内では、水兵風の衣装をまとっ",
       "groups": [
-        "原因は自分にある。"
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "塩﨑太智",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "曽野舜太",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "211ffc839ab4091d",
+      "title": "水兵風の塩﨑太智が子供たちと楽しくダンス、本日配信の新曲「しおざきわんだーらんど」MV公開",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/07/88741/",
+      "publishedAt": "2026-07-06T09:30:00.000Z",
+      "summary": "5人組ダンス＆ボーカルグループ・M!LKの塩﨑太智が、本日7月6日(月)に配信リリースしたソロナンバー「しおざきわんだーらんど」のミュージックビデオを公開した。 本楽曲は、M!LKの5作連続新曲リリース企画「モー烈モー進！リリースプロジェクト2026」の第三弾楽曲。この世界のワンダフルな真理について明るく楽しくハッピーに歌う一曲で、キャッチーなフレーズや次々",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "塩﨑太智",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "7a49e19488a95d92",
+      "title": "『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット事前通販決定！",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news11376/",
+      "publishedAt": "2026-07-06T09:00:41.000Z",
+      "summary": "8月13日(木)～8月16日(日)に開催される『EBiDAN THE LIVE 2026 15th Anniversary』に先駆け、オフィシャルグッズ＆生写真セットの事前通販が決定いたしました！！今年も一部グッズをHM […] The post 『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット事",
+      "groups": [
+        "EBiDAN",
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "cd157eadad31df34",
+      "title": "『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット事前通販決定！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26283/",
+      "publishedAt": "2026-07-06T08:59:44.000Z",
+      "summary": "8月13日(木)～8月16日(日)に開催される『EBiDAN THE LIVE 2026 15th Anniversary』に先駆け、オフィシャルグッズ＆生写真セットの事前通販が決定いたしました！！今年も一部グッズをHM […]",
+      "groups": [
+        "EBiDAN"
       ],
       "statuses": [],
       "memberMatches": []
@@ -218,28 +355,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "b39e06f1212e2c5c",
-      "title": "塩﨑太智（M!LK）、“しおざきわんだーらんど”7月6日配信リリース決定。ジャケ写は人気漫画家 永井ゆうじによる描き下ろしデザイン",
-      "sourceName": "タワーレコード ニュース",
-      "sourceUrl": "https://tower.jp/feeds/article/news",
-      "articleUrl": "https://tower.jp/article/news/2026/06/30/tg003",
-      "publishedAt": "2026-06-30T08:20:00.000Z",
-      "summary": "",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "塩﨑太智",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "fb473233e8c23790",
@@ -2543,84 +2658,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "c64c5d15cc2bc789",
-      "title": "「VS.超特急」 超特急オフィシャルグッズ会場販売のお知らせ！",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news25875/",
-      "publishedAt": "2026-03-27T07:59:41.000Z",
-      "summary": "3/31(火)、4/1(水)に開催される「VS.超特急」の会場にて、超特急オフィシャルグッズを販売いたします。 ご来場予定の方はぜひ物販ブースへお立ち寄りください♪ ***** 【ライブ/グッズ販売情報】 ■VS.超特急 […]",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "96e13efa0fd28c79",
-      "title": "SUPER★DRAGON LIVE TOUR 2026「Studio」4月19日 東京公演 追加販売情報",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news10770/",
-      "publishedAt": "2026-03-27T02:59:36.000Z",
-      "summary": "SOLD OUTとなっておりましたSUPER★DRAGON LIVE TOUR 2026「Studio」東京公演につきまして、 機材席の一部開放に伴い、指定席、また立見の追加販売が決定いたしました。 3月28日(土)10 […] The post SUPER★DRAGON LIVE TOUR 2026「Studio」4月19日 東京公演 追加販売情報 fir",
-      "groups": [
-        "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "26a024fa7383e819",
-      "title": "超特急「SHUYA 31st Anniversary SPECIAL GOODS」&生写真・ミニフォトセットの受注販売が決定！",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news25858/",
-      "publishedAt": "2026-03-25T07:59:33.000Z",
-      "summary": "11号車シューヤの31歳の誕生日を記念して、FC会員限定で「SHUYA 31st Anniversary SPECIAL GOODS」&生写真・ミニフォトセットを受注販売いたします！ 商品をご購入いただいたお客様 […]",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "シューヤ",
-          "group": "超特急",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "8c827783dbe141fe",
-      "title": "『BULLET TRAIN ARENA TOUR 2025-2026 REAL？』LIVE生写真セット＆ミニフォトセット販売決定！",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news25847/",
-      "publishedAt": "2026-03-24T07:59:15.000Z",
-      "summary": "『BULLET TRAIN ARENA TOUR 2025-2026 REAL？』LIVE生写真セット＆ミニフォトセットの販売が決定いたしました！ 公演の熱狂を凝縮したラインナップとなっております。ぜひこの機会にお買い求 […]",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "021730380f6e4f7c",
-      "title": "【+KIRARI】「SUPER★DRAGON March SCRATCH 2026」開催のお知らせ！",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news10762/",
-      "publishedAt": "2026-03-23T11:59:57.000Z",
-      "summary": "3月24日(火)21:00より「SUPER★DRAGON March SCRATCH 2026」の開催が決定しました！ +KIRARI完全撮り下ろしのビジュアルです！ ▼SUPER★DRAGON メンバーコミュニティ h […] The post 【+KIRARI】「SUPER★DRAGON March SCRATCH 2026」開催のお知らせ！ first",
-      "groups": [
-        "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
     }
   ]
 }
