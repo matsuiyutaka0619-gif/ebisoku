@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-07-08T09:32:31.370Z",
+  "updatedAt": "2026-07-08T14:40:47.686Z",
   "articles": [
+    {
+      "id": "c5fcd2c7851c5eff",
+      "title": "7/16(木)開催リリースイベント＠川崎CLUB CITTA‘（神奈川）にて開催リリースイベントLINEアプリを使用した『CD購入整理券』『優先観覧エリア入場整理券』についてのご案内",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news11395/",
+      "publishedAt": "2026-07-08T10:59:36.000Z",
+      "summary": "▼ＣＤ購入整理券について 7/16(木)神奈川・川崎CLUB CITTA‘にて開催するリリースイベントの会場でのＣＤ販売は、会場の混雑緩和のため、LINEアプリを使用した事前応募制の『ＣＤ購入整理券』を導入致します。 Ｃ […] The post 7/16(木)開催リリースイベント＠川崎CLUB CITTA‘（神奈川）にて開催リリースイベントLINEアプリを",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "5024261d19c3b46c",
+      "title": "SUPER★DRAGON 松村和哉 インフルエンザ感染に関するご報告",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news11392/",
+      "publishedAt": "2026-07-08T10:45:08.000Z",
+      "summary": "日頃より、弊社所属グループ「SUPER★DRAGON」を応援いただき、誠にありがとうございます。 メンバーの松村和哉が、インフルエンザに感染していることを確認致しましたのでご報告申し上げます。 今後につきましては、医師の […] The post SUPER★DRAGON 松村和哉 インフルエンザ感染に関するご報告 first appeared on SUP",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "松村和哉",
+          "group": "SUPER★DRAGON",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "28faae20a19af8f1",
       "title": "7月10日放送「ミュージックステーション」、Kis-My-Ft2、Juice=Juice、DOMOTO、Hearts2Hearts、ハンバート ハンバート、M!LK (曽野舜太＆山中柔太朗)出演",
@@ -1394,7 +1430,7 @@
       "sourceUrl": "https://super-dragon.jp/news/feed/",
       "articleUrl": "https://super-dragon.jp/news/news11174/",
       "publishedAt": "2026-06-04T10:59:45.000Z",
-      "summary": "タワーレコードオンラインにて期間内に＜7月16日スペシャルライブ参加抽選権付＞対象商品をご予約いただいた方を対象に、抽選にてイベント内のスペシャルライブにご参加いただけます。 また対象商品のMajor 6th Singl […] The post Major 6th Single「Call Me Asap / NUMBER」7月16日(木)開催リリースイベン",
+      "summary": "【「スペシャルライブ参加券」当日追加配券のお知らせ】 会場CD販売ブースにて下記対象商品3枚のご購入で、当日のスペシャルライブへの参加券を先着で配券させていただきます！ご希望の方は、ご購入の際にレジにて「スペシャルライブ […] The post Major 6th Single「Call Me Asap / NUMBER」7月16日(木)開催リリースイベン",
       "groups": [
         "SUPER★DRAGON"
       ],
@@ -2600,42 +2636,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "1fef1b74252be1b4",
-      "title": "SUPER★DRAGON LIVE TOUR 2026「Studio」チケットトレード情報",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news10776/",
-      "publishedAt": "2026-04-03T09:19:04.000Z",
-      "summary": "4月12日(日)開催SUPER★DRAGON LIVE TOUR 2026「Studio」大阪公演につきまして、 ご都合によりご来場が難しくなったお客様を対象に、本日4月3日(金)18:00よりチケットトレードを実施いた […] The post SUPER★DRAGON LIVE TOUR 2026「Studio」チケットトレード情報 first appe",
-      "groups": [
-        "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "5a0d7aac112ccec2",
-      "title": "超特急「HARU 21st Anniversary SPECIAL GOODS」&生写真・ミニフォトセットの受注販売が決定！",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news25899/",
-      "publishedAt": "2026-03-31T07:59:15.000Z",
-      "summary": "14号車ハルの21歳の誕生日を記念して、FC会員限定で「HARU 21st Anniversary SPECIAL GOODS」&生写真・ミニフォトセットを受注販売いたします！ 商品をご購入いただいたお客様にはオ […]",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "ハル",
-          "group": "超特急",
-          "status": "active"
-        }
-      ]
     }
   ]
 }
