@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T09:52:55.951Z",
+  "updatedAt": "2026-07-10T14:51:17.428Z",
   "articles": [
     {
       "id": "14cbec71089a2e5b",
@@ -28,48 +28,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "acd2869a49272906",
-      "title": "M!LK、1stミニアルバムタイトルが「LOVE ENG!NE」に正式決定。ジャケット写真＆購入特典絵柄の一部解禁も",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1077557",
-      "publishedAt": "2026-07-10T08:00:00.000Z",
-      "summary": "M!LKが、9月16日にリリースする1stミニアルバムのタイトルが「LOVE ENG!NE」に正式決定したことを発表した。あわせて、ジャケット写真も公開された。 前作となるメジャー8thシングル「爆裂愛してる / 好きすぎて滅！」では、“多様な愛”をテーマに表現してきたM!LK。本作では、その愛が人を前へと突き動かす”エンジン（原動力）”へと進化し、新たなコ",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "塩﨑太智",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "曽野舜太",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "山中柔太朗",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "d04e729ed22127a2",
@@ -127,28 +85,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "3f32d86dc806661d",
-      "title": "佐野勇斗×山崎賢人の肩組み2ショット！イケメンふたりが並ぶ姿に「かっこよすぎて滅」「眼福」「めちゃくちゃかっこいい」と歓喜の声続々",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000843922/",
-      "publishedAt": "2026-07-10T03:00:28.000Z",
-      "summary": "M!LKの佐野勇斗が自身のInstagramを更新し、俳優の山崎賢人（「崎」はたつさきが正式表記）と...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "a554aecc620c3a36",
@@ -2649,6 +2585,35 @@
       "summary": "結成15周年目を迎えた超特急が贈る、ガチでトンチキなテーマパーク 超特急 presents『超！トンチキランド』が開園決定！ ラフォーレミュージアム原宿にて、2026年5月2日(土)〜5月24日(日)の期間限定で開園しま […]",
       "groups": [
         "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "fd67867cc532ffb2",
+      "title": "【SUPERSTAR EBiDAN】祝2.5周年！大人気テーマが「リアルカード」として登場！",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news10816/",
+      "publishedAt": "2026-04-08T08:29:12.000Z",
+      "summary": "EBiDAN公式リズムゲームアプリ『SUPERSTAR EBiDAN』(シュスエビ)では、2.5周年を記念し、4月9日(木)メンテナンス後よりゲーム内にてキャンペーンを実施いたします。 期間中は、カードをデジタル上でも楽 […] The post 【SUPERSTAR EBiDAN】祝2.5周年！大人気テーマが「リアルカード」として登場！ first app",
+      "groups": [
+        "EBiDAN",
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "dd1fa2571a555a57",
+      "title": "『SUPERSTAR EBiDAN』祝2.5周年！大人気テーマが「リアルカード」として登場！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news25947/",
+      "publishedAt": "2026-04-08T07:58:56.000Z",
+      "summary": "EBiDAN公式リズムゲームアプリ『SUPERSTAR EBiDAN』(シュスエビ)では、2.5周年を記念し、 4月9日(木)メンテナンス後よりゲーム内にてキャンペーンを実施いたします。 期間中は、カードをデジタル上でも […]",
+      "groups": [
+        "EBiDAN"
       ],
       "statuses": [],
       "memberMatches": []
