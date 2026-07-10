@@ -1,16 +1,129 @@
 {
-  "updatedAt": "2026-07-10T04:14:09.508Z",
+  "updatedAt": "2026-07-10T09:52:55.951Z",
   "articles": [
     {
-      "id": "5e38ebb3172dde23",
-      "title": "YAO、Ado、SEKAI NO OWARI、キタニタツヤ、ME:I、原因は自分にある。……注目新譜6作をレビュー",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/07/post-2455111.html",
-      "publishedAt": "2026-07-10T03:10:09.000Z",
-      "summary": "毎週発表される新譜の中から注目作品をレビューしていく連載「New Releases In Focus」。今回は、YAO「777 (feat. Awich, CHICO CARLITO, ONE OK ROCK & Paledusk)」、Ado「Love me forever!」、SEKAI NO OWARI「LOVE SONG（with ちゃんみな）」、キタ",
+      "id": "14cbec71089a2e5b",
+      "title": "超特急「BULLET TRAIN ARENA TOUR 2026 ESCORT」【兵庫公演】機材席開放一般発売 実施決定！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26316/",
+      "publishedAt": "2026-07-10T08:59:10.000Z",
+      "summary": "完売していた兵庫公演ですが、ステージプラン確定に伴い若干数の機材席開放販売が決定いたしました！ 7月13日(月)21:00より販売スタート！ ご乗車お待ちしております!!!!!!!!! ※重要：お申込み前に必ずご確認くだ […]",
       "groups": [
-        "原因は自分にある。"
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "2ce4628c1ddfa2b5",
+      "title": "M!LK 1stミニアルバムのタイトルが『LOVE ENG!NE』に正式決定！ジャケット写真も公開",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000844402/",
+      "publishedAt": "2026-07-10T08:24:14.000Z",
+      "summary": "M!LKが、9月16日にリリースする1stミニアルバムのタイトルが『LOVE ENG!NE』に正式決定。あわ...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "acd2869a49272906",
+      "title": "M!LK、1stミニアルバムタイトルが「LOVE ENG!NE」に正式決定。ジャケット写真＆購入特典絵柄の一部解禁も",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1077557",
+      "publishedAt": "2026-07-10T08:00:00.000Z",
+      "summary": "M!LKが、9月16日にリリースする1stミニアルバムのタイトルが「LOVE ENG!NE」に正式決定したことを発表した。あわせて、ジャケット写真も公開された。 前作となるメジャー8thシングル「爆裂愛してる / 好きすぎて滅！」では、“多様な愛”をテーマに表現してきたM!LK。本作では、その愛が人を前へと突き動かす”エンジン（原動力）”へと進化し、新たなコ",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "塩﨑太智",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "曽野舜太",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "d04e729ed22127a2",
+      "title": "M!LKがメンカラ自転車に乗る初ミニアルバムのジャケ写公開、タイトルは『LOVE ENG!NE』に",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/07/89093/",
+      "publishedAt": "2026-07-10T08:00:00.000Z",
+      "summary": "5人組ダンス＆ボーカルグループ・M!LKが9月16日(水)にリリースする1st Mini Albumのタイトルが『LOVE ENG!NE』に決定し、ジャケット写真が公開された。 前作となるメジャー8thシングル『爆裂愛してる / 好きすぎて滅！』では“多様な愛”をテーマに掲げていたM!LK。それに続く今回のミニアルバムは、その愛が人を前へと突き動かす“エンジ",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "12e4b8a3fb9cf709",
+      "title": "EBiDAN公式Stationheadアカウント開設＆リスニングパーティー開催が決定！",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news11399/",
+      "publishedAt": "2026-07-10T07:30:33.000Z",
+      "summary": "ラジオ放送プラットフォームアプリ「Stationhead」にて、EBiDAN (恵比寿学園男子部)のオフィシャルアカウントを開設しました！そして、7月13日(月)以降、Stationheadでリスニングパーティーの連続開 […] The post EBiDAN公式Stationheadアカウント開設＆リスニングパーティー開催が決定！ first appear",
+      "groups": [
+        "EBiDAN",
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "e4506961b8c3348e",
+      "title": "EBiDAN公式Stationheadアカウント開設＆リスニングパーティー開催が決定！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26347/",
+      "publishedAt": "2026-07-10T07:29:40.000Z",
+      "summary": "ラジオ放送プラットフォームアプリ「Stationhead」にて、EBiDAN (恵比寿学園男子部)のオフィシャルアカウントを開設しました！そして、7月13日(月)以降、Stationheadでリスニングパーティーの連続開 […]",
+      "groups": [
+        "EBiDAN"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "9576ad551f305b2f",
+      "title": "少しでもカッコ悪ければ即“永久追放”！WATWING、BALLISTIK BOYZ、THE RAMPAGE、OWV、超特急、DXTEENの精鋭6名が『カッコインポッシブル』で大奮闘",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000844079/",
+      "publishedAt": "2026-07-10T05:00:22.000Z",
+      "summary": "日本テレビの深夜枠「Friday’s EDGE（フラエジ）」にて、豪華ボーイズグループから選ば...",
+      "groups": [
+        "超特急"
       ],
       "statuses": [],
       "memberMatches": []
@@ -2536,91 +2649,6 @@
       "summary": "結成15周年目を迎えた超特急が贈る、ガチでトンチキなテーマパーク 超特急 presents『超！トンチキランド』が開園決定！ ラフォーレミュージアム原宿にて、2026年5月2日(土)〜5月24日(日)の期間限定で開園しま […]",
       "groups": [
         "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "fd67867cc532ffb2",
-      "title": "【SUPERSTAR EBiDAN】祝2.5周年！大人気テーマが「リアルカード」として登場！",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news10816/",
-      "publishedAt": "2026-04-08T08:29:12.000Z",
-      "summary": "EBiDAN公式リズムゲームアプリ『SUPERSTAR EBiDAN』(シュスエビ)では、2.5周年を記念し、4月9日(木)メンテナンス後よりゲーム内にてキャンペーンを実施いたします。 期間中は、カードをデジタル上でも楽 […] The post 【SUPERSTAR EBiDAN】祝2.5周年！大人気テーマが「リアルカード」として登場！ first app",
-      "groups": [
-        "EBiDAN",
-        "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "dd1fa2571a555a57",
-      "title": "『SUPERSTAR EBiDAN』祝2.5周年！大人気テーマが「リアルカード」として登場！",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news25947/",
-      "publishedAt": "2026-04-08T07:58:56.000Z",
-      "summary": "EBiDAN公式リズムゲームアプリ『SUPERSTAR EBiDAN』(シュスエビ)では、2.5周年を記念し、 4月9日(木)メンテナンス後よりゲーム内にてキャンペーンを実施いたします。 期間中は、カードをデジタル上でも […]",
-      "groups": [
-        "EBiDAN"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "ee482c4ff1392ff1",
-      "title": "SUPER★DRAGON LIVE TOUR 2026「Studio」CD購入スペシャル抽選会を実施！(※4月21日 更新)",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news10808/",
-      "publishedAt": "2026-04-06T10:59:54.000Z",
-      "summary": "SUPER★DRAGON LIVE TOUR 2026「Studio」の開催を記念し、各公演にて期間内に下記対象商品CDを専用販売オンラインサイトにてお買い求めいただくと、対象商品購入1枚ごとに1回スペシャル抽選会(オン […] The post SUPER★DRAGON LIVE TOUR 2026「Studio」CD購入スペシャル抽選会を実施！(※4月2",
-      "groups": [
-        "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "ec51806122a3c8d0",
-      "title": "SUPER★DRAGON LIVE TOUR 2026「Studio」 【大阪/東京/福岡公演】オフィシャルグッズ、ミニ生写真セット 当日販売のお知らせ！",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news10792/",
-      "publishedAt": "2026-04-06T08:59:45.000Z",
-      "summary": "SUPER★DRAGON LIVE TOUR 2026「Studio」大阪・東京・福岡公演でのオフィシャルグッズ販売につきましてお知らせいたします。 会場販売より、各会場限定で「会場別集合アクリルスタンド」、「ミニ生写真 […] The post SUPER★DRAGON LIVE TOUR 2026「Studio」 【大阪/東京/福岡公演】オフィシャルグッ",
-      "groups": [
-        "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "89fda218f0a56c01",
-      "title": "SUPER★DRAGON Digital Single「NUMBER」の配信を記念して、 Spotify Canvasに限定動画を公開中！更に、シェアキャンペーン開催決定！",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news10785/",
-      "publishedAt": "2026-04-05T04:29:27.000Z",
-      "summary": "Spotify Canvasシェアキャンペーン 4月6日(月)より日替わりで「NUMBER」Music Videoソロカット動画を公開！ Canvasをストーリーにシェアしてくださった方全員に【メンバー全員からのシェアあ […] The post SUPER★DRAGON Digital Single「NUMBER」の配信を記念して、 Spotify Can",
-      "groups": [
-        "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "288e4ae72403fed0",
-      "title": "SUPER★DRAGON Digital Single「NUMBER」の配信を記念して、 LINE MUSIC再生キャンペーン開催決定！",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news10779/",
-      "publishedAt": "2026-04-05T03:59:09.000Z",
-      "summary": "LINE MUSIC再生キャンペーン SUPER★DRAGON、Digital Single「NUMBER」の配信リリースを記念して、この楽曲をたくさん聴いていただいた方へのプレゼントキャンペーンが決定いたしました！ ▼ […] The post SUPER★DRAGON Digital Single「NUMBER」の配信を記念して、 LINE MUSIC再",
-      "groups": [
-        "SUPER★DRAGON"
       ],
       "statuses": [],
       "memberMatches": []
