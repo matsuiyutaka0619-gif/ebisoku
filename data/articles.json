@@ -1,19 +1,41 @@
 {
-  "updatedAt": "2026-07-09T20:04:09.048Z",
+  "updatedAt": "2026-07-10T04:14:09.508Z",
   "articles": [
     {
-      "id": "44d5733a0a42f875",
-      "title": "フジテレビ『STAR』でディズニーソング大特集！M!LK、JI BLUE、Aぇ! groupほか豪華ラインナップ",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000843539/",
-      "publishedAt": "2026-07-09T11:00:08.000Z",
-      "summary": "7月16日19時より放送される、フジテレビ系『STAR』の出演アーティストが発表された。 ■出演ア...",
+      "id": "5e38ebb3172dde23",
+      "title": "YAO、Ado、SEKAI NO OWARI、キタニタツヤ、ME:I、原因は自分にある。……注目新譜6作をレビュー",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/07/post-2455111.html",
+      "publishedAt": "2026-07-10T03:10:09.000Z",
+      "summary": "毎週発表される新譜の中から注目作品をレビューしていく連載「New Releases In Focus」。今回は、YAO「777 (feat. Awich, CHICO CARLITO, ONE OK ROCK & Paledusk)」、Ado「Love me forever!」、SEKAI NO OWARI「LOVE SONG（with ちゃんみな）」、キタ",
       "groups": [
-        "M!LK"
+        "原因は自分にある。"
       ],
       "statuses": [],
       "memberMatches": []
+    },
+    {
+      "id": "3f32d86dc806661d",
+      "title": "佐野勇斗×山崎賢人の肩組み2ショット！イケメンふたりが並ぶ姿に「かっこよすぎて滅」「眼福」「めちゃくちゃかっこいい」と歓喜の声続々",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000843922/",
+      "publishedAt": "2026-07-10T03:00:28.000Z",
+      "summary": "M!LKの佐野勇斗が自身のInstagramを更新し、俳優の山崎賢人（「崎」はたつさきが正式表記）と...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
     },
     {
       "id": "a554aecc620c3a36",
@@ -44,20 +66,6 @@
       "memberMatches": []
     },
     {
-      "id": "0fde468459ae2b46",
-      "title": "原因は自分にある。「俺たちはライブに命をかけてる」 輪廻の先で見つけた生き方の答え、『仮ノ現』のすべて",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/07/post-2454701.html",
-      "publishedAt": "2026-07-09T08:30:47.000Z",
-      "summary": "原因は自分にある。のアリーナツアー『ARENA TOUR 2026 仮ノ現』。兵庫と東京で全6公演が行われた同ツアーよりファイナル公演となった7月5日夜の部、有明アリーナでのライブ模様をレポートする。",
-      "groups": [
-        "原因は自分にある。"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
       "id": "ba1d4bfc5a46098d",
       "title": "【SUPERSTAR EBiDAN】 「BULLET TRAIN ARENA TOUR 2026 ESCORT」開催記念！ゲーム内イベント実施のお知らせ",
       "sourceName": "超特急 公式NEWS",
@@ -71,28 +79,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "838a3717df937e5a",
-      "title": "佐野勇斗がM!LK冠番組オフショット公開＆“1位獲得”に歓喜！ファンからも「レギュラー化してほしい」「めちゃめちゃ面白かった」「うれしくて滅」の声",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000843213/",
-      "publishedAt": "2026-07-09T03:55:57.000Z",
-      "summary": "7月7日に放送されたM!LKの冠バラエティ番組『M!LKの爆裂ミッション』（TBS系）が、TVerのバラ...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "9bbbb71922281cf9",
@@ -178,20 +164,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "9e505d8228617ee3",
-      "title": "BUDDiiS、メジャー1stシングルのリード曲「キミは都市伝説」ダンス映像公開！壮大な愛を全身で表現",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/music2/654404.html",
-      "publishedAt": "2026-07-07T14:00:43.000Z",
-      "summary": "9人組ダンスボーカルグループのBUDDiiSが、7月8日に発売するメジャー1stシングル「キミは都市伝説 / クラッシュパラダイス」から、リード曲「キミは都市伝説」のDance Performance Videoを公開した。同曲は6月22日に先行配信され、TikTokの ... The post BUDDiiS、メジャー1stシングルのリード曲「キミは都市伝",
-      "groups": [
-        "BUDDiiS"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "e91f95939d2ff92d",
@@ -2232,28 +2204,6 @@
       "memberMatches": []
     },
     {
-      "id": "cabd384d729c335d",
-      "title": "「だから友達じゃねえ！」奈緒が前原滉、草川拓弥らを追い込む『死ねばいいのに』本予告解禁",
-      "sourceName": "Bezzy",
-      "sourceUrl": "https://bezzy.jp/feed/",
-      "articleUrl": "https://bezzy.jp/2026/04/85464/",
-      "publishedAt": "2026-04-29T23:00:00.000Z",
-      "summary": "7月3日(金)よりテアトル新宿ほかで全国公開される映画『死ねばいいのに』の本ビジュアルと本予告編が解禁された。 京極夏彦の同名小説を金井純一監督が映画化した本作で、主人公・渡来映子を演じるのは奈緒。確かな演技力で観客を魅了し続ける彼女が、本作では従来のイメージを覆す、アウトローな雰囲気を漂わせた役柄で新境地を開拓する。また、何者かによって殺され、映子がその存",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "タクヤ",
-          "group": "超特急",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "d8ebe107a8b2f4bd",
       "title": "【バースデーグッズ】柴崎楽22歳 バースデーPHOTO SET＆プロデュースグッズ スタダ便受注販売決定！",
       "sourceName": "SUPER★DRAGON 公式NEWS",
@@ -2627,6 +2577,48 @@
       "articleUrl": "https://super-dragon.jp/news/news10808/",
       "publishedAt": "2026-04-06T10:59:54.000Z",
       "summary": "SUPER★DRAGON LIVE TOUR 2026「Studio」の開催を記念し、各公演にて期間内に下記対象商品CDを専用販売オンラインサイトにてお買い求めいただくと、対象商品購入1枚ごとに1回スペシャル抽選会(オン […] The post SUPER★DRAGON LIVE TOUR 2026「Studio」CD購入スペシャル抽選会を実施！(※4月2",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "ec51806122a3c8d0",
+      "title": "SUPER★DRAGON LIVE TOUR 2026「Studio」 【大阪/東京/福岡公演】オフィシャルグッズ、ミニ生写真セット 当日販売のお知らせ！",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news10792/",
+      "publishedAt": "2026-04-06T08:59:45.000Z",
+      "summary": "SUPER★DRAGON LIVE TOUR 2026「Studio」大阪・東京・福岡公演でのオフィシャルグッズ販売につきましてお知らせいたします。 会場販売より、各会場限定で「会場別集合アクリルスタンド」、「ミニ生写真 […] The post SUPER★DRAGON LIVE TOUR 2026「Studio」 【大阪/東京/福岡公演】オフィシャルグッ",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "89fda218f0a56c01",
+      "title": "SUPER★DRAGON Digital Single「NUMBER」の配信を記念して、 Spotify Canvasに限定動画を公開中！更に、シェアキャンペーン開催決定！",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news10785/",
+      "publishedAt": "2026-04-05T04:29:27.000Z",
+      "summary": "Spotify Canvasシェアキャンペーン 4月6日(月)より日替わりで「NUMBER」Music Videoソロカット動画を公開！ Canvasをストーリーにシェアしてくださった方全員に【メンバー全員からのシェアあ […] The post SUPER★DRAGON Digital Single「NUMBER」の配信を記念して、 Spotify Can",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "288e4ae72403fed0",
+      "title": "SUPER★DRAGON Digital Single「NUMBER」の配信を記念して、 LINE MUSIC再生キャンペーン開催決定！",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news10779/",
+      "publishedAt": "2026-04-05T03:59:09.000Z",
+      "summary": "LINE MUSIC再生キャンペーン SUPER★DRAGON、Digital Single「NUMBER」の配信リリースを記念して、この楽曲をたくさん聴いていただいた方へのプレゼントキャンペーンが決定いたしました！ ▼ […] The post SUPER★DRAGON Digital Single「NUMBER」の配信を記念して、 LINE MUSIC再",
       "groups": [
         "SUPER★DRAGON"
       ],
