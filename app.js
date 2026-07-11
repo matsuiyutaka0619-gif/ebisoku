@@ -30,6 +30,7 @@ const state = {
   articles: [],
   members: [],
   links: [],
+  insights: {},
   config: null,
   activeGroup: "all",
   activeStatus: "all",
@@ -63,6 +64,7 @@ const searchInput = document.querySelector("#searchInput");
 const pageTitle = document.querySelector("#pageTitle");
 const pageIntro = document.querySelector("#pageIntro");
 const memberDirectory = document.querySelector("#memberDirectory");
+const autoOverview = document.querySelector("#autoOverview");
 
 function createFilterButtons(container, items, activeKey, onClick) {
   if (!container) return;
@@ -188,7 +190,18 @@ function render() {
     return;
   }
 
+  if (pageConfig.page === "topics") {
+    renderTopics();
+    return;
+  }
+
+  if (pageConfig.page === "stats") {
+    renderStats();
+    return;
+  }
+
   renderMemberDirectory();
+  renderAutoOverview();
 
   const groupFilters = availableGroupFilters();
   if (!groupFilters.some((group) => group.id === state.activeGroup)) state.activeGroup = "all";
@@ -270,6 +283,122 @@ function render() {
   }
 }
 
+function renderAutoOverview() {
+  if (!autoOverview) return;
+  autoOverview.innerHTML = "";
+  if (pageConfig.page === "group") {
+    const category = categoryFor(pageConfig.group);
+    const group = category?.label || pageConfig.group;
+    const memberCount = state.members.filter((member) => member.group === group && member.status === "active").length;
+    const linkGroup = state.links.find((item) => item.name === group);
+    const card = document.createElement("aside");
+    card.className = "auto-overview";
+    card.innerHTML = `<h2>${escapeHtml(group)}を追う</h2><p>えびそく！では、${escapeHtml(group)}に関するRSSニュースを時系列で整理しています。タイトルから元記事へ移動でき、メンバー名でも絞り込めます。</p><p>${memberCount ? `登録中の現役メンバー: ${memberCount}名。` : "メンバー別ページでは登録メンバーの記事も探せます。"}</p>`;
+    if (linkGroup?.links?.[0]?.url) {
+      const link = document.createElement("a");
+      link.className = "overview-link";
+      link.href = linkGroup.links[0].url;
+      link.target = "_blank";
+      link.rel = "noopener noreferrer";
+      link.textContent = `${group}の公式サイトを見る`;
+      card.append(link);
+    }
+    autoOverview.append(card);
+  }
+  if (pageConfig.page === "members") {
+    const card = document.createElement("aside");
+    card.className = "auto-overview";
+    card.innerHTML = "<h2>メンバー名からニュースを探す</h2><p>掲載中のメンバー名を選ぶと、RSSタイトルと概要に名前が含まれる記事を確認できます。短い芸名は、誤判定を減らすためグループ名も確認して整理しています。</p>";
+    autoOverview.append(card);
+  }
+}
+
+function escapeHtml(value) {
+  return String(value || "").replace(/[&<>\"']/g, (character) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", "\"": "&quot;", "'": "&#39;" }[character]));
+}
+
+function renderTopics() {
+  createFilterButtons(document.querySelector("#groupFilters"), GROUPS, state.activeGroup, (id) => {
+    state.activeGroup = id;
+    render();
+  });
+  const statusFilters = document.querySelector("#statusFilters");
+  if (statusFilters) statusFilters.hidden = true;
+  articleList.innerHTML = "";
+  const entries = Object.entries(state.insights.recentByGroup || {});
+  const filtered = entries.filter(([group]) => state.activeGroup === "all" || articleMatchesGroup({ groups: [group] }, state.activeGroup));
+  for (const [group, articles] of filtered) {
+    const card = document.createElement("article");
+    card.className = `article-card topic-card group-${groupClass(group)}`;
+    const heading = document.createElement("h2");
+    heading.textContent = `${group}の関連ニュース`;
+    const text = document.createElement("p");
+    text.className = "summary";
+    text.textContent = "直近の掲載記事を時系列で確認できます。";
+    const list = document.createElement("ul");
+    list.className = "topic-list";
+    for (const article of articles.slice(0, 5)) {
+      const item = document.createElement("li");
+      const anchor = document.createElement("a");
+      anchor.href = article.articleUrl;
+      anchor.target = "_blank";
+      anchor.rel = "noopener noreferrer";
+      anchor.textContent = article.title;
+      item.append(anchor);
+      list.append(item);
+    }
+    const category = categoryFor(group);
+    if (category?.path) {
+      const more = document.createElement("a");
+      more.className = "read-link";
+      more.href = resolveTemplatePath(category.path);
+      more.textContent = `${group}の一覧を見る`;
+      card.append(heading, text, list, more);
+    } else {
+      card.append(heading, text, list);
+    }
+    articleList.append(card);
+  }
+  summaryText.textContent = `${filtered.length}グループの話題を表示中`;
+  updatedText.textContent = state.insights.updatedAt ? `集計更新: ${formatDate(state.insights.updatedAt)}` : "";
+}
+
+function renderStats() {
+  const groupFilters = document.querySelector("#groupFilters");
+  const statusFilters = document.querySelector("#statusFilters");
+  if (groupFilters) groupFilters.hidden = true;
+  if (statusFilters) statusFilters.hidden = true;
+  articleList.innerHTML = "";
+  const blocks = [
+    { title: "直近7日間に記事が多かったグループ", items: state.insights.groupRanking || [], suffix: "件" },
+    { title: "直近7日間に名前が多く出たメンバー", items: state.insights.memberRanking || [], suffix: "件" },
+    { title: "記事を届けてくれたニュース元", items: state.insights.sourceRanking || [], suffix: "件" }
+  ];
+  for (const block of blocks) {
+    const card = document.createElement("article");
+    card.className = "article-card stats-card";
+    const heading = document.createElement("h2");
+    heading.textContent = block.title;
+    const list = document.createElement("ol");
+    list.className = "ranking-list";
+    for (const item of block.items) {
+      const row = document.createElement("li");
+      row.innerHTML = `<span>${escapeHtml(item.name)}</span><strong>${item.count}${block.suffix}</strong>`;
+      list.append(row);
+    }
+    if (!block.items.length) {
+      const empty = document.createElement("p");
+      empty.className = "summary";
+      empty.textContent = "次回のRSS更新後に集計を表示します。";
+      card.append(heading, empty);
+    } else card.append(heading, list);
+    articleList.append(card);
+  }
+  const totals = state.insights.totals || {};
+  summaryText.textContent = `掲載中 ${totals.all || state.articles.length}件 / 今日 ${totals.today || 0}件 / 直近7日 ${totals.week || 0}件`;
+  updatedText.textContent = state.insights.updatedAt ? `集計更新: ${formatDate(state.insights.updatedAt)}` : "";
+}
+
 function renderMemberDirectory() {
   if (!memberDirectory || pageConfig.page !== "members") return;
   memberDirectory.hidden = false;
@@ -321,7 +450,7 @@ function renderLinks() {
   let count = 0;
 
   for (const group of groups) {
-    const links = group.links.filter((link) => !query || normalize(`${group.name} ${link.label} ${link.url}`).includes(query));
+    const links = group.links.filter((link) => !query || normalize(`${group.name} ${link.label} ${link.description || ""} ${link.url}`).includes(query));
     if (!links.length) continue;
     const card = document.createElement("article");
     card.className = `article-card link-card group-${groupClass(group.name)}`;
@@ -340,7 +469,16 @@ function renderLinks() {
       anchor.target = "_blank";
       anchor.rel = "noopener noreferrer";
       anchor.textContent = link.label;
-      list.append(anchor);
+      const item = document.createElement("div");
+      item.className = "official-link-item";
+      item.append(anchor);
+      if (link.description) {
+        const note = document.createElement("p");
+        note.className = "official-link-note";
+        note.textContent = link.description;
+        item.append(note);
+      }
+      list.append(item);
       count += 1;
     }
     card.append(title, badge, list);
@@ -439,10 +577,11 @@ function renderTemplateNavigation() {
 async function load() {
   try {
     await loadTemplateConfig();
-    const [articleResponse, memberResponse, linkResponse] = await Promise.all([
+    const [articleResponse, memberResponse, linkResponse, insightResponse] = await Promise.all([
       loadJson("data/articles.json", { articles: [] }),
       loadJson("data/members.json", { members: [] }),
-      loadJson("data/official-links.json", { groups: [] })
+      loadJson("data/official-links.json", { groups: [] }),
+      loadJson("data/site-insights.json", {})
     ]);
     const payload = articleResponse;
     const memberPayload = memberResponse;
@@ -450,6 +589,7 @@ async function load() {
     state.articles = Array.isArray(payload.articles) ? payload.articles : [];
     state.members = Array.isArray(memberPayload.members) ? memberPayload.members : [];
     state.links = Array.isArray(linkPayload.groups) ? linkPayload.groups : [];
+    state.insights = insightResponse && typeof insightResponse === "object" ? insightResponse : {};
     if (payload.updatedAt) {
       updatedText.textContent = `最終更新: ${formatDate(payload.updatedAt)}`;
     }

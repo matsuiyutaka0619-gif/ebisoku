@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T13:54:12.740Z",
+  "updatedAt": "2026-07-11T16:27:11.335Z",
   "articles": [
     {
       "id": "d104af28f4af464e",
@@ -24,6 +24,34 @@
       ]
     },
     {
+      "id": "cf2812b414c6dc0a",
+      "title": "M!LK吉田仁人＆ワンエンTETTAの「ここから体操」動画公開、明るく笑顔で元気いっぱい",
+      "sourceName": "音楽ナタリー",
+      "sourceUrl": "https://natalie.mu/music/feed/news",
+      "articleUrl": "https://natalie.mu/music/news/680415",
+      "publishedAt": "2026-07-11T11:28:00.000Z",
+      "summary": "吉田仁人（M!LK）とTETTA（関哲汰 / ONE N' ONLY）が出演する、NHK Eテレで放送中の番組「The Wakey Show」内コーナー「ここから体操」の動画がYouTubeにて公開された。",
+      "groups": [
+        "M!LK",
+        "ONE N' ONLY"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "TETTA",
+          "group": "ONE N' ONLY",
+          "status": "active"
+        }
+      ]
+    },
+    {
       "id": "3ec5f744dcbbef8b",
       "title": "中川翼と桜木雅哉がW主演に 『ちょっと待とうよ、春虎くん』実写ドラマ化決定",
       "sourceName": "リアルサウンド 映画部",
@@ -31,6 +59,28 @@
       "articleUrl": "https://realsound.jp/movie/2026/07/post-2457793.html",
       "publishedAt": "2026-07-11T11:25:14.000Z",
       "summary": "中川翼と原因は自分にある。の桜木雅哉がW主演を務める連続ドラマ『ちょっと待とうよ、春虎くん』が、8月13日よりMBSドラマフィル枠にて放送されることが決定した。 本作は、あめきりによる同名マンガを原作とした先輩マスク",
+      "groups": [
+        "原因は自分にある。"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "桜木雅哉",
+          "group": "原因は自分にある。",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "c2d90d930d15a8c2",
+      "title": "中川翼＆ゲンジブ桜木雅哉W主演でBLマンガ「ちょっと待とうよ、春虎くん」がドラマ化",
+      "sourceName": "音楽ナタリー",
+      "sourceUrl": "https://natalie.mu/music/feed/news",
+      "articleUrl": "https://natalie.mu/music/news/680370",
+      "publishedAt": "2026-07-11T09:00:00.000Z",
+      "summary": "俳優の中川翼、桜木雅哉（原因は自分にある。）がダブル主演を務めるMBS系ドラマ「ちょっと待とうよ、春虎くん」が、8月13日からMBSドラマフィル枠で放送されることが決定した。",
       "groups": [
         "原因は自分にある。"
       ],
@@ -147,6 +197,28 @@
       "articleUrl": "https://www.thefirsttimes.jp/news/0000844548/",
       "publishedAt": "2026-07-11T03:00:22.000Z",
       "summary": "映画『仮面ライダーゼッツ さよならのミッション』が7月24日から公開。このたびM!LKの曽野舜太...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "曽野舜太",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "a79bc3b4eadeaa3f",
+      "title": "M!LK曽野舜太、冷酷な最恐の仮面ライダーに変身",
+      "sourceName": "音楽ナタリー",
+      "sourceUrl": "https://natalie.mu/music/feed/news",
+      "articleUrl": "https://natalie.mu/music/news/680351",
+      "publishedAt": "2026-07-11T03:00:00.000Z",
+      "summary": "7月24日に公開される映画「仮面ライダーゼッツ さよならのミッション」より、曽野舜太（M!LK）演じる“最恐のダークヒーロー”・玖門宗馬 / 仮面ライダー夢現のキャラクタービジュアルとキャラクタームービーが公開された。",
       "groups": [
         "M!LK"
       ],
@@ -2594,49 +2666,6 @@
       "groups": [
         "EBiDAN",
         "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "e02ddb920006139e",
-      "title": "EBiDAN15周年記念シングル「Yes! 東京」を8月11日(火・祝)にリリース！ 「EBiDAN THE LIVE 2026 15th Anniversary」の開催が決定！",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news10820/",
-      "publishedAt": "2026-04-09T06:15:51.000Z",
-      "summary": "EBiDAN (恵比寿学園男子部)の15周年記念シングル「Yes! 東京」が8月11日(火・祝)にリリース決定！ 一人一人が多種多様で特別な個性を持ち、夢に向かって突き進むEBiDANメンバーによってパフォーマンスされる […] The post EBiDAN15周年記念シングル「Yes! 東京」を8月11日(火・祝)にリリース！ 「EBiDAN THE L",
-      "groups": [
-        "EBiDAN",
-        "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "fbda1710355b571c",
-      "title": "「EBiDAN THE LIVE 2026 15th Anniversary」開催決定！",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news25965/",
-      "publishedAt": "2026-04-09T06:14:34.000Z",
-      "summary": "EBiDANによる年に一度のメンバー大集結ライブ「EBiDAN THE LIVE 2026 15th Anniversary」開催決定！ 今年は記念すべき15周年アニバーサリーイヤー。 これまで歩んできた軌跡を振り返ると […]",
-      "groups": [
-        "EBiDAN"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "d155dfe6576a0c8d",
-      "title": "EBiDAN15周年記念シングル「Yes! 東京」を8月11日(火・祝)にリリース！ 『EBiDAN THE LIVE 2026 15th Anniversary』の開催が決定！",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news25957/",
-      "publishedAt": "2026-04-09T06:14:13.000Z",
-      "summary": "EBiDAN (恵比寿学園男子部)の15周年記念シングル「Yes! 東京」が8月11日(火・祝)にリリース決定！ 一人一人が多種多様で特別な個性を持ち、夢に向かって突き進むEBiDANメンバーによってパフォーマンスされる […]",
-      "groups": [
-        "EBiDAN"
       ],
       "statuses": [],
       "memberMatches": []

@@ -91,6 +91,22 @@
     {
       "label": "公式リンク",
       "path": "./links/"
+    },
+    {
+      "label": "EBiDANガイド",
+      "path": "./ebidan/"
+    },
+    {
+      "label": "話題",
+      "path": "./topics/"
+    },
+    {
+      "label": "データ",
+      "path": "./stats/"
+    },
+    {
+      "label": "見方",
+      "path": "./guide/"
     }
   ]
 }

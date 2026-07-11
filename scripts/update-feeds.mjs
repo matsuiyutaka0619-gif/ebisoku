@@ -47,6 +47,8 @@ await fs.writeFile(
   `${JSON.stringify({ updatedAt: new Date().toISOString(), sources: report }, null, 2)}\n`
 );
 
+await buildInsights(articles);
+
 console.log(`Saved ${articles.length} articles from ${enabledSources.length} sources.`);
 for (const item of report) {
   console.log(`${item.ok ? "OK" : "NG"} ${item.source}: ${item.count}${item.error ? ` (${item.error})` : ""}`);
@@ -205,4 +207,44 @@ function shouldMatchMemberName(name, text, hasGroupKeyword) {
   const isLatinStageName = /^[A-Z][A-Z0-9!.'-]{1,12}$/.test(normalized);
   if ((isShortKatakana || isLatinStageName) && !hasGroupKeyword) return false;
   return true;
+}
+
+async function buildInsights(items) {
+  const now = new Date();
+  const withinDays = (value, days) => {
+    const date = new Date(value || "");
+    return !Number.isNaN(date.getTime()) && now - date <= days * 24 * 60 * 60 * 1000;
+  };
+  const countBy = (values) => Object.entries(values)
+    .map(([name, count]) => ({ name, count }))
+    .sort((a, b) => b.count - a.count || a.name.localeCompare(b.name, "ja"));
+  const countGroups = (list) => list.reduce((counts, article) => {
+    for (const group of article.groups || []) counts[group] = (counts[group] || 0) + 1;
+    return counts;
+  }, {});
+  const countSources = (list) => list.reduce((counts, article) => {
+    const source = article.sourceName || "ニュース";
+    counts[source] = (counts[source] || 0) + 1;
+    return counts;
+  }, {});
+  const countMembers = (list) => list.reduce((counts, article) => {
+    for (const member of article.memberMatches || []) counts[member.name] = (counts[member.name] || 0) + 1;
+    return counts;
+  }, {});
+  const week = items.filter((item) => withinDays(item.publishedAt, 7));
+  const today = items.filter((item) => {
+    const date = new Date(item.publishedAt || "");
+    return !Number.isNaN(date.getTime()) && date.toLocaleDateString("ja-JP", { timeZone: "Asia/Tokyo" }) === now.toLocaleDateString("ja-JP", { timeZone: "Asia/Tokyo" });
+  });
+  const topics = countGroups(week).slice ? countBy(countGroups(week)).slice(0, 5) : [];
+  const payload = {
+    updatedAt: now.toISOString(),
+    totals: { all: items.length, today: today.length, week: week.length },
+    groupRanking: countBy(countGroups(week)).slice(0, 9),
+    memberRanking: countBy(countMembers(week)).slice(0, 10),
+    sourceRanking: countBy(countSources(week)).slice(0, 10),
+    topics,
+    recentByGroup: Object.fromEntries(Object.entries(countGroups(items)).map(([group]) => [group, items.filter((item) => (item.groups || []).includes(group)).slice(0, 5)]))
+  };
+  await fs.writeFile(new URL("site-insights.json", DATA), `${JSON.stringify(payload, null, 2)}\n`);
 }

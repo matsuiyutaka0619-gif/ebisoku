@@ -24,4 +24,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Update RSS articles"
-          file_pattern: data/articles.json data/last-fetch-report.json
+          file_pattern: data/articles.json data/last-fetch-report.json data/site-insights.json
