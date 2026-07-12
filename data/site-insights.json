@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-07-12T03:57:10.579Z",
+  "updatedAt": "2026-07-12T08:32:03.159Z",
   "totals": {
     "all": 160,
     "today": 0,
-    "week": 26
+    "week": 24
   },
   "groupRanking": [
     {
-      "name": "M!LK",
-      "count": 8
-    },
-    {
       "name": "EBiDAN",
       "count": 7
+    },
+    {
+      "name": "M!LK",
+      "count": 6
     },
     {
       "name": "SUPER★DRAGON",
@@ -41,10 +41,6 @@
       "count": 2
     },
     {
-      "name": "曽野舜太",
-      "count": 2
-    },
-    {
       "name": "FUMINORI",
       "count": 1
     },
@@ -58,6 +54,10 @@
     },
     {
       "name": "松村和哉",
+      "count": 1
+    },
+    {
+      "name": "曽野舜太",
       "count": 1
     }
   ],
@@ -80,7 +80,7 @@
     },
     {
       "name": "THE FIRST TIMES",
-      "count": 2
+      "count": 1
     },
     {
       "name": "WWSチャンネル",
@@ -92,10 +92,6 @@
     },
     {
       "name": "リアルサウンド 映画部",
-      "count": 1
-    },
-    {
-      "name": "リアルサウンド 音楽",
       "count": 1
     }
   ],
@@ -316,20 +312,6 @@
     ],
     "M!LK": [
       {
-        "id": "31d6a876668579b5",
-        "title": "MORE STAR「世界一の幸せものです」 1stワンマンで流した喜びの涙 七夕の夜に輝いた未完成の星たち",
-        "sourceName": "リアルサウンド 音楽",
-        "sourceUrl": "https://realsound.jp/music/feed",
-        "articleUrl": "https://realsound.jp/2026/07/post-2457369.html",
-        "publishedAt": "2026-07-11T08:00:56.000Z",
-        "summary": "MORE STARが7月7日、東京・豊洲PITにて、『MORE STAR 1stワンマンライブ「MILKY STAR」』を開催。当日の模様をレポートする。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
         "id": "7c102e660cb7727b",
         "title": "M!LK佐野勇斗の素顔を、俳優の鈴木亮平が暴露！「ちょっと残念なところが良い」",
         "sourceName": "THE FIRST TIMES",
@@ -346,28 +328,6 @@
         "memberMatches": [
           {
             "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "fe5e92212ff043a0",
-        "title": "M!LK曽野舜太が最恐のダークヒーローに！仮面ライダー夢現／玖門宗馬のキャラクタービジュアル＆キャラクタームービー公開",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000844548/",
-        "publishedAt": "2026-07-11T03:00:22.000Z",
-        "summary": "映画『仮面ライダーゼッツ さよならのミッション』が7月24日から公開。このたびM!LKの曽野舜太...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "曽野舜太",
             "group": "M!LK",
             "status": "active"
           }
@@ -404,6 +364,55 @@
         "memberMatches": [
           {
             "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "28faae20a19af8f1",
+        "title": "7月10日放送「ミュージックステーション」、Kis-My-Ft2、Juice=Juice、DOMOTO、Hearts2Hearts、ハンバート ハンバート、M!LK (曽野舜太＆山中柔太朗)出演",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/07/08/tg001",
+        "publishedAt": "2026-07-08T02:00:00.000Z",
+        "summary": "",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "87d7e72aca705baa",
+        "title": "塩﨑太智（M!LK）、“しおざきわんだーらんど”MV公開",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/07/07/tg004",
+        "publishedAt": "2026-07-07T06:20:26.000Z",
+        "summary": "",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "塩﨑太智",
             "group": "M!LK",
             "status": "active"
           }
