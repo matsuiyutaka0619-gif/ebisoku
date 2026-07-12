@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-07-12T13:55:55.380Z",
+  "updatedAt": "2026-07-12T19:30:47.197Z",
   "totals": {
     "all": 160,
-    "today": 5,
-    "week": 27
+    "today": 0,
+    "week": 26
   },
   "groupRanking": [
     {
@@ -28,10 +28,6 @@
     },
     {
       "name": "ONE N' ONLY",
-      "count": 1
-    },
-    {
-      "name": "原因は自分にある。",
       "count": 1
     }
   ],
@@ -89,10 +85,6 @@
     {
       "name": "マイナビニュース エンタメ",
       "count": 2
-    },
-    {
-      "name": "BARKS",
-      "count": 1
     },
     {
       "name": "THE FIRST TIMES",
@@ -212,50 +204,6 @@
           {
             "name": "佐野勇斗",
             "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      }
-    ],
-    "原因は自分にある。": [
-      {
-        "id": "4b868747486824b9",
-        "title": "えむにみに、TVアニメ『鉄鍋のジャン！』ED主題歌「泣いた悪魔」リリース決定",
-        "sourceName": "BARKS",
-        "sourceUrl": "https://www.barks.jp/feed/",
-        "articleUrl": "https://barks.jp/news/1077823",
-        "publishedAt": "2026-07-12T09:00:18.000Z",
-        "summary": "歌い手“えむにみに”が、メジャーデビュー作となる楽曲「泣いた悪魔」を7月22日に配信リリースすることを発表した。 「泣いた悪魔」は本日7⽉5⽇よりテレ東系列6局ネットにて放送開始したTVアニメ『鉄鍋のジャン！』のエンディング主題歌に起用されている作品。先日公開された『鉄鍋のジャン！』Main PV(裏ver)では楽曲の一部を聴くことも可能だ。 なお、明日7月",
-        "groups": [
-          "原因は自分にある。"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "3fb662210aaeb54f",
-        "title": "森愁斗主演『ウォーターガーディアンズ』本予告解禁、ライフセーバーの本格訓練シーンが初お披露目",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/06/87426/",
-        "publishedAt": "2026-06-05T22:00:00.000Z",
-        "summary": "森愁斗主演映画『ウォーターガーディアンズ』の公開日が8月21日(金)に決定し、本予告映像と主題歌、追加キャスト情報が一挙解禁された。 本作は、ライフセーバーを目指す若者たちの本気のひと夏を描いた青春サマームービー。思いがけずライフセーバーになるという目標を得た若者たちが友情を育み、恋と出会う姿を描く。キャストでは主人公・海翔役の森愁斗（BUDDiiS）、海翔",
-        "groups": [
-          "原因は自分にある。",
-          "BUDDiiS"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "SHOOT",
-            "group": "BUDDiiS",
             "status": "active"
           }
         ]
@@ -577,6 +525,36 @@
         ],
         "statuses": [],
         "memberMatches": []
+      }
+    ],
+    "原因は自分にある。": [
+      {
+        "id": "3fb662210aaeb54f",
+        "title": "森愁斗主演『ウォーターガーディアンズ』本予告解禁、ライフセーバーの本格訓練シーンが初お披露目",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/06/87426/",
+        "publishedAt": "2026-06-05T22:00:00.000Z",
+        "summary": "森愁斗主演映画『ウォーターガーディアンズ』の公開日が8月21日(金)に決定し、本予告映像と主題歌、追加キャスト情報が一挙解禁された。 本作は、ライフセーバーを目指す若者たちの本気のひと夏を描いた青春サマームービー。思いがけずライフセーバーになるという目標を得た若者たちが友情を育み、恋と出会う姿を描く。キャストでは主人公・海翔役の森愁斗（BUDDiiS）、海翔",
+        "groups": [
+          "原因は自分にある。",
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
       }
     ]
   }
