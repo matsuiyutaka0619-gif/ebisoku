@@ -1,6 +1,70 @@
 {
-  "updatedAt": "2026-07-13T09:47:32.641Z",
+  "updatedAt": "2026-07-13T15:11:47.021Z",
   "articles": [
+    {
+      "id": "3fa7bcffea0598c5",
+      "title": "M!LKの“ビジュが爆裂”スーツ姿！王子様系ホワイトスーツから華やかカラーまで“かっこよすぎて滅！”なショットを厳選",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000844019/",
+      "publishedAt": "2026-07-13T12:30:09.000Z",
+      "summary": "「イイじゃん」「好きすぎて滅！」「爆裂愛してる」などの楽曲が次々と話題を呼び、人気急上昇...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "fde83660c51effa2",
+      "title": "M!LK、「モー烈モー進！リリースプロジェクト2026」第4弾“You!Joy!Parade!”7月17日配信リリース",
+      "sourceName": "タワーレコード ニュース",
+      "sourceUrl": "https://tower.jp/feeds/article/news",
+      "articleUrl": "https://tower.jp/article/news/2026/07/13/tg013",
+      "publishedAt": "2026-07-13T11:00:00.000Z",
+      "summary": "",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "fde2e5cc9f02f7bc",
+      "title": "BULLET TRAIN ARENA TOUR 2026「ESCORT」 リョウガ 参加見合わせに関して",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26357/",
+      "publishedAt": "2026-07-13T10:44:32.000Z",
+      "summary": "いつも超特急へ温かい応援を頂きありがとうございます。 弊社所属 超特急メンバーのリョウガが体調不良のため、本人の体調回復を最優先に考え、以下のライブにつきまして出演を見合わせさせていただくことになりました。 ＜欠席対応公 […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "リョウガ",
+          "group": "超特急",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "681d2eb67e888d3e",
+      "title": "M!LK、9月16日リリースの1stミニ・アルバムのタイトルが「LOVE ENG!NE」に決定。ジャケ写公開",
+      "sourceName": "タワーレコード ニュース",
+      "sourceUrl": "https://tower.jp/feeds/article/news",
+      "articleUrl": "https://tower.jp/article/news/2026/07/13/tg006",
+      "publishedAt": "2026-07-13T09:40:00.000Z",
+      "summary": "",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "bea3467bfa01f841",
       "title": "映画『仮面ライダーゼッツ さよならのミッション』、曽野舜太（M!LK）演じる仮面ライダー夢現／玖門宗馬キャラクター・ヴィジュアル＆キャラクター・ムービー公開",
@@ -38,48 +102,6 @@
       "memberMatches": []
     },
     {
-      "id": "4f635a39b4ab9112",
-      "title": "M!LK、「モー烈モー進！リリースプロジェクト2026」第4弾の「You!Joy!Parade!」配信リリース決定",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1078020",
-      "publishedAt": "2026-07-13T09:00:00.000Z",
-      "summary": "M!LKが、夏のキラーチューンとなる新曲「You!Joy!Parade!」を2026年7月17日に配信リリースすることを発表した。 M!LKは現在、5カ月連続リリース企画「モー烈モー進！リリースプロジェクト2026」を敢行中である。第1弾となる楽曲「アイドルパワー」を皮切りに、曽野舜太と山中柔太朗によるユニット楽曲「真・運命」、そして塩﨑太智による「しおざき",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "塩﨑太智",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "曽野舜太",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "山中柔太朗",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "5e43c6ca0d90cfeb",
       "title": "M!LK連続リリース企画第四弾、夏のキラーチューン「You!Joy!Parade!」7月17日配信決定",
       "sourceName": "Bezzy",
@@ -112,20 +134,6 @@
       ]
     },
     {
-      "id": "8b0f33bddaa81914",
-      "title": "原因は自分にある。が描く唯一無二の世界。ライブが映した“げんじぶらしさ”",
-      "sourceName": "QJWeb",
-      "sourceUrl": "https://qjweb.jp/feed/",
-      "articleUrl": "https://qjweb.jp/column/161707/",
-      "publishedAt": "2026-07-13T07:58:00.000Z",
-      "summary": "7人組ダンスボーカルグループ「原因は自分にある。（通称：げんじぶ）」が『ARENA TOUR 2026 仮ノ現（カリノウツツ）』を、6月27、28日に兵庫・ワールド記念ホールにて、そして7月4、5日に東京・有明アリーナにて開催した。 豪華なセットリスト、アリーナという空間を存分に活かした演出、厚みの.. 投稿 原因は自分にある。が描く唯一無二の世界。ライブが",
-      "groups": [
-        "原因は自分にある。"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
       "id": "66cdbe4407592969",
       "title": "中川翼×桜木雅哉がW主演！青春ラブストーリー「ちょっと待とうよ、春虎くん」実写ドラマ化",
       "sourceName": "WWSチャンネル",
@@ -150,8 +158,8 @@
     {
       "id": "4412bb37e5f04fa9",
       "title": "M!LK塩崎太智、地球の謎に絶句「住んでいるのに全然なんも知らんな」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
       "articleUrl": "https://news.mynavi.jp/article/20260713-4693602/",
       "publishedAt": "2026-07-12T21:00:00.000Z",
       "summary": "「僕、地球に住んでいるのに全然なんも知らんな」――M!LKの塩崎太智が、きょう13日に放送される日本テレビ系バラエティ番組『世界まる見え! テレビ特捜部』の2時間SP(19:00～)で、世界各地の奇妙な自然現象に絶句する。",
@@ -373,33 +381,6 @@
         {
           "name": "松村和哉",
           "group": "SUPER★DRAGON",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "28faae20a19af8f1",
-      "title": "7月10日放送「ミュージックステーション」、Kis-My-Ft2、Juice=Juice、DOMOTO、Hearts2Hearts、ハンバート ハンバート、M!LK (曽野舜太＆山中柔太朗)出演",
-      "sourceName": "タワーレコード ニュース",
-      "sourceUrl": "https://tower.jp/feeds/article/news",
-      "articleUrl": "https://tower.jp/article/news/2026/07/08/tg001",
-      "publishedAt": "2026-07-08T02:00:00.000Z",
-      "summary": "",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "曽野舜太",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "山中柔太朗",
-          "group": "M!LK",
           "status": "active"
         }
       ]
@@ -2645,20 +2626,6 @@
       "groups": [
         "EBiDAN",
         "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "fbda1710355b571c",
-      "title": "「EBiDAN THE LIVE 2026 15th Anniversary」開催決定！",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news25965/",
-      "publishedAt": "2026-04-09T06:14:34.000Z",
-      "summary": "EBiDANによる年に一度のメンバー大集結ライブ「EBiDAN THE LIVE 2026 15th Anniversary」開催決定！ 今年は記念すべき15周年アニバーサリーイヤー。 これまで歩んできた軌跡を振り返ると […]",
-      "groups": [
-        "EBiDAN"
       ],
       "statuses": [],
       "memberMatches": []

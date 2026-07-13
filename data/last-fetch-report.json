@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-13T09:47:32.643Z",
+  "updatedAt": "2026-07-13T15:11:47.023Z",
   "sources": [
     {
       "source": "日刊スポーツ 芸能",
@@ -69,8 +69,9 @@
     },
     {
       "source": "QJWeb",
-      "count": 12,
-      "ok": true
+      "count": 0,
+      "ok": false,
+      "error": "This operation was aborted"
     },
     {
       "source": "Bezzy",
