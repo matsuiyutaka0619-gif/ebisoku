@@ -1,6 +1,143 @@
 {
-  "updatedAt": "2026-07-12T19:30:47.193Z",
+  "updatedAt": "2026-07-13T03:59:42.982Z",
   "articles": [
+    {
+      "id": "4a2a763480361b26",
+      "title": "若槻千夏、M！LK・塩﨑太智を“大絶賛する理由” 「これがエンタメ」「圧倒的に…」",
+      "sourceName": "Sirabee",
+      "sourceUrl": "https://sirabee.com/feed/",
+      "articleUrl": "https://sirabee.com/2026/07/13/20163565961/",
+      "publishedAt": "2026-07-13T03:45:00.000Z",
+      "summary": "11日深夜放送『指原千夏』（フジテレビ系）で、タレント・若槻千夏らが「この人キテるな」と実感した後輩タレントについて赤裸々に語り、話題を集めている。 ■いま「キテる」タレントを語る 若槻とタレント・指原莉乃が人気店の個室…",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "塩﨑太智",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "1e62c356af286e7d",
+      "title": "佐野勇斗「俳優とアイドルどっちが大事？」究極の質問に回答「僕の中では決まっていて」",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202607130000421.html",
+      "publishedAt": "2026-07-13T03:09:48.000Z",
+      "summary": "M！LKの佐野勇斗（28）が、12日放送のTBS系「日曜日の初耳学 2時間SP」（午後9時）に出演。“究極の質問”に回答した。 佐野は「リモートインタビュアー」のコーナーに登場。18歳の時にドラマで共演した横山めぐみから「俳優とアイドル…",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "1911c508802eaf53",
+      "title": "M!LK佐野勇斗＆塩﨑太智、爽やかな『non-no』初表紙公開！「これは、うれしい“イレギュラーフューチャー”」（佐野）",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000845278/",
+      "publishedAt": "2026-07-13T03:00:44.000Z",
+      "summary": "M!LKの佐野勇斗と塩崎太智（「崎」は、たつさきが正式表記）が『non-no』9月号の特別版（7月21...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "塩﨑太智",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "66cdbe4407592969",
+      "title": "中川翼×桜木雅哉がW主演！青春ラブストーリー「ちょっと待とうよ、春虎くん」実写ドラマ化",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/tv/655500.html",
+      "publishedAt": "2026-07-12T21:30:33.000Z",
+      "summary": "中川翼と原因は自分にある。の桜木雅哉がW主演を務めるドラマ「ちょっと待とうよ、春虎くん」が、8月13日よりMBSドラマフィル枠で放送されることが決定した。本作は、漫画家・あめきりによる同名作品を実写化した青春ラブストーリー。人間関係に悩み、マスクで表情を隠して生活する高 ... The post 中川翼×桜木雅哉がW主演！青春ラブストーリー「ちょっと待とうよ",
+      "groups": [
+        "原因は自分にある。"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "桜木雅哉",
+          "group": "原因は自分にある。",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "4412bb37e5f04fa9",
+      "title": "M!LK塩崎太智、地球の謎に絶句「住んでいるのに全然なんも知らんな」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260713-4693602/",
+      "publishedAt": "2026-07-12T21:00:00.000Z",
+      "summary": "「僕、地球に住んでいるのに全然なんも知らんな」――M!LKの塩崎太智が、きょう13日に放送される日本テレビ系バラエティ番組『世界まる見え! テレビ特捜部』の2時間SP(19:00～)で、世界各地の奇妙な自然現象に絶句する。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "塩﨑太智",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "e3bed335245d4866",
+      "title": "ロッテ、沢村玲さんがセレモニアルピッチ「ライブより緊張しました（笑）」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260713-4695748/",
+      "publishedAt": "2026-07-12T15:40:40.000Z",
+      "summary": "12日に行われたロッテ－オリックス（ZOZOマリンスタジアム）の試合前に、ONE N’ ONLY・沢村玲さんがセレモニアルピッチを行った。 ▼ 沢村玲さん 「ライブより緊張しました（笑…",
+      "groups": [
+        "ONE N' ONLY"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "REI",
+          "group": "ONE N' ONLY",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "44a5baaa869d86de",
       "title": "ONE N’ ONLY・沢村玲がセレモニアルピッチ！「ライブより緊張しました（笑）」",
@@ -24,13 +161,13 @@
       ]
     },
     {
-      "id": "1157909074e647ae",
-      "title": "M!LKが『しゃべくり007』に初登場！メンバーの地元の魅力プレゼン＆家族も勢揃いし母からの手紙に号泣の一幕も",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000844819/",
-      "publishedAt": "2026-07-12T09:00:26.000Z",
-      "summary": "M!LKが『しゃべくり007』7月13日21時より放送の日本テレビ系『しゃべくり007』に初出演する。 ...",
+      "id": "0a46dd7bbe666527",
+      "title": "母からの愛情あふれる言葉にM!LK全員が涙 『しゃべくり007』で家族ぐるみの仲良しエピソードも",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
+      "articleUrl": "https://news.mynavi.jp/article/20260712-4692793/",
+      "publishedAt": "2026-07-12T09:00:00.000Z",
+      "summary": "母からの愛情あふれる言葉に、M!LK全員が涙――ダンスボーカルグループのM!LKが、13日に放送される日本テレビ系バラエティ番組『しゃべくり007』(毎週月曜21:00～)に出演。番組初登場となる5人が、家族に見守られながら、それぞれの故郷の魅力を全力でプレゼンする。",
       "groups": [
         "M!LK"
       ],
@@ -40,8 +177,8 @@
     {
       "id": "71ff0e75b0573628",
       "title": "佐野勇斗、M!LKのお辞儀が深い理由「正直に言えば…」 時が流れても変わらない“ファン”との関係性",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 映画",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
       "articleUrl": "https://news.mynavi.jp/article/20260712-hayatosano/",
       "publishedAt": "2026-07-12T09:00:00.000Z",
       "summary": "幼い頃から何度も何度も観返し、「初めて観た作品」としても特別な思い出を持つ『トイ・ストーリー』。そんな大好きなシリーズの最新作『トイ・ストーリー5』(公開中)で、日本版声優を務めた佐野勇斗は、「作品を純粋に楽しめなかった」と意外な本音を明かす。それは、長年愛し続けてきた作品だからこそ抱いた責任感と、「もっとできたのではないか」という俳優としての飽くなき探究心",
@@ -58,20 +195,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "0a46dd7bbe666527",
-      "title": "母からの愛情あふれる言葉にM!LK全員が涙 『しゃべくり007』で家族ぐるみの仲良しエピソードも",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-      "articleUrl": "https://news.mynavi.jp/article/20260712-4692793/",
-      "publishedAt": "2026-07-12T09:00:00.000Z",
-      "summary": "母からの愛情あふれる言葉に、M!LK全員が涙――ダンスボーカルグループのM!LKが、13日に放送される日本テレビ系バラエティ番組『しゃべくり007』(毎週月曜21:00～)に出演。番組初登場となる5人が、家族に見守られながら、それぞれの故郷の魅力を全力でプレゼンする。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "d104af28f4af464e",
@@ -2539,78 +2662,6 @@
       "articleUrl": "https://super-dragon.jp/news/news10831/",
       "publishedAt": "2026-04-09T06:15:51.000Z",
       "summary": "EBiDANによる年に一度のメンバー大集結ライブ「EBiDAN THE LIVE 2026 15th Anniversary」開催決定！ 今年は記念すべき15周年アニバーサリーイヤー。 これまで歩んできた軌跡を振り返ると […] The post 「EBiDAN THE LIVE 2026 15th Anniversary」開催決定！ first appea",
-      "groups": [
-        "EBiDAN",
-        "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "e02ddb920006139e",
-      "title": "EBiDAN15周年記念シングル「Yes! 東京」を8月11日(火・祝)にリリース！ 「EBiDAN THE LIVE 2026 15th Anniversary」の開催が決定！",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news10820/",
-      "publishedAt": "2026-04-09T06:15:51.000Z",
-      "summary": "EBiDAN (恵比寿学園男子部)の15周年記念シングル「Yes! 東京」が8月11日(火・祝)にリリース決定！ 一人一人が多種多様で特別な個性を持ち、夢に向かって突き進むEBiDANメンバーによってパフォーマンスされる […] The post EBiDAN15周年記念シングル「Yes! 東京」を8月11日(火・祝)にリリース！ 「EBiDAN THE L",
-      "groups": [
-        "EBiDAN",
-        "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "fbda1710355b571c",
-      "title": "「EBiDAN THE LIVE 2026 15th Anniversary」開催決定！",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news25965/",
-      "publishedAt": "2026-04-09T06:14:34.000Z",
-      "summary": "EBiDANによる年に一度のメンバー大集結ライブ「EBiDAN THE LIVE 2026 15th Anniversary」開催決定！ 今年は記念すべき15周年アニバーサリーイヤー。 これまで歩んできた軌跡を振り返ると […]",
-      "groups": [
-        "EBiDAN"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "d155dfe6576a0c8d",
-      "title": "EBiDAN15周年記念シングル「Yes! 東京」を8月11日(火・祝)にリリース！ 『EBiDAN THE LIVE 2026 15th Anniversary』の開催が決定！",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news25957/",
-      "publishedAt": "2026-04-09T06:14:13.000Z",
-      "summary": "EBiDAN (恵比寿学園男子部)の15周年記念シングル「Yes! 東京」が8月11日(火・祝)にリリース決定！ 一人一人が多種多様で特別な個性を持ち、夢に向かって突き進むEBiDANメンバーによってパフォーマンスされる […]",
-      "groups": [
-        "EBiDAN"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "e2889c609aace2c5",
-      "title": "超特急、ついにテーマパークに！ 超特急 presents『超！トンチキランド』開園決定！！",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news25954/",
-      "publishedAt": "2026-04-08T09:59:37.000Z",
-      "summary": "結成15周年目を迎えた超特急が贈る、ガチでトンチキなテーマパーク 超特急 presents『超！トンチキランド』が開園決定！ ラフォーレミュージアム原宿にて、2026年5月2日(土)〜5月24日(日)の期間限定で開園しま […]",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "fd67867cc532ffb2",
-      "title": "【SUPERSTAR EBiDAN】祝2.5周年！大人気テーマが「リアルカード」として登場！",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news10816/",
-      "publishedAt": "2026-04-08T08:29:12.000Z",
-      "summary": "EBiDAN公式リズムゲームアプリ『SUPERSTAR EBiDAN』(シュスエビ)では、2.5周年を記念し、4月9日(木)メンテナンス後よりゲーム内にてキャンペーンを実施いたします。 期間中は、カードをデジタル上でも楽 […] The post 【SUPERSTAR EBiDAN】祝2.5周年！大人気テーマが「リアルカード」として登場！ first app",
       "groups": [
         "EBiDAN",
         "SUPER★DRAGON"
