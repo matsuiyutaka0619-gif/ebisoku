@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-07-13T03:59:42.982Z",
+  "updatedAt": "2026-07-13T09:47:32.641Z",
   "articles": [
     {
-      "id": "4a2a763480361b26",
-      "title": "若槻千夏、M！LK・塩﨑太智を“大絶賛する理由” 「これがエンタメ」「圧倒的に…」",
-      "sourceName": "Sirabee",
-      "sourceUrl": "https://sirabee.com/feed/",
-      "articleUrl": "https://sirabee.com/2026/07/13/20163565961/",
-      "publishedAt": "2026-07-13T03:45:00.000Z",
-      "summary": "11日深夜放送『指原千夏』（フジテレビ系）で、タレント・若槻千夏らが「この人キテるな」と実感した後輩タレントについて赤裸々に語り、話題を集めている。 ■いま「キテる」タレントを語る 若槻とタレント・指原莉乃が人気店の個室…",
+      "id": "bea3467bfa01f841",
+      "title": "映画『仮面ライダーゼッツ さよならのミッション』、曽野舜太（M!LK）演じる仮面ライダー夢現／玖門宗馬キャラクター・ヴィジュアル＆キャラクター・ムービー公開",
+      "sourceName": "タワーレコード ニュース",
+      "sourceUrl": "https://tower.jp/feeds/article/news",
+      "articleUrl": "https://tower.jp/article/news/2026/07/13/tg005",
+      "publishedAt": "2026-07-13T09:25:34.000Z",
+      "summary": "",
       "groups": [
         "M!LK"
       ],
@@ -17,42 +17,34 @@
       ],
       "memberMatches": [
         {
-          "name": "塩﨑太智",
+          "name": "曽野舜太",
           "group": "M!LK",
           "status": "active"
         }
       ]
     },
     {
-      "id": "1e62c356af286e7d",
-      "title": "佐野勇斗「俳優とアイドルどっちが大事？」究極の質問に回答「僕の中では決まっていて」",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202607130000421.html",
-      "publishedAt": "2026-07-13T03:09:48.000Z",
-      "summary": "M！LKの佐野勇斗（28）が、12日放送のTBS系「日曜日の初耳学 2時間SP」（午後9時）に出演。“究極の質問”に回答した。 佐野は「リモートインタビュアー」のコーナーに登場。18歳の時にドラマで共演した横山めぐみから「俳優とアイドル…",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "1911c508802eaf53",
-      "title": "M!LK佐野勇斗＆塩﨑太智、爽やかな『non-no』初表紙公開！「これは、うれしい“イレギュラーフューチャー”」（佐野）",
+      "id": "f0a370fce2669b33",
+      "title": "M!LK「You!Joy!Parade!」配信リリース決定！“かけがえのない仲間と過ごす夏”をメインテーマに制作された楽曲",
       "sourceName": "THE FIRST TIMES",
       "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000845278/",
-      "publishedAt": "2026-07-13T03:00:44.000Z",
-      "summary": "M!LKの佐野勇斗と塩崎太智（「崎」は、たつさきが正式表記）が『non-no』9月号の特別版（7月21...",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000845477/",
+      "publishedAt": "2026-07-13T09:00:44.000Z",
+      "summary": "5人組ダンスボーカルグループ・M!LKが、夏のキラーチューンとなる新曲「You!Joy!Parade!」を7...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "4f635a39b4ab9112",
+      "title": "M!LK、「モー烈モー進！リリースプロジェクト2026」第4弾の「You!Joy!Parade!」配信リリース決定",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1078020",
+      "publishedAt": "2026-07-13T09:00:00.000Z",
+      "summary": "M!LKが、夏のキラーチューンとなる新曲「You!Joy!Parade!」を2026年7月17日に配信リリースすることを発表した。 M!LKは現在、5カ月連続リリース企画「モー烈モー進！リリースプロジェクト2026」を敢行中である。第1弾となる楽曲「アイドルパワー」を皮切りに、曽野舜太と山中柔太朗によるユニット楽曲「真・運命」、そして塩﨑太智による「しおざき",
       "groups": [
         "M!LK"
       ],
@@ -69,8 +61,69 @@
           "name": "塩﨑太智",
           "group": "M!LK",
           "status": "active"
+        },
+        {
+          "name": "曽野舜太",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
         }
       ]
+    },
+    {
+      "id": "5e43c6ca0d90cfeb",
+      "title": "M!LK連続リリース企画第四弾、夏のキラーチューン「You!Joy!Parade!」7月17日配信決定",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/07/89182/",
+      "publishedAt": "2026-07-13T09:00:00.000Z",
+      "summary": "5人組ダンスボーカルグループ・M!LKが、 5ヵ月連続リリース企画「モー烈モー進！リリースプロジェクト2026」第四弾新曲「You!Joy!Parade!」を7月17日(金)に配信リリースすることを発表した。 第一弾楽曲「アイドルパワー」を皮切りにスタートした「モー烈モー進！リリースプロジェクト2026」では、これまで曽野舜太と山中柔太朗によるユニット楽曲「",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "塩﨑太智",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "曽野舜太",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "8b0f33bddaa81914",
+      "title": "原因は自分にある。が描く唯一無二の世界。ライブが映した“げんじぶらしさ”",
+      "sourceName": "QJWeb",
+      "sourceUrl": "https://qjweb.jp/feed/",
+      "articleUrl": "https://qjweb.jp/column/161707/",
+      "publishedAt": "2026-07-13T07:58:00.000Z",
+      "summary": "7人組ダンスボーカルグループ「原因は自分にある。（通称：げんじぶ）」が『ARENA TOUR 2026 仮ノ現（カリノウツツ）』を、6月27、28日に兵庫・ワールド記念ホールにて、そして7月4、5日に東京・有明アリーナにて開催した。 豪華なセットリスト、アリーナという空間を存分に活かした演出、厚みの.. 投稿 原因は自分にある。が描く唯一無二の世界。ライブが",
+      "groups": [
+        "原因は自分にある。"
+      ],
+      "statuses": [],
+      "memberMatches": []
     },
     {
       "id": "66cdbe4407592969",
@@ -112,28 +165,6 @@
         {
           "name": "塩﨑太智",
           "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "e3bed335245d4866",
-      "title": "ロッテ、沢村玲さんがセレモニアルピッチ「ライブより緊張しました（笑）」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-      "articleUrl": "https://news.mynavi.jp/article/20260713-4695748/",
-      "publishedAt": "2026-07-12T15:40:40.000Z",
-      "summary": "12日に行われたロッテ－オリックス（ZOZOマリンスタジアム）の試合前に、ONE N’ ONLY・沢村玲さんがセレモニアルピッチを行った。 ▼ 沢村玲さん 「ライブより緊張しました（笑…",
-      "groups": [
-        "ONE N' ONLY"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "REI",
-          "group": "ONE N' ONLY",
           "status": "active"
         }
       ]
@@ -192,28 +223,6 @@
         {
           "name": "佐野勇斗",
           "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "d104af28f4af464e",
-      "title": "小川史記＆瀬戸利樹W主演「しもべの王子様」第3話場面写真解禁！直也の前に父・武利が現れる",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/tv/655111.html",
-      "publishedAt": "2026-07-11T12:00:11.000Z",
-      "summary": "小川史記（BUDDiiS）と瀬戸利樹がダブル主演を務めるTOKYO MXの金曜ドラマ「しもべの王子様」第3話が、7月17日23時から放送される。放送に先駆け、第3話の場面写真とあらすじ、PR動画が公開された。本作は、累計200万ダウンロードを突破した、たつもとみおによる ... The post 小川史記＆瀬戸利樹W主演「しもべの王子様」第3話場面写真解禁！",
-      "groups": [
-        "BUDDiiS"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "FUMINORI",
-          "group": "BUDDiiS",
           "status": "active"
         }
       ]
@@ -333,28 +342,6 @@
       "memberMatches": []
     },
     {
-      "id": "9bbbb71922281cf9",
-      "title": "山崎賢人も「兄貴なんです」 親しさアピールの佐野勇斗に増田貴久ツッコミ「芸能界の兄貴、何人いるんだよ」",
-      "sourceName": "マイナビニュース テレビ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-      "articleUrl": "https://news.mynavi.jp/article/20260709-4678703/",
-      "publishedAt": "2026-07-08T22:00:00.000Z",
-      "summary": "「兄貴なんで」――きょう9日に放送される日本テレビ系バラエティ番組『ぐるぐるナインティナイン』(毎週木曜19:54～)では、「ゴチになります!27」に山崎賢人が登場。レギュラーメンバーの佐野勇斗が、関係性を語る。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "c5fcd2c7851c5eff",
       "title": "7/16(木)開催リリースイベント＠川崎CLUB CITTA‘（神奈川）にて開催リリースイベントLINEアプリを使用した『CD購入整理券』『優先観覧エリア入場整理券』についてのご案内",
       "sourceName": "SUPER★DRAGON 公式NEWS",
@@ -444,28 +431,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "87d7e72aca705baa",
-      "title": "塩﨑太智（M!LK）、“しおざきわんだーらんど”MV公開",
-      "sourceName": "タワーレコード ニュース",
-      "sourceUrl": "https://tower.jp/feeds/article/news",
-      "articleUrl": "https://tower.jp/article/news/2026/07/07/tg004",
-      "publishedAt": "2026-07-07T06:20:26.000Z",
-      "summary": "",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "塩﨑太智",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "6182e0a1925ae519",
@@ -2665,6 +2630,35 @@
       "groups": [
         "EBiDAN",
         "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "e02ddb920006139e",
+      "title": "EBiDAN15周年記念シングル「Yes! 東京」を8月11日(火・祝)にリリース！ 「EBiDAN THE LIVE 2026 15th Anniversary」の開催が決定！",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news10820/",
+      "publishedAt": "2026-04-09T06:15:51.000Z",
+      "summary": "EBiDAN (恵比寿学園男子部)の15周年記念シングル「Yes! 東京」が8月11日(火・祝)にリリース決定！ 一人一人が多種多様で特別な個性を持ち、夢に向かって突き進むEBiDANメンバーによってパフォーマンスされる […] The post EBiDAN15周年記念シングル「Yes! 東京」を8月11日(火・祝)にリリース！ 「EBiDAN THE L",
+      "groups": [
+        "EBiDAN",
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "fbda1710355b571c",
+      "title": "「EBiDAN THE LIVE 2026 15th Anniversary」開催決定！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news25965/",
+      "publishedAt": "2026-04-09T06:14:34.000Z",
+      "summary": "EBiDANによる年に一度のメンバー大集結ライブ「EBiDAN THE LIVE 2026 15th Anniversary」開催決定！ 今年は記念すべき15周年アニバーサリーイヤー。 これまで歩んできた軌跡を振り返ると […]",
+      "groups": [
+        "EBiDAN"
       ],
       "statuses": [],
       "memberMatches": []
