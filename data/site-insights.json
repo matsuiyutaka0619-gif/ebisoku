@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-07-14T14:13:28.842Z",
+  "updatedAt": "2026-07-14T19:42:28.864Z",
   "totals": {
     "all": 160,
-    "today": 10,
-    "week": 30
+    "today": 1,
+    "week": 31
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 16
+      "count": 17
     },
     {
       "name": "超特急",
@@ -34,7 +34,7 @@
   "memberRanking": [
     {
       "name": "佐野勇斗",
-      "count": 7
+      "count": 8
     },
     {
       "name": "塩﨑太智",
@@ -114,6 +114,28 @@
   "topics": [],
   "recentByGroup": {
     "M!LK": [
+      {
+        "id": "2aaf37b3d9be1354",
+        "title": "『君の好きは無敵』は“好き”が詰まったラブコメに 松本若菜×佐野勇斗が生み出す多幸感",
+        "sourceName": "リアルサウンド 映画部",
+        "sourceUrl": "https://realsound.jp/movie/feed",
+        "articleUrl": "https://realsound.jp/movie/2026/07/post-2460432.html",
+        "publishedAt": "2026-07-14T16:00:38.000Z",
+        "summary": "いきなりですが、国民的キャラクターといえば何を思い浮かべますか？ きっとハローキティ、アンパンマン、ドラえもん、ピカチュウ、ちいかわ、すみっコぐらしなど、いろんな名前が挙がるはず。日本は世界に誇るキャラクター大国であり",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
       {
         "id": "befdd46aedf1df35",
         "title": "唐沢寿明、広瀬アリス、井上和ら「トイ・ストーリー５」声優が舞台あいさつ 井上「愛を感じる」",
@@ -197,28 +219,6 @@
         "memberMatches": [
           {
             "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "7ddf427daa4bbaa6",
-        "title": "M！LK佐野勇斗、「ママ」呼び明かされ焦りも「メンバーもみんな…」 暴露にスタジオ驚き",
-        "sourceName": "Sirabee",
-        "sourceUrl": "https://sirabee.com/feed/",
-        "articleUrl": "https://sirabee.com/2026/07/14/20163566474/",
-        "publishedAt": "2026-07-14T09:15:00.000Z",
-        "summary": "ダンス＆ボーカルグループ「M！LK」が13日放送の『しゃべくり007』（日本テレビ系）に出演。佐野勇斗が、メンバーによる「家族の呼び方」を暴露し、反響を呼んだ。 ■学校では「お母さん」も家では… 番組は、「M！LK家族参…",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
             "group": "M!LK",
             "status": "active"
           }

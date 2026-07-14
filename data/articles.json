@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-07-14T14:13:28.840Z",
+  "updatedAt": "2026-07-14T19:42:28.859Z",
   "articles": [
+    {
+      "id": "2aaf37b3d9be1354",
+      "title": "『君の好きは無敵』は“好き”が詰まったラブコメに 松本若菜×佐野勇斗が生み出す多幸感",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/07/post-2460432.html",
+      "publishedAt": "2026-07-14T16:00:38.000Z",
+      "summary": "いきなりですが、国民的キャラクターといえば何を思い浮かべますか？ きっとハローキティ、アンパンマン、ドラえもん、ピカチュウ、ちいかわ、すみっコぐらしなど、いろんな名前が挙がるはず。日本は世界に誇るキャラクター大国であり",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "befdd46aedf1df35",
       "title": "唐沢寿明、広瀬アリス、井上和ら「トイ・ストーリー５」声優が舞台あいさつ 井上「愛を感じる」",
@@ -2671,20 +2693,6 @@
       "summary": "「SUPER★DRAGON DRA FES 2026」 ＜公演詳細＞ 【東京】Zepp Haneda （TOKYO） 2026年9月24日(木) 【大阪】Zepp Osaka Bayside 2026年9月27日(日) […] The post 「SUPER★DRAGON DRA FES 2026」開催決定！ first appeared on SUPER★",
       "groups": [
         "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "f7e8b6e2e9d33358",
-      "title": "超特急 東京ドーム公演 最新チケット情報",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news25983/",
-      "publishedAt": "2026-04-18T08:59:02.000Z",
-      "summary": "本日4月18日(土)18:00より三井ショッピングパーク チケット先行受付開始！ ご乗車お待ちしております!!!!!!!!! ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願いと注意事項】 https […]",
-      "groups": [
-        "超特急"
       ],
       "statuses": [],
       "memberMatches": []
