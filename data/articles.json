@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-07-13T19:48:48.558Z",
+  "updatedAt": "2026-07-14T03:33:08.740Z",
   "articles": [
+    {
+      "id": "3c398cbb00b7f2bf",
+      "title": "超特急・リョウガ、体調不良で一部公演の出演見合わせ「本人の体調回復を最優先に考え」",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202607140000367.html",
+      "publishedAt": "2026-07-14T02:16:29.000Z",
+      "summary": "ダンス＆ボーカルグループ超特急のリーダー、リョウガ（31）が体調不良のため、一部公演を欠席することが14日までに公式サイトで発表された。 同グループは現在、全国ツアー「BULLET TRAIN ARENA TOUR 2026『ESCOR…",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "リョウガ",
+          "group": "超特急",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "3fa7bcffea0598c5",
       "title": "M!LKの“ビジュが爆裂”スーツ姿！王子様系ホワイトスーツから華やかカラーまで“かっこよすぎて滅！”なショットを厳選",
@@ -86,20 +108,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "f0a370fce2669b33",
-      "title": "M!LK「You!Joy!Parade!」配信リリース決定！“かけがえのない仲間と過ごす夏”をメインテーマに制作された楽曲",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000845477/",
-      "publishedAt": "2026-07-13T09:00:44.000Z",
-      "summary": "5人組ダンスボーカルグループ・M!LKが、夏のキラーチューンとなる新曲「You!Joy!Parade!」を7...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "5e43c6ca0d90cfeb",

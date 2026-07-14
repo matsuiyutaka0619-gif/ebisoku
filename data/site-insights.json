@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-07-13T19:48:48.561Z",
+  "updatedAt": "2026-07-14T03:33:08.742Z",
   "totals": {
     "all": 160,
-    "today": 0,
-    "week": 27
+    "today": 1,
+    "week": 25
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 10
+      "count": 9
     },
     {
       "name": "超特急",
-      "count": 6
-    },
-    {
-      "name": "EBiDAN",
-      "count": 5
+      "count": 7
     },
     {
       "name": "SUPER★DRAGON",
-      "count": 5
+      "count": 4
+    },
+    {
+      "name": "EBiDAN",
+      "count": 3
     },
     {
       "name": "原因は自分にある。",
@@ -37,6 +37,10 @@
   ],
   "memberRanking": [
     {
+      "name": "リョウガ",
+      "count": 2
+    },
+    {
       "name": "塩﨑太智",
       "count": 2
     },
@@ -46,10 +50,6 @@
     },
     {
       "name": "REI",
-      "count": 1
-    },
-    {
-      "name": "リョウガ",
       "count": 1
     },
     {
@@ -72,11 +72,11 @@
   "sourceRanking": [
     {
       "name": "超特急 公式NEWS",
-      "count": 8
+      "count": 7
     },
     {
       "name": "SUPER★DRAGON 公式NEWS",
-      "count": 5
+      "count": 4
     },
     {
       "name": "タワーレコード ニュース",
@@ -84,10 +84,6 @@
     },
     {
       "name": "Bezzy",
-      "count": 2
-    },
-    {
-      "name": "THE FIRST TIMES",
       "count": 2
     },
     {
@@ -103,12 +99,108 @@
       "count": 1
     },
     {
+      "name": "THE FIRST TIMES",
+      "count": 1
+    },
+    {
       "name": "マイナビニュース 映画",
+      "count": 1
+    },
+    {
+      "name": "日刊スポーツ 芸能",
       "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
+    "超特急": [
+      {
+        "id": "3c398cbb00b7f2bf",
+        "title": "超特急・リョウガ、体調不良で一部公演の出演見合わせ「本人の体調回復を最優先に考え」",
+        "sourceName": "日刊スポーツ 芸能",
+        "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+        "articleUrl": "https://www.nikkansports.com/entertainment/news/202607140000367.html",
+        "publishedAt": "2026-07-14T02:16:29.000Z",
+        "summary": "ダンス＆ボーカルグループ超特急のリーダー、リョウガ（31）が体調不良のため、一部公演を欠席することが14日までに公式サイトで発表された。 同グループは現在、全国ツアー「BULLET TRAIN ARENA TOUR 2026『ESCOR…",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "リョウガ",
+            "group": "超特急",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "fde2e5cc9f02f7bc",
+        "title": "BULLET TRAIN ARENA TOUR 2026「ESCORT」 リョウガ 参加見合わせに関して",
+        "sourceName": "超特急 公式NEWS",
+        "sourceUrl": "https://bullettrain.jp/news/feed/",
+        "articleUrl": "https://bullettrain.jp/news/news26357/",
+        "publishedAt": "2026-07-13T10:44:32.000Z",
+        "summary": "いつも超特急へ温かい応援を頂きありがとうございます。 弊社所属 超特急メンバーのリョウガが体調不良のため、本人の体調回復を最優先に考え、以下のライブにつきまして出演を見合わせさせていただくことになりました。 ＜欠席対応公 […]",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "リョウガ",
+            "group": "超特急",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "933629b884c40b49",
+        "title": "超特急 東京ドーム公演＜追加公演＞最新チケット情報",
+        "sourceName": "超特急 公式NEWS",
+        "sourceUrl": "https://bullettrain.jp/news/feed/",
+        "articleUrl": "https://bullettrain.jp/news/news26350/",
+        "publishedAt": "2026-07-11T08:59:47.000Z",
+        "summary": "7月11日(土)18:00よりローソンチケットプレリクエスト先行受付開始！ ご乗車お待ちしております!!!!!!!!! ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願いと注意事項】 https:// […]",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "14cbec71089a2e5b",
+        "title": "超特急「BULLET TRAIN ARENA TOUR 2026 ESCORT」【兵庫公演】機材席開放一般発売 実施決定！",
+        "sourceName": "超特急 公式NEWS",
+        "sourceUrl": "https://bullettrain.jp/news/feed/",
+        "articleUrl": "https://bullettrain.jp/news/news26316/",
+        "publishedAt": "2026-07-10T08:59:10.000Z",
+        "summary": "完売していた兵庫公演ですが、ステージプラン確定に伴い若干数の機材席開放販売が決定いたしました！ 7月13日(月)21:00より販売スタート！ ご乗車お待ちしております!!!!!!!!! ※重要：お申込み前に必ずご確認くだ […]",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "a554aecc620c3a36",
+        "title": "『BULLET TRAIN ARENA TOUR 2026 ESCORT』U-NEXTにて独占ライブ配信決定！",
+        "sourceName": "超特急 公式NEWS",
+        "sourceUrl": "https://bullettrain.jp/news/feed/",
+        "articleUrl": "https://bullettrain.jp/news/news26314/",
+        "publishedAt": "2026-07-09T10:01:42.000Z",
+        "summary": "8月9日(日)に開催される『BULLET TRAIN ARENA TOUR 2026 ESCORT』の模様がU-NEXTにて生配信することが決定！ U-NEXT月額会員の方なら追加料金なくお楽しみいただけます。 ライブ配 […]",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
     "M!LK": [
       {
         "id": "3fa7bcffea0598c5",
@@ -175,99 +267,36 @@
         ]
       },
       {
-        "id": "f0a370fce2669b33",
-        "title": "M!LK「You!Joy!Parade!」配信リリース決定！“かけがえのない仲間と過ごす夏”をメインテーマに制作された楽曲",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000845477/",
-        "publishedAt": "2026-07-13T09:00:44.000Z",
-        "summary": "5人組ダンスボーカルグループ・M!LKが、夏のキラーチューンとなる新曲「You!Joy!Parade!」を7...",
+        "id": "5e43c6ca0d90cfeb",
+        "title": "M!LK連続リリース企画第四弾、夏のキラーチューン「You!Joy!Parade!」7月17日配信決定",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/07/89182/",
+        "publishedAt": "2026-07-13T09:00:00.000Z",
+        "summary": "5人組ダンスボーカルグループ・M!LKが、 5ヵ月連続リリース企画「モー烈モー進！リリースプロジェクト2026」第四弾新曲「You!Joy!Parade!」を7月17日(金)に配信リリースすることを発表した。 第一弾楽曲「アイドルパワー」を皮切りにスタートした「モー烈モー進！リリースプロジェクト2026」では、これまで曽野舜太と山中柔太朗によるユニット楽曲「",
         "groups": [
           "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "超特急": [
-      {
-        "id": "fde2e5cc9f02f7bc",
-        "title": "BULLET TRAIN ARENA TOUR 2026「ESCORT」 リョウガ 参加見合わせに関して",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26357/",
-        "publishedAt": "2026-07-13T10:44:32.000Z",
-        "summary": "いつも超特急へ温かい応援を頂きありがとうございます。 弊社所属 超特急メンバーのリョウガが体調不良のため、本人の体調回復を最優先に考え、以下のライブにつきまして出演を見合わせさせていただくことになりました。 ＜欠席対応公 […]",
-        "groups": [
-          "超特急"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "リョウガ",
-            "group": "超特急",
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
             "status": "active"
           }
         ]
-      },
-      {
-        "id": "933629b884c40b49",
-        "title": "超特急 東京ドーム公演＜追加公演＞最新チケット情報",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26350/",
-        "publishedAt": "2026-07-11T08:59:47.000Z",
-        "summary": "7月11日(土)18:00よりローソンチケットプレリクエスト先行受付開始！ ご乗車お待ちしております!!!!!!!!! ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願いと注意事項】 https:// […]",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "14cbec71089a2e5b",
-        "title": "超特急「BULLET TRAIN ARENA TOUR 2026 ESCORT」【兵庫公演】機材席開放一般発売 実施決定！",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26316/",
-        "publishedAt": "2026-07-10T08:59:10.000Z",
-        "summary": "完売していた兵庫公演ですが、ステージプラン確定に伴い若干数の機材席開放販売が決定いたしました！ 7月13日(月)21:00より販売スタート！ ご乗車お待ちしております!!!!!!!!! ※重要：お申込み前に必ずご確認くだ […]",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "a554aecc620c3a36",
-        "title": "『BULLET TRAIN ARENA TOUR 2026 ESCORT』U-NEXTにて独占ライブ配信決定！",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26314/",
-        "publishedAt": "2026-07-09T10:01:42.000Z",
-        "summary": "8月9日(日)に開催される『BULLET TRAIN ARENA TOUR 2026 ESCORT』の模様がU-NEXTにて生配信することが決定！ U-NEXT月額会員の方なら追加料金なくお楽しみいただけます。 ライブ配 […]",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "ba1d4bfc5a46098d",
-        "title": "【SUPERSTAR EBiDAN】 「BULLET TRAIN ARENA TOUR 2026 ESCORT」開催記念！ゲーム内イベント実施のお知らせ",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26309/",
-        "publishedAt": "2026-07-09T08:10:08.000Z",
-        "summary": "EBiDAN公式リズムゲーム『SUPERSTAR EBiDAN』では、「BULLET TRAIN ARENA TOUR 2026 ESCORT」の開催を記念して、期間限定のゲーム内イベントを実施いたします！ ■実施期間： […]",
-        "groups": [
-          "EBiDAN",
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
       }
     ],
     "原因は自分にある。": [
