@@ -1,33 +1,41 @@
 {
-  "updatedAt": "2026-07-15T08:35:25.283Z",
+  "updatedAt": "2026-07-15T14:08:59.421Z",
   "totals": {
     "all": 160,
-    "today": 4,
-    "week": 28
+    "today": 10,
+    "week": 31
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 13
+      "count": 20
     },
     {
       "name": "超特急",
-      "count": 8
+      "count": 7
     },
     {
       "name": "EBiDAN",
       "count": 4
     },
     {
-      "name": "SUPER★DRAGON",
+      "name": "原因は自分にある。",
       "count": 4
     },
     {
-      "name": "原因は自分にある。",
+      "name": "SUPER★DRAGON",
       "count": 2
     }
   ],
   "memberRanking": [
+    {
+      "name": "佐野勇斗",
+      "count": 6
+    },
+    {
+      "name": "山中柔太朗",
+      "count": 4
+    },
     {
       "name": "塩﨑太智",
       "count": 3
@@ -37,19 +45,15 @@
       "count": 3
     },
     {
+      "name": "杢代和人",
+      "count": 3
+    },
+    {
       "name": "吉田仁人",
       "count": 2
     },
     {
-      "name": "佐野勇斗",
-      "count": 2
-    },
-    {
       "name": "アロハ",
-      "count": 1
-    },
-    {
-      "name": "タクヤ",
       "count": 1
     },
     {
@@ -59,31 +63,23 @@
     {
       "name": "リョウガ",
       "count": 1
-    },
-    {
-      "name": "桜木雅哉",
-      "count": 1
-    },
-    {
-      "name": "山中柔太朗",
-      "count": 1
     }
   ],
   "sourceRanking": [
+    {
+      "name": "タワーレコード ニュース",
+      "count": 7
+    },
     {
       "name": "超特急 公式NEWS",
       "count": 7
     },
     {
-      "name": "タワーレコード ニュース",
-      "count": 5
-    },
-    {
-      "name": "SUPER★DRAGON 公式NEWS",
+      "name": "THE FIRST TIMES",
       "count": 4
     },
     {
-      "name": "THE FIRST TIMES",
+      "name": "マイナビニュース エンタメ",
       "count": 3
     },
     {
@@ -91,12 +87,12 @@
       "count": 2
     },
     {
-      "name": "マイナビニュース テレビ",
+      "name": "SUPER★DRAGON 公式NEWS",
       "count": 2
     },
     {
-      "name": "BARKS",
-      "count": 1
+      "name": "マイナビニュース テレビ",
+      "count": 2
     },
     {
       "name": "Edge Line",
@@ -113,6 +109,252 @@
   ],
   "topics": [],
   "recentByGroup": {
+    "M!LK": [
+      {
+        "id": "82b3acfd554eeb28",
+        "title": "「根底にあったのが…」佐野勇斗がアイドルとの両立で役者を続けてきた理由",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20260715-4704842/",
+        "publishedAt": "2026-07-15T12:00:00.000Z",
+        "summary": "「正直、僕は歌やダンスがすごく好きなわけじゃないんですが……」俳優でM!LKの佐野勇斗が、12日放送のMBS・TBS系のバラエティ番組『日曜日の初耳学』(毎週日曜22:00～)に出演。俳優とアイドルの両立について語った。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "8bfa45a81732bc59",
+        "title": "吉田仁人（M!LK）、「カラリア」アンバサダーに就任",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/07/15/tg006",
+        "publishedAt": "2026-07-15T11:30:00.000Z",
+        "summary": "",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "5c64c7ab74fcca30",
+        "title": "佐野勇斗と松本若菜が謎の無敵ポーズを披露！新ドラマオフショットに「このふたりの組み合わせもう面白い」「美男美女なのに変なことしてて好き」「ふたりともかわいい」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000847257/",
+        "publishedAt": "2026-07-15T10:17:52.000Z",
+        "summary": "7月14日から始まった新ドラマ『君の好きは無敵』に出演する佐野勇斗（M!LK）と松本若菜が、そ...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "96133bcbf32fb737",
+        "title": "M!LK佐野勇斗、ファンからの「結婚して!」を断る真意とは「やっぱり俺も、真面目に考えちゃう」",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20260715-4696792/",
+        "publishedAt": "2026-07-15T10:00:00.000Z",
+        "summary": "「そういう人たちがいる可能性を考えて…」アイドルグループ・M!LKの佐野勇斗が、ファンからのコメントに言及した――。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "c9838472a5495915",
+        "title": "山中柔太朗が“国宝級イケメン”でファン歓喜 「私の推しって最高」「確実に山中柔太朗の時代がきている」",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20260715-4705231/",
+        "publishedAt": "2026-07-15T09:52:44.000Z",
+        "summary": "講談社は15日、「ViVi国宝級イケメンランキング 2026年上半期」の結果を発表した。NOW部門ではM!LKの山中柔太朗が初の1位を獲得。NEXT部門では原因は自分にある。の杢代和人が悲願の首位に輝き、ADULT部門ではSixTONESの松村北斗が1位となった。",
+        "groups": [
+          "M!LK",
+          "原因は自分にある。"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "杢代和人",
+            "group": "原因は自分にある。",
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "原因は自分にある。": [
+      {
+        "id": "c9838472a5495915",
+        "title": "山中柔太朗が“国宝級イケメン”でファン歓喜 「私の推しって最高」「確実に山中柔太朗の時代がきている」",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20260715-4705231/",
+        "publishedAt": "2026-07-15T09:52:44.000Z",
+        "summary": "講談社は15日、「ViVi国宝級イケメンランキング 2026年上半期」の結果を発表した。NOW部門ではM!LKの山中柔太朗が初の1位を獲得。NEXT部門では原因は自分にある。の杢代和人が悲願の首位に輝き、ADULT部門ではSixTONESの松村北斗が1位となった。",
+        "groups": [
+          "M!LK",
+          "原因は自分にある。"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "杢代和人",
+            "group": "原因は自分にある。",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "3615bc8f096990b9",
+        "title": "「ViVi国宝級イケメンランキング 2026年上半期」発表。山中柔太朗（M!LK）が「NOW部門」初の1位、杢代和人（原因は自分にある。）が「NEXT部門」悲願の首位獲得。「ADULT部門」は松村北斗（SixTONES）が前人未踏の3部門殿堂入り",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/07/15/tgb004",
+        "publishedAt": "2026-07-15T09:50:00.000Z",
+        "summary": "",
+        "groups": [
+          "M!LK",
+          "原因は自分にある。"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "杢代和人",
+            "group": "原因は自分にある。",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "41ab347d1ba8a264",
+        "title": "松村北斗「ViVi 国宝級イケメンランキング」で前人未踏の3部門殿堂入り！NOW部門は山中柔太朗、NEXT部門は杢代和人が1位",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000847220/",
+        "publishedAt": "2026-07-15T09:20:49.000Z",
+        "summary": "「ViVi 国宝級イケメンランキング」2026年上半期の全順位が発表された。NOW部門では山中柔太朗...",
+        "groups": [
+          "M!LK",
+          "原因は自分にある。"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "杢代和人",
+            "group": "原因は自分にある。",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "8b0f33bddaa81914",
+        "title": "原因は自分にある。が描く唯一無二の世界。ライブが映した“げんじぶらしさ”",
+        "sourceName": "QJWeb",
+        "sourceUrl": "https://qjweb.jp/feed/",
+        "articleUrl": "https://qjweb.jp/column/161707/",
+        "publishedAt": "2026-07-13T07:58:00.000Z",
+        "summary": "7人組ダンスボーカルグループ「原因は自分にある。（通称：げんじぶ）」が『ARENA TOUR 2026 仮ノ現（カリノウツツ）』を、6月27、28日に兵庫・ワールド記念ホールにて、そして7月4、5日に東京・有明アリーナにて開催した。 豪華なセットリスト、アリーナという空間を存分に活かした演出、厚みの.. 投稿 原因は自分にある。が描く唯一無二の世界。ライブが",
+        "groups": [
+          "原因は自分にある。"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "3fb662210aaeb54f",
+        "title": "森愁斗主演『ウォーターガーディアンズ』本予告解禁、ライフセーバーの本格訓練シーンが初お披露目",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/06/87426/",
+        "publishedAt": "2026-06-05T22:00:00.000Z",
+        "summary": "森愁斗主演映画『ウォーターガーディアンズ』の公開日が8月21日(金)に決定し、本予告映像と主題歌、追加キャスト情報が一挙解禁された。 本作は、ライフセーバーを目指す若者たちの本気のひと夏を描いた青春サマームービー。思いがけずライフセーバーになるという目標を得た若者たちが友情を育み、恋と出会う姿を描く。キャストでは主人公・海翔役の森愁斗（BUDDiiS）、海翔",
+        "groups": [
+          "原因は自分にある。",
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
+      }
+    ],
     "超特急": [
       {
         "id": "b321b04619fb9517",
@@ -131,28 +373,6 @@
         "memberMatches": [
           {
             "name": "アロハ",
-            "group": "超特急",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "71bb10706df40c3d",
-        "title": "椎名林檎、2026年2度目となる全国ツアー＜椎名林檎と彼奴等と試す煩悩菩提＞開催決定",
-        "sourceName": "BARKS",
-        "sourceUrl": "https://www.barks.jp/feed/",
-        "articleUrl": "https://barks.jp/news/1078367",
-        "publishedAt": "2026-07-15T03:00:35.000Z",
-        "summary": "椎名林檎が10月より、2026年2度目となる新たな全国ツアー＜椎名林檎と彼奴等と試す煩悩菩提＞を開催することが決定した。 2026年3月から5月にかけて開催された＜椎名林檎 党大会 令和八年列島巡回＞からわずか5か月後の開催となる今回の”煩悩菩提”ツアー。日程は10月30日(金)千葉・市川市文化会館を皮切りに11月25日(水)、26日(木)東京国際フォーラム",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "タクヤ",
             "group": "超特急",
             "status": "active"
           }
@@ -215,118 +435,20 @@
         ],
         "statuses": [],
         "memberMatches": []
-      }
-    ],
-    "M!LK": [
-      {
-        "id": "e3603307f2bd500a",
-        "title": "MVが話題のA.B.C-Z「マジマジック」を五関晃一とM!LK吉田仁人がダンス！「事務所を越えたコンビに癒される」「後輩ムーブの仁人くんかわいい」「ぎゅんぎゅんぎゅんの振り入ってる？笑」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000846934/",
-        "publishedAt": "2026-07-15T07:00:10.000Z",
-        "summary": "A.B.C-Z公式TikTokで、五関晃一とM!LKの吉田仁人が、A.B.C-Zの新曲「マジマジック」をコラボダ...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
       },
       {
-        "id": "529e55a9dfd5632b",
-        "title": "M!LK、吉田仁人「カラリア」アンバサダー就任！香水好きの吉田ならではの印象的なキャッチコピーを生み出す",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000846925/",
-        "publishedAt": "2026-07-15T05:15:26.000Z",
-        "summary": "M!LKの吉田仁人が、香りの総合プラットフォーム「カラリア」のブランドアンバサダーに就任した...",
+        "id": "14cbec71089a2e5b",
+        "title": "超特急「BULLET TRAIN ARENA TOUR 2026 ESCORT」【兵庫公演】機材席開放一般発売 実施決定！",
+        "sourceName": "超特急 公式NEWS",
+        "sourceUrl": "https://bullettrain.jp/news/feed/",
+        "articleUrl": "https://bullettrain.jp/news/news26316/",
+        "publishedAt": "2026-07-10T08:59:10.000Z",
+        "summary": "完売していた兵庫公演ですが、ステージプラン確定に伴い若干数の機材席開放販売が決定いたしました！ 7月13日(月)21:00より販売スタート！ ご乗車お待ちしております!!!!!!!!! ※重要：お申込み前に必ずご確認くだ […]",
         "groups": [
-          "M!LK"
+          "超特急"
         ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "776f0b30311ce3c2",
-        "title": "M!LK・佐野勇斗「トイ・ストーリー５」SNS反響に「どういうこと？」と困惑！唐沢寿明からイジり倒される",
-        "sourceName": "Edge Line",
-        "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-        "articleUrl": "https://www.edgeline-tokyo.com/entertainment/200722",
-        "publishedAt": "2026-07-14T10:27:06.000Z",
-        "summary": "アイドルグループ『M!LK』佐野勇斗が7月14日に東京・TOHOシネマズ日比谷で映画『トイ・ストーリー５』（監督：アンドリュー・スタントン／配給：ウォルト・ディズニー・ジャパン）大ヒット御礼舞台あいさつに唐沢寿明、日下...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "c42ad636f3ac3eb2",
-        "title": "7月17日放送「ミュージックステーション 1500回記念 夏の2時間SP」、IVE、塩﨑太智 (M!LK)、SixTONES、Snow Man、SEKAI NO OWARI、Toshl、中森明菜、BE:FIRST、Mrs. GREEN APPLE、M!LK、MON7A、優里出演",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/07/14/tg003",
-        "publishedAt": "2026-07-14T09:20:00.000Z",
-        "summary": "",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "ae08dd21a1b242ea",
-        "title": "今井竜太郎＆曽野舜太（M!LK）、「月刊スカパー! 2026年8月号」表紙飾る。映画『仮面ライダーゼッツ さよならのミッション』で共演する2人の撮り下ろしインタビュー掲載",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/07/14/tgb003",
-        "publishedAt": "2026-07-14T07:25:00.000Z",
-        "summary": "",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
+        "statuses": [],
+        "memberMatches": []
       }
     ],
     "EBiDAN": [
@@ -484,72 +606,6 @@
         ],
         "statuses": [],
         "memberMatches": []
-      }
-    ],
-    "原因は自分にある。": [
-      {
-        "id": "8b0f33bddaa81914",
-        "title": "原因は自分にある。が描く唯一無二の世界。ライブが映した“げんじぶらしさ”",
-        "sourceName": "QJWeb",
-        "sourceUrl": "https://qjweb.jp/feed/",
-        "articleUrl": "https://qjweb.jp/column/161707/",
-        "publishedAt": "2026-07-13T07:58:00.000Z",
-        "summary": "7人組ダンスボーカルグループ「原因は自分にある。（通称：げんじぶ）」が『ARENA TOUR 2026 仮ノ現（カリノウツツ）』を、6月27、28日に兵庫・ワールド記念ホールにて、そして7月4、5日に東京・有明アリーナにて開催した。 豪華なセットリスト、アリーナという空間を存分に活かした演出、厚みの.. 投稿 原因は自分にある。が描く唯一無二の世界。ライブが",
-        "groups": [
-          "原因は自分にある。"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "66cdbe4407592969",
-        "title": "中川翼×桜木雅哉がW主演！青春ラブストーリー「ちょっと待とうよ、春虎くん」実写ドラマ化",
-        "sourceName": "WWSチャンネル",
-        "sourceUrl": "https://www.wws-channel.com/feed",
-        "articleUrl": "https://www.wws-channel.com/tv/655500.html",
-        "publishedAt": "2026-07-12T21:30:33.000Z",
-        "summary": "中川翼と原因は自分にある。の桜木雅哉がW主演を務めるドラマ「ちょっと待とうよ、春虎くん」が、8月13日よりMBSドラマフィル枠で放送されることが決定した。本作は、漫画家・あめきりによる同名作品を実写化した青春ラブストーリー。人間関係に悩み、マスクで表情を隠して生活する高 ... The post 中川翼×桜木雅哉がW主演！青春ラブストーリー「ちょっと待とうよ",
-        "groups": [
-          "原因は自分にある。"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "桜木雅哉",
-            "group": "原因は自分にある。",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "3fb662210aaeb54f",
-        "title": "森愁斗主演『ウォーターガーディアンズ』本予告解禁、ライフセーバーの本格訓練シーンが初お披露目",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/06/87426/",
-        "publishedAt": "2026-06-05T22:00:00.000Z",
-        "summary": "森愁斗主演映画『ウォーターガーディアンズ』の公開日が8月21日(金)に決定し、本予告映像と主題歌、追加キャスト情報が一挙解禁された。 本作は、ライフセーバーを目指す若者たちの本気のひと夏を描いた青春サマームービー。思いがけずライフセーバーになるという目標を得た若者たちが友情を育み、恋と出会う姿を描く。キャストでは主人公・海翔役の森愁斗（BUDDiiS）、海翔",
-        "groups": [
-          "原因は自分にある。",
-          "BUDDiiS"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "SHOOT",
-            "group": "BUDDiiS",
-            "status": "active"
-          }
-        ]
       }
     ],
     "BUDDiiS": [

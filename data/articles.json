@@ -1,6 +1,178 @@
 {
-  "updatedAt": "2026-07-15T08:35:25.281Z",
+  "updatedAt": "2026-07-15T14:08:59.419Z",
   "articles": [
+    {
+      "id": "82b3acfd554eeb28",
+      "title": "「根底にあったのが…」佐野勇斗がアイドルとの両立で役者を続けてきた理由",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260715-4704842/",
+      "publishedAt": "2026-07-15T12:00:00.000Z",
+      "summary": "「正直、僕は歌やダンスがすごく好きなわけじゃないんですが……」俳優でM!LKの佐野勇斗が、12日放送のMBS・TBS系のバラエティ番組『日曜日の初耳学』(毎週日曜22:00～)に出演。俳優とアイドルの両立について語った。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "8bfa45a81732bc59",
+      "title": "吉田仁人（M!LK）、「カラリア」アンバサダーに就任",
+      "sourceName": "タワーレコード ニュース",
+      "sourceUrl": "https://tower.jp/feeds/article/news",
+      "articleUrl": "https://tower.jp/article/news/2026/07/15/tg006",
+      "publishedAt": "2026-07-15T11:30:00.000Z",
+      "summary": "",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "5c64c7ab74fcca30",
+      "title": "佐野勇斗と松本若菜が謎の無敵ポーズを披露！新ドラマオフショットに「このふたりの組み合わせもう面白い」「美男美女なのに変なことしてて好き」「ふたりともかわいい」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000847257/",
+      "publishedAt": "2026-07-15T10:17:52.000Z",
+      "summary": "7月14日から始まった新ドラマ『君の好きは無敵』に出演する佐野勇斗（M!LK）と松本若菜が、そ...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "96133bcbf32fb737",
+      "title": "M!LK佐野勇斗、ファンからの「結婚して!」を断る真意とは「やっぱり俺も、真面目に考えちゃう」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260715-4696792/",
+      "publishedAt": "2026-07-15T10:00:00.000Z",
+      "summary": "「そういう人たちがいる可能性を考えて…」アイドルグループ・M!LKの佐野勇斗が、ファンからのコメントに言及した――。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "c9838472a5495915",
+      "title": "山中柔太朗が“国宝級イケメン”でファン歓喜 「私の推しって最高」「確実に山中柔太朗の時代がきている」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260715-4705231/",
+      "publishedAt": "2026-07-15T09:52:44.000Z",
+      "summary": "講談社は15日、「ViVi国宝級イケメンランキング 2026年上半期」の結果を発表した。NOW部門ではM!LKの山中柔太朗が初の1位を獲得。NEXT部門では原因は自分にある。の杢代和人が悲願の首位に輝き、ADULT部門ではSixTONESの松村北斗が1位となった。",
+      "groups": [
+        "M!LK",
+        "原因は自分にある。"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "杢代和人",
+          "group": "原因は自分にある。",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "3615bc8f096990b9",
+      "title": "「ViVi国宝級イケメンランキング 2026年上半期」発表。山中柔太朗（M!LK）が「NOW部門」初の1位、杢代和人（原因は自分にある。）が「NEXT部門」悲願の首位獲得。「ADULT部門」は松村北斗（SixTONES）が前人未踏の3部門殿堂入り",
+      "sourceName": "タワーレコード ニュース",
+      "sourceUrl": "https://tower.jp/feeds/article/news",
+      "articleUrl": "https://tower.jp/article/news/2026/07/15/tgb004",
+      "publishedAt": "2026-07-15T09:50:00.000Z",
+      "summary": "",
+      "groups": [
+        "M!LK",
+        "原因は自分にある。"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "杢代和人",
+          "group": "原因は自分にある。",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "41ab347d1ba8a264",
+      "title": "松村北斗「ViVi 国宝級イケメンランキング」で前人未踏の3部門殿堂入り！NOW部門は山中柔太朗、NEXT部門は杢代和人が1位",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000847220/",
+      "publishedAt": "2026-07-15T09:20:49.000Z",
+      "summary": "「ViVi 国宝級イケメンランキング」2026年上半期の全順位が発表された。NOW部門では山中柔太朗...",
+      "groups": [
+        "M!LK",
+        "原因は自分にある。"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "杢代和人",
+          "group": "原因は自分にある。",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "b321b04619fb9517",
       "title": "INI西洸人、超特急アロハら『CanCam』“恋する横顔”に登場！「どちらかというと、母譲りです」（西）",
@@ -46,13 +218,13 @@
       ]
     },
     {
-      "id": "529e55a9dfd5632b",
-      "title": "M!LK、吉田仁人「カラリア」アンバサダー就任！香水好きの吉田ならではの印象的なキャッチコピーを生み出す",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000846925/",
-      "publishedAt": "2026-07-15T05:15:26.000Z",
-      "summary": "M!LKの吉田仁人が、香りの総合プラットフォーム「カラリア」のブランドアンバサダーに就任した...",
+      "id": "de299a89f6cd8dff",
+      "title": "M!LK佐野勇斗がVOCE初表紙！5000字超のロングインタビューでアイドルとしての本音と覚悟を語る",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/magazine_book/656009.html",
+      "publishedAt": "2026-07-15T03:00:11.000Z",
+      "summary": "M!LKの佐野勇斗が、7月22日発売の美容誌「VOCE」2026年9月号Special Editionで初めて表紙を飾る。誌面では、ビューティー界に降臨した爆裂ツヤさのをテーマに撮影を実施。美容については普通だと話していた佐野だが、取材を進める中で明らかになった、こだわ ... The post M!LK佐野勇斗がVOCE初表紙！5000字超のロングインタビ",
       "groups": [
         "M!LK"
       ],
@@ -61,30 +233,8 @@
       ],
       "memberMatches": [
         {
-          "name": "吉田仁人",
+          "name": "佐野勇斗",
           "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "71bb10706df40c3d",
-      "title": "椎名林檎、2026年2度目となる全国ツアー＜椎名林檎と彼奴等と試す煩悩菩提＞開催決定",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1078367",
-      "publishedAt": "2026-07-15T03:00:35.000Z",
-      "summary": "椎名林檎が10月より、2026年2度目となる新たな全国ツアー＜椎名林檎と彼奴等と試す煩悩菩提＞を開催することが決定した。 2026年3月から5月にかけて開催された＜椎名林檎 党大会 令和八年列島巡回＞からわずか5か月後の開催となる今回の”煩悩菩提”ツアー。日程は10月30日(金)千葉・市川市文化会館を皮切りに11月25日(水)、26日(木)東京国際フォーラム",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "タクヤ",
-          "group": "超特急",
           "status": "active"
         }
       ]
@@ -309,28 +459,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "66cdbe4407592969",
-      "title": "中川翼×桜木雅哉がW主演！青春ラブストーリー「ちょっと待とうよ、春虎くん」実写ドラマ化",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/tv/655500.html",
-      "publishedAt": "2026-07-12T21:30:33.000Z",
-      "summary": "中川翼と原因は自分にある。の桜木雅哉がW主演を務めるドラマ「ちょっと待とうよ、春虎くん」が、8月13日よりMBSドラマフィル枠で放送されることが決定した。本作は、漫画家・あめきりによる同名作品を実写化した青春ラブストーリー。人間関係に悩み、マスクで表情を隠して生活する高 ... The post 中川翼×桜木雅哉がW主演！青春ラブストーリー「ちょっと待とうよ",
-      "groups": [
-        "原因は自分にある。"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "桜木雅哉",
-          "group": "原因は自分にある。",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "4412bb37e5f04fa9",
@@ -2597,77 +2725,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "710a0f531667d68f",
-      "title": "SUPER★DRAGON Major 6th Single「Call Me Asap / NUMBER」2026年7月15日(水)発売決定！",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news10866/",
-      "publishedAt": "2026-04-19T10:59:46.000Z",
-      "summary": "2026年7月15日(水)発売 Major 6th Single「Call Me Asap / NUMBER」 TVアニメ『ダイヤのA actⅡ -Second Season-』エンディングテーマ「NUMBER」を含む全 […] The post SUPER★DRAGON Major 6th Single「Call Me Asap / NUMBER」2026",
-      "groups": [
-        "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "bd298419212668ee",
-      "title": "「SUPER★DRAGON DRA FES 2026」開催決定！",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news10878/",
-      "publishedAt": "2026-04-19T10:59:35.000Z",
-      "summary": "「SUPER★DRAGON DRA FES 2026」 ＜公演詳細＞ 【東京】Zepp Haneda （TOKYO） 2026年9月24日(木) 【大阪】Zepp Osaka Bayside 2026年9月27日(日) […] The post 「SUPER★DRAGON DRA FES 2026」開催決定！ first appeared on SUPER★",
-      "groups": [
-        "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "f7e8b6e2e9d33358",
-      "title": "超特急 東京ドーム公演 最新チケット情報",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news25983/",
-      "publishedAt": "2026-04-18T08:59:02.000Z",
-      "summary": "本日4月18日(土)18:00より三井ショッピングパーク チケット先行受付開始！ ご乗車お待ちしております!!!!!!!!! ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願いと注意事項】 https […]",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "d2d6cab1a0933109",
-      "title": "SUPER★DRAGON LIVE TOUR 2026「Studio」4月19日東京公演 追加販売情報",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news10861/",
-      "publishedAt": "2026-04-17T04:00:57.000Z",
-      "summary": "SOLD OUTとなっておりましたSUPER★DRAGON LIVE TOUR 2026「Studio」東京公演につきまして、 機材席の一部開放に伴い、若干数ではございますが、追加販売が決定いたしました。 4月18日(土 […] The post SUPER★DRAGON LIVE TOUR 2026「Studio」4月19日東京公演 追加販売情報 firs",
-      "groups": [
-        "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "136f205f637576d6",
-      "title": "【SUPERSTAR EBiDAN】 SUPER★DRAGON LIVE TOUR 2026「Studio」開催記念！ ゲーム内イベント実施のお知らせ！",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news10856/",
-      "publishedAt": "2026-04-16T07:59:07.000Z",
-      "summary": "EBiDAN公式リズムゲーム『SUPERSTAR EBiDAN』では、SUPER★DRAGON LIVE TOUR 2026「Studio」の開催を記念して、期間限定のゲーム内イベントを実施いたします！ 【 […] The post 【SUPERSTAR EBiDAN】 SUPER★DRAGON LIVE TOUR 2026「Studio」開催記念！ ゲーム",
-      "groups": [
-        "EBiDAN",
-        "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
     }
   ]
 }
