@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-07-15T14:08:59.421Z",
+  "updatedAt": "2026-07-15T19:36:43.077Z",
   "totals": {
     "all": 160,
-    "today": 10,
-    "week": 31
+    "today": 1,
+    "week": 32
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 20
+      "count": 21
     },
     {
       "name": "超特急",
@@ -76,7 +76,7 @@
     },
     {
       "name": "THE FIRST TIMES",
-      "count": 4
+      "count": 5
     },
     {
       "name": "マイナビニュース エンタメ",
@@ -110,6 +110,20 @@
   "topics": [],
   "recentByGroup": {
     "M!LK": [
+      {
+        "id": "c792287ae9ec967d",
+        "title": "吉沢亮出演“ポケモン夏マック”の新CMが放映開始！CMソングはM!LK「You!Joy!Parade!」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000847281/",
+        "publishedAt": "2026-07-15T19:00:22.000Z",
+        "summary": "マクドナルド“ポケモン 30周年バーガー”の新TVCM「ポケモン30周年バーガー」篇 が、7月21日か...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
       {
         "id": "82b3acfd554eeb28",
         "title": "「根底にあったのが…」佐野勇斗がアイドルとの両立で役者を続けてきた理由",
@@ -194,34 +208,6 @@
           {
             "name": "佐野勇斗",
             "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "c9838472a5495915",
-        "title": "山中柔太朗が“国宝級イケメン”でファン歓喜 「私の推しって最高」「確実に山中柔太朗の時代がきている」",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20260715-4705231/",
-        "publishedAt": "2026-07-15T09:52:44.000Z",
-        "summary": "講談社は15日、「ViVi国宝級イケメンランキング 2026年上半期」の結果を発表した。NOW部門ではM!LKの山中柔太朗が初の1位を獲得。NEXT部門では原因は自分にある。の杢代和人が悲願の首位に輝き、ADULT部門ではSixTONESの松村北斗が1位となった。",
-        "groups": [
-          "M!LK",
-          "原因は自分にある。"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "杢代和人",
-            "group": "原因は自分にある。",
             "status": "active"
           }
         ]

@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-07-15T14:08:59.419Z",
+  "updatedAt": "2026-07-15T19:36:43.074Z",
   "articles": [
+    {
+      "id": "c792287ae9ec967d",
+      "title": "吉沢亮出演“ポケモン夏マック”の新CMが放映開始！CMソングはM!LK「You!Joy!Parade!」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000847281/",
+      "publishedAt": "2026-07-15T19:00:22.000Z",
+      "summary": "マクドナルド“ポケモン 30周年バーガー”の新TVCM「ポケモン30周年バーガー」篇 が、7月21日か...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "82b3acfd554eeb28",
       "title": "「根底にあったのが…」佐野勇斗がアイドルとの両立で役者を続けてきた理由",
@@ -2703,28 +2717,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "2aeda7c90cad4ebc",
-      "title": "「BULLET TRAIN ARENA TOUR 2025-2026 REAL？」U-NEXTにて見放題で独占アーカイブ配信開始！",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news25986/",
-      "publishedAt": "2026-04-20T09:59:40.000Z",
-      "summary": "2026年2月21日に開催された「BULLET TRAIN ARENA TOUR 2025-2026 REAL？」の模様が、U-NEXTにてアーカイブ配信開始！ U-NEXT月額会員の方なら追加料金なく、何度でもお楽しみ […]",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "カイ",
-          "group": "超特急",
-          "status": "active"
-        }
-      ]
     }
   ]
 }
