@@ -1,6 +1,72 @@
 {
-  "updatedAt": "2026-07-15T03:33:51.693Z",
+  "updatedAt": "2026-07-15T08:35:25.281Z",
   "articles": [
+    {
+      "id": "b321b04619fb9517",
+      "title": "INI西洸人、超特急アロハら『CanCam』“恋する横顔”に登場！「どちらかというと、母譲りです」（西）",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000846893/",
+      "publishedAt": "2026-07-15T08:00:06.000Z",
+      "summary": "INIの西洸人や超特急のアロハが『CanCam』9月号（7月23日発売）掲載の「恋する横顔」企画に登...",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "アロハ",
+          "group": "超特急",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "e3603307f2bd500a",
+      "title": "MVが話題のA.B.C-Z「マジマジック」を五関晃一とM!LK吉田仁人がダンス！「事務所を越えたコンビに癒される」「後輩ムーブの仁人くんかわいい」「ぎゅんぎゅんぎゅんの振り入ってる？笑」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000846934/",
+      "publishedAt": "2026-07-15T07:00:10.000Z",
+      "summary": "A.B.C-Z公式TikTokで、五関晃一とM!LKの吉田仁人が、A.B.C-Zの新曲「マジマジック」をコラボダ...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "529e55a9dfd5632b",
+      "title": "M!LK、吉田仁人「カラリア」アンバサダー就任！香水好きの吉田ならではの印象的なキャッチコピーを生み出す",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000846925/",
+      "publishedAt": "2026-07-15T05:15:26.000Z",
+      "summary": "M!LKの吉田仁人が、香りの総合プラットフォーム「カラリア」のブランドアンバサダーに就任した...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "71bb10706df40c3d",
       "title": "椎名林檎、2026年2度目となる全国ツアー＜椎名林檎と彼奴等と試す煩悩菩提＞開催決定",
@@ -19,72 +85,6 @@
         {
           "name": "タクヤ",
           "group": "超特急",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "566778a58024b3da",
-      "title": "M!LK5人の魅力が引き立つデニムスタイルで『SPRiNG』表紙初登場！お互いに普段は言えないことを伝え合う",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000846768/",
-      "publishedAt": "2026-07-15T03:00:28.000Z",
-      "summary": "M!LKが、『SPRiNG』2026年9月号（7月23日発売）の表紙と巻頭特集に登場する。 ■佐野勇斗はM!LK...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "36ceae7cc1198dc1",
-      "title": "松本若菜×佐野勇斗ドラマ『君の好きは無敵』星野源の書き下ろし主題歌「好き」が初回放送で初解禁",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000846705/",
-      "publishedAt": "2026-07-15T02:01:08.000Z",
-      "summary": "7月14日22時からスタートした主演・松本若菜×初共演・佐野勇斗のドラマ『君の好きは無敵』。星...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "b694c513d4090ae1",
-      "title": "M!LK佐野勇斗、とんでもない撮れ高でページが倍増！“アイドルとしての本音と覚悟”を語るロングインタビューも",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000846698/",
-      "publishedAt": "2026-07-15T01:20:13.000Z",
-      "summary": "M!LKの佐野勇斗が、7月22日発売の『VOCE』（ヴォーチェ）9月号＜Special Edition＞の初表紙を...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
           "status": "active"
         }
       ]
