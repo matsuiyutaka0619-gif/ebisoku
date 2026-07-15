@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-07-14T19:42:28.864Z",
+  "updatedAt": "2026-07-15T03:33:51.695Z",
   "totals": {
     "all": 160,
-    "today": 1,
-    "week": 31
+    "today": 4,
+    "week": 28
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 17
+      "count": 14
     },
     {
       "name": "超特急",
-      "count": 6
+      "count": 7
     },
     {
       "name": "EBiDAN",
@@ -25,27 +25,23 @@
     {
       "name": "原因は自分にある。",
       "count": 2
-    },
-    {
-      "name": "ONE N' ONLY",
-      "count": 1
     }
   ],
   "memberRanking": [
     {
       "name": "佐野勇斗",
-      "count": 8
+      "count": 5
     },
     {
       "name": "塩﨑太智",
-      "count": 4
+      "count": 3
     },
     {
       "name": "曽野舜太",
       "count": 3
     },
     {
-      "name": "REI",
+      "name": "タクヤ",
       "count": 1
     },
     {
@@ -83,20 +79,20 @@
       "count": 4
     },
     {
-      "name": "Bezzy",
-      "count": 2
-    },
-    {
       "name": "THE FIRST TIMES",
-      "count": 2
+      "count": 3
     },
     {
-      "name": "WWSチャンネル",
+      "name": "Bezzy",
       "count": 2
     },
     {
       "name": "マイナビニュース テレビ",
       "count": 2
+    },
+    {
+      "name": "BARKS",
+      "count": 1
     },
     {
       "name": "Edge Line",
@@ -107,21 +103,117 @@
       "count": 1
     },
     {
-      "name": "Sirabee",
+      "name": "WWSチャンネル",
       "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
+    "超特急": [
+      {
+        "id": "71bb10706df40c3d",
+        "title": "椎名林檎、2026年2度目となる全国ツアー＜椎名林檎と彼奴等と試す煩悩菩提＞開催決定",
+        "sourceName": "BARKS",
+        "sourceUrl": "https://www.barks.jp/feed/",
+        "articleUrl": "https://barks.jp/news/1078367",
+        "publishedAt": "2026-07-15T03:00:35.000Z",
+        "summary": "椎名林檎が10月より、2026年2度目となる新たな全国ツアー＜椎名林檎と彼奴等と試す煩悩菩提＞を開催することが決定した。 2026年3月から5月にかけて開催された＜椎名林檎 党大会 令和八年列島巡回＞からわずか5か月後の開催となる今回の”煩悩菩提”ツアー。日程は10月30日(金)千葉・市川市文化会館を皮切りに11月25日(水)、26日(木)東京国際フォーラム",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "タクヤ",
+            "group": "超特急",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "037a3deffe2bde86",
+        "title": "BULLET TRAIN ARENA TOUR 2026 ESCORT 2026年7月14日(火)・15日(水) GLION ARENA KOBE公演についてのお知らせ",
+        "sourceName": "超特急 公式NEWS",
+        "sourceUrl": "https://bullettrain.jp/news/feed/",
+        "articleUrl": "https://bullettrain.jp/news/news26359/",
+        "publishedAt": "2026-07-14T06:29:43.000Z",
+        "summary": "いつも超特急を応援いただき、誠にありがとうございます。 メンバーのマサヒロですが、本日のリハーサル中に腰を負傷し、急性腰痛症と判断されました。 本人の回復を最優先に考え、メンバー、スタッフとも協議を重ねた結果、 2026 […]",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "マサヒロ",
+            "group": "超特急",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "fde2e5cc9f02f7bc",
+        "title": "BULLET TRAIN ARENA TOUR 2026「ESCORT」 リョウガ 参加見合わせに関して",
+        "sourceName": "超特急 公式NEWS",
+        "sourceUrl": "https://bullettrain.jp/news/feed/",
+        "articleUrl": "https://bullettrain.jp/news/news26357/",
+        "publishedAt": "2026-07-13T10:44:32.000Z",
+        "summary": "いつも超特急へ温かい応援を頂きありがとうございます。 弊社所属 超特急メンバーのリョウガが体調不良のため、本人の体調回復を最優先に考え、以下のライブにつきまして出演を見合わせさせていただくことになりました。 ＜欠席対応公 […]",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "リョウガ",
+            "group": "超特急",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "933629b884c40b49",
+        "title": "超特急 東京ドーム公演＜追加公演＞最新チケット情報",
+        "sourceName": "超特急 公式NEWS",
+        "sourceUrl": "https://bullettrain.jp/news/feed/",
+        "articleUrl": "https://bullettrain.jp/news/news26350/",
+        "publishedAt": "2026-07-11T08:59:47.000Z",
+        "summary": "7月11日(土)18:00よりローソンチケットプレリクエスト先行受付開始！ ご乗車お待ちしております!!!!!!!!! ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願いと注意事項】 https:// […]",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "14cbec71089a2e5b",
+        "title": "超特急「BULLET TRAIN ARENA TOUR 2026 ESCORT」【兵庫公演】機材席開放一般発売 実施決定！",
+        "sourceName": "超特急 公式NEWS",
+        "sourceUrl": "https://bullettrain.jp/news/feed/",
+        "articleUrl": "https://bullettrain.jp/news/news26316/",
+        "publishedAt": "2026-07-10T08:59:10.000Z",
+        "summary": "完売していた兵庫公演ですが、ステージプラン確定に伴い若干数の機材席開放販売が決定いたしました！ 7月13日(月)21:00より販売スタート！ ご乗車お待ちしております!!!!!!!!! ※重要：お申込み前に必ずご確認くだ […]",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
     "M!LK": [
       {
-        "id": "2aaf37b3d9be1354",
-        "title": "『君の好きは無敵』は“好き”が詰まったラブコメに 松本若菜×佐野勇斗が生み出す多幸感",
-        "sourceName": "リアルサウンド 映画部",
-        "sourceUrl": "https://realsound.jp/movie/feed",
-        "articleUrl": "https://realsound.jp/movie/2026/07/post-2460432.html",
-        "publishedAt": "2026-07-14T16:00:38.000Z",
-        "summary": "いきなりですが、国民的キャラクターといえば何を思い浮かべますか？ きっとハローキティ、アンパンマン、ドラえもん、ピカチュウ、ちいかわ、すみっコぐらしなど、いろんな名前が挙がるはず。日本は世界に誇るキャラクター大国であり",
+        "id": "566778a58024b3da",
+        "title": "M!LK5人の魅力が引き立つデニムスタイルで『SPRiNG』表紙初登場！お互いに普段は言えないことを伝え合う",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000846768/",
+        "publishedAt": "2026-07-15T03:00:28.000Z",
+        "summary": "M!LKが、『SPRiNG』2026年9月号（7月23日発売）の表紙と巻頭特集に登場する。 ■佐野勇斗はM!LK...",
         "groups": [
           "M!LK"
         ],
@@ -137,13 +229,13 @@
         ]
       },
       {
-        "id": "befdd46aedf1df35",
-        "title": "唐沢寿明、広瀬アリス、井上和ら「トイ・ストーリー５」声優が舞台あいさつ 井上「愛を感じる」",
-        "sourceName": "日刊スポーツ 芸能",
-        "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-        "articleUrl": "https://www.nikkansports.com/entertainment/news/202607140002240.html",
-        "publishedAt": "2026-07-14T13:07:48.000Z",
-        "summary": "公開中の映画「トイ・ストーリー5」で日本版の声優を務めた唐沢寿明、日下由美、広瀬アリス、佐野勇斗、乃木坂46井上和、令和ロマン松井ケムリ、天野叶愛、白山乃愛が14日、都内で大ヒット御礼舞台あいさつを行った。今月3日の公開から3日間で観客…",
+        "id": "36ceae7cc1198dc1",
+        "title": "松本若菜×佐野勇斗ドラマ『君の好きは無敵』星野源の書き下ろし主題歌「好き」が初回放送で初解禁",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000846705/",
+        "publishedAt": "2026-07-15T02:01:08.000Z",
+        "summary": "7月14日22時からスタートした主演・松本若菜×初共演・佐野勇斗のドラマ『君の好きは無敵』。星...",
         "groups": [
           "M!LK"
         ],
@@ -159,13 +251,13 @@
         ]
       },
       {
-        "id": "de44b6e13e9842c6",
-        "title": "「同じ“夢を追う者”として…」「うれしかった」M!LK佐野勇斗、地元・愛知で“本当に感動した”エピソード明かす",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20260714-4696730/",
-        "publishedAt": "2026-07-14T11:00:00.000Z",
-        "summary": "「“昔から夢だった”って言ってたから」アイドルグループ・M!LKの佐野勇斗が、感動したという出来事を明かした――。",
+        "id": "b694c513d4090ae1",
+        "title": "M!LK佐野勇斗、とんでもない撮れ高でページが倍増！“アイドルとしての本音と覚悟”を語るロングインタビューも",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000846698/",
+        "publishedAt": "2026-07-15T01:20:13.000Z",
+        "summary": "M!LKの佐野勇斗が、7月22日発売の『VOCE』（ヴォーチェ）9月号＜Special Edition＞の初表紙を...",
         "groups": [
           "M!LK"
         ],
@@ -382,94 +474,6 @@
         "memberMatches": []
       }
     ],
-    "超特急": [
-      {
-        "id": "037a3deffe2bde86",
-        "title": "BULLET TRAIN ARENA TOUR 2026 ESCORT 2026年7月14日(火)・15日(水) GLION ARENA KOBE公演についてのお知らせ",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26359/",
-        "publishedAt": "2026-07-14T06:29:43.000Z",
-        "summary": "いつも超特急を応援いただき、誠にありがとうございます。 メンバーのマサヒロですが、本日のリハーサル中に腰を負傷し、急性腰痛症と判断されました。 本人の回復を最優先に考え、メンバー、スタッフとも協議を重ねた結果、 2026 […]",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "マサヒロ",
-            "group": "超特急",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "fde2e5cc9f02f7bc",
-        "title": "BULLET TRAIN ARENA TOUR 2026「ESCORT」 リョウガ 参加見合わせに関して",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26357/",
-        "publishedAt": "2026-07-13T10:44:32.000Z",
-        "summary": "いつも超特急へ温かい応援を頂きありがとうございます。 弊社所属 超特急メンバーのリョウガが体調不良のため、本人の体調回復を最優先に考え、以下のライブにつきまして出演を見合わせさせていただくことになりました。 ＜欠席対応公 […]",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "リョウガ",
-            "group": "超特急",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "933629b884c40b49",
-        "title": "超特急 東京ドーム公演＜追加公演＞最新チケット情報",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26350/",
-        "publishedAt": "2026-07-11T08:59:47.000Z",
-        "summary": "7月11日(土)18:00よりローソンチケットプレリクエスト先行受付開始！ ご乗車お待ちしております!!!!!!!!! ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願いと注意事項】 https:// […]",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "14cbec71089a2e5b",
-        "title": "超特急「BULLET TRAIN ARENA TOUR 2026 ESCORT」【兵庫公演】機材席開放一般発売 実施決定！",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26316/",
-        "publishedAt": "2026-07-10T08:59:10.000Z",
-        "summary": "完売していた兵庫公演ですが、ステージプラン確定に伴い若干数の機材席開放販売が決定いたしました！ 7月13日(月)21:00より販売スタート！ ご乗車お待ちしております!!!!!!!!! ※重要：お申込み前に必ずご確認くだ […]",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "a554aecc620c3a36",
-        "title": "『BULLET TRAIN ARENA TOUR 2026 ESCORT』U-NEXTにて独占ライブ配信決定！",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26314/",
-        "publishedAt": "2026-07-09T10:01:42.000Z",
-        "summary": "8月9日(日)に開催される『BULLET TRAIN ARENA TOUR 2026 ESCORT』の模様がU-NEXTにて生配信することが決定！ U-NEXT月額会員の方なら追加料金なくお楽しみいただけます。 ライブ配 […]",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
     "原因は自分にある。": [
       {
         "id": "8b0f33bddaa81914",
@@ -531,30 +535,6 @@
           {
             "name": "SHOOT",
             "group": "BUDDiiS",
-            "status": "active"
-          }
-        ]
-      }
-    ],
-    "ONE N' ONLY": [
-      {
-        "id": "44a5baaa869d86de",
-        "title": "ONE N’ ONLY・沢村玲がセレモニアルピッチ！「ライブより緊張しました（笑）」",
-        "sourceName": "WWSチャンネル",
-        "sourceUrl": "https://www.wws-channel.com/feed",
-        "articleUrl": "https://www.wws-channel.com/sports/655473.html",
-        "publishedAt": "2026-07-12T13:30:16.000Z",
-        "summary": "7月12日、千葉・ZOZOマリンスタジアムにてONE N’ ONLY・沢村玲がセレモニアルピッチを行った。以下コメントが届いている。＜沢村玲コメント＞「ライブより緊張しました（笑）。投球はワンバウンドになってしまい少し悔しい結果でしたが、マリーンズファンの皆さんの温かい ... The post ONE N’ ONLY・沢村玲がセレモニアルピッチ！「ライブよ",
-        "groups": [
-          "ONE N' ONLY"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "REI",
-            "group": "ONE N' ONLY",
             "status": "active"
           }
         ]
