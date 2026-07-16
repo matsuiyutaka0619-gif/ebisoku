@@ -1,37 +1,33 @@
 {
-  "updatedAt": "2026-07-16T03:36:20.295Z",
+  "updatedAt": "2026-07-16T08:33:59.492Z",
   "totals": {
     "all": 160,
-    "today": 2,
-    "week": 28
+    "today": 4,
+    "week": 27
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 17
+      "count": 15
     },
     {
       "name": "超特急",
-      "count": 7
+      "count": 6
     },
     {
       "name": "EBiDAN",
-      "count": 4
-    },
-    {
-      "name": "原因は自分にある。",
-      "count": 4
+      "count": 5
     },
     {
       "name": "SUPER★DRAGON",
-      "count": 2
+      "count": 3
+    },
+    {
+      "name": "原因は自分にある。",
+      "count": 3
     }
   ],
   "memberRanking": [
-    {
-      "name": "佐野勇斗",
-      "count": 4
-    },
     {
       "name": "山中柔太朗",
       "count": 4
@@ -41,12 +37,16 @@
       "count": 3
     },
     {
+      "name": "佐野勇斗",
+      "count": 3
+    },
+    {
       "name": "曽野舜太",
       "count": 3
     },
     {
       "name": "杢代和人",
-      "count": 3
+      "count": 2
     },
     {
       "name": "マサヒロ",
@@ -71,15 +71,11 @@
       "count": 7
     },
     {
-      "name": "THE FIRST TIMES",
+      "name": "SUPER★DRAGON 公式NEWS",
       "count": 3
     },
     {
       "name": "Bezzy",
-      "count": 2
-    },
-    {
-      "name": "SUPER★DRAGON 公式NEWS",
       "count": 2
     },
     {
@@ -88,6 +84,10 @@
     },
     {
       "name": "QJWeb",
+      "count": 1
+    },
+    {
+      "name": "THE FIRST TIMES",
       "count": 1
     },
     {
@@ -105,6 +105,288 @@
   ],
   "topics": [],
   "recentByGroup": {
+    "EBiDAN": [
+      {
+        "id": "6d6179aa4b081875",
+        "title": "「Yes! 駆け込め! 僕らのEBiSTORE」の開催が決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11408/",
+        "publishedAt": "2026-07-16T07:00:05.000Z",
+        "summary": "EBiDAN15周年記念シングル「Yes! 東京」リリース＆『EBiDAN THE LIVE 2026 15th Anniversary』の開催を記念してSHIBUYA TSUTAYAにてコラボレーションカ […] The post 「Yes! 駆け込め! 僕らのEBiSTORE」の開催が決定！ first appeared on SUPER★DRAGON ",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "f3d2f6d0c64fe7d1",
+        "title": "「Yes! 駆け込め! 僕らのEBiSTORE」の開催が決定！",
+        "sourceName": "超特急 公式NEWS",
+        "sourceUrl": "https://bullettrain.jp/news/feed/",
+        "articleUrl": "https://bullettrain.jp/news/news26362/",
+        "publishedAt": "2026-07-16T06:59:01.000Z",
+        "summary": "EBiDAN15周年記念シングル「Yes! 東京」リリース＆『EBiDAN THE LIVE 2026 15th Anniversary』の開催を記念してSHIBUYA TSUTAYAにてコラボレーションカフェ「Yes! […]",
+        "groups": [
+          "EBiDAN"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "f286566083445b46",
+        "title": "EBiDAN15周年記念シングル『Yes! 東京』発売記念 公演終了後の『終演後お見送り会』開催決定！さらに「幻のエビパンラバーキーホルダー」をプレゼント！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11402/",
+        "publishedAt": "2026-07-14T08:00:44.000Z",
+        "summary": "EBiDAN (恵比寿学園男子部) 15周年記念シングル『Yes! 東京』発売を記念して、 『終演後お見送り会』の開催が決定！「EBiDAN THE LIVE 2026 15th Anniversary」DAY2（8/1 […] The post EBiDAN15周年記念シングル『Yes! 東京』発売記念 公演終了後の『終演後お見送り会』開催決定！さらに「幻",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "12e4b8a3fb9cf709",
+        "title": "EBiDAN公式Stationheadアカウント開設＆リスニングパーティー開催が決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11399/",
+        "publishedAt": "2026-07-10T07:30:33.000Z",
+        "summary": "ラジオ放送プラットフォームアプリ「Stationhead」にて、EBiDAN (恵比寿学園男子部)のオフィシャルアカウントを開設しました！そして、7月13日(月)以降、Stationheadでリスニングパーティーの連続開 […] The post EBiDAN公式Stationheadアカウント開設＆リスニングパーティー開催が決定！ first appear",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "e4506961b8c3348e",
+        "title": "EBiDAN公式Stationheadアカウント開設＆リスニングパーティー開催が決定！",
+        "sourceName": "超特急 公式NEWS",
+        "sourceUrl": "https://bullettrain.jp/news/feed/",
+        "articleUrl": "https://bullettrain.jp/news/news26347/",
+        "publishedAt": "2026-07-10T07:29:40.000Z",
+        "summary": "ラジオ放送プラットフォームアプリ「Stationhead」にて、EBiDAN (恵比寿学園男子部)のオフィシャルアカウントを開設しました！そして、7月13日(月)以降、Stationheadでリスニングパーティーの連続開 […]",
+        "groups": [
+          "EBiDAN"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
+    "SUPER★DRAGON": [
+      {
+        "id": "6d6179aa4b081875",
+        "title": "「Yes! 駆け込め! 僕らのEBiSTORE」の開催が決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11408/",
+        "publishedAt": "2026-07-16T07:00:05.000Z",
+        "summary": "EBiDAN15周年記念シングル「Yes! 東京」リリース＆『EBiDAN THE LIVE 2026 15th Anniversary』の開催を記念してSHIBUYA TSUTAYAにてコラボレーションカ […] The post 「Yes! 駆け込め! 僕らのEBiSTORE」の開催が決定！ first appeared on SUPER★DRAGON ",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "f286566083445b46",
+        "title": "EBiDAN15周年記念シングル『Yes! 東京』発売記念 公演終了後の『終演後お見送り会』開催決定！さらに「幻のエビパンラバーキーホルダー」をプレゼント！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11402/",
+        "publishedAt": "2026-07-14T08:00:44.000Z",
+        "summary": "EBiDAN (恵比寿学園男子部) 15周年記念シングル『Yes! 東京』発売を記念して、 『終演後お見送り会』の開催が決定！「EBiDAN THE LIVE 2026 15th Anniversary」DAY2（8/1 […] The post EBiDAN15周年記念シングル『Yes! 東京』発売記念 公演終了後の『終演後お見送り会』開催決定！さらに「幻",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "12e4b8a3fb9cf709",
+        "title": "EBiDAN公式Stationheadアカウント開設＆リスニングパーティー開催が決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11399/",
+        "publishedAt": "2026-07-10T07:30:33.000Z",
+        "summary": "ラジオ放送プラットフォームアプリ「Stationhead」にて、EBiDAN (恵比寿学園男子部)のオフィシャルアカウントを開設しました！そして、7月13日(月)以降、Stationheadでリスニングパーティーの連続開 […] The post EBiDAN公式Stationheadアカウント開設＆リスニングパーティー開催が決定！ first appear",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "c5fcd2c7851c5eff",
+        "title": "7/16(木)開催リリースイベント＠川崎CLUB CITTA‘（神奈川）にて開催リリースイベントLINEアプリを使用した『CD購入整理券』『優先観覧エリア入場整理券』についてのご案内",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11395/",
+        "publishedAt": "2026-07-08T10:59:36.000Z",
+        "summary": "▼ＣＤ購入整理券について 7/16(木)神奈川・川崎CLUB CITTA‘にて開催するリリースイベントの会場でのＣＤ販売は、会場の混雑緩和のため、LINEアプリを使用した事前応募制の『ＣＤ購入整理券』を導入致します。 Ｃ […] The post 7/16(木)開催リリースイベント＠川崎CLUB CITTA‘（神奈川）にて開催リリースイベントLINEアプリを",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "5024261d19c3b46c",
+        "title": "SUPER★DRAGON 松村和哉 インフルエンザ感染に関するご報告",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11392/",
+        "publishedAt": "2026-07-08T10:45:08.000Z",
+        "summary": "日頃より、弊社所属グループ「SUPER★DRAGON」を応援いただき、誠にありがとうございます。 メンバーの松村和哉が、インフルエンザに感染していることを確認致しましたのでご報告申し上げます。 今後につきましては、医師の […] The post SUPER★DRAGON 松村和哉 インフルエンザ感染に関するご報告 first appeared on SUP",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "松村和哉",
+            "group": "SUPER★DRAGON",
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "M!LK": [
+      {
+        "id": "0812f06d1e70970c",
+        "title": "松村北斗がふわふわヘア×ピンクシャツで“北斗節”全開！“国宝級イケメン”殿堂入りへの喜びを語り「言葉選びが最高」「謙虚すぎる」「イケメンなのにカワイイ」「顔が良すぎる」と反響",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000847779/",
+        "publishedAt": "2026-07-16T05:52:35.000Z",
+        "summary": "「ViVi 国宝級イケメンランキング」2026年上半期の全順位が発表された。NOW部門では山中柔太朗...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "82b3acfd554eeb28",
+        "title": "「根底にあったのが…」佐野勇斗がアイドルとの両立で役者を続けてきた理由",
+        "sourceName": "マイナビニュース テレビ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
+        "articleUrl": "https://news.mynavi.jp/article/20260715-4704842/",
+        "publishedAt": "2026-07-15T12:00:00.000Z",
+        "summary": "「正直、僕は歌やダンスがすごく好きなわけじゃないんですが……」俳優でM!LKの佐野勇斗が、12日放送のMBS・TBS系のバラエティ番組『日曜日の初耳学』(毎週日曜22:00～)に出演。俳優とアイドルの両立について語った。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "8bfa45a81732bc59",
+        "title": "吉田仁人（M!LK）、「カラリア」アンバサダーに就任",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/07/15/tg006",
+        "publishedAt": "2026-07-15T11:30:00.000Z",
+        "summary": "",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "c9838472a5495915",
+        "title": "山中柔太朗が“国宝級イケメン”でファン歓喜 「私の推しって最高」「確実に山中柔太朗の時代がきている」",
+        "sourceName": "マイナビニュース 芸能",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
+        "articleUrl": "https://news.mynavi.jp/article/20260715-4705231/",
+        "publishedAt": "2026-07-15T09:52:44.000Z",
+        "summary": "講談社は15日、「ViVi国宝級イケメンランキング 2026年上半期」の結果を発表した。NOW部門ではM!LKの山中柔太朗が初の1位を獲得。NEXT部門では原因は自分にある。の杢代和人が悲願の首位に輝き、ADULT部門ではSixTONESの松村北斗が1位となった。",
+        "groups": [
+          "M!LK",
+          "原因は自分にある。"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "杢代和人",
+            "group": "原因は自分にある。",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "3615bc8f096990b9",
+        "title": "「ViVi国宝級イケメンランキング 2026年上半期」発表。山中柔太朗（M!LK）が「NOW部門」初の1位、杢代和人（原因は自分にある。）が「NEXT部門」悲願の首位獲得。「ADULT部門」は松村北斗（SixTONES）が前人未踏の3部門殿堂入り",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/07/15/tgb004",
+        "publishedAt": "2026-07-15T09:50:00.000Z",
+        "summary": "",
+        "groups": [
+          "M!LK",
+          "原因は自分にある。"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "杢代和人",
+            "group": "原因は自分にある。",
+            "status": "active"
+          }
+        ]
+      }
+    ],
     "超特急": [
       {
         "id": "24dcd878e3217bd8",
@@ -193,116 +475,6 @@
         "memberMatches": []
       }
     ],
-    "M!LK": [
-      {
-        "id": "c792287ae9ec967d",
-        "title": "吉沢亮出演“ポケモン夏マック”の新CMが放映開始！CMソングはM!LK「You!Joy!Parade!」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000847281/",
-        "publishedAt": "2026-07-15T19:00:22.000Z",
-        "summary": "マクドナルド“ポケモン 30周年バーガー”の新TVCM「ポケモン30周年バーガー」篇 が、7月21日か...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "82b3acfd554eeb28",
-        "title": "「根底にあったのが…」佐野勇斗がアイドルとの両立で役者を続けてきた理由",
-        "sourceName": "マイナビニュース テレビ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-        "articleUrl": "https://news.mynavi.jp/article/20260715-4704842/",
-        "publishedAt": "2026-07-15T12:00:00.000Z",
-        "summary": "「正直、僕は歌やダンスがすごく好きなわけじゃないんですが……」俳優でM!LKの佐野勇斗が、12日放送のMBS・TBS系のバラエティ番組『日曜日の初耳学』(毎週日曜22:00～)に出演。俳優とアイドルの両立について語った。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "8bfa45a81732bc59",
-        "title": "吉田仁人（M!LK）、「カラリア」アンバサダーに就任",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/07/15/tg006",
-        "publishedAt": "2026-07-15T11:30:00.000Z",
-        "summary": "",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "5c64c7ab74fcca30",
-        "title": "佐野勇斗と松本若菜が謎の無敵ポーズを披露！新ドラマオフショットに「このふたりの組み合わせもう面白い」「美男美女なのに変なことしてて好き」「ふたりともかわいい」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000847257/",
-        "publishedAt": "2026-07-15T10:17:52.000Z",
-        "summary": "7月14日から始まった新ドラマ『君の好きは無敵』に出演する佐野勇斗（M!LK）と松本若菜が、そ...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "c9838472a5495915",
-        "title": "山中柔太朗が“国宝級イケメン”でファン歓喜 「私の推しって最高」「確実に山中柔太朗の時代がきている」",
-        "sourceName": "マイナビニュース 芸能",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-        "articleUrl": "https://news.mynavi.jp/article/20260715-4705231/",
-        "publishedAt": "2026-07-15T09:52:44.000Z",
-        "summary": "講談社は15日、「ViVi国宝級イケメンランキング 2026年上半期」の結果を発表した。NOW部門ではM!LKの山中柔太朗が初の1位を獲得。NEXT部門では原因は自分にある。の杢代和人が悲願の首位に輝き、ADULT部門ではSixTONESの松村北斗が1位となった。",
-        "groups": [
-          "M!LK",
-          "原因は自分にある。"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "杢代和人",
-            "group": "原因は自分にある。",
-            "status": "active"
-          }
-        ]
-      }
-    ],
     "原因は自分にある。": [
       {
         "id": "c9838472a5495915",
@@ -340,34 +512,6 @@
         "articleUrl": "https://tower.jp/article/news/2026/07/15/tgb004",
         "publishedAt": "2026-07-15T09:50:00.000Z",
         "summary": "",
-        "groups": [
-          "M!LK",
-          "原因は自分にある。"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "杢代和人",
-            "group": "原因は自分にある。",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "41ab347d1ba8a264",
-        "title": "松村北斗「ViVi 国宝級イケメンランキング」で前人未踏の3部門殿堂入り！NOW部門は山中柔太朗、NEXT部門は杢代和人が1位",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000847220/",
-        "publishedAt": "2026-07-15T09:20:49.000Z",
-        "summary": "「ViVi 国宝級イケメンランキング」2026年上半期の全順位が発表された。NOW部門では山中柔太朗...",
         "groups": [
           "M!LK",
           "原因は自分にある。"
@@ -429,163 +573,6 @@
             "status": "active"
           }
         ]
-      }
-    ],
-    "EBiDAN": [
-      {
-        "id": "f286566083445b46",
-        "title": "EBiDAN15周年記念シングル『Yes! 東京』発売記念 公演終了後の『終演後お見送り会』開催決定！さらに「幻のエビパンラバーキーホルダー」をプレゼント！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11402/",
-        "publishedAt": "2026-07-14T08:00:44.000Z",
-        "summary": "EBiDAN (恵比寿学園男子部) 15周年記念シングル『Yes! 東京』発売を記念して、 『終演後お見送り会』の開催が決定！「EBiDAN THE LIVE 2026 15th Anniversary」DAY2（8/1 […] The post EBiDAN15周年記念シングル『Yes! 東京』発売記念 公演終了後の『終演後お見送り会』開催決定！さらに「幻",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "12e4b8a3fb9cf709",
-        "title": "EBiDAN公式Stationheadアカウント開設＆リスニングパーティー開催が決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11399/",
-        "publishedAt": "2026-07-10T07:30:33.000Z",
-        "summary": "ラジオ放送プラットフォームアプリ「Stationhead」にて、EBiDAN (恵比寿学園男子部)のオフィシャルアカウントを開設しました！そして、7月13日(月)以降、Stationheadでリスニングパーティーの連続開 […] The post EBiDAN公式Stationheadアカウント開設＆リスニングパーティー開催が決定！ first appear",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "e4506961b8c3348e",
-        "title": "EBiDAN公式Stationheadアカウント開設＆リスニングパーティー開催が決定！",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26347/",
-        "publishedAt": "2026-07-10T07:29:40.000Z",
-        "summary": "ラジオ放送プラットフォームアプリ「Stationhead」にて、EBiDAN (恵比寿学園男子部)のオフィシャルアカウントを開設しました！そして、7月13日(月)以降、Stationheadでリスニングパーティーの連続開 […]",
-        "groups": [
-          "EBiDAN"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "ba1d4bfc5a46098d",
-        "title": "【SUPERSTAR EBiDAN】 「BULLET TRAIN ARENA TOUR 2026 ESCORT」開催記念！ゲーム内イベント実施のお知らせ",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26309/",
-        "publishedAt": "2026-07-09T08:10:08.000Z",
-        "summary": "EBiDAN公式リズムゲーム『SUPERSTAR EBiDAN』では、「BULLET TRAIN ARENA TOUR 2026 ESCORT」の開催を記念して、期間限定のゲーム内イベントを実施いたします！ ■実施期間： […]",
-        "groups": [
-          "EBiDAN",
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "6182e0a1925ae519",
-        "title": "2026年8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 《第3弾》 CD予約購入キャンペーン実施決定！",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26303/",
-        "publishedAt": "2026-07-07T03:21:17.000Z",
-        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して、8月11日(火・祝)にリリースするシングル「Yes! 東京」の《第３弾》CD予約購入特典キャンペーンの実施が決定いたしました！ 2026年8月11日(火・祝)発売 […]",
-        "groups": [
-          "EBiDAN"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "SUPER★DRAGON": [
-      {
-        "id": "f286566083445b46",
-        "title": "EBiDAN15周年記念シングル『Yes! 東京』発売記念 公演終了後の『終演後お見送り会』開催決定！さらに「幻のエビパンラバーキーホルダー」をプレゼント！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11402/",
-        "publishedAt": "2026-07-14T08:00:44.000Z",
-        "summary": "EBiDAN (恵比寿学園男子部) 15周年記念シングル『Yes! 東京』発売を記念して、 『終演後お見送り会』の開催が決定！「EBiDAN THE LIVE 2026 15th Anniversary」DAY2（8/1 […] The post EBiDAN15周年記念シングル『Yes! 東京』発売記念 公演終了後の『終演後お見送り会』開催決定！さらに「幻",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "12e4b8a3fb9cf709",
-        "title": "EBiDAN公式Stationheadアカウント開設＆リスニングパーティー開催が決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11399/",
-        "publishedAt": "2026-07-10T07:30:33.000Z",
-        "summary": "ラジオ放送プラットフォームアプリ「Stationhead」にて、EBiDAN (恵比寿学園男子部)のオフィシャルアカウントを開設しました！そして、7月13日(月)以降、Stationheadでリスニングパーティーの連続開 […] The post EBiDAN公式Stationheadアカウント開設＆リスニングパーティー開催が決定！ first appear",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "c5fcd2c7851c5eff",
-        "title": "7/16(木)開催リリースイベント＠川崎CLUB CITTA‘（神奈川）にて開催リリースイベントLINEアプリを使用した『CD購入整理券』『優先観覧エリア入場整理券』についてのご案内",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11395/",
-        "publishedAt": "2026-07-08T10:59:36.000Z",
-        "summary": "▼ＣＤ購入整理券について 7/16(木)神奈川・川崎CLUB CITTA‘にて開催するリリースイベントの会場でのＣＤ販売は、会場の混雑緩和のため、LINEアプリを使用した事前応募制の『ＣＤ購入整理券』を導入致します。 Ｃ […] The post 7/16(木)開催リリースイベント＠川崎CLUB CITTA‘（神奈川）にて開催リリースイベントLINEアプリを",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "5024261d19c3b46c",
-        "title": "SUPER★DRAGON 松村和哉 インフルエンザ感染に関するご報告",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11392/",
-        "publishedAt": "2026-07-08T10:45:08.000Z",
-        "summary": "日頃より、弊社所属グループ「SUPER★DRAGON」を応援いただき、誠にありがとうございます。 メンバーの松村和哉が、インフルエンザに感染していることを確認致しましたのでご報告申し上げます。 今後につきましては、医師の […] The post SUPER★DRAGON 松村和哉 インフルエンザ感染に関するご報告 first appeared on SUP",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "松村和哉",
-            "group": "SUPER★DRAGON",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "e91f95939d2ff92d",
-        "title": "7/20(月祝)開催SUPER★DRAGON 夏休みオンライン特典会の追加販売決定【AREA SD会員限定】",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11389/",
-        "publishedAt": "2026-07-07T11:00:15.000Z",
-        "summary": "7/20(月祝)に開催するSUPER★DRAGON OFFICIAL FANCLUB「AREA SD」会員様を対象にしたオンライン特典会につきまして、ポニーキャニオンショッピングクラブでの特典会参加券付きCDの追加販売が […] The post 7/20(月祝)開催SUPER★DRAGON 夏休みオンライン特典会の追加販売決定【AREA SD会員限定】 f",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
       }
     ],
     "BUDDiiS": [

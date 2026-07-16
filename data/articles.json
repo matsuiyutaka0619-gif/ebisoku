@@ -1,6 +1,57 @@
 {
-  "updatedAt": "2026-07-16T03:36:20.292Z",
+  "updatedAt": "2026-07-16T08:33:59.485Z",
   "articles": [
+    {
+      "id": "6d6179aa4b081875",
+      "title": "「Yes! 駆け込め! 僕らのEBiSTORE」の開催が決定！",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news11408/",
+      "publishedAt": "2026-07-16T07:00:05.000Z",
+      "summary": "EBiDAN15周年記念シングル「Yes! 東京」リリース＆『EBiDAN THE LIVE 2026 15th Anniversary』の開催を記念してSHIBUYA TSUTAYAにてコラボレーションカ […] The post 「Yes! 駆け込め! 僕らのEBiSTORE」の開催が決定！ first appeared on SUPER★DRAGON ",
+      "groups": [
+        "EBiDAN",
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "f3d2f6d0c64fe7d1",
+      "title": "「Yes! 駆け込め! 僕らのEBiSTORE」の開催が決定！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26362/",
+      "publishedAt": "2026-07-16T06:59:01.000Z",
+      "summary": "EBiDAN15周年記念シングル「Yes! 東京」リリース＆『EBiDAN THE LIVE 2026 15th Anniversary』の開催を記念してSHIBUYA TSUTAYAにてコラボレーションカフェ「Yes! […]",
+      "groups": [
+        "EBiDAN"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "0812f06d1e70970c",
+      "title": "松村北斗がふわふわヘア×ピンクシャツで“北斗節”全開！“国宝級イケメン”殿堂入りへの喜びを語り「言葉選びが最高」「謙虚すぎる」「イケメンなのにカワイイ」「顔が良すぎる」と反響",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000847779/",
+      "publishedAt": "2026-07-16T05:52:35.000Z",
+      "summary": "「ViVi 国宝級イケメンランキング」2026年上半期の全順位が発表された。NOW部門では山中柔太朗...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "24dcd878e3217bd8",
       "title": "長谷川京子、斎藤工の元恋人役 超特急・柏木悠も『ペンション・恋は桃色』新シーズンから加入",
@@ -11,20 +62,6 @@
       "summary": "「帰る場所があるのは、とても幸せなことです」――31日20時からフジテレビの動画配信サービス・FODのドラマ『ペンション・恋は桃色 season 4』が、31日20時から全5話一挙配信。長谷川京子と柏木悠(超特急)が新加入し、リリー・フランキー、斎藤工、伊藤沙莉らが、海の見える新たなペンションで温かな人間模様を繰り広げる。",
       "groups": [
         "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "c792287ae9ec967d",
-      "title": "吉沢亮出演“ポケモン夏マック”の新CMが放映開始！CMソングはM!LK「You!Joy!Parade!」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000847281/",
-      "publishedAt": "2026-07-15T19:00:22.000Z",
-      "summary": "マクドナルド“ポケモン 30周年バーガー”の新TVCM「ポケモン30周年バーガー」篇 が、7月21日か...",
-      "groups": [
-        "M!LK"
       ],
       "statuses": [],
       "memberMatches": []
@@ -74,28 +111,6 @@
       ]
     },
     {
-      "id": "5c64c7ab74fcca30",
-      "title": "佐野勇斗と松本若菜が謎の無敵ポーズを披露！新ドラマオフショットに「このふたりの組み合わせもう面白い」「美男美女なのに変なことしてて好き」「ふたりともかわいい」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000847257/",
-      "publishedAt": "2026-07-15T10:17:52.000Z",
-      "summary": "7月14日から始まった新ドラマ『君の好きは無敵』に出演する佐野勇斗（M!LK）と松本若菜が、そ...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "c9838472a5495915",
       "title": "山中柔太朗が“国宝級イケメン”でファン歓喜 「私の推しって最高」「確実に山中柔太朗の時代がきている」",
       "sourceName": "マイナビニュース 芸能",
@@ -131,34 +146,6 @@
       "articleUrl": "https://tower.jp/article/news/2026/07/15/tgb004",
       "publishedAt": "2026-07-15T09:50:00.000Z",
       "summary": "",
-      "groups": [
-        "M!LK",
-        "原因は自分にある。"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "山中柔太朗",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "杢代和人",
-          "group": "原因は自分にある。",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "41ab347d1ba8a264",
-      "title": "松村北斗「ViVi 国宝級イケメンランキング」で前人未踏の3部門殿堂入り！NOW部門は山中柔太朗、NEXT部門は杢代和人が1位",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000847220/",
-      "publishedAt": "2026-07-15T09:20:49.000Z",
-      "summary": "「ViVi 国宝級イケメンランキング」2026年上半期の全順位が発表された。NOW部門では山中柔太朗...",
       "groups": [
         "M!LK",
         "原因は自分にある。"
