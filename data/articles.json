@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-07-15T19:36:43.074Z",
+  "updatedAt": "2026-07-16T03:36:20.292Z",
   "articles": [
+    {
+      "id": "24dcd878e3217bd8",
+      "title": "長谷川京子、斎藤工の元恋人役 超特急・柏木悠も『ペンション・恋は桃色』新シーズンから加入",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260716-4706197/",
+      "publishedAt": "2026-07-15T23:00:00.000Z",
+      "summary": "「帰る場所があるのは、とても幸せなことです」――31日20時からフジテレビの動画配信サービス・FODのドラマ『ペンション・恋は桃色 season 4』が、31日20時から全5話一挙配信。長谷川京子と柏木悠(超特急)が新加入し、リリー・フランキー、斎藤工、伊藤沙莉らが、海の見える新たなペンションで温かな人間模様を繰り広げる。",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "c792287ae9ec967d",
       "title": "吉沢亮出演“ポケモン夏マック”の新CMが放映開始！CMソングはM!LK「You!Joy!Parade!」",
@@ -18,8 +32,8 @@
     {
       "id": "82b3acfd554eeb28",
       "title": "「根底にあったのが…」佐野勇斗がアイドルとの両立で役者を続けてきた理由",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
       "articleUrl": "https://news.mynavi.jp/article/20260715-4704842/",
       "publishedAt": "2026-07-15T12:00:00.000Z",
       "summary": "「正直、僕は歌やダンスがすごく好きなわけじゃないんですが……」俳優でM!LKの佐野勇斗が、12日放送のMBS・TBS系のバラエティ番組『日曜日の初耳学』(毎週日曜22:00～)に出演。俳優とアイドルの両立について語った。",
@@ -82,32 +96,10 @@
       ]
     },
     {
-      "id": "96133bcbf32fb737",
-      "title": "M!LK佐野勇斗、ファンからの「結婚して!」を断る真意とは「やっぱり俺も、真面目に考えちゃう」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-      "articleUrl": "https://news.mynavi.jp/article/20260715-4696792/",
-      "publishedAt": "2026-07-15T10:00:00.000Z",
-      "summary": "「そういう人たちがいる可能性を考えて…」アイドルグループ・M!LKの佐野勇斗が、ファンからのコメントに言及した――。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "c9838472a5495915",
       "title": "山中柔太朗が“国宝級イケメン”でファン歓喜 「私の推しって最高」「確実に山中柔太朗の時代がきている」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260715-4705231/",
       "publishedAt": "2026-07-15T09:52:44.000Z",
       "summary": "講談社は15日、「ViVi国宝級イケメンランキング 2026年上半期」の結果を発表した。NOW部門ではM!LKの山中柔太朗が初の1位を獲得。NEXT部門では原因は自分にある。の杢代和人が悲願の首位に輝き、ADULT部門ではSixTONESの松村北斗が1位となった。",
@@ -188,50 +180,6 @@
       ]
     },
     {
-      "id": "b321b04619fb9517",
-      "title": "INI西洸人、超特急アロハら『CanCam』“恋する横顔”に登場！「どちらかというと、母譲りです」（西）",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000846893/",
-      "publishedAt": "2026-07-15T08:00:06.000Z",
-      "summary": "INIの西洸人や超特急のアロハが『CanCam』9月号（7月23日発売）掲載の「恋する横顔」企画に登...",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "アロハ",
-          "group": "超特急",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "e3603307f2bd500a",
-      "title": "MVが話題のA.B.C-Z「マジマジック」を五関晃一とM!LK吉田仁人がダンス！「事務所を越えたコンビに癒される」「後輩ムーブの仁人くんかわいい」「ぎゅんぎゅんぎゅんの振り入ってる？笑」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000846934/",
-      "publishedAt": "2026-07-15T07:00:10.000Z",
-      "summary": "A.B.C-Z公式TikTokで、五関晃一とM!LKの吉田仁人が、A.B.C-Zの新曲「マジマジック」をコラボダ...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "de299a89f6cd8dff",
       "title": "M!LK佐野勇斗がVOCE初表紙！5000字超のロングインタビューでアイドルとしての本音と覚悟を語る",
       "sourceName": "WWSチャンネル",
@@ -239,28 +187,6 @@
       "articleUrl": "https://www.wws-channel.com/magazine_book/656009.html",
       "publishedAt": "2026-07-15T03:00:11.000Z",
       "summary": "M!LKの佐野勇斗が、7月22日発売の美容誌「VOCE」2026年9月号Special Editionで初めて表紙を飾る。誌面では、ビューティー界に降臨した爆裂ツヤさのをテーマに撮影を実施。美容については普通だと話していた佐野だが、取材を進める中で明らかになった、こだわ ... The post M!LK佐野勇斗がVOCE初表紙！5000字超のロングインタビ",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "776f0b30311ce3c2",
-      "title": "M!LK・佐野勇斗「トイ・ストーリー５」SNS反響に「どういうこと？」と困惑！唐沢寿明からイジり倒される",
-      "sourceName": "Edge Line",
-      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/200722",
-      "publishedAt": "2026-07-14T10:27:06.000Z",
-      "summary": "アイドルグループ『M!LK』佐野勇斗が7月14日に東京・TOHOシネマズ日比谷で映画『トイ・ストーリー５』（監督：アンドリュー・スタントン／配給：ウォルト・ディズニー・ジャパン）大ヒット御礼舞台あいさつに唐沢寿明、日下...",
       "groups": [
         "M!LK"
       ],
@@ -495,20 +421,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "0a46dd7bbe666527",
-      "title": "母からの愛情あふれる言葉にM!LK全員が涙 『しゃべくり007』で家族ぐるみの仲良しエピソードも",
-      "sourceName": "マイナビニュース テレビ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-      "articleUrl": "https://news.mynavi.jp/article/20260712-4692793/",
-      "publishedAt": "2026-07-12T09:00:00.000Z",
-      "summary": "母からの愛情あふれる言葉に、M!LK全員が涙――ダンスボーカルグループのM!LKが、13日に放送される日本テレビ系バラエティ番組『しゃべくり007』(毎週月曜21:00～)に出演。番組初登場となる5人が、家族に見守られながら、それぞれの故郷の魅力を全力でプレゼンする。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "71ff0e75b0573628",
@@ -2712,6 +2624,70 @@
       "articleUrl": "https://bullettrain.jp/news/news25988/",
       "publishedAt": "2026-04-21T08:59:39.000Z",
       "summary": "映画『超特急 The Movie RE:VE』がついにBlu-rayになって発売が決定いたしました！ 約10万人を動員した史上最大規模のアリーナツアー「BULLET TRAIN ARENA TOUR 2025 EVE」に […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "2aeda7c90cad4ebc",
+      "title": "「BULLET TRAIN ARENA TOUR 2025-2026 REAL？」U-NEXTにて見放題で独占アーカイブ配信開始！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news25986/",
+      "publishedAt": "2026-04-20T09:59:40.000Z",
+      "summary": "2026年2月21日に開催された「BULLET TRAIN ARENA TOUR 2025-2026 REAL？」の模様が、U-NEXTにてアーカイブ配信開始！ U-NEXT月額会員の方なら追加料金なく、何度でもお楽しみ […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "カイ",
+          "group": "超特急",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "710a0f531667d68f",
+      "title": "SUPER★DRAGON Major 6th Single「Call Me Asap / NUMBER」2026年7月15日(水)発売決定！",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news10866/",
+      "publishedAt": "2026-04-19T10:59:46.000Z",
+      "summary": "2026年7月15日(水)発売 Major 6th Single「Call Me Asap / NUMBER」 TVアニメ『ダイヤのA actⅡ -Second Season-』エンディングテーマ「NUMBER」を含む全 […] The post SUPER★DRAGON Major 6th Single「Call Me Asap / NUMBER」2026",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "bd298419212668ee",
+      "title": "「SUPER★DRAGON DRA FES 2026」開催決定！",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news10878/",
+      "publishedAt": "2026-04-19T10:59:35.000Z",
+      "summary": "「SUPER★DRAGON DRA FES 2026」 ＜公演詳細＞ 【東京】Zepp Haneda （TOKYO） 2026年9月24日(木) 【大阪】Zepp Osaka Bayside 2026年9月27日(日) […] The post 「SUPER★DRAGON DRA FES 2026」開催決定！ first appeared on SUPER★",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "f7e8b6e2e9d33358",
+      "title": "超特急 東京ドーム公演 最新チケット情報",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news25983/",
+      "publishedAt": "2026-04-18T08:59:02.000Z",
+      "summary": "本日4月18日(土)18:00より三井ショッピングパーク チケット先行受付開始！ ご乗車お待ちしております!!!!!!!!! ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願いと注意事項】 https […]",
       "groups": [
         "超特急"
       ],

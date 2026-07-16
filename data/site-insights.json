@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-07-15T19:36:43.077Z",
+  "updatedAt": "2026-07-16T03:36:20.295Z",
   "totals": {
     "all": 160,
-    "today": 1,
-    "week": 32
+    "today": 2,
+    "week": 28
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 21
+      "count": 17
     },
     {
       "name": "超特急",
@@ -30,7 +30,7 @@
   "memberRanking": [
     {
       "name": "佐野勇斗",
-      "count": 6
+      "count": 4
     },
     {
       "name": "山中柔太朗",
@@ -49,19 +49,15 @@
       "count": 3
     },
     {
-      "name": "吉田仁人",
-      "count": 2
-    },
-    {
-      "name": "アロハ",
-      "count": 1
-    },
-    {
       "name": "マサヒロ",
       "count": 1
     },
     {
       "name": "リョウガ",
+      "count": 1
+    },
+    {
+      "name": "吉田仁人",
       "count": 1
     }
   ],
@@ -76,10 +72,6 @@
     },
     {
       "name": "THE FIRST TIMES",
-      "count": 5
-    },
-    {
-      "name": "マイナビニュース エンタメ",
       "count": 3
     },
     {
@@ -95,20 +87,112 @@
       "count": 2
     },
     {
-      "name": "Edge Line",
-      "count": 1
-    },
-    {
       "name": "QJWeb",
       "count": 1
     },
     {
       "name": "WWSチャンネル",
       "count": 1
+    },
+    {
+      "name": "マイナビニュース エンタメ",
+      "count": 1
+    },
+    {
+      "name": "マイナビニュース 映画",
+      "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
+    "超特急": [
+      {
+        "id": "24dcd878e3217bd8",
+        "title": "長谷川京子、斎藤工の元恋人役 超特急・柏木悠も『ペンション・恋は桃色』新シーズンから加入",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20260716-4706197/",
+        "publishedAt": "2026-07-15T23:00:00.000Z",
+        "summary": "「帰る場所があるのは、とても幸せなことです」――31日20時からフジテレビの動画配信サービス・FODのドラマ『ペンション・恋は桃色 season 4』が、31日20時から全5話一挙配信。長谷川京子と柏木悠(超特急)が新加入し、リリー・フランキー、斎藤工、伊藤沙莉らが、海の見える新たなペンションで温かな人間模様を繰り広げる。",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "037a3deffe2bde86",
+        "title": "BULLET TRAIN ARENA TOUR 2026 ESCORT 2026年7月14日(火)・15日(水) GLION ARENA KOBE公演についてのお知らせ",
+        "sourceName": "超特急 公式NEWS",
+        "sourceUrl": "https://bullettrain.jp/news/feed/",
+        "articleUrl": "https://bullettrain.jp/news/news26359/",
+        "publishedAt": "2026-07-14T06:29:43.000Z",
+        "summary": "いつも超特急を応援いただき、誠にありがとうございます。 メンバーのマサヒロですが、本日のリハーサル中に腰を負傷し、急性腰痛症と判断されました。 本人の回復を最優先に考え、メンバー、スタッフとも協議を重ねた結果、 2026 […]",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "マサヒロ",
+            "group": "超特急",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "fde2e5cc9f02f7bc",
+        "title": "BULLET TRAIN ARENA TOUR 2026「ESCORT」 リョウガ 参加見合わせに関して",
+        "sourceName": "超特急 公式NEWS",
+        "sourceUrl": "https://bullettrain.jp/news/feed/",
+        "articleUrl": "https://bullettrain.jp/news/news26357/",
+        "publishedAt": "2026-07-13T10:44:32.000Z",
+        "summary": "いつも超特急へ温かい応援を頂きありがとうございます。 弊社所属 超特急メンバーのリョウガが体調不良のため、本人の体調回復を最優先に考え、以下のライブにつきまして出演を見合わせさせていただくことになりました。 ＜欠席対応公 […]",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "リョウガ",
+            "group": "超特急",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "933629b884c40b49",
+        "title": "超特急 東京ドーム公演＜追加公演＞最新チケット情報",
+        "sourceName": "超特急 公式NEWS",
+        "sourceUrl": "https://bullettrain.jp/news/feed/",
+        "articleUrl": "https://bullettrain.jp/news/news26350/",
+        "publishedAt": "2026-07-11T08:59:47.000Z",
+        "summary": "7月11日(土)18:00よりローソンチケットプレリクエスト先行受付開始！ ご乗車お待ちしております!!!!!!!!! ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願いと注意事項】 https:// […]",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "14cbec71089a2e5b",
+        "title": "超特急「BULLET TRAIN ARENA TOUR 2026 ESCORT」【兵庫公演】機材席開放一般発売 実施決定！",
+        "sourceName": "超特急 公式NEWS",
+        "sourceUrl": "https://bullettrain.jp/news/feed/",
+        "articleUrl": "https://bullettrain.jp/news/news26316/",
+        "publishedAt": "2026-07-10T08:59:10.000Z",
+        "summary": "完売していた兵庫公演ですが、ステージプラン確定に伴い若干数の機材席開放販売が決定いたしました！ 7月13日(月)21:00より販売スタート！ ご乗車お待ちしております!!!!!!!!! ※重要：お申込み前に必ずご確認くだ […]",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
     "M!LK": [
       {
         "id": "c792287ae9ec967d",
@@ -127,8 +211,8 @@
       {
         "id": "82b3acfd554eeb28",
         "title": "「根底にあったのが…」佐野勇斗がアイドルとの両立で役者を続けてきた理由",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "sourceName": "マイナビニュース テレビ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
         "articleUrl": "https://news.mynavi.jp/article/20260715-4704842/",
         "publishedAt": "2026-07-15T12:00:00.000Z",
         "summary": "「正直、僕は歌やダンスがすごく好きなわけじゃないんですが……」俳優でM!LKの佐野勇斗が、12日放送のMBS・TBS系のバラエティ番組『日曜日の初耳学』(毎週日曜22:00～)に出演。俳優とアイドルの両立について語った。",
@@ -191,23 +275,29 @@
         ]
       },
       {
-        "id": "96133bcbf32fb737",
-        "title": "M!LK佐野勇斗、ファンからの「結婚して!」を断る真意とは「やっぱり俺も、真面目に考えちゃう」",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20260715-4696792/",
-        "publishedAt": "2026-07-15T10:00:00.000Z",
-        "summary": "「そういう人たちがいる可能性を考えて…」アイドルグループ・M!LKの佐野勇斗が、ファンからのコメントに言及した――。",
+        "id": "c9838472a5495915",
+        "title": "山中柔太朗が“国宝級イケメン”でファン歓喜 「私の推しって最高」「確実に山中柔太朗の時代がきている」",
+        "sourceName": "マイナビニュース 芸能",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
+        "articleUrl": "https://news.mynavi.jp/article/20260715-4705231/",
+        "publishedAt": "2026-07-15T09:52:44.000Z",
+        "summary": "講談社は15日、「ViVi国宝級イケメンランキング 2026年上半期」の結果を発表した。NOW部門ではM!LKの山中柔太朗が初の1位を獲得。NEXT部門では原因は自分にある。の杢代和人が悲願の首位に輝き、ADULT部門ではSixTONESの松村北斗が1位となった。",
         "groups": [
-          "M!LK"
+          "M!LK",
+          "原因は自分にある。"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "佐野勇斗",
+            "name": "山中柔太朗",
             "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "杢代和人",
+            "group": "原因は自分にある。",
             "status": "active"
           }
         ]
@@ -217,8 +307,8 @@
       {
         "id": "c9838472a5495915",
         "title": "山中柔太朗が“国宝級イケメン”でファン歓喜 「私の推しって最高」「確実に山中柔太朗の時代がきている」",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "sourceName": "マイナビニュース 芸能",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
         "articleUrl": "https://news.mynavi.jp/article/20260715-4705231/",
         "publishedAt": "2026-07-15T09:52:44.000Z",
         "summary": "講談社は15日、「ViVi国宝級イケメンランキング 2026年上半期」の結果を発表した。NOW部門ではM!LKの山中柔太朗が初の1位を獲得。NEXT部門では原因は自分にある。の杢代和人が悲願の首位に輝き、ADULT部門ではSixTONESの松村北斗が1位となった。",
@@ -339,102 +429,6 @@
             "status": "active"
           }
         ]
-      }
-    ],
-    "超特急": [
-      {
-        "id": "b321b04619fb9517",
-        "title": "INI西洸人、超特急アロハら『CanCam』“恋する横顔”に登場！「どちらかというと、母譲りです」（西）",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000846893/",
-        "publishedAt": "2026-07-15T08:00:06.000Z",
-        "summary": "INIの西洸人や超特急のアロハが『CanCam』9月号（7月23日発売）掲載の「恋する横顔」企画に登...",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "アロハ",
-            "group": "超特急",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "037a3deffe2bde86",
-        "title": "BULLET TRAIN ARENA TOUR 2026 ESCORT 2026年7月14日(火)・15日(水) GLION ARENA KOBE公演についてのお知らせ",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26359/",
-        "publishedAt": "2026-07-14T06:29:43.000Z",
-        "summary": "いつも超特急を応援いただき、誠にありがとうございます。 メンバーのマサヒロですが、本日のリハーサル中に腰を負傷し、急性腰痛症と判断されました。 本人の回復を最優先に考え、メンバー、スタッフとも協議を重ねた結果、 2026 […]",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "マサヒロ",
-            "group": "超特急",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "fde2e5cc9f02f7bc",
-        "title": "BULLET TRAIN ARENA TOUR 2026「ESCORT」 リョウガ 参加見合わせに関して",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26357/",
-        "publishedAt": "2026-07-13T10:44:32.000Z",
-        "summary": "いつも超特急へ温かい応援を頂きありがとうございます。 弊社所属 超特急メンバーのリョウガが体調不良のため、本人の体調回復を最優先に考え、以下のライブにつきまして出演を見合わせさせていただくことになりました。 ＜欠席対応公 […]",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "リョウガ",
-            "group": "超特急",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "933629b884c40b49",
-        "title": "超特急 東京ドーム公演＜追加公演＞最新チケット情報",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26350/",
-        "publishedAt": "2026-07-11T08:59:47.000Z",
-        "summary": "7月11日(土)18:00よりローソンチケットプレリクエスト先行受付開始！ ご乗車お待ちしております!!!!!!!!! ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願いと注意事項】 https:// […]",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "14cbec71089a2e5b",
-        "title": "超特急「BULLET TRAIN ARENA TOUR 2026 ESCORT」【兵庫公演】機材席開放一般発売 実施決定！",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26316/",
-        "publishedAt": "2026-07-10T08:59:10.000Z",
-        "summary": "完売していた兵庫公演ですが、ステージプラン確定に伴い若干数の機材席開放販売が決定いたしました！ 7月13日(月)21:00より販売スタート！ ご乗車お待ちしております!!!!!!!!! ※重要：お申込み前に必ずご確認くだ […]",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
       }
     ],
     "EBiDAN": [
