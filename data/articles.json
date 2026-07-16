@@ -1,6 +1,92 @@
 {
-  "updatedAt": "2026-07-16T08:33:59.485Z",
+  "updatedAt": "2026-07-16T14:22:37.843Z",
   "articles": [
+    {
+      "id": "463f34afbb3e9729",
+      "title": "フジテレビ系『STAR』にaespa、EBiDAN、syudou×八木勇征、純烈、TREASURE、乃木坂46が出演！STARナビゲーターは、ちいかわと島二郎",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000847821/",
+      "publishedAt": "2026-07-16T11:00:55.000Z",
+      "summary": "7月23日19時より放送される、音楽番組『STAR』（フジテレビ系）の出演アーティストが発表され...",
+      "groups": [
+        "EBiDAN"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "e5a6b24a66e3bb30",
+      "title": "ViVi国宝級イケメンランキング2026年上半期発表！山中柔太朗、杢代和人、松村北斗が各部門1位",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/magazine_book/656118.html",
+      "publishedAt": "2026-07-16T11:00:23.000Z",
+      "summary": "ファッション誌ViViが、半期に一度実施する「ViVi国宝級イケメンランキング 2026年上半期」の全順位を発表した。NOW部門ではM!LKの山中柔太朗、NEXT部門では原因は自分にある。の杢代和人、ADULT部門ではSixTONESの松村北斗がそれぞれ1位に輝いた。N ... The post ViVi国宝級イケメンランキング2026年上半期発表！山中柔太",
+      "groups": [
+        "M!LK",
+        "原因は自分にある。"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "杢代和人",
+          "group": "原因は自分にある。",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "b981d442668ba1c6",
+      "title": "M!LKメンバーが国宝級イケメン山中柔太朗を全員で祝福！“M!LKの宝”として山中の顔を守ろうとする姿勢も披露「みんなで喜ぶのかわいい」「ついに見つかった」「SPつけないと（笑）」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000847978/",
+      "publishedAt": "2026-07-16T10:29:07.000Z",
+      "summary": "M!LK公式SNSにて、山中柔太朗が「ViVi国宝級イケメンランキング」2026年上半期NOW部門で1位に...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "30b6400b543518ec",
+      "title": "「俺に言ってんのかな…?」M!LK佐野勇斗、プライベートで思わず“反応”してしまうことを告白",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260716-4696850/",
+      "publishedAt": "2026-07-16T10:00:00.000Z",
+      "summary": "「“好きすぎて”って、みんなめっちゃ使うのよ」アイドルグループ・M!LKの佐野勇斗が、プライベートでの困りごとを明かした――。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "6d6179aa4b081875",
       "title": "「Yes! 駆け込め! 僕らのEBiSTORE」の開催が決定！",
@@ -55,8 +141,8 @@
     {
       "id": "24dcd878e3217bd8",
       "title": "長谷川京子、斎藤工の元恋人役 超特急・柏木悠も『ペンション・恋は桃色』新シーズンから加入",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
       "articleUrl": "https://news.mynavi.jp/article/20260716-4706197/",
       "publishedAt": "2026-07-15T23:00:00.000Z",
       "summary": "「帰る場所があるのは、とても幸せなことです」――31日20時からフジテレビの動画配信サービス・FODのドラマ『ペンション・恋は桃色 season 4』が、31日20時から全5話一挙配信。長谷川京子と柏木悠(超特急)が新加入し、リリー・フランキー、斎藤工、伊藤沙莉らが、海の見える新たなペンションで温かな人間模様を繰り広げる。",
@@ -386,28 +472,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "4412bb37e5f04fa9",
-      "title": "M!LK塩崎太智、地球の謎に絶句「住んでいるのに全然なんも知らんな」",
-      "sourceName": "マイナビニュース テレビ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-      "articleUrl": "https://news.mynavi.jp/article/20260713-4693602/",
-      "publishedAt": "2026-07-12T21:00:00.000Z",
-      "summary": "「僕、地球に住んでいるのに全然なんも知らんな」――M!LKの塩崎太智が、きょう13日に放送される日本テレビ系バラエティ番組『世界まる見え! テレビ特捜部』の2時間SP(19:00～)で、世界各地の奇妙な自然現象に絶句する。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "塩﨑太智",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "71ff0e75b0573628",
@@ -2638,48 +2702,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "710a0f531667d68f",
-      "title": "SUPER★DRAGON Major 6th Single「Call Me Asap / NUMBER」2026年7月15日(水)発売決定！",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news10866/",
-      "publishedAt": "2026-04-19T10:59:46.000Z",
-      "summary": "2026年7月15日(水)発売 Major 6th Single「Call Me Asap / NUMBER」 TVアニメ『ダイヤのA actⅡ -Second Season-』エンディングテーマ「NUMBER」を含む全 […] The post SUPER★DRAGON Major 6th Single「Call Me Asap / NUMBER」2026",
-      "groups": [
-        "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "bd298419212668ee",
-      "title": "「SUPER★DRAGON DRA FES 2026」開催決定！",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news10878/",
-      "publishedAt": "2026-04-19T10:59:35.000Z",
-      "summary": "「SUPER★DRAGON DRA FES 2026」 ＜公演詳細＞ 【東京】Zepp Haneda （TOKYO） 2026年9月24日(木) 【大阪】Zepp Osaka Bayside 2026年9月27日(日) […] The post 「SUPER★DRAGON DRA FES 2026」開催決定！ first appeared on SUPER★",
-      "groups": [
-        "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "f7e8b6e2e9d33358",
-      "title": "超特急 東京ドーム公演 最新チケット情報",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news25983/",
-      "publishedAt": "2026-04-18T08:59:02.000Z",
-      "summary": "本日4月18日(土)18:00より三井ショッピングパーク チケット先行受付開始！ ご乗車お待ちしております!!!!!!!!! ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願いと注意事項】 https […]",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
     }
   ]
 }

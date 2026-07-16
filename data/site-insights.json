@@ -1,44 +1,40 @@
 {
-  "updatedAt": "2026-07-16T08:33:59.492Z",
+  "updatedAt": "2026-07-16T14:22:37.846Z",
   "totals": {
     "all": 160,
-    "today": 4,
-    "week": 27
+    "today": 8,
+    "week": 29
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 15
-    },
-    {
-      "name": "超特急",
-      "count": 6
+      "count": 17
     },
     {
       "name": "EBiDAN",
+      "count": 6
+    },
+    {
+      "name": "超特急",
       "count": 5
     },
     {
-      "name": "SUPER★DRAGON",
-      "count": 3
+      "name": "原因は自分にある。",
+      "count": 4
     },
     {
-      "name": "原因は自分にある。",
+      "name": "SUPER★DRAGON",
       "count": 3
     }
   ],
   "memberRanking": [
     {
       "name": "山中柔太朗",
-      "count": 4
-    },
-    {
-      "name": "塩﨑太智",
-      "count": 3
+      "count": 6
     },
     {
       "name": "佐野勇斗",
-      "count": 3
+      "count": 4
     },
     {
       "name": "曽野舜太",
@@ -46,6 +42,10 @@
     },
     {
       "name": "杢代和人",
+      "count": 3
+    },
+    {
+      "name": "塩﨑太智",
       "count": 2
     },
     {
@@ -68,14 +68,22 @@
     },
     {
       "name": "超特急 公式NEWS",
-      "count": 7
+      "count": 6
     },
     {
       "name": "SUPER★DRAGON 公式NEWS",
       "count": 3
     },
     {
+      "name": "THE FIRST TIMES",
+      "count": 3
+    },
+    {
       "name": "Bezzy",
+      "count": 2
+    },
+    {
+      "name": "WWSチャンネル",
       "count": 2
     },
     {
@@ -84,14 +92,6 @@
     },
     {
       "name": "QJWeb",
-      "count": 1
-    },
-    {
-      "name": "THE FIRST TIMES",
-      "count": 1
-    },
-    {
-      "name": "WWSチャンネル",
       "count": 1
     },
     {
@@ -106,6 +106,20 @@
   "topics": [],
   "recentByGroup": {
     "EBiDAN": [
+      {
+        "id": "463f34afbb3e9729",
+        "title": "フジテレビ系『STAR』にaespa、EBiDAN、syudou×八木勇征、純烈、TREASURE、乃木坂46が出演！STARナビゲーターは、ちいかわと島二郎",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000847821/",
+        "publishedAt": "2026-07-16T11:00:55.000Z",
+        "summary": "7月23日19時より放送される、音楽番組『STAR』（フジテレビ系）の出演アーティストが発表され...",
+        "groups": [
+          "EBiDAN"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
       {
         "id": "6d6179aa4b081875",
         "title": "「Yes! 駆け込め! 僕らのEBiSTORE」の開催が決定！",
@@ -164,106 +178,81 @@
         ],
         "statuses": [],
         "memberMatches": []
-      },
-      {
-        "id": "e4506961b8c3348e",
-        "title": "EBiDAN公式Stationheadアカウント開設＆リスニングパーティー開催が決定！",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26347/",
-        "publishedAt": "2026-07-10T07:29:40.000Z",
-        "summary": "ラジオ放送プラットフォームアプリ「Stationhead」にて、EBiDAN (恵比寿学園男子部)のオフィシャルアカウントを開設しました！そして、7月13日(月)以降、Stationheadでリスニングパーティーの連続開 […]",
-        "groups": [
-          "EBiDAN"
-        ],
-        "statuses": [],
-        "memberMatches": []
       }
     ],
-    "SUPER★DRAGON": [
+    "M!LK": [
       {
-        "id": "6d6179aa4b081875",
-        "title": "「Yes! 駆け込め! 僕らのEBiSTORE」の開催が決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11408/",
-        "publishedAt": "2026-07-16T07:00:05.000Z",
-        "summary": "EBiDAN15周年記念シングル「Yes! 東京」リリース＆『EBiDAN THE LIVE 2026 15th Anniversary』の開催を記念してSHIBUYA TSUTAYAにてコラボレーションカ […] The post 「Yes! 駆け込め! 僕らのEBiSTORE」の開催が決定！ first appeared on SUPER★DRAGON ",
+        "id": "e5a6b24a66e3bb30",
+        "title": "ViVi国宝級イケメンランキング2026年上半期発表！山中柔太朗、杢代和人、松村北斗が各部門1位",
+        "sourceName": "WWSチャンネル",
+        "sourceUrl": "https://www.wws-channel.com/feed",
+        "articleUrl": "https://www.wws-channel.com/magazine_book/656118.html",
+        "publishedAt": "2026-07-16T11:00:23.000Z",
+        "summary": "ファッション誌ViViが、半期に一度実施する「ViVi国宝級イケメンランキング 2026年上半期」の全順位を発表した。NOW部門ではM!LKの山中柔太朗、NEXT部門では原因は自分にある。の杢代和人、ADULT部門ではSixTONESの松村北斗がそれぞれ1位に輝いた。N ... The post ViVi国宝級イケメンランキング2026年上半期発表！山中柔太",
         "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "f286566083445b46",
-        "title": "EBiDAN15周年記念シングル『Yes! 東京』発売記念 公演終了後の『終演後お見送り会』開催決定！さらに「幻のエビパンラバーキーホルダー」をプレゼント！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11402/",
-        "publishedAt": "2026-07-14T08:00:44.000Z",
-        "summary": "EBiDAN (恵比寿学園男子部) 15周年記念シングル『Yes! 東京』発売を記念して、 『終演後お見送り会』の開催が決定！「EBiDAN THE LIVE 2026 15th Anniversary」DAY2（8/1 […] The post EBiDAN15周年記念シングル『Yes! 東京』発売記念 公演終了後の『終演後お見送り会』開催決定！さらに「幻",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "12e4b8a3fb9cf709",
-        "title": "EBiDAN公式Stationheadアカウント開設＆リスニングパーティー開催が決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11399/",
-        "publishedAt": "2026-07-10T07:30:33.000Z",
-        "summary": "ラジオ放送プラットフォームアプリ「Stationhead」にて、EBiDAN (恵比寿学園男子部)のオフィシャルアカウントを開設しました！そして、7月13日(月)以降、Stationheadでリスニングパーティーの連続開 […] The post EBiDAN公式Stationheadアカウント開設＆リスニングパーティー開催が決定！ first appear",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "c5fcd2c7851c5eff",
-        "title": "7/16(木)開催リリースイベント＠川崎CLUB CITTA‘（神奈川）にて開催リリースイベントLINEアプリを使用した『CD購入整理券』『優先観覧エリア入場整理券』についてのご案内",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11395/",
-        "publishedAt": "2026-07-08T10:59:36.000Z",
-        "summary": "▼ＣＤ購入整理券について 7/16(木)神奈川・川崎CLUB CITTA‘にて開催するリリースイベントの会場でのＣＤ販売は、会場の混雑緩和のため、LINEアプリを使用した事前応募制の『ＣＤ購入整理券』を導入致します。 Ｃ […] The post 7/16(木)開催リリースイベント＠川崎CLUB CITTA‘（神奈川）にて開催リリースイベントLINEアプリを",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "5024261d19c3b46c",
-        "title": "SUPER★DRAGON 松村和哉 インフルエンザ感染に関するご報告",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11392/",
-        "publishedAt": "2026-07-08T10:45:08.000Z",
-        "summary": "日頃より、弊社所属グループ「SUPER★DRAGON」を応援いただき、誠にありがとうございます。 メンバーの松村和哉が、インフルエンザに感染していることを確認致しましたのでご報告申し上げます。 今後につきましては、医師の […] The post SUPER★DRAGON 松村和哉 インフルエンザ感染に関するご報告 first appeared on SUP",
-        "groups": [
-          "SUPER★DRAGON"
+          "M!LK",
+          "原因は自分にある。"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "松村和哉",
-            "group": "SUPER★DRAGON",
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "杢代和人",
+            "group": "原因は自分にある。",
             "status": "active"
           }
         ]
-      }
-    ],
-    "M!LK": [
+      },
+      {
+        "id": "b981d442668ba1c6",
+        "title": "M!LKメンバーが国宝級イケメン山中柔太朗を全員で祝福！“M!LKの宝”として山中の顔を守ろうとする姿勢も披露「みんなで喜ぶのかわいい」「ついに見つかった」「SPつけないと（笑）」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000847978/",
+        "publishedAt": "2026-07-16T10:29:07.000Z",
+        "summary": "M!LK公式SNSにて、山中柔太朗が「ViVi国宝級イケメンランキング」2026年上半期NOW部門で1位に...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "30b6400b543518ec",
+        "title": "「俺に言ってんのかな…?」M!LK佐野勇斗、プライベートで思わず“反応”してしまうことを告白",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20260716-4696850/",
+        "publishedAt": "2026-07-16T10:00:00.000Z",
+        "summary": "「“好きすぎて”って、みんなめっちゃ使うのよ」アイドルグループ・M!LKの佐野勇斗が、プライベートでの困りごとを明かした――。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
       {
         "id": "0812f06d1e70970c",
         "title": "松村北斗がふわふわヘア×ピンクシャツで“北斗節”全開！“国宝級イケメン”殿堂入りへの喜びを語り「言葉選びが最高」「謙虚すぎる」「イケメンなのにカワイイ」「顔が良すぎる」と反響",
@@ -307,175 +296,37 @@
             "status": "active"
           }
         ]
-      },
-      {
-        "id": "8bfa45a81732bc59",
-        "title": "吉田仁人（M!LK）、「カラリア」アンバサダーに就任",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/07/15/tg006",
-        "publishedAt": "2026-07-15T11:30:00.000Z",
-        "summary": "",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "c9838472a5495915",
-        "title": "山中柔太朗が“国宝級イケメン”でファン歓喜 「私の推しって最高」「確実に山中柔太朗の時代がきている」",
-        "sourceName": "マイナビニュース 芸能",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-        "articleUrl": "https://news.mynavi.jp/article/20260715-4705231/",
-        "publishedAt": "2026-07-15T09:52:44.000Z",
-        "summary": "講談社は15日、「ViVi国宝級イケメンランキング 2026年上半期」の結果を発表した。NOW部門ではM!LKの山中柔太朗が初の1位を獲得。NEXT部門では原因は自分にある。の杢代和人が悲願の首位に輝き、ADULT部門ではSixTONESの松村北斗が1位となった。",
-        "groups": [
-          "M!LK",
-          "原因は自分にある。"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "杢代和人",
-            "group": "原因は自分にある。",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "3615bc8f096990b9",
-        "title": "「ViVi国宝級イケメンランキング 2026年上半期」発表。山中柔太朗（M!LK）が「NOW部門」初の1位、杢代和人（原因は自分にある。）が「NEXT部門」悲願の首位獲得。「ADULT部門」は松村北斗（SixTONES）が前人未踏の3部門殿堂入り",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/07/15/tgb004",
-        "publishedAt": "2026-07-15T09:50:00.000Z",
-        "summary": "",
-        "groups": [
-          "M!LK",
-          "原因は自分にある。"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "杢代和人",
-            "group": "原因は自分にある。",
-            "status": "active"
-          }
-        ]
-      }
-    ],
-    "超特急": [
-      {
-        "id": "24dcd878e3217bd8",
-        "title": "長谷川京子、斎藤工の元恋人役 超特急・柏木悠も『ペンション・恋は桃色』新シーズンから加入",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20260716-4706197/",
-        "publishedAt": "2026-07-15T23:00:00.000Z",
-        "summary": "「帰る場所があるのは、とても幸せなことです」――31日20時からフジテレビの動画配信サービス・FODのドラマ『ペンション・恋は桃色 season 4』が、31日20時から全5話一挙配信。長谷川京子と柏木悠(超特急)が新加入し、リリー・フランキー、斎藤工、伊藤沙莉らが、海の見える新たなペンションで温かな人間模様を繰り広げる。",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "037a3deffe2bde86",
-        "title": "BULLET TRAIN ARENA TOUR 2026 ESCORT 2026年7月14日(火)・15日(水) GLION ARENA KOBE公演についてのお知らせ",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26359/",
-        "publishedAt": "2026-07-14T06:29:43.000Z",
-        "summary": "いつも超特急を応援いただき、誠にありがとうございます。 メンバーのマサヒロですが、本日のリハーサル中に腰を負傷し、急性腰痛症と判断されました。 本人の回復を最優先に考え、メンバー、スタッフとも協議を重ねた結果、 2026 […]",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "マサヒロ",
-            "group": "超特急",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "fde2e5cc9f02f7bc",
-        "title": "BULLET TRAIN ARENA TOUR 2026「ESCORT」 リョウガ 参加見合わせに関して",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26357/",
-        "publishedAt": "2026-07-13T10:44:32.000Z",
-        "summary": "いつも超特急へ温かい応援を頂きありがとうございます。 弊社所属 超特急メンバーのリョウガが体調不良のため、本人の体調回復を最優先に考え、以下のライブにつきまして出演を見合わせさせていただくことになりました。 ＜欠席対応公 […]",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "リョウガ",
-            "group": "超特急",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "933629b884c40b49",
-        "title": "超特急 東京ドーム公演＜追加公演＞最新チケット情報",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26350/",
-        "publishedAt": "2026-07-11T08:59:47.000Z",
-        "summary": "7月11日(土)18:00よりローソンチケットプレリクエスト先行受付開始！ ご乗車お待ちしております!!!!!!!!! ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願いと注意事項】 https:// […]",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "14cbec71089a2e5b",
-        "title": "超特急「BULLET TRAIN ARENA TOUR 2026 ESCORT」【兵庫公演】機材席開放一般発売 実施決定！",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26316/",
-        "publishedAt": "2026-07-10T08:59:10.000Z",
-        "summary": "完売していた兵庫公演ですが、ステージプラン確定に伴い若干数の機材席開放販売が決定いたしました！ 7月13日(月)21:00より販売スタート！ ご乗車お待ちしております!!!!!!!!! ※重要：お申込み前に必ずご確認くだ […]",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
       }
     ],
     "原因は自分にある。": [
+      {
+        "id": "e5a6b24a66e3bb30",
+        "title": "ViVi国宝級イケメンランキング2026年上半期発表！山中柔太朗、杢代和人、松村北斗が各部門1位",
+        "sourceName": "WWSチャンネル",
+        "sourceUrl": "https://www.wws-channel.com/feed",
+        "articleUrl": "https://www.wws-channel.com/magazine_book/656118.html",
+        "publishedAt": "2026-07-16T11:00:23.000Z",
+        "summary": "ファッション誌ViViが、半期に一度実施する「ViVi国宝級イケメンランキング 2026年上半期」の全順位を発表した。NOW部門ではM!LKの山中柔太朗、NEXT部門では原因は自分にある。の杢代和人、ADULT部門ではSixTONESの松村北斗がそれぞれ1位に輝いた。N ... The post ViVi国宝級イケメンランキング2026年上半期発表！山中柔太",
+        "groups": [
+          "M!LK",
+          "原因は自分にある。"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "杢代和人",
+            "group": "原因は自分にある。",
+            "status": "active"
+          }
+        ]
+      },
       {
         "id": "c9838472a5495915",
         "title": "山中柔太朗が“国宝級イケメン”でファン歓喜 「私の推しって最高」「確実に山中柔太朗の時代がきている」",
@@ -573,6 +424,177 @@
             "status": "active"
           }
         ]
+      }
+    ],
+    "SUPER★DRAGON": [
+      {
+        "id": "6d6179aa4b081875",
+        "title": "「Yes! 駆け込め! 僕らのEBiSTORE」の開催が決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11408/",
+        "publishedAt": "2026-07-16T07:00:05.000Z",
+        "summary": "EBiDAN15周年記念シングル「Yes! 東京」リリース＆『EBiDAN THE LIVE 2026 15th Anniversary』の開催を記念してSHIBUYA TSUTAYAにてコラボレーションカ […] The post 「Yes! 駆け込め! 僕らのEBiSTORE」の開催が決定！ first appeared on SUPER★DRAGON ",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "f286566083445b46",
+        "title": "EBiDAN15周年記念シングル『Yes! 東京』発売記念 公演終了後の『終演後お見送り会』開催決定！さらに「幻のエビパンラバーキーホルダー」をプレゼント！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11402/",
+        "publishedAt": "2026-07-14T08:00:44.000Z",
+        "summary": "EBiDAN (恵比寿学園男子部) 15周年記念シングル『Yes! 東京』発売を記念して、 『終演後お見送り会』の開催が決定！「EBiDAN THE LIVE 2026 15th Anniversary」DAY2（8/1 […] The post EBiDAN15周年記念シングル『Yes! 東京』発売記念 公演終了後の『終演後お見送り会』開催決定！さらに「幻",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "12e4b8a3fb9cf709",
+        "title": "EBiDAN公式Stationheadアカウント開設＆リスニングパーティー開催が決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11399/",
+        "publishedAt": "2026-07-10T07:30:33.000Z",
+        "summary": "ラジオ放送プラットフォームアプリ「Stationhead」にて、EBiDAN (恵比寿学園男子部)のオフィシャルアカウントを開設しました！そして、7月13日(月)以降、Stationheadでリスニングパーティーの連続開 […] The post EBiDAN公式Stationheadアカウント開設＆リスニングパーティー開催が決定！ first appear",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "c5fcd2c7851c5eff",
+        "title": "7/16(木)開催リリースイベント＠川崎CLUB CITTA‘（神奈川）にて開催リリースイベントLINEアプリを使用した『CD購入整理券』『優先観覧エリア入場整理券』についてのご案内",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11395/",
+        "publishedAt": "2026-07-08T10:59:36.000Z",
+        "summary": "▼ＣＤ購入整理券について 7/16(木)神奈川・川崎CLUB CITTA‘にて開催するリリースイベントの会場でのＣＤ販売は、会場の混雑緩和のため、LINEアプリを使用した事前応募制の『ＣＤ購入整理券』を導入致します。 Ｃ […] The post 7/16(木)開催リリースイベント＠川崎CLUB CITTA‘（神奈川）にて開催リリースイベントLINEアプリを",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "5024261d19c3b46c",
+        "title": "SUPER★DRAGON 松村和哉 インフルエンザ感染に関するご報告",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11392/",
+        "publishedAt": "2026-07-08T10:45:08.000Z",
+        "summary": "日頃より、弊社所属グループ「SUPER★DRAGON」を応援いただき、誠にありがとうございます。 メンバーの松村和哉が、インフルエンザに感染していることを確認致しましたのでご報告申し上げます。 今後につきましては、医師の […] The post SUPER★DRAGON 松村和哉 インフルエンザ感染に関するご報告 first appeared on SUP",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "松村和哉",
+            "group": "SUPER★DRAGON",
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "超特急": [
+      {
+        "id": "24dcd878e3217bd8",
+        "title": "長谷川京子、斎藤工の元恋人役 超特急・柏木悠も『ペンション・恋は桃色』新シーズンから加入",
+        "sourceName": "マイナビニュース テレビ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
+        "articleUrl": "https://news.mynavi.jp/article/20260716-4706197/",
+        "publishedAt": "2026-07-15T23:00:00.000Z",
+        "summary": "「帰る場所があるのは、とても幸せなことです」――31日20時からフジテレビの動画配信サービス・FODのドラマ『ペンション・恋は桃色 season 4』が、31日20時から全5話一挙配信。長谷川京子と柏木悠(超特急)が新加入し、リリー・フランキー、斎藤工、伊藤沙莉らが、海の見える新たなペンションで温かな人間模様を繰り広げる。",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "037a3deffe2bde86",
+        "title": "BULLET TRAIN ARENA TOUR 2026 ESCORT 2026年7月14日(火)・15日(水) GLION ARENA KOBE公演についてのお知らせ",
+        "sourceName": "超特急 公式NEWS",
+        "sourceUrl": "https://bullettrain.jp/news/feed/",
+        "articleUrl": "https://bullettrain.jp/news/news26359/",
+        "publishedAt": "2026-07-14T06:29:43.000Z",
+        "summary": "いつも超特急を応援いただき、誠にありがとうございます。 メンバーのマサヒロですが、本日のリハーサル中に腰を負傷し、急性腰痛症と判断されました。 本人の回復を最優先に考え、メンバー、スタッフとも協議を重ねた結果、 2026 […]",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "マサヒロ",
+            "group": "超特急",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "fde2e5cc9f02f7bc",
+        "title": "BULLET TRAIN ARENA TOUR 2026「ESCORT」 リョウガ 参加見合わせに関して",
+        "sourceName": "超特急 公式NEWS",
+        "sourceUrl": "https://bullettrain.jp/news/feed/",
+        "articleUrl": "https://bullettrain.jp/news/news26357/",
+        "publishedAt": "2026-07-13T10:44:32.000Z",
+        "summary": "いつも超特急へ温かい応援を頂きありがとうございます。 弊社所属 超特急メンバーのリョウガが体調不良のため、本人の体調回復を最優先に考え、以下のライブにつきまして出演を見合わせさせていただくことになりました。 ＜欠席対応公 […]",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "リョウガ",
+            "group": "超特急",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "933629b884c40b49",
+        "title": "超特急 東京ドーム公演＜追加公演＞最新チケット情報",
+        "sourceName": "超特急 公式NEWS",
+        "sourceUrl": "https://bullettrain.jp/news/feed/",
+        "articleUrl": "https://bullettrain.jp/news/news26350/",
+        "publishedAt": "2026-07-11T08:59:47.000Z",
+        "summary": "7月11日(土)18:00よりローソンチケットプレリクエスト先行受付開始！ ご乗車お待ちしております!!!!!!!!! ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願いと注意事項】 https:// […]",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "14cbec71089a2e5b",
+        "title": "超特急「BULLET TRAIN ARENA TOUR 2026 ESCORT」【兵庫公演】機材席開放一般発売 実施決定！",
+        "sourceName": "超特急 公式NEWS",
+        "sourceUrl": "https://bullettrain.jp/news/feed/",
+        "articleUrl": "https://bullettrain.jp/news/news26316/",
+        "publishedAt": "2026-07-10T08:59:10.000Z",
+        "summary": "完売していた兵庫公演ですが、ステージプラン確定に伴い若干数の機材席開放販売が決定いたしました！ 7月13日(月)21:00より販売スタート！ ご乗車お待ちしております!!!!!!!!! ※重要：お申込み前に必ずご確認くだ […]",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
       }
     ],
     "BUDDiiS": [
