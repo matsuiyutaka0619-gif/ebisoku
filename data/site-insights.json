@@ -1,30 +1,34 @@
 {
-  "updatedAt": "2026-07-17T08:27:46.081Z",
+  "updatedAt": "2026-07-17T14:02:41.191Z",
   "totals": {
     "all": 160,
-    "today": 9,
-    "week": 29
+    "today": 17,
+    "week": 31
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 12
-    },
-    {
-      "name": "超特急",
-      "count": 8
+      "count": 14
     },
     {
       "name": "EBiDAN",
       "count": 7
     },
     {
+      "name": "超特急",
+      "count": 7
+    },
+    {
       "name": "SUPER★DRAGON",
-      "count": 5
+      "count": 6
     },
     {
       "name": "原因は自分にある。",
-      "count": 4
+      "count": 3
+    },
+    {
+      "name": "Sakurashimeji",
+      "count": 1
     }
   ],
   "memberRanking": [
@@ -41,6 +45,10 @@
       "count": 4
     },
     {
+      "name": "曽野舜太",
+      "count": 3
+    },
+    {
       "name": "杢代和人",
       "count": 3
     },
@@ -50,11 +58,7 @@
     },
     {
       "name": "塩﨑太智",
-      "count": 2
-    },
-    {
-      "name": "曽野舜太",
-      "count": 2
+      "count": 1
     },
     {
       "name": "吉田仁人",
@@ -63,23 +67,31 @@
     {
       "name": "田中洸希",
       "count": 1
+    },
+    {
+      "name": "飯島颯",
+      "count": 1
     }
   ],
   "sourceRanking": [
     {
       "name": "超特急 公式NEWS",
-      "count": 8
+      "count": 7
     },
     {
       "name": "SUPER★DRAGON 公式NEWS",
-      "count": 5
+      "count": 6
     },
     {
       "name": "タワーレコード ニュース",
-      "count": 5
+      "count": 4
     },
     {
       "name": "THE FIRST TIMES",
+      "count": 3
+    },
+    {
+      "name": "Bezzy",
       "count": 2
     },
     {
@@ -91,12 +103,8 @@
       "count": 2
     },
     {
-      "name": "Bezzy",
-      "count": 1
-    },
-    {
-      "name": "QJWeb",
-      "count": 1
+      "name": "マイナビニュース 芸能",
+      "count": 2
     },
     {
       "name": "マイナビニュース エンタメ",
@@ -109,6 +117,329 @@
   ],
   "topics": [],
   "recentByGroup": {
+    "Sakurashimeji": [
+      {
+        "id": "b80f836080ada1dc",
+        "title": "Sakurashimeji、11月に東名阪ワンマンツアー開催 チケットのファンクラブ会員先行受付開始",
+        "sourceName": "リアルサウンド 音楽",
+        "sourceUrl": "https://realsound.jp/music/feed",
+        "articleUrl": "https://realsound.jp/2026/07/post-2463311.html",
+        "publishedAt": "2026-07-17T12:30:31.000Z",
+        "summary": "Sakurashimejiが、11月に東名阪ワンマンツアー『Sakurashimeji Live Tour 2026』を開催する。 同ツアーは、11月5日の愛知 ElectricLadyLand公演を皮切りに、11月",
+        "groups": [
+          "Sakurashimeji"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
+    "M!LK": [
+      {
+        "id": "ef95f37f551f98c9",
+        "title": "M!LK、新曲“You!Joy!Parade!”が吉沢亮出演のマクドナルド新TVCM「ポケモン30周年バーガー」篇CMソングに起用。7月21日全国放映開始",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/07/17/tg010",
+        "publishedAt": "2026-07-17T12:30:00.000Z",
+        "summary": "",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "de299a89f6cd8dff",
+        "title": "M!LK佐野勇斗がVOCE初表紙！5000字超のロングインタビューでアイドルとしての本音と覚悟を語る",
+        "sourceName": "WWSチャンネル",
+        "sourceUrl": "https://www.wws-channel.com/feed",
+        "articleUrl": "https://www.wws-channel.com/magazine_book/656009.html",
+        "publishedAt": "2026-07-17T11:49:11.000Z",
+        "summary": "M!LKの佐野勇斗が、7月22日発売の美容誌「VOCE」2026年9月号Special Editionで初めて表紙を飾る。誌面では、ビューティー界に降臨した爆裂ツヤさのをテーマに撮影を実施。美容については普通だと話していた佐野だが、取材を進める中で明らかになった、こだわ ... The post M!LK佐野勇斗がVOCE初表紙！5000字超のロングインタビ",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "e5a6b24a66e3bb30",
+        "title": "ViVi国宝級イケメンランキング2026年上半期発表！山中柔太朗、杢代和人、松村北斗が各部門1位",
+        "sourceName": "WWSチャンネル",
+        "sourceUrl": "https://www.wws-channel.com/feed",
+        "articleUrl": "https://www.wws-channel.com/magazine_book/656118.html",
+        "publishedAt": "2026-07-17T11:37:23.000Z",
+        "summary": "ファッション誌ViViが、半期に一度実施する「ViVi国宝級イケメンランキング 2026年上半期」の全順位を発表した。NOW部門ではM!LKの山中柔太朗、NEXT部門では原因は自分にある。の杢代和人、ADULT部門ではSixTONESの松村北斗がそれぞれ1位に輝いた。N ... The post ViVi国宝級イケメンランキング2026年上半期発表！山中柔太",
+        "groups": [
+          "M!LK",
+          "原因は自分にある。"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "杢代和人",
+            "group": "原因は自分にある。",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "f610f32f7b007e46",
+        "title": "M!LK「You!Joy!Parade!」配信リリース！全編ワンカットで撮影されたMVも公開",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000848477/",
+        "publishedAt": "2026-07-17T10:00:47.000Z",
+        "summary": "M!LKが「You!Joy!Parade!」を7月17日に配信リリースされた。さらに、新曲の配信に伴い「You!Jo...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "40ae8bbab5662f00",
+        "title": "「もっと還元したい」「供給を増やしたい」M!LK曽野舜太、個人チャンネル開設のきっかけ明かす",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20260717-4704170/",
+        "publishedAt": "2026-07-17T10:00:00.000Z",
+        "summary": "「一緒に頑張ろう! って思えるきっかけになれば」アイドルグループ・M!LKの曽野舜太が、YouTubeチャンネルを開設したワケを語った――。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "原因は自分にある。": [
+      {
+        "id": "e5a6b24a66e3bb30",
+        "title": "ViVi国宝級イケメンランキング2026年上半期発表！山中柔太朗、杢代和人、松村北斗が各部門1位",
+        "sourceName": "WWSチャンネル",
+        "sourceUrl": "https://www.wws-channel.com/feed",
+        "articleUrl": "https://www.wws-channel.com/magazine_book/656118.html",
+        "publishedAt": "2026-07-17T11:37:23.000Z",
+        "summary": "ファッション誌ViViが、半期に一度実施する「ViVi国宝級イケメンランキング 2026年上半期」の全順位を発表した。NOW部門ではM!LKの山中柔太朗、NEXT部門では原因は自分にある。の杢代和人、ADULT部門ではSixTONESの松村北斗がそれぞれ1位に輝いた。N ... The post ViVi国宝級イケメンランキング2026年上半期発表！山中柔太",
+        "groups": [
+          "M!LK",
+          "原因は自分にある。"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "杢代和人",
+            "group": "原因は自分にある。",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "c9838472a5495915",
+        "title": "山中柔太朗が“国宝級イケメン”でファン歓喜 「私の推しって最高」「確実に山中柔太朗の時代がきている」",
+        "sourceName": "マイナビニュース 芸能",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
+        "articleUrl": "https://news.mynavi.jp/article/20260715-4705231/",
+        "publishedAt": "2026-07-15T09:52:44.000Z",
+        "summary": "講談社は15日、「ViVi国宝級イケメンランキング 2026年上半期」の結果を発表した。NOW部門ではM!LKの山中柔太朗が初の1位を獲得。NEXT部門では原因は自分にある。の杢代和人が悲願の首位に輝き、ADULT部門ではSixTONESの松村北斗が1位となった。",
+        "groups": [
+          "M!LK",
+          "原因は自分にある。"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "杢代和人",
+            "group": "原因は自分にある。",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "3615bc8f096990b9",
+        "title": "「ViVi国宝級イケメンランキング 2026年上半期」発表。山中柔太朗（M!LK）が「NOW部門」初の1位、杢代和人（原因は自分にある。）が「NEXT部門」悲願の首位獲得。「ADULT部門」は松村北斗（SixTONES）が前人未踏の3部門殿堂入り",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/07/15/tgb004",
+        "publishedAt": "2026-07-15T09:50:00.000Z",
+        "summary": "",
+        "groups": [
+          "M!LK",
+          "原因は自分にある。"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "杢代和人",
+            "group": "原因は自分にある。",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "3fb662210aaeb54f",
+        "title": "森愁斗主演『ウォーターガーディアンズ』本予告解禁、ライフセーバーの本格訓練シーンが初お披露目",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/06/87426/",
+        "publishedAt": "2026-06-05T22:00:00.000Z",
+        "summary": "森愁斗主演映画『ウォーターガーディアンズ』の公開日が8月21日(金)に決定し、本予告映像と主題歌、追加キャスト情報が一挙解禁された。 本作は、ライフセーバーを目指す若者たちの本気のひと夏を描いた青春サマームービー。思いがけずライフセーバーになるという目標を得た若者たちが友情を育み、恋と出会う姿を描く。キャストでは主人公・海翔役の森愁斗（BUDDiiS）、海翔",
+        "groups": [
+          "原因は自分にある。",
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "SUPER★DRAGON": [
+      {
+        "id": "6ebb8f3d97b777e2",
+        "title": "【飯島颯】舞台「えぶりでいホスト」出演決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11419/",
+        "publishedAt": "2026-07-17T09:00:58.000Z",
+        "summary": "HAPPEY MUSICAL「えぶりでいホスト」 【開催日時】 2026年11月6日（金）～11月15日（日） 【会場】 シアターH 【原作】 ごとうにも「えぶりでいホスト」（あすかコミックス DX／KADOKAWA 刊 […] The post 【飯島颯】舞台「えぶりでいホスト」出演決定！ first appeared on SUPER★DRAGON .",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "飯島颯",
+            "group": "SUPER★DRAGON",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "c7b72ffb52ec68c8",
+        "title": "田中洸希 7/20(月祝)オンライン特典会 欠席のお知らせ",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11430/",
+        "publishedAt": "2026-07-17T07:15:22.000Z",
+        "summary": "いつもSUPER★DRAGONを応援していただき、誠にありがとうございます。 2026年7月20日(月祝)出演を予定しておりました「夏休みオンライン特典会」をスケジュールの都合により、田中洸希は欠席とさせて頂きます。 直 […] The post 田中洸希 7/20(月祝)オンライン特典会 欠席のお知らせ first appeared on SUPER★DR",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "田中洸希",
+            "group": "SUPER★DRAGON",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "1001bcc1100d7db2",
+        "title": "『EBiDAN 15th Anniversaryオフィシャルグッズ』の販売が決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11432/",
+        "publishedAt": "2026-07-17T07:00:40.000Z",
+        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念いたしまして、『EBiDAN 15th Anniversaryオフィシャルグッズ』の販売が決定いたしました！ ロゴが映えるリキッドキーホルダーやファーキーホルダー、メンバ […] The post 『EBiDAN 15th Anniversaryオフィシャルグッズ』の販売が決定！ first appeared",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "82fcaa2a2e4698d7",
+        "title": "2026年8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 《第3弾》 CD予約購入キャンペーン 抽選用シリアルナンバー1次受付スタート＆各日程の参加メンバー解禁！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11413/",
+        "publishedAt": "2026-07-17T03:00:09.000Z",
+        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して、8月11日(火・祝)にリリースするシングル「Yes! 東京」の《第３弾》CD予約・購入特典キャンペーン、抽選用シリアルナンバーの受付がスタートしました […] The post 2026年8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 《第3弾》 CD予約購入キャンペーン 抽選用シリ",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "6d6179aa4b081875",
+        "title": "「Yes! 駆け込め! 僕らのEBiSTORE」の開催が決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11408/",
+        "publishedAt": "2026-07-16T07:00:05.000Z",
+        "summary": "EBiDAN15周年記念シングル「Yes! 東京」リリース＆『EBiDAN THE LIVE 2026 15th Anniversary』の開催を記念してSHIBUYA TSUTAYAにてコラボレーションカ […] The post 「Yes! 駆け込め! 僕らのEBiSTORE」の開催が決定！ first appeared on SUPER★DRAGON ",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
     "EBiDAN": [
       {
         "id": "423d7f22441a714f",
@@ -184,225 +515,12 @@
         "memberMatches": []
       }
     ],
-    "M!LK": [
-      {
-        "id": "58ca79937b99611d",
-        "title": "M!LKが白いキラキラ衣装で「ありが滅！」。踊りをやめる佐野勇斗や振りを変える山中柔太朗の自由なダンスが大反響",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000848184/",
-        "publishedAt": "2026-07-17T07:34:46.000Z",
-        "summary": "M!LKがInstagramで「好きすぎて滅！」をそれぞれの個性が際立つ？ダンスで披露する動画を公開...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "e5a6b24a66e3bb30",
-        "title": "ViVi国宝級イケメンランキング2026年上半期発表！山中柔太朗、杢代和人、松村北斗が各部門1位",
-        "sourceName": "WWSチャンネル",
-        "sourceUrl": "https://www.wws-channel.com/feed",
-        "articleUrl": "https://www.wws-channel.com/magazine_book/656118.html",
-        "publishedAt": "2026-07-16T11:00:23.000Z",
-        "summary": "ファッション誌ViViが、半期に一度実施する「ViVi国宝級イケメンランキング 2026年上半期」の全順位を発表した。NOW部門ではM!LKの山中柔太朗、NEXT部門では原因は自分にある。の杢代和人、ADULT部門ではSixTONESの松村北斗がそれぞれ1位に輝いた。N ... The post ViVi国宝級イケメンランキング2026年上半期発表！山中柔太",
-        "groups": [
-          "M!LK",
-          "原因は自分にある。"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "杢代和人",
-            "group": "原因は自分にある。",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "82b3acfd554eeb28",
-        "title": "「根底にあったのが…」佐野勇斗がアイドルとの両立で役者を続けてきた理由",
-        "sourceName": "マイナビニュース テレビ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-        "articleUrl": "https://news.mynavi.jp/article/20260715-4704842/",
-        "publishedAt": "2026-07-15T12:00:00.000Z",
-        "summary": "「正直、僕は歌やダンスがすごく好きなわけじゃないんですが……」俳優でM!LKの佐野勇斗が、12日放送のMBS・TBS系のバラエティ番組『日曜日の初耳学』(毎週日曜22:00～)に出演。俳優とアイドルの両立について語った。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "8bfa45a81732bc59",
-        "title": "吉田仁人（M!LK）、「カラリア」アンバサダーに就任",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/07/15/tg006",
-        "publishedAt": "2026-07-15T11:30:00.000Z",
-        "summary": "",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "c9838472a5495915",
-        "title": "山中柔太朗が“国宝級イケメン”でファン歓喜 「私の推しって最高」「確実に山中柔太朗の時代がきている」",
-        "sourceName": "マイナビニュース 芸能",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-        "articleUrl": "https://news.mynavi.jp/article/20260715-4705231/",
-        "publishedAt": "2026-07-15T09:52:44.000Z",
-        "summary": "講談社は15日、「ViVi国宝級イケメンランキング 2026年上半期」の結果を発表した。NOW部門ではM!LKの山中柔太朗が初の1位を獲得。NEXT部門では原因は自分にある。の杢代和人が悲願の首位に輝き、ADULT部門ではSixTONESの松村北斗が1位となった。",
-        "groups": [
-          "M!LK",
-          "原因は自分にある。"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "杢代和人",
-            "group": "原因は自分にある。",
-            "status": "active"
-          }
-        ]
-      }
-    ],
-    "SUPER★DRAGON": [
-      {
-        "id": "c7b72ffb52ec68c8",
-        "title": "田中洸希 7/20(月祝)オンライン特典会 欠席のお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11430/",
-        "publishedAt": "2026-07-17T07:15:22.000Z",
-        "summary": "いつもSUPER★DRAGONを応援していただき、誠にありがとうございます。 2026年7月20日(月祝)出演を予定しておりました「夏休みオンライン特典会」をスケジュールの都合により、田中洸希は欠席とさせて頂きます。 直 […] The post 田中洸希 7/20(月祝)オンライン特典会 欠席のお知らせ first appeared on SUPER★DR",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "田中洸希",
-            "group": "SUPER★DRAGON",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "1001bcc1100d7db2",
-        "title": "『EBiDAN 15th Anniversaryオフィシャルグッズ』の販売が決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11432/",
-        "publishedAt": "2026-07-17T07:00:40.000Z",
-        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念いたしまして、『EBiDAN 15th Anniversaryオフィシャルグッズ』の販売が決定いたしました！ ロゴが映えるリキッドキーホルダーやファーキーホルダー、メンバ […] The post 『EBiDAN 15th Anniversaryオフィシャルグッズ』の販売が決定！ first appeared",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "82fcaa2a2e4698d7",
-        "title": "2026年8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 《第3弾》 CD予約購入キャンペーン 抽選用シリアルナンバー1次受付スタート＆各日程の参加メンバー解禁！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11413/",
-        "publishedAt": "2026-07-17T03:00:09.000Z",
-        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して、8月11日(火・祝)にリリースするシングル「Yes! 東京」の《第３弾》CD予約・購入特典キャンペーン、抽選用シリアルナンバーの受付がスタートしました […] The post 2026年8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 《第3弾》 CD予約購入キャンペーン 抽選用シリ",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "6d6179aa4b081875",
-        "title": "「Yes! 駆け込め! 僕らのEBiSTORE」の開催が決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11408/",
-        "publishedAt": "2026-07-16T07:00:05.000Z",
-        "summary": "EBiDAN15周年記念シングル「Yes! 東京」リリース＆『EBiDAN THE LIVE 2026 15th Anniversary』の開催を記念してSHIBUYA TSUTAYAにてコラボレーションカ […] The post 「Yes! 駆け込め! 僕らのEBiSTORE」の開催が決定！ first appeared on SUPER★DRAGON ",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "f286566083445b46",
-        "title": "EBiDAN15周年記念シングル『Yes! 東京』発売記念 公演終了後の『終演後お見送り会』開催決定！さらに「幻のエビパンラバーキーホルダー」をプレゼント！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11402/",
-        "publishedAt": "2026-07-14T08:00:44.000Z",
-        "summary": "EBiDAN (恵比寿学園男子部) 15周年記念シングル『Yes! 東京』発売を記念して、 『終演後お見送り会』の開催が決定！「EBiDAN THE LIVE 2026 15th Anniversary」DAY2（8/1 […] The post EBiDAN15周年記念シングル『Yes! 東京』発売記念 公演終了後の『終演後お見送り会』開催決定！さらに「幻",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
     "超特急": [
       {
         "id": "15bc9e31dee68d44",
         "title": "超特急リョウガ、当面休養へ 疲労蓄積とヘルニア症状「超特急で戻ってくるから待っとけよ」",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "sourceName": "マイナビニュース 芸能",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
         "articleUrl": "https://news.mynavi.jp/article/20260717-4711289/",
         "publishedAt": "2026-07-16T23:15:28.000Z",
         "summary": "「超特急で戻ってくるから待っとけよ」――メインダンサー＆バックボーカルグループ・超特急のリョウガが17日、当面の間、活動を休止することが発表された。疲労の蓄積と、かねてより抱えているヘルニアの症状が重なったため、休養に専念する。",
@@ -501,134 +619,6 @@
           {
             "name": "マサヒロ",
             "group": "超特急",
-            "status": "active"
-          }
-        ]
-      }
-    ],
-    "原因は自分にある。": [
-      {
-        "id": "e5a6b24a66e3bb30",
-        "title": "ViVi国宝級イケメンランキング2026年上半期発表！山中柔太朗、杢代和人、松村北斗が各部門1位",
-        "sourceName": "WWSチャンネル",
-        "sourceUrl": "https://www.wws-channel.com/feed",
-        "articleUrl": "https://www.wws-channel.com/magazine_book/656118.html",
-        "publishedAt": "2026-07-16T11:00:23.000Z",
-        "summary": "ファッション誌ViViが、半期に一度実施する「ViVi国宝級イケメンランキング 2026年上半期」の全順位を発表した。NOW部門ではM!LKの山中柔太朗、NEXT部門では原因は自分にある。の杢代和人、ADULT部門ではSixTONESの松村北斗がそれぞれ1位に輝いた。N ... The post ViVi国宝級イケメンランキング2026年上半期発表！山中柔太",
-        "groups": [
-          "M!LK",
-          "原因は自分にある。"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "杢代和人",
-            "group": "原因は自分にある。",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "c9838472a5495915",
-        "title": "山中柔太朗が“国宝級イケメン”でファン歓喜 「私の推しって最高」「確実に山中柔太朗の時代がきている」",
-        "sourceName": "マイナビニュース 芸能",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-        "articleUrl": "https://news.mynavi.jp/article/20260715-4705231/",
-        "publishedAt": "2026-07-15T09:52:44.000Z",
-        "summary": "講談社は15日、「ViVi国宝級イケメンランキング 2026年上半期」の結果を発表した。NOW部門ではM!LKの山中柔太朗が初の1位を獲得。NEXT部門では原因は自分にある。の杢代和人が悲願の首位に輝き、ADULT部門ではSixTONESの松村北斗が1位となった。",
-        "groups": [
-          "M!LK",
-          "原因は自分にある。"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "杢代和人",
-            "group": "原因は自分にある。",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "3615bc8f096990b9",
-        "title": "「ViVi国宝級イケメンランキング 2026年上半期」発表。山中柔太朗（M!LK）が「NOW部門」初の1位、杢代和人（原因は自分にある。）が「NEXT部門」悲願の首位獲得。「ADULT部門」は松村北斗（SixTONES）が前人未踏の3部門殿堂入り",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/07/15/tgb004",
-        "publishedAt": "2026-07-15T09:50:00.000Z",
-        "summary": "",
-        "groups": [
-          "M!LK",
-          "原因は自分にある。"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "杢代和人",
-            "group": "原因は自分にある。",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "8b0f33bddaa81914",
-        "title": "原因は自分にある。が描く唯一無二の世界。ライブが映した“げんじぶらしさ”",
-        "sourceName": "QJWeb",
-        "sourceUrl": "https://qjweb.jp/feed/",
-        "articleUrl": "https://qjweb.jp/column/161707/",
-        "publishedAt": "2026-07-13T07:58:00.000Z",
-        "summary": "7人組ダンスボーカルグループ「原因は自分にある。（通称：げんじぶ）」が『ARENA TOUR 2026 仮ノ現（カリノウツツ）』を、6月27、28日に兵庫・ワールド記念ホールにて、そして7月4、5日に東京・有明アリーナにて開催した。 豪華なセットリスト、アリーナという空間を存分に活かした演出、厚みの.. 投稿 原因は自分にある。が描く唯一無二の世界。ライブが",
-        "groups": [
-          "原因は自分にある。"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "3fb662210aaeb54f",
-        "title": "森愁斗主演『ウォーターガーディアンズ』本予告解禁、ライフセーバーの本格訓練シーンが初お披露目",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/06/87426/",
-        "publishedAt": "2026-06-05T22:00:00.000Z",
-        "summary": "森愁斗主演映画『ウォーターガーディアンズ』の公開日が8月21日(金)に決定し、本予告映像と主題歌、追加キャスト情報が一挙解禁された。 本作は、ライフセーバーを目指す若者たちの本気のひと夏を描いた青春サマームービー。思いがけずライフセーバーになるという目標を得た若者たちが友情を育み、恋と出会う姿を描く。キャストでは主人公・海翔役の森愁斗（BUDDiiS）、海翔",
-        "groups": [
-          "原因は自分にある。",
-          "BUDDiiS"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "SHOOT",
-            "group": "BUDDiiS",
             "status": "active"
           }
         ]

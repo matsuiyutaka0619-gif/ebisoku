@@ -1,6 +1,156 @@
 {
-  "updatedAt": "2026-07-17T08:27:46.079Z",
+  "updatedAt": "2026-07-17T14:02:41.189Z",
   "articles": [
+    {
+      "id": "b80f836080ada1dc",
+      "title": "Sakurashimeji、11月に東名阪ワンマンツアー開催 チケットのファンクラブ会員先行受付開始",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/07/post-2463311.html",
+      "publishedAt": "2026-07-17T12:30:31.000Z",
+      "summary": "Sakurashimejiが、11月に東名阪ワンマンツアー『Sakurashimeji Live Tour 2026』を開催する。 同ツアーは、11月5日の愛知 ElectricLadyLand公演を皮切りに、11月",
+      "groups": [
+        "Sakurashimeji"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "ef95f37f551f98c9",
+      "title": "M!LK、新曲“You!Joy!Parade!”が吉沢亮出演のマクドナルド新TVCM「ポケモン30周年バーガー」篇CMソングに起用。7月21日全国放映開始",
+      "sourceName": "タワーレコード ニュース",
+      "sourceUrl": "https://tower.jp/feeds/article/news",
+      "articleUrl": "https://tower.jp/article/news/2026/07/17/tg010",
+      "publishedAt": "2026-07-17T12:30:00.000Z",
+      "summary": "",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "de299a89f6cd8dff",
+      "title": "M!LK佐野勇斗がVOCE初表紙！5000字超のロングインタビューでアイドルとしての本音と覚悟を語る",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/magazine_book/656009.html",
+      "publishedAt": "2026-07-17T11:49:11.000Z",
+      "summary": "M!LKの佐野勇斗が、7月22日発売の美容誌「VOCE」2026年9月号Special Editionで初めて表紙を飾る。誌面では、ビューティー界に降臨した爆裂ツヤさのをテーマに撮影を実施。美容については普通だと話していた佐野だが、取材を進める中で明らかになった、こだわ ... The post M!LK佐野勇斗がVOCE初表紙！5000字超のロングインタビ",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "e5a6b24a66e3bb30",
+      "title": "ViVi国宝級イケメンランキング2026年上半期発表！山中柔太朗、杢代和人、松村北斗が各部門1位",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/magazine_book/656118.html",
+      "publishedAt": "2026-07-17T11:37:23.000Z",
+      "summary": "ファッション誌ViViが、半期に一度実施する「ViVi国宝級イケメンランキング 2026年上半期」の全順位を発表した。NOW部門ではM!LKの山中柔太朗、NEXT部門では原因は自分にある。の杢代和人、ADULT部門ではSixTONESの松村北斗がそれぞれ1位に輝いた。N ... The post ViVi国宝級イケメンランキング2026年上半期発表！山中柔太",
+      "groups": [
+        "M!LK",
+        "原因は自分にある。"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "杢代和人",
+          "group": "原因は自分にある。",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "f610f32f7b007e46",
+      "title": "M!LK「You!Joy!Parade!」配信リリース！全編ワンカットで撮影されたMVも公開",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000848477/",
+      "publishedAt": "2026-07-17T10:00:47.000Z",
+      "summary": "M!LKが「You!Joy!Parade!」を7月17日に配信リリースされた。さらに、新曲の配信に伴い「You!Jo...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "40ae8bbab5662f00",
+      "title": "「もっと還元したい」「供給を増やしたい」M!LK曽野舜太、個人チャンネル開設のきっかけ明かす",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260717-4704170/",
+      "publishedAt": "2026-07-17T10:00:00.000Z",
+      "summary": "「一緒に頑張ろう! って思えるきっかけになれば」アイドルグループ・M!LKの曽野舜太が、YouTubeチャンネルを開設したワケを語った――。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "曽野舜太",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "aeb8d52a36d7610c",
+      "title": "夏を全力で楽しむ5人をワンカットで撮影、M!LK最新曲「You!Joy!Parade!」MV公開",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/07/89424/",
+      "publishedAt": "2026-07-17T10:00:00.000Z",
+      "summary": "5人組ダンス＆ボーカルグループ・M!LKの最新曲「You!Joy!Parade!」のミュージックビデオがYouTubeでプレミア公開された。 5ヵ月連続リリース企画「モー烈モー進！リリースプロジェクト2026」第四弾として本日7月17日(金)にリリースされた本楽曲は、“かけがえのない仲間と過ごす夏”をメインテーマに制作された一曲。絆と友情の力を感じさせるリリ",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "6ebb8f3d97b777e2",
+      "title": "【飯島颯】舞台「えぶりでいホスト」出演決定！",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news11419/",
+      "publishedAt": "2026-07-17T09:00:58.000Z",
+      "summary": "HAPPEY MUSICAL「えぶりでいホスト」 【開催日時】 2026年11月6日（金）～11月15日（日） 【会場】 シアターH 【原作】 ごとうにも「えぶりでいホスト」（あすかコミックス DX／KADOKAWA 刊 […] The post 【飯島颯】舞台「えぶりでいホスト」出演決定！ first appeared on SUPER★DRAGON .",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "飯島颯",
+          "group": "SUPER★DRAGON",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "423d7f22441a714f",
       "title": "EBiDAN『JUNON』臨時増刊版の表紙＆裏表紙をジャック",
@@ -111,8 +261,8 @@
     {
       "id": "15bc9e31dee68d44",
       "title": "超特急リョウガ、当面休養へ 疲労蓄積とヘルニア症状「超特急で戻ってくるから待っとけよ」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260717-4711289/",
       "publishedAt": "2026-07-16T23:15:28.000Z",
       "summary": "「超特急で戻ってくるから待っとけよ」――メインダンサー＆バックボーカルグループ・超特急のリョウガが17日、当面の間、活動を休止することが発表された。疲労の蓄積と、かねてより抱えているヘルニアの症状が重なったため、休養に専念する。",
@@ -175,34 +325,6 @@
         {
           "name": "リョウガ",
           "group": "超特急",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "e5a6b24a66e3bb30",
-      "title": "ViVi国宝級イケメンランキング2026年上半期発表！山中柔太朗、杢代和人、松村北斗が各部門1位",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/magazine_book/656118.html",
-      "publishedAt": "2026-07-16T11:00:23.000Z",
-      "summary": "ファッション誌ViViが、半期に一度実施する「ViVi国宝級イケメンランキング 2026年上半期」の全順位を発表した。NOW部門ではM!LKの山中柔太朗、NEXT部門では原因は自分にある。の杢代和人、ADULT部門ではSixTONESの松村北斗がそれぞれ1位に輝いた。N ... The post ViVi国宝級イケメンランキング2026年上半期発表！山中柔太",
-      "groups": [
-        "M!LK",
-        "原因は自分にある。"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "山中柔太朗",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "杢代和人",
-          "group": "原因は自分にある。",
           "status": "active"
         }
       ]
@@ -351,50 +473,6 @@
       ]
     },
     {
-      "id": "de299a89f6cd8dff",
-      "title": "M!LK佐野勇斗がVOCE初表紙！5000字超のロングインタビューでアイドルとしての本音と覚悟を語る",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/magazine_book/656009.html",
-      "publishedAt": "2026-07-15T03:00:11.000Z",
-      "summary": "M!LKの佐野勇斗が、7月22日発売の美容誌「VOCE」2026年9月号Special Editionで初めて表紙を飾る。誌面では、ビューティー界に降臨した爆裂ツヤさのをテーマに撮影を実施。美容については普通だと話していた佐野だが、取材を進める中で明らかになった、こだわ ... The post M!LK佐野勇斗がVOCE初表紙！5000字超のロングインタビ",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "c42ad636f3ac3eb2",
-      "title": "7月17日放送「ミュージックステーション 1500回記念 夏の2時間SP」、IVE、塩﨑太智 (M!LK)、SixTONES、Snow Man、SEKAI NO OWARI、Toshl、中森明菜、BE:FIRST、Mrs. GREEN APPLE、M!LK、MON7A、優里出演",
-      "sourceName": "タワーレコード ニュース",
-      "sourceUrl": "https://tower.jp/feeds/article/news",
-      "articleUrl": "https://tower.jp/article/news/2026/07/14/tg003",
-      "publishedAt": "2026-07-14T09:20:00.000Z",
-      "summary": "",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "塩﨑太智",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "f286566083445b46",
       "title": "EBiDAN15周年記念シングル『Yes! 東京』発売記念 公演終了後の『終演後お見送り会』開催決定！さらに「幻のエビパンラバーキーホルダー」をプレゼント！",
       "sourceName": "SUPER★DRAGON 公式NEWS",
@@ -454,20 +532,6 @@
       ]
     },
     {
-      "id": "fde83660c51effa2",
-      "title": "M!LK、「モー烈モー進！リリースプロジェクト2026」第4弾“You!Joy!Parade!”7月17日配信リリース",
-      "sourceName": "タワーレコード ニュース",
-      "sourceUrl": "https://tower.jp/feeds/article/news",
-      "articleUrl": "https://tower.jp/article/news/2026/07/13/tg013",
-      "publishedAt": "2026-07-13T11:00:00.000Z",
-      "summary": "",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
       "id": "fde2e5cc9f02f7bc",
       "title": "BULLET TRAIN ARENA TOUR 2026「ESCORT」 リョウガ 参加見合わせに関して",
       "sourceName": "超特急 公式NEWS",
@@ -520,20 +584,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "8b0f33bddaa81914",
-      "title": "原因は自分にある。が描く唯一無二の世界。ライブが映した“げんじぶらしさ”",
-      "sourceName": "QJWeb",
-      "sourceUrl": "https://qjweb.jp/feed/",
-      "articleUrl": "https://qjweb.jp/column/161707/",
-      "publishedAt": "2026-07-13T07:58:00.000Z",
-      "summary": "7人組ダンスボーカルグループ「原因は自分にある。（通称：げんじぶ）」が『ARENA TOUR 2026 仮ノ現（カリノウツツ）』を、6月27、28日に兵庫・ワールド記念ホールにて、そして7月4、5日に東京・有明アリーナにて開催した。 豪華なセットリスト、アリーナという空間を存分に活かした演出、厚みの.. 投稿 原因は自分にある。が描く唯一無二の世界。ライブが",
-      "groups": [
-        "原因は自分にある。"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "71ff0e75b0573628",
@@ -2664,56 +2714,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "19e79035d9eb0fdf",
-      "title": "『BULLET TRAIN ARENA TOUR 2026 ESCORT』オフィシャルグッズ＆生写真セット事前通販決定！",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26007/",
-      "publishedAt": "2026-04-28T08:59:39.000Z",
-      "summary": "6月10日(水)神奈川公演よりスタートする『BULLET TRAIN ARENA TOUR 2026 ESCORT』に先駆け、 オフィシャルグッズ＆生写真セットの事前通販が決定いたしました！！ ライブに欠かせない定番アイ […]",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "3a18d6b40a9c6dae",
-      "title": "「RAKU 22nd BIRTHDAY SCRATCH」開催決定！！",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news10888/",
-      "publishedAt": "2026-04-27T11:59:35.000Z",
-      "summary": "柴崎楽 22歳の誕生日を記念した「RAKU 22nd BIRTHDAY SCRATCH」開催が決定いたしました！ ぜひアクセスしてみてください！！ ▼柴崎楽［楽の世界］ https://fanicon.net/fanco […] The post 「RAKU 22nd BIRTHDAY SCRATCH」開催決定！！ first appeared on SUP",
-      "groups": [
-        "SUPER★DRAGON"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "柴崎楽",
-          "group": "SUPER★DRAGON",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "e64bef17cf6cfb13",
-      "title": "5/13(水)発売 23rd Single『ガチ夢中！』 CD SHOPチェーン別購入者特典決定！",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news25997/",
-      "publishedAt": "2026-04-27T10:59:48.000Z",
-      "summary": "超特急23rd Single『ガチ夢中！』のCD SHOPチェーン別購入者特典の詳細が決定しました。 CD SHOPチェーン別購入者特典 ■UNIVERSAL MUSIC STORE オリジナルトレカ (ソロ絵柄9種 […]",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
     }
   ]
 }
