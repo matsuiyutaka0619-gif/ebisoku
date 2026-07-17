@@ -1,6 +1,121 @@
 {
-  "updatedAt": "2026-07-16T19:35:04.115Z",
+  "updatedAt": "2026-07-17T03:37:04.372Z",
   "articles": [
+    {
+      "id": "d0502dd549db1e4d",
+      "title": "吉川愛、実年齢50歳差の奥田瑛二は“とても寛大な方” 無口だったらどうしようと不安も「すっごく喋ってくださるのですごくうれしい」",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1032464/",
+      "publishedAt": "2026-07-17T03:30:00.000Z",
+      "summary": "俳優の吉川愛が17日、都内で行われた7月17日スタートのテレビ朝日系金曜ナイトドラマ『名探偵のままでいて』（金曜午後11時15分）の制作発表記者会見に、共演の綱啓永、恒松祐里、髙松アロハ（超特急）、吉沢悠、奥田瑛二ととも […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "アロハ",
+          "group": "超特急",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "15bc9e31dee68d44",
+      "title": "超特急リョウガ、当面休養へ 疲労蓄積とヘルニア症状「超特急で戻ってくるから待っとけよ」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260717-4711289/",
+      "publishedAt": "2026-07-16T23:15:28.000Z",
+      "summary": "「超特急で戻ってくるから待っとけよ」――メインダンサー＆バックボーカルグループ・超特急のリョウガが17日、当面の間、活動を休止することが発表された。疲労の蓄積と、かねてより抱えているヘルニアの症状が重なったため、休養に専念する。",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "リョウガ",
+          "group": "超特急",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "db547bce1070a3b7",
+      "title": "超特急リョウガ・マサヒロ番組欠席のお知らせ",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26365/",
+      "publishedAt": "2026-07-16T22:14:12.000Z",
+      "summary": "いつも超特急を応援いただき、誠にありがとうございます。 この度、メンバーのリョウガ・マサヒロが体調不良のため、下記の番組出演を欠席いたします。 2026年7月18日(土)午後2時00分 ON AIR TBS系「音楽の日2 […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "リョウガ",
+          "group": "超特急",
+          "status": "active"
+        },
+        {
+          "name": "マサヒロ",
+          "group": "超特急",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "6cb670a7abf60acb",
+      "title": "超特急リョウガに関する大切なお知らせ",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26367/",
+      "publishedAt": "2026-07-16T21:59:43.000Z",
+      "summary": "いつも超特急へ温かい応援をいただきまして、誠にありがとうございます。 メンバーのリョウガですが、今月初旬より体調を崩すことが増えたため、健康診断も兼ねて医療機関を受診いたしました。 その結果、疲労が蓄積している状態であり […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "リョウガ",
+          "group": "超特急",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "8c47c8699f10d17f",
+      "title": "新着MVランキング：M!LK 塩﨑太智ソロ曲は現代社会に必要な楽曲？ 底抜けの明るさと圧倒的な幸福感",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/07/post-2461206.html",
+      "publishedAt": "2026-07-16T20:50:12.000Z",
+      "summary": "毎週更新される「YouTube Music Charts」ウィークリー ミュージック ビデオ ランキングより、MVをはじめとした音楽関連の新着動画から上位10作品／楽曲を取り上げ、ランキング化＆レビューしていく連載「MV Chart Focus」。今週は首位を獲得したM!LK「しおざきわんだーらんど（塩﨑太智）」を取り上げる。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "塩﨑太智",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "463f34afbb3e9729",
       "title": "フジテレビ系『STAR』にaespa、EBiDAN、syudou×八木勇征、純烈、TREASURE、乃木坂46が出演！STARナビゲーターは、ちいかわと島二郎",
@@ -14,6 +129,34 @@
       ],
       "statuses": [],
       "memberMatches": []
+    },
+    {
+      "id": "e5a6b24a66e3bb30",
+      "title": "ViVi国宝級イケメンランキング2026年上半期発表！山中柔太朗、杢代和人、松村北斗が各部門1位",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/magazine_book/656118.html",
+      "publishedAt": "2026-07-16T11:00:23.000Z",
+      "summary": "ファッション誌ViViが、半期に一度実施する「ViVi国宝級イケメンランキング 2026年上半期」の全順位を発表した。NOW部門ではM!LKの山中柔太朗、NEXT部門では原因は自分にある。の杢代和人、ADULT部門ではSixTONESの松村北斗がそれぞれ1位に輝いた。N ... The post ViVi国宝級イケメンランキング2026年上半期発表！山中柔太",
+      "groups": [
+        "M!LK",
+        "原因は自分にある。"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "杢代和人",
+          "group": "原因は自分にある。",
+          "status": "active"
+        }
+      ]
     },
     {
       "id": "b981d442668ba1c6",
@@ -38,48 +181,18 @@
       ]
     },
     {
-      "id": "30b6400b543518ec",
-      "title": "「俺に言ってんのかな…?」M!LK佐野勇斗、プライベートで思わず“反応”してしまうことを告白",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-      "articleUrl": "https://news.mynavi.jp/article/20260716-4696850/",
-      "publishedAt": "2026-07-16T10:00:00.000Z",
-      "summary": "「“好きすぎて”って、みんなめっちゃ使うのよ」アイドルグループ・M!LKの佐野勇斗が、プライベートでの困りごとを明かした――。",
+      "id": "f3d2f6d0c64fe7d1",
+      "title": "「Yes! 駆け込め! 僕らのEBiSTORE」の開催が決定！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26362/",
+      "publishedAt": "2026-07-16T06:59:01.000Z",
+      "summary": "EBiDAN15周年記念シングル「Yes! 東京」リリース＆『EBiDAN THE LIVE 2026 15th Anniversary』の開催を記念してSHIBUYA TSUTAYAにてコラボレーションカフェ「Yes! […]",
       "groups": [
-        "M!LK"
+        "EBiDAN"
       ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "0812f06d1e70970c",
-      "title": "松村北斗がふわふわヘア×ピンクシャツで“北斗節”全開！“国宝級イケメン”殿堂入りへの喜びを語り「言葉選びが最高」「謙虚すぎる」「イケメンなのにカワイイ」「顔が良すぎる」と反響",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000847779/",
-      "publishedAt": "2026-07-16T05:52:35.000Z",
-      "summary": "「ViVi 国宝級イケメンランキング」2026年上半期の全順位が発表された。NOW部門では山中柔太朗...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "山中柔太朗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
+      "statuses": [],
+      "memberMatches": []
     },
     {
       "id": "24dcd878e3217bd8",
@@ -196,6 +309,28 @@
       ]
     },
     {
+      "id": "de299a89f6cd8dff",
+      "title": "M!LK佐野勇斗がVOCE初表紙！5000字超のロングインタビューでアイドルとしての本音と覚悟を語る",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/magazine_book/656009.html",
+      "publishedAt": "2026-07-15T03:00:11.000Z",
+      "summary": "M!LKの佐野勇斗が、7月22日発売の美容誌「VOCE」2026年9月号Special Editionで初めて表紙を飾る。誌面では、ビューティー界に降臨した爆裂ツヤさのをテーマに撮影を実施。美容については普通だと話していた佐野だが、取材を進める中で明らかになった、こだわ ... The post M!LK佐野勇斗がVOCE初表紙！5000字超のロングインタビ",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
       "id": "c42ad636f3ac3eb2",
       "title": "7月17日放送「ミュージックステーション 1500回記念 夏の2時間SP」、IVE、塩﨑太智 (M!LK)、SixTONES、Snow Man、SEKAI NO OWARI、Toshl、中森明菜、BE:FIRST、Mrs. GREEN APPLE、M!LK、MON7A、優里出演",
       "sourceName": "タワーレコード ニュース",
@@ -240,6 +375,28 @@
       ]
     },
     {
+      "id": "037a3deffe2bde86",
+      "title": "BULLET TRAIN ARENA TOUR 2026 ESCORT 2026年7月14日(火)・15日(水) GLION ARENA KOBE公演についてのお知らせ",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26359/",
+      "publishedAt": "2026-07-14T06:29:43.000Z",
+      "summary": "いつも超特急を応援いただき、誠にありがとうございます。 メンバーのマサヒロですが、本日のリハーサル中に腰を負傷し、急性腰痛症と判断されました。 本人の回復を最優先に考え、メンバー、スタッフとも協議を重ねた結果、 2026 […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "マサヒロ",
+          "group": "超特急",
+          "status": "active"
+        }
+      ]
+    },
+    {
       "id": "fde83660c51effa2",
       "title": "M!LK、「モー烈モー進！リリースプロジェクト2026」第4弾“You!Joy!Parade!”7月17日配信リリース",
       "sourceName": "タワーレコード ニュース",
@@ -252,6 +409,28 @@
       ],
       "statuses": [],
       "memberMatches": []
+    },
+    {
+      "id": "fde2e5cc9f02f7bc",
+      "title": "BULLET TRAIN ARENA TOUR 2026「ESCORT」 リョウガ 参加見合わせに関して",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26357/",
+      "publishedAt": "2026-07-13T10:44:32.000Z",
+      "summary": "いつも超特急へ温かい応援を頂きありがとうございます。 弊社所属 超特急メンバーのリョウガが体調不良のため、本人の体調回復を最優先に考え、以下のライブにつきまして出演を見合わせさせていただくことになりました。 ＜欠席対応公 […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "リョウガ",
+          "group": "超特急",
+          "status": "active"
+        }
+      ]
     },
     {
       "id": "681d2eb67e888d3e",
@@ -268,13 +447,13 @@
       "memberMatches": []
     },
     {
-      "id": "bea3467bfa01f841",
-      "title": "映画『仮面ライダーゼッツ さよならのミッション』、曽野舜太（M!LK）演じる仮面ライダー夢現／玖門宗馬キャラクター・ヴィジュアル＆キャラクター・ムービー公開",
-      "sourceName": "タワーレコード ニュース",
-      "sourceUrl": "https://tower.jp/feeds/article/news",
-      "articleUrl": "https://tower.jp/article/news/2026/07/13/tg005",
-      "publishedAt": "2026-07-13T09:25:34.000Z",
-      "summary": "",
+      "id": "5e43c6ca0d90cfeb",
+      "title": "M!LK連続リリース企画第四弾、夏のキラーチューン「You!Joy!Parade!」7月17日配信決定",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/07/89182/",
+      "publishedAt": "2026-07-13T09:00:00.000Z",
+      "summary": "5人組ダンスボーカルグループ・M!LKが、 5ヵ月連続リリース企画「モー烈モー進！リリースプロジェクト2026」第四弾新曲「You!Joy!Parade!」を7月17日(金)に配信リリースすることを発表した。 第一弾楽曲「アイドルパワー」を皮切りにスタートした「モー烈モー進！リリースプロジェクト2026」では、これまで曽野舜太と山中柔太朗によるユニット楽曲「",
       "groups": [
         "M!LK"
       ],
@@ -283,7 +462,17 @@
       ],
       "memberMatches": [
         {
+          "name": "塩﨑太智",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
           "name": "曽野舜太",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "山中柔太朗",
           "group": "M!LK",
           "status": "active"
         }
@@ -326,6 +515,205 @@
       ]
     },
     {
+      "id": "933629b884c40b49",
+      "title": "超特急 東京ドーム公演＜追加公演＞最新チケット情報",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26350/",
+      "publishedAt": "2026-07-11T08:59:47.000Z",
+      "summary": "7月11日(土)18:00よりローソンチケットプレリクエスト先行受付開始！ ご乗車お待ちしております!!!!!!!!! ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願いと注意事項】 https:// […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "14cbec71089a2e5b",
+      "title": "超特急「BULLET TRAIN ARENA TOUR 2026 ESCORT」【兵庫公演】機材席開放一般発売 実施決定！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26316/",
+      "publishedAt": "2026-07-10T08:59:10.000Z",
+      "summary": "完売していた兵庫公演ですが、ステージプラン確定に伴い若干数の機材席開放販売が決定いたしました！ 7月13日(月)21:00より販売スタート！ ご乗車お待ちしております!!!!!!!!! ※重要：お申込み前に必ずご確認くだ […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "d04e729ed22127a2",
+      "title": "M!LKがメンカラ自転車に乗る初ミニアルバムのジャケ写公開、タイトルは『LOVE ENG!NE』に",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/07/89093/",
+      "publishedAt": "2026-07-10T08:00:00.000Z",
+      "summary": "5人組ダンス＆ボーカルグループ・M!LKが9月16日(水)にリリースする1st Mini Albumのタイトルが『LOVE ENG!NE』に決定し、ジャケット写真が公開された。 前作となるメジャー8thシングル『爆裂愛してる / 好きすぎて滅！』では“多様な愛”をテーマに掲げていたM!LK。それに続く今回のミニアルバムは、その愛が人を前へと突き動かす“エンジ",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "e4506961b8c3348e",
+      "title": "EBiDAN公式Stationheadアカウント開設＆リスニングパーティー開催が決定！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26347/",
+      "publishedAt": "2026-07-10T07:29:40.000Z",
+      "summary": "ラジオ放送プラットフォームアプリ「Stationhead」にて、EBiDAN (恵比寿学園男子部)のオフィシャルアカウントを開設しました！そして、7月13日(月)以降、Stationheadでリスニングパーティーの連続開 […]",
+      "groups": [
+        "EBiDAN"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "a554aecc620c3a36",
+      "title": "『BULLET TRAIN ARENA TOUR 2026 ESCORT』U-NEXTにて独占ライブ配信決定！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26314/",
+      "publishedAt": "2026-07-09T10:01:42.000Z",
+      "summary": "8月9日(日)に開催される『BULLET TRAIN ARENA TOUR 2026 ESCORT』の模様がU-NEXTにて生配信することが決定！ U-NEXT月額会員の方なら追加料金なくお楽しみいただけます。 ライブ配 […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "ba1d4bfc5a46098d",
+      "title": "【SUPERSTAR EBiDAN】 「BULLET TRAIN ARENA TOUR 2026 ESCORT」開催記念！ゲーム内イベント実施のお知らせ",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26309/",
+      "publishedAt": "2026-07-09T08:10:08.000Z",
+      "summary": "EBiDAN公式リズムゲーム『SUPERSTAR EBiDAN』では、「BULLET TRAIN ARENA TOUR 2026 ESCORT」の開催を記念して、期間限定のゲーム内イベントを実施いたします！ ■実施期間： […]",
+      "groups": [
+        "EBiDAN",
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "2649c44b93033a0e",
+      "title": "超特急「BULLET TRAIN ARENA TOUR 2026 ESCORT」兵庫・Kアリーナ横浜公演 チケットトレードのお知らせ",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26307/",
+      "publishedAt": "2026-07-07T08:59:40.000Z",
+      "summary": "「BULLET TRAIN ARENA TOUR 2026 ESCORT」兵庫公演とKアリーナ横浜公演のチケットトレード実施が決定いたしました！ トレードへの出品、お申込みの際は必ず下記詳細をご確認のうえ、お申込みくださ […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "6182e0a1925ae519",
+      "title": "2026年8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 《第3弾》 CD予約購入キャンペーン実施決定！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26303/",
+      "publishedAt": "2026-07-07T03:21:17.000Z",
+      "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して、8月11日(火・祝)にリリースするシングル「Yes! 東京」の《第３弾》CD予約購入特典キャンペーンの実施が決定いたしました！ 2026年8月11日(火・祝)発売 […]",
+      "groups": [
+        "EBiDAN"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "f35e85c59d9de0a7",
+      "title": "『BULLET TRAIN ARENA TOUR 2026 ESCORT』オフィシャルグッズ＆生写真セット 【7/14(火)、15(水) GLION ARENA KOBE公演】会場販売＆整理券配布のお知らせ",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26292/",
+      "publishedAt": "2026-07-06T10:59:26.000Z",
+      "summary": "「BULLET TRAIN ARENA TOUR 2026 ESCORT」GLION ARENA KOBE公演の会場販売が決定しました！ 7/14(火)、15(水)GLION ARENA KOBE公演では、 熱中症対策・ […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "211ffc839ab4091d",
+      "title": "水兵風の塩﨑太智が子供たちと楽しくダンス、本日配信の新曲「しおざきわんだーらんど」MV公開",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/07/88741/",
+      "publishedAt": "2026-07-06T09:30:00.000Z",
+      "summary": "5人組ダンス＆ボーカルグループ・M!LKの塩﨑太智が、本日7月6日(月)に配信リリースしたソロナンバー「しおざきわんだーらんど」のミュージックビデオを公開した。 本楽曲は、M!LKの5作連続新曲リリース企画「モー烈モー進！リリースプロジェクト2026」の第三弾楽曲。この世界のワンダフルな真理について明るく楽しくハッピーに歌う一曲で、キャッチーなフレーズや次々",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "塩﨑太智",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "cd157eadad31df34",
+      "title": "『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット事前通販決定！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26283/",
+      "publishedAt": "2026-07-06T08:59:44.000Z",
+      "summary": "8月13日(木)～8月16日(日)に開催される『EBiDAN THE LIVE 2026 15th Anniversary』に先駆け、オフィシャルグッズ＆生写真セットの事前通販が決定いたしました！！今年も一部グッズをHM […]",
+      "groups": [
+        "EBiDAN"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "1e9d0510b81aa712",
+      "title": "8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」、 全9グループ総勢60名が出演のMUSIC VIDEOを公開！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26279/",
+      "publishedAt": "2026-07-02T09:29:16.000Z",
+      "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して、8月11日(火・祝)にリリースされるシングル「Yes! 東京」のMUSIC VIDEOを公開！ 今年15周年と節目を迎えたEBiDANは、元々学園をコンセプトに立ち […]",
+      "groups": [
+        "EBiDAN"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "2d9951067ed156e5",
+      "title": "超特急シューヤ 生配信欠席のお知らせ",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26277/",
+      "publishedAt": "2026-07-02T06:29:38.000Z",
+      "summary": "いつも超特急を応援いただき、誠にありがとうございます。 この度、メンバーのシューヤが体調不良のため、下記の生配信出演を欠席いたします。 2026年7月2日（木）18時00分 配信 『「Yes! 東京」MUSIC VIDE […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "シューヤ",
+          "group": "超特急",
+          "status": "active"
+        }
+      ]
+    },
+    {
       "id": "cecb7ab43160a02d",
       "title": "M!LK佐野勇斗、“夢”を与える立場になって感じたこととは「気を付けていかなきゃ…」",
       "sourceName": "マイナビニュース 映画",
@@ -346,6 +734,1462 @@
           "status": "active"
         }
       ]
+    },
+    {
+      "id": "a38bf114ab863cf9",
+      "title": "8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 7月2日からの先行配信リリースに合わせて デジタルキャンペーンが追加決定！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26274/",
+      "publishedAt": "2026-07-01T06:05:46.000Z",
+      "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して8月11日(火・祝)にリリースされる「Yes! 東京」が、いよいよ7月2日（木）より先行配信リリースとなります。超特急、M!LK、SUPER★DRAGON、Sakur […]",
+      "groups": [
+        "EBiDAN",
+        "超特急",
+        "M!LK",
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "4cd94d10eb100356",
+      "title": "M!LK連続リリース企画第三弾は塩﨑太智、らしさ満載の「しおざきわんだーらんど」7月6日配信",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/06/88387/",
+      "publishedAt": "2026-06-29T10:00:00.000Z",
+      "summary": "5人組ダンスボーカルグループ・M!LKの塩﨑太智が、新曲「しおざきわんだーらんど」を7月6日(月)に配信リリースすることが決定した。 夏に向けて5作連続リリース企画「モー烈モー進！リリースプロジェクト2026」を遂行中のM!LKは、4月に「アイドルパワー」、6月に曽野舜太・山中柔太朗によるユニット曲「真・運命」をリリース。続く第三弾となる「しおざきわんだーら",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "塩﨑太智",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "曽野舜太",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "f4a67df2b657e003",
+      "title": "超特急 東京ドーム公演＜追加公演＞最新チケット情報",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26270/",
+      "publishedAt": "2026-06-26T08:59:17.000Z",
+      "summary": "本日6月26日(金)18:00より『＋KIRARI』会員先行がスタート！ ご乗車お待ちしております!!!!!!!!! ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願いと注意事項】 https://b […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "734afb0a9d50e071",
+      "title": "超特急ユーキ 復帰時期に関するご報告",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26268/",
+      "publishedAt": "2026-06-26T03:29:16.000Z",
+      "summary": "いつも超特急へ温かい応援をいただき、誠にありがとうございます。 急性虫垂炎のため、休養をいただいておりました超特急メンバーのユーキですが、順調に回復へと向かっており、本人と医師とで話し合いを重ねた結果、6月27日(土)よ […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "ユーキ",
+          "group": "超特急",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "b7cd6ee67ccf035c",
+      "title": "超特急カイ 写真集「いま」NFCキーホルダー 発売決定！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26262/",
+      "publishedAt": "2026-06-25T10:59:55.000Z",
+      "summary": "タイトル：超特急カイ 「いま」NFC キーホルダー 価格：2,970 円（2,700 円＋税） サイズ： トゥクトゥクキーホルダー／横 18×奥行 40×高さ 26mm 木製キーホルダー／横 30×縦 70mm アクリル […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "カイ",
+          "group": "超特急",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "b0c5166645a61a94",
+      "title": "8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」、 7月2日に表題曲の先行配信及びMUSIC VIDEOをプレミア公開！ MUSIC VIDEO公開直前生配信も実施！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26259/",
+      "publishedAt": "2026-06-25T08:59:21.000Z",
+      "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して、8月11日(火・祝)にリリースするシングル「Yes! 東京」の表題曲を7月2日(木)より先行配信！通常配信に加えて、Dolby Atmosによる空間オーディオ配信も […]",
+      "groups": [
+        "EBiDAN"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "dab0ceec7527c4ec",
+      "title": "EBiDANと過ごす、特別な夏がやってくる！『EBiDAN museum 2026』2026年8月15日(土)より全国4会場のhmv museumで同時開催決定！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26254/",
+      "publishedAt": "2026-06-25T06:59:45.000Z",
+      "summary": "EBiDANと過ごす、特別な夏がやってくる！『EBiDAN museum 2026』2026年8月15日(土)より全国4会場のhmv museumで同時開催が決定しました！ 今年のテーマは“EBiDANの夏休み”！ 本展 […]",
+      "groups": [
+        "EBiDAN"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "8b52eae6e4732482",
+      "title": "超特急「BULLET TRAIN ARENA TOUR 2026 ESCORT」【福岡公演】機材席開放追加発売 実施決定！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26252/",
+      "publishedAt": "2026-06-24T08:59:14.000Z",
+      "summary": "福岡公演ですが、若干数の機材席開放追加販売が決定いたしました！ 6月26日(金)21:00より販売スタート！ ご乗車お待ちしております!!!!!!!!! ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "261440b7c50ff1e9",
+      "title": "EBiDAN THE LIVE 2026 15th Anniversary 最新チケット情報",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26245/",
+      "publishedAt": "2026-06-23T10:58:18.000Z",
+      "summary": "本日6月23日(火)20:00より「アップグレードチケット」受付が開始！ 「アップグレードチケット」は、対象先行にて「指定席」のチケットに当選・入金済みの方のみお申込みいただけます。 ※対象先行にお申込みいただいたお申込 […]",
+      "groups": [
+        "EBiDAN"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "1f3e3bd9c6b73f2b",
+      "title": "超特急ユーキ 急性虫垂炎に関するご報告",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26242/",
+      "publishedAt": "2026-06-22T06:59:00.000Z",
+      "summary": "いつも超特急へ温かい応援をいただき、誠にありがとうございます。 弊社所属 超特急メンバーのユーキが急性虫垂炎と診断されましたことをご報告申し上げます。 以降の復帰時期につきましては医師と相談の上、治療経過を見ながら改めて […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "ユーキ",
+          "group": "超特急",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "7fb844984569b768",
+      "title": "『BULLET TRAIN ARENA TOUR 2026 ESCORT』オフィシャルグッズ＆生写真セット 【6/27(土)、28(日)マリンメッセ福岡A館公演】会場販売＆整理券配布のお知らせ",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26232/",
+      "publishedAt": "2026-06-21T09:59:51.000Z",
+      "summary": "「BULLET TRAIN ARENA TOUR 2026 ESCORT」マリンメッセ福岡A館公演の会場販売が決定しました！ 6/27(土)、28(日)マリンメッセ福岡A館公演では、 熱中症対策・混雑緩和のため、LINE […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "acc28d47453a073a",
+      "title": "M!LKが初ミニアルバムを9月16日リリース、全7形態のほかFC限定アクスタ付きセットも販売",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/06/87977/",
+      "publishedAt": "2026-06-19T11:00:00.000Z",
+      "summary": "5人組ダンスボーカルグループ・M!LKが、グループ初となる1st Mini Albumを9月16日(水)にリリースすることを発表した。 本日6月19日(金)、M!LKは東京・LINE CUBE SHIBUYAにてファンクラブイベント「み！るきーず感謝祭2026 〜爆裂ホームパーティー〜」を開催。そのステージ上でメンバー自らファンにサプライズ発表した今回のミニ",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "1f0f6dc77d18c88d",
+      "title": "「EBiDAN THE LIVE 2026 15th Anniversary」U-NEXTにて独占ライブ配信決定！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26220/",
+      "publishedAt": "2026-06-18T09:59:41.000Z",
+      "summary": "8月13日（木）から8月16日（日）までの4日間にわたり開催される「EBiDAN THE LIVE 2026 15th Anniversary」の全4公演をU-NEXTにて生配信することが決定！ U-NEXT月額会員の方 […]",
+      "groups": [
+        "EBiDAN"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "59cd930032f47295",
+      "title": "超特急「BULLET TRAIN ARENA TOUR 2026 ESCORT」兵庫・Kアリーナ横浜公演ローソンチケットプレリクエスト最終先行実施決定！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26222/",
+      "publishedAt": "2026-06-18T08:59:32.000Z",
+      "summary": "6月20日(土) 11:00より、兵庫・Kアリーナ横浜公演のローソンチケットプレリクエスト最終先行(先着)がスタート！ ご乗車お待ちしております!!!!!!!!! ※重要：お申込み前に必ずご確認ください。 【チケットの販 […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "fb6a40e8523b91e9",
+      "title": "井上和と松井ケムリが『トイ・ストーリー５』日本版声優に決定、佐野勇斗と新キャラトリオを演じる",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/06/87909/",
+      "publishedAt": "2026-06-17T21:00:00.000Z",
+      "summary": "7月3日(金)に全国公開される映画『トイ・ストーリー５』に登場する新キャラクターの日本版声優を乃木坂46・井上和と令和ロマン・松井ケムリが務めることが決定した。 おもちゃと人との絆を描き、世代を超えて愛されてきたディズニー＆ピクサーの『トイ・ストーリー』シリーズ。最新作ではウッディ役の唐沢寿明やバズ役の所ジョージが続投するほか、新たにリリーパッド役の広瀬アリ",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "4286b1a3077348d3",
+      "title": "曽野舜太×山中柔太朗「真・運命」MV公開、2人がジャケ写衣装で対照的な美しさを魅せる",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/06/87889/",
+      "publishedAt": "2026-06-17T11:00:00.000Z",
+      "summary": "5人組ダンスボーカルグループ・M!LKの曽野舜太と山中柔太朗が、ユニット曲「真・運命」（マジ・デスティニー）のMusic Videoを公開した。 「真・運命」は、M!LKが展開中の新曲連続リリース企画「モー烈モー進！プロジェクト2026」の第二弾シングル。恋に落ちる瞬間の衝撃やどうしても抗えず惹かれ合っていく運命を描いた一曲で、誰もが耳にしたことのあるような",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "曽野舜太",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "d3ea4154f42c8acc",
+      "title": "【夢8会員限定版】『BULLET TRAIN TAKASHI 1st Photobook xemx』がスタダ便にて通信販売決定！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26217/",
+      "publishedAt": "2026-06-15T09:59:17.000Z",
+      "summary": "【夢8会員限定版】『BULLET TRAIN TAKASHI 1st Photobook xemx』のスタダ便通信販売が決定しました！ スタダ便限定で、マルタにてスタッフが撮影したオフショット＆月刊誌JUNONで連載中『 […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "21bf2eff04dfe84d",
+      "title": "【＠Loppi・HMV限定】EBiDAN15周年シングル『Yes! 東京』メンバー別グッズ付セットの発売決定！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26214/",
+      "publishedAt": "2026-06-15T09:06:11.000Z",
+      "summary": "【＠Loppi・HMV限定】EBiDAN15周年シングル『Yes! 東京』メンバー別グッズ付セットの発売が決定！ 全国のローソン店頭Loppi端末（送料手数料無料）、HMV&BOOKS onlineにて受付いたし […]",
+      "groups": [
+        "EBiDAN"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "4f92d7c954397bf5",
+      "title": "『トイ・ストーリー５』最先端タブレットがジェシーを挑発、おもちゃを圧倒する本編映像解禁",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/06/87671/",
+      "publishedAt": "2026-06-12T08:00:00.000Z",
+      "summary": "7月3日(金)より全国公開されるディズニー＆ピクサー最新作『トイ・ストーリー５』の本編映像が解禁された。 おもちゃたちの世界を舞台に、人とおもちゃのかけがえのない絆を描いてきた『トイ・ストーリー』シリーズ。最新作となる本作ではウッディやバズ、ジェシーらおなじみの仲間たちに加え最先端タブレットの“リリーパッド”が登場し、スマホやデジタル機器が当たり前となった時",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "30532290191ffe5b",
+      "title": "超特急「BULLET TRAIN ARENA TOUR 2026 ESCORT」【福岡公演】機材席開放一般発売 実施決定！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26200/",
+      "publishedAt": "2026-06-12T07:59:17.000Z",
+      "summary": "完売していた福岡公演ですが、ステージプラン確定に伴い若干数の機材席開放販売が決定いたしました！ 6月14日(日)10:00より機材席開放一般発売がスタート！ ご乗車お待ちしております!!!!!!!!! ※重要：お申込み前 […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "cc5ac2d0f2585820",
+      "title": "佐々木美玲＆森次政裕の健やかさの秘訣。共演してわかった互いの愛され力とは？",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/06/87486/",
+      "publishedAt": "2026-06-11T09:00:00.000Z",
+      "summary": "一夜限りの関係を結んだ相手は、誰もが羨むハイスペ社長だった──。 2026年4月クールで放送中のドラマ特区『あの夜、社長の子供を授かりました』は、一夜の過ちから運命が大きく変わる波乱のラブストーリー。自己評価の低さゆえに、つい自分を犠牲にして他人のために頑張りすぎてしまうヒロイン・花井栞里を佐々木美玲。そんな栞里に無償の愛を注ぐ溺愛社長・瀬古貴人を森次政裕（",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "63b99a8e04894f82",
+      "title": "伊東蒼が圧巻の表現力で“危うい”人物を演じ切る、奈緒主演映画『死ねばいいのに』本編映像解禁",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/06/87607/",
+      "publishedAt": "2026-06-11T03:00:00.000Z",
+      "summary": "7月3日(金)にテアトル新宿ほかで公開される奈緒主演映画『死ねばいいのに』より、伊東蒼演じる亜佐美にフォーカスした本編映像と場面写真が解禁された。 京極夏彦の同名小説を映画化した本作は、何者かによって殺された“亜佐美”を巡るミステリー。その“亜佐美”について尋ね歩く謎めいた人物・渡来映子を奈緒が演じ、従来のイメージを覆すアウトローな雰囲気で新境地を開拓する。",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "タクヤ",
+          "group": "超特急",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "267bbdebd2b5df1d",
+      "title": "EBiDAN THE LIVE 2026 15th Anniversary 最新チケット情報",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26198/",
+      "publishedAt": "2026-06-10T12:30:22.000Z",
+      "summary": "本日6月10日(水)20:00よりEBiDAN先行が受付開始！ 皆さんとお会いできることを楽しみにしております！ 【公演当日の本人確認について】 入場口および客席内にて、ランダムで本人確認をさせていただきます。 必ずご購 […]",
+      "groups": [
+        "EBiDAN"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "32786c31026c54f4",
+      "title": "M!LKの連続リリース第二弾「真・運命」6月17日配信、曽野舜太＆山中柔太朗が抗えない恋を歌う",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/06/87641/",
+      "publishedAt": "2026-06-10T10:50:00.000Z",
+      "summary": "5人組ダンスボーカルグループ・M!LKの曽野舜太と山中柔太朗が、6月17日(水)に2人ユニット曲「真・運命」（読み：マジ・デスティニー）を配信リリースする。 M!LKの連続リリース企画「モー烈モー進プロジェクト」の第二弾シングルとなる今作は、恋に落ちる瞬間の衝撃、どうしても抗えず惹かれあっていく運命を描いた一曲。曽野舜太と山中柔太朗の対照的な関係性や、誰しも",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "曽野舜太",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "dba7874879a32022",
+      "title": "超特急「BULLET TRAIN ARENA TOUR 2026 ESCORT」【横浜アリーナ公演】機材席開放一般発売 実施決定！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26191/",
+      "publishedAt": "2026-06-07T08:59:01.000Z",
+      "summary": "完売していた横浜アリーナ公演ですが、ステージプラン確定に伴い若干数の機材席開放販売が決定いたしました！ 6月9日(火)21:00より機材席開放一般発売がスタート！ ご乗車お待ちしております!!!!!!!!! ※重要：お申 […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "61f3f78286fe0ac8",
+      "title": "超特急 東京ドーム公演＜追加公演＞最新チケット情報",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26187/",
+      "publishedAt": "2026-06-06T08:59:33.000Z",
+      "summary": "本日6月6日(土)18:00より『夢の青春8きっぷ』会員2次先行がスタート！ ご乗車お待ちしております!!!!!!!!! ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願いと注意事項】 https:/ […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "3fb662210aaeb54f",
+      "title": "森愁斗主演『ウォーターガーディアンズ』本予告解禁、ライフセーバーの本格訓練シーンが初お披露目",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/06/87426/",
+      "publishedAt": "2026-06-05T22:00:00.000Z",
+      "summary": "森愁斗主演映画『ウォーターガーディアンズ』の公開日が8月21日(金)に決定し、本予告映像と主題歌、追加キャスト情報が一挙解禁された。 本作は、ライフセーバーを目指す若者たちの本気のひと夏を描いた青春サマームービー。思いがけずライフセーバーになるという目標を得た若者たちが友情を育み、恋と出会う姿を描く。キャストでは主人公・海翔役の森愁斗（BUDDiiS）、海翔",
+      "groups": [
+        "原因は自分にある。",
+        "BUDDiiS"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "小泉光咲",
+          "group": "原因は自分にある。",
+          "status": "active"
+        },
+        {
+          "name": "SHOOT",
+          "group": "BUDDiiS",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "3152a14bce117a36",
+      "title": "「BULLET TRAIN ARENA TOUR 2026 ESCORT」CD・Blu-ray販売 会場限定特典決定！！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26167/",
+      "publishedAt": "2026-06-05T11:59:27.000Z",
+      "summary": "6/10(水)からスタートする「BULLET TRAIN ARENA TOUR 2026 ESCORT」でのCD・Blu-ray会場限定特典が決定いたしましたのでご案内いたします。 当日会場のCD・Blu-ray・DVD […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "ba91a2a8c258541f",
+      "title": "8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 15周年盤のリミキサーを公開！ 店舗別購入者特典絵柄を発表！ さらに、『EBiDAN THE LIVE 2026 15th Anniversary』シャッフルユニット解禁！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26178/",
+      "publishedAt": "2026-06-05T08:59:49.000Z",
+      "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して、8月11日(火・祝)にリリースするシングル「Yes! 東京」の15周年盤に収録される「Yes! 東京」リミックスを手掛ける5名のアーティストが発表。EBiDANメン […]",
+      "groups": [
+        "EBiDAN"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "a7b0538adcbebdec",
+      "title": "『BULLET TRAIN ARENA TOUR 2026 ESCORT』オフィシャルグッズ＆生写真セット 【6/10(水)、11(木)横浜アリーナ公演】会場販売のお知らせ",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26159/",
+      "publishedAt": "2026-06-03T09:59:30.000Z",
+      "summary": "「BULLET TRAIN ARENA TOUR 2026 ESCORT」横浜アリーナ公演の会場販売が決定しました！ ************************** ◆公演情報/会場販売情報 【会場】神奈川・横浜ア […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "36f895500f6c8dca",
+      "title": "超特急「BULLET TRAIN ARENA TOUR 2026 ESCORT」横浜アリーナ・福岡公演 チケットトレードのお知らせ",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26157/",
+      "publishedAt": "2026-06-03T08:59:13.000Z",
+      "summary": "「BULLET TRAIN ARENA TOUR 2026 ESCORT」横浜アリーナ公演と福岡公演のチケットトレード実施が決定いたしました！ トレードへの出品、お申込みの際は必ず下記詳細をご確認のうえ、お申込みください […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "907a05018837ed91",
+      "title": "M!LKの最新エールソング「アイドルパワー」PV公開、これまでの歩みを一気に体感できる4分間",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/05/87136/",
+      "publishedAt": "2026-05-29T11:00:00.000Z",
+      "summary": "5人組ダンスボーカルグループ・M!LKが、最新プロジェクト「モー烈モー進！リリースプロジェクト2026」の幕開けを飾るデジタルシングル「アイドルパワー」のOfficial Promotion Videoを公開した。 “2026年、日本を元気に！”という力強いテーマのもと制作された「アイドルパワー」は、アイドルとしての輝きと、聴く人の背中をそっと押すエールソン",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "77758296067afbfb",
+      "title": "超特急リョウガ インフルエンザ感染に関するご報告",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26155/",
+      "publishedAt": "2026-05-29T06:29:28.000Z",
+      "summary": "いつも超特急へ温かい応援をいただき、誠にありがとうございます。 弊社所属 超特急メンバーのリョウガがインフルエンザに感染していることを確認致しましたのでご報告申し上げます。 今後につきましては、医師の判断に伴い6月1日ま […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "リョウガ",
+          "group": "超特急",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "65e05fe08015fb2a",
+      "title": "超特急「BULLET TRAIN ARENA TOUR 2026 ESCORT」横浜アリーナ・福岡公演SOLD OUT",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26149/",
+      "publishedAt": "2026-05-23T03:50:45.000Z",
+      "summary": "超特急「BULLET TRAIN ARENA TOUR 2026 ESCORT」横浜アリーナ・福岡公演 追加販売分も好評につき完売いたしました。 ご購入いただいた皆様、ありがとうございました!!!!!!!!! BULLE […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "30a7007236380421",
+      "title": "8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 全15形態のジャケット写真、封入特典のトレカ絵柄を一部公開！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26139/",
+      "publishedAt": "2026-05-22T07:59:31.000Z",
+      "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して、8月11日(火・祝)にリリースするシングル「Yes! 東京」のジャケット写真を公開！今作は通常盤、グループ盤、15周年盤の計15形態での発売となり、その中でも通常盤 […]",
+      "groups": [
+        "EBiDAN"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "00e2bc9ec2540469",
+      "title": "超特急のシューヤ＆マサヒロが初めてプロデュースするライフスタイルブランド「ROOM614（ルームロクイチヨン）」が誕生。",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26146/",
+      "publishedAt": "2026-05-22T07:19:32.000Z",
+      "summary": "ブランド名「ROOM614」は、シューヤ・マサヒロが2人で過ごしたハワイのホテルのある一室から由来。 日常の中で、“僕らを近くに感じてもらいたい”、“僕ら自身もみなさんに寄り添っていきたい”そんな二人の想いから生まれまし […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "シューヤ",
+          "group": "超特急",
+          "status": "active"
+        },
+        {
+          "name": "マサヒロ",
+          "group": "超特急",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "27305d648c6a5c60",
+      "title": "超特急『BULLET TRAIN ARENA TOUR 2026 ESCORT』オフィシャルグッズ＆生写真セット 【6/10(水)、11(木)横浜アリーナ公演】、【6/27(土)、28(日) マリンメッセ福岡A館公演】、【7/14(火)、15(水) GLION ARENA KOBE公演】〈事前購入・会場受取〉実施のお知らせ",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26124/",
+      "publishedAt": "2026-05-21T08:59:41.000Z",
+      "summary": "「BULLET TRAIN ARENA TOUR 2026 ESCORT」の会場にて、 該当公演のチケットをお持ちの方を対象に、会場で受け取り可能なオフィシャルグッズ・生写真セットの〈事前購入〉を実施いたします。 「公式 […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "8413b2c6ff8f34cd",
+      "title": "「EBiDAN THE LIVE 2026 15th Anniversary」 最新チケット情報",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26117/",
+      "publishedAt": "2026-05-20T10:59:34.000Z",
+      "summary": "本日5月20日(水)20:00よりEBiDAN 15周年 Single『Yes！東京』CDシリアル（チケット）先行〈抽選〉が受付開始！ 皆さんとお会いできることを楽しみにしております！ ＜申込条件＞ お申込みには、「EB […]",
+      "groups": [
+        "EBiDAN"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "d311ea1a88fd2c60",
+      "title": "超特急「BULLET TRAIN ARENA TOUR 2026 ESCORT」横浜アリーナ・福岡公演ローソンチケットプレリクエスト最終先行実施決定！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26114/",
+      "publishedAt": "2026-05-19T07:59:06.000Z",
+      "summary": "5月22日(金) 21:00より、横浜アリーナ・福岡公演のローソンチケットプレリクエスト最終先行(先着)がスタート！ ご乗車お待ちしております!!!!!!!!! ※重要：お申込み前に必ずご確認ください。 【チケットの販売 […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "cbde713d2a94218a",
+      "title": "超特急カイ番組欠席のお知らせ",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26112/",
+      "publishedAt": "2026-05-18T03:59:18.000Z",
+      "summary": "いつも超特急へ温かい応援をいただき、誠にありがとうございます。 弊社所属 超特急メンバーのカイが体調不良のため、下記の番組出演を欠席いたします。 2026年5月18日（月）よる19時00分 ON AIR 『CDTVライブ […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "カイ",
+          "group": "超特急",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "36ee208bc92969de",
+      "title": "超特急 東京ドーム公演 追加公演 開催決定！！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26057/",
+      "publishedAt": "2026-05-15T08:59:40.000Z",
+      "summary": "先日発表になった東京ドーム公演の＜追加公演＞チケット販売がいよいよ開始！ 本日5月15日(金)18:00より『夢の青春8きっぷ』会員限定先行がスタート！ ご乗車お待ちしております!!!!!!!!! ※重要：お申込み前に必 […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "8a2525e65219e9a6",
+      "title": "板垣李光人、綱啓永、吉川愛、MOMONAらが戦慄する『口に関するアンケート』場面写真解禁",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/05/86294/",
+      "publishedAt": "2026-05-14T22:00:00.000Z",
+      "summary": "7月3日(金)より全国公開される板垣李光人主演のホラー映画『口に関するアンケート』から場面写真11点が解禁された。 本作の原作は、昨年映画化された『近畿地方のある場所について』も話題となったホラー作家・背筋による累計32万部突破中の同名小説。手のひらサイズの装丁と60ページという短い物語の中でしっかりと恐怖を味わえる読書体験が「怖すぎて人に薦められない」「読",
+      "groups": [
+        "BUDDiiS"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "SHOOT",
+          "group": "BUDDiiS",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "ea378453deec9cda",
+      "title": "超特急カイ プロデュースブランド『KEEN AND INTENSE』2026 SS collection 【Jardin, 2026】販売決定！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26080/",
+      "publishedAt": "2026-05-13T03:04:06.000Z",
+      "summary": "縫製や素材にこだわったアイテムと、男女ともに長く愛される服を目指しユニセックス展開をしている、超特急・カイのプロデュースブランド「KEEN AND INTENSE」が2026 SS collection 【Jardin, […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "カイ",
+          "group": "超特急",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "4c00b0c4702bccf9",
+      "title": "超特急 東京ドーム公演 SOLD OUT",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26039/",
+      "publishedAt": "2026-05-10T03:30:36.000Z",
+      "summary": "超特急「東京ドーム公演」好評につき完売いたしました。 ご購入いただいた皆様、ありがとうございました!!!!!!!!! 超特急 東京ドーム公演 【東京】東京ドーム THANK YOU SOLD OUT!! 2026年11月 […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "43a14d9333f441bf",
+      "title": "超特急「BULLET TRAIN ARENA TOUR 2026 ESCORT」『夢の青春8きっぷ』会員限定 機材席開放販売 実施決定！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26032/",
+      "publishedAt": "2026-05-08T08:59:24.000Z",
+      "summary": "完売していた「BULLET TRAIN ARENA TOUR 2026 ESCORT」のチケットですが、 『夢の青春8きっぷ』会員限定 機材席開放販売 (抽選) の実施が決定いたしました！ 本日5月8日(金)18:00よ […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "247c50b1090136d4",
+      "title": "「DayDay. SUPER LIVE 2026」 超特急オフィシャルグッズ会場販売のお知らせ！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26029/",
+      "publishedAt": "2026-05-08T06:59:43.000Z",
+      "summary": "5月16日(土)出演の「DayDay. SUPER LIVE 2026」会場にて、超特急オフィシャルグッズを販売いたします！ ご来場の方はぜひグッズ販売ブースへお越しください！ ***** 【ライブ/グッズ販売情報】 ■ […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "227e54bdd5521059",
+      "title": "超特急・タカシプロデュースブランド「Freecus（フィカス）」から、New Collectionが誕生！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26023/",
+      "publishedAt": "2026-05-08T01:59:20.000Z",
+      "summary": "New Collectionでは、毎シーズン好評のネイルポリッシュから最新カラーを5色展開💅 Freecusを愛用してくださる皆さまからのお声を反映した、マグネット感ある仕上がりカラーもラインナップ！ さら […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "タカシ",
+          "group": "超特急",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "7b005ff3eabefb4a",
+      "title": "超特急 東京ドーム公演 一般発売情報",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26020/",
+      "publishedAt": "2026-05-07T08:59:06.000Z",
+      "summary": "5月10日(日)10:00より、一般発売(先着)がスタート！ ご乗車お待ちしております!!!!!!!!! ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願いと注意事項】 https://bullett […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "33412bdaeb2a7b53",
+      "title": "「EBiDAN THE LIVE 2026 15th Anniversary」 最新チケット情報",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26017/",
+      "publishedAt": "2026-05-01T11:21:05.000Z",
+      "summary": "本日5月1日(金)20:00より国内在住『＋KIRARI』/ 海外在住『＋KIRARI』会員限定先行（会員＋会員）が受付開始！ 皆さんとお会いできることを楽しみにしております！ 海外在住『＋KIRARI』会員先行について […]",
+      "groups": [
+        "EBiDAN"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "19e79035d9eb0fdf",
+      "title": "『BULLET TRAIN ARENA TOUR 2026 ESCORT』オフィシャルグッズ＆生写真セット事前通販決定！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26007/",
+      "publishedAt": "2026-04-28T08:59:39.000Z",
+      "summary": "6月10日(水)神奈川公演よりスタートする『BULLET TRAIN ARENA TOUR 2026 ESCORT』に先駆け、 オフィシャルグッズ＆生写真セットの事前通販が決定いたしました！！ ライブに欠かせない定番アイ […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "e64bef17cf6cfb13",
+      "title": "5/13(水)発売 23rd Single『ガチ夢中！』 CD SHOPチェーン別購入者特典決定！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news25997/",
+      "publishedAt": "2026-04-27T10:59:48.000Z",
+      "summary": "超特急23rd Single『ガチ夢中！』のCD SHOPチェーン別購入者特典の詳細が決定しました。 CD SHOPチェーン別購入者特典 ■UNIVERSAL MUSIC STORE オリジナルトレカ (ソロ絵柄9種 […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "b2a40a9ad1592555",
+      "title": "超特急23rd Single「ガチ夢中！」 CD封入シリアルナンバー応募抽選特典『到着後再点検 (撮り鉄付き)』イベント決定！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news25993/",
+      "publishedAt": "2026-04-24T10:59:43.000Z",
+      "summary": "いつも超特急にあたたかいご声援をいただき、誠にありがとうございます。 超特急23rd Single「ガチ夢中！」のリリースを記念して、「BULLET TRAIN ARENA TOUR 2026 ESCORT」の終演後に、 […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "2f56240a845e86c2",
+      "title": "映画『超特急 The Movie RE:VE』Blu-rayがスタダ便にて販売決定！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news25988/",
+      "publishedAt": "2026-04-21T08:59:39.000Z",
+      "summary": "映画『超特急 The Movie RE:VE』がついにBlu-rayになって発売が決定いたしました！ 約10万人を動員した史上最大規模のアリーナツアー「BULLET TRAIN ARENA TOUR 2025 EVE」に […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "2aeda7c90cad4ebc",
+      "title": "「BULLET TRAIN ARENA TOUR 2025-2026 REAL？」U-NEXTにて見放題で独占アーカイブ配信開始！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news25986/",
+      "publishedAt": "2026-04-20T09:59:40.000Z",
+      "summary": "2026年2月21日に開催された「BULLET TRAIN ARENA TOUR 2025-2026 REAL？」の模様が、U-NEXTにてアーカイブ配信開始！ U-NEXT月額会員の方なら追加料金なく、何度でもお楽しみ […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "カイ",
+          "group": "超特急",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "f7e8b6e2e9d33358",
+      "title": "超特急 東京ドーム公演 最新チケット情報",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news25983/",
+      "publishedAt": "2026-04-18T08:59:02.000Z",
+      "summary": "本日4月18日(土)18:00より三井ショッピングパーク チケット先行受付開始！ ご乗車お待ちしております!!!!!!!!! ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願いと注意事項】 https […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "7175475435219e8a",
+      "title": "超特急 東京ドーム公演 最新チケット情報",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news25971/",
+      "publishedAt": "2026-04-10T08:59:25.000Z",
+      "summary": "本日4月10日(金)18:00よりローソンチケットプレリクエスト先行受付開始！ ご乗車お待ちしております!!!!!!!!! ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願いと注意事項】 https: […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "fbda1710355b571c",
+      "title": "「EBiDAN THE LIVE 2026 15th Anniversary」開催決定！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news25965/",
+      "publishedAt": "2026-04-09T06:14:34.000Z",
+      "summary": "EBiDANによる年に一度のメンバー大集結ライブ「EBiDAN THE LIVE 2026 15th Anniversary」開催決定！ 今年は記念すべき15周年アニバーサリーイヤー。 これまで歩んできた軌跡を振り返ると […]",
+      "groups": [
+        "EBiDAN"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "d155dfe6576a0c8d",
+      "title": "EBiDAN15周年記念シングル「Yes! 東京」を8月11日(火・祝)にリリース！ 『EBiDAN THE LIVE 2026 15th Anniversary』の開催が決定！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news25957/",
+      "publishedAt": "2026-04-09T06:14:13.000Z",
+      "summary": "EBiDAN (恵比寿学園男子部)の15周年記念シングル「Yes! 東京」が8月11日(火・祝)にリリース決定！ 一人一人が多種多様で特別な個性を持ち、夢に向かって突き進むEBiDANメンバーによってパフォーマンスされる […]",
+      "groups": [
+        "EBiDAN"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "e2889c609aace2c5",
+      "title": "超特急、ついにテーマパークに！ 超特急 presents『超！トンチキランド』開園決定！！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news25954/",
+      "publishedAt": "2026-04-08T09:59:37.000Z",
+      "summary": "結成15周年目を迎えた超特急が贈る、ガチでトンチキなテーマパーク 超特急 presents『超！トンチキランド』が開園決定！ ラフォーレミュージアム原宿にて、2026年5月2日(土)〜5月24日(日)の期間限定で開園しま […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "dd1fa2571a555a57",
+      "title": "『SUPERSTAR EBiDAN』祝2.5周年！大人気テーマが「リアルカード」として登場！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news25947/",
+      "publishedAt": "2026-04-08T07:58:56.000Z",
+      "summary": "EBiDAN公式リズムゲームアプリ『SUPERSTAR EBiDAN』(シュスエビ)では、2.5周年を記念し、 4月9日(木)メンテナンス後よりゲーム内にてキャンペーンを実施いたします。 期間中は、カードをデジタル上でも […]",
+      "groups": [
+        "EBiDAN"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "e2cd449f7bdbbde9",
+      "title": "超特急 23rd Single 『ガチ夢中！』 リリース記念特典会開催決定！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news25925/",
+      "publishedAt": "2026-04-03T12:00:44.000Z",
+      "summary": "いつも超特急にあたたかいご声援をいただき、誠にありがとうございます。 超特急23rd Single 『ガチ夢中！』のリリースを記念して、HMV&BOOKS online／TOWER RECORDS ONLINE／ […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "5a0d7aac112ccec2",
+      "title": "超特急「HARU 21st Anniversary SPECIAL GOODS」&生写真・ミニフォトセットの受注販売が決定！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news25899/",
+      "publishedAt": "2026-03-31T07:59:15.000Z",
+      "summary": "14号車ハルの21歳の誕生日を記念して、FC会員限定で「HARU 21st Anniversary SPECIAL GOODS」&生写真・ミニフォトセットを受注販売いたします！ 商品をご購入いただいたお客様にはオ […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "ハル",
+          "group": "超特急",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "da267c43878233d3",
+      "title": "超特急 東京ドーム公演 最新チケット情報 3/29更新",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news25889/",
+      "publishedAt": "2026-03-30T08:59:34.000Z",
+      "summary": "本日3月30日(月)18:00より『＋KIRARI』会員先行がスタート！ ご乗車お待ちしております!!!!!!!!! ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願いと注意事項】 https://b […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "9e13ec8406dd952d",
+      "title": "10 万パック突破記念 POP UP STORE 開催&デジタルカード発売決定！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news25883/",
+      "publishedAt": "2026-03-28T03:59:28.000Z",
+      "summary": "皆様のおかげで超特急リョウガトレーディングカード「RYOGA THE CARD 〜Eternal Moment〜」は 10 万パックを突破しました！ 記念して POP UP STORE を開催します！ 【開催店舗】 HM […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "リョウガ",
+          "group": "超特急",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "c64c5d15cc2bc789",
+      "title": "「VS.超特急」 超特急オフィシャルグッズ会場販売のお知らせ！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news25875/",
+      "publishedAt": "2026-03-27T07:59:41.000Z",
+      "summary": "3/31(火)、4/1(水)に開催される「VS.超特急」の会場にて、超特急オフィシャルグッズを販売いたします。 ご来場予定の方はぜひ物販ブースへお立ち寄りください♪ ***** 【ライブ/グッズ販売情報】 ■VS.超特急 […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "26a024fa7383e819",
+      "title": "超特急「SHUYA 31st Anniversary SPECIAL GOODS」&生写真・ミニフォトセットの受注販売が決定！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news25858/",
+      "publishedAt": "2026-03-25T07:59:33.000Z",
+      "summary": "11号車シューヤの31歳の誕生日を記念して、FC会員限定で「SHUYA 31st Anniversary SPECIAL GOODS」&生写真・ミニフォトセットを受注販売いたします！ 商品をご購入いただいたお客様 […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "シューヤ",
+          "group": "超特急",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "8c827783dbe141fe",
+      "title": "『BULLET TRAIN ARENA TOUR 2025-2026 REAL？』LIVE生写真セット＆ミニフォトセット販売決定！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news25847/",
+      "publishedAt": "2026-03-24T07:59:15.000Z",
+      "summary": "『BULLET TRAIN ARENA TOUR 2025-2026 REAL？』LIVE生写真セット＆ミニフォトセットの販売が決定いたしました！ 公演の熱狂を凝縮したラインナップとなっております。ぜひこの機会にお買い求 […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "bcf3bced2e5a037d",
+      "title": "5月13日(水) 23rd Single『ガチ夢中！』発売決定！さらに新アー写も公開！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news25823/",
+      "publishedAt": "2026-03-19T09:59:25.000Z",
+      "summary": "5月13日（水）、超特急23rd Single『ガチ夢中！』の発売が決定いたしました！ 2026年11月25日の東京ドーム公演開催を発表した超特急。 その発表後初となる楽曲は、 「全世界、すべての愛の力を全力で讃える！」 […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "67ad0ccc6e42cad0",
+      "title": "【夢8会員限定版】『BULLET TRAIN ALOHA&HARU CONCEPT PHOTOBOOK アイハヨルノイロ』がスタダ便にて通信販売決定！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news25806/",
+      "publishedAt": "2026-03-15T07:05:02.000Z",
+      "summary": "【夢8会員限定版】『BULLET TRAIN ALOHA&HARU CONCEPT PHOTOBOOK アイハヨルノイロ』のスタダ便通信販売が決定しました！ スタダ便限定で、写真集には掲載しきれなかった未使用カッ […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "205d009fc8686ce8",
+      "title": "超特急 東京ドーム公演 最新チケット情報",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news25800/",
+      "publishedAt": "2026-03-14T05:59:36.000Z",
+      "summary": "本日3月14日(土)15:00より『夢の青春8きっぷ』会員2次先行がスタート！ ご乗車お待ちしております!!!!!!!!! ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願いと注意事項】 https: […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "fe869eca3773e61e",
+      "title": "『【FC会員限定】超特急号外(東京ドーム)』配布決定！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news25786/",
+      "publishedAt": "2026-03-12T09:59:19.000Z",
+      "summary": "お待たせしました！2026年2月21日(土)に配布しました号外を、数量限定でFC会員様へ無料でお送りいたします!!!!!!!!! ご希望の方は記念の一枚として、ぜひお申し込みください♪ ***************** […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "106dc0ff643f2144",
+      "title": "3/14 (土)出演「D.U.N.K. Showcase in K-Arena Yokohama 2026」超特急オフィシャルグッズ 会場販売のお知らせ",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news25774/",
+      "publishedAt": "2026-03-11T09:59:34.000Z",
+      "summary": "「D.U.N.K. Showcase in K-Arena Yokohama 2026」の会場にて、超特急のオフィシャルグッズを販売いたします！ ONE N’ ONLYのオフィシャルグッズも同じ物販卓にてあわ […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "bd490f1ad93de683",
+      "title": "ライブセトリプレイリスト公開中！ 4/1 更新",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news23296/",
+      "publishedAt": "2026-03-07T11:59:55.000Z",
+      "summary": "超特急が出演したライブのセットリストを公開中！ ぜひ配信サイトでチェックしてください！ プレイリストは随時更新していきます！ ========= 📍4/1(水)『VS.超特急ライブ』DAY2 超特急がパフォーマンスした楽 […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "0b022a3e013507c2",
+      "title": "『BULLET TRAIN ARENA TOUR 2025-2026 REAL？』オフィシャルグッズ&生写真セット事後通販決定！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news25723/",
+      "publishedAt": "2026-02-26T07:59:58.000Z",
+      "summary": "『BULLET TRAIN ARENA TOUR 2025-2026 REAL？』オフィシャルグッズ&生写真セットの事後通販が決定いたしました！ 残りわずかな商品もございますので、この機会をお見逃しなく！！ さら […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "8b3e2eb6358b5791",
+      "title": "「超特急応援広告」受付終了のお知らせ",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news25711/",
+      "publishedAt": "2026-02-25T10:07:56.000Z",
+      "summary": "いつも超特急を応援していただき、誠にありがとうございます。 多くのファンの皆様より、これまで多大なる愛情が込められた応援広告を掲出していただきましたこと、本人ならびにスタッフ一同、心より感謝申し上げます。 この度、今後の […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "e11cc31634c5147c",
+      "title": "「POKER FACE」 SNSシェアキャンペーン決定！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news25709/",
+      "publishedAt": "2026-02-24T12:59:52.000Z",
+      "summary": "お使いのストリーミングサービスで超特急「POKER FACE」をお気に入り登録＆楽曲をシェアしてくれた方全員に「”I am a Joker”メンバーソロ 自撮り画像」を差し上げます。 この機会にぜひご応募ください！ 【特 […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "b6ad04678f90e66a",
+      "title": "BULLET TRAIN ARENA TOUR 2025-2026 REAL？セトリプレイリスト公開！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news25678/",
+      "publishedAt": "2026-02-22T00:59:47.000Z",
+      "summary": "「BULLET TRAIN ARENA TOUR 2025-2026 REAL？」にて披露した楽曲のプレイリストを公開しました！ 0時より配信がスタートしている「One/O Signal」「Revival Love」「W […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "729459f8d4d9ade8",
+      "title": "「REAL？」で披露した楽曲をRe-ver.として配信スタート！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news25675/",
+      "publishedAt": "2026-02-21T14:59:09.000Z",
+      "summary": "『BULLET TRAIN ARENA TOUR 2025-2026 REAL？』で披露した楽曲 「One/O Signal」「Revival Love」「Winter Show」「You Don’t Care」、「Cl […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "ccad862545eb4983",
+      "title": "「REAL？」で披露した楽曲をRe-ver.として配信決定！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news25673/",
+      "publishedAt": "2026-02-21T12:59:19.000Z",
+      "summary": "本日最終公演を迎えた「BULLET TRAIN ARENA TOUR 2025-2026 REAL？」の中で披露した楽曲を このあと2月22日(日)0:00に「Re-ver.」での配信リリースが決定しました！ 今回のツア […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "49f3518ed81ad2bb",
+      "title": "超特急 PR号外配布について",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news25703/",
+      "publishedAt": "2026-02-21T12:08:09.000Z",
+      "summary": "【超特急 PR号外配布について】 本日配布いたしました号外につきまして、時間帯や配布場所の関係で受け取れなかった方もいらっしゃるかと存じます。 つきましては別途、スタダ便にて追加配布の対応を調整させていただきます。 3月 […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "51b96561efd3b778",
+      "title": "超特急 東京ドーム公演開催決定！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news25700/",
+      "publishedAt": "2026-02-21T10:29:14.000Z",
+      "summary": "念願の東京ドーム公演の開催が決定しました！ 本日2月21日(土)19:30より『夢の青春8きっぷ』会員先行がスタート！ ご乗車お待ちしております!!!!!!!!! ※重要：お申込み前に必ずご確認ください。 【チケットの販 […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "5908cd82631f9b5a",
+      "title": "超特急「BULLET TRAIN ARENA TOUR 2025-2026 REAL？」東京公演チケット最新情報",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news25692/",
+      "publishedAt": "2026-02-19T09:33:23.000Z",
+      "summary": "東京公演ですが、ステージプラン確定に伴い若干数の機材席開放販売が決定いたしました！ 明日2月20日(金)12：00より機材席開放一般発売がスタート！ 会場で皆さんとお会いできることを楽しみにしております！ ※重要：お申込 […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "e2e04d8c5b716765",
+      "title": "【SUPERSTAR EBiDAN】 「BULLET TRAIN ARENA TOUR 2025-2026 REAL?」開催記念 ゲーム内イベント実施！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news25687/",
+      "publishedAt": "2026-02-19T07:59:34.000Z",
+      "summary": "EBiDAN公式リズムゲーム『SUPERSTAR EBiDAN』では、 「BULLET TRAIN ARENA TOUR 2025-2026 REAL?」の開催を記念して、ゲーム内イベントを実施します。 ■実施期間： 2 […]",
+      "groups": [
+        "EBiDAN",
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "08f930c58f38a5a5",
+      "title": "超特急 LIVE Blu-ray＆DVD BULLET TRAIN ARENA TOUR 2024-2025「Joker」 パッケージ封入シリアルナンバー応募抽選特典「メンバー全員サイン会（撮り鉄付き）」開催決定！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news25649/",
+      "publishedAt": "2026-02-16T09:59:02.000Z",
+      "summary": "いつも超特急に温かいご声援をいただき、誠にありがとうございます。 LIVE Blu-ray＆DVD BULLET TRAIN ARENA TOUR 2024-2025「Joker」のリリースを記念して、シリアルナンバー特 […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "a22e8e582eafd264",
+      "title": "「BULLET TRAIN ARENA TOUR 2025-2026 REAL？」オフィシャルグッズ＆生写真セット 【2/20(金)、21(土)東京公演】会場販売のお知らせ",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news25642/",
+      "publishedAt": "2026-02-13T07:59:41.000Z",
+      "summary": "「BULLET TRAIN ARENA TOUR 2025-2026 REAL？」東京公演の会場販売が決定しました！ ************************** ◆公演情報/会場販売情報 【会場】東京・国立代々 […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "4ef74123e0b4e883",
+      "title": "超特急「BULLET TRAIN ARENA TOUR 2025-2026 REAL？」東京公演チケットトレードのお知らせ",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news25637/",
+      "publishedAt": "2026-02-10T08:56:37.000Z",
+      "summary": "東京公演のチケットトレードの実施が決定いたしました！ 各チケットトレードの出品・購入ページへは「EBiDAN TICKET CHANCE(通称：えびちゃん)」よりお進みください。 ★えびちゃん：https://ebida […]",
+      "groups": [
+        "EBiDAN",
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "771e33a44a267d94",
+      "title": "超特急「BULLET TRAIN ARENA TOUR 2026 ESCORT」SOLD OUT",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news25629/",
+      "publishedAt": "2026-02-09T04:42:03.000Z",
+      "summary": "超特急「BULLET TRAIN ARENA TOUR 2026 ESCORT」好評につき完売いたしました。 ご購入いただいた皆様、ありがとうございました!!!!!!!!! BULLET TRAIN ARENA TOUR […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "f3b4f8f9bd6a0793",
+      "title": "「BULLET TRAIN ARENA TOUR 2025-2026 “REAL?”」会場限定特典決定！！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news25175/",
+      "publishedAt": "2026-02-06T08:59:54.000Z",
+      "summary": "11/29(土)からスタートする「BULLET TRAIN ARENA TOUR 2025-2026“REAL?”」でのCD・Blu-ray会場限定特典が決定いたしましたのでご案内いたします。 当日会場のCD・Blu-r […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "d4a6c9bb20ed0f84",
+      "title": "超特急「BULLET TRAIN ARENA TOUR 2025-2026 REAL？」チケット最新情報",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news25627/",
+      "publishedAt": "2026-02-06T07:54:35.000Z",
+      "summary": "予定枚数終了となっておりました東京公演ですが、機材席開放に伴い追加販売が決定いたしました！ 2月8日(日)12：00より機材席開放一般発売がスタート！ 会場で皆さんとお会いできることを楽しみにしております！ ※重要：お申 […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "b8a87ba247c0029a",
+      "title": "超特急「BULLET TRAIN ARENA TOUR 2025-2026 REAL？」香川公演チケット最新情報2/6更新",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news25625/",
+      "publishedAt": "2026-02-06T02:59:13.000Z",
+      "summary": "香川公演ですが、ステージプラン確定に伴い機材席開放販売が決定いたしました！ 2月7日(土)10：00より機材席開放一般発売がスタート！ 会場で皆さんとお会いできることを楽しみにしております！ ※重要：お申込前に必ずご確認 […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
     }
   ]
 }
