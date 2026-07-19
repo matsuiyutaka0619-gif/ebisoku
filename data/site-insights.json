@@ -1,22 +1,22 @@
 {
-  "updatedAt": "2026-07-19T08:32:51.292Z",
+  "updatedAt": "2026-07-19T13:53:36.310Z",
   "totals": {
     "all": 160,
-    "today": 1,
-    "week": 27
+    "today": 3,
+    "week": 26
   },
   "groupRanking": [
     {
-      "name": "M!LK",
-      "count": 11
+      "name": "EBiDAN",
+      "count": 9
     },
     {
-      "name": "EBiDAN",
+      "name": "M!LK",
       "count": 8
     },
     {
       "name": "SUPER★DRAGON",
-      "count": 6
+      "count": 7
     },
     {
       "name": "超特急",
@@ -25,15 +25,15 @@
     {
       "name": "原因は自分にある。",
       "count": 3
+    },
+    {
+      "name": "ONE N' ONLY",
+      "count": 1
     }
   ],
   "memberRanking": [
     {
       "name": "リョウガ",
-      "count": 4
-    },
-    {
-      "name": "佐野勇斗",
       "count": 4
     },
     {
@@ -58,6 +58,10 @@
     },
     {
       "name": "吉田仁人",
+      "count": 1
+    },
+    {
+      "name": "佐野勇斗",
       "count": 1
     },
     {
@@ -99,17 +103,118 @@
       "count": 2
     },
     {
-      "name": "WWSチャンネル",
-      "count": 1
-    },
-    {
-      "name": "マイナビニュース 映画",
+      "name": "マイナビニュース エンタメ",
       "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
+    "SUPER★DRAGON": [
+      {
+        "id": "3c2bcff2d43dff25",
+        "title": "SUPER★DRAGONが語る、9人だけのクリエイティブ 11年目も“唯一無二”であり続ける理由",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20260719-4719880/",
+        "publishedAt": "2026-07-19T12:00:00.000Z",
+        "summary": "2015年の結成から1人も欠けずに活動を続け、昨年10周年を迎えた9人組ミクスチャーユニット・SUPER★DRAGON。メンバーが精力的に楽曲制作やグッズなどのプロデュースに携わり、自分たちのクリエイティビティを高め続けている。初の両A面と・・・",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "6ebb8f3d97b777e2",
+        "title": "【飯島颯】舞台「えぶりでいホスト」出演決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11419/",
+        "publishedAt": "2026-07-17T09:00:58.000Z",
+        "summary": "HAPPEY MUSICAL「えぶりでいホスト」 【開催日時】 2026年11月6日（金）～11月15日（日） 【会場】 シアターH 【原作】 ごとうにも「えぶりでいホスト」（あすかコミックス DX／KADOKAWA 刊 […] The post 【飯島颯】舞台「えぶりでいホスト」出演決定！ first appeared on SUPER★DRAGON .",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "飯島颯",
+            "group": "SUPER★DRAGON",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "c7b72ffb52ec68c8",
+        "title": "田中洸希 7/20(月祝)オンライン特典会 欠席のお知らせ",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11430/",
+        "publishedAt": "2026-07-17T07:15:22.000Z",
+        "summary": "いつもSUPER★DRAGONを応援していただき、誠にありがとうございます。 2026年7月20日(月祝)出演を予定しておりました「夏休みオンライン特典会」をスケジュールの都合により、田中洸希は欠席とさせて頂きます。 直 […] The post 田中洸希 7/20(月祝)オンライン特典会 欠席のお知らせ first appeared on SUPER★DR",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "田中洸希",
+            "group": "SUPER★DRAGON",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "1001bcc1100d7db2",
+        "title": "『EBiDAN 15th Anniversaryオフィシャルグッズ』の販売が決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11432/",
+        "publishedAt": "2026-07-17T07:00:40.000Z",
+        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念いたしまして、『EBiDAN 15th Anniversaryオフィシャルグッズ』の販売が決定いたしました！ ロゴが映えるリキッドキーホルダーやファーキーホルダー、メンバ […] The post 『EBiDAN 15th Anniversaryオフィシャルグッズ』の販売が決定！ first appeared",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "82fcaa2a2e4698d7",
+        "title": "2026年8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 《第3弾》 CD予約購入キャンペーン 抽選用シリアルナンバー1次受付スタート＆各日程の参加メンバー解禁！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11413/",
+        "publishedAt": "2026-07-17T03:00:09.000Z",
+        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して、8月11日(火・祝)にリリースするシングル「Yes! 東京」の《第３弾》CD予約・購入特典キャンペーン、抽選用シリアルナンバーの受付がスタートしました […] The post 2026年8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 《第3弾》 CD予約購入キャンペーン 抽選用シリ",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
     "EBiDAN": [
+      {
+        "id": "99b12e04ffc826a7",
+        "title": "ONE N’ ONLY、楽曲もダンスもとにかく癖になる「Samba de Night Fever」ダンスプラクティスビデオを公開",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000849311/",
+        "publishedAt": "2026-07-19T09:30:41.000Z",
+        "summary": "EBiDAN(恵比寿男子学園部)所属のONE N’ ONLY（ワンエンオンリー）が、メジャー2ndシングル「WA...",
+        "groups": [
+          "EBiDAN",
+          "ONE N' ONLY"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
       {
         "id": "90e9df0fd05da9b8",
         "title": "原因は自分にある。メンバーがアルバイト料理人に!?新曲「火宴」MV公開",
@@ -167,18 +272,20 @@
         ],
         "statuses": [],
         "memberMatches": []
-      },
+      }
+    ],
+    "ONE N' ONLY": [
       {
-        "id": "82fcaa2a2e4698d7",
-        "title": "2026年8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 《第3弾》 CD予約購入キャンペーン 抽選用シリアルナンバー1次受付スタート＆各日程の参加メンバー解禁！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11413/",
-        "publishedAt": "2026-07-17T03:00:09.000Z",
-        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して、8月11日(火・祝)にリリースするシングル「Yes! 東京」の《第３弾》CD予約・購入特典キャンペーン、抽選用シリアルナンバーの受付がスタートしました […] The post 2026年8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 《第3弾》 CD予約購入キャンペーン 抽選用シリ",
+        "id": "99b12e04ffc826a7",
+        "title": "ONE N’ ONLY、楽曲もダンスもとにかく癖になる「Samba de Night Fever」ダンスプラクティスビデオを公開",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000849311/",
+        "publishedAt": "2026-07-19T09:30:41.000Z",
+        "summary": "EBiDAN(恵比寿男子学園部)所属のONE N’ ONLY（ワンエンオンリー）が、メジャー2ndシングル「WA...",
         "groups": [
           "EBiDAN",
-          "SUPER★DRAGON"
+          "ONE N' ONLY"
         ],
         "statuses": [],
         "memberMatches": []
@@ -287,28 +394,6 @@
     ],
     "M!LK": [
       {
-        "id": "e6e5db0dae6601bc",
-        "title": "乃木坂46一ノ瀬美空『Ray』単独初表紙！特別版の表紙にはM!LK佐野勇斗が登場",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000849111/",
-        "publishedAt": "2026-07-18T10:34:20.000Z",
-        "summary": "女性ファッション誌『Ray』2026年9月号が、7月23日に発売される。 ■乃木坂46への熱い想いを語...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
         "id": "ef95f37f551f98c9",
         "title": "M!LK、新曲“You!Joy!Parade!”が吉沢亮出演のマクドナルド新TVCM「ポケモン30周年バーガー」篇CMソングに起用。7月21日全国放映開始",
         "sourceName": "タワーレコード ニュース",
@@ -321,28 +406,6 @@
         ],
         "statuses": [],
         "memberMatches": []
-      },
-      {
-        "id": "de299a89f6cd8dff",
-        "title": "M!LK佐野勇斗がVOCE初表紙！5000字超のロングインタビューでアイドルとしての本音と覚悟を語る",
-        "sourceName": "WWSチャンネル",
-        "sourceUrl": "https://www.wws-channel.com/feed",
-        "articleUrl": "https://www.wws-channel.com/magazine_book/656009.html",
-        "publishedAt": "2026-07-17T11:49:11.000Z",
-        "summary": "M!LKの佐野勇斗が、7月22日発売の美容誌「VOCE」2026年9月号Special Editionで初めて表紙を飾る。誌面では、ビューティー界に降臨した爆裂ツヤさのをテーマに撮影を実施。美容については普通だと話していた佐野だが、取材を進める中で明らかになった、こだわ ... The post M!LK佐野勇斗がVOCE初表紙！5000字超のロングインタビ",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
       },
       {
         "id": "aeb8d52a36d7610c",
@@ -379,97 +442,56 @@
             "status": "active"
           }
         ]
-      }
-    ],
-    "SUPER★DRAGON": [
+      },
       {
-        "id": "6ebb8f3d97b777e2",
-        "title": "【飯島颯】舞台「えぶりでいホスト」出演決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11419/",
-        "publishedAt": "2026-07-17T09:00:58.000Z",
-        "summary": "HAPPEY MUSICAL「えぶりでいホスト」 【開催日時】 2026年11月6日（金）～11月15日（日） 【会場】 シアターH 【原作】 ごとうにも「えぶりでいホスト」（あすかコミックス DX／KADOKAWA 刊 […] The post 【飯島颯】舞台「えぶりでいホスト」出演決定！ first appeared on SUPER★DRAGON .",
+        "id": "8bfa45a81732bc59",
+        "title": "吉田仁人（M!LK）、「カラリア」アンバサダーに就任",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/07/15/tg006",
+        "publishedAt": "2026-07-15T11:30:00.000Z",
+        "summary": "",
         "groups": [
-          "SUPER★DRAGON"
+          "M!LK"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "飯島颯",
-            "group": "SUPER★DRAGON",
+            "name": "吉田仁人",
+            "group": "M!LK",
             "status": "active"
           }
         ]
       },
       {
-        "id": "c7b72ffb52ec68c8",
-        "title": "田中洸希 7/20(月祝)オンライン特典会 欠席のお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11430/",
-        "publishedAt": "2026-07-17T07:15:22.000Z",
-        "summary": "いつもSUPER★DRAGONを応援していただき、誠にありがとうございます。 2026年7月20日(月祝)出演を予定しておりました「夏休みオンライン特典会」をスケジュールの都合により、田中洸希は欠席とさせて頂きます。 直 […] The post 田中洸希 7/20(月祝)オンライン特典会 欠席のお知らせ first appeared on SUPER★DR",
+        "id": "c9838472a5495915",
+        "title": "山中柔太朗が“国宝級イケメン”でファン歓喜 「私の推しって最高」「確実に山中柔太朗の時代がきている」",
+        "sourceName": "マイナビニュース 芸能",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
+        "articleUrl": "https://news.mynavi.jp/article/20260715-4705231/",
+        "publishedAt": "2026-07-15T09:52:44.000Z",
+        "summary": "講談社は15日、「ViVi国宝級イケメンランキング 2026年上半期」の結果を発表した。NOW部門ではM!LKの山中柔太朗が初の1位を獲得。NEXT部門では原因は自分にある。の杢代和人が悲願の首位に輝き、ADULT部門ではSixTONESの松村北斗が1位となった。",
         "groups": [
-          "SUPER★DRAGON"
+          "M!LK",
+          "原因は自分にある。"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "田中洸希",
-            "group": "SUPER★DRAGON",
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "杢代和人",
+            "group": "原因は自分にある。",
             "status": "active"
           }
         ]
-      },
-      {
-        "id": "1001bcc1100d7db2",
-        "title": "『EBiDAN 15th Anniversaryオフィシャルグッズ』の販売が決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11432/",
-        "publishedAt": "2026-07-17T07:00:40.000Z",
-        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念いたしまして、『EBiDAN 15th Anniversaryオフィシャルグッズ』の販売が決定いたしました！ ロゴが映えるリキッドキーホルダーやファーキーホルダー、メンバ […] The post 『EBiDAN 15th Anniversaryオフィシャルグッズ』の販売が決定！ first appeared",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "82fcaa2a2e4698d7",
-        "title": "2026年8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 《第3弾》 CD予約購入キャンペーン 抽選用シリアルナンバー1次受付スタート＆各日程の参加メンバー解禁！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11413/",
-        "publishedAt": "2026-07-17T03:00:09.000Z",
-        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して、8月11日(火・祝)にリリースするシングル「Yes! 東京」の《第３弾》CD予約・購入特典キャンペーン、抽選用シリアルナンバーの受付がスタートしました […] The post 2026年8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 《第3弾》 CD予約購入キャンペーン 抽選用シリ",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "6d6179aa4b081875",
-        "title": "「Yes! 駆け込め! 僕らのEBiSTORE」の開催が決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11408/",
-        "publishedAt": "2026-07-16T07:00:05.000Z",
-        "summary": "EBiDAN15周年記念シングル「Yes! 東京」リリース＆『EBiDAN THE LIVE 2026 15th Anniversary』の開催を記念してSHIBUYA TSUTAYAにてコラボレーションカ […] The post 「Yes! 駆け込め! 僕らのEBiSTORE」の開催が決定！ first appeared on SUPER★DRAGON ",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
       }
     ],
     "超特急": [

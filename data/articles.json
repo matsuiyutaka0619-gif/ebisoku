@@ -1,6 +1,35 @@
 {
-  "updatedAt": "2026-07-19T08:32:51.290Z",
+  "updatedAt": "2026-07-19T13:53:36.308Z",
   "articles": [
+    {
+      "id": "3c2bcff2d43dff25",
+      "title": "SUPER★DRAGONが語る、9人だけのクリエイティブ 11年目も“唯一無二”であり続ける理由",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260719-4719880/",
+      "publishedAt": "2026-07-19T12:00:00.000Z",
+      "summary": "2015年の結成から1人も欠けずに活動を続け、昨年10周年を迎えた9人組ミクスチャーユニット・SUPER★DRAGON。メンバーが精力的に楽曲制作やグッズなどのプロデュースに携わり、自分たちのクリエイティビティを高め続けている。初の両A面と・・・",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "99b12e04ffc826a7",
+      "title": "ONE N’ ONLY、楽曲もダンスもとにかく癖になる「Samba de Night Fever」ダンスプラクティスビデオを公開",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000849311/",
+      "publishedAt": "2026-07-19T09:30:41.000Z",
+      "summary": "EBiDAN(恵比寿男子学園部)所属のONE N’ ONLY（ワンエンオンリー）が、メジャー2ndシングル「WA...",
+      "groups": [
+        "EBiDAN",
+        "ONE N' ONLY"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "90e9df0fd05da9b8",
       "title": "原因は自分にある。メンバーがアルバイト料理人に!?新曲「火宴」MV公開",
@@ -15,28 +44,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "e6e5db0dae6601bc",
-      "title": "乃木坂46一ノ瀬美空『Ray』単独初表紙！特別版の表紙にはM!LK佐野勇斗が登場",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000849111/",
-      "publishedAt": "2026-07-18T10:34:20.000Z",
-      "summary": "女性ファッション誌『Ray』2026年9月号が、7月23日に発売される。 ■乃木坂46への熱い想いを語...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "8ff110acc153a48a",
@@ -65,28 +72,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "de299a89f6cd8dff",
-      "title": "M!LK佐野勇斗がVOCE初表紙！5000字超のロングインタビューでアイドルとしての本音と覚悟を語る",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/magazine_book/656009.html",
-      "publishedAt": "2026-07-17T11:49:11.000Z",
-      "summary": "M!LKの佐野勇斗が、7月22日発売の美容誌「VOCE」2026年9月号Special Editionで初めて表紙を飾る。誌面では、ビューティー界に降臨した爆裂ツヤさのをテーマに撮影を実施。美容については普通だと話していた佐野だが、取材を進める中で明らかになった、こだわ ... The post M!LK佐野勇斗がVOCE初表紙！5000字超のロングインタビ",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "aeb8d52a36d7610c",
