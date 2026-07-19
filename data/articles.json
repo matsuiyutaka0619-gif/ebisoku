@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-07-19T03:53:51.128Z",
+  "updatedAt": "2026-07-19T08:32:51.290Z",
   "articles": [
+    {
+      "id": "90e9df0fd05da9b8",
+      "title": "原因は自分にある。メンバーがアルバイト料理人に!?新曲「火宴」MV公開",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000849290/",
+      "publishedAt": "2026-07-19T08:00:35.000Z",
+      "summary": "EBiDAN（恵比寿学園男子部）の一員である7人組ダンスボーカルグループ・原因は自分にある。の...",
+      "groups": [
+        "EBiDAN",
+        "原因は自分にある。"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "e6e5db0dae6601bc",
       "title": "乃木坂46一ノ瀬美空『Ray』単独初表紙！特別版の表紙にはM!LK佐野勇斗が登場",
@@ -18,50 +33,6 @@
       "memberMatches": [
         {
           "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "2fd58687d65953f8",
-      "title": "「この子にふるさと納税したい」「いい子すぎます…」M!LK曽野舜太の“家族への思い”にファン感動",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-      "articleUrl": "https://news.mynavi.jp/article/20260718-4704332/",
-      "publishedAt": "2026-07-18T10:00:00.000Z",
-      "summary": "「いい親の元に育ちました」アイドルグループ・M!LKの曽野舜太が、家族への思いを語った―。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "曽野舜太",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "c317e8d7897bc58a",
-      "title": "笑顔の塩﨑太智を虚無顔のM!LKメンバーが囲んだ『Mステ』オフショットに「佐野くん睨んでる（笑）」「みんなかわいい」「4人の表情ｗｗｗ」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000849065/",
-      "publishedAt": "2026-07-18T07:58:28.000Z",
-      "summary": "7月18日放送の『ミュージックステーション 1500回記念 夏の2時間スペシャル』に出演したM!LK。...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "塩﨑太智",
           "group": "M!LK",
           "status": "active"
         }
@@ -2711,6 +2682,20 @@
           "status": "active"
         }
       ]
+    },
+    {
+      "id": "e64bef17cf6cfb13",
+      "title": "5/13(水)発売 23rd Single『ガチ夢中！』 CD SHOPチェーン別購入者特典決定！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news25997/",
+      "publishedAt": "2026-04-27T10:59:48.000Z",
+      "summary": "超特急23rd Single『ガチ夢中！』のCD SHOPチェーン別購入者特典の詳細が決定しました。 CD SHOPチェーン別購入者特典 ■UNIVERSAL MUSIC STORE オリジナルトレカ (ソロ絵柄9種 […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
     }
   ]
 }

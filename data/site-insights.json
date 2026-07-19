@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-07-19T03:53:51.130Z",
+  "updatedAt": "2026-07-19T08:32:51.292Z",
   "totals": {
     "all": 160,
-    "today": 0,
-    "week": 28
+    "today": 1,
+    "week": 27
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 13
+      "count": 11
     },
     {
       "name": "EBiDAN",
-      "count": 7
+      "count": 8
     },
     {
       "name": "SUPER★DRAGON",
@@ -24,7 +24,7 @@
     },
     {
       "name": "原因は自分にある。",
-      "count": 2
+      "count": 3
     }
   ],
   "memberRanking": [
@@ -41,20 +41,20 @@
       "count": 3
     },
     {
-      "name": "曽野舜太",
-      "count": 3
-    },
-    {
       "name": "マサヒロ",
       "count": 2
     },
     {
-      "name": "塩﨑太智",
+      "name": "曽野舜太",
       "count": 2
     },
     {
       "name": "杢代和人",
       "count": 2
+    },
+    {
+      "name": "塩﨑太智",
+      "count": 1
     },
     {
       "name": "吉田仁人",
@@ -103,121 +103,28 @@
       "count": 1
     },
     {
-      "name": "マイナビニュース エンタメ",
-      "count": 1
-    },
-    {
       "name": "マイナビニュース 映画",
       "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
-    "M!LK": [
+    "EBiDAN": [
       {
-        "id": "e6e5db0dae6601bc",
-        "title": "乃木坂46一ノ瀬美空『Ray』単独初表紙！特別版の表紙にはM!LK佐野勇斗が登場",
+        "id": "90e9df0fd05da9b8",
+        "title": "原因は自分にある。メンバーがアルバイト料理人に!?新曲「火宴」MV公開",
         "sourceName": "THE FIRST TIMES",
         "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000849111/",
-        "publishedAt": "2026-07-18T10:34:20.000Z",
-        "summary": "女性ファッション誌『Ray』2026年9月号が、7月23日に発売される。 ■乃木坂46への熱い想いを語...",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000849290/",
+        "publishedAt": "2026-07-19T08:00:35.000Z",
+        "summary": "EBiDAN（恵比寿学園男子部）の一員である7人組ダンスボーカルグループ・原因は自分にある。の...",
         "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "2fd58687d65953f8",
-        "title": "「この子にふるさと納税したい」「いい子すぎます…」M!LK曽野舜太の“家族への思い”にファン感動",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20260718-4704332/",
-        "publishedAt": "2026-07-18T10:00:00.000Z",
-        "summary": "「いい親の元に育ちました」アイドルグループ・M!LKの曽野舜太が、家族への思いを語った―。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "c317e8d7897bc58a",
-        "title": "笑顔の塩﨑太智を虚無顔のM!LKメンバーが囲んだ『Mステ』オフショットに「佐野くん睨んでる（笑）」「みんなかわいい」「4人の表情ｗｗｗ」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000849065/",
-        "publishedAt": "2026-07-18T07:58:28.000Z",
-        "summary": "7月18日放送の『ミュージックステーション 1500回記念 夏の2時間スペシャル』に出演したM!LK。...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "ef95f37f551f98c9",
-        "title": "M!LK、新曲“You!Joy!Parade!”が吉沢亮出演のマクドナルド新TVCM「ポケモン30周年バーガー」篇CMソングに起用。7月21日全国放映開始",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/07/17/tg010",
-        "publishedAt": "2026-07-17T12:30:00.000Z",
-        "summary": "",
-        "groups": [
-          "M!LK"
+          "EBiDAN",
+          "原因は自分にある。"
         ],
         "statuses": [],
         "memberMatches": []
       },
-      {
-        "id": "de299a89f6cd8dff",
-        "title": "M!LK佐野勇斗がVOCE初表紙！5000字超のロングインタビューでアイドルとしての本音と覚悟を語る",
-        "sourceName": "WWSチャンネル",
-        "sourceUrl": "https://www.wws-channel.com/feed",
-        "articleUrl": "https://www.wws-channel.com/magazine_book/656009.html",
-        "publishedAt": "2026-07-17T11:49:11.000Z",
-        "summary": "M!LKの佐野勇斗が、7月22日発売の美容誌「VOCE」2026年9月号Special Editionで初めて表紙を飾る。誌面では、ビューティー界に降臨した爆裂ツヤさのをテーマに撮影を実施。美容については普通だと話していた佐野だが、取材を進める中で明らかになった、こだわ ... The post M!LK佐野勇斗がVOCE初表紙！5000字超のロングインタビ",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      }
-    ],
-    "EBiDAN": [
       {
         "id": "8ff110acc153a48a",
         "title": "EBiDAN全9グループ集結ライブ、全国のカラオケに生配信 日替わりシャッフルも",
@@ -275,21 +182,203 @@
         ],
         "statuses": [],
         "memberMatches": []
-      },
+      }
+    ],
+    "原因は自分にある。": [
       {
-        "id": "6d6179aa4b081875",
-        "title": "「Yes! 駆け込め! 僕らのEBiSTORE」の開催が決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11408/",
-        "publishedAt": "2026-07-16T07:00:05.000Z",
-        "summary": "EBiDAN15周年記念シングル「Yes! 東京」リリース＆『EBiDAN THE LIVE 2026 15th Anniversary』の開催を記念してSHIBUYA TSUTAYAにてコラボレーションカ […] The post 「Yes! 駆け込め! 僕らのEBiSTORE」の開催が決定！ first appeared on SUPER★DRAGON ",
+        "id": "90e9df0fd05da9b8",
+        "title": "原因は自分にある。メンバーがアルバイト料理人に!?新曲「火宴」MV公開",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000849290/",
+        "publishedAt": "2026-07-19T08:00:35.000Z",
+        "summary": "EBiDAN（恵比寿学園男子部）の一員である7人組ダンスボーカルグループ・原因は自分にある。の...",
         "groups": [
           "EBiDAN",
-          "SUPER★DRAGON"
+          "原因は自分にある。"
         ],
         "statuses": [],
         "memberMatches": []
+      },
+      {
+        "id": "c9838472a5495915",
+        "title": "山中柔太朗が“国宝級イケメン”でファン歓喜 「私の推しって最高」「確実に山中柔太朗の時代がきている」",
+        "sourceName": "マイナビニュース 芸能",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
+        "articleUrl": "https://news.mynavi.jp/article/20260715-4705231/",
+        "publishedAt": "2026-07-15T09:52:44.000Z",
+        "summary": "講談社は15日、「ViVi国宝級イケメンランキング 2026年上半期」の結果を発表した。NOW部門ではM!LKの山中柔太朗が初の1位を獲得。NEXT部門では原因は自分にある。の杢代和人が悲願の首位に輝き、ADULT部門ではSixTONESの松村北斗が1位となった。",
+        "groups": [
+          "M!LK",
+          "原因は自分にある。"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "杢代和人",
+            "group": "原因は自分にある。",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "3615bc8f096990b9",
+        "title": "「ViVi国宝級イケメンランキング 2026年上半期」発表。山中柔太朗（M!LK）が「NOW部門」初の1位、杢代和人（原因は自分にある。）が「NEXT部門」悲願の首位獲得。「ADULT部門」は松村北斗（SixTONES）が前人未踏の3部門殿堂入り",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/07/15/tgb004",
+        "publishedAt": "2026-07-15T09:50:00.000Z",
+        "summary": "",
+        "groups": [
+          "M!LK",
+          "原因は自分にある。"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "杢代和人",
+            "group": "原因は自分にある。",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "3fb662210aaeb54f",
+        "title": "森愁斗主演『ウォーターガーディアンズ』本予告解禁、ライフセーバーの本格訓練シーンが初お披露目",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/06/87426/",
+        "publishedAt": "2026-06-05T22:00:00.000Z",
+        "summary": "森愁斗主演映画『ウォーターガーディアンズ』の公開日が8月21日(金)に決定し、本予告映像と主題歌、追加キャスト情報が一挙解禁された。 本作は、ライフセーバーを目指す若者たちの本気のひと夏を描いた青春サマームービー。思いがけずライフセーバーになるという目標を得た若者たちが友情を育み、恋と出会う姿を描く。キャストでは主人公・海翔役の森愁斗（BUDDiiS）、海翔",
+        "groups": [
+          "原因は自分にある。",
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "M!LK": [
+      {
+        "id": "e6e5db0dae6601bc",
+        "title": "乃木坂46一ノ瀬美空『Ray』単独初表紙！特別版の表紙にはM!LK佐野勇斗が登場",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000849111/",
+        "publishedAt": "2026-07-18T10:34:20.000Z",
+        "summary": "女性ファッション誌『Ray』2026年9月号が、7月23日に発売される。 ■乃木坂46への熱い想いを語...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "ef95f37f551f98c9",
+        "title": "M!LK、新曲“You!Joy!Parade!”が吉沢亮出演のマクドナルド新TVCM「ポケモン30周年バーガー」篇CMソングに起用。7月21日全国放映開始",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/07/17/tg010",
+        "publishedAt": "2026-07-17T12:30:00.000Z",
+        "summary": "",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "de299a89f6cd8dff",
+        "title": "M!LK佐野勇斗がVOCE初表紙！5000字超のロングインタビューでアイドルとしての本音と覚悟を語る",
+        "sourceName": "WWSチャンネル",
+        "sourceUrl": "https://www.wws-channel.com/feed",
+        "articleUrl": "https://www.wws-channel.com/magazine_book/656009.html",
+        "publishedAt": "2026-07-17T11:49:11.000Z",
+        "summary": "M!LKの佐野勇斗が、7月22日発売の美容誌「VOCE」2026年9月号Special Editionで初めて表紙を飾る。誌面では、ビューティー界に降臨した爆裂ツヤさのをテーマに撮影を実施。美容については普通だと話していた佐野だが、取材を進める中で明らかになった、こだわ ... The post M!LK佐野勇斗がVOCE初表紙！5000字超のロングインタビ",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "aeb8d52a36d7610c",
+        "title": "夏を全力で楽しむ5人をワンカットで撮影、M!LK最新曲「You!Joy!Parade!」MV公開",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/07/89424/",
+        "publishedAt": "2026-07-17T10:00:00.000Z",
+        "summary": "5人組ダンス＆ボーカルグループ・M!LKの最新曲「You!Joy!Parade!」のミュージックビデオがYouTubeでプレミア公開された。 5ヵ月連続リリース企画「モー烈モー進！リリースプロジェクト2026」第四弾として本日7月17日(金)にリリースされた本楽曲は、“かけがえのない仲間と過ごす夏”をメインテーマに制作された一曲。絆と友情の力を感じさせるリリ",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "82b3acfd554eeb28",
+        "title": "「根底にあったのが…」佐野勇斗がアイドルとの両立で役者を続けてきた理由",
+        "sourceName": "マイナビニュース テレビ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
+        "articleUrl": "https://news.mynavi.jp/article/20260715-4704842/",
+        "publishedAt": "2026-07-15T12:00:00.000Z",
+        "summary": "「正直、僕は歌やダンスがすごく好きなわけじゃないんですが……」俳優でM!LKの佐野勇斗が、12日放送のMBS・TBS系のバラエティ番組『日曜日の初耳学』(毎週日曜22:00～)に出演。俳優とアイドルの両立について語った。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
       }
     ],
     "SUPER★DRAGON": [
@@ -487,92 +576,6 @@
           {
             "name": "マサヒロ",
             "group": "超特急",
-            "status": "active"
-          }
-        ]
-      }
-    ],
-    "原因は自分にある。": [
-      {
-        "id": "c9838472a5495915",
-        "title": "山中柔太朗が“国宝級イケメン”でファン歓喜 「私の推しって最高」「確実に山中柔太朗の時代がきている」",
-        "sourceName": "マイナビニュース 芸能",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-        "articleUrl": "https://news.mynavi.jp/article/20260715-4705231/",
-        "publishedAt": "2026-07-15T09:52:44.000Z",
-        "summary": "講談社は15日、「ViVi国宝級イケメンランキング 2026年上半期」の結果を発表した。NOW部門ではM!LKの山中柔太朗が初の1位を獲得。NEXT部門では原因は自分にある。の杢代和人が悲願の首位に輝き、ADULT部門ではSixTONESの松村北斗が1位となった。",
-        "groups": [
-          "M!LK",
-          "原因は自分にある。"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "杢代和人",
-            "group": "原因は自分にある。",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "3615bc8f096990b9",
-        "title": "「ViVi国宝級イケメンランキング 2026年上半期」発表。山中柔太朗（M!LK）が「NOW部門」初の1位、杢代和人（原因は自分にある。）が「NEXT部門」悲願の首位獲得。「ADULT部門」は松村北斗（SixTONES）が前人未踏の3部門殿堂入り",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/07/15/tgb004",
-        "publishedAt": "2026-07-15T09:50:00.000Z",
-        "summary": "",
-        "groups": [
-          "M!LK",
-          "原因は自分にある。"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "杢代和人",
-            "group": "原因は自分にある。",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "3fb662210aaeb54f",
-        "title": "森愁斗主演『ウォーターガーディアンズ』本予告解禁、ライフセーバーの本格訓練シーンが初お披露目",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/06/87426/",
-        "publishedAt": "2026-06-05T22:00:00.000Z",
-        "summary": "森愁斗主演映画『ウォーターガーディアンズ』の公開日が8月21日(金)に決定し、本予告映像と主題歌、追加キャスト情報が一挙解禁された。 本作は、ライフセーバーを目指す若者たちの本気のひと夏を描いた青春サマームービー。思いがけずライフセーバーになるという目標を得た若者たちが友情を育み、恋と出会う姿を描く。キャストでは主人公・海翔役の森愁斗（BUDDiiS）、海翔",
-        "groups": [
-          "原因は自分にある。",
-          "BUDDiiS"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "SHOOT",
-            "group": "BUDDiiS",
             "status": "active"
           }
         ]
