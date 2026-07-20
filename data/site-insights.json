@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-07-20T04:04:12.251Z",
+  "updatedAt": "2026-07-20T09:33:43.609Z",
   "totals": {
     "all": 160,
     "today": 1,
-    "week": 25
+    "week": 23
   },
   "groupRanking": [
     {
@@ -12,11 +12,11 @@
     },
     {
       "name": "M!LK",
-      "count": 8
+      "count": 7
     },
     {
       "name": "SUPER★DRAGON",
-      "count": 7
+      "count": 6
     },
     {
       "name": "超特急",
@@ -37,15 +37,7 @@
       "count": 4
     },
     {
-      "name": "山中柔太朗",
-      "count": 3
-    },
-    {
       "name": "マサヒロ",
-      "count": 2
-    },
-    {
-      "name": "塩﨑太智",
       "count": 2
     },
     {
@@ -53,7 +45,7 @@
       "count": 2
     },
     {
-      "name": "曽野舜太",
+      "name": "山中柔太朗",
       "count": 2
     },
     {
@@ -61,7 +53,15 @@
       "count": 2
     },
     {
+      "name": "塩﨑太智",
+      "count": 1
+    },
+    {
       "name": "佐野勇斗",
+      "count": 1
+    },
+    {
+      "name": "曽野舜太",
       "count": 1
     },
     {
@@ -96,10 +96,6 @@
     },
     {
       "name": "Bezzy",
-      "count": 2
-    },
-    {
-      "name": "マイナビニュース エンタメ",
       "count": 1
     }
   ],
@@ -215,96 +211,6 @@
             "status": "active"
           }
         ]
-      }
-    ],
-    "SUPER★DRAGON": [
-      {
-        "id": "3c2bcff2d43dff25",
-        "title": "SUPER★DRAGONが語る、9人だけのクリエイティブ 11年目も“唯一無二”であり続ける理由",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20260719-4719880/",
-        "publishedAt": "2026-07-19T12:00:00.000Z",
-        "summary": "2015年の結成から1人も欠けずに活動を続け、昨年10周年を迎えた9人組ミクスチャーユニット・SUPER★DRAGON。メンバーが精力的に楽曲制作やグッズなどのプロデュースに携わり、自分たちのクリエイティビティを高め続けている。初の両A面と・・・",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "6ebb8f3d97b777e2",
-        "title": "【飯島颯】舞台「えぶりでいホスト」出演決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11419/",
-        "publishedAt": "2026-07-17T09:00:58.000Z",
-        "summary": "HAPPEY MUSICAL「えぶりでいホスト」 【開催日時】 2026年11月6日（金）～11月15日（日） 【会場】 シアターH 【原作】 ごとうにも「えぶりでいホスト」（あすかコミックス DX／KADOKAWA 刊 […] The post 【飯島颯】舞台「えぶりでいホスト」出演決定！ first appeared on SUPER★DRAGON .",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "飯島颯",
-            "group": "SUPER★DRAGON",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "c7b72ffb52ec68c8",
-        "title": "田中洸希 7/20(月祝)オンライン特典会 欠席のお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11430/",
-        "publishedAt": "2026-07-17T07:15:22.000Z",
-        "summary": "いつもSUPER★DRAGONを応援していただき、誠にありがとうございます。 2026年7月20日(月祝)出演を予定しておりました「夏休みオンライン特典会」をスケジュールの都合により、田中洸希は欠席とさせて頂きます。 直 […] The post 田中洸希 7/20(月祝)オンライン特典会 欠席のお知らせ first appeared on SUPER★DR",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "田中洸希",
-            "group": "SUPER★DRAGON",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "1001bcc1100d7db2",
-        "title": "『EBiDAN 15th Anniversaryオフィシャルグッズ』の販売が決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11432/",
-        "publishedAt": "2026-07-17T07:00:40.000Z",
-        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念いたしまして、『EBiDAN 15th Anniversaryオフィシャルグッズ』の販売が決定いたしました！ ロゴが映えるリキッドキーホルダーやファーキーホルダー、メンバ […] The post 『EBiDAN 15th Anniversaryオフィシャルグッズ』の販売が決定！ first appeared",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "82fcaa2a2e4698d7",
-        "title": "2026年8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 《第3弾》 CD予約購入キャンペーン 抽選用シリアルナンバー1次受付スタート＆各日程の参加メンバー解禁！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11413/",
-        "publishedAt": "2026-07-17T03:00:09.000Z",
-        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して、8月11日(火・祝)にリリースするシングル「Yes! 東京」の《第３弾》CD予約・購入特典キャンペーン、抽選用シリアルナンバーの受付がスタートしました […] The post 2026年8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 《第3弾》 CD予約購入キャンペーン 抽選用シリ",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
       }
     ],
     "EBiDAN": [
@@ -498,6 +404,97 @@
             "status": "active"
           }
         ]
+      }
+    ],
+    "SUPER★DRAGON": [
+      {
+        "id": "6ebb8f3d97b777e2",
+        "title": "【飯島颯】舞台「えぶりでいホスト」出演決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11419/",
+        "publishedAt": "2026-07-17T09:00:58.000Z",
+        "summary": "HAPPEY MUSICAL「えぶりでいホスト」 【開催日時】 2026年11月6日（金）～11月15日（日） 【会場】 シアターH 【原作】 ごとうにも「えぶりでいホスト」（あすかコミックス DX／KADOKAWA 刊 […] The post 【飯島颯】舞台「えぶりでいホスト」出演決定！ first appeared on SUPER★DRAGON .",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "飯島颯",
+            "group": "SUPER★DRAGON",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "c7b72ffb52ec68c8",
+        "title": "田中洸希 7/20(月祝)オンライン特典会 欠席のお知らせ",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11430/",
+        "publishedAt": "2026-07-17T07:15:22.000Z",
+        "summary": "いつもSUPER★DRAGONを応援していただき、誠にありがとうございます。 2026年7月20日(月祝)出演を予定しておりました「夏休みオンライン特典会」をスケジュールの都合により、田中洸希は欠席とさせて頂きます。 直 […] The post 田中洸希 7/20(月祝)オンライン特典会 欠席のお知らせ first appeared on SUPER★DR",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "田中洸希",
+            "group": "SUPER★DRAGON",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "1001bcc1100d7db2",
+        "title": "『EBiDAN 15th Anniversaryオフィシャルグッズ』の販売が決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11432/",
+        "publishedAt": "2026-07-17T07:00:40.000Z",
+        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念いたしまして、『EBiDAN 15th Anniversaryオフィシャルグッズ』の販売が決定いたしました！ ロゴが映えるリキッドキーホルダーやファーキーホルダー、メンバ […] The post 『EBiDAN 15th Anniversaryオフィシャルグッズ』の販売が決定！ first appeared",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "82fcaa2a2e4698d7",
+        "title": "2026年8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 《第3弾》 CD予約購入キャンペーン 抽選用シリアルナンバー1次受付スタート＆各日程の参加メンバー解禁！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11413/",
+        "publishedAt": "2026-07-17T03:00:09.000Z",
+        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して、8月11日(火・祝)にリリースするシングル「Yes! 東京」の《第３弾》CD予約・購入特典キャンペーン、抽選用シリアルナンバーの受付がスタートしました […] The post 2026年8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 《第3弾》 CD予約購入キャンペーン 抽選用シリ",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "6d6179aa4b081875",
+        "title": "「Yes! 駆け込め! 僕らのEBiSTORE」の開催が決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11408/",
+        "publishedAt": "2026-07-16T07:00:05.000Z",
+        "summary": "EBiDAN15周年記念シングル「Yes! 東京」リリース＆『EBiDAN THE LIVE 2026 15th Anniversary』の開催を記念してSHIBUYA TSUTAYAにてコラボレーションカ […] The post 「Yes! 駆け込め! 僕らのEBiSTORE」の開催が決定！ first appeared on SUPER★DRAGON ",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
       }
     ],
     "超特急": [

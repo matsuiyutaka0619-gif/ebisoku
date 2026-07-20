@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T04:04:12.248Z",
+  "updatedAt": "2026-07-20T09:33:43.606Z",
   "articles": [
     {
       "id": "7cbad1d0b2b657c2",
@@ -32,20 +32,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "3c2bcff2d43dff25",
-      "title": "SUPER★DRAGONが語る、9人だけのクリエイティブ 11年目も“唯一無二”であり続ける理由",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-      "articleUrl": "https://news.mynavi.jp/article/20260719-4719880/",
-      "publishedAt": "2026-07-19T12:00:00.000Z",
-      "summary": "2015年の結成から1人も欠けずに活動を続け、昨年10周年を迎えた9人組ミクスチャーユニット・SUPER★DRAGON。メンバーが精力的に楽曲制作やグッズなどのプロデュースに携わり、自分たちのクリエイティビティを高め続けている。初の両A面と・・・",
-      "groups": [
-        "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "99b12e04ffc826a7",
@@ -2686,6 +2672,20 @@
       "articleUrl": "https://bullettrain.jp/news/news25993/",
       "publishedAt": "2026-04-24T10:59:43.000Z",
       "summary": "いつも超特急にあたたかいご声援をいただき、誠にありがとうございます。 超特急23rd Single「ガチ夢中！」のリリースを記念して、「BULLET TRAIN ARENA TOUR 2026 ESCORT」の終演後に、 […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "2f56240a845e86c2",
+      "title": "映画『超特急 The Movie RE:VE』Blu-rayがスタダ便にて販売決定！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news25988/",
+      "publishedAt": "2026-04-21T08:59:39.000Z",
+      "summary": "映画『超特急 The Movie RE:VE』がついにBlu-rayになって発売が決定いたしました！ 約10万人を動員した史上最大規模のアリーナツアー「BULLET TRAIN ARENA TOUR 2025 EVE」に […]",
       "groups": [
         "超特急"
       ],
