@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-07-19T19:31:48.066Z",
+  "updatedAt": "2026-07-20T04:04:12.248Z",
   "articles": [
+    {
+      "id": "7cbad1d0b2b657c2",
+      "title": "M!LK佐野勇斗・塩﨑太智・吉田仁人『ヒルナンデス！』でディズニーランドびしょ濡れ検証ロケ！「普段以上の爽快感」のふたりを見守る吉田仁人",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000849178/",
+      "publishedAt": "2026-07-19T21:00:05.000Z",
+      "summary": "7月20日放送の『ヒルナンデス！』では、M!LKから佐野勇斗、塩﨑太智、吉田仁人の3人が登場する...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "塩﨑太智",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "3c2bcff2d43dff25",
       "title": "SUPER★DRAGONが語る、9人だけのクリエイティブ 11年目も“唯一無二”であり続ける理由",
@@ -274,42 +306,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "24dcd878e3217bd8",
-      "title": "長谷川京子、斎藤工の元恋人役 超特急・柏木悠も『ペンション・恋は桃色』新シーズンから加入",
-      "sourceName": "マイナビニュース テレビ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-      "articleUrl": "https://news.mynavi.jp/article/20260716-4706197/",
-      "publishedAt": "2026-07-15T23:00:00.000Z",
-      "summary": "「帰る場所があるのは、とても幸せなことです」――31日20時からフジテレビの動画配信サービス・FODのドラマ『ペンション・恋は桃色 season 4』が、31日20時から全5話一挙配信。長谷川京子と柏木悠(超特急)が新加入し、リリー・フランキー、斎藤工、伊藤沙莉らが、海の見える新たなペンションで温かな人間模様を繰り広げる。",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "82b3acfd554eeb28",
-      "title": "「根底にあったのが…」佐野勇斗がアイドルとの両立で役者を続けてきた理由",
-      "sourceName": "マイナビニュース テレビ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-      "articleUrl": "https://news.mynavi.jp/article/20260715-4704842/",
-      "publishedAt": "2026-07-15T12:00:00.000Z",
-      "summary": "「正直、僕は歌やダンスがすごく好きなわけじゃないんですが……」俳優でM!LKの佐野勇斗が、12日放送のMBS・TBS系のバラエティ番組『日曜日の初耳学』(毎週日曜22:00～)に出演。俳優とアイドルの両立について語った。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "8bfa45a81732bc59",
@@ -2676,6 +2672,20 @@
       "articleUrl": "https://bullettrain.jp/news/news25997/",
       "publishedAt": "2026-04-27T10:59:48.000Z",
       "summary": "超特急23rd Single『ガチ夢中！』のCD SHOPチェーン別購入者特典の詳細が決定しました。 CD SHOPチェーン別購入者特典 ■UNIVERSAL MUSIC STORE オリジナルトレカ (ソロ絵柄9種 […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "b2a40a9ad1592555",
+      "title": "超特急23rd Single「ガチ夢中！」 CD封入シリアルナンバー応募抽選特典『到着後再点検 (撮り鉄付き)』イベント決定！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news25993/",
+      "publishedAt": "2026-04-24T10:59:43.000Z",
+      "summary": "いつも超特急にあたたかいご声援をいただき、誠にありがとうございます。 超特急23rd Single「ガチ夢中！」のリリースを記念して、「BULLET TRAIN ARENA TOUR 2026 ESCORT」の終演後に、 […]",
       "groups": [
         "超特急"
       ],
