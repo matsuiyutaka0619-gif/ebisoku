@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-07-20T09:33:43.606Z",
+  "updatedAt": "2026-07-20T14:32:58.128Z",
   "articles": [
+    {
+      "id": "67b55c684d419568",
+      "title": "＝LOVE、「音楽の日2026」で話題曲を生歌唱！「とくべチュ、して」「超特急逃走中」をスペシャルメドレーで披露",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/girls2/656736.html",
+      "publishedAt": "2026-07-20T12:30:48.000Z",
+      "summary": "＝LOVEが7月18日、TBS系「音楽の日2026」に生出演し、「とくべチュ、して」と「超特急逃走中」をスペシャルメドレーで披露した。番組内の「億越えメドレー」に登場した＝LOVEは、佐々木舞香がセンターを務める「とくべチュ、して」と、野口衣織がセンターを務める「超特急 ... The post ＝LOVE、「音楽の日2026」で話題曲を生歌唱！「とくべチュ",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "ef48f928a6696897",
+      "title": "超特急・高松アロハ、リーダー・リョウガにつけられたニックネームの由来 綱啓永「いつも現場でタンクトップの…」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260720-4715607/",
+      "publishedAt": "2026-07-20T10:00:00.000Z",
+      "summary": "メインダンサー&バックボーカルグループ・超特急の高松アロハ(※高ははしごだか)が17日、都内で行われたテレビ朝日系金曜ナイトドラマ『名探偵のままでいて』(毎週金曜23:15～24:15)の制作発表記者会見に登壇。自身につけられたニックネームの由来などについて明かした。",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "リョウガ",
+          "group": "超特急",
+          "status": "active"
+        },
+        {
+          "name": "アロハ",
+          "group": "超特急",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "7cbad1d0b2b657c2",
       "title": "M!LK佐野勇斗・塩﨑太智・吉田仁人『ヒルナンデス！』でディズニーランドびしょ濡れ検証ロケ！「普段以上の爽快感」のふたりを見守る吉田仁人",
@@ -32,36 +73,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "99b12e04ffc826a7",
-      "title": "ONE N’ ONLY、楽曲もダンスもとにかく癖になる「Samba de Night Fever」ダンスプラクティスビデオを公開",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000849311/",
-      "publishedAt": "2026-07-19T09:30:41.000Z",
-      "summary": "EBiDAN(恵比寿男子学園部)所属のONE N’ ONLY（ワンエンオンリー）が、メジャー2ndシングル「WA...",
-      "groups": [
-        "EBiDAN",
-        "ONE N' ONLY"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "90e9df0fd05da9b8",
-      "title": "原因は自分にある。メンバーがアルバイト料理人に!?新曲「火宴」MV公開",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000849290/",
-      "publishedAt": "2026-07-19T08:00:35.000Z",
-      "summary": "EBiDAN（恵比寿学園男子部）の一員である7人組ダンスボーカルグループ・原因は自分にある。の...",
-      "groups": [
-        "EBiDAN",
-        "原因は自分にある。"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "8ff110acc153a48a",

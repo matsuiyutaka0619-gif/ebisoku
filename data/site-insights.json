@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-07-20T09:33:43.609Z",
+  "updatedAt": "2026-07-20T14:32:58.130Z",
   "totals": {
     "all": 160,
-    "today": 1,
-    "week": 23
+    "today": 3,
+    "week": 22
   },
   "groupRanking": [
     {
       "name": "EBiDAN",
-      "count": 9
+      "count": 7
     },
     {
       "name": "M!LK",
@@ -20,15 +20,11 @@
     },
     {
       "name": "超特急",
-      "count": 5
+      "count": 6
     },
     {
       "name": "原因は自分にある。",
-      "count": 3
-    },
-    {
-      "name": "ONE N' ONLY",
-      "count": 1
+      "count": 2
     }
   ],
   "memberRanking": [
@@ -53,6 +49,10 @@
       "count": 2
     },
     {
+      "name": "アロハ",
+      "count": 1
+    },
+    {
       "name": "塩﨑太智",
       "count": 1
     },
@@ -67,10 +67,6 @@
     {
       "name": "田中洸希",
       "count": 1
-    },
-    {
-      "name": "飯島颯",
-      "count": 1
     }
   ],
   "sourceRanking": [
@@ -80,15 +76,11 @@
     },
     {
       "name": "超特急 公式NEWS",
-      "count": 6
+      "count": 5
     },
     {
       "name": "タワーレコード ニュース",
       "count": 4
-    },
-    {
-      "name": "THE FIRST TIMES",
-      "count": 3
     },
     {
       "name": "マイナビニュース 芸能",
@@ -97,10 +89,136 @@
     {
       "name": "Bezzy",
       "count": 1
+    },
+    {
+      "name": "THE FIRST TIMES",
+      "count": 1
+    },
+    {
+      "name": "WWSチャンネル",
+      "count": 1
+    },
+    {
+      "name": "マイナビニュース エンタメ",
+      "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
+    "超特急": [
+      {
+        "id": "67b55c684d419568",
+        "title": "＝LOVE、「音楽の日2026」で話題曲を生歌唱！「とくべチュ、して」「超特急逃走中」をスペシャルメドレーで披露",
+        "sourceName": "WWSチャンネル",
+        "sourceUrl": "https://www.wws-channel.com/feed",
+        "articleUrl": "https://www.wws-channel.com/girls2/656736.html",
+        "publishedAt": "2026-07-20T12:30:48.000Z",
+        "summary": "＝LOVEが7月18日、TBS系「音楽の日2026」に生出演し、「とくべチュ、して」と「超特急逃走中」をスペシャルメドレーで披露した。番組内の「億越えメドレー」に登場した＝LOVEは、佐々木舞香がセンターを務める「とくべチュ、して」と、野口衣織がセンターを務める「超特急 ... The post ＝LOVE、「音楽の日2026」で話題曲を生歌唱！「とくべチュ",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "ef48f928a6696897",
+        "title": "超特急・高松アロハ、リーダー・リョウガにつけられたニックネームの由来 綱啓永「いつも現場でタンクトップの…」",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20260720-4715607/",
+        "publishedAt": "2026-07-20T10:00:00.000Z",
+        "summary": "メインダンサー&バックボーカルグループ・超特急の高松アロハ(※高ははしごだか)が17日、都内で行われたテレビ朝日系金曜ナイトドラマ『名探偵のままでいて』(毎週金曜23:15～24:15)の制作発表記者会見に登壇。自身につけられたニックネームの由来などについて明かした。",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "リョウガ",
+            "group": "超特急",
+            "status": "active"
+          },
+          {
+            "name": "アロハ",
+            "group": "超特急",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "15bc9e31dee68d44",
+        "title": "超特急リョウガ、当面休養へ 疲労蓄積とヘルニア症状「超特急で戻ってくるから待っとけよ」",
+        "sourceName": "マイナビニュース 芸能",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
+        "articleUrl": "https://news.mynavi.jp/article/20260717-4711289/",
+        "publishedAt": "2026-07-16T23:15:28.000Z",
+        "summary": "「超特急で戻ってくるから待っとけよ」――メインダンサー＆バックボーカルグループ・超特急のリョウガが17日、当面の間、活動を休止することが発表された。疲労の蓄積と、かねてより抱えているヘルニアの症状が重なったため、休養に専念する。",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "リョウガ",
+            "group": "超特急",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "db547bce1070a3b7",
+        "title": "超特急リョウガ・マサヒロ番組欠席のお知らせ",
+        "sourceName": "超特急 公式NEWS",
+        "sourceUrl": "https://bullettrain.jp/news/feed/",
+        "articleUrl": "https://bullettrain.jp/news/news26365/",
+        "publishedAt": "2026-07-16T22:14:12.000Z",
+        "summary": "いつも超特急を応援いただき、誠にありがとうございます。 この度、メンバーのリョウガ・マサヒロが体調不良のため、下記の番組出演を欠席いたします。 2026年7月18日(土)午後2時00分 ON AIR TBS系「音楽の日2 […]",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "リョウガ",
+            "group": "超特急",
+            "status": "active"
+          },
+          {
+            "name": "マサヒロ",
+            "group": "超特急",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "6cb670a7abf60acb",
+        "title": "超特急リョウガに関する大切なお知らせ",
+        "sourceName": "超特急 公式NEWS",
+        "sourceUrl": "https://bullettrain.jp/news/feed/",
+        "articleUrl": "https://bullettrain.jp/news/news26367/",
+        "publishedAt": "2026-07-16T21:59:43.000Z",
+        "summary": "いつも超特急へ温かい応援をいただきまして、誠にありがとうございます。 メンバーのリョウガですが、今月初旬より体調を崩すことが増えたため、健康診断も兼ねて医療機関を受診いたしました。 その結果、疲労が蓄積している状態であり […]",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "リョウガ",
+            "group": "超特急",
+            "status": "active"
+          }
+        ]
+      }
+    ],
     "M!LK": [
       {
         "id": "7cbad1d0b2b657c2",
@@ -215,36 +333,6 @@
     ],
     "EBiDAN": [
       {
-        "id": "99b12e04ffc826a7",
-        "title": "ONE N’ ONLY、楽曲もダンスもとにかく癖になる「Samba de Night Fever」ダンスプラクティスビデオを公開",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000849311/",
-        "publishedAt": "2026-07-19T09:30:41.000Z",
-        "summary": "EBiDAN(恵比寿男子学園部)所属のONE N’ ONLY（ワンエンオンリー）が、メジャー2ndシングル「WA...",
-        "groups": [
-          "EBiDAN",
-          "ONE N' ONLY"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "90e9df0fd05da9b8",
-        "title": "原因は自分にある。メンバーがアルバイト料理人に!?新曲「火宴」MV公開",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000849290/",
-        "publishedAt": "2026-07-19T08:00:35.000Z",
-        "summary": "EBiDAN（恵比寿学園男子部）の一員である7人組ダンスボーカルグループ・原因は自分にある。の...",
-        "groups": [
-          "EBiDAN",
-          "原因は自分にある。"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
         "id": "8ff110acc153a48a",
         "title": "EBiDAN全9グループ集結ライブ、全国のカラオケに生配信 日替わりシャッフルも",
         "sourceName": "マイナビニュース 芸能",
@@ -286,124 +374,36 @@
         ],
         "statuses": [],
         "memberMatches": []
-      }
-    ],
-    "ONE N' ONLY": [
+      },
       {
-        "id": "99b12e04ffc826a7",
-        "title": "ONE N’ ONLY、楽曲もダンスもとにかく癖になる「Samba de Night Fever」ダンスプラクティスビデオを公開",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000849311/",
-        "publishedAt": "2026-07-19T09:30:41.000Z",
-        "summary": "EBiDAN(恵比寿男子学園部)所属のONE N’ ONLY（ワンエンオンリー）が、メジャー2ndシングル「WA...",
+        "id": "82fcaa2a2e4698d7",
+        "title": "2026年8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 《第3弾》 CD予約購入キャンペーン 抽選用シリアルナンバー1次受付スタート＆各日程の参加メンバー解禁！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11413/",
+        "publishedAt": "2026-07-17T03:00:09.000Z",
+        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して、8月11日(火・祝)にリリースするシングル「Yes! 東京」の《第３弾》CD予約・購入特典キャンペーン、抽選用シリアルナンバーの受付がスタートしました […] The post 2026年8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 《第3弾》 CD予約購入キャンペーン 抽選用シリ",
         "groups": [
           "EBiDAN",
-          "ONE N' ONLY"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "原因は自分にある。": [
-      {
-        "id": "90e9df0fd05da9b8",
-        "title": "原因は自分にある。メンバーがアルバイト料理人に!?新曲「火宴」MV公開",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000849290/",
-        "publishedAt": "2026-07-19T08:00:35.000Z",
-        "summary": "EBiDAN（恵比寿学園男子部）の一員である7人組ダンスボーカルグループ・原因は自分にある。の...",
-        "groups": [
-          "EBiDAN",
-          "原因は自分にある。"
+          "SUPER★DRAGON"
         ],
         "statuses": [],
         "memberMatches": []
       },
       {
-        "id": "c9838472a5495915",
-        "title": "山中柔太朗が“国宝級イケメン”でファン歓喜 「私の推しって最高」「確実に山中柔太朗の時代がきている」",
-        "sourceName": "マイナビニュース 芸能",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-        "articleUrl": "https://news.mynavi.jp/article/20260715-4705231/",
-        "publishedAt": "2026-07-15T09:52:44.000Z",
-        "summary": "講談社は15日、「ViVi国宝級イケメンランキング 2026年上半期」の結果を発表した。NOW部門ではM!LKの山中柔太朗が初の1位を獲得。NEXT部門では原因は自分にある。の杢代和人が悲願の首位に輝き、ADULT部門ではSixTONESの松村北斗が1位となった。",
+        "id": "6d6179aa4b081875",
+        "title": "「Yes! 駆け込め! 僕らのEBiSTORE」の開催が決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11408/",
+        "publishedAt": "2026-07-16T07:00:05.000Z",
+        "summary": "EBiDAN15周年記念シングル「Yes! 東京」リリース＆『EBiDAN THE LIVE 2026 15th Anniversary』の開催を記念してSHIBUYA TSUTAYAにてコラボレーションカ […] The post 「Yes! 駆け込め! 僕らのEBiSTORE」の開催が決定！ first appeared on SUPER★DRAGON ",
         "groups": [
-          "M!LK",
-          "原因は自分にある。"
+          "EBiDAN",
+          "SUPER★DRAGON"
         ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "杢代和人",
-            "group": "原因は自分にある。",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "3615bc8f096990b9",
-        "title": "「ViVi国宝級イケメンランキング 2026年上半期」発表。山中柔太朗（M!LK）が「NOW部門」初の1位、杢代和人（原因は自分にある。）が「NEXT部門」悲願の首位獲得。「ADULT部門」は松村北斗（SixTONES）が前人未踏の3部門殿堂入り",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/07/15/tgb004",
-        "publishedAt": "2026-07-15T09:50:00.000Z",
-        "summary": "",
-        "groups": [
-          "M!LK",
-          "原因は自分にある。"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "杢代和人",
-            "group": "原因は自分にある。",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "3fb662210aaeb54f",
-        "title": "森愁斗主演『ウォーターガーディアンズ』本予告解禁、ライフセーバーの本格訓練シーンが初お披露目",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/06/87426/",
-        "publishedAt": "2026-06-05T22:00:00.000Z",
-        "summary": "森愁斗主演映画『ウォーターガーディアンズ』の公開日が8月21日(金)に決定し、本予告映像と主題歌、追加キャスト情報が一挙解禁された。 本作は、ライフセーバーを目指す若者たちの本気のひと夏を描いた青春サマームービー。思いがけずライフセーバーになるという目標を得た若者たちが友情を育み、恋と出会う姿を描く。キャストでは主人公・海翔役の森愁斗（BUDDiiS）、海翔",
-        "groups": [
-          "原因は自分にある。",
-          "BUDDiiS"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "SHOOT",
-            "group": "BUDDiiS",
-            "status": "active"
-          }
-        ]
+        "statuses": [],
+        "memberMatches": []
       }
     ],
     "SUPER★DRAGON": [
@@ -497,118 +497,87 @@
         "memberMatches": []
       }
     ],
-    "超特急": [
+    "原因は自分にある。": [
       {
-        "id": "15bc9e31dee68d44",
-        "title": "超特急リョウガ、当面休養へ 疲労蓄積とヘルニア症状「超特急で戻ってくるから待っとけよ」",
+        "id": "c9838472a5495915",
+        "title": "山中柔太朗が“国宝級イケメン”でファン歓喜 「私の推しって最高」「確実に山中柔太朗の時代がきている」",
         "sourceName": "マイナビニュース 芸能",
         "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-        "articleUrl": "https://news.mynavi.jp/article/20260717-4711289/",
-        "publishedAt": "2026-07-16T23:15:28.000Z",
-        "summary": "「超特急で戻ってくるから待っとけよ」――メインダンサー＆バックボーカルグループ・超特急のリョウガが17日、当面の間、活動を休止することが発表された。疲労の蓄積と、かねてより抱えているヘルニアの症状が重なったため、休養に専念する。",
+        "articleUrl": "https://news.mynavi.jp/article/20260715-4705231/",
+        "publishedAt": "2026-07-15T09:52:44.000Z",
+        "summary": "講談社は15日、「ViVi国宝級イケメンランキング 2026年上半期」の結果を発表した。NOW部門ではM!LKの山中柔太朗が初の1位を獲得。NEXT部門では原因は自分にある。の杢代和人が悲願の首位に輝き、ADULT部門ではSixTONESの松村北斗が1位となった。",
         "groups": [
-          "超特急"
+          "M!LK",
+          "原因は自分にある。"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "リョウガ",
-            "group": "超特急",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "db547bce1070a3b7",
-        "title": "超特急リョウガ・マサヒロ番組欠席のお知らせ",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26365/",
-        "publishedAt": "2026-07-16T22:14:12.000Z",
-        "summary": "いつも超特急を応援いただき、誠にありがとうございます。 この度、メンバーのリョウガ・マサヒロが体調不良のため、下記の番組出演を欠席いたします。 2026年7月18日(土)午後2時00分 ON AIR TBS系「音楽の日2 […]",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "リョウガ",
-            "group": "超特急",
+            "name": "山中柔太朗",
+            "group": "M!LK",
             "status": "active"
           },
           {
-            "name": "マサヒロ",
-            "group": "超特急",
+            "name": "杢代和人",
+            "group": "原因は自分にある。",
             "status": "active"
           }
         ]
       },
       {
-        "id": "6cb670a7abf60acb",
-        "title": "超特急リョウガに関する大切なお知らせ",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26367/",
-        "publishedAt": "2026-07-16T21:59:43.000Z",
-        "summary": "いつも超特急へ温かい応援をいただきまして、誠にありがとうございます。 メンバーのリョウガですが、今月初旬より体調を崩すことが増えたため、健康診断も兼ねて医療機関を受診いたしました。 その結果、疲労が蓄積している状態であり […]",
+        "id": "3615bc8f096990b9",
+        "title": "「ViVi国宝級イケメンランキング 2026年上半期」発表。山中柔太朗（M!LK）が「NOW部門」初の1位、杢代和人（原因は自分にある。）が「NEXT部門」悲願の首位獲得。「ADULT部門」は松村北斗（SixTONES）が前人未踏の3部門殿堂入り",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/07/15/tgb004",
+        "publishedAt": "2026-07-15T09:50:00.000Z",
+        "summary": "",
         "groups": [
-          "超特急"
+          "M!LK",
+          "原因は自分にある。"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "リョウガ",
-            "group": "超特急",
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "杢代和人",
+            "group": "原因は自分にある。",
             "status": "active"
           }
         ]
       },
       {
-        "id": "037a3deffe2bde86",
-        "title": "BULLET TRAIN ARENA TOUR 2026 ESCORT 2026年7月14日(火)・15日(水) GLION ARENA KOBE公演についてのお知らせ",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26359/",
-        "publishedAt": "2026-07-14T06:29:43.000Z",
-        "summary": "いつも超特急を応援いただき、誠にありがとうございます。 メンバーのマサヒロですが、本日のリハーサル中に腰を負傷し、急性腰痛症と判断されました。 本人の回復を最優先に考え、メンバー、スタッフとも協議を重ねた結果、 2026 […]",
+        "id": "3fb662210aaeb54f",
+        "title": "森愁斗主演『ウォーターガーディアンズ』本予告解禁、ライフセーバーの本格訓練シーンが初お披露目",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/06/87426/",
+        "publishedAt": "2026-06-05T22:00:00.000Z",
+        "summary": "森愁斗主演映画『ウォーターガーディアンズ』の公開日が8月21日(金)に決定し、本予告映像と主題歌、追加キャスト情報が一挙解禁された。 本作は、ライフセーバーを目指す若者たちの本気のひと夏を描いた青春サマームービー。思いがけずライフセーバーになるという目標を得た若者たちが友情を育み、恋と出会う姿を描く。キャストでは主人公・海翔役の森愁斗（BUDDiiS）、海翔",
         "groups": [
-          "超特急"
+          "原因は自分にある。",
+          "BUDDiiS"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "マサヒロ",
-            "group": "超特急",
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
             "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "fde2e5cc9f02f7bc",
-        "title": "BULLET TRAIN ARENA TOUR 2026「ESCORT」 リョウガ 参加見合わせに関して",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26357/",
-        "publishedAt": "2026-07-13T10:44:32.000Z",
-        "summary": "いつも超特急へ温かい応援を頂きありがとうございます。 弊社所属 超特急メンバーのリョウガが体調不良のため、本人の体調回復を最優先に考え、以下のライブにつきまして出演を見合わせさせていただくことになりました。 ＜欠席対応公 […]",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
+          },
           {
-            "name": "リョウガ",
-            "group": "超特急",
+            "name": "SHOOT",
+            "group": "BUDDiiS",
             "status": "active"
           }
         ]
