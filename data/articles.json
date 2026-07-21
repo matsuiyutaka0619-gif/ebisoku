@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-07-20T19:56:03.539Z",
+  "updatedAt": "2026-07-21T03:44:29.881Z",
   "articles": [
+    {
+      "id": "3daac91f37e93362",
+      "title": "佐野勇斗、M!LKを忘れさせる“憑依力” 『君の好きは無敵』で証明する役者としての真価",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/07/post-2465531.html",
+      "publishedAt": "2026-07-20T22:30:50.000Z",
+      "summary": "7月に突入して気温が一気に上昇し、毎日とにかく暑い。こんなときはクーラーの効いた涼しい部屋でドラマ鑑賞するに限る。今夏も見逃せない話題作が目白押しだが、最も多くの“好き”を集めているのは、7月14日にスタートしたTBS",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "67b55c684d419568",
       "title": "＝LOVE、「音楽の日2026」で話題曲を生歌唱！「とくべチュ、して」「超特急逃走中」をスペシャルメドレーで披露",
@@ -18,8 +40,8 @@
     {
       "id": "ef48f928a6696897",
       "title": "超特急・高松アロハ、リーダー・リョウガにつけられたニックネームの由来 綱啓永「いつも現場でタンクトップの…」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
       "articleUrl": "https://news.mynavi.jp/article/20260720-4715607/",
       "publishedAt": "2026-07-20T10:00:00.000Z",
       "summary": "メインダンサー&バックボーカルグループ・超特急の高松アロハ(※高ははしごだか)が17日、都内で行われたテレビ朝日系金曜ナイトドラマ『名探偵のままでいて』(毎週金曜23:15～24:15)の制作発表記者会見に登壇。自身につけられたニックネームの由来などについて明かした。",
@@ -38,38 +60,6 @@
         {
           "name": "アロハ",
           "group": "超特急",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "7cbad1d0b2b657c2",
-      "title": "M!LK佐野勇斗・塩﨑太智・吉田仁人『ヒルナンデス！』でディズニーランドびしょ濡れ検証ロケ！「普段以上の爽快感」のふたりを見守る吉田仁人",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000849178/",
-      "publishedAt": "2026-07-19T21:00:05.000Z",
-      "summary": "7月20日放送の『ヒルナンデス！』では、M!LKから佐野勇斗、塩﨑太智、吉田仁人の3人が登場する...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "塩﨑太智",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
           "status": "active"
         }
       ]
