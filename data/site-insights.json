@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-07-21T03:44:29.884Z",
+  "updatedAt": "2026-07-21T08:44:08.761Z",
   "totals": {
     "all": 160,
-    "today": 1,
-    "week": 22
+    "today": 0,
+    "week": 18
   },
   "groupRanking": [
     {
       "name": "EBiDAN",
-      "count": 7
+      "count": 6
     },
     {
       "name": "M!LK",
-      "count": 7
+      "count": 5
     },
     {
       "name": "SUPER★DRAGON",
-      "count": 6
+      "count": 5
     },
     {
       "name": "超特急",
-      "count": 6
+      "count": 5
     },
     {
       "name": "原因は自分にある。",
@@ -31,10 +31,6 @@
     {
       "name": "リョウガ",
       "count": 4
-    },
-    {
-      "name": "マサヒロ",
-      "count": 2
     },
     {
       "name": "山中柔太朗",
@@ -49,15 +45,11 @@
       "count": 1
     },
     {
+      "name": "マサヒロ",
+      "count": 1
+    },
+    {
       "name": "吉田仁人",
-      "count": 1
-    },
-    {
-      "name": "佐野勇斗",
-      "count": 1
-    },
-    {
-      "name": "曽野舜太",
       "count": 1
     },
     {
@@ -72,15 +64,15 @@
   "sourceRanking": [
     {
       "name": "SUPER★DRAGON 公式NEWS",
-      "count": 6
-    },
-    {
-      "name": "超特急 公式NEWS",
       "count": 5
     },
     {
-      "name": "タワーレコード ニュース",
+      "name": "超特急 公式NEWS",
       "count": 4
+    },
+    {
+      "name": "タワーレコード ニュース",
+      "count": 3
     },
     {
       "name": "マイナビニュース 芸能",
@@ -97,116 +89,10 @@
     {
       "name": "マイナビニュース テレビ",
       "count": 1
-    },
-    {
-      "name": "リアルサウンド 映画部",
-      "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
-    "M!LK": [
-      {
-        "id": "3daac91f37e93362",
-        "title": "佐野勇斗、M!LKを忘れさせる“憑依力” 『君の好きは無敵』で証明する役者としての真価",
-        "sourceName": "リアルサウンド 映画部",
-        "sourceUrl": "https://realsound.jp/movie/feed",
-        "articleUrl": "https://realsound.jp/movie/2026/07/post-2465531.html",
-        "publishedAt": "2026-07-20T22:30:50.000Z",
-        "summary": "7月に突入して気温が一気に上昇し、毎日とにかく暑い。こんなときはクーラーの効いた涼しい部屋でドラマ鑑賞するに限る。今夏も見逃せない話題作が目白押しだが、最も多くの“好き”を集めているのは、7月14日にスタートしたTBS",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "ef95f37f551f98c9",
-        "title": "M!LK、新曲“You!Joy!Parade!”が吉沢亮出演のマクドナルド新TVCM「ポケモン30周年バーガー」篇CMソングに起用。7月21日全国放映開始",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/07/17/tg010",
-        "publishedAt": "2026-07-17T12:30:00.000Z",
-        "summary": "",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "aeb8d52a36d7610c",
-        "title": "夏を全力で楽しむ5人をワンカットで撮影、M!LK最新曲「You!Joy!Parade!」MV公開",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/07/89424/",
-        "publishedAt": "2026-07-17T10:00:00.000Z",
-        "summary": "5人組ダンス＆ボーカルグループ・M!LKの最新曲「You!Joy!Parade!」のミュージックビデオがYouTubeでプレミア公開された。 5ヵ月連続リリース企画「モー烈モー進！リリースプロジェクト2026」第四弾として本日7月17日(金)にリリースされた本楽曲は、“かけがえのない仲間と過ごす夏”をメインテーマに制作された一曲。絆と友情の力を感じさせるリリ",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "8bfa45a81732bc59",
-        "title": "吉田仁人（M!LK）、「カラリア」アンバサダーに就任",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/07/15/tg006",
-        "publishedAt": "2026-07-15T11:30:00.000Z",
-        "summary": "",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "c9838472a5495915",
-        "title": "山中柔太朗が“国宝級イケメン”でファン歓喜 「私の推しって最高」「確実に山中柔太朗の時代がきている」",
-        "sourceName": "マイナビニュース 芸能",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-        "articleUrl": "https://news.mynavi.jp/article/20260715-4705231/",
-        "publishedAt": "2026-07-15T09:52:44.000Z",
-        "summary": "講談社は15日、「ViVi国宝級イケメンランキング 2026年上半期」の結果を発表した。NOW部門ではM!LKの山中柔太朗が初の1位を獲得。NEXT部門では原因は自分にある。の杢代和人が悲願の首位に輝き、ADULT部門ではSixTONESの松村北斗が1位となった。",
-        "groups": [
-          "M!LK",
-          "原因は自分にある。"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "杢代和人",
-            "group": "原因は自分にある。",
-            "status": "active"
-          }
-        ]
-      }
-    ],
     "超特急": [
       {
         "id": "67b55c684d419568",
@@ -394,6 +280,114 @@
         ],
         "statuses": [],
         "memberMatches": []
+      }
+    ],
+    "M!LK": [
+      {
+        "id": "ef95f37f551f98c9",
+        "title": "M!LK、新曲“You!Joy!Parade!”が吉沢亮出演のマクドナルド新TVCM「ポケモン30周年バーガー」篇CMソングに起用。7月21日全国放映開始",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/07/17/tg010",
+        "publishedAt": "2026-07-17T12:30:00.000Z",
+        "summary": "",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "aeb8d52a36d7610c",
+        "title": "夏を全力で楽しむ5人をワンカットで撮影、M!LK最新曲「You!Joy!Parade!」MV公開",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/07/89424/",
+        "publishedAt": "2026-07-17T10:00:00.000Z",
+        "summary": "5人組ダンス＆ボーカルグループ・M!LKの最新曲「You!Joy!Parade!」のミュージックビデオがYouTubeでプレミア公開された。 5ヵ月連続リリース企画「モー烈モー進！リリースプロジェクト2026」第四弾として本日7月17日(金)にリリースされた本楽曲は、“かけがえのない仲間と過ごす夏”をメインテーマに制作された一曲。絆と友情の力を感じさせるリリ",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "8bfa45a81732bc59",
+        "title": "吉田仁人（M!LK）、「カラリア」アンバサダーに就任",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/07/15/tg006",
+        "publishedAt": "2026-07-15T11:30:00.000Z",
+        "summary": "",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "c9838472a5495915",
+        "title": "山中柔太朗が“国宝級イケメン”でファン歓喜 「私の推しって最高」「確実に山中柔太朗の時代がきている」",
+        "sourceName": "マイナビニュース 芸能",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
+        "articleUrl": "https://news.mynavi.jp/article/20260715-4705231/",
+        "publishedAt": "2026-07-15T09:52:44.000Z",
+        "summary": "講談社は15日、「ViVi国宝級イケメンランキング 2026年上半期」の結果を発表した。NOW部門ではM!LKの山中柔太朗が初の1位を獲得。NEXT部門では原因は自分にある。の杢代和人が悲願の首位に輝き、ADULT部門ではSixTONESの松村北斗が1位となった。",
+        "groups": [
+          "M!LK",
+          "原因は自分にある。"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "杢代和人",
+            "group": "原因は自分にある。",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "3615bc8f096990b9",
+        "title": "「ViVi国宝級イケメンランキング 2026年上半期」発表。山中柔太朗（M!LK）が「NOW部門」初の1位、杢代和人（原因は自分にある。）が「NEXT部門」悲願の首位獲得。「ADULT部門」は松村北斗（SixTONES）が前人未踏の3部門殿堂入り",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/07/15/tgb004",
+        "publishedAt": "2026-07-15T09:50:00.000Z",
+        "summary": "",
+        "groups": [
+          "M!LK",
+          "原因は自分にある。"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "杢代和人",
+            "group": "原因は自分にある。",
+            "status": "active"
+          }
+        ]
       }
     ],
     "SUPER★DRAGON": [

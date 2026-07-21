@@ -1,28 +1,6 @@
 {
-  "updatedAt": "2026-07-21T03:44:29.881Z",
+  "updatedAt": "2026-07-21T08:44:08.758Z",
   "articles": [
-    {
-      "id": "3daac91f37e93362",
-      "title": "佐野勇斗、M!LKを忘れさせる“憑依力” 『君の好きは無敵』で証明する役者としての真価",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/07/post-2465531.html",
-      "publishedAt": "2026-07-20T22:30:50.000Z",
-      "summary": "7月に突入して気温が一気に上昇し、毎日とにかく暑い。こんなときはクーラーの効いた涼しい部屋でドラマ鑑賞するに限る。今夏も見逃せない話題作が目白押しだが、最も多くの“好き”を集めているのは、7月14日にスタートしたTBS",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
     {
       "id": "67b55c684d419568",
       "title": "＝LOVE、「音楽の日2026」で話題曲を生歌唱！「とくべチュ、して」「超特急逃走中」をスペシャルメドレーで披露",
@@ -2692,6 +2670,28 @@
       ],
       "statuses": [],
       "memberMatches": []
+    },
+    {
+      "id": "2aeda7c90cad4ebc",
+      "title": "「BULLET TRAIN ARENA TOUR 2025-2026 REAL？」U-NEXTにて見放題で独占アーカイブ配信開始！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news25986/",
+      "publishedAt": "2026-04-20T09:59:40.000Z",
+      "summary": "2026年2月21日に開催された「BULLET TRAIN ARENA TOUR 2025-2026 REAL？」の模様が、U-NEXTにてアーカイブ配信開始！ U-NEXT月額会員の方なら追加料金なく、何度でもお楽しみ […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "カイ",
+          "group": "超特急",
+          "status": "active"
+        }
+      ]
     }
   ]
 }
