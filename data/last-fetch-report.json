@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T08:44:04.812Z",
+  "updatedAt": "2026-07-22T14:22:27.116Z",
   "sources": [
     {
       "source": "日刊スポーツ 芸能",
@@ -74,8 +74,9 @@
     },
     {
       "source": "Bezzy",
-      "count": 300,
-      "ok": true
+      "count": 0,
+      "ok": false,
+      "error": "fetch failed"
     },
     {
       "source": "otocoto",
@@ -94,28 +95,33 @@
     },
     {
       "source": "WWSチャンネル",
-      "count": 50,
-      "ok": true
+      "count": 0,
+      "ok": false,
+      "error": "fetch failed"
     },
     {
       "source": "Edge Line",
-      "count": 10,
-      "ok": true
+      "count": 0,
+      "ok": false,
+      "error": "fetch failed"
     },
     {
       "source": "超特急 公式NEWS",
-      "count": 100,
-      "ok": true
+      "count": 0,
+      "ok": false,
+      "error": "fetch failed"
     },
     {
       "source": "SUPER★DRAGON 公式NEWS",
-      "count": 100,
-      "ok": true
+      "count": 0,
+      "ok": false,
+      "error": "fetch failed"
     },
     {
       "source": "タワーレコード ニュース",
-      "count": 50,
-      "ok": true
+      "count": 0,
+      "ok": false,
+      "error": "HTTP 503"
     },
     {
       "source": "THE FIRST TIMES",
