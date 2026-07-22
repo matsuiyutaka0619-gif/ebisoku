@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-07-21T19:50:56.026Z",
+  "updatedAt": "2026-07-22T03:45:49.842Z",
   "totals": {
     "all": 160,
-    "today": 0,
+    "today": 3,
     "week": 25
   },
   "groupRanking": [
     {
-      "name": "M!LK",
-      "count": 9
-    },
-    {
       "name": "EBiDAN",
       "count": 8
+    },
+    {
+      "name": "M!LK",
+      "count": 7
     },
     {
       "name": "SUPER★DRAGON",
@@ -24,7 +24,7 @@
     },
     {
       "name": "原因は自分にある。",
-      "count": 2
+      "count": 3
     }
   ],
   "memberRanking": [
@@ -33,15 +33,15 @@
       "count": 4
     },
     {
+      "name": "塩﨑太智",
+      "count": 2
+    },
+    {
       "name": "佐野勇斗",
       "count": 2
     },
     {
-      "name": "山中柔太朗",
-      "count": 2
-    },
-    {
-      "name": "杢代和人",
+      "name": "小泉光咲",
       "count": 2
     },
     {
@@ -53,11 +53,11 @@
       "count": 1
     },
     {
-      "name": "塩﨑太智",
+      "name": "吉田仁人",
       "count": 1
     },
     {
-      "name": "吉田仁人",
+      "name": "山中柔太朗",
       "count": 1
     },
     {
@@ -76,34 +76,34 @@
     },
     {
       "name": "タワーレコード ニュース",
-      "count": 6
+      "count": 5
     },
     {
       "name": "超特急 公式NEWS",
       "count": 5
     },
     {
+      "name": "THE FIRST TIMES",
+      "count": 2
+    },
+    {
+      "name": "WWSチャンネル",
+      "count": 2
+    },
+    {
       "name": "マイナビニュース 芸能",
-      "count": 3
+      "count": 2
+    },
+    {
+      "name": "BARKS",
+      "count": 1
     },
     {
       "name": "Bezzy",
       "count": 1
     },
     {
-      "name": "THE FIRST TIMES",
-      "count": 1
-    },
-    {
-      "name": "WWSチャンネル",
-      "count": 1
-    },
-    {
       "name": "マイナビニュース テレビ",
-      "count": 1
-    },
-    {
-      "name": "リアルサウンド 映画部",
       "count": 1
     }
   ],
@@ -111,13 +111,13 @@
   "recentByGroup": {
     "M!LK": [
       {
-        "id": "44ba1f54d84f6c92",
-        "title": "『君の好きは無敵』が問いかける“かわいい”の本質 “瀬尾”佐野勇斗が貫いた信念",
-        "sourceName": "リアルサウンド 映画部",
-        "sourceUrl": "https://realsound.jp/movie/feed",
-        "articleUrl": "https://realsound.jp/movie/2026/07/post-2466709.html",
-        "publishedAt": "2026-07-21T14:10:58.000Z",
-        "summary": "“21世紀に入って世界に最も広まった日本語”として、今や世界各地で頻用されるようになった「かわいい」。しかし、その基準は時代や場所によっても異なる曖昧なものだ。それゆえに、「かわいい」を発信しようとすると、つい迷いが生",
+        "id": "026fd60e635fd70a",
+        "title": "M!LK佐野勇斗が塩﨑太智＆吉田仁人とのディズニーオフショット公開！おそろいカチューシャ姿の自撮りに「いい写真すぎ」「めちゃくちゃ楽しそう」スプラッシュ・マウンテンで“絶叫中もカメラ目線”の1枚にも反響",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000850650/",
+        "publishedAt": "2026-07-22T03:45:20.000Z",
+        "summary": "M!LKの佐野勇斗が自身のInstagramを更新。『ヒルナンデス！』（日本テレビ系）のロケで東京デ...",
         "groups": [
           "M!LK"
         ],
@@ -127,6 +127,16 @@
         "memberMatches": [
           {
             "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "吉田仁人",
             "group": "M!LK",
             "status": "active"
           }
@@ -203,6 +213,108 @@
         ],
         "statuses": [],
         "memberMatches": []
+      }
+    ],
+    "原因は自分にある。": [
+      {
+        "id": "d0db6374e03b1a1d",
+        "title": "龍宮城、EP『MOTTO』本日発売。収録曲「愛愛愛なんて」がドラマ『陽キャ集団にいる芹沢は、俺の前だと様子がおかしい』OP主題歌起用も",
+        "sourceName": "BARKS",
+        "sourceUrl": "https://www.barks.jp/feed/",
+        "articleUrl": "https://barks.jp/news/1079293",
+        "publishedAt": "2026-07-22T03:16:54.000Z",
+        "summary": "龍宮城が、EP『MOTTO』を本日リリースした。 本作は、「自分らしさは、自分で勝ち取る。」をテーマにした新曲を5曲収録している。表題曲「MOTTO」は、メンバーのみで作詞を手がけ、メンバーそれぞれの想いを込めた1曲になっているという。 また、EPの収録曲「愛愛愛なんて」が、ドラマ『陽キャ集団にいる芹沢は、俺の前だと様子がおかしい』オープニング主題歌に決定し",
+        "groups": [
+          "原因は自分にある。"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "b42486b0b8b247f3",
+        "title": "小泉光咲、四坂亮翔W主演BLドラマ「陽キャ集団にいる芹沢は、俺の前だと様子がおかしい」キービジュアル解禁！追加キャストも発表",
+        "sourceName": "WWSチャンネル",
+        "sourceUrl": "https://www.wws-channel.com/feed",
+        "articleUrl": "https://www.wws-channel.com/tv/656965.html",
+        "publishedAt": "2026-07-21T21:00:16.000Z",
+        "summary": "読売テレビの新ドラマ「陽キャ集団にいる芹沢は、俺の前だと様子がおかしい」が、8月10日深夜より放送開始される。放送に先駆けて、キービジュアルが公開された。本作でW主演を務めるのは、小泉光咲（原因は自分にある。）と四坂亮翔。小泉は個人として連続ドラマ初主演、四坂は連続ドラ ... The post 小泉光咲、四坂亮翔W主演BLドラマ「陽キャ集団にいる芹沢は、俺",
+        "groups": [
+          "原因は自分にある。"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "3615bc8f096990b9",
+        "title": "「ViVi国宝級イケメンランキング 2026年上半期」発表。山中柔太朗（M!LK）が「NOW部門」初の1位、杢代和人（原因は自分にある。）が「NEXT部門」悲願の首位獲得。「ADULT部門」は松村北斗（SixTONES）が前人未踏の3部門殿堂入り",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/07/15/tgb004",
+        "publishedAt": "2026-07-15T09:50:00.000Z",
+        "summary": "",
+        "groups": [
+          "M!LK",
+          "原因は自分にある。"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "杢代和人",
+            "group": "原因は自分にある。",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "3fb662210aaeb54f",
+        "title": "森愁斗主演『ウォーターガーディアンズ』本予告解禁、ライフセーバーの本格訓練シーンが初お披露目",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/06/87426/",
+        "publishedAt": "2026-06-05T22:00:00.000Z",
+        "summary": "森愁斗主演映画『ウォーターガーディアンズ』の公開日が8月21日(金)に決定し、本予告映像と主題歌、追加キャスト情報が一挙解禁された。 本作は、ライフセーバーを目指す若者たちの本気のひと夏を描いた青春サマームービー。思いがけずライフセーバーになるという目標を得た若者たちが友情を育み、恋と出会う姿を描く。キャストでは主人公・海翔役の森愁斗（BUDDiiS）、海翔",
+        "groups": [
+          "原因は自分にある。",
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
       }
     ],
     "EBiDAN": [
@@ -477,92 +589,6 @@
           {
             "name": "リョウガ",
             "group": "超特急",
-            "status": "active"
-          }
-        ]
-      }
-    ],
-    "原因は自分にある。": [
-      {
-        "id": "c9838472a5495915",
-        "title": "山中柔太朗が“国宝級イケメン”でファン歓喜 「私の推しって最高」「確実に山中柔太朗の時代がきている」",
-        "sourceName": "マイナビニュース 芸能",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-        "articleUrl": "https://news.mynavi.jp/article/20260715-4705231/",
-        "publishedAt": "2026-07-15T09:52:44.000Z",
-        "summary": "講談社は15日、「ViVi国宝級イケメンランキング 2026年上半期」の結果を発表した。NOW部門ではM!LKの山中柔太朗が初の1位を獲得。NEXT部門では原因は自分にある。の杢代和人が悲願の首位に輝き、ADULT部門ではSixTONESの松村北斗が1位となった。",
-        "groups": [
-          "M!LK",
-          "原因は自分にある。"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "杢代和人",
-            "group": "原因は自分にある。",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "3615bc8f096990b9",
-        "title": "「ViVi国宝級イケメンランキング 2026年上半期」発表。山中柔太朗（M!LK）が「NOW部門」初の1位、杢代和人（原因は自分にある。）が「NEXT部門」悲願の首位獲得。「ADULT部門」は松村北斗（SixTONES）が前人未踏の3部門殿堂入り",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/07/15/tgb004",
-        "publishedAt": "2026-07-15T09:50:00.000Z",
-        "summary": "",
-        "groups": [
-          "M!LK",
-          "原因は自分にある。"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "杢代和人",
-            "group": "原因は自分にある。",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "3fb662210aaeb54f",
-        "title": "森愁斗主演『ウォーターガーディアンズ』本予告解禁、ライフセーバーの本格訓練シーンが初お披露目",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/06/87426/",
-        "publishedAt": "2026-06-05T22:00:00.000Z",
-        "summary": "森愁斗主演映画『ウォーターガーディアンズ』の公開日が8月21日(金)に決定し、本予告映像と主題歌、追加キャスト情報が一挙解禁された。 本作は、ライフセーバーを目指す若者たちの本気のひと夏を描いた青春サマームービー。思いがけずライフセーバーになるという目標を得た若者たちが友情を育み、恋と出会う姿を描く。キャストでは主人公・海翔役の森愁斗（BUDDiiS）、海翔",
-        "groups": [
-          "原因は自分にある。",
-          "BUDDiiS"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "SHOOT",
-            "group": "BUDDiiS",
             "status": "active"
           }
         ]
