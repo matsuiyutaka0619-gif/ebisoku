@@ -1,25 +1,25 @@
 {
-  "updatedAt": "2026-07-23T08:44:24.483Z",
+  "updatedAt": "2026-07-23T14:30:57.209Z",
   "totals": {
     "all": 160,
-    "today": 2,
-    "week": 22
+    "today": 6,
+    "week": 23
   },
   "groupRanking": [
     {
       "name": "EBiDAN",
-      "count": 6
+      "count": 7
     },
     {
       "name": "SUPER★DRAGON",
-      "count": 6
-    },
-    {
-      "name": "超特急",
-      "count": 6
+      "count": 7
     },
     {
       "name": "M!LK",
+      "count": 5
+    },
+    {
+      "name": "超特急",
       "count": 5
     },
     {
@@ -30,14 +30,10 @@
   "memberRanking": [
     {
       "name": "リョウガ",
-      "count": 4
+      "count": 3
     },
     {
       "name": "アロハ",
-      "count": 2
-    },
-    {
-      "name": "佐野勇斗",
       "count": 2
     },
     {
@@ -49,11 +45,15 @@
       "count": 1
     },
     {
-      "name": "塩﨑太智",
+      "name": "佐野勇斗",
       "count": 1
     },
     {
       "name": "小泉光咲",
+      "count": 1
+    },
+    {
+      "name": "曽野舜太",
       "count": 1
     },
     {
@@ -68,14 +68,14 @@
   "sourceRanking": [
     {
       "name": "SUPER★DRAGON 公式NEWS",
-      "count": 6
-    },
-    {
-      "name": "タワーレコード ニュース",
-      "count": 4
+      "count": 7
     },
     {
       "name": "超特急 公式NEWS",
+      "count": 5
+    },
+    {
+      "name": "タワーレコード ニュース",
       "count": 4
     },
     {
@@ -83,25 +83,203 @@
       "count": 2
     },
     {
-      "name": "WWSチャンネル",
-      "count": 2
-    },
-    {
-      "name": "マイナビニュース 芸能",
-      "count": 2
-    },
-    {
       "name": "THE FIRST TIMES",
+      "count": 1
+    },
+    {
+      "name": "WWSチャンネル",
+      "count": 1
+    },
+    {
+      "name": "マイナビニュース エンタメ",
       "count": 1
     },
     {
       "name": "マイナビニュース テレビ",
       "count": 1
+    },
+    {
+      "name": "マイナビニュース 芸能",
+      "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
+    "M!LK": [
+      {
+        "id": "932f2bcf32ec4ee5",
+        "title": "「ブンブン振り回していたら……」M!LK曽野舜太、殺陣練習のために模擬刀を購入→自宅で起こったハプニングとは",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20260723-4733726/",
+        "publishedAt": "2026-07-23T13:00:00.000Z",
+        "summary": "ダンスボーカルグループ・M!LKの曽野舜太が23日、映画『仮面ライダーゼッツ さよならのミッション』/映画『超宇宙刑事ギャバン インフィニティ 太陽が泣いた日』(ともに7月24日公開)の公開前夜祭舞台挨拶に登壇。殺陣練習の裏で起こったハプニングを明かした。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "df6f9b59eb1ed609",
+        "title": "M!LK『装苑』表紙を飾る！NEWS増田貴久、KEY TO LIT中村嶺亜、STARGLOW・RUIも登場",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000851210/",
+        "publishedAt": "2026-07-23T09:00:26.000Z",
+        "summary": "M!LKが、『装苑』9月号（7月28日発売）の表紙と巻頭に登場。さらに、増田貴久（NEWS）、中村嶺...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "1255e2a9610f5481",
+        "title": "M!LK、9月16日リリースの1stミニ・アルバム『LOVE ENG!NE』より“You!Joy!Parade!”MV公開。「モー烈モー進！リリースプロジェクト2026」第4弾",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/07/21/tg001",
+        "publishedAt": "2026-07-21T10:00:00.000Z",
+        "summary": "",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "863e1a786b9eefad",
+        "title": "佐野勇斗（M!LK）、「Ray 2026年9月号」特別版表紙を飾る",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/07/21/tgb002",
+        "publishedAt": "2026-07-21T08:55:00.000Z",
+        "summary": "",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "aeb8d52a36d7610c",
+        "title": "夏を全力で楽しむ5人をワンカットで撮影、M!LK最新曲「You!Joy!Parade!」MV公開",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/07/89424/",
+        "publishedAt": "2026-07-17T10:00:00.000Z",
+        "summary": "5人組ダンス＆ボーカルグループ・M!LKの最新曲「You!Joy!Parade!」のミュージックビデオがYouTubeでプレミア公開された。 5ヵ月連続リリース企画「モー烈モー進！リリースプロジェクト2026」第四弾として本日7月17日(金)にリリースされた本楽曲は、“かけがえのない仲間と過ごす夏”をメインテーマに制作された一曲。絆と友情の力を感じさせるリリ",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
+    "EBiDAN": [
+      {
+        "id": "0e9cf16d468ceeec",
+        "title": "「J-POPシングル ウィークリーTOP30」発表。1位は乃木坂46『是非に及ばず』、予約1位はEBiDAN（恵比寿学園男子部）『Yes! 東京』（2026年7月23日付）",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/07/23/tg001",
+        "publishedAt": "2026-07-23T10:00:00.000Z",
+        "summary": "",
+        "groups": [
+          "EBiDAN"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "bd0df7139fe2f96f",
+        "title": "【7/21(火)更新】EBiDANと過ごす、特別な夏がやってくる！2026年8月15日(土)より全国4会場のhmv museumで開催となる『EBiDAN museum 2026』メインビジュアルを発表！",
+        "sourceName": "超特急 公式NEWS",
+        "sourceUrl": "https://bullettrain.jp/news/feed/",
+        "articleUrl": "https://bullettrain.jp/news/news26381/",
+        "publishedAt": "2026-07-21T10:30:48.000Z",
+        "summary": "EBiDANと過ごす、特別な夏がやってくる！『EBiDAN museum 2026』2026年8月15日(土)より全国4会場のhmv museumで同時開催が決定しました！ 今年のテーマは“EBiDANの夏休み”！ 本展 […]",
+        "groups": [
+          "EBiDAN"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "cb78ee0f64851fdc",
+        "title": "EBiDAN（恵比寿学園男子部）登場。メンバー8名が「JUNON 2026年9月号」臨時増刊版の表紙＆裏表紙ジャック",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/07/21/tgb005",
+        "publishedAt": "2026-07-21T09:30:00.000Z",
+        "summary": "",
+        "groups": [
+          "EBiDAN"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "8ff110acc153a48a",
+        "title": "EBiDAN全9グループ集結ライブ、全国のカラオケに生配信 日替わりシャッフルも",
+        "sourceName": "マイナビニュース 芸能",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
+        "articleUrl": "https://news.mynavi.jp/article/20260718-4713796/",
+        "publishedAt": "2026-07-17T20:00:00.000Z",
+        "summary": "EBiDAN(恵比寿学園男子部)によるライブ『EBiDAN THE LIVE 2026 15th Anniversary』が、8月13日から16日までの4日間、JOYSOUNDの映像視聴サービス「みるハコ」を通じて、全国の対象カラオケルームに生配信される。",
+        "groups": [
+          "EBiDAN"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "3b6cae44bc88ebae",
+        "title": "『EBiDAN 15th Anniversaryオフィシャルグッズ』の販売が決定！",
+        "sourceName": "超特急 公式NEWS",
+        "sourceUrl": "https://bullettrain.jp/news/feed/",
+        "articleUrl": "https://bullettrain.jp/news/news26375/",
+        "publishedAt": "2026-07-17T07:18:56.000Z",
+        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念いたしまして、『EBiDAN 15th Anniversaryオフィシャルグッズ』の販売が決定いたしました！ ロゴが映えるリキッドキーホルダーやファーキーホルダー、メンバ […]",
+        "groups": [
+          "EBiDAN"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
     "SUPER★DRAGON": [
+      {
+        "id": "29867d39abe6cee0",
+        "title": "「SUPER★DRAGON DRA FES 2026」最新チケット情報",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11448/",
+        "publishedAt": "2026-07-23T09:00:29.000Z",
+        "summary": "7月23日(木)18:00よりプレイガイド先行受付開始。 会場で皆さんとお会いできることを楽しみにしております！ ―――――――――――――――――――――――――――――――― ※重要：お申込み前に必ずご確認ください。 […] The post 「SUPER★DRAGON DRA FES 2026」最新チケット情報 first appeared on SU",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
       {
         "id": "6dd22c00b970d680",
         "title": "SUPER★DRAGON ジャン海渡 イベント欠席のお知らせ",
@@ -181,117 +359,23 @@
             "status": "active"
           }
         ]
-      },
-      {
-        "id": "1001bcc1100d7db2",
-        "title": "『EBiDAN 15th Anniversaryオフィシャルグッズ』の販売が決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11432/",
-        "publishedAt": "2026-07-17T07:00:40.000Z",
-        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念いたしまして、『EBiDAN 15th Anniversaryオフィシャルグッズ』の販売が決定いたしました！ ロゴが映えるリキッドキーホルダーやファーキーホルダー、メンバ […] The post 『EBiDAN 15th Anniversaryオフィシャルグッズ』の販売が決定！ first appeared",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "M!LK": [
-      {
-        "id": "dda4b36a1fc1109c",
-        "title": "M!LK佐野勇斗＆塩﨑太智が“がっしり肩組み”！満面の笑みを浮かべる仲良し2ショットに「激エモ」「兄弟みたい」「かわいすぎて横転」「最高すぎる」「尊い」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000851292/",
-        "publishedAt": "2026-07-23T02:54:32.000Z",
-        "summary": "M!LKの塩崎太智（崎は、たつさきが正式表記）が自身のInstagramを更新。佐野勇斗とともにアメ...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "1255e2a9610f5481",
-        "title": "M!LK、9月16日リリースの1stミニ・アルバム『LOVE ENG!NE』より“You!Joy!Parade!”MV公開。「モー烈モー進！リリースプロジェクト2026」第4弾",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/07/21/tg001",
-        "publishedAt": "2026-07-21T10:00:00.000Z",
-        "summary": "",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "863e1a786b9eefad",
-        "title": "佐野勇斗（M!LK）、「Ray 2026年9月号」特別版表紙を飾る",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/07/21/tgb002",
-        "publishedAt": "2026-07-21T08:55:00.000Z",
-        "summary": "",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "ef95f37f551f98c9",
-        "title": "M!LK、新曲“You!Joy!Parade!”が吉沢亮出演のマクドナルド新TVCM「ポケモン30周年バーガー」篇CMソングに起用。7月21日全国放映開始",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/07/17/tg010",
-        "publishedAt": "2026-07-17T12:30:00.000Z",
-        "summary": "",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "aeb8d52a36d7610c",
-        "title": "夏を全力で楽しむ5人をワンカットで撮影、M!LK最新曲「You!Joy!Parade!」MV公開",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/07/89424/",
-        "publishedAt": "2026-07-17T10:00:00.000Z",
-        "summary": "5人組ダンス＆ボーカルグループ・M!LKの最新曲「You!Joy!Parade!」のミュージックビデオがYouTubeでプレミア公開された。 5ヵ月連続リリース企画「モー烈モー進！リリースプロジェクト2026」第四弾として本日7月17日(金)にリリースされた本楽曲は、“かけがえのない仲間と過ごす夏”をメインテーマに制作された一曲。絆と友情の力を感じさせるリリ",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
       }
     ],
     "超特急": [
+      {
+        "id": "169857daa9888bb5",
+        "title": "超特急『BULLET TRAIN ARENA TOUR 2026 ESCORT』オフィシャルグッズ＆生写真セット 【8/8 (土)、8/9(日)Kアリーナ横浜公演】〈事前購入・会場受取〉実施のお知らせ",
+        "sourceName": "超特急 公式NEWS",
+        "sourceUrl": "https://bullettrain.jp/news/feed/",
+        "articleUrl": "https://bullettrain.jp/news/news26385/",
+        "publishedAt": "2026-07-23T08:59:47.000Z",
+        "summary": "「BULLET TRAIN ARENA TOUR 2026 ESCORT」のKアリーナ横浜公演会場にて、 該当公演のチケットをお持ちの方を対象に、会場で受け取り可能なオフィシャルグッズ・生写真セットの〈事前購入・会場受取 […]",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
       {
         "id": "397a635043a0e0e2",
         "title": "映画『ワンダンス』新キャストにGirls2山口綺羅、MAZZEL・RAN、TSUKKI、超特急・髙松アロハ",
@@ -313,20 +397,6 @@
             "status": "active"
           }
         ]
-      },
-      {
-        "id": "67b55c684d419568",
-        "title": "＝LOVE、「音楽の日2026」で話題曲を生歌唱！「とくべチュ、して」「超特急逃走中」をスペシャルメドレーで披露",
-        "sourceName": "WWSチャンネル",
-        "sourceUrl": "https://www.wws-channel.com/feed",
-        "articleUrl": "https://www.wws-channel.com/girls2/656736.html",
-        "publishedAt": "2026-07-20T12:30:48.000Z",
-        "summary": "＝LOVEが7月18日、TBS系「音楽の日2026」に生出演し、「とくべチュ、して」と「超特急逃走中」をスペシャルメドレーで披露した。番組内の「億越えメドレー」に登場した＝LOVEは、佐々木舞香がセンターを務める「とくべチュ、して」と、野口衣織がセンターを務める「超特急 ... The post ＝LOVE、「音楽の日2026」で話題曲を生歌唱！「とくべチュ",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
       },
       {
         "id": "ef48f928a6696897",
@@ -356,28 +426,6 @@
         ]
       },
       {
-        "id": "15bc9e31dee68d44",
-        "title": "超特急リョウガ、当面休養へ 疲労蓄積とヘルニア症状「超特急で戻ってくるから待っとけよ」",
-        "sourceName": "マイナビニュース 芸能",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-        "articleUrl": "https://news.mynavi.jp/article/20260717-4711289/",
-        "publishedAt": "2026-07-16T23:15:28.000Z",
-        "summary": "「超特急で戻ってくるから待っとけよ」――メインダンサー＆バックボーカルグループ・超特急のリョウガが17日、当面の間、活動を休止することが発表された。疲労の蓄積と、かねてより抱えているヘルニアの症状が重なったため、休養に専念する。",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "リョウガ",
-            "group": "超特急",
-            "status": "active"
-          }
-        ]
-      },
-      {
         "id": "db547bce1070a3b7",
         "title": "超特急リョウガ・マサヒロ番組欠席のお知らせ",
         "sourceName": "超特急 公式NEWS",
@@ -399,6 +447,28 @@
           },
           {
             "name": "マサヒロ",
+            "group": "超特急",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "6cb670a7abf60acb",
+        "title": "超特急リョウガに関する大切なお知らせ",
+        "sourceName": "超特急 公式NEWS",
+        "sourceUrl": "https://bullettrain.jp/news/feed/",
+        "articleUrl": "https://bullettrain.jp/news/news26367/",
+        "publishedAt": "2026-07-16T21:59:43.000Z",
+        "summary": "いつも超特急へ温かい応援をいただきまして、誠にありがとうございます。 メンバーのリョウガですが、今月初旬より体調を崩すことが増えたため、健康診断も兼ねて医療機関を受診いたしました。 その結果、疲労が蓄積している状態であり […]",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "リョウガ",
             "group": "超特急",
             "status": "active"
           }
@@ -455,79 +525,6 @@
             "status": "active"
           }
         ]
-      }
-    ],
-    "EBiDAN": [
-      {
-        "id": "bd0df7139fe2f96f",
-        "title": "【7/21(火)更新】EBiDANと過ごす、特別な夏がやってくる！2026年8月15日(土)より全国4会場のhmv museumで開催となる『EBiDAN museum 2026』メインビジュアルを発表！",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26381/",
-        "publishedAt": "2026-07-21T10:30:48.000Z",
-        "summary": "EBiDANと過ごす、特別な夏がやってくる！『EBiDAN museum 2026』2026年8月15日(土)より全国4会場のhmv museumで同時開催が決定しました！ 今年のテーマは“EBiDANの夏休み”！ 本展 […]",
-        "groups": [
-          "EBiDAN"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "cb78ee0f64851fdc",
-        "title": "EBiDAN（恵比寿学園男子部）登場。メンバー8名が「JUNON 2026年9月号」臨時増刊版の表紙＆裏表紙ジャック",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/07/21/tgb005",
-        "publishedAt": "2026-07-21T09:30:00.000Z",
-        "summary": "",
-        "groups": [
-          "EBiDAN"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "8ff110acc153a48a",
-        "title": "EBiDAN全9グループ集結ライブ、全国のカラオケに生配信 日替わりシャッフルも",
-        "sourceName": "マイナビニュース 芸能",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-        "articleUrl": "https://news.mynavi.jp/article/20260718-4713796/",
-        "publishedAt": "2026-07-17T20:00:00.000Z",
-        "summary": "EBiDAN(恵比寿学園男子部)によるライブ『EBiDAN THE LIVE 2026 15th Anniversary』が、8月13日から16日までの4日間、JOYSOUNDの映像視聴サービス「みるハコ」を通じて、全国の対象カラオケルームに生配信される。",
-        "groups": [
-          "EBiDAN"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "3b6cae44bc88ebae",
-        "title": "『EBiDAN 15th Anniversaryオフィシャルグッズ』の販売が決定！",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26375/",
-        "publishedAt": "2026-07-17T07:18:56.000Z",
-        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念いたしまして、『EBiDAN 15th Anniversaryオフィシャルグッズ』の販売が決定いたしました！ ロゴが映えるリキッドキーホルダーやファーキーホルダー、メンバ […]",
-        "groups": [
-          "EBiDAN"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "1001bcc1100d7db2",
-        "title": "『EBiDAN 15th Anniversaryオフィシャルグッズ』の販売が決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11432/",
-        "publishedAt": "2026-07-17T07:00:40.000Z",
-        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念いたしまして、『EBiDAN 15th Anniversaryオフィシャルグッズ』の販売が決定いたしました！ ロゴが映えるリキッドキーホルダーやファーキーホルダー、メンバ […] The post 『EBiDAN 15th Anniversaryオフィシャルグッズ』の販売が決定！ first appeared",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
       }
     ],
     "BUDDiiS": [
