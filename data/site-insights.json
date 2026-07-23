@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-07-22T19:42:43.006Z",
+  "updatedAt": "2026-07-23T03:44:23.118Z",
   "totals": {
     "all": 160,
-    "today": 0,
-    "week": 27
+    "today": 2,
+    "week": 24
   },
   "groupRanking": [
     {
@@ -12,14 +12,14 @@
     },
     {
       "name": "M!LK",
-      "count": 8
-    },
-    {
-      "name": "超特急",
-      "count": 7
+      "count": 6
     },
     {
       "name": "SUPER★DRAGON",
+      "count": 6
+    },
+    {
+      "name": "超特急",
       "count": 6
     },
     {
@@ -34,14 +34,18 @@
     },
     {
       "name": "アロハ",
-      "count": 3
+      "count": 2
     },
     {
       "name": "佐野勇斗",
-      "count": 3
+      "count": 2
     },
     {
       "name": "マサヒロ",
+      "count": 1
+    },
+    {
+      "name": "塩﨑太智",
       "count": 1
     },
     {
@@ -71,10 +75,6 @@
       "count": 4
     },
     {
-      "name": "THE FIRST TIMES",
-      "count": 3
-    },
-    {
       "name": "Bezzy",
       "count": 2
     },
@@ -87,7 +87,7 @@
       "count": 2
     },
     {
-      "name": "マイナビニュース エンタメ",
+      "name": "THE FIRST TIMES",
       "count": 1
     },
     {
@@ -95,7 +95,7 @@
       "count": 1
     },
     {
-      "name": "リアルサウンド 映画部",
+      "name": "リアルサウンド 音楽",
       "count": 1
     }
   ],
@@ -103,13 +103,13 @@
   "recentByGroup": {
     "M!LK": [
       {
-        "id": "aea91094e4c1c752",
-        "title": "「努力の塊」「すごすぎる」M!LK佐野勇斗、海外旅行中も“役作り”欠かさず…活躍に隠された“真面目で努力家の一面”に反響",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20260722-4729814/",
-        "publishedAt": "2026-07-22T12:00:00.000Z",
-        "summary": "「毎日1回は描くようにしてる」アイドルグループ・M!LKの佐野勇斗が公開したアメリカ旅行中の“1シーン”に、ファンから称賛の声が上がっている―。",
+        "id": "dda4b36a1fc1109c",
+        "title": "M!LK佐野勇斗＆塩﨑太智が“がっしり肩組み”！満面の笑みを浮かべる仲良し2ショットに「激エモ」「兄弟みたい」「かわいすぎて横転」「最高すぎる」「尊い」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000851292/",
+        "publishedAt": "2026-07-23T02:54:32.000Z",
+        "summary": "M!LKの塩崎太智（崎は、たつさきが正式表記）が自身のInstagramを更新。佐野勇斗とともにアメ...",
         "groups": [
           "M!LK"
         ],
@@ -121,53 +121,22 @@
             "name": "佐野勇斗",
             "group": "M!LK",
             "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "de3857c505642ba2",
-        "title": "佐野勇斗がまさかの衣装紛失!? M!LK“ひとりだけ違う衣装”の『音楽の日』集合ショット公開「確かに既視感なかった」「逆にレアでよかった」「かわいいから大丈夫」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000850672/",
-        "publishedAt": "2026-07-22T05:31:56.000Z",
-        "summary": "M!LKの佐野勇斗がXで、TBSの夏の大型音楽特番『音楽の日2026』（7月18日放送）のオフショット...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
+          },
           {
-            "name": "佐野勇斗",
+            "name": "塩﨑太智",
             "group": "M!LK",
             "status": "active"
           }
         ]
       },
       {
-        "id": "72ad67827ffd4ec4",
-        "title": "『Mステ』初登場アーティストがM!LKとの舞台裏ショット公開！半分私服!?のメンバーに「M!LKオフ感ある」「塩崎くんミセスとディズニーのコラボTシャツだ」「このメンツとの絡みすごい」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000850560/",
-        "publishedAt": "2026-07-22T04:51:01.000Z",
-        "summary": "7月17日放送の『ミュージックステーション 1500回記念 夏の2時間スペシャル』（テレビ朝日系）...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "009ff12e6902fdd4",
-        "title": "新浜レオンがM!LKと“お揃い風の王子様衣装”で並んだ『音楽の日2026』オフショット公開！「好きすぎて滅！」ダンスも披露「M!LKに馴染みすぎてる（笑）」「まぶしすぎて滅」「仁人くんの笑顔が最高」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000850592/",
-        "publishedAt": "2026-07-22T04:28:08.000Z",
-        "summary": "新浜レオンがXでM!LKとの『音楽の日2026』（TBS系・7月18日放送）オフショットを公開した。 ■...",
+        "id": "82bda8860d5bef59",
+        "title": "Snow ManとM!LK、YouTubeで見せる驚異的な存在感 ランキング上半期トップ圏を制した理由",
+        "sourceName": "リアルサウンド 音楽",
+        "sourceUrl": "https://realsound.jp/music/feed",
+        "articleUrl": "https://realsound.jp/2026/07/post-2467949.html",
+        "publishedAt": "2026-07-22T20:50:17.000Z",
+        "summary": "2026年上半期の「インフルエンサーパワーランキング」が発表され、「YouTube チャンネル総再生回数ランキング（通常動画）」にてSnow Manが1位、M!LKが3位にランクイン。巨大なエンターテインメントチャンネルを築いてきた2組のそれぞれの強みを考える。",
         "groups": [
           "M!LK"
         ],
@@ -187,31 +156,45 @@
         ],
         "statuses": [],
         "memberMatches": []
-      }
-    ],
-    "超特急": [
+      },
       {
-        "id": "f848bc1286f237c5",
-        "title": "映画『ワンダンス』にGirls² 山口綺羅、MAZZEL RAN、超特急 髙松アロハ、TSUKKI出演へ",
-        "sourceName": "リアルサウンド 映画部",
-        "sourceUrl": "https://realsound.jp/movie/feed",
-        "articleUrl": "https://realsound.jp/movie/2026/07/post-2467390.html",
-        "publishedAt": "2026-07-22T09:00:06.000Z",
-        "summary": "11月27日に公開される&TEAMのJO主演映画『ワンダンス』に、山口綺羅（Girls²）、RAN（MAZZEL）、TSUKKI、髙松アロハ（超特急）が出演することが決定。あわせて4人のキャラクタービジュアルと",
+        "id": "863e1a786b9eefad",
+        "title": "佐野勇斗（M!LK）、「Ray 2026年9月号」特別版表紙を飾る",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/07/21/tgb002",
+        "publishedAt": "2026-07-21T08:55:00.000Z",
+        "summary": "",
         "groups": [
-          "超特急"
+          "M!LK"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "アロハ",
-            "group": "超特急",
+            "name": "佐野勇斗",
+            "group": "M!LK",
             "status": "active"
           }
         ]
       },
+      {
+        "id": "ef95f37f551f98c9",
+        "title": "M!LK、新曲“You!Joy!Parade!”が吉沢亮出演のマクドナルド新TVCM「ポケモン30周年バーガー」篇CMソングに起用。7月21日全国放映開始",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/07/17/tg010",
+        "publishedAt": "2026-07-17T12:30:00.000Z",
+        "summary": "",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
+    "超特急": [
       {
         "id": "397a635043a0e0e2",
         "title": "映画『ワンダンス』新キャストにGirls2山口綺羅、MAZZEL・RAN、TSUKKI、超特急・髙松アロハ",
@@ -292,6 +275,33 @@
         "memberMatches": [
           {
             "name": "リョウガ",
+            "group": "超特急",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "db547bce1070a3b7",
+        "title": "超特急リョウガ・マサヒロ番組欠席のお知らせ",
+        "sourceName": "超特急 公式NEWS",
+        "sourceUrl": "https://bullettrain.jp/news/feed/",
+        "articleUrl": "https://bullettrain.jp/news/news26365/",
+        "publishedAt": "2026-07-16T22:14:12.000Z",
+        "summary": "いつも超特急を応援いただき、誠にありがとうございます。 この度、メンバーのリョウガ・マサヒロが体調不良のため、下記の番組出演を欠席いたします。 2026年7月18日(土)午後2時00分 ON AIR TBS系「音楽の日2 […]",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "リョウガ",
+            "group": "超特急",
+            "status": "active"
+          },
+          {
+            "name": "マサヒロ",
             "group": "超特急",
             "status": "active"
           }
