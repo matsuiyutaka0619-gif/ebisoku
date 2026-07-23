@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-07-23T03:44:23.116Z",
+  "updatedAt": "2026-07-23T08:44:24.480Z",
   "articles": [
+    {
+      "id": "6dd22c00b970d680",
+      "title": "SUPER★DRAGON ジャン海渡 イベント欠席のお知らせ",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news11450/",
+      "publishedAt": "2026-07-23T08:30:11.000Z",
+      "summary": "いつもSUPER★DRAGONを応援していただき、誠にありがとうございます。 メンバーのジャン海渡ですが、体調不良の為、明日開催の「テレビ朝日・六本木ヒルズ SUMMER FES」（東京都・六本木ヒルズアリーナ）に関しま […] The post SUPER★DRAGON ジャン海渡 イベント欠席のお知らせ first appeared on SUPER★D",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "ジャン海渡",
+          "group": "SUPER★DRAGON",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "dda4b36a1fc1109c",
       "title": "M!LK佐野勇斗＆塩﨑太智が“がっしり肩組み”！満面の笑みを浮かべる仲良し2ショットに「激エモ」「兄弟みたい」「かわいすぎて横転」「最高すぎる」「尊い」",
@@ -27,20 +49,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "82bda8860d5bef59",
-      "title": "Snow ManとM!LK、YouTubeで見せる驚異的な存在感 ランキング上半期トップ圏を制した理由",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/07/post-2467949.html",
-      "publishedAt": "2026-07-22T20:50:17.000Z",
-      "summary": "2026年上半期の「インフルエンサーパワーランキング」が発表され、「YouTube チャンネル総再生回数ランキング（通常動画）」にてSnow Manが1位、M!LKが3位にランクイン。巨大なエンターテインメントチャンネルを築いてきた2組のそれぞれの強みを考える。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "397a635043a0e0e2",
