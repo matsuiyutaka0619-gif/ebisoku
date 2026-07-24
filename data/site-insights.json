@@ -1,18 +1,14 @@
 {
-  "updatedAt": "2026-07-24T08:42:17.004Z",
+  "updatedAt": "2026-07-24T14:12:37.578Z",
   "totals": {
     "all": 160,
-    "today": 8,
-    "week": 24
+    "today": 10,
+    "week": 22
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 8
-    },
-    {
-      "name": "SUPER★DRAGON",
-      "count": 6
+      "count": 7
     },
     {
       "name": "超特急",
@@ -23,26 +19,38 @@
       "count": 4
     },
     {
+      "name": "SUPER★DRAGON",
+      "count": 4
+    },
+    {
+      "name": "BUDDiiS",
+      "count": 2
+    },
+    {
       "name": "原因は自分にある。",
       "count": 1
     }
   ],
   "memberRanking": [
     {
+      "name": "佐野勇斗",
+      "count": 3
+    },
+    {
+      "name": "SHOOT",
+      "count": 2
+    },
+    {
       "name": "アロハ",
       "count": 2
     },
     {
+      "name": "曽野舜太",
+      "count": 2
+    },
+    {
       "name": "ジャン海渡",
-      "count": 2
-    },
-    {
-      "name": "佐野勇斗",
-      "count": 2
-    },
-    {
-      "name": "田中洸希",
-      "count": 2
+      "count": 1
     },
     {
       "name": "タカシ",
@@ -53,26 +61,34 @@
       "count": 1
     },
     {
+      "name": "塩﨑太智",
+      "count": 1
+    },
+    {
       "name": "小泉光咲",
       "count": 1
     },
     {
-      "name": "曽野舜太",
-      "count": 1
-    },
-    {
-      "name": "飯島颯",
+      "name": "田中洸希",
       "count": 1
     }
   ],
   "sourceRanking": [
     {
       "name": "SUPER★DRAGON 公式NEWS",
-      "count": 5
+      "count": 4
     },
     {
       "name": "タワーレコード ニュース",
-      "count": 5
+      "count": 4
+    },
+    {
+      "name": "THE FIRST TIMES",
+      "count": 3
+    },
+    {
+      "name": "マイナビニュース エンタメ",
+      "count": 3
     },
     {
       "name": "超特急 公式NEWS",
@@ -81,18 +97,6 @@
     {
       "name": "Bezzy",
       "count": 2
-    },
-    {
-      "name": "THE FIRST TIMES",
-      "count": 2
-    },
-    {
-      "name": "WWSチャンネル",
-      "count": 1
-    },
-    {
-      "name": "マイナビニュース エンタメ",
-      "count": 1
     },
     {
       "name": "マイナビニュース テレビ",
@@ -109,6 +113,267 @@
   ],
   "topics": [],
   "recentByGroup": {
+    "BUDDiiS": [
+      {
+        "id": "c565c528f8526cb5",
+        "title": "森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』の本編冒頭映像が初解禁！⻘春感溢れる“わちゃわちゃ”なやりとりを披露",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000852584/",
+        "publishedAt": "2026-07-24T12:00:56.000Z",
+        "summary": "森愁斗（BUDDiiS）が主演を務める映画『ウォーターガーディアンズ』（8月21日公開）の本編冒頭...",
+        "groups": [
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "15fb9ee4d3775ce2",
+        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/07/89645/",
+        "publishedAt": "2026-07-24T12:00:00.000Z",
+        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
+        "groups": [
+          "原因は自分にある。",
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "3fb662210aaeb54f",
+        "title": "森愁斗主演『ウォーターガーディアンズ』本予告解禁、ライフセーバーの本格訓練シーンが初お披露目",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/06/87426/",
+        "publishedAt": "2026-06-05T22:00:00.000Z",
+        "summary": "森愁斗主演映画『ウォーターガーディアンズ』の公開日が8月21日(金)に決定し、本予告映像と主題歌、追加キャスト情報が一挙解禁された。 本作は、ライフセーバーを目指す若者たちの本気のひと夏を描いた青春サマームービー。思いがけずライフセーバーになるという目標を得た若者たちが友情を育み、恋と出会う姿を描く。キャストでは主人公・海翔役の森愁斗（BUDDiiS）、海翔",
+        "groups": [
+          "原因は自分にある。",
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "8a2525e65219e9a6",
+        "title": "板垣李光人、綱啓永、吉川愛、MOMONAらが戦慄する『口に関するアンケート』場面写真解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/05/86294/",
+        "publishedAt": "2026-05-14T22:00:00.000Z",
+        "summary": "7月3日(金)より全国公開される板垣李光人主演のホラー映画『口に関するアンケート』から場面写真11点が解禁された。 本作の原作は、昨年映画化された『近畿地方のある場所について』も話題となったホラー作家・背筋による累計32万部突破中の同名小説。手のひらサイズの装丁と60ページという短い物語の中でしっかりと恐怖を味わえる読書体験が「怖すぎて人に薦められない」「読",
+        "groups": [
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "原因は自分にある。": [
+      {
+        "id": "15fb9ee4d3775ce2",
+        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/07/89645/",
+        "publishedAt": "2026-07-24T12:00:00.000Z",
+        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
+        "groups": [
+          "原因は自分にある。",
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "3fb662210aaeb54f",
+        "title": "森愁斗主演『ウォーターガーディアンズ』本予告解禁、ライフセーバーの本格訓練シーンが初お披露目",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/06/87426/",
+        "publishedAt": "2026-06-05T22:00:00.000Z",
+        "summary": "森愁斗主演映画『ウォーターガーディアンズ』の公開日が8月21日(金)に決定し、本予告映像と主題歌、追加キャスト情報が一挙解禁された。 本作は、ライフセーバーを目指す若者たちの本気のひと夏を描いた青春サマームービー。思いがけずライフセーバーになるという目標を得た若者たちが友情を育み、恋と出会う姿を描く。キャストでは主人公・海翔役の森愁斗（BUDDiiS）、海翔",
+        "groups": [
+          "原因は自分にある。",
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "M!LK": [
+      {
+        "id": "f24b9a74ba26d74a",
+        "title": "曽野舜太、夢の『仮面ライダー』役で活きたM!LKでの経験明かす 役柄に驚きも「あれ、俺…」",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20260724-4735976/",
+        "publishedAt": "2026-07-24T11:00:00.000Z",
+        "summary": "ダンスボーカルグループ・M!LKの曽野舜太が23日、映画『仮面ライダーゼッツ さよならのミッション』/映画『超宇宙刑事ギャバン インフィニティ 太陽が泣いた日』(公開中)の公開前夜祭舞台挨拶に登壇。夢だったという『仮面ライダー』出演で活きたM!LKでの経験を明かした。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "c103147be85ce044",
+        "title": "「普通に友達すぎて感動」「ほんとに良い仲間すぎる」「激メロ」M!LK佐野勇斗、アメリカで現地合流した“友達”との2Sにファン大歓喜",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20260724-4729968/",
+        "publishedAt": "2026-07-24T10:00:00.000Z",
+        "summary": "「おかしくなっちゃった? タガが外れちゃった?」アイドルグループ・M!LKの佐野勇斗が、メンバーの塩崎太智(※崎はたつさき)とのアメリカ滞在中の様子を公開した―。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "a1370e3afcac3823",
+        "title": "星野源、松本若菜＆佐野勇斗共演ドラマ『君の好きは無敵』主題歌「好き」の配信リリースが決定",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000852472/",
+        "publishedAt": "2026-07-24T09:00:37.000Z",
+        "summary": "星野源の新曲「好き」が、7月29日0時に配信リリースされる。 ■最高にパワフルな“今の星野源”を...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "bb134c6471a6098c",
+        "title": "M!LKの“全員ビジュやばい”5人集合ショット！ちゃぶ台を囲んで身を寄せ仲良くポーズ「前髪ありのだいちゃん天才」「神ビジュ仁人さんだ」「しおたろう双子コーデみたいでかわいい」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000852267/",
+        "publishedAt": "2026-07-24T05:11:46.000Z",
+        "summary": "M!LKの公式Xが更新され、メンバー5人がそろった番組オフショットが公開された。 ■M!LKがちゃぶ...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "3f5a33baf834ec9a",
+        "title": "M!LK、「『装苑』2026年9月号」表紙＆巻頭飾る",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/07/24/tgb004",
+        "publishedAt": "2026-07-24T05:00:00.000Z",
+        "summary": "",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
     "超特急": [
       {
         "id": "9b6c0b82a31b37e9",
@@ -212,33 +477,6 @@
     ],
     "SUPER★DRAGON": [
       {
-        "id": "0450389d2c917a1d",
-        "title": "SUPER★DRAGONメンバー２人が体調不良 当日イベント欠席 公式サイトが発表",
-        "sourceName": "日刊スポーツ 芸能",
-        "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-        "articleUrl": "https://www.nikkansports.com/entertainment/news/202607240000693.html",
-        "publishedAt": "2026-07-24T06:17:51.000Z",
-        "summary": "スターダストプロモーションが手がける9人組男子ダンス＆ボーカルユニット「SUPER★DRAGON」の公式サイトが24日までに、更新され、メンバーのジャン海渡（26）と田中洸希（23）が同日のイベントを欠席することが発表された。 同グルー…",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "ジャン海渡",
-            "group": "SUPER★DRAGON",
-            "status": "active"
-          },
-          {
-            "name": "田中洸希",
-            "group": "SUPER★DRAGON",
-            "status": "active"
-          }
-        ]
-      },
-      {
         "id": "143d7c83523956de",
         "title": "SUPER★DRAGON 田中洸希 イベント欠席のお知らせ",
         "sourceName": "SUPER★DRAGON 公式NEWS",
@@ -309,91 +547,25 @@
         ],
         "statuses": [],
         "memberMatches": []
-      }
-    ],
-    "M!LK": [
-      {
-        "id": "bb134c6471a6098c",
-        "title": "M!LKの“全員ビジュやばい”5人集合ショット！ちゃぶ台を囲んで身を寄せ仲良くポーズ「前髪ありのだいちゃん天才」「神ビジュ仁人さんだ」「しおたろう双子コーデみたいでかわいい」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000852267/",
-        "publishedAt": "2026-07-24T05:11:46.000Z",
-        "summary": "M!LKの公式Xが更新され、メンバー5人がそろった番組オフショットが公開された。 ■M!LKがちゃぶ...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
       },
       {
-        "id": "3f5a33baf834ec9a",
-        "title": "M!LK、「『装苑』2026年9月号」表紙＆巻頭飾る",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/07/24/tgb004",
-        "publishedAt": "2026-07-24T05:00:00.000Z",
-        "summary": "",
+        "id": "6ebb8f3d97b777e2",
+        "title": "【飯島颯】舞台「えぶりでいホスト」出演決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11419/",
+        "publishedAt": "2026-07-17T09:00:58.000Z",
+        "summary": "HAPPEY MUSICAL「えぶりでいホスト」 【開催日時】 2026年11月6日（金）～11月15日（日） 【会場】 シアターH 【原作】 ごとうにも「えぶりでいホスト」（あすかコミックス DX／KADOKAWA 刊 […] The post 【飯島颯】舞台「えぶりでいホスト」出演決定！ first appeared on SUPER★DRAGON .",
         "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "6fdc16d9ff4fb926",
-        "title": "M!LK、キタニタツヤ、ROIROM、Chevon、長谷川白紙、ぼっちぼろまる×日向坂46……注目新譜6作をレビュー",
-        "sourceName": "リアルサウンド 音楽",
-        "sourceUrl": "https://realsound.jp/music/feed",
-        "articleUrl": "https://realsound.jp/2026/07/post-2468634.html",
-        "publishedAt": "2026-07-24T03:10:20.000Z",
-        "summary": "毎週発表される新譜の中から注目作品をレビューしていく連載「New Releases In Focus」。今回は、M!LK「You!Joy!Parade!」、キタニタツヤ「F.A.C.E.」、ROIROM「GHOST HOUSE」、Chevon「Lamipus」、長谷川白紙「窒息日記」、ぼっちぼろまる「ロマンティックがほしいなら」の6作品をピックアップした。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "9d1b5d66705b5d37",
-        "title": "Snow Man『それスノ』SPで“アガる楽曲”を番組初の有観客ライブで披露！完コピチャレンジには佐野勇斗、本郷奏多が初参戦",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000851868/",
-        "publishedAt": "2026-07-24T03:00:07.000Z",
-        "summary": "TBSで毎週金曜夜に放送中の『それSnow Manにやらせて下さい』。7月31日19時からの2時間SPは、...",
-        "groups": [
-          "M!LK"
+          "SUPER★DRAGON"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "932f2bcf32ec4ee5",
-        "title": "「ブンブン振り回していたら……」M!LK曽野舜太、殺陣練習のために模擬刀を購入→自宅で起こったハプニングとは",
-        "sourceName": "マイナビニュース 映画",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
-        "articleUrl": "https://news.mynavi.jp/article/20260723-4733726/",
-        "publishedAt": "2026-07-23T13:00:00.000Z",
-        "summary": "ダンスボーカルグループ・M!LKの曽野舜太が23日、映画『仮面ライダーゼッツ さよならのミッション』/映画『超宇宙刑事ギャバン インフィニティ 太陽が泣いた日』(ともに7月24日公開)の公開前夜祭舞台挨拶に登壇。殺陣練習の裏で起こったハプニングを明かした。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "曽野舜太",
-            "group": "M!LK",
+            "name": "飯島颯",
+            "group": "SUPER★DRAGON",
             "status": "active"
           }
         ]
@@ -469,110 +641,6 @@
         ],
         "statuses": [],
         "memberMatches": []
-      }
-    ],
-    "原因は自分にある。": [
-      {
-        "id": "b42486b0b8b247f3",
-        "title": "小泉光咲、四坂亮翔W主演BLドラマ「陽キャ集団にいる芹沢は、俺の前だと様子がおかしい」キービジュアル解禁！追加キャストも発表",
-        "sourceName": "WWSチャンネル",
-        "sourceUrl": "https://www.wws-channel.com/feed",
-        "articleUrl": "https://www.wws-channel.com/tv/656965.html",
-        "publishedAt": "2026-07-21T21:00:16.000Z",
-        "summary": "読売テレビの新ドラマ「陽キャ集団にいる芹沢は、俺の前だと様子がおかしい」が、8月10日深夜より放送開始される。放送に先駆けて、キービジュアルが公開された。本作でW主演を務めるのは、小泉光咲（原因は自分にある。）と四坂亮翔。小泉は個人として連続ドラマ初主演、四坂は連続ドラ ... The post 小泉光咲、四坂亮翔W主演BLドラマ「陽キャ集団にいる芹沢は、俺",
-        "groups": [
-          "原因は自分にある。"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "3fb662210aaeb54f",
-        "title": "森愁斗主演『ウォーターガーディアンズ』本予告解禁、ライフセーバーの本格訓練シーンが初お披露目",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/06/87426/",
-        "publishedAt": "2026-06-05T22:00:00.000Z",
-        "summary": "森愁斗主演映画『ウォーターガーディアンズ』の公開日が8月21日(金)に決定し、本予告映像と主題歌、追加キャスト情報が一挙解禁された。 本作は、ライフセーバーを目指す若者たちの本気のひと夏を描いた青春サマームービー。思いがけずライフセーバーになるという目標を得た若者たちが友情を育み、恋と出会う姿を描く。キャストでは主人公・海翔役の森愁斗（BUDDiiS）、海翔",
-        "groups": [
-          "原因は自分にある。",
-          "BUDDiiS"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "SHOOT",
-            "group": "BUDDiiS",
-            "status": "active"
-          }
-        ]
-      }
-    ],
-    "BUDDiiS": [
-      {
-        "id": "3fb662210aaeb54f",
-        "title": "森愁斗主演『ウォーターガーディアンズ』本予告解禁、ライフセーバーの本格訓練シーンが初お披露目",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/06/87426/",
-        "publishedAt": "2026-06-05T22:00:00.000Z",
-        "summary": "森愁斗主演映画『ウォーターガーディアンズ』の公開日が8月21日(金)に決定し、本予告映像と主題歌、追加キャスト情報が一挙解禁された。 本作は、ライフセーバーを目指す若者たちの本気のひと夏を描いた青春サマームービー。思いがけずライフセーバーになるという目標を得た若者たちが友情を育み、恋と出会う姿を描く。キャストでは主人公・海翔役の森愁斗（BUDDiiS）、海翔",
-        "groups": [
-          "原因は自分にある。",
-          "BUDDiiS"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "SHOOT",
-            "group": "BUDDiiS",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "8a2525e65219e9a6",
-        "title": "板垣李光人、綱啓永、吉川愛、MOMONAらが戦慄する『口に関するアンケート』場面写真解禁",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/05/86294/",
-        "publishedAt": "2026-05-14T22:00:00.000Z",
-        "summary": "7月3日(金)より全国公開される板垣李光人主演のホラー映画『口に関するアンケート』から場面写真11点が解禁された。 本作の原作は、昨年映画化された『近畿地方のある場所について』も話題となったホラー作家・背筋による累計32万部突破中の同名小説。手のひらサイズの装丁と60ページという短い物語の中でしっかりと恐怖を味わえる読書体験が「怖すぎて人に薦められない」「読",
-        "groups": [
-          "BUDDiiS"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "SHOOT",
-            "group": "BUDDiiS",
-            "status": "active"
-          }
-        ]
       }
     ]
   }
