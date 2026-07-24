@@ -1,6 +1,97 @@
 {
-  "updatedAt": "2026-07-24T03:43:27.674Z",
+  "updatedAt": "2026-07-24T08:42:17.001Z",
   "articles": [
+    {
+      "id": "9b6c0b82a31b37e9",
+      "title": "“殺人的スケジュール”を縫ってぶっつけ本番…柏木悠、自由すぎる撮影現場で「一皮剥けられたかな」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260724-4736399/",
+      "publishedAt": "2026-07-24T07:09:51.000Z",
+      "summary": "「自分としても一皮剥けられたかなと思います」――柏木悠(超特急)が24日、東京・台場のフジテレビ本社で行われたFODオリジナルドラマ『ペンション・恋は桃色 season4』(31日20:00 全5話一挙配信)の完成披露イベントに出席。横浜アリーナでのライブ前日にも参加した“ぶっつけ本番”の撮影を振り返った。",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "0450389d2c917a1d",
+      "title": "SUPER★DRAGONメンバー２人が体調不良 当日イベント欠席 公式サイトが発表",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202607240000693.html",
+      "publishedAt": "2026-07-24T06:17:51.000Z",
+      "summary": "スターダストプロモーションが手がける9人組男子ダンス＆ボーカルユニット「SUPER★DRAGON」の公式サイトが24日までに、更新され、メンバーのジャン海渡（26）と田中洸希（23）が同日のイベントを欠席することが発表された。 同グルー…",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "ジャン海渡",
+          "group": "SUPER★DRAGON",
+          "status": "active"
+        },
+        {
+          "name": "田中洸希",
+          "group": "SUPER★DRAGON",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "bb134c6471a6098c",
+      "title": "M!LKの“全員ビジュやばい”5人集合ショット！ちゃぶ台を囲んで身を寄せ仲良くポーズ「前髪ありのだいちゃん天才」「神ビジュ仁人さんだ」「しおたろう双子コーデみたいでかわいい」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000852267/",
+      "publishedAt": "2026-07-24T05:11:46.000Z",
+      "summary": "M!LKの公式Xが更新され、メンバー5人がそろった番組オフショットが公開された。 ■M!LKがちゃぶ...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "3f5a33baf834ec9a",
+      "title": "M!LK、「『装苑』2026年9月号」表紙＆巻頭飾る",
+      "sourceName": "タワーレコード ニュース",
+      "sourceUrl": "https://tower.jp/feeds/article/news",
+      "articleUrl": "https://tower.jp/article/news/2026/07/24/tgb004",
+      "publishedAt": "2026-07-24T05:00:00.000Z",
+      "summary": "",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "143d7c83523956de",
+      "title": "SUPER★DRAGON 田中洸希 イベント欠席のお知らせ",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news11452/",
+      "publishedAt": "2026-07-24T04:00:48.000Z",
+      "summary": "いつもSUPER★DRAGONを応援していただき、誠にありがとうございます。 メンバーの田中洸希ですが、発熱による体調不良の為、本日開催の「テレビ朝日・六本木ヒルズ SUMMER FES」（東京都・六本木ヒルズアリーナ） […] The post SUPER★DRAGON 田中洸希 イベント欠席のお知らせ first appeared on SUPER★DR",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "田中洸希",
+          "group": "SUPER★DRAGON",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "6fdc16d9ff4fb926",
       "title": "M!LK、キタニタツヤ、ROIROM、Chevon、長谷川白紙、ぼっちぼろまる×日向坂46……注目新譜6作をレビュー",
@@ -38,28 +129,6 @@
       ]
     },
     {
-      "id": "a5ba3ebbefc079d2",
-      "title": "M!LKメンバーで弾けるような「しおざきわんだーらんど」ダンスを披露！「全開すぎる」「ぎこちなさ愛しい」「王子様衣装でわちゃわちゃ面白い」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000851976/",
-      "publishedAt": "2026-07-24T02:43:45.000Z",
-      "summary": "M!LK公式Instagramで、塩崎太智（「崎」はたつさきが正式表記）のソロ曲「しおざきわんだーら...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "塩﨑太智",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "af2ad68505f88d84",
       "title": "本日より「Freecus」3rd Collectionの一般発売がスタート！",
       "sourceName": "超特急 公式NEWS",
@@ -82,37 +151,10 @@
       ]
     },
     {
-      "id": "b0afdab84dafae53",
-      "title": "M!LK 佐野勇斗、ハイテンションな塩﨑太智とのアメリカ旅に「ちゃのざき尊い」 役作りへのストイックな姿勢も反響",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/07/post-2468935.html",
-      "publishedAt": "2026-07-23T20:50:38.000Z",
-      "summary": "M!LKの佐野勇斗が自身のYouTubeを更新。塩﨑太智とサンフランシスコを訪れる旅動画を公開した。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "塩﨑太智",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "932f2bcf32ec4ee5",
       "title": "「ブンブン振り回していたら……」M!LK曽野舜太、殺陣練習のために模擬刀を購入→自宅で起こったハプニングとは",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 映画",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
       "articleUrl": "https://news.mynavi.jp/article/20260723-4733726/",
       "publishedAt": "2026-07-23T13:00:00.000Z",
       "summary": "ダンスボーカルグループ・M!LKの曽野舜太が23日、映画『仮面ライダーゼッツ さよならのミッション』/映画『超宇宙刑事ギャバン インフィニティ 太陽が泣いた日』(ともに7月24日公開)の公開前夜祭舞台挨拶に登壇。殺陣練習の裏で起こったハプニングを明かした。",
@@ -2631,64 +2673,6 @@
       "summary": "5月10日(日)10:00より、一般発売(先着)がスタート！ ご乗車お待ちしております!!!!!!!!! ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願いと注意事項】 https://bullett […]",
       "groups": [
         "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "263ba4637cc5d23b",
-      "title": "【バースデーグッズ】ジャン海渡26歳 バースデーPHOTO SET＆プロデュースグッズ スタダ便受注販売決定！",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news10931/",
-      "publishedAt": "2026-05-04T08:59:38.000Z",
-      "summary": "本日、2026年5月4日(月･祝)に26歳を迎えたジャン海渡の誕生日を記念して、 バースデーPHOTO SET&プロデュースグッズの販売が決定しました！ 今年のプロデュースグッズは、シークレットを含めた全7種のラ […] The post 【バースデーグッズ】ジャン海渡26歳 バースデーPHOTO SET＆プロデュースグッズ スタダ便受注販売決定！ firs",
-      "groups": [
-        "SUPER★DRAGON"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "ジャン海渡",
-          "group": "SUPER★DRAGON",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "d1c6e35e5a2eee20",
-      "title": "「JEAN 26th BIRTHDAY SCRATCH」開催決定！！",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news10926/",
-      "publishedAt": "2026-05-03T11:59:34.000Z",
-      "summary": "ジャン海渡 26歳の誕生日を記念した「JEAN 26th BIRTHDAY SCRATCH」開催が決定いたしました！ ぜひアクセスしてみてください！！ ▼ジャン海渡［平和島］ https://fanicon.net/fa […] The post 「JEAN 26th BIRTHDAY SCRATCH」開催決定！！ first appeared on SUP",
-      "groups": [
-        "SUPER★DRAGON"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "ジャン海渡",
-          "group": "SUPER★DRAGON",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "33412bdaeb2a7b53",
-      "title": "「EBiDAN THE LIVE 2026 15th Anniversary」 最新チケット情報",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26017/",
-      "publishedAt": "2026-05-01T11:21:05.000Z",
-      "summary": "本日5月1日(金)20:00より国内在住『＋KIRARI』/ 海外在住『＋KIRARI』会員限定先行（会員＋会員）が受付開始！ 皆さんとお会いできることを楽しみにしております！ 海外在住『＋KIRARI』会員先行について […]",
-      "groups": [
-        "EBiDAN"
       ],
       "statuses": [],
       "memberMatches": []
