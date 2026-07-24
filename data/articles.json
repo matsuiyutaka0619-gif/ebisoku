@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T14:12:37.575Z",
+  "updatedAt": "2026-07-24T19:46:30.238Z",
   "articles": [
     {
       "id": "c565c528f8526cb5",
@@ -132,20 +132,6 @@
       "summary": "「自分としても一皮剥けられたかなと思います」――柏木悠(超特急)が24日、東京・台場のフジテレビ本社で行われたFODオリジナルドラマ『ペンション・恋は桃色 season4』(31日20:00 全5話一挙配信)の完成披露イベントに出席。横浜アリーナでのライブ前日にも参加した“ぶっつけ本番”の撮影を振り返った。",
       "groups": [
         "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "bb134c6471a6098c",
-      "title": "M!LKの“全員ビジュやばい”5人集合ショット！ちゃぶ台を囲んで身を寄せ仲良くポーズ「前髪ありのだいちゃん天才」「神ビジュ仁人さんだ」「しおたろう双子コーデみたいでかわいい」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000852267/",
-      "publishedAt": "2026-07-24T05:11:46.000Z",
-      "summary": "M!LKの公式Xが更新され、メンバー5人がそろった番組オフショットが公開された。 ■M!LKがちゃぶ...",
-      "groups": [
-        "M!LK"
       ],
       "statuses": [],
       "memberMatches": []
@@ -2698,6 +2684,28 @@
       ],
       "statuses": [],
       "memberMatches": []
+    },
+    {
+      "id": "263ba4637cc5d23b",
+      "title": "【バースデーグッズ】ジャン海渡26歳 バースデーPHOTO SET＆プロデュースグッズ スタダ便受注販売決定！",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news10931/",
+      "publishedAt": "2026-05-04T08:59:38.000Z",
+      "summary": "本日、2026年5月4日(月･祝)に26歳を迎えたジャン海渡の誕生日を記念して、 バースデーPHOTO SET&プロデュースグッズの販売が決定しました！ 今年のプロデュースグッズは、シークレットを含めた全7種のラ […] The post 【バースデーグッズ】ジャン海渡26歳 バースデーPHOTO SET＆プロデュースグッズ スタダ便受注販売決定！ firs",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "ジャン海渡",
+          "group": "SUPER★DRAGON",
+          "status": "active"
+        }
+      ]
     }
   ]
 }

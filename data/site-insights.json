@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-07-24T14:12:37.578Z",
+  "updatedAt": "2026-07-24T19:46:30.241Z",
   "totals": {
     "all": 160,
-    "today": 10,
-    "week": 22
+    "today": 0,
+    "week": 21
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 7
+      "count": 6
     },
     {
       "name": "超特急",
@@ -83,10 +83,6 @@
       "count": 4
     },
     {
-      "name": "THE FIRST TIMES",
-      "count": 3
-    },
-    {
       "name": "マイナビニュース エンタメ",
       "count": 3
     },
@@ -96,6 +92,10 @@
     },
     {
       "name": "Bezzy",
+      "count": 2
+    },
+    {
+      "name": "THE FIRST TIMES",
       "count": 2
     },
     {
@@ -346,20 +346,6 @@
         ]
       },
       {
-        "id": "bb134c6471a6098c",
-        "title": "M!LKの“全員ビジュやばい”5人集合ショット！ちゃぶ台を囲んで身を寄せ仲良くポーズ「前髪ありのだいちゃん天才」「神ビジュ仁人さんだ」「しおたろう双子コーデみたいでかわいい」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000852267/",
-        "publishedAt": "2026-07-24T05:11:46.000Z",
-        "summary": "M!LKの公式Xが更新され、メンバー5人がそろった番組オフショットが公開された。 ■M!LKがちゃぶ...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
         "id": "3f5a33baf834ec9a",
         "title": "M!LK、「『装苑』2026年9月号」表紙＆巻頭飾る",
         "sourceName": "タワーレコード ニュース",
@@ -372,6 +358,28 @@
         ],
         "statuses": [],
         "memberMatches": []
+      },
+      {
+        "id": "932f2bcf32ec4ee5",
+        "title": "「ブンブン振り回していたら……」M!LK曽野舜太、殺陣練習のために模擬刀を購入→自宅で起こったハプニングとは",
+        "sourceName": "マイナビニュース 映画",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
+        "articleUrl": "https://news.mynavi.jp/article/20260723-4733726/",
+        "publishedAt": "2026-07-23T13:00:00.000Z",
+        "summary": "ダンスボーカルグループ・M!LKの曽野舜太が23日、映画『仮面ライダーゼッツ さよならのミッション』/映画『超宇宙刑事ギャバン インフィニティ 太陽が泣いた日』(ともに7月24日公開)の公開前夜祭舞台挨拶に登壇。殺陣練習の裏で起こったハプニングを明かした。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
       }
     ],
     "超特急": [
