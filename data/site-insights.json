@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-07-25T14:02:32.397Z",
+  "updatedAt": "2026-07-25T19:34:10.843Z",
   "totals": {
-    "all": 13,
-    "today": 3,
-    "week": 11
+    "all": 160,
+    "today": 0,
+    "week": 22
   },
   "groupRanking": [
     {
@@ -11,15 +11,23 @@
       "count": 7
     },
     {
-      "name": "EBiDAN",
-      "count": 2
-    },
-    {
-      "name": "BUDDiiS",
-      "count": 1
+      "name": "SUPER★DRAGON",
+      "count": 5
     },
     {
       "name": "超特急",
+      "count": 5
+    },
+    {
+      "name": "EBiDAN",
+      "count": 3
+    },
+    {
+      "name": "BUDDiiS",
+      "count": 2
+    },
+    {
+      "name": "原因は自分にある。",
       "count": 1
     }
   ],
@@ -29,22 +37,62 @@
       "count": 3
     },
     {
+      "name": "SHOOT",
+      "count": 2
+    },
+    {
       "name": "佐野勇斗",
       "count": 2
     },
     {
-      "name": "SHOOT",
+      "name": "アロハ",
+      "count": 1
+    },
+    {
+      "name": "ジャン海渡",
+      "count": 1
+    },
+    {
+      "name": "シューヤ",
+      "count": 1
+    },
+    {
+      "name": "タカシ",
+      "count": 1
+    },
+    {
+      "name": "マサヒロ",
+      "count": 1
+    },
+    {
+      "name": "小泉光咲",
+      "count": 1
+    },
+    {
+      "name": "田中洸希",
       "count": 1
     }
   ],
   "sourceRanking": [
     {
+      "name": "SUPER★DRAGON 公式NEWS",
+      "count": 5
+    },
+    {
       "name": "タワーレコード ニュース",
+      "count": 4
+    },
+    {
+      "name": "超特急 公式NEWS",
       "count": 4
     },
     {
       "name": "THE FIRST TIMES",
       "count": 3
+    },
+    {
+      "name": "Bezzy",
+      "count": 2
     },
     {
       "name": "マイナビニュース 映画",
@@ -157,6 +205,195 @@
         "memberMatches": []
       }
     ],
+    "超特急": [
+      {
+        "id": "3536c149fc4a800f",
+        "title": "【シューヤ&マサヒロ】超チャーはんイベント開催決定!",
+        "sourceName": "超特急 公式NEWS",
+        "sourceUrl": "https://bullettrain.jp/news/feed/",
+        "articleUrl": "https://bullettrain.jp/news/news26406/",
+        "publishedAt": "2026-07-25T07:59:44.000Z",
+        "summary": "■【シューヤ＆マサヒロ】超チャーはんイベント開催決定！ 超特急の 11 号車バックボーカル・シューヤと、12 号車メインダンサー・マサヒロからなる YouTube チャンネル「超チャーはん」のチャンネル登録者数が【10 […]",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "シューヤ",
+            "group": "超特急",
+            "status": "active"
+          },
+          {
+            "name": "マサヒロ",
+            "group": "超特急",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "9b6c0b82a31b37e9",
+        "title": "“殺人的スケジュール”を縫ってぶっつけ本番…柏木悠、自由すぎる撮影現場で「一皮剥けられたかな」",
+        "sourceName": "マイナビニュース テレビ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
+        "articleUrl": "https://news.mynavi.jp/article/20260724-4736399/",
+        "publishedAt": "2026-07-24T07:09:51.000Z",
+        "summary": "「自分としても一皮剥けられたかなと思います」――柏木悠(超特急)が24日、東京・台場のフジテレビ本社で行われたFODオリジナルドラマ『ペンション・恋は桃色 season4』(31日20:00 全5話一挙配信)の完成披露イベントに出席。横浜アリーナでのライブ前日にも参加した“ぶっつけ本番”の撮影を振り返った。",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "af2ad68505f88d84",
+        "title": "本日より「Freecus」3rd Collectionの一般発売がスタート！",
+        "sourceName": "超特急 公式NEWS",
+        "sourceUrl": "https://bullettrain.jp/news/feed/",
+        "articleUrl": "https://bullettrain.jp/news/news26403/",
+        "publishedAt": "2026-07-24T02:15:32.000Z",
+        "summary": "超特急・タカシが手掛けるアクセサリー＆ネイルブランド 「Freecus」3rd Collectionが、ついに本日より一般発売となりました！ 発売を記念して、期間限定のPOPUP STOREも開催予定✨ こ […]",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "タカシ",
+            "group": "超特急",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "169857daa9888bb5",
+        "title": "超特急『BULLET TRAIN ARENA TOUR 2026 ESCORT』オフィシャルグッズ＆生写真セット 【8/8 (土)、8/9(日)Kアリーナ横浜公演】〈事前購入・会場受取〉実施のお知らせ",
+        "sourceName": "超特急 公式NEWS",
+        "sourceUrl": "https://bullettrain.jp/news/feed/",
+        "articleUrl": "https://bullettrain.jp/news/news26385/",
+        "publishedAt": "2026-07-23T08:59:47.000Z",
+        "summary": "「BULLET TRAIN ARENA TOUR 2026 ESCORT」のKアリーナ横浜公演会場にて、 該当公演のチケットをお持ちの方を対象に、会場で受け取り可能なオフィシャルグッズ・生写真セットの〈事前購入・会場受取 […]",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "397a635043a0e0e2",
+        "title": "映画『ワンダンス』新キャストにGirls2山口綺羅、MAZZEL・RAN、TSUKKI、超特急・髙松アロハ",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/07/89594/",
+        "publishedAt": "2026-07-22T09:00:00.000Z",
+        "summary": "11月27日(金)に公開されるJO（&TEAM）初主演映画『ワンダンス』の新キャストとして山口綺羅（Girls2）、RAN（MAZZEL）、現役DリーガーのTSUKKI、髙松アロハ（超特急）が出演することが発表された。 原作は単行本累計発行部数110万部を突破し「月刊アフタヌーン」（講談社）で連載中の珈琲による同名漫画。ダンサーからも熱く支持され、昨年放送さ",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "アロハ",
+            "group": "超特急",
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "SUPER★DRAGON": [
+      {
+        "id": "60086409c94f0fd9",
+        "title": "8月1日(土)『お台場ファンライジング～楽しくアガる！真夏のエンタメ最前線～』にてSUPER★DRAGONスペシャルステージの開催決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11454/",
+        "publishedAt": "2026-07-25T00:59:20.000Z",
+        "summary": "SUPER★DRAGONがイベントテーマソングの「After the summer night」ほか歌唱披露とミニトークコーナーでお台場ファンライジングを盛り上げます！ また楽天ブックスの専用ページでは対象期間内に202 […] The post 8月1日(土)『お台場ファンライジング～楽しくアガる！真夏のエンタメ最前線～』にてSUPER★DRAGONスペシ",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "143d7c83523956de",
+        "title": "SUPER★DRAGON 田中洸希 イベント欠席のお知らせ",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11452/",
+        "publishedAt": "2026-07-24T04:00:48.000Z",
+        "summary": "いつもSUPER★DRAGONを応援していただき、誠にありがとうございます。 メンバーの田中洸希ですが、発熱による体調不良の為、本日開催の「テレビ朝日・六本木ヒルズ SUMMER FES」（東京都・六本木ヒルズアリーナ） […] The post SUPER★DRAGON 田中洸希 イベント欠席のお知らせ first appeared on SUPER★DR",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "田中洸希",
+            "group": "SUPER★DRAGON",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "29867d39abe6cee0",
+        "title": "「SUPER★DRAGON DRA FES 2026」最新チケット情報",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11448/",
+        "publishedAt": "2026-07-23T09:00:29.000Z",
+        "summary": "7月23日(木)18:00よりプレイガイド先行受付開始。 会場で皆さんとお会いできることを楽しみにしております！ ―――――――――――――――――――――――――――――――― ※重要：お申込み前に必ずご確認ください。 […] The post 「SUPER★DRAGON DRA FES 2026」最新チケット情報 first appeared on SU",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "6dd22c00b970d680",
+        "title": "SUPER★DRAGON ジャン海渡 イベント欠席のお知らせ",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11450/",
+        "publishedAt": "2026-07-23T08:30:11.000Z",
+        "summary": "いつもSUPER★DRAGONを応援していただき、誠にありがとうございます。 メンバーのジャン海渡ですが、体調不良の為、明日開催の「テレビ朝日・六本木ヒルズ SUMMER FES」（東京都・六本木ヒルズアリーナ）に関しま […] The post SUPER★DRAGON ジャン海渡 イベント欠席のお知らせ first appeared on SUPER★D",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "ジャン海渡",
+            "group": "SUPER★DRAGON",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "54453213202c0367",
+        "title": "7/24(金)出演『テレビ朝日・六本木ヒルズ SUMMER FES』SUPER★DRAGONオフィシャルグッズ会場販売のお知らせ",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11439/",
+        "publishedAt": "2026-07-21T09:00:32.000Z",
+        "summary": "7/24(金)に出演する『テレビ朝日・六本木ヒルズ SUMMER FES』の会場にて、SUPER★DRAGONの既存オフィシャルグッズを販売いたします！ ※既存商品のみの販売となります。新規で登場するグッズはございません […] The post 7/24(金)出演『テレビ朝日・六本木ヒルズ SUMMER FES』SUPER★DRAGONオフィシャルグッズ会",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
     "BUDDiiS": [
       {
         "id": "c565c528f8526cb5",
@@ -179,22 +416,142 @@
             "status": "active"
           }
         ]
+      },
+      {
+        "id": "15fb9ee4d3775ce2",
+        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/07/89645/",
+        "publishedAt": "2026-07-24T12:00:00.000Z",
+        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
+        "groups": [
+          "原因は自分にある。",
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "3fb662210aaeb54f",
+        "title": "森愁斗主演『ウォーターガーディアンズ』本予告解禁、ライフセーバーの本格訓練シーンが初お披露目",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/06/87426/",
+        "publishedAt": "2026-06-05T22:00:00.000Z",
+        "summary": "森愁斗主演映画『ウォーターガーディアンズ』の公開日が8月21日(金)に決定し、本予告映像と主題歌、追加キャスト情報が一挙解禁された。 本作は、ライフセーバーを目指す若者たちの本気のひと夏を描いた青春サマームービー。思いがけずライフセーバーになるという目標を得た若者たちが友情を育み、恋と出会う姿を描く。キャストでは主人公・海翔役の森愁斗（BUDDiiS）、海翔",
+        "groups": [
+          "原因は自分にある。",
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "8a2525e65219e9a6",
+        "title": "板垣李光人、綱啓永、吉川愛、MOMONAらが戦慄する『口に関するアンケート』場面写真解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/05/86294/",
+        "publishedAt": "2026-05-14T22:00:00.000Z",
+        "summary": "7月3日(金)より全国公開される板垣李光人主演のホラー映画『口に関するアンケート』から場面写真11点が解禁された。 本作の原作は、昨年映画化された『近畿地方のある場所について』も話題となったホラー作家・背筋による累計32万部突破中の同名小説。手のひらサイズの装丁と60ページという短い物語の中でしっかりと恐怖を味わえる読書体験が「怖すぎて人に薦められない」「読",
+        "groups": [
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
       }
     ],
-    "超特急": [
+    "原因は自分にある。": [
       {
-        "id": "9b6c0b82a31b37e9",
-        "title": "“殺人的スケジュール”を縫ってぶっつけ本番…柏木悠、自由すぎる撮影現場で「一皮剥けられたかな」",
-        "sourceName": "マイナビニュース テレビ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-        "articleUrl": "https://news.mynavi.jp/article/20260724-4736399/",
-        "publishedAt": "2026-07-24T07:09:51.000Z",
-        "summary": "「自分としても一皮剥けられたかなと思います」――柏木悠(超特急)が24日、東京・台場のフジテレビ本社で行われたFODオリジナルドラマ『ペンション・恋は桃色 season4』(31日20:00 全5話一挙配信)の完成披露イベントに出席。横浜アリーナでのライブ前日にも参加した“ぶっつけ本番”の撮影を振り返った。",
+        "id": "15fb9ee4d3775ce2",
+        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/07/89645/",
+        "publishedAt": "2026-07-24T12:00:00.000Z",
+        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
         "groups": [
-          "超特急"
+          "原因は自分にある。",
+          "BUDDiiS"
         ],
-        "statuses": [],
-        "memberMatches": []
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "3fb662210aaeb54f",
+        "title": "森愁斗主演『ウォーターガーディアンズ』本予告解禁、ライフセーバーの本格訓練シーンが初お披露目",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/06/87426/",
+        "publishedAt": "2026-06-05T22:00:00.000Z",
+        "summary": "森愁斗主演映画『ウォーターガーディアンズ』の公開日が8月21日(金)に決定し、本予告映像と主題歌、追加キャスト情報が一挙解禁された。 本作は、ライフセーバーを目指す若者たちの本気のひと夏を描いた青春サマームービー。思いがけずライフセーバーになるという目標を得た若者たちが友情を育み、恋と出会う姿を描く。キャストでは主人公・海翔役の森愁斗（BUDDiiS）、海翔",
+        "groups": [
+          "原因は自分にある。",
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
       }
     ],
     "EBiDAN": [
@@ -213,6 +570,20 @@
         "memberMatches": []
       },
       {
+        "id": "bd0df7139fe2f96f",
+        "title": "【7/21(火)更新】EBiDANと過ごす、特別な夏がやってくる！2026年8月15日(土)より全国4会場のhmv museumで開催となる『EBiDAN museum 2026』メインビジュアルを発表！",
+        "sourceName": "超特急 公式NEWS",
+        "sourceUrl": "https://bullettrain.jp/news/feed/",
+        "articleUrl": "https://bullettrain.jp/news/news26381/",
+        "publishedAt": "2026-07-21T10:30:48.000Z",
+        "summary": "EBiDANと過ごす、特別な夏がやってくる！『EBiDAN museum 2026』2026年8月15日(土)より全国4会場のhmv museumで同時開催が決定しました！ 今年のテーマは“EBiDANの夏休み”！ 本展 […]",
+        "groups": [
+          "EBiDAN"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
         "id": "cb78ee0f64851fdc",
         "title": "EBiDAN（恵比寿学園男子部）登場。メンバー8名が「JUNON 2026年9月号」臨時増刊版の表紙＆裏表紙ジャック",
         "sourceName": "タワーレコード ニュース",
@@ -222,6 +593,35 @@
         "summary": "",
         "groups": [
           "EBiDAN"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "3b6cae44bc88ebae",
+        "title": "『EBiDAN 15th Anniversaryオフィシャルグッズ』の販売が決定！",
+        "sourceName": "超特急 公式NEWS",
+        "sourceUrl": "https://bullettrain.jp/news/feed/",
+        "articleUrl": "https://bullettrain.jp/news/news26375/",
+        "publishedAt": "2026-07-17T07:18:56.000Z",
+        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念いたしまして、『EBiDAN 15th Anniversaryオフィシャルグッズ』の販売が決定いたしました！ ロゴが映えるリキッドキーホルダーやファーキーホルダー、メンバ […]",
+        "groups": [
+          "EBiDAN"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "1001bcc1100d7db2",
+        "title": "『EBiDAN 15th Anniversaryオフィシャルグッズ』の販売が決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11432/",
+        "publishedAt": "2026-07-17T07:00:40.000Z",
+        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念いたしまして、『EBiDAN 15th Anniversaryオフィシャルグッズ』の販売が決定いたしました！ ロゴが映えるリキッドキーホルダーやファーキーホルダー、メンバ […] The post 『EBiDAN 15th Anniversaryオフィシャルグッズ』の販売が決定！ first appeared",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
         ],
         "statuses": [],
         "memberMatches": []
