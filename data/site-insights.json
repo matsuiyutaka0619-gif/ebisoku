@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-07-26T08:39:35.287Z",
+  "updatedAt": "2026-07-26T13:55:46.020Z",
   "totals": {
     "all": 160,
-    "today": 3,
-    "week": 23
+    "today": 4,
+    "week": 22
   },
   "groupRanking": [
     {
@@ -11,33 +11,29 @@
       "count": 8
     },
     {
-      "name": "M!LK",
-      "count": 6
-    },
-    {
       "name": "超特急",
       "count": 5
+    },
+    {
+      "name": "M!LK",
+      "count": 4
     },
     {
       "name": "EBiDAN",
       "count": 3
     },
     {
-      "name": "BUDDiiS",
-      "count": 1
+      "name": "原因は自分にある。",
+      "count": 2
     },
     {
-      "name": "原因は自分にある。",
+      "name": "BUDDiiS",
       "count": 1
     }
   ],
   "memberRanking": [
     {
       "name": "ジャン海渡",
-      "count": 2
-    },
-    {
-      "name": "佐野勇斗",
       "count": 2
     },
     {
@@ -69,6 +65,10 @@
       "count": 1
     },
     {
+      "name": "佐野勇斗",
+      "count": 1
+    },
+    {
       "name": "小泉光咲",
       "count": 1
     }
@@ -91,12 +91,12 @@
       "count": 2
     },
     {
-      "name": "THE FIRST TIMES",
+      "name": "マイナビニュース 映画",
       "count": 2
     },
     {
-      "name": "マイナビニュース 映画",
-      "count": 2
+      "name": "BARKS",
+      "count": 1
     },
     {
       "name": "マイナビニュース テレビ",
@@ -105,6 +105,78 @@
   ],
   "topics": [],
   "recentByGroup": {
+    "原因は自分にある。": [
+      {
+        "id": "6d5b663a135ccc0a",
+        "title": "原因は自分にある。、有明アリーナ公演より新曲「火宴」ライブ映像を最速公開",
+        "sourceName": "BARKS",
+        "sourceUrl": "https://www.barks.jp/feed/",
+        "articleUrl": "https://barks.jp/news/1080068",
+        "publishedAt": "2026-07-26T09:00:35.000Z",
+        "summary": "原因は自分にある。（通称ゲンジブ）が、現在配信中の新曲「火宴」のライブ映像を公開した。 今回公開された映像は、約5万人を動員した自身初のアリーナツアー＜ARENA TOUR 2026 仮ノ現＞から、今月4日〜5日に開催されたばかりの東京・有明アリーナ公演ファイナルの模様。本ツアーで初披露となった「火宴」だが、初にして完成度の高いステージパフォーマンスに圧倒さ",
+        "groups": [
+          "原因は自分にある。"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "15fb9ee4d3775ce2",
+        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/07/89645/",
+        "publishedAt": "2026-07-24T12:00:00.000Z",
+        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
+        "groups": [
+          "原因は自分にある。",
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "3fb662210aaeb54f",
+        "title": "森愁斗主演『ウォーターガーディアンズ』本予告解禁、ライフセーバーの本格訓練シーンが初お披露目",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/06/87426/",
+        "publishedAt": "2026-06-05T22:00:00.000Z",
+        "summary": "森愁斗主演映画『ウォーターガーディアンズ』の公開日が8月21日(金)に決定し、本予告映像と主題歌、追加キャスト情報が一挙解禁された。 本作は、ライフセーバーを目指す若者たちの本気のひと夏を描いた青春サマームービー。思いがけずライフセーバーになるという目標を得た若者たちが友情を育み、恋と出会う姿を描く。キャストでは主人公・海翔役の森愁斗（BUDDiiS）、海翔",
+        "groups": [
+          "原因は自分にある。",
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
+      }
+    ],
     "SUPER★DRAGON": [
       {
         "id": "9d155a894ee85ffa",
@@ -302,160 +374,6 @@
         ]
       }
     ],
-    "M!LK": [
-      {
-        "id": "36f6e46ca51de3fb",
-        "title": "M!LKが新曲“友情パレード”をリレーダンス！ニコニコ踊るメンバーの中佐野勇斗はクールキャラを貫く!?「わんこみたいでかわいい」「ビジュよすぎ」「メガネ姿メロい」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000852798/",
-        "publishedAt": "2026-07-25T07:41:47.000Z",
-        "summary": "7月17日に配信リリースされたM!LKの新曲「You!Joy!Parade!（友情パレード）」にのせて、本人た...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "28e19a29633c46fa",
-        "title": "M!LK上品ツイード衣装とド派手な紅白リボン衣装で5人並んだファンミオフショット公開！「大ちゃんふわふわ前髪かわいい」「仁人くんリムレスメガネかっこいい」「赤リボン衣装好き」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000852757/",
-        "publishedAt": "2026-07-25T06:39:26.000Z",
-        "summary": "M!LK公式SNSにて、7月24日に行われたファンクラブ会員限定ファンミーティング『み！るきーず感...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "f24b9a74ba26d74a",
-        "title": "曽野舜太、夢の『仮面ライダー』役で活きたM!LKでの経験明かす 役柄に驚きも「あれ、俺…」",
-        "sourceName": "マイナビニュース 映画",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
-        "articleUrl": "https://news.mynavi.jp/article/20260724-4735976/",
-        "publishedAt": "2026-07-24T11:00:00.000Z",
-        "summary": "ダンスボーカルグループ・M!LKの曽野舜太が23日、映画『仮面ライダーゼッツ さよならのミッション』/映画『超宇宙刑事ギャバン インフィニティ 太陽が泣いた日』(公開中)の公開前夜祭舞台挨拶に登壇。夢だったという『仮面ライダー』出演で活きたM!LKでの経験を明かした。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "3f5a33baf834ec9a",
-        "title": "M!LK、「『装苑』2026年9月号」表紙＆巻頭飾る",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/07/24/tgb004",
-        "publishedAt": "2026-07-24T05:00:00.000Z",
-        "summary": "",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "932f2bcf32ec4ee5",
-        "title": "「ブンブン振り回していたら……」M!LK曽野舜太、殺陣練習のために模擬刀を購入→自宅で起こったハプニングとは",
-        "sourceName": "マイナビニュース 映画",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
-        "articleUrl": "https://news.mynavi.jp/article/20260723-4733726/",
-        "publishedAt": "2026-07-23T13:00:00.000Z",
-        "summary": "ダンスボーカルグループ・M!LKの曽野舜太が23日、映画『仮面ライダーゼッツ さよならのミッション』/映画『超宇宙刑事ギャバン インフィニティ 太陽が泣いた日』(ともに7月24日公開)の公開前夜祭舞台挨拶に登壇。殺陣練習の裏で起こったハプニングを明かした。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      }
-    ],
-    "原因は自分にある。": [
-      {
-        "id": "15fb9ee4d3775ce2",
-        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/07/89645/",
-        "publishedAt": "2026-07-24T12:00:00.000Z",
-        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
-        "groups": [
-          "原因は自分にある。",
-          "BUDDiiS"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "SHOOT",
-            "group": "BUDDiiS",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "3fb662210aaeb54f",
-        "title": "森愁斗主演『ウォーターガーディアンズ』本予告解禁、ライフセーバーの本格訓練シーンが初お披露目",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/06/87426/",
-        "publishedAt": "2026-06-05T22:00:00.000Z",
-        "summary": "森愁斗主演映画『ウォーターガーディアンズ』の公開日が8月21日(金)に決定し、本予告映像と主題歌、追加キャスト情報が一挙解禁された。 本作は、ライフセーバーを目指す若者たちの本気のひと夏を描いた青春サマームービー。思いがけずライフセーバーになるという目標を得た若者たちが友情を育み、恋と出会う姿を描く。キャストでは主人公・海翔役の森愁斗（BUDDiiS）、海翔",
-        "groups": [
-          "原因は自分にある。",
-          "BUDDiiS"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "SHOOT",
-            "group": "BUDDiiS",
-            "status": "active"
-          }
-        ]
-      }
-    ],
     "BUDDiiS": [
       {
         "id": "15fb9ee4d3775ce2",
@@ -534,6 +452,102 @@
             "status": "active"
           }
         ]
+      }
+    ],
+    "M!LK": [
+      {
+        "id": "f24b9a74ba26d74a",
+        "title": "曽野舜太、夢の『仮面ライダー』役で活きたM!LKでの経験明かす 役柄に驚きも「あれ、俺…」",
+        "sourceName": "マイナビニュース 映画",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
+        "articleUrl": "https://news.mynavi.jp/article/20260724-4735976/",
+        "publishedAt": "2026-07-24T11:00:00.000Z",
+        "summary": "ダンスボーカルグループ・M!LKの曽野舜太が23日、映画『仮面ライダーゼッツ さよならのミッション』/映画『超宇宙刑事ギャバン インフィニティ 太陽が泣いた日』(公開中)の公開前夜祭舞台挨拶に登壇。夢だったという『仮面ライダー』出演で活きたM!LKでの経験を明かした。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "3f5a33baf834ec9a",
+        "title": "M!LK、「『装苑』2026年9月号」表紙＆巻頭飾る",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/07/24/tgb004",
+        "publishedAt": "2026-07-24T05:00:00.000Z",
+        "summary": "",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "932f2bcf32ec4ee5",
+        "title": "「ブンブン振り回していたら……」M!LK曽野舜太、殺陣練習のために模擬刀を購入→自宅で起こったハプニングとは",
+        "sourceName": "マイナビニュース 映画",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
+        "articleUrl": "https://news.mynavi.jp/article/20260723-4733726/",
+        "publishedAt": "2026-07-23T13:00:00.000Z",
+        "summary": "ダンスボーカルグループ・M!LKの曽野舜太が23日、映画『仮面ライダーゼッツ さよならのミッション』/映画『超宇宙刑事ギャバン インフィニティ 太陽が泣いた日』(ともに7月24日公開)の公開前夜祭舞台挨拶に登壇。殺陣練習の裏で起こったハプニングを明かした。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "863e1a786b9eefad",
+        "title": "佐野勇斗（M!LK）、「Ray 2026年9月号」特別版表紙を飾る",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/07/21/tgb002",
+        "publishedAt": "2026-07-21T08:55:00.000Z",
+        "summary": "",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "aeb8d52a36d7610c",
+        "title": "夏を全力で楽しむ5人をワンカットで撮影、M!LK最新曲「You!Joy!Parade!」MV公開",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/07/89424/",
+        "publishedAt": "2026-07-17T10:00:00.000Z",
+        "summary": "5人組ダンス＆ボーカルグループ・M!LKの最新曲「You!Joy!Parade!」のミュージックビデオがYouTubeでプレミア公開された。 5ヵ月連続リリース企画「モー烈モー進！リリースプロジェクト2026」第四弾として本日7月17日(金)にリリースされた本楽曲は、“かけがえのない仲間と過ごす夏”をメインテーマに制作された一曲。絆と友情の力を感じさせるリリ",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
       }
     ],
     "EBiDAN": [

@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-07-26T08:39:35.284Z",
+  "updatedAt": "2026-07-26T13:55:46.018Z",
   "articles": [
+    {
+      "id": "6d5b663a135ccc0a",
+      "title": "原因は自分にある。、有明アリーナ公演より新曲「火宴」ライブ映像を最速公開",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1080068",
+      "publishedAt": "2026-07-26T09:00:35.000Z",
+      "summary": "原因は自分にある。（通称ゲンジブ）が、現在配信中の新曲「火宴」のライブ映像を公開した。 今回公開された映像は、約5万人を動員した自身初のアリーナツアー＜ARENA TOUR 2026 仮ノ現＞から、今月4日〜5日に開催されたばかりの東京・有明アリーナ公演ファイナルの模様。本ツアーで初披露となった「火宴」だが、初にして完成度の高いステージパフォーマンスに圧倒さ",
+      "groups": [
+        "原因は自分にある。"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "9d155a894ee85ffa",
       "title": "「SUPER★DRAGON July SCRATCH 2026」開催のお知らせ！",
@@ -85,42 +99,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "36f6e46ca51de3fb",
-      "title": "M!LKが新曲“友情パレード”をリレーダンス！ニコニコ踊るメンバーの中佐野勇斗はクールキャラを貫く!?「わんこみたいでかわいい」「ビジュよすぎ」「メガネ姿メロい」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000852798/",
-      "publishedAt": "2026-07-25T07:41:47.000Z",
-      "summary": "7月17日に配信リリースされたM!LKの新曲「You!Joy!Parade!（友情パレード）」にのせて、本人た...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "28e19a29633c46fa",
-      "title": "M!LK上品ツイード衣装とド派手な紅白リボン衣装で5人並んだファンミオフショット公開！「大ちゃんふわふわ前髪かわいい」「仁人くんリムレスメガネかっこいい」「赤リボン衣装好き」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000852757/",
-      "publishedAt": "2026-07-25T06:39:26.000Z",
-      "summary": "M!LK公式SNSにて、7月24日に行われたファンクラブ会員限定ファンミーティング『み！るきーず感...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "60086409c94f0fd9",
@@ -2693,6 +2671,20 @@
           "status": "active"
         }
       ]
+    },
+    {
+      "id": "7b005ff3eabefb4a",
+      "title": "超特急 東京ドーム公演 一般発売情報",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26020/",
+      "publishedAt": "2026-05-07T08:59:06.000Z",
+      "summary": "5月10日(日)10:00より、一般発売(先着)がスタート！ ご乗車お待ちしております!!!!!!!!! ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願いと注意事項】 https://bullett […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
     }
   ]
 }
