@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-07-25T19:34:10.843Z",
+  "updatedAt": "2026-07-26T03:54:54.251Z",
   "totals": {
     "all": 160,
-    "today": 0,
-    "week": 22
+    "today": 4,
+    "week": 25
   },
   "groupRanking": [
     {
-      "name": "M!LK",
-      "count": 7
+      "name": "SUPER★DRAGON",
+      "count": 8
     },
     {
-      "name": "SUPER★DRAGON",
-      "count": 5
+      "name": "M!LK",
+      "count": 7
     },
     {
       "name": "超特急",
@@ -24,7 +24,11 @@
     },
     {
       "name": "BUDDiiS",
-      "count": 2
+      "count": 1
+    },
+    {
+      "name": "ICEx",
+      "count": 1
     },
     {
       "name": "原因は自分にある。",
@@ -37,7 +41,7 @@
       "count": 3
     },
     {
-      "name": "SHOOT",
+      "name": "ジャン海渡",
       "count": 2
     },
     {
@@ -45,11 +49,15 @@
       "count": 2
     },
     {
-      "name": "アロハ",
+      "name": "田中洸希",
+      "count": 2
+    },
+    {
+      "name": "SHOOT",
       "count": 1
     },
     {
-      "name": "ジャン海渡",
+      "name": "アロハ",
       "count": 1
     },
     {
@@ -65,18 +73,14 @@
       "count": 1
     },
     {
-      "name": "小泉光咲",
-      "count": 1
-    },
-    {
-      "name": "田中洸希",
+      "name": "阿久根温世",
       "count": 1
     }
   ],
   "sourceRanking": [
     {
       "name": "SUPER★DRAGON 公式NEWS",
-      "count": 5
+      "count": 8
     },
     {
       "name": "タワーレコード ニュース",
@@ -87,16 +91,20 @@
       "count": 4
     },
     {
-      "name": "THE FIRST TIMES",
-      "count": 3
+      "name": "Bezzy",
+      "count": 2
     },
     {
-      "name": "Bezzy",
+      "name": "THE FIRST TIMES",
       "count": 2
     },
     {
       "name": "マイナビニュース 映画",
       "count": 2
+    },
+    {
+      "name": "ENCOUNT",
+      "count": 1
     },
     {
       "name": "マイナビニュース エンタメ",
@@ -109,6 +117,126 @@
   ],
   "topics": [],
   "recentByGroup": {
+    "ICEx": [
+      {
+        "id": "d18c556ea5ef43a3",
+        "title": "井内悠陽＆阿久根温世は相思相愛 互いのお気に入りショットをべた褒め「笑っている顔が本当にタイプ」",
+        "sourceName": "ENCOUNT",
+        "sourceUrl": "https://encount.press/feed/",
+        "articleUrl": "https://encount.press/archives/1037584/",
+        "publishedAt": "2026-07-26T03:17:02.000Z",
+        "summary": "俳優の井内悠陽と阿久根温世が26日、ダブル主演を務めたドラマ『コントラスト』公式ビジュアルブック（KADOKAWA）の発売記念イベントをタワーレコード渋谷で開催。イベント前、囲み取材に応じ、お互いのビジュアルを褒め合った […]",
+        "groups": [
+          "ICEx"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "阿久根温世",
+            "group": "ICEx",
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "SUPER★DRAGON": [
+      {
+        "id": "9d155a894ee85ffa",
+        "title": "「SUPER★DRAGON July SCRATCH 2026」開催のお知らせ！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11460/",
+        "publishedAt": "2026-07-26T03:00:51.000Z",
+        "summary": "7/27(月)21:00より「SUPER★DRAGON July SCRATCH 2026」の開催が決定しました！ +KIRARI完全撮り下ろしのビジュアルです！ ▼SUPER★DRAGON メンバーコミュニティ htt […] The post 「SUPER★DRAGON July SCRATCH 2026」開催のお知らせ！ first appeared ",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "5750d72b61131334",
+        "title": "SUPER★DRAGONジャン海渡 スペシャルライブ欠席のお知らせ",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11464/",
+        "publishedAt": "2026-07-26T02:29:11.000Z",
+        "summary": "いつもSUPER★DRAGONを応援していただき、誠にありがとうございます。 メンバーのジャン海渡ですが、体調を考慮し、本日開催のMajor 6th Single「Call Me Asap / NUMBER」（愛知県・L […] The post SUPER★DRAGONジャン海渡 スペシャルライブ欠席のお知らせ first appeared on SUPE",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "ジャン海渡",
+            "group": "SUPER★DRAGON",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "05b9cd886105e321",
+        "title": "SUPER★DRAGON 田中洸希 イベント欠席のお知らせ",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11458/",
+        "publishedAt": "2026-07-25T23:29:07.000Z",
+        "summary": "いつもSUPER★DRAGONを応援していただき、誠にありがとうございます。 メンバーの田中洸希ですが、体調不良の為、本日開催のMajor 6th Single「Call Me Asap / NUMBER」（愛知県・Li […] The post SUPER★DRAGON 田中洸希 イベント欠席のお知らせ first appeared on SUPER★DR",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "田中洸希",
+            "group": "SUPER★DRAGON",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "60086409c94f0fd9",
+        "title": "8月1日(土)『お台場ファンライジング～楽しくアガる！真夏のエンタメ最前線～』にてSUPER★DRAGONスペシャルステージの開催決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11454/",
+        "publishedAt": "2026-07-25T00:59:20.000Z",
+        "summary": "SUPER★DRAGONがイベントテーマソングの「After the summer night」ほか歌唱披露とミニトークコーナーでお台場ファンライジングを盛り上げます！ また楽天ブックスの専用ページでは対象期間内に202 […] The post 8月1日(土)『お台場ファンライジング～楽しくアガる！真夏のエンタメ最前線～』にてSUPER★DRAGONスペシ",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "143d7c83523956de",
+        "title": "SUPER★DRAGON 田中洸希 イベント欠席のお知らせ",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11452/",
+        "publishedAt": "2026-07-24T04:00:48.000Z",
+        "summary": "いつもSUPER★DRAGONを応援していただき、誠にありがとうございます。 メンバーの田中洸希ですが、発熱による体調不良の為、本日開催の「テレビ朝日・六本木ヒルズ SUMMER FES」（東京都・六本木ヒルズアリーナ） […] The post SUPER★DRAGON 田中洸希 イベント欠席のお知らせ first appeared on SUPER★DR",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "田中洸希",
+            "group": "SUPER★DRAGON",
+            "status": "active"
+          }
+        ]
+      }
+    ],
     "M!LK": [
       {
         "id": "b74b9685eff0ae7f",
@@ -306,104 +434,17 @@
         ]
       }
     ],
-    "SUPER★DRAGON": [
+    "原因は自分にある。": [
       {
-        "id": "60086409c94f0fd9",
-        "title": "8月1日(土)『お台場ファンライジング～楽しくアガる！真夏のエンタメ最前線～』にてSUPER★DRAGONスペシャルステージの開催決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11454/",
-        "publishedAt": "2026-07-25T00:59:20.000Z",
-        "summary": "SUPER★DRAGONがイベントテーマソングの「After the summer night」ほか歌唱披露とミニトークコーナーでお台場ファンライジングを盛り上げます！ また楽天ブックスの専用ページでは対象期間内に202 […] The post 8月1日(土)『お台場ファンライジング～楽しくアガる！真夏のエンタメ最前線～』にてSUPER★DRAGONスペシ",
+        "id": "15fb9ee4d3775ce2",
+        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/07/89645/",
+        "publishedAt": "2026-07-24T12:00:00.000Z",
+        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
         "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "143d7c83523956de",
-        "title": "SUPER★DRAGON 田中洸希 イベント欠席のお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11452/",
-        "publishedAt": "2026-07-24T04:00:48.000Z",
-        "summary": "いつもSUPER★DRAGONを応援していただき、誠にありがとうございます。 メンバーの田中洸希ですが、発熱による体調不良の為、本日開催の「テレビ朝日・六本木ヒルズ SUMMER FES」（東京都・六本木ヒルズアリーナ） […] The post SUPER★DRAGON 田中洸希 イベント欠席のお知らせ first appeared on SUPER★DR",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "田中洸希",
-            "group": "SUPER★DRAGON",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "29867d39abe6cee0",
-        "title": "「SUPER★DRAGON DRA FES 2026」最新チケット情報",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11448/",
-        "publishedAt": "2026-07-23T09:00:29.000Z",
-        "summary": "7月23日(木)18:00よりプレイガイド先行受付開始。 会場で皆さんとお会いできることを楽しみにしております！ ―――――――――――――――――――――――――――――――― ※重要：お申込み前に必ずご確認ください。 […] The post 「SUPER★DRAGON DRA FES 2026」最新チケット情報 first appeared on SU",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "6dd22c00b970d680",
-        "title": "SUPER★DRAGON ジャン海渡 イベント欠席のお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11450/",
-        "publishedAt": "2026-07-23T08:30:11.000Z",
-        "summary": "いつもSUPER★DRAGONを応援していただき、誠にありがとうございます。 メンバーのジャン海渡ですが、体調不良の為、明日開催の「テレビ朝日・六本木ヒルズ SUMMER FES」（東京都・六本木ヒルズアリーナ）に関しま […] The post SUPER★DRAGON ジャン海渡 イベント欠席のお知らせ first appeared on SUPER★D",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "ジャン海渡",
-            "group": "SUPER★DRAGON",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "54453213202c0367",
-        "title": "7/24(金)出演『テレビ朝日・六本木ヒルズ SUMMER FES』SUPER★DRAGONオフィシャルグッズ会場販売のお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11439/",
-        "publishedAt": "2026-07-21T09:00:32.000Z",
-        "summary": "7/24(金)に出演する『テレビ朝日・六本木ヒルズ SUMMER FES』の会場にて、SUPER★DRAGONの既存オフィシャルグッズを販売いたします！ ※既存商品のみの販売となります。新規で登場するグッズはございません […] The post 7/24(金)出演『テレビ朝日・六本木ヒルズ SUMMER FES』SUPER★DRAGONオフィシャルグッズ会",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "BUDDiiS": [
-      {
-        "id": "c565c528f8526cb5",
-        "title": "森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』の本編冒頭映像が初解禁！⻘春感溢れる“わちゃわちゃ”なやりとりを披露",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000852584/",
-        "publishedAt": "2026-07-24T12:00:56.000Z",
-        "summary": "森愁斗（BUDDiiS）が主演を務める映画『ウォーターガーディアンズ』（8月21日公開）の本編冒頭...",
-        "groups": [
+          "原因は自分にある。",
           "BUDDiiS"
         ],
         "statuses": [
@@ -411,12 +452,47 @@
         ],
         "memberMatches": [
           {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
             "name": "SHOOT",
             "group": "BUDDiiS",
             "status": "active"
           }
         ]
       },
+      {
+        "id": "3fb662210aaeb54f",
+        "title": "森愁斗主演『ウォーターガーディアンズ』本予告解禁、ライフセーバーの本格訓練シーンが初お披露目",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/06/87426/",
+        "publishedAt": "2026-06-05T22:00:00.000Z",
+        "summary": "森愁斗主演映画『ウォーターガーディアンズ』の公開日が8月21日(金)に決定し、本予告映像と主題歌、追加キャスト情報が一挙解禁された。 本作は、ライフセーバーを目指す若者たちの本気のひと夏を描いた青春サマームービー。思いがけずライフセーバーになるという目標を得た若者たちが友情を育み、恋と出会う姿を描く。キャストでは主人公・海翔役の森愁斗（BUDDiiS）、海翔",
+        "groups": [
+          "原因は自分にある。",
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "BUDDiiS": [
       {
         "id": "15fb9ee4d3775ce2",
         "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
@@ -488,64 +564,6 @@
           "active"
         ],
         "memberMatches": [
-          {
-            "name": "SHOOT",
-            "group": "BUDDiiS",
-            "status": "active"
-          }
-        ]
-      }
-    ],
-    "原因は自分にある。": [
-      {
-        "id": "15fb9ee4d3775ce2",
-        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/07/89645/",
-        "publishedAt": "2026-07-24T12:00:00.000Z",
-        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
-        "groups": [
-          "原因は自分にある。",
-          "BUDDiiS"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "SHOOT",
-            "group": "BUDDiiS",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "3fb662210aaeb54f",
-        "title": "森愁斗主演『ウォーターガーディアンズ』本予告解禁、ライフセーバーの本格訓練シーンが初お披露目",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/06/87426/",
-        "publishedAt": "2026-06-05T22:00:00.000Z",
-        "summary": "森愁斗主演映画『ウォーターガーディアンズ』の公開日が8月21日(金)に決定し、本予告映像と主題歌、追加キャスト情報が一挙解禁された。 本作は、ライフセーバーを目指す若者たちの本気のひと夏を描いた青春サマームービー。思いがけずライフセーバーになるという目標を得た若者たちが友情を育み、恋と出会う姿を描く。キャストでは主人公・海翔役の森愁斗（BUDDiiS）、海翔",
-        "groups": [
-          "原因は自分にある。",
-          "BUDDiiS"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
           {
             "name": "SHOOT",
             "group": "BUDDiiS",

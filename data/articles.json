@@ -1,6 +1,86 @@
 {
-  "updatedAt": "2026-07-25T19:34:10.840Z",
+  "updatedAt": "2026-07-26T03:54:54.248Z",
   "articles": [
+    {
+      "id": "d18c556ea5ef43a3",
+      "title": "井内悠陽＆阿久根温世は相思相愛 互いのお気に入りショットをべた褒め「笑っている顔が本当にタイプ」",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1037584/",
+      "publishedAt": "2026-07-26T03:17:02.000Z",
+      "summary": "俳優の井内悠陽と阿久根温世が26日、ダブル主演を務めたドラマ『コントラスト』公式ビジュアルブック（KADOKAWA）の発売記念イベントをタワーレコード渋谷で開催。イベント前、囲み取材に応じ、お互いのビジュアルを褒め合った […]",
+      "groups": [
+        "ICEx"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "阿久根温世",
+          "group": "ICEx",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "9d155a894ee85ffa",
+      "title": "「SUPER★DRAGON July SCRATCH 2026」開催のお知らせ！",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news11460/",
+      "publishedAt": "2026-07-26T03:00:51.000Z",
+      "summary": "7/27(月)21:00より「SUPER★DRAGON July SCRATCH 2026」の開催が決定しました！ +KIRARI完全撮り下ろしのビジュアルです！ ▼SUPER★DRAGON メンバーコミュニティ htt […] The post 「SUPER★DRAGON July SCRATCH 2026」開催のお知らせ！ first appeared ",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "5750d72b61131334",
+      "title": "SUPER★DRAGONジャン海渡 スペシャルライブ欠席のお知らせ",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news11464/",
+      "publishedAt": "2026-07-26T02:29:11.000Z",
+      "summary": "いつもSUPER★DRAGONを応援していただき、誠にありがとうございます。 メンバーのジャン海渡ですが、体調を考慮し、本日開催のMajor 6th Single「Call Me Asap / NUMBER」（愛知県・L […] The post SUPER★DRAGONジャン海渡 スペシャルライブ欠席のお知らせ first appeared on SUPE",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "ジャン海渡",
+          "group": "SUPER★DRAGON",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "05b9cd886105e321",
+      "title": "SUPER★DRAGON 田中洸希 イベント欠席のお知らせ",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news11458/",
+      "publishedAt": "2026-07-25T23:29:07.000Z",
+      "summary": "いつもSUPER★DRAGONを応援していただき、誠にありがとうございます。 メンバーの田中洸希ですが、体調不良の為、本日開催のMajor 6th Single「Call Me Asap / NUMBER」（愛知県・Li […] The post SUPER★DRAGON 田中洸希 イベント欠席のお知らせ first appeared on SUPER★DR",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "田中洸希",
+          "group": "SUPER★DRAGON",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "b74b9685eff0ae7f",
       "title": "「家族ごと推せるアイドル」「親近感しかない」M!LK曽野舜太、家族との会話から見える“素”の姿に反響続々",
@@ -99,28 +179,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "c565c528f8526cb5",
-      "title": "森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』の本編冒頭映像が初解禁！⻘春感溢れる“わちゃわちゃ”なやりとりを披露",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000852584/",
-      "publishedAt": "2026-07-24T12:00:56.000Z",
-      "summary": "森愁斗（BUDDiiS）が主演を務める映画『ウォーターガーディアンズ』（8月21日公開）の本編冒頭...",
-      "groups": [
-        "BUDDiiS"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "SHOOT",
-          "group": "BUDDiiS",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "15fb9ee4d3775ce2",
@@ -2638,56 +2696,6 @@
       "articleUrl": "https://bullettrain.jp/news/news26032/",
       "publishedAt": "2026-05-08T08:59:24.000Z",
       "summary": "完売していた「BULLET TRAIN ARENA TOUR 2026 ESCORT」のチケットですが、 『夢の青春8きっぷ』会員限定 機材席開放販売 (抽選) の実施が決定いたしました！ 本日5月8日(金)18:00よ […]",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "247c50b1090136d4",
-      "title": "「DayDay. SUPER LIVE 2026」 超特急オフィシャルグッズ会場販売のお知らせ！",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26029/",
-      "publishedAt": "2026-05-08T06:59:43.000Z",
-      "summary": "5月16日(土)出演の「DayDay. SUPER LIVE 2026」会場にて、超特急オフィシャルグッズを販売いたします！ ご来場の方はぜひグッズ販売ブースへお越しください！ ***** 【ライブ/グッズ販売情報】 ■ […]",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "227e54bdd5521059",
-      "title": "超特急・タカシプロデュースブランド「Freecus（フィカス）」から、New Collectionが誕生！",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26023/",
-      "publishedAt": "2026-05-08T01:59:20.000Z",
-      "summary": "New Collectionでは、毎シーズン好評のネイルポリッシュから最新カラーを5色展開💅 Freecusを愛用してくださる皆さまからのお声を反映した、マグネット感ある仕上がりカラーもラインナップ！ さら […]",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "タカシ",
-          "group": "超特急",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "7b005ff3eabefb4a",
-      "title": "超特急 東京ドーム公演 一般発売情報",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26020/",
-      "publishedAt": "2026-05-07T08:59:06.000Z",
-      "summary": "5月10日(日)10:00より、一般発売(先着)がスタート！ ご乗車お待ちしております!!!!!!!!! ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願いと注意事項】 https://bullett […]",
       "groups": [
         "超特急"
       ],
