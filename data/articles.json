@@ -1,6 +1,52 @@
 {
-  "updatedAt": "2026-07-27T04:01:43.446Z",
+  "updatedAt": "2026-07-27T10:08:26.289Z",
   "articles": [
+    {
+      "id": "dd61accdbf882afb",
+      "title": "「Yes! 駆け込め! 僕らのEBiSTORE」の開催が決定！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26410/",
+      "publishedAt": "2026-07-27T09:29:58.000Z",
+      "summary": "EBiDAN15周年記念シングル「Yes! 東京」リリース＆『EBiDAN THE LIVE 2026 15th Anniversary』の開催を記念してSHIBUYA TSUTAYAにてコラボレーションカフェ「Yes! […]",
+      "groups": [
+        "EBiDAN"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "b0a448f23caae699",
+      "title": "M!LK吉田仁人の前髪ありサラスト金髪に「女の子かと思った」と反響！佐野勇斗の黒短髪＆塩﨑太智の黒縁メガネ姿も公開され「存在しないデートの記憶がよみがえる」「また恋に落ちてしまう」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000853702/",
+      "publishedAt": "2026-07-27T06:45:16.000Z",
+      "summary": "M!LKの佐野勇斗と塩崎太智（※「崎」は、たつさきが正式表記）が表紙を務める『non-no』9月号特...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "塩﨑太智",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "8d768a3c78d57571",
       "title": "9人組進化系ミクスチャーユニットSUPER★DRAGONが「コカ･コーラ SUMMER FES 音楽LIVE」に約2年ぶりに出演！真夏の野外ライブにふさわしい熱気あふれるステージでファンを魅了！",
@@ -359,20 +405,6 @@
       "memberMatches": []
     },
     {
-      "id": "cb78ee0f64851fdc",
-      "title": "EBiDAN（恵比寿学園男子部）登場。メンバー8名が「JUNON 2026年9月号」臨時増刊版の表紙＆裏表紙ジャック",
-      "sourceName": "タワーレコード ニュース",
-      "sourceUrl": "https://tower.jp/feeds/article/news",
-      "articleUrl": "https://tower.jp/article/news/2026/07/21/tgb005",
-      "publishedAt": "2026-07-21T09:30:00.000Z",
-      "summary": "",
-      "groups": [
-        "EBiDAN"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
       "id": "54453213202c0367",
       "title": "7/24(金)出演『テレビ朝日・六本木ヒルズ SUMMER FES』SUPER★DRAGONオフィシャルグッズ会場販売のお知らせ",
       "sourceName": "SUPER★DRAGON 公式NEWS",
@@ -385,28 +417,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "863e1a786b9eefad",
-      "title": "佐野勇斗（M!LK）、「Ray 2026年9月号」特別版表紙を飾る",
-      "sourceName": "タワーレコード ニュース",
-      "sourceUrl": "https://tower.jp/feeds/article/news",
-      "articleUrl": "https://tower.jp/article/news/2026/07/21/tgb002",
-      "publishedAt": "2026-07-21T08:55:00.000Z",
-      "summary": "",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "aeb8d52a36d7610c",
@@ -2225,12 +2235,12 @@
     },
     {
       "id": "9f24a23eeb8f9131",
-      "title": "EBiDAN15周年記念シングル「Yes! 東京」発売記念リリースイベント『Yes! 飛び出せ! 僕らの移動教室』追加開催日が決定！(※6月30日更新)",
+      "title": "【7/27(月)更新】EBiDAN15周年記念シングル「Yes! 東京」発売記念リリースイベント『Yes! 飛び出せ! 僕らの移動教室』詳細が決定！",
       "sourceName": "SUPER★DRAGON 公式NEWS",
       "sourceUrl": "https://super-dragon.jp/news/feed/",
       "articleUrl": "https://super-dragon.jp/news/news11075/",
       "publishedAt": "2026-05-29T09:59:23.000Z",
-      "summary": "2026年8月11日(火・祝)に発売のEBiDAN15周年記念シングル「Yes! 東京」のリリースイベント『Yes! 飛び出せ! 僕らの移動教室』の詳細が決定いたしました。 15周年の特別な節目を、皆さまと一緒に最高に盛 […] The post EBiDAN15周年記念シングル「Yes! 東京」発売記念リリースイベント『Yes! 飛び出せ! 僕らの移動教室",
+      "summary": "2026年8月11日(火・祝)に発売のEBiDAN15周年記念シングル「Yes! 東京」のリリースイベント『Yes! 飛び出せ! 僕らの移動教室』の最終日の詳細が決定いたしました。 移動教室は12限目をもちまして終了とな […] The post 【7/27(月)更新】EBiDAN15周年記念シングル「Yes! 東京」発売記念リリースイベント『Yes! 飛び",
       "groups": [
         "EBiDAN",
         "SUPER★DRAGON"
