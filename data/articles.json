@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-07-26T19:34:49.267Z",
+  "updatedAt": "2026-07-27T04:01:43.446Z",
   "articles": [
     {
-      "id": "6d5b663a135ccc0a",
-      "title": "原因は自分にある。、有明アリーナ公演より新曲「火宴」ライブ映像を最速公開",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1080068",
-      "publishedAt": "2026-07-26T09:00:35.000Z",
-      "summary": "原因は自分にある。（通称ゲンジブ）が、現在配信中の新曲「火宴」のライブ映像を公開した。 今回公開された映像は、約5万人を動員した自身初のアリーナツアー＜ARENA TOUR 2026 仮ノ現＞から、今月4日〜5日に開催されたばかりの東京・有明アリーナ公演ファイナルの模様。本ツアーで初披露となった「火宴」だが、初にして完成度の高いステージパフォーマンスに圧倒さ",
+      "id": "8d768a3c78d57571",
+      "title": "9人組進化系ミクスチャーユニットSUPER★DRAGONが「コカ･コーラ SUMMER FES 音楽LIVE」に約2年ぶりに出演！真夏の野外ライブにふさわしい熱気あふれるステージでファンを魅了！",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/music2/657779.html",
+      "publishedAt": "2026-07-26T21:00:59.000Z",
+      "summary": "昨年、結成10周年を迎えた9人組ミクスチャーユニット・SUPER★DRAGON（通称・スパドラ）が、7月24日に「コカ・コーラ SUMMER FES 音楽LIVE」に出演した。毎年、夏休みに開催されている「テレビ朝日・六本木ヒルズ SUMMER FES」（通称・サマフェ ... The post 9人組進化系ミクスチャーユニットSUPER★DRAGONが「コ",
       "groups": [
-        "原因は自分にある。"
+        "SUPER★DRAGON"
       ],
       "statuses": [],
       "memberMatches": []
@@ -2509,28 +2509,6 @@
       "memberMatches": []
     },
     {
-      "id": "8a2525e65219e9a6",
-      "title": "板垣李光人、綱啓永、吉川愛、MOMONAらが戦慄する『口に関するアンケート』場面写真解禁",
-      "sourceName": "Bezzy",
-      "sourceUrl": "https://bezzy.jp/feed/",
-      "articleUrl": "https://bezzy.jp/2026/05/86294/",
-      "publishedAt": "2026-05-14T22:00:00.000Z",
-      "summary": "7月3日(金)より全国公開される板垣李光人主演のホラー映画『口に関するアンケート』から場面写真11点が解禁された。 本作の原作は、昨年映画化された『近畿地方のある場所について』も話題となったホラー作家・背筋による累計32万部突破中の同名小説。手のひらサイズの装丁と60ページという短い物語の中でしっかりと恐怖を味わえる読書体験が「怖すぎて人に薦められない」「読",
-      "groups": [
-        "BUDDiiS"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "SHOOT",
-          "group": "BUDDiiS",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "53b96b1754a45768",
       "title": "SUPER★DRAGON LIVE TOUR 2026 「Studio」オフィシャルグッズ、ミニ生写真セット 事後通販決定！",
       "sourceName": "SUPER★DRAGON 公式NEWS",
@@ -2685,6 +2663,28 @@
       ],
       "statuses": [],
       "memberMatches": []
+    },
+    {
+      "id": "263ba4637cc5d23b",
+      "title": "【バースデーグッズ】ジャン海渡26歳 バースデーPHOTO SET＆プロデュースグッズ スタダ便受注販売決定！",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news10931/",
+      "publishedAt": "2026-05-04T08:59:38.000Z",
+      "summary": "本日、2026年5月4日(月･祝)に26歳を迎えたジャン海渡の誕生日を記念して、 バースデーPHOTO SET&プロデュースグッズの販売が決定しました！ 今年のプロデュースグッズは、シークレットを含めた全7種のラ […] The post 【バースデーグッズ】ジャン海渡26歳 バースデーPHOTO SET＆プロデュースグッズ スタダ便受注販売決定！ firs",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "ジャン海渡",
+          "group": "SUPER★DRAGON",
+          "status": "active"
+        }
+      ]
     }
   ]
 }
