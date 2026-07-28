@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T14:36:34.673Z",
+  "updatedAt": "2026-07-28T19:52:32.534Z",
   "articles": [
     {
       "id": "06a343995cf6818d",
@@ -218,20 +218,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "8cb88512c48a33d2",
-      "title": "M!LKファンミ完走でパステルカラーの“お菓子衣装”＆大人な“メンカラツイード衣装”公開！「くっついてるの良すぎ」「イケメンすぎて眩しい」「ジャケット姿スタイリッシュ」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000853967/",
-      "publishedAt": "2026-07-28T03:00:27.000Z",
-      "summary": "M!LKがファンクラブ会員限定ファンミーティング『み！るきーず感謝祭2026 〜爆裂ホームパーテ...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "dd61accdbf882afb",
@@ -2753,6 +2739,20 @@
           "status": "active"
         }
       ]
+    },
+    {
+      "id": "140b16750f49e7c3",
+      "title": "「SUPER★DRAGON DRA FES 2026」開催決定！",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news10949/",
+      "publishedAt": "2026-05-11T08:59:54.000Z",
+      "summary": "本日5月11日(月)18:00よりオフィシャルファンクラブ『AREA SD』会員先行が受付開始。 会場で皆さんとお会いできることを楽しみにしております！ 【チケットの販売に伴うお願いと注意事項】 ※重要：お申込み前に必ず […] The post 「SUPER★DRAGON DRA FES 2026」開催決定！ first appeared on SUPER",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
     }
   ]
 }
