@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-07-28T03:34:39.663Z",
+  "updatedAt": "2026-07-28T08:51:06.192Z",
   "articles": [
+    {
+      "id": "a741ba22dbc5393c",
+      "title": "M!LK吉田仁人＆塩﨑太智が“家族写真”を撮影！肩に手を添え寄り添う姿に「完全に母と息子」「仁人くんの顔が優しくて好き」「だいちゃん初期装備なんだw」「5度見したw」と反響殺到",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000854226/",
+      "publishedAt": "2026-07-28T04:40:27.000Z",
+      "summary": "M!LKの吉田仁人が自身のXを更新。塩崎太智（崎は、たつさきが正式表記）との「家族写真」をテ...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "塩﨑太智",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "6f3a6b8922718605",
       "title": "M!LKがニコニコとお菓子衣装で「You!Joy!Parade!」ダンス披露！吉田仁人の困り顔や曽野舜太の脚上げに「不憫でかわいい」「画角からはみ出るほど脚長」「体操のおにいさんみたい」",
@@ -2668,28 +2695,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "227e54bdd5521059",
-      "title": "超特急・タカシプロデュースブランド「Freecus（フィカス）」から、New Collectionが誕生！",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26023/",
-      "publishedAt": "2026-05-08T01:59:20.000Z",
-      "summary": "New Collectionでは、毎シーズン好評のネイルポリッシュから最新カラーを5色展開💅 Freecusを愛用してくださる皆さまからのお声を反映した、マグネット感ある仕上がりカラーもラインナップ！ さら […]",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "タカシ",
-          "group": "超特急",
-          "status": "active"
-        }
-      ]
     }
   ]
 }
