@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-07-27T19:53:38.052Z",
+  "updatedAt": "2026-07-28T03:34:39.665Z",
   "totals": {
     "all": 160,
-    "today": 0,
-    "week": 22
+    "today": 3,
+    "week": 24
   },
   "groupRanking": [
     {
@@ -11,12 +11,12 @@
       "count": 9
     },
     {
-      "name": "超特急",
-      "count": 5
+      "name": "M!LK",
+      "count": 6
     },
     {
-      "name": "M!LK",
-      "count": 4
+      "name": "超特急",
+      "count": 5
     },
     {
       "name": "EBiDAN",
@@ -33,11 +33,11 @@
   ],
   "memberRanking": [
     {
-      "name": "ジャン海渡",
-      "count": 2
+      "name": "曽野舜太",
+      "count": 3
     },
     {
-      "name": "曽野舜太",
+      "name": "ジャン海渡",
       "count": 2
     },
     {
@@ -65,11 +65,11 @@
       "count": 1
     },
     {
-      "name": "塩﨑太智",
+      "name": "吉田仁人",
       "count": 1
     },
     {
-      "name": "吉田仁人",
+      "name": "佐野勇斗",
       "count": 1
     }
   ],
@@ -87,6 +87,10 @@
       "count": 2
     },
     {
+      "name": "THE FIRST TIMES",
+      "count": 2
+    },
+    {
       "name": "タワーレコード ニュース",
       "count": 2
     },
@@ -95,20 +99,121 @@
       "count": 2
     },
     {
-      "name": "THE FIRST TIMES",
-      "count": 1
-    },
-    {
       "name": "WWSチャンネル",
       "count": 1
     },
     {
       "name": "マイナビニュース テレビ",
       "count": 1
+    },
+    {
+      "name": "リアルサウンド 映画部",
+      "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
+    "M!LK": [
+      {
+        "id": "6f3a6b8922718605",
+        "title": "M!LKがニコニコとお菓子衣装で「You!Joy!Parade!」ダンス披露！吉田仁人の困り顔や曽野舜太の脚上げに「不憫でかわいい」「画角からはみ出るほど脚長」「体操のおにいさんみたい」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000854004/",
+        "publishedAt": "2026-07-28T03:21:12.000Z",
+        "summary": "M!LKがお菓子の装飾をちりばめたメンカラジャージ姿で「You!Joy!Parade!」をダンスする動画が...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "f5b0354d850603b0",
+        "title": "松本若菜＆佐野勇斗が星野源「好き」で踊る 『君の好きは無敵』エンドロールダンス動画公開",
+        "sourceName": "リアルサウンド 映画部",
+        "sourceUrl": "https://realsound.jp/movie/feed",
+        "articleUrl": "https://realsound.jp/movie/2026/07/post-2473076.html",
+        "publishedAt": "2026-07-28T03:00:46.000Z",
+        "summary": "松本若菜主演のTBS系火曜ドラマ『君の好きは無敵』の主題歌・星野源「好き」のエンドロールダンス動画が公開された。 完全オリジナルストーリーである本作は、世界に広がり続ける日本の“かわいい文化”を生み出すキャラクタービ",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "8cb88512c48a33d2",
+        "title": "M!LKファンミ完走でパステルカラーの“お菓子衣装”＆大人な“メンカラツイード衣装”公開！「くっついてるの良すぎ」「イケメンすぎて眩しい」「ジャケット姿スタイリッシュ」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000853967/",
+        "publishedAt": "2026-07-28T03:00:27.000Z",
+        "summary": "M!LKがファンクラブ会員限定ファンミーティング『み！るきーず感謝祭2026 〜爆裂ホームパーテ...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "f24b9a74ba26d74a",
+        "title": "曽野舜太、夢の『仮面ライダー』役で活きたM!LKでの経験明かす 役柄に驚きも「あれ、俺…」",
+        "sourceName": "マイナビニュース 映画",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
+        "articleUrl": "https://news.mynavi.jp/article/20260724-4735976/",
+        "publishedAt": "2026-07-24T11:00:00.000Z",
+        "summary": "ダンスボーカルグループ・M!LKの曽野舜太が23日、映画『仮面ライダーゼッツ さよならのミッション』/映画『超宇宙刑事ギャバン インフィニティ 太陽が泣いた日』(公開中)の公開前夜祭舞台挨拶に登壇。夢だったという『仮面ライダー』出演で活きたM!LKでの経験を明かした。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "3f5a33baf834ec9a",
+        "title": "M!LK、「『装苑』2026年9月号」表紙＆巻頭飾る",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/07/24/tgb004",
+        "publishedAt": "2026-07-24T05:00:00.000Z",
+        "summary": "",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
     "EBiDAN": [
       {
         "id": "dd61accdbf882afb",
@@ -177,112 +282,6 @@
         "groups": [
           "EBiDAN",
           "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "M!LK": [
-      {
-        "id": "b0a448f23caae699",
-        "title": "M!LK吉田仁人の前髪ありサラスト金髪に「女の子かと思った」と反響！佐野勇斗の黒短髪＆塩﨑太智の黒縁メガネ姿も公開され「存在しないデートの記憶がよみがえる」「また恋に落ちてしまう」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000853702/",
-        "publishedAt": "2026-07-27T06:45:16.000Z",
-        "summary": "M!LKの佐野勇斗と塩崎太智（※「崎」は、たつさきが正式表記）が表紙を務める『non-no』9月号特...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "f24b9a74ba26d74a",
-        "title": "曽野舜太、夢の『仮面ライダー』役で活きたM!LKでの経験明かす 役柄に驚きも「あれ、俺…」",
-        "sourceName": "マイナビニュース 映画",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
-        "articleUrl": "https://news.mynavi.jp/article/20260724-4735976/",
-        "publishedAt": "2026-07-24T11:00:00.000Z",
-        "summary": "ダンスボーカルグループ・M!LKの曽野舜太が23日、映画『仮面ライダーゼッツ さよならのミッション』/映画『超宇宙刑事ギャバン インフィニティ 太陽が泣いた日』(公開中)の公開前夜祭舞台挨拶に登壇。夢だったという『仮面ライダー』出演で活きたM!LKでの経験を明かした。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "3f5a33baf834ec9a",
-        "title": "M!LK、「『装苑』2026年9月号」表紙＆巻頭飾る",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/07/24/tgb004",
-        "publishedAt": "2026-07-24T05:00:00.000Z",
-        "summary": "",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "932f2bcf32ec4ee5",
-        "title": "「ブンブン振り回していたら……」M!LK曽野舜太、殺陣練習のために模擬刀を購入→自宅で起こったハプニングとは",
-        "sourceName": "マイナビニュース 映画",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
-        "articleUrl": "https://news.mynavi.jp/article/20260723-4733726/",
-        "publishedAt": "2026-07-23T13:00:00.000Z",
-        "summary": "ダンスボーカルグループ・M!LKの曽野舜太が23日、映画『仮面ライダーゼッツ さよならのミッション』/映画『超宇宙刑事ギャバン インフィニティ 太陽が泣いた日』(ともに7月24日公開)の公開前夜祭舞台挨拶に登壇。殺陣練習の裏で起こったハプニングを明かした。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "aeb8d52a36d7610c",
-        "title": "夏を全力で楽しむ5人をワンカットで撮影、M!LK最新曲「You!Joy!Parade!」MV公開",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/07/89424/",
-        "publishedAt": "2026-07-17T10:00:00.000Z",
-        "summary": "5人組ダンス＆ボーカルグループ・M!LKの最新曲「You!Joy!Parade!」のミュージックビデオがYouTubeでプレミア公開された。 5ヵ月連続リリース企画「モー烈モー進！リリースプロジェクト2026」第四弾として本日7月17日(金)にリリースされた本楽曲は、“かけがえのない仲間と過ごす夏”をメインテーマに制作された一曲。絆と友情の力を感じさせるリリ",
-        "groups": [
-          "M!LK"
         ],
         "statuses": [],
         "memberMatches": []
