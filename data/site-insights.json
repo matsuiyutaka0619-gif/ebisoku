@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-07-29T09:08:22.330Z",
+  "updatedAt": "2026-07-29T14:31:02.086Z",
   "totals": {
     "all": 160,
     "today": 4,
-    "week": 24
+    "week": 23
   },
   "groupRanking": [
     {
-      "name": "SUPER★DRAGON",
+      "name": "M!LK",
       "count": 8
     },
     {
-      "name": "M!LK",
+      "name": "SUPER★DRAGON",
       "count": 7
     },
     {
@@ -20,7 +20,7 @@
     },
     {
       "name": "EBiDAN",
-      "count": 3
+      "count": 2
     },
     {
       "name": "原因は自分にある。",
@@ -33,11 +33,11 @@
   ],
   "memberRanking": [
     {
-      "name": "ジャン海渡",
-      "count": 2
+      "name": "塩﨑太智",
+      "count": 3
     },
     {
-      "name": "塩﨑太智",
+      "name": "ジャン海渡",
       "count": 2
     },
     {
@@ -79,16 +79,12 @@
       "count": 7
     },
     {
-      "name": "THE FIRST TIMES",
-      "count": 4
-    },
-    {
       "name": "超特急 公式NEWS",
       "count": 4
     },
     {
-      "name": "WWSチャンネル",
-      "count": 2
+      "name": "THE FIRST TIMES",
+      "count": 3
     },
     {
       "name": "タワーレコード ニュース",
@@ -105,11 +101,41 @@
     {
       "name": "Bezzy",
       "count": 1
+    },
+    {
+      "name": "WWSチャンネル",
+      "count": 1
+    },
+    {
+      "name": "マイナビニュース エンタメ",
+      "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
     "M!LK": [
+      {
+        "id": "3a41e73c30dd58be",
+        "title": "「テレビに出させてもらうようになって…」M!LK塩崎太智が最近“やってみたいこと”とは",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20260729-4747054/",
+        "publishedAt": "2026-07-29T10:00:00.000Z",
+        "summary": "「テレビに出させてもらうようになって……」アイドルグループ・M!LKの塩崎太智(※崎がたつさき)が、今後“やってみたい”ことを明かした―。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
       {
         "id": "4c8c055c7f9f216f",
         "title": "M!LKがポップな私服風衣装でくるくる回りながら友情パレードダンス！「回転寿司ならぬ回転アイドル」「だいちゃんのアップバブみある」「寝ころぶはやちゃん赤ちゃんみたい」",
@@ -194,100 +220,6 @@
             "status": "active"
           }
         ]
-      },
-      {
-        "id": "f24b9a74ba26d74a",
-        "title": "曽野舜太、夢の『仮面ライダー』役で活きたM!LKでの経験明かす 役柄に驚きも「あれ、俺…」",
-        "sourceName": "マイナビニュース 映画",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
-        "articleUrl": "https://news.mynavi.jp/article/20260724-4735976/",
-        "publishedAt": "2026-07-24T11:00:00.000Z",
-        "summary": "ダンスボーカルグループ・M!LKの曽野舜太が23日、映画『仮面ライダーゼッツ さよならのミッション』/映画『超宇宙刑事ギャバン インフィニティ 太陽が泣いた日』(公開中)の公開前夜祭舞台挨拶に登壇。夢だったという『仮面ライダー』出演で活きたM!LKでの経験を明かした。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      }
-    ],
-    "EBiDAN": [
-      {
-        "id": "619edc3bc710ae47",
-        "title": "『EBiDAN THE AUDITION 2026』いよいよ完結！『DAN! DAN! EBiDAN!』にて合格者＆グループ名が発表",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000854712/",
-        "publishedAt": "2026-07-29T03:00:07.000Z",
-        "summary": "テレ東にて、毎週木曜25時から放送中の『DAN! DAN! EBiDAN!』。7月30日の放送回では、4月から...",
-        "groups": [
-          "EBiDAN"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "dd61accdbf882afb",
-        "title": "「Yes! 駆け込め! 僕らのEBiSTORE」の開催が決定！",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26410/",
-        "publishedAt": "2026-07-27T09:29:58.000Z",
-        "summary": "EBiDAN15周年記念シングル「Yes! 東京」リリース＆『EBiDAN THE LIVE 2026 15th Anniversary』の開催を記念してSHIBUYA TSUTAYAにてコラボレーションカフェ「Yes! […]",
-        "groups": [
-          "EBiDAN"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "0e9cf16d468ceeec",
-        "title": "「J-POPシングル ウィークリーTOP30」発表。1位は乃木坂46『是非に及ばず』、予約1位はEBiDAN（恵比寿学園男子部）『Yes! 東京』（2026年7月23日付）",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/07/23/tg001",
-        "publishedAt": "2026-07-23T10:00:00.000Z",
-        "summary": "",
-        "groups": [
-          "EBiDAN"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "bd0df7139fe2f96f",
-        "title": "【7/21(火)更新】EBiDANと過ごす、特別な夏がやってくる！2026年8月15日(土)より全国4会場のhmv museumで開催となる『EBiDAN museum 2026』メインビジュアルを発表！",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26381/",
-        "publishedAt": "2026-07-21T10:30:48.000Z",
-        "summary": "EBiDANと過ごす、特別な夏がやってくる！『EBiDAN museum 2026』2026年8月15日(土)より全国4会場のhmv museumで同時開催が決定しました！ 今年のテーマは“EBiDANの夏休み”！ 本展 […]",
-        "groups": [
-          "EBiDAN"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "3b6cae44bc88ebae",
-        "title": "『EBiDAN 15th Anniversaryオフィシャルグッズ』の販売が決定！",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26375/",
-        "publishedAt": "2026-07-17T07:18:56.000Z",
-        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念いたしまして、『EBiDAN 15th Anniversaryオフィシャルグッズ』の販売が決定いたしました！ ロゴが映えるリキッドキーホルダーやファーキーホルダー、メンバ […]",
-        "groups": [
-          "EBiDAN"
-        ],
-        "statuses": [],
-        "memberMatches": []
       }
     ],
     "原因は自分にある。": [
@@ -370,21 +302,80 @@
         ]
       }
     ],
-    "SUPER★DRAGON": [
+    "EBiDAN": [
       {
-        "id": "8d768a3c78d57571",
-        "title": "9人組進化系ミクスチャーユニットSUPER★DRAGONが「コカ･コーラ SUMMER FES 音楽LIVE」に約2年ぶりに出演！真夏の野外ライブにふさわしい熱気あふれるステージでファンを魅了！",
-        "sourceName": "WWSチャンネル",
-        "sourceUrl": "https://www.wws-channel.com/feed",
-        "articleUrl": "https://www.wws-channel.com/music2/657779.html",
-        "publishedAt": "2026-07-26T21:00:59.000Z",
-        "summary": "昨年、結成10周年を迎えた9人組ミクスチャーユニット・SUPER★DRAGON（通称・スパドラ）が、7月24日に「コカ・コーラ SUMMER FES 音楽LIVE」に出演した。毎年、夏休みに開催されている「テレビ朝日・六本木ヒルズ SUMMER FES」（通称・サマフェ ... The post 9人組進化系ミクスチャーユニットSUPER★DRAGONが「コ",
+        "id": "dd61accdbf882afb",
+        "title": "「Yes! 駆け込め! 僕らのEBiSTORE」の開催が決定！",
+        "sourceName": "超特急 公式NEWS",
+        "sourceUrl": "https://bullettrain.jp/news/feed/",
+        "articleUrl": "https://bullettrain.jp/news/news26410/",
+        "publishedAt": "2026-07-27T09:29:58.000Z",
+        "summary": "EBiDAN15周年記念シングル「Yes! 東京」リリース＆『EBiDAN THE LIVE 2026 15th Anniversary』の開催を記念してSHIBUYA TSUTAYAにてコラボレーションカフェ「Yes! […]",
         "groups": [
-          "SUPER★DRAGON"
+          "EBiDAN"
         ],
         "statuses": [],
         "memberMatches": []
       },
+      {
+        "id": "0e9cf16d468ceeec",
+        "title": "「J-POPシングル ウィークリーTOP30」発表。1位は乃木坂46『是非に及ばず』、予約1位はEBiDAN（恵比寿学園男子部）『Yes! 東京』（2026年7月23日付）",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/07/23/tg001",
+        "publishedAt": "2026-07-23T10:00:00.000Z",
+        "summary": "",
+        "groups": [
+          "EBiDAN"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "bd0df7139fe2f96f",
+        "title": "【7/21(火)更新】EBiDANと過ごす、特別な夏がやってくる！2026年8月15日(土)より全国4会場のhmv museumで開催となる『EBiDAN museum 2026』メインビジュアルを発表！",
+        "sourceName": "超特急 公式NEWS",
+        "sourceUrl": "https://bullettrain.jp/news/feed/",
+        "articleUrl": "https://bullettrain.jp/news/news26381/",
+        "publishedAt": "2026-07-21T10:30:48.000Z",
+        "summary": "EBiDANと過ごす、特別な夏がやってくる！『EBiDAN museum 2026』2026年8月15日(土)より全国4会場のhmv museumで同時開催が決定しました！ 今年のテーマは“EBiDANの夏休み”！ 本展 […]",
+        "groups": [
+          "EBiDAN"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "3b6cae44bc88ebae",
+        "title": "『EBiDAN 15th Anniversaryオフィシャルグッズ』の販売が決定！",
+        "sourceName": "超特急 公式NEWS",
+        "sourceUrl": "https://bullettrain.jp/news/feed/",
+        "articleUrl": "https://bullettrain.jp/news/news26375/",
+        "publishedAt": "2026-07-17T07:18:56.000Z",
+        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念いたしまして、『EBiDAN 15th Anniversaryオフィシャルグッズ』の販売が決定いたしました！ ロゴが映えるリキッドキーホルダーやファーキーホルダー、メンバ […]",
+        "groups": [
+          "EBiDAN"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "1001bcc1100d7db2",
+        "title": "『EBiDAN 15th Anniversaryオフィシャルグッズ』の販売が決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11432/",
+        "publishedAt": "2026-07-17T07:00:40.000Z",
+        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念いたしまして、『EBiDAN 15th Anniversaryオフィシャルグッズ』の販売が決定いたしました！ ロゴが映えるリキッドキーホルダーやファーキーホルダー、メンバ […] The post 『EBiDAN 15th Anniversaryオフィシャルグッズ』の販売が決定！ first appeared",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
+    "SUPER★DRAGON": [
       {
         "id": "9d155a894ee85ffa",
         "title": "「SUPER★DRAGON July SCRATCH 2026」開催のお知らせ！",
@@ -456,6 +447,28 @@
         ],
         "statuses": [],
         "memberMatches": []
+      },
+      {
+        "id": "143d7c83523956de",
+        "title": "SUPER★DRAGON 田中洸希 イベント欠席のお知らせ",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11452/",
+        "publishedAt": "2026-07-24T04:00:48.000Z",
+        "summary": "いつもSUPER★DRAGONを応援していただき、誠にありがとうございます。 メンバーの田中洸希ですが、発熱による体調不良の為、本日開催の「テレビ朝日・六本木ヒルズ SUMMER FES」（東京都・六本木ヒルズアリーナ） […] The post SUPER★DRAGON 田中洸希 イベント欠席のお知らせ first appeared on SUPER★DR",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "田中洸希",
+            "group": "SUPER★DRAGON",
+            "status": "active"
+          }
+        ]
       }
     ],
     "超特急": [
