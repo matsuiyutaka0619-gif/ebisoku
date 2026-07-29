@@ -1,6 +1,69 @@
 {
-  "updatedAt": "2026-07-29T03:38:16.338Z",
+  "updatedAt": "2026-07-29T09:08:22.327Z",
   "articles": [
+    {
+      "id": "4c8c055c7f9f216f",
+      "title": "M!LKがポップな私服風衣装でくるくる回りながら友情パレードダンス！「回転寿司ならぬ回転アイドル」「だいちゃんのアップバブみある」「寝ころぶはやちゃん赤ちゃんみたい」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000854651/",
+      "publishedAt": "2026-07-29T05:03:36.000Z",
+      "summary": "M!LK公式TikTokで、「You!Joy!Parade!」のリレーダンス動画が公開された。 ■画角の外でハプニ...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "ba74b452748f773d",
+      "title": "M!LK塩﨑太智が吉田仁人をニッコニコでガン見！近づきすぎてぶつかりながら踊るふたりに「目が合って照れるの最高」「子どもとパパみたい」「手が当たったの気にする吉田さんやさしい」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000854690/",
+      "publishedAt": "2026-07-29T04:56:43.000Z",
+      "summary": "M!LK公式TikTokで、塩崎太智（「崎」はたつさきが正式表記）と吉田仁人による「You!Joy!Parade...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "塩﨑太智",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "4abf0d0aa90c291a",
+      "title": "星野源、新曲「好き」配信リリース！ドラマ『君の好きは無敵』第1話エンディングでOAされるやSNSを中心に話題沸騰",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000854816/",
+      "publishedAt": "2026-07-29T03:55:15.000Z",
+      "summary": "星野源が、7月29日に、TBS系火曜ドラマ『君の好きは無敵』（出演：松本若菜、佐野勇斗）主題歌...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "619edc3bc710ae47",
       "title": "『EBiDAN THE AUDITION 2026』いよいよ完結！『DAN! DAN! EBiDAN!』にて合格者＆グループ名が発表",
@@ -11,20 +74,6 @@
       "summary": "テレ東にて、毎週木曜25時から放送中の『DAN! DAN! EBiDAN!』。7月30日の放送回では、4月から...",
       "groups": [
         "EBiDAN"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "a99fabc9e175bc17",
-      "title": "新着MVランキング：M!LK「You!Joy!Parade!」が放つ無敵の祝祭感 全編ワンカットが捉えた5人の仲の良さ",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/07/post-2472212.html",
-      "publishedAt": "2026-07-28T20:50:47.000Z",
-      "summary": "毎週更新される「YouTube Music Charts」ウィークリー ミュージック ビデオ ランキングより、MVをはじめとした音楽関連の新着動画から上位10作品／楽曲を取り上げ、ランキング化＆レビューしていく連載「MV Chart Focus」。今週は首位を獲得したM!LK「You!Joy!Parade!」を取り上げる。",
-      "groups": [
-        "M!LK"
       ],
       "statuses": [],
       "memberMatches": []
@@ -54,8 +103,8 @@
     {
       "id": "03b969d2b0e0bb0b",
       "title": "『VIVANT』第11話の舞台裏を緊急公開! “ノコル”に扮するM!LK塩崎太智の大胆考察に監督の反応は...?",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
       "articleUrl": "https://news.mynavi.jp/article/20260728-4750471/",
       "publishedAt": "2026-07-28T10:33:01.000Z",
       "summary": "TBS系バラエティ番組『知識の扉よ開け！ドア×ドア クエスト』(31日20:55～)で、26日に放送され大きな反響を呼んだドラマ『VIVANT』第11話の名シーンの裏側が緊急公開される。",
@@ -68,60 +117,6 @@
       "memberMatches": [
         {
           "name": "塩﨑太智",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "8bd02008e58cddde",
-      "title": "M!LK塩﨑太智が日曜劇場『VIVANT』監督を直撃！極秘映像をもとにストーリーを大胆考察",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000854198/",
-      "publishedAt": "2026-07-28T10:00:28.000Z",
-      "summary": "M!LKの塩崎太智（崎は、たつさきが正式表記）と佐野勇斗が、7月31日20時55分より放送されるTBS...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "塩﨑太智",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "de754eaaddca96bd",
-      "title": "「興奮が止まらない」「ついに…」M!LK塩崎太智＆吉田仁人、4年半ぶりYouTube再始動でファン歓喜 復活の“意外なワケ”に「まじでかわいい」 コメントは1万6,000件を突破",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-      "articleUrl": "https://news.mynavi.jp/article/20260728-4746979/",
-      "publishedAt": "2026-07-28T10:00:00.000Z",
-      "summary": "「これが一番やる気ないかもしれない(笑)」アイドルグループ・M!LKの塩崎太智(※崎がたつさき)と吉田仁人が21日、YouTubeチャンネル『じんだいチャンネル』を再開。ファンから喜びの声が上がっている――。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "塩﨑太智",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "吉田仁人",
           "group": "M!LK",
           "status": "active"
         }
