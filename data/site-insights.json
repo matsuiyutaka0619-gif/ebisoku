@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-07-28T19:52:32.536Z",
+  "updatedAt": "2026-07-29T03:38:16.341Z",
   "totals": {
     "all": 160,
-    "today": 0,
-    "week": 28
+    "today": 2,
+    "week": 25
   },
   "groupRanking": [
     {
-      "name": "M!LK",
-      "count": 10
-    },
-    {
       "name": "SUPER★DRAGON",
       "count": 8
+    },
+    {
+      "name": "M!LK",
+      "count": 7
     },
     {
       "name": "超特急",
       "count": 5
     },
     {
-      "name": "原因は自分にある。",
+      "name": "EBiDAN",
       "count": 3
     },
     {
-      "name": "EBiDAN",
+      "name": "原因は自分にある。",
       "count": 2
     },
     {
@@ -34,26 +34,18 @@
   "memberRanking": [
     {
       "name": "塩﨑太智",
-      "count": 4
-    },
-    {
-      "name": "吉田仁人",
-      "count": 3
-    },
-    {
-      "name": "佐野勇斗",
-      "count": 3
-    },
-    {
-      "name": "小泉光咲",
-      "count": 3
-    },
-    {
-      "name": "曽野舜太",
       "count": 3
     },
     {
       "name": "ジャン海渡",
+      "count": 2
+    },
+    {
+      "name": "小泉光咲",
+      "count": 2
+    },
+    {
+      "name": "曽野舜太",
       "count": 2
     },
     {
@@ -71,6 +63,14 @@
     {
       "name": "シューヤ",
       "count": 1
+    },
+    {
+      "name": "タカシ",
+      "count": 1
+    },
+    {
+      "name": "マサヒロ",
+      "count": 1
     }
   ],
   "sourceRanking": [
@@ -83,15 +83,11 @@
       "count": 4
     },
     {
-      "name": "THE FIRST TIMES",
-      "count": 3
-    },
-    {
-      "name": "リアルサウンド 映画部",
-      "count": 3
-    },
-    {
       "name": "Bezzy",
+      "count": 2
+    },
+    {
+      "name": "THE FIRST TIMES",
       "count": 2
     },
     {
@@ -113,32 +109,100 @@
     {
       "name": "マイナビニュース テレビ",
       "count": 1
+    },
+    {
+      "name": "リアルサウンド 音楽",
+      "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
+    "EBiDAN": [
+      {
+        "id": "619edc3bc710ae47",
+        "title": "『EBiDAN THE AUDITION 2026』いよいよ完結！『DAN! DAN! EBiDAN!』にて合格者＆グループ名が発表",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000854712/",
+        "publishedAt": "2026-07-29T03:00:07.000Z",
+        "summary": "テレ東にて、毎週木曜25時から放送中の『DAN! DAN! EBiDAN!』。7月30日の放送回では、4月から...",
+        "groups": [
+          "EBiDAN"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "dd61accdbf882afb",
+        "title": "「Yes! 駆け込め! 僕らのEBiSTORE」の開催が決定！",
+        "sourceName": "超特急 公式NEWS",
+        "sourceUrl": "https://bullettrain.jp/news/feed/",
+        "articleUrl": "https://bullettrain.jp/news/news26410/",
+        "publishedAt": "2026-07-27T09:29:58.000Z",
+        "summary": "EBiDAN15周年記念シングル「Yes! 東京」リリース＆『EBiDAN THE LIVE 2026 15th Anniversary』の開催を記念してSHIBUYA TSUTAYAにてコラボレーションカフェ「Yes! […]",
+        "groups": [
+          "EBiDAN"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "0e9cf16d468ceeec",
+        "title": "「J-POPシングル ウィークリーTOP30」発表。1位は乃木坂46『是非に及ばず』、予約1位はEBiDAN（恵比寿学園男子部）『Yes! 東京』（2026年7月23日付）",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/07/23/tg001",
+        "publishedAt": "2026-07-23T10:00:00.000Z",
+        "summary": "",
+        "groups": [
+          "EBiDAN"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "bd0df7139fe2f96f",
+        "title": "【7/21(火)更新】EBiDANと過ごす、特別な夏がやってくる！2026年8月15日(土)より全国4会場のhmv museumで開催となる『EBiDAN museum 2026』メインビジュアルを発表！",
+        "sourceName": "超特急 公式NEWS",
+        "sourceUrl": "https://bullettrain.jp/news/feed/",
+        "articleUrl": "https://bullettrain.jp/news/news26381/",
+        "publishedAt": "2026-07-21T10:30:48.000Z",
+        "summary": "EBiDANと過ごす、特別な夏がやってくる！『EBiDAN museum 2026』2026年8月15日(土)より全国4会場のhmv museumで同時開催が決定しました！ 今年のテーマは“EBiDANの夏休み”！ 本展 […]",
+        "groups": [
+          "EBiDAN"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "3b6cae44bc88ebae",
+        "title": "『EBiDAN 15th Anniversaryオフィシャルグッズ』の販売が決定！",
+        "sourceName": "超特急 公式NEWS",
+        "sourceUrl": "https://bullettrain.jp/news/feed/",
+        "articleUrl": "https://bullettrain.jp/news/news26375/",
+        "publishedAt": "2026-07-17T07:18:56.000Z",
+        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念いたしまして、『EBiDAN 15th Anniversaryオフィシャルグッズ』の販売が決定いたしました！ ロゴが映えるリキッドキーホルダーやファーキーホルダー、メンバ […]",
+        "groups": [
+          "EBiDAN"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
     "M!LK": [
       {
-        "id": "06a343995cf6818d",
-        "title": "『君の好きは無敵』“瀬尾”佐野勇斗の1mmが生み出す魔法 藤井隆が作品に与える安心感",
-        "sourceName": "リアルサウンド 映画部",
-        "sourceUrl": "https://realsound.jp/movie/feed",
-        "articleUrl": "https://realsound.jp/movie/2026/07/post-2473520.html",
-        "publishedAt": "2026-07-28T14:10:45.000Z",
-        "summary": "アンパンマンやキティちゃんを描こうとして、失敗した経験がある人は意外と多いのではないか。どちらの顔もシンプルなので簡単に描けそうに思えるが、実際は1mmでもパーツがズレるだけで、途端に偽物感が出てしまう。裏を返せば、そ",
+        "id": "a99fabc9e175bc17",
+        "title": "新着MVランキング：M!LK「You!Joy!Parade!」が放つ無敵の祝祭感 全編ワンカットが捉えた5人の仲の良さ",
+        "sourceName": "リアルサウンド 音楽",
+        "sourceUrl": "https://realsound.jp/music/feed",
+        "articleUrl": "https://realsound.jp/2026/07/post-2472212.html",
+        "publishedAt": "2026-07-28T20:50:47.000Z",
+        "summary": "毎週更新される「YouTube Music Charts」ウィークリー ミュージック ビデオ ランキングより、MVをはじめとした音楽関連の新着動画から上位10作品／楽曲を取り上げ、ランキング化＆レビューしていく連載「MV Chart Focus」。今週は首位を獲得したM!LK「You!Joy!Parade!」を取り上げる。",
         "groups": [
           "M!LK"
         ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
+        "statuses": [],
+        "memberMatches": []
       },
       {
         "id": "03b969d2b0e0bb0b",
@@ -217,13 +281,13 @@
         ]
       },
       {
-        "id": "a741ba22dbc5393c",
-        "title": "M!LK吉田仁人＆塩﨑太智が“家族写真”を撮影！肩に手を添え寄り添う姿に「完全に母と息子」「仁人くんの顔が優しくて好き」「だいちゃん初期装備なんだw」「5度見したw」と反響殺到",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000854226/",
-        "publishedAt": "2026-07-28T04:40:27.000Z",
-        "summary": "M!LKの吉田仁人が自身のXを更新。塩崎太智（崎は、たつさきが正式表記）との「家族写真」をテ...",
+        "id": "f24b9a74ba26d74a",
+        "title": "曽野舜太、夢の『仮面ライダー』役で活きたM!LKでの経験明かす 役柄に驚きも「あれ、俺…」",
+        "sourceName": "マイナビニュース 映画",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
+        "articleUrl": "https://news.mynavi.jp/article/20260724-4735976/",
+        "publishedAt": "2026-07-24T11:00:00.000Z",
+        "summary": "ダンスボーカルグループ・M!LKの曽野舜太が23日、映画『仮面ライダーゼッツ さよならのミッション』/映画『超宇宙刑事ギャバン インフィニティ 太陽が泣いた日』(公開中)の公開前夜祭舞台挨拶に登壇。夢だったという『仮面ライダー』出演で活きたM!LKでの経験を明かした。",
         "groups": [
           "M!LK"
         ],
@@ -232,12 +296,7 @@
         ],
         "memberMatches": [
           {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "吉田仁人",
+            "name": "曽野舜太",
             "group": "M!LK",
             "status": "active"
           }
@@ -245,28 +304,6 @@
       }
     ],
     "原因は自分にある。": [
-      {
-        "id": "b069b0db7b4f639c",
-        "title": "泉光咲×四坂亮翔『陽キャ集団にいる芹沢は、俺の前だと様子がおかしい』8月10日より放送",
-        "sourceName": "リアルサウンド 映画部",
-        "sourceUrl": "https://realsound.jp/movie/feed",
-        "articleUrl": "https://realsound.jp/movie/2026/07/post-2473912.html",
-        "publishedAt": "2026-07-28T13:15:27.000Z",
-        "summary": "原因は自分にある。の小泉光咲と四坂亮翔がW主演を務めるドラマ『陽キャ集団にいる芹沢は、俺の前だと様子がおかしい』が、8月10日より読売テレビ「ドラマDiVE」枠で放送される。 本作は、『みなと商事コインランドリー』な",
-        "groups": [
-          "原因は自分にある。"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          }
-        ]
-      },
       {
         "id": "4c46461fa891360d",
         "title": "龍宮城、新曲「愛愛愛なんて」が小泉光咲＆四坂亮翔W主演ドラマのOP主題歌に決定！",
@@ -344,79 +381,6 @@
             "status": "active"
           }
         ]
-      }
-    ],
-    "EBiDAN": [
-      {
-        "id": "dd61accdbf882afb",
-        "title": "「Yes! 駆け込め! 僕らのEBiSTORE」の開催が決定！",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26410/",
-        "publishedAt": "2026-07-27T09:29:58.000Z",
-        "summary": "EBiDAN15周年記念シングル「Yes! 東京」リリース＆『EBiDAN THE LIVE 2026 15th Anniversary』の開催を記念してSHIBUYA TSUTAYAにてコラボレーションカフェ「Yes! […]",
-        "groups": [
-          "EBiDAN"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "0e9cf16d468ceeec",
-        "title": "「J-POPシングル ウィークリーTOP30」発表。1位は乃木坂46『是非に及ばず』、予約1位はEBiDAN（恵比寿学園男子部）『Yes! 東京』（2026年7月23日付）",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/07/23/tg001",
-        "publishedAt": "2026-07-23T10:00:00.000Z",
-        "summary": "",
-        "groups": [
-          "EBiDAN"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "bd0df7139fe2f96f",
-        "title": "【7/21(火)更新】EBiDANと過ごす、特別な夏がやってくる！2026年8月15日(土)より全国4会場のhmv museumで開催となる『EBiDAN museum 2026』メインビジュアルを発表！",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26381/",
-        "publishedAt": "2026-07-21T10:30:48.000Z",
-        "summary": "EBiDANと過ごす、特別な夏がやってくる！『EBiDAN museum 2026』2026年8月15日(土)より全国4会場のhmv museumで同時開催が決定しました！ 今年のテーマは“EBiDANの夏休み”！ 本展 […]",
-        "groups": [
-          "EBiDAN"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "3b6cae44bc88ebae",
-        "title": "『EBiDAN 15th Anniversaryオフィシャルグッズ』の販売が決定！",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26375/",
-        "publishedAt": "2026-07-17T07:18:56.000Z",
-        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念いたしまして、『EBiDAN 15th Anniversaryオフィシャルグッズ』の販売が決定いたしました！ ロゴが映えるリキッドキーホルダーやファーキーホルダー、メンバ […]",
-        "groups": [
-          "EBiDAN"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "1001bcc1100d7db2",
-        "title": "『EBiDAN 15th Anniversaryオフィシャルグッズ』の販売が決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11432/",
-        "publishedAt": "2026-07-17T07:00:40.000Z",
-        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念いたしまして、『EBiDAN 15th Anniversaryオフィシャルグッズ』の販売が決定いたしました！ ロゴが映えるリキッドキーホルダーやファーキーホルダー、メンバ […] The post 『EBiDAN 15th Anniversaryオフィシャルグッズ』の販売が決定！ first appeared",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
       }
     ],
     "SUPER★DRAGON": [
