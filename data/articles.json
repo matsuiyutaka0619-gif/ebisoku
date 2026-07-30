@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T14:31:29.683Z",
+  "updatedAt": "2026-07-30T19:51:53.207Z",
   "articles": [
     {
       "id": "59fa057537db8bdf",
@@ -157,20 +157,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "dd61accdbf882afb",
-      "title": "「Yes! 駆け込め! 僕らのEBiSTORE」の開催が決定！",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26410/",
-      "publishedAt": "2026-07-27T09:29:58.000Z",
-      "summary": "EBiDAN15周年記念シングル「Yes! 東京」リリース＆『EBiDAN THE LIVE 2026 15th Anniversary』の開催を記念してSHIBUYA TSUTAYAにてコラボレーションカフェ「Yes! […]",
-      "groups": [
-        "EBiDAN"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "9d155a894ee85ffa",
@@ -2701,6 +2687,20 @@
       "articleUrl": "https://bullettrain.jp/news/news26032/",
       "publishedAt": "2026-05-08T08:59:24.000Z",
       "summary": "完売していた「BULLET TRAIN ARENA TOUR 2026 ESCORT」のチケットですが、 『夢の青春8きっぷ』会員限定 機材席開放販売 (抽選) の実施が決定いたしました！ 本日5月8日(金)18:00よ […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "247c50b1090136d4",
+      "title": "「DayDay. SUPER LIVE 2026」 超特急オフィシャルグッズ会場販売のお知らせ！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26029/",
+      "publishedAt": "2026-05-08T06:59:43.000Z",
+      "summary": "5月16日(土)出演の「DayDay. SUPER LIVE 2026」会場にて、超特急オフィシャルグッズを販売いたします！ ご来場の方はぜひグッズ販売ブースへお越しください！ ***** 【ライブ/グッズ販売情報】 ■ […]",
       "groups": [
         "超特急"
       ],

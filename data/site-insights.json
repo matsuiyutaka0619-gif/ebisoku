@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-07-30T14:31:29.685Z",
+  "updatedAt": "2026-07-30T19:51:53.209Z",
   "totals": {
     "all": 160,
-    "today": 7,
-    "week": 19
+    "today": 0,
+    "week": 18
   },
   "groupRanking": [
     {
@@ -19,11 +19,11 @@
       "count": 4
     },
     {
-      "name": "EBiDAN",
-      "count": 2
+      "name": "BUDDiiS",
+      "count": 1
     },
     {
-      "name": "BUDDiiS",
+      "name": "EBiDAN",
       "count": 1
     },
     {
@@ -80,7 +80,7 @@
     },
     {
       "name": "超特急 公式NEWS",
-      "count": 5
+      "count": 4
     },
     {
       "name": "THE FIRST TIMES",
@@ -222,20 +222,6 @@
         "memberMatches": []
       },
       {
-        "id": "dd61accdbf882afb",
-        "title": "「Yes! 駆け込め! 僕らのEBiSTORE」の開催が決定！",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26410/",
-        "publishedAt": "2026-07-27T09:29:58.000Z",
-        "summary": "EBiDAN15周年記念シングル「Yes! 東京」リリース＆『EBiDAN THE LIVE 2026 15th Anniversary』の開催を記念してSHIBUYA TSUTAYAにてコラボレーションカフェ「Yes! […]",
-        "groups": [
-          "EBiDAN"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
         "id": "bd0df7139fe2f96f",
         "title": "【7/21(火)更新】EBiDANと過ごす、特別な夏がやってくる！2026年8月15日(土)より全国4会場のhmv museumで開催となる『EBiDAN museum 2026』メインビジュアルを発表！",
         "sourceName": "超特急 公式NEWS",
@@ -271,6 +257,21 @@
         "articleUrl": "https://super-dragon.jp/news/news11432/",
         "publishedAt": "2026-07-17T07:00:40.000Z",
         "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念いたしまして、『EBiDAN 15th Anniversaryオフィシャルグッズ』の販売が決定いたしました！ ロゴが映えるリキッドキーホルダーやファーキーホルダー、メンバ […] The post 『EBiDAN 15th Anniversaryオフィシャルグッズ』の販売が決定！ first appeared",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "82fcaa2a2e4698d7",
+        "title": "2026年8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 《第3弾》 CD予約購入キャンペーン 抽選用シリアルナンバー1次受付スタート＆各日程の参加メンバー解禁！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11413/",
+        "publishedAt": "2026-07-17T03:00:09.000Z",
+        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して、8月11日(火・祝)にリリースするシングル「Yes! 東京」の《第３弾》CD予約・購入特典キャンペーン、抽選用シリアルナンバーの受付がスタートしました […] The post 2026年8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 《第3弾》 CD予約購入キャンペーン 抽選用シリ",
         "groups": [
           "EBiDAN",
           "SUPER★DRAGON"
