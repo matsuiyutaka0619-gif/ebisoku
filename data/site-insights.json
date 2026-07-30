@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-07-29T19:42:27.881Z",
+  "updatedAt": "2026-07-30T03:27:54.182Z",
   "totals": {
     "all": 160,
-    "today": 0,
-    "week": 23
+    "today": 5,
+    "week": 24
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 8
+      "count": 9
     },
     {
       "name": "SUPER★DRAGON",
       "count": 7
     },
     {
+      "name": "原因は自分にある。",
+      "count": 3
+    },
+    {
       "name": "超特急",
-      "count": 4
+      "count": 3
     },
     {
       "name": "EBiDAN",
       "count": 2
     },
     {
-      "name": "原因は自分にある。",
-      "count": 2
+      "name": "BUDDiiS",
+      "count": 1
     },
     {
-      "name": "BUDDiiS",
+      "name": "Lienel",
       "count": 1
     }
   ],
   "memberRanking": [
     {
-      "name": "塩﨑太智",
+      "name": "佐野勇斗",
       "count": 3
     },
     {
       "name": "ジャン海渡",
+      "count": 2
+    },
+    {
+      "name": "塩﨑太智",
       "count": 2
     },
     {
@@ -67,10 +75,6 @@
     {
       "name": "マサヒロ",
       "count": 1
-    },
-    {
-      "name": "吉田仁人",
-      "count": 1
     }
   ],
   "sourceRanking": [
@@ -84,14 +88,18 @@
     },
     {
       "name": "THE FIRST TIMES",
-      "count": 3
+      "count": 2
+    },
+    {
+      "name": "WWSチャンネル",
+      "count": 2
     },
     {
       "name": "タワーレコード ニュース",
       "count": 2
     },
     {
-      "name": "マイナビニュース テレビ",
+      "name": "マイナビニュース エンタメ",
       "count": 2
     },
     {
@@ -103,17 +111,97 @@
       "count": 1
     },
     {
-      "name": "WWSチャンネル",
+      "name": "マイナビニュース テレビ",
       "count": 1
     },
     {
-      "name": "マイナビニュース エンタメ",
+      "name": "リアルサウンド 映画部",
       "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
     "M!LK": [
+      {
+        "id": "c0666398d73b29f8",
+        "title": "M!LK 5人が肩を寄せ“おそろいポーズ”！カジュアルコーデで見せたはじける笑顔に「かわいすぎる」「多幸感しかない」「M!LKの笑顔が最高の幸せ」「スタイリング天才」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000855444/",
+        "publishedAt": "2026-07-30T03:27:34.000Z",
+        "summary": "M!LKの公式Instagramが更新され、「You!Joy!Parade!」のMVが1000万回再生を突破したことを報告...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "133cd820d8735ccf",
+        "title": "星野源、新曲「好き」を配信リリース！松本若菜＆佐野勇斗出演ドラマの主題歌",
+        "sourceName": "WWSチャンネル",
+        "sourceUrl": "https://www.wws-channel.com/feed",
+        "articleUrl": "https://www.wws-channel.com/music2/658395.html",
+        "publishedAt": "2026-07-29T22:30:09.000Z",
+        "summary": "星野源が7月29日、ニューシングル「好き」を配信リリースした。同曲は、松本若菜と佐野勇斗が出演するTBS系火曜ドラマ「君の好きは無敵」の主題歌。7月14日に放送された第1話のエンディングで初めてオンエアされ、配信前からSNSを中心に注目を集めていた。楽曲は、にぎやかなカ ... The post 星野源、新曲「好き」を配信リリース！松本若菜＆佐野勇斗出演ドラ",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "afa4f812e767a332",
+        "title": "佐野勇斗とあみだくじで決まったM!LKメンバーがゴチに参戦！「タダ飯ほどいいものはない！」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000855004/",
+        "publishedAt": "2026-07-29T22:00:20.000Z",
+        "summary": "7月30日19時から放送の『ぐるナイ2時間SP』は、「料理ハンデマッチ」と「ゴチになります」の2...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "9111f467adc200de",
+        "title": "佐野勇斗「僕はテレビに出てはいけない人間」 M!LKメンバーが普段と「ゴチ」で見せる姿の違いを暴露",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20260730-4753438/",
+        "publishedAt": "2026-07-29T22:00:00.000Z",
+        "summary": "「僕はテレビに出てはいけない人間」――佐野勇斗が、きょう30日に放送される日本テレビ系バラエティ番組『ぐるぐるナインティナイン 2時間SP』(19:00～)で突然の告白。M!LKからあみだくじで選ばれたメンバーが「ゴチ」に参戦し、普段の佐野について「めっちゃ真面目」と証言する。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
       {
         "id": "3a41e73c30dd58be",
         "title": "「テレビに出させてもらうようになって…」M!LK塩崎太智が最近“やってみたいこと”とは",
@@ -135,94 +223,32 @@
             "status": "active"
           }
         ]
-      },
-      {
-        "id": "4c8c055c7f9f216f",
-        "title": "M!LKがポップな私服風衣装でくるくる回りながら友情パレードダンス！「回転寿司ならぬ回転アイドル」「だいちゃんのアップバブみある」「寝ころぶはやちゃん赤ちゃんみたい」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000854651/",
-        "publishedAt": "2026-07-29T05:03:36.000Z",
-        "summary": "M!LK公式TikTokで、「You!Joy!Parade!」のリレーダンス動画が公開された。 ■画角の外でハプニ...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "ba74b452748f773d",
-        "title": "M!LK塩﨑太智が吉田仁人をニッコニコでガン見！近づきすぎてぶつかりながら踊るふたりに「目が合って照れるの最高」「子どもとパパみたい」「手が当たったの気にする吉田さんやさしい」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000854690/",
-        "publishedAt": "2026-07-29T04:56:43.000Z",
-        "summary": "M!LK公式TikTokで、塩崎太智（「崎」はたつさきが正式表記）と吉田仁人による「You!Joy!Parade...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "4abf0d0aa90c291a",
-        "title": "星野源、新曲「好き」配信リリース！ドラマ『君の好きは無敵』第1話エンディングでOAされるやSNSを中心に話題沸騰",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000854816/",
-        "publishedAt": "2026-07-29T03:55:15.000Z",
-        "summary": "星野源が、7月29日に、TBS系火曜ドラマ『君の好きは無敵』（出演：松本若菜、佐野勇斗）主題歌...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "03b969d2b0e0bb0b",
-        "title": "『VIVANT』第11話の舞台裏を緊急公開! “ノコル”に扮するM!LK塩崎太智の大胆考察に監督の反応は...?",
-        "sourceName": "マイナビニュース テレビ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-        "articleUrl": "https://news.mynavi.jp/article/20260728-4750471/",
-        "publishedAt": "2026-07-28T10:33:01.000Z",
-        "summary": "TBS系バラエティ番組『知識の扉よ開け！ドア×ドア クエスト』(31日20:55～)で、26日に放送され大きな反響を呼んだドラマ『VIVANT』第11話の名シーンの裏側が緊急公開される。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
       }
     ],
     "原因は自分にある。": [
+      {
+        "id": "986b8c3b0cfcf69b",
+        "title": "中川翼×桜木雅哉『ちょっと待とうよ、春虎くん』KV＆60秒予告公開 OP主題歌はLienel",
+        "sourceName": "リアルサウンド 映画部",
+        "sourceUrl": "https://realsound.jp/movie/feed",
+        "articleUrl": "https://realsound.jp/movie/2026/07/post-2475424.html",
+        "publishedAt": "2026-07-30T03:00:23.000Z",
+        "summary": "8月13日よりMBSドラマフィル枠にて放送される、中川翼と桜木雅哉（原因は自分にある。）のW主演ドラマ『ちょっと待とうよ、春虎くん』のキービジュアルと60秒予告が公開された。 本作は、あめきりによる同名マンガを原作と",
+        "groups": [
+          "原因は自分にある。",
+          "Lienel"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "桜木雅哉",
+            "group": "原因は自分にある。",
+            "status": "active"
+          }
+        ]
+      },
       {
         "id": "4c46461fa891360d",
         "title": "龍宮城、新曲「愛愛愛なんて」が小泉光咲＆四坂亮翔W主演ドラマのOP主題歌に決定！",
@@ -297,6 +323,31 @@
           {
             "name": "SHOOT",
             "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "Lienel": [
+      {
+        "id": "986b8c3b0cfcf69b",
+        "title": "中川翼×桜木雅哉『ちょっと待とうよ、春虎くん』KV＆60秒予告公開 OP主題歌はLienel",
+        "sourceName": "リアルサウンド 映画部",
+        "sourceUrl": "https://realsound.jp/movie/feed",
+        "articleUrl": "https://realsound.jp/movie/2026/07/post-2475424.html",
+        "publishedAt": "2026-07-30T03:00:23.000Z",
+        "summary": "8月13日よりMBSドラマフィル枠にて放送される、中川翼と桜木雅哉（原因は自分にある。）のW主演ドラマ『ちょっと待とうよ、春虎くん』のキービジュアルと60秒予告が公開された。 本作は、あめきりによる同名マンガを原作と",
+        "groups": [
+          "原因は自分にある。",
+          "Lienel"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "桜木雅哉",
+            "group": "原因は自分にある。",
             "status": "active"
           }
         ]
@@ -500,20 +551,6 @@
         ]
       },
       {
-        "id": "9b6c0b82a31b37e9",
-        "title": "“殺人的スケジュール”を縫ってぶっつけ本番…柏木悠、自由すぎる撮影現場で「一皮剥けられたかな」",
-        "sourceName": "マイナビニュース テレビ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-        "articleUrl": "https://news.mynavi.jp/article/20260724-4736399/",
-        "publishedAt": "2026-07-24T07:09:51.000Z",
-        "summary": "「自分としても一皮剥けられたかなと思います」――柏木悠(超特急)が24日、東京・台場のフジテレビ本社で行われたFODオリジナルドラマ『ペンション・恋は桃色 season4』(31日20:00 全5話一挙配信)の完成披露イベントに出席。横浜アリーナでのライブ前日にも参加した“ぶっつけ本番”の撮影を振り返った。",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
         "id": "af2ad68505f88d84",
         "title": "本日より「Freecus」3rd Collectionの一般発売がスタート！",
         "sourceName": "超特急 公式NEWS",
@@ -566,6 +603,33 @@
         "memberMatches": [
           {
             "name": "アロハ",
+            "group": "超特急",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "db547bce1070a3b7",
+        "title": "超特急リョウガ・マサヒロ番組欠席のお知らせ",
+        "sourceName": "超特急 公式NEWS",
+        "sourceUrl": "https://bullettrain.jp/news/feed/",
+        "articleUrl": "https://bullettrain.jp/news/news26365/",
+        "publishedAt": "2026-07-16T22:14:12.000Z",
+        "summary": "いつも超特急を応援いただき、誠にありがとうございます。 この度、メンバーのリョウガ・マサヒロが体調不良のため、下記の番組出演を欠席いたします。 2026年7月18日(土)午後2時00分 ON AIR TBS系「音楽の日2 […]",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "リョウガ",
+            "group": "超特急",
+            "status": "active"
+          },
+          {
+            "name": "マサヒロ",
             "group": "超特急",
             "status": "active"
           }
