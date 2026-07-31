@@ -1,65 +1,25 @@
 {
-  "updatedAt": "2026-07-31T03:48:59.391Z",
+  "updatedAt": "2026-07-31T09:16:40.030Z",
   "totals": {
-    "all": 160,
-    "today": 10,
-    "week": 24
+    "all": 11,
+    "today": 3,
+    "week": 7
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 8
+      "count": 5
     },
     {
       "name": "EBiDAN",
-      "count": 7
-    },
-    {
-      "name": "SUPER★DRAGON",
-      "count": 6
-    },
-    {
-      "name": "超特急",
-      "count": 6
+      "count": 1
     },
     {
       "name": "原因は自分にある。",
-      "count": 2
-    },
-    {
-      "name": "BUDDiiS",
       "count": 1
     }
   ],
   "memberRanking": [
-    {
-      "name": "佐野勇斗",
-      "count": 2
-    },
-    {
-      "name": "田中洸希",
-      "count": 2
-    },
-    {
-      "name": "SHOOT",
-      "count": 1
-    },
-    {
-      "name": "アロハ",
-      "count": 1
-    },
-    {
-      "name": "ジャン海渡",
-      "count": 1
-    },
-    {
-      "name": "シューヤ",
-      "count": 1
-    },
-    {
-      "name": "マサヒロ",
-      "count": 1
-    },
     {
       "name": "塩﨑太智",
       "count": 1
@@ -69,29 +29,25 @@
       "count": 1
     },
     {
+      "name": "佐野勇斗",
+      "count": 1
+    },
+    {
       "name": "山中柔太朗",
+      "count": 1
+    },
+    {
+      "name": "曽野舜太",
+      "count": 1
+    },
+    {
+      "name": "武藤潤",
       "count": 1
     }
   ],
   "sourceRanking": [
     {
-      "name": "SUPER★DRAGON 公式NEWS",
-      "count": 6
-    },
-    {
-      "name": "超特急 公式NEWS",
-      "count": 5
-    },
-    {
       "name": "THE FIRST TIMES",
-      "count": 3
-    },
-    {
-      "name": "BARKS",
-      "count": 2
-    },
-    {
-      "name": "タワーレコード ニュース",
       "count": 2
     },
     {
@@ -99,7 +55,7 @@
       "count": 2
     },
     {
-      "name": "Bezzy",
+      "name": "タワーレコード ニュース",
       "count": 1
     },
     {
@@ -109,15 +65,25 @@
     {
       "name": "マイナビニュース 映画",
       "count": 1
-    },
-    {
-      "name": "リアルサウンド 音楽",
-      "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
     "M!LK": [
+      {
+        "id": "79a706a1901af537",
+        "title": "M!LK5人でくっついてちゃぶ台を囲んだ仲睦まじい『やってM!LK』オフショット公開！「吉田さんかわいい」「舜太くんメロい」「勇ちゃんビジュいい」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000856262/",
+        "publishedAt": "2026-07-31T07:13:20.000Z",
+        "summary": "M!LKの地上波冠番組TBS『限界突破！やってM!LK』公式SNSにて、7月30日の深夜に放送された回の...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
       {
         "id": "ab733a053048ec99",
         "title": "M!LK吉田仁人＆山中柔太朗の私服が“おそろい”と話題！ユニフォーム×デニムのそっくりコーデに「YJオソロ？かわいい」「柔太朗からもらったの？」「おしゃれ」「ウエストほっそ！」と反響",
@@ -146,60 +112,6 @@
         ]
       },
       {
-        "id": "ab5d70acd8daecc2",
-        "title": "Snow Man・M!LK佐野勇斗・本郷奏多が心ひとつに大奮闘！『それスノSP』10連続完コピチャレンジ今夜放送",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000855927/",
-        "publishedAt": "2026-07-31T02:00:04.000Z",
-        "summary": "7月31日放送の『それSnow Manにやらせて下さいSP』は2時間SP。佐野勇斗と本郷奏多が、チャレン...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "ee1c39b57c08afda",
-        "title": "EBiDANオーディションから新グループ「iiONDO（イイオンド）」誕生！デビュー曲「はつ恋ONDO」が配信決定",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000855943/",
-        "publishedAt": "2026-07-31T01:00:38.000Z",
-        "summary": "超特急、M!LKなどが所属するEBiDAN（恵比寿学園男子部）発足15周年を記念したオーディション『...",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "c6191a2b16555550",
-        "title": "EBiDAN新グループ「iiONDO」誕生。デビュー曲「はつ恋ONDO」配信決定",
-        "sourceName": "BARKS",
-        "sourceUrl": "https://www.barks.jp/feed/",
-        "articleUrl": "https://barks.jp/news/1080727",
-        "publishedAt": "2026-07-31T01:00:00.000Z",
-        "summary": "超特急、M!LKなどが所属するEBiDAN(恵比寿学園男子部)発足15周年を記念したオーディション「EBiDAN THE AUDITION 2026」を実施。レギュラー番組「DAN!DAN!EBiDAN」でオーディションの模様を今年4月から放送して来た。 昨夜、最終審査の結果が放送され、応募総数約500人の中から、三村航輝、畑駿平、守本勝倶、髙橋夢人、宮本琉",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
         "id": "9111f467adc200de",
         "title": "佐野勇斗「僕はテレビに出てはいけない人間」 M!LKメンバーが普段と「ゴチ」で見せる姿の違いを暴露",
         "sourceName": "マイナビニュース テレビ",
@@ -220,254 +132,50 @@
             "status": "active"
           }
         ]
-      }
-    ],
-    "EBiDAN": [
-      {
-        "id": "7f7d929f12a54a69",
-        "title": "「EBiDAN THE LIVE 2026 15th Anniversary」SHOOTING ACT決定＆最新チケット情報",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26426/",
-        "publishedAt": "2026-07-31T02:59:46.000Z",
-        "summary": "「EBiDAN THE LIVE 2026 15th Anniversary」の一般発売が8月1日(土)10:00より受付開始！ また、昨年の「EBiDAN THE LIVE 2025」最終公演で開催を発表した『EBiD […]",
-        "groups": [
-          "EBiDAN"
-        ],
-        "statuses": [],
-        "memberMatches": []
       },
       {
-        "id": "9f2ebe832f79dcdc",
-        "title": "「EBiDAN THE LIVE 2026 15th Anniversary」最新チケット情報＆追加出演者・SHOOTING ACT解禁",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11472/",
-        "publishedAt": "2026-07-31T02:59:28.000Z",
-        "summary": "「EBiDAN THE LIVE 2026 15th Anniversary」の一般発売が8月1日(土)10:00より受付開始！ また、昨年の「EBiDAN THE LIVE 2025」最終公演で開催を発表した『EBiD […] The post 「EBiDAN THE LIVE 2026 15th Anniversary」最新チケット情報＆追加出演者・SH",
+        "id": "03b969d2b0e0bb0b",
+        "title": "『VIVANT』第11話の舞台裏を緊急公開! “ノコル”に扮するM!LK塩崎太智の大胆考察に監督の反応は...?",
+        "sourceName": "マイナビニュース テレビ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
+        "articleUrl": "https://news.mynavi.jp/article/20260728-4750471/",
+        "publishedAt": "2026-07-28T10:33:01.000Z",
+        "summary": "TBS系バラエティ番組『知識の扉よ開け！ドア×ドア クエスト』(31日20:55～)で、26日に放送され大きな反響を呼んだドラマ『VIVANT』第11話の名シーンの裏側が緊急公開される。",
         "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "dd61accdbf882afb",
-        "title": "「Yes! 駆け込め! 僕らのEBiSTORE」の開催が決定！",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26410/",
-        "publishedAt": "2026-07-31T01:59:58.000Z",
-        "summary": "EBiDAN15周年記念シングル「Yes! 東京」リリース＆『EBiDAN THE LIVE 2026 15th Anniversary』の開催を記念してSHIBUYA TSUTAYAにてコラボレーションカフェ「Yes! […]",
-        "groups": [
-          "EBiDAN"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "fbde391c25612bb1",
-        "title": "EBiDANより8人組の新グループ iiONDO（イイオンド）誕生 デビュー曲「はつ恋ONDO」配信決定",
-        "sourceName": "リアルサウンド 音楽",
-        "sourceUrl": "https://realsound.jp/music/feed",
-        "articleUrl": "https://realsound.jp/2026/07/post-2476474.html",
-        "publishedAt": "2026-07-31T01:00:46.000Z",
-        "summary": "EBiDAN（恵比寿学園男子部）から、新グループ iiONDO（イイオンド）が誕生することが発表された。デビュー曲「はつ恋ONDO」は8月7日に配信リリースされる。 iiONDOは、EBiDAN10組目となる新グルー",
-        "groups": [
-          "EBiDAN"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "ee1c39b57c08afda",
-        "title": "EBiDANオーディションから新グループ「iiONDO（イイオンド）」誕生！デビュー曲「はつ恋ONDO」が配信決定",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000855943/",
-        "publishedAt": "2026-07-31T01:00:38.000Z",
-        "summary": "超特急、M!LKなどが所属するEBiDAN（恵比寿学園男子部）発足15周年を記念したオーディション『...",
-        "groups": [
-          "EBiDAN",
-          "超特急",
           "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "SUPER★DRAGON": [
-      {
-        "id": "9f2ebe832f79dcdc",
-        "title": "「EBiDAN THE LIVE 2026 15th Anniversary」最新チケット情報＆追加出演者・SHOOTING ACT解禁",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11472/",
-        "publishedAt": "2026-07-31T02:59:28.000Z",
-        "summary": "「EBiDAN THE LIVE 2026 15th Anniversary」の一般発売が8月1日(土)10:00より受付開始！ また、昨年の「EBiDAN THE LIVE 2025」最終公演で開催を発表した『EBiD […] The post 「EBiDAN THE LIVE 2026 15th Anniversary」最新チケット情報＆追加出演者・SH",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "9d155a894ee85ffa",
-        "title": "「SUPER★DRAGON July SCRATCH 2026」開催のお知らせ！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11460/",
-        "publishedAt": "2026-07-26T03:00:51.000Z",
-        "summary": "7/27(月)21:00より「SUPER★DRAGON July SCRATCH 2026」の開催が決定しました！ +KIRARI完全撮り下ろしのビジュアルです！ ▼SUPER★DRAGON メンバーコミュニティ htt […] The post 「SUPER★DRAGON July SCRATCH 2026」開催のお知らせ！ first appeared ",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "5750d72b61131334",
-        "title": "SUPER★DRAGONジャン海渡 スペシャルライブ欠席のお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11464/",
-        "publishedAt": "2026-07-26T02:29:11.000Z",
-        "summary": "いつもSUPER★DRAGONを応援していただき、誠にありがとうございます。 メンバーのジャン海渡ですが、体調を考慮し、本日開催のMajor 6th Single「Call Me Asap / NUMBER」（愛知県・L […] The post SUPER★DRAGONジャン海渡 スペシャルライブ欠席のお知らせ first appeared on SUPE",
-        "groups": [
-          "SUPER★DRAGON"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "ジャン海渡",
-            "group": "SUPER★DRAGON",
+            "name": "塩﨑太智",
+            "group": "M!LK",
             "status": "active"
           }
         ]
       },
       {
-        "id": "05b9cd886105e321",
-        "title": "SUPER★DRAGON 田中洸希 イベント欠席のお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11458/",
-        "publishedAt": "2026-07-25T23:29:07.000Z",
-        "summary": "いつもSUPER★DRAGONを応援していただき、誠にありがとうございます。 メンバーの田中洸希ですが、体調不良の為、本日開催のMajor 6th Single「Call Me Asap / NUMBER」（愛知県・Li […] The post SUPER★DRAGON 田中洸希 イベント欠席のお知らせ first appeared on SUPER★DR",
+        "id": "f24b9a74ba26d74a",
+        "title": "曽野舜太、夢の『仮面ライダー』役で活きたM!LKでの経験明かす 役柄に驚きも「あれ、俺…」",
+        "sourceName": "マイナビニュース 映画",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
+        "articleUrl": "https://news.mynavi.jp/article/20260724-4735976/",
+        "publishedAt": "2026-07-24T11:00:00.000Z",
+        "summary": "ダンスボーカルグループ・M!LKの曽野舜太が23日、映画『仮面ライダーゼッツ さよならのミッション』/映画『超宇宙刑事ギャバン インフィニティ 太陽が泣いた日』(公開中)の公開前夜祭舞台挨拶に登壇。夢だったという『仮面ライダー』出演で活きたM!LKでの経験を明かした。",
         "groups": [
-          "SUPER★DRAGON"
+          "M!LK"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "田中洸希",
-            "group": "SUPER★DRAGON",
+            "name": "曽野舜太",
+            "group": "M!LK",
             "status": "active"
           }
         ]
-      },
-      {
-        "id": "60086409c94f0fd9",
-        "title": "8月1日(土)『お台場ファンライジング～楽しくアガる！真夏のエンタメ最前線～』にてSUPER★DRAGONスペシャルステージの開催決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11454/",
-        "publishedAt": "2026-07-25T00:59:20.000Z",
-        "summary": "SUPER★DRAGONがイベントテーマソングの「After the summer night」ほか歌唱披露とミニトークコーナーでお台場ファンライジングを盛り上げます！ また楽天ブックスの専用ページでは対象期間内に202 […] The post 8月1日(土)『お台場ファンライジング～楽しくアガる！真夏のエンタメ最前線～』にてSUPER★DRAGONスペシ",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "超特急": [
-      {
-        "id": "6dc5ef483dc1e0eb",
-        "title": "&TEAM、新曲「For us」がメンバー・JOの初主演映画『ワンダンス』主題歌に決定",
-        "sourceName": "BARKS",
-        "sourceUrl": "https://www.barks.jp/feed/",
-        "articleUrl": "https://barks.jp/news/1080812",
-        "publishedAt": "2026-07-31T02:35:58.000Z",
-        "summary": "&TEAMが、2026年11月27日公開の映画『ワンダンス』の主題歌に新楽曲「For us」が起用されたことを発表した。 映画『ワンダンス』は、講談社「月刊アフタヌーン」にて連載中、単行本累計発行部数110万部を突破する珈琲による同名漫画を実写映画化した作品だ。自分の気持ちを抑えて周りに合わせて生活している小谷花木、通称・カボがバイト先で深夜、人目を気にせず",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "アロハ",
-            "group": "超特急",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "ee1c39b57c08afda",
-        "title": "EBiDANオーディションから新グループ「iiONDO（イイオンド）」誕生！デビュー曲「はつ恋ONDO」が配信決定",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000855943/",
-        "publishedAt": "2026-07-31T01:00:38.000Z",
-        "summary": "超特急、M!LKなどが所属するEBiDAN（恵比寿学園男子部）発足15周年を記念したオーディション『...",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "c6191a2b16555550",
-        "title": "EBiDAN新グループ「iiONDO」誕生。デビュー曲「はつ恋ONDO」配信決定",
-        "sourceName": "BARKS",
-        "sourceUrl": "https://www.barks.jp/feed/",
-        "articleUrl": "https://barks.jp/news/1080727",
-        "publishedAt": "2026-07-31T01:00:00.000Z",
-        "summary": "超特急、M!LKなどが所属するEBiDAN(恵比寿学園男子部)発足15周年を記念したオーディション「EBiDAN THE AUDITION 2026」を実施。レギュラー番組「DAN!DAN!EBiDAN」でオーディションの模様を今年4月から放送して来た。 昨夜、最終審査の結果が放送され、応募総数約500人の中から、三村航輝、畑駿平、守本勝倶、髙橋夢人、宮本琉",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "59fa057537db8bdf",
-        "title": "『BULLET TRAIN ARENA TOUR 2026 ESCORT』オフィシャルグッズ＆生写真セット 【8/8(土)、8/9(日)Kアリーナ横浜公演】会場販売＆整理券配布のお知らせ",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26419/",
-        "publishedAt": "2026-07-30T10:59:40.000Z",
-        "summary": "「BULLET TRAIN ARENA TOUR 2026 ESCORT」Kアリーナ横浜公演の会場販売が決定しました！ 8/8(土)、8/9(日)Kアリーナ横浜公演では、 熱中症対策・混雑緩和のため、LINEアプリを利用 […]",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "0b4084d913452795",
-        "title": "超特急 東京ドーム公演＜追加公演＞最新チケット情報",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26417/",
-        "publishedAt": "2026-07-30T08:59:39.000Z",
-        "summary": "8月2日(日)10:00より三井ショッピングパーク チケット先着先行がスタート！ ご乗車お待ちしております!!!!!!!!! ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願いと注意事項】 https […]",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
       }
     ],
     "原因は自分にある。": [
@@ -492,120 +200,22 @@
             "status": "active"
           }
         ]
-      },
-      {
-        "id": "15fb9ee4d3775ce2",
-        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/07/89645/",
-        "publishedAt": "2026-07-24T12:00:00.000Z",
-        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
-        "groups": [
-          "原因は自分にある。",
-          "BUDDiiS"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "SHOOT",
-            "group": "BUDDiiS",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "3fb662210aaeb54f",
-        "title": "森愁斗主演『ウォーターガーディアンズ』本予告解禁、ライフセーバーの本格訓練シーンが初お披露目",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/06/87426/",
-        "publishedAt": "2026-06-05T22:00:00.000Z",
-        "summary": "森愁斗主演映画『ウォーターガーディアンズ』の公開日が8月21日(金)に決定し、本予告映像と主題歌、追加キャスト情報が一挙解禁された。 本作は、ライフセーバーを目指す若者たちの本気のひと夏を描いた青春サマームービー。思いがけずライフセーバーになるという目標を得た若者たちが友情を育み、恋と出会う姿を描く。キャストでは主人公・海翔役の森愁斗（BUDDiiS）、海翔",
-        "groups": [
-          "原因は自分にある。",
-          "BUDDiiS"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "SHOOT",
-            "group": "BUDDiiS",
-            "status": "active"
-          }
-        ]
       }
     ],
-    "BUDDiiS": [
+    "EBiDAN": [
       {
-        "id": "15fb9ee4d3775ce2",
-        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/07/89645/",
-        "publishedAt": "2026-07-24T12:00:00.000Z",
-        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
+        "id": "68a07ce857ec6b5b",
+        "title": "「J-POPシングル ウィークリーTOP30」発表。1位はtimelesz『消えない花火』、予約1位はEBiDAN（恵比寿学園男子部）『Yes! 東京』（2026年7月30日付）",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/07/30/tg004",
+        "publishedAt": "2026-07-30T10:00:00.000Z",
+        "summary": "",
         "groups": [
-          "原因は自分にある。",
-          "BUDDiiS"
+          "EBiDAN"
         ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "SHOOT",
-            "group": "BUDDiiS",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "3fb662210aaeb54f",
-        "title": "森愁斗主演『ウォーターガーディアンズ』本予告解禁、ライフセーバーの本格訓練シーンが初お披露目",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/06/87426/",
-        "publishedAt": "2026-06-05T22:00:00.000Z",
-        "summary": "森愁斗主演映画『ウォーターガーディアンズ』の公開日が8月21日(金)に決定し、本予告映像と主題歌、追加キャスト情報が一挙解禁された。 本作は、ライフセーバーを目指す若者たちの本気のひと夏を描いた青春サマームービー。思いがけずライフセーバーになるという目標を得た若者たちが友情を育み、恋と出会う姿を描く。キャストでは主人公・海翔役の森愁斗（BUDDiiS）、海翔",
-        "groups": [
-          "原因は自分にある。",
-          "BUDDiiS"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "SHOOT",
-            "group": "BUDDiiS",
-            "status": "active"
-          }
-        ]
+        "statuses": [],
+        "memberMatches": []
       }
     ]
   }
