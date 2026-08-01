@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T19:52:06.549Z",
+  "updatedAt": "2026-08-01T03:49:39.340Z",
   "articles": [
     {
       "id": "0ef08f56566234ae",
@@ -19,28 +19,6 @@
         {
           "name": "小泉光咲",
           "group": "原因は自分にある。",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "7d18034b90b41fc9",
-      "title": "「これはヤバい! これはヤバいぞ!」「本当にいいんですか…?」M!LK山中柔太朗、W杯決勝解説者からもらった貴重な“プレゼント”に大興奮",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-      "articleUrl": "https://news.mynavi.jp/article/20260731-4760521/",
-      "publishedAt": "2026-07-31T10:00:00.000Z",
-      "summary": "「本当にいいんですか……?」アイドルグループ・M!LKの山中柔太朗が、元プロサッカー選手で解説者・林陵平氏からのプレゼントに喜びの声をあげた――。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "山中柔太朗",
-          "group": "M!LK",
           "status": "active"
         }
       ]
@@ -91,8 +69,8 @@
     {
       "id": "a3f73d07a6099998",
       "title": "鈴木美羽、ウエディングドレス姿でシェアハウス ショートドラマで表参道を全力疾走",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
       "articleUrl": "https://news.mynavi.jp/article/20260731-4759820/",
       "publishedAt": "2026-07-31T02:21:14.000Z",
       "summary": "ウエディングドレスしか着られなくなった女性と、崖っぷちのお笑い芸人がシェアハウス生活――鈴木美羽と武藤潤(原因は自分にある。)がW主演を務める縦型ショートドラマ『フライング花嫁』(全61話)が、FOD SHORTで独占配信をスタートした。",
@@ -2699,6 +2677,20 @@
       "summary": "皆様に安心して公演をお楽しみいただくために、下記のご案内を必ずご確認のうえ、 お申込み、ご来場いただきますようお願い申しあげます。 ●チケットの譲渡や転売を含む不正行為は、いかなる場合も禁止いたします。正規販売以外でのチ […] The post SUPER★DRAGON DRA FES 2026 チケットの販売に伴うお願いと注意事項 first appea",
       "groups": [
         "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "4c00b0c4702bccf9",
+      "title": "超特急 東京ドーム公演 SOLD OUT",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26039/",
+      "publishedAt": "2026-05-10T03:30:36.000Z",
+      "summary": "超特急「東京ドーム公演」好評につき完売いたしました。 ご購入いただいた皆様、ありがとうございました!!!!!!!!! 超特急 東京ドーム公演 【東京】東京ドーム THANK YOU SOLD OUT!! 2026年11月 […]",
+      "groups": [
+        "超特急"
       ],
       "statuses": [],
       "memberMatches": []
