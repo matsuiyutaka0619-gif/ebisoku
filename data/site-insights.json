@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-01T08:33:44.124Z",
+  "updatedAt": "2026-08-01T13:54:33.630Z",
   "totals": {
     "all": 160,
-    "today": 0,
-    "week": 13
+    "today": 2,
+    "week": 15
   },
   "groupRanking": [
     {
@@ -16,7 +16,7 @@
     },
     {
       "name": "M!LK",
-      "count": 2
+      "count": 3
     },
     {
       "name": "原因は自分にある。",
@@ -25,15 +25,31 @@
     {
       "name": "超特急",
       "count": 2
+    },
+    {
+      "name": "BUDDiiS",
+      "count": 1
     }
   ],
   "memberRanking": [
+    {
+      "name": "塩﨑太智",
+      "count": 2
+    },
+    {
+      "name": "SHOOT",
+      "count": 1
+    },
+    {
+      "name": "TAKUYA",
+      "count": 1
+    },
     {
       "name": "ジャン海渡",
       "count": 1
     },
     {
-      "name": "塩﨑太智",
+      "name": "吉田仁人",
       "count": 1
     },
     {
@@ -67,16 +83,218 @@
       "count": 3
     },
     {
+      "name": "Edge Line",
+      "count": 1
+    },
+    {
       "name": "WWSチャンネル",
       "count": 1
     },
     {
       "name": "タワーレコード ニュース",
       "count": 1
+    },
+    {
+      "name": "マイナビニュース エンタメ",
+      "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
+    "BUDDiiS": [
+      {
+        "id": "3c221074cd93251b",
+        "title": "BUDDiiS・森愁斗と大槻拓也 さがみ湖 MORI MORI「モリモリノボル」オープニングイベントに",
+        "sourceName": "Edge Line",
+        "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+        "articleUrl": "https://www.edgeline-tokyo.com/entertainment/202715",
+        "publishedAt": "2026-08-01T11:14:08.000Z",
+        "summary": "ダンスボーカルグループ『BUDDiiS』（バディーズ）から“SHOOT”森愁斗と“TAKUYA”大槻拓也が8月1日に神奈川・相模原市のさがみ湖 MORI MORIでネットクライミングアスレチック「モリモリノボル」オープ...",
+        "groups": [
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "TAKUYA",
+            "group": "BUDDiiS",
+            "status": "active"
+          },
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "15fb9ee4d3775ce2",
+        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/07/89645/",
+        "publishedAt": "2026-07-24T12:00:00.000Z",
+        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
+        "groups": [
+          "原因は自分にある。",
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "3fb662210aaeb54f",
+        "title": "森愁斗主演『ウォーターガーディアンズ』本予告解禁、ライフセーバーの本格訓練シーンが初お披露目",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/06/87426/",
+        "publishedAt": "2026-06-05T22:00:00.000Z",
+        "summary": "森愁斗主演映画『ウォーターガーディアンズ』の公開日が8月21日(金)に決定し、本予告映像と主題歌、追加キャスト情報が一挙解禁された。 本作は、ライフセーバーを目指す若者たちの本気のひと夏を描いた青春サマームービー。思いがけずライフセーバーになるという目標を得た若者たちが友情を育み、恋と出会う姿を描く。キャストでは主人公・海翔役の森愁斗（BUDDiiS）、海翔",
+        "groups": [
+          "原因は自分にある。",
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "M!LK": [
+      {
+        "id": "f0d24a204f78b4a8",
+        "title": "「100万再生突破はやっ!」「仲が良すぎて愛」M!LK塩崎＆吉田、グループYouTubeへの思いに反響 メンバーの“個人チャンネル”開設理由も分析",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20260801-4760665/",
+        "publishedAt": "2026-08-01T10:00:00.000Z",
+        "summary": "「巻き添えを食わせるわけにはいかない」アイドルグループ・M!LKの塩崎太智(※崎はたつさき)と吉田仁人が、メンバーの個人チャンネルについて語った――。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "9111f467adc200de",
+        "title": "佐野勇斗「僕はテレビに出てはいけない人間」 M!LKメンバーが普段と「ゴチ」で見せる姿の違いを暴露",
+        "sourceName": "マイナビニュース テレビ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
+        "articleUrl": "https://news.mynavi.jp/article/20260730-4753438/",
+        "publishedAt": "2026-07-29T22:00:00.000Z",
+        "summary": "「僕はテレビに出てはいけない人間」――佐野勇斗が、きょう30日に放送される日本テレビ系バラエティ番組『ぐるぐるナインティナイン 2時間SP』(19:00～)で突然の告白。M!LKからあみだくじで選ばれたメンバーが「ゴチ」に参戦し、普段の佐野について「めっちゃ真面目」と証言する。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "03b969d2b0e0bb0b",
+        "title": "『VIVANT』第11話の舞台裏を緊急公開! “ノコル”に扮するM!LK塩崎太智の大胆考察に監督の反応は...?",
+        "sourceName": "マイナビニュース テレビ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
+        "articleUrl": "https://news.mynavi.jp/article/20260728-4750471/",
+        "publishedAt": "2026-07-28T10:33:01.000Z",
+        "summary": "TBS系バラエティ番組『知識の扉よ開け！ドア×ドア クエスト』(31日20:55～)で、26日に放送され大きな反響を呼んだドラマ『VIVANT』第11話の名シーンの裏側が緊急公開される。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "f24b9a74ba26d74a",
+        "title": "曽野舜太、夢の『仮面ライダー』役で活きたM!LKでの経験明かす 役柄に驚きも「あれ、俺…」",
+        "sourceName": "マイナビニュース 映画",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
+        "articleUrl": "https://news.mynavi.jp/article/20260724-4735976/",
+        "publishedAt": "2026-07-24T11:00:00.000Z",
+        "summary": "ダンスボーカルグループ・M!LKの曽野舜太が23日、映画『仮面ライダーゼッツ さよならのミッション』/映画『超宇宙刑事ギャバン インフィニティ 太陽が泣いた日』(公開中)の公開前夜祭舞台挨拶に登壇。夢だったという『仮面ライダー』出演で活きたM!LKでの経験を明かした。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "3f5a33baf834ec9a",
+        "title": "M!LK、「『装苑』2026年9月号」表紙＆巻頭飾る",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/07/24/tgb004",
+        "publishedAt": "2026-07-24T05:00:00.000Z",
+        "summary": "",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
     "原因は自分にある。": [
       {
         "id": "0ef08f56566234ae",
@@ -432,168 +650,6 @@
         ],
         "statuses": [],
         "memberMatches": []
-      }
-    ],
-    "M!LK": [
-      {
-        "id": "9111f467adc200de",
-        "title": "佐野勇斗「僕はテレビに出てはいけない人間」 M!LKメンバーが普段と「ゴチ」で見せる姿の違いを暴露",
-        "sourceName": "マイナビニュース テレビ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-        "articleUrl": "https://news.mynavi.jp/article/20260730-4753438/",
-        "publishedAt": "2026-07-29T22:00:00.000Z",
-        "summary": "「僕はテレビに出てはいけない人間」――佐野勇斗が、きょう30日に放送される日本テレビ系バラエティ番組『ぐるぐるナインティナイン 2時間SP』(19:00～)で突然の告白。M!LKからあみだくじで選ばれたメンバーが「ゴチ」に参戦し、普段の佐野について「めっちゃ真面目」と証言する。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "03b969d2b0e0bb0b",
-        "title": "『VIVANT』第11話の舞台裏を緊急公開! “ノコル”に扮するM!LK塩崎太智の大胆考察に監督の反応は...?",
-        "sourceName": "マイナビニュース テレビ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-        "articleUrl": "https://news.mynavi.jp/article/20260728-4750471/",
-        "publishedAt": "2026-07-28T10:33:01.000Z",
-        "summary": "TBS系バラエティ番組『知識の扉よ開け！ドア×ドア クエスト』(31日20:55～)で、26日に放送され大きな反響を呼んだドラマ『VIVANT』第11話の名シーンの裏側が緊急公開される。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "f24b9a74ba26d74a",
-        "title": "曽野舜太、夢の『仮面ライダー』役で活きたM!LKでの経験明かす 役柄に驚きも「あれ、俺…」",
-        "sourceName": "マイナビニュース 映画",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
-        "articleUrl": "https://news.mynavi.jp/article/20260724-4735976/",
-        "publishedAt": "2026-07-24T11:00:00.000Z",
-        "summary": "ダンスボーカルグループ・M!LKの曽野舜太が23日、映画『仮面ライダーゼッツ さよならのミッション』/映画『超宇宙刑事ギャバン インフィニティ 太陽が泣いた日』(公開中)の公開前夜祭舞台挨拶に登壇。夢だったという『仮面ライダー』出演で活きたM!LKでの経験を明かした。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "3f5a33baf834ec9a",
-        "title": "M!LK、「『装苑』2026年9月号」表紙＆巻頭飾る",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/07/24/tgb004",
-        "publishedAt": "2026-07-24T05:00:00.000Z",
-        "summary": "",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "932f2bcf32ec4ee5",
-        "title": "「ブンブン振り回していたら……」M!LK曽野舜太、殺陣練習のために模擬刀を購入→自宅で起こったハプニングとは",
-        "sourceName": "マイナビニュース 映画",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
-        "articleUrl": "https://news.mynavi.jp/article/20260723-4733726/",
-        "publishedAt": "2026-07-23T13:00:00.000Z",
-        "summary": "ダンスボーカルグループ・M!LKの曽野舜太が23日、映画『仮面ライダーゼッツ さよならのミッション』/映画『超宇宙刑事ギャバン インフィニティ 太陽が泣いた日』(ともに7月24日公開)の公開前夜祭舞台挨拶に登壇。殺陣練習の裏で起こったハプニングを明かした。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      }
-    ],
-    "BUDDiiS": [
-      {
-        "id": "15fb9ee4d3775ce2",
-        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/07/89645/",
-        "publishedAt": "2026-07-24T12:00:00.000Z",
-        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
-        "groups": [
-          "原因は自分にある。",
-          "BUDDiiS"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "SHOOT",
-            "group": "BUDDiiS",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "3fb662210aaeb54f",
-        "title": "森愁斗主演『ウォーターガーディアンズ』本予告解禁、ライフセーバーの本格訓練シーンが初お披露目",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/06/87426/",
-        "publishedAt": "2026-06-05T22:00:00.000Z",
-        "summary": "森愁斗主演映画『ウォーターガーディアンズ』の公開日が8月21日(金)に決定し、本予告映像と主題歌、追加キャスト情報が一挙解禁された。 本作は、ライフセーバーを目指す若者たちの本気のひと夏を描いた青春サマームービー。思いがけずライフセーバーになるという目標を得た若者たちが友情を育み、恋と出会う姿を描く。キャストでは主人公・海翔役の森愁斗（BUDDiiS）、海翔",
-        "groups": [
-          "原因は自分にある。",
-          "BUDDiiS"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "SHOOT",
-            "group": "BUDDiiS",
-            "status": "active"
-          }
-        ]
       }
     ]
   }

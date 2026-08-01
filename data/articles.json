@@ -1,6 +1,60 @@
 {
-  "updatedAt": "2026-08-01T08:33:44.121Z",
+  "updatedAt": "2026-08-01T13:54:33.628Z",
   "articles": [
+    {
+      "id": "3c221074cd93251b",
+      "title": "BUDDiiS・森愁斗と大槻拓也 さがみ湖 MORI MORI「モリモリノボル」オープニングイベントに",
+      "sourceName": "Edge Line",
+      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/202715",
+      "publishedAt": "2026-08-01T11:14:08.000Z",
+      "summary": "ダンスボーカルグループ『BUDDiiS』（バディーズ）から“SHOOT”森愁斗と“TAKUYA”大槻拓也が8月1日に神奈川・相模原市のさがみ湖 MORI MORIでネットクライミングアスレチック「モリモリノボル」オープ...",
+      "groups": [
+        "BUDDiiS"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "TAKUYA",
+          "group": "BUDDiiS",
+          "status": "active"
+        },
+        {
+          "name": "SHOOT",
+          "group": "BUDDiiS",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "f0d24a204f78b4a8",
+      "title": "「100万再生突破はやっ!」「仲が良すぎて愛」M!LK塩崎＆吉田、グループYouTubeへの思いに反響 メンバーの“個人チャンネル”開設理由も分析",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260801-4760665/",
+      "publishedAt": "2026-08-01T10:00:00.000Z",
+      "summary": "「巻き添えを食わせるわけにはいかない」アイドルグループ・M!LKの塩崎太智(※崎はたつさき)と吉田仁人が、メンバーの個人チャンネルについて語った――。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "塩﨑太智",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "0ef08f56566234ae",
       "title": "小泉光咲＆四坂亮翔W主演「陽キャ集団にいる芹沢は、俺の前だと様子がおかしい」、龍宮城の主題歌彩るOP映像公開！",
@@ -2661,34 +2715,6 @@
       "articleUrl": "https://super-dragon.jp/news/news10935/",
       "publishedAt": "2026-05-11T08:59:26.000Z",
       "summary": "皆様に安心して公演をお楽しみいただくために、下記のご案内を必ずご確認のうえ、 お申込み、ご来場いただきますようお願い申しあげます。 ●チケットの譲渡や転売を含む不正行為は、いかなる場合も禁止いたします。正規販売以外でのチ […] The post SUPER★DRAGON DRA FES 2026 チケットの販売に伴うお願いと注意事項 first appea",
-      "groups": [
-        "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "4c00b0c4702bccf9",
-      "title": "超特急 東京ドーム公演 SOLD OUT",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26039/",
-      "publishedAt": "2026-05-10T03:30:36.000Z",
-      "summary": "超特急「東京ドーム公演」好評につき完売いたしました。 ご購入いただいた皆様、ありがとうございました!!!!!!!!! 超特急 東京ドーム公演 【東京】東京ドーム THANK YOU SOLD OUT!! 2026年11月 […]",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "a27a5cf7193a30c8",
-      "title": "5月9日(土) LIVE TOUR 2026「Studio」終演後生配信実施のお知らせ！",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news10944/",
-      "publishedAt": "2026-05-09T01:29:04.000Z",
-      "summary": "本日5月9日(土)LIVE TOUR 2026「Studio」公演終演後、SUPER★DRAGON OFFICIAL Instagram & AREA SDにて終演後生配信の実施が決定！ 前半はInstagram […] The post 5月9日(土) LIVE TOUR 2026「Studio」終演後生配信実施のお知らせ！ first appeared ",
       "groups": [
         "SUPER★DRAGON"
       ],
