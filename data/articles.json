@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T03:49:39.340Z",
+  "updatedAt": "2026-08-01T08:33:44.121Z",
   "articles": [
     {
       "id": "0ef08f56566234ae",
@@ -22,20 +22,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "79a706a1901af537",
-      "title": "M!LK5人でくっついてちゃぶ台を囲んだ仲睦まじい『やってM!LK』オフショット公開！「吉田さんかわいい」「舜太くんメロい」「勇ちゃんビジュいい」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000856262/",
-      "publishedAt": "2026-07-31T07:13:20.000Z",
-      "summary": "M!LKの地上波冠番組TBS『限界突破！やってM!LK』公式SNSにて、7月30日の深夜に放送された回の...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "7f7d929f12a54a69",
@@ -2691,6 +2677,20 @@
       "summary": "超特急「東京ドーム公演」好評につき完売いたしました。 ご購入いただいた皆様、ありがとうございました!!!!!!!!! 超特急 東京ドーム公演 【東京】東京ドーム THANK YOU SOLD OUT!! 2026年11月 […]",
       "groups": [
         "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "a27a5cf7193a30c8",
+      "title": "5月9日(土) LIVE TOUR 2026「Studio」終演後生配信実施のお知らせ！",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news10944/",
+      "publishedAt": "2026-05-09T01:29:04.000Z",
+      "summary": "本日5月9日(土)LIVE TOUR 2026「Studio」公演終演後、SUPER★DRAGON OFFICIAL Instagram & AREA SDにて終演後生配信の実施が決定！ 前半はInstagram […] The post 5月9日(土) LIVE TOUR 2026「Studio」終演後生配信実施のお知らせ！ first appeared ",
+      "groups": [
+        "SUPER★DRAGON"
       ],
       "statuses": [],
       "memberMatches": []
