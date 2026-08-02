@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-02T03:52:14.628Z",
+  "updatedAt": "2026-08-02T08:36:45.874Z",
   "totals": {
     "all": 160,
-    "today": 2,
-    "week": 12
+    "today": 4,
+    "week": 13
   },
   "groupRanking": [
     {
@@ -16,7 +16,7 @@
     },
     {
       "name": "M!LK",
-      "count": 2
+      "count": 3
     },
     {
       "name": "超特急",
@@ -45,14 +45,6 @@
       "count": 1
     },
     {
-      "name": "塩﨑太智",
-      "count": 1
-    },
-    {
-      "name": "吉田仁人",
-      "count": 1
-    },
-    {
       "name": "佐野勇斗",
       "count": 1
     },
@@ -65,6 +57,10 @@
     {
       "name": "超特急 公式NEWS",
       "count": 4
+    },
+    {
+      "name": "THE FIRST TIMES",
+      "count": 2
     },
     {
       "name": "WWSチャンネル",
@@ -85,14 +81,98 @@
     {
       "name": "タワーレコード ニュース",
       "count": 1
-    },
-    {
-      "name": "マイナビニュース エンタメ",
-      "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
+    "M!LK": [
+      {
+        "id": "549a4ec7e4e56c81",
+        "title": "SEVENTEENジョンハン、メンバー13人の深い絆を明かす！M!LK「好きすぎて滅！」即興ダンスコラボも披露",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000856768/",
+        "publishedAt": "2026-08-02T05:30:18.000Z",
+        "summary": "SEVENTEENのJEONGHAN（ジョンハン）が、8月2日に放送される『日曜日の初耳学』に出演する。 ■...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "acc91cf35f124e4c",
+        "title": "M!LKの“日本を元気にする”仲良しショット！“アイドルパワー”全開の笑顔＆わちゃわちゃ姿を厳選",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000854939/",
+        "publishedAt": "2026-08-02T04:00:30.000Z",
+        "summary": "人気“爆裂”中のM!LK。キャッチーな楽曲やパフォーマンスはもちろん、メンバー同士の仲の良さも...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "9111f467adc200de",
+        "title": "佐野勇斗「僕はテレビに出てはいけない人間」 M!LKメンバーが普段と「ゴチ」で見せる姿の違いを暴露",
+        "sourceName": "マイナビニュース テレビ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
+        "articleUrl": "https://news.mynavi.jp/article/20260730-4753438/",
+        "publishedAt": "2026-07-29T22:00:00.000Z",
+        "summary": "「僕はテレビに出てはいけない人間」――佐野勇斗が、きょう30日に放送される日本テレビ系バラエティ番組『ぐるぐるナインティナイン 2時間SP』(19:00～)で突然の告白。M!LKからあみだくじで選ばれたメンバーが「ゴチ」に参戦し、普段の佐野について「めっちゃ真面目」と証言する。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "f24b9a74ba26d74a",
+        "title": "曽野舜太、夢の『仮面ライダー』役で活きたM!LKでの経験明かす 役柄に驚きも「あれ、俺…」",
+        "sourceName": "マイナビニュース 映画",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
+        "articleUrl": "https://news.mynavi.jp/article/20260724-4735976/",
+        "publishedAt": "2026-07-24T11:00:00.000Z",
+        "summary": "ダンスボーカルグループ・M!LKの曽野舜太が23日、映画『仮面ライダーゼッツ さよならのミッション』/映画『超宇宙刑事ギャバン インフィニティ 太陽が泣いた日』(公開中)の公開前夜祭舞台挨拶に登壇。夢だったという『仮面ライダー』出演で活きたM!LKでの経験を明かした。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "3f5a33baf834ec9a",
+        "title": "M!LK、「『装苑』2026年9月号」表紙＆巻頭飾る",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/07/24/tgb004",
+        "publishedAt": "2026-07-24T05:00:00.000Z",
+        "summary": "",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
     "BUDDiiS": [
       {
         "id": "ba0aee3b8003dc12",
@@ -209,115 +289,6 @@
           {
             "name": "SHOOT",
             "group": "BUDDiiS",
-            "status": "active"
-          }
-        ]
-      }
-    ],
-    "M!LK": [
-      {
-        "id": "f0d24a204f78b4a8",
-        "title": "「100万再生突破はやっ!」「仲が良すぎて愛」M!LK塩崎＆吉田、グループYouTubeへの思いに反響 メンバーの“個人チャンネル”開設理由も分析",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20260801-4760665/",
-        "publishedAt": "2026-08-01T10:00:00.000Z",
-        "summary": "「巻き添えを食わせるわけにはいかない」アイドルグループ・M!LKの塩崎太智(※崎はたつさき)と吉田仁人が、メンバーの個人チャンネルについて語った――。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "9111f467adc200de",
-        "title": "佐野勇斗「僕はテレビに出てはいけない人間」 M!LKメンバーが普段と「ゴチ」で見せる姿の違いを暴露",
-        "sourceName": "マイナビニュース テレビ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-        "articleUrl": "https://news.mynavi.jp/article/20260730-4753438/",
-        "publishedAt": "2026-07-29T22:00:00.000Z",
-        "summary": "「僕はテレビに出てはいけない人間」――佐野勇斗が、きょう30日に放送される日本テレビ系バラエティ番組『ぐるぐるナインティナイン 2時間SP』(19:00～)で突然の告白。M!LKからあみだくじで選ばれたメンバーが「ゴチ」に参戦し、普段の佐野について「めっちゃ真面目」と証言する。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "f24b9a74ba26d74a",
-        "title": "曽野舜太、夢の『仮面ライダー』役で活きたM!LKでの経験明かす 役柄に驚きも「あれ、俺…」",
-        "sourceName": "マイナビニュース 映画",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
-        "articleUrl": "https://news.mynavi.jp/article/20260724-4735976/",
-        "publishedAt": "2026-07-24T11:00:00.000Z",
-        "summary": "ダンスボーカルグループ・M!LKの曽野舜太が23日、映画『仮面ライダーゼッツ さよならのミッション』/映画『超宇宙刑事ギャバン インフィニティ 太陽が泣いた日』(公開中)の公開前夜祭舞台挨拶に登壇。夢だったという『仮面ライダー』出演で活きたM!LKでの経験を明かした。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "3f5a33baf834ec9a",
-        "title": "M!LK、「『装苑』2026年9月号」表紙＆巻頭飾る",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/07/24/tgb004",
-        "publishedAt": "2026-07-24T05:00:00.000Z",
-        "summary": "",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "932f2bcf32ec4ee5",
-        "title": "「ブンブン振り回していたら……」M!LK曽野舜太、殺陣練習のために模擬刀を購入→自宅で起こったハプニングとは",
-        "sourceName": "マイナビニュース 映画",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
-        "articleUrl": "https://news.mynavi.jp/article/20260723-4733726/",
-        "publishedAt": "2026-07-23T13:00:00.000Z",
-        "summary": "ダンスボーカルグループ・M!LKの曽野舜太が23日、映画『仮面ライダーゼッツ さよならのミッション』/映画『超宇宙刑事ギャバン インフィニティ 太陽が泣いた日』(ともに7月24日公開)の公開前夜祭舞台挨拶に登壇。殺陣練習の裏で起こったハプニングを明かした。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "曽野舜太",
-            "group": "M!LK",
             "status": "active"
           }
         ]
