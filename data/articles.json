@@ -1,6 +1,74 @@
 {
-  "updatedAt": "2026-08-02T08:36:45.871Z",
+  "updatedAt": "2026-08-02T13:53:42.930Z",
   "articles": [
+    {
+      "id": "e8a8ce312e771780",
+      "title": "EBiDAN発・Not Found、初のデジタル写真集発売 仲睦まじい5人の姿、オンラインサイン会も開催",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1041260/",
+      "publishedAt": "2026-08-02T13:00:00.000Z",
+      "summary": "EBiDAN（恵比寿学園男子部）から誕生した5人組ボーイズグループ・Not Foundの初のデジタル写真集『Infinite Code』（集英社）が17日に発売されることが、2日発表された。Not Foundが17日に『 […]",
+      "groups": [
+        "EBiDAN"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "4c7f1cca22e8df38",
+      "title": "M!LK佐野勇斗＆吉田仁人のユニット曲は「罪と罰と雨とキス」スタダコードが限界突破（!?）なPEACH-PIT描き下ろしメロすぎジャケット解禁",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000856953/",
+      "publishedAt": "2026-08-02T11:23:09.000Z",
+      "summary": "M!LKが展開中のリリース企画「モー烈モー進！リリースプロジェクト2026」より、あらたなリリー...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "18c3fea4ee5f1025",
+      "title": "「ガチ家族写真で大横転」「良いとこのお母様とご子息すぎる笑」M!LK塩崎＆吉田、“同期コンビ”の仲良し2Sに反響",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260802-4760691/",
+      "publishedAt": "2026-08-02T10:00:00.000Z",
+      "summary": "「写真館で撮るのめちゃくちゃ久しぶり」アイドルグループ・M!LKの塩崎太智(※崎はたつさき)と吉田仁人が、プロフィール写真撮影の様子を公開した――。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "塩﨑太智",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "549a4ec7e4e56c81",
       "title": "SEVENTEENジョンハン、メンバー13人の深い絆を明かす！M!LK「好きすぎて滅！」即興ダンスコラボも披露",
@@ -2645,56 +2713,6 @@
       "summary": "2026年8月11日(火・祝)に発売のEBiDAN15周年記念シングル「Yes! 東京」のリリースイベント『Yes! 飛び出せ! 僕らの移動教室』の開催が決定いたしました。 15周年の特別な節目を、皆さまと一緒に最高に盛 […] The post EBiDAN15周年記念シングル「Yes! 東京」発売記念リリースイベント『Yes! 飛び出せ! 僕らの移動教室",
       "groups": [
         "EBiDAN",
-        "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "53b96b1754a45768",
-      "title": "SUPER★DRAGON LIVE TOUR 2026 「Studio」オフィシャルグッズ、ミニ生写真セット 事後通販決定！",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news10954/",
-      "publishedAt": "2026-05-14T09:59:04.000Z",
-      "summary": "SUPER★DRAGON LIVE TOUR 2026 「Studio」オフィシャルグッズ、ミニ生写真セットの事後通販が決定しました！ 残りわずかな商品もございますので、この機会をお見逃しなく！！ 【販売期 […] The post SUPER★DRAGON LIVE TOUR 2026 「Studio」オフィシャルグッズ、ミニ生写真セット 事後通販決定！ ",
-      "groups": [
-        "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "ea378453deec9cda",
-      "title": "超特急カイ プロデュースブランド『KEEN AND INTENSE』2026 SS collection 【Jardin, 2026】販売決定！",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26080/",
-      "publishedAt": "2026-05-13T03:04:06.000Z",
-      "summary": "縫製や素材にこだわったアイテムと、男女ともに長く愛される服を目指しユニセックス展開をしている、超特急・カイのプロデュースブランド「KEEN AND INTENSE」が2026 SS collection 【Jardin, […]",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "カイ",
-          "group": "超特急",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "140b16750f49e7c3",
-      "title": "「SUPER★DRAGON DRA FES 2026」開催決定！",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news10949/",
-      "publishedAt": "2026-05-11T08:59:54.000Z",
-      "summary": "本日5月11日(月)18:00よりオフィシャルファンクラブ『AREA SD』会員先行が受付開始。 会場で皆さんとお会いできることを楽しみにしております！ 【チケットの販売に伴うお願いと注意事項】 ※重要：お申込み前に必ず […] The post 「SUPER★DRAGON DRA FES 2026」開催決定！ first appeared on SUPER",
-      "groups": [
         "SUPER★DRAGON"
       ],
       "statuses": [],
