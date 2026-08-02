@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-08-01T19:33:12.286Z",
+  "updatedAt": "2026-08-02T03:52:14.626Z",
   "articles": [
+    {
+      "id": "ba0aee3b8003dc12",
+      "title": "スターダストプロモーション所属、令和に誕生した新進気鋭のDIYダンスボーカルグループBUDDiiSが「コカ･コーラ SUMMER FES 音楽LIVE」に4年連続出演！",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/music2/659400.html",
+      "publishedAt": "2026-08-01T23:00:45.000Z",
+      "summary": "今年2月にメジャーデビューを果たし、ますます勢いに乗る9人組ダンスボーカルグループのBUDDiiSが、7月31日に「コカ･コーラ SUMMER FES 音楽LIVE」で六本木ヒルズアリーナに登場した。毎年、夏休みに行われている「テレビ朝日・六本木ヒルズ SUMMER F ... The post スターダストプロモーション所属、令和に誕生した新進気鋭のDIY",
+      "groups": [
+        "BUDDiiS"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "121e4825d59a5e6a",
+      "title": "小川史記＆瀬戸利樹W主演「しもべの王子様」、最終話プレミア先行上映会開催！全国35館でライブビューイング",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/tv/659378.html",
+      "publishedAt": "2026-08-01T21:30:17.000Z",
+      "summary": "小川史記と瀬戸利樹がW主演を務めるTOKYO MXの金曜ドラマ「しもべの王子様」の最終話プレミア先行上映会が、2026年8月21日に東京・池袋HUMAXシネマズで開催されることが決定した。第2部の模様は、全国35館の映画館でもライブビューイングされる。イベントでは、同日 ... The post 小川史記＆瀬戸利樹W主演「しもべの王子様」、最終話プレミア先行",
+      "groups": [
+        "BUDDiiS"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "FUMINORI",
+          "group": "BUDDiiS",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "3c221074cd93251b",
       "title": "BUDDiiS・森愁斗と大槻拓也 さがみ湖 MORI MORI「モリモリノボル」オープニングイベントに",
@@ -51,28 +87,6 @@
         {
           "name": "吉田仁人",
           "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "0ef08f56566234ae",
-      "title": "小泉光咲＆四坂亮翔W主演「陽キャ集団にいる芹沢は、俺の前だと様子がおかしい」、龍宮城の主題歌彩るOP映像公開！",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/tv/659124.html",
-      "publishedAt": "2026-07-31T10:00:54.000Z",
-      "summary": "小泉光咲と四坂亮翔がW主演を務める読売テレビの新ドラマ「陽キャ集団にいる芹沢は、俺の前だと様子がおかしい」が、2026年8月10日深夜より放送される。放送開始を前に、龍宮城が歌うオープニング主題歌「愛愛愛なんて」に乗せたオープニング映像が先行公開された。本作は、「みなと ... The post 小泉光咲＆四坂亮翔W主演「陽キャ集団にいる芹沢は、俺の前だと様",
-      "groups": [
-        "原因は自分にある。"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "小泉光咲",
-          "group": "原因は自分にある。",
           "status": "active"
         }
       ]
@@ -201,28 +215,6 @@
       "memberMatches": [
         {
           "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "03b969d2b0e0bb0b",
-      "title": "『VIVANT』第11話の舞台裏を緊急公開! “ノコル”に扮するM!LK塩崎太智の大胆考察に監督の反応は...?",
-      "sourceName": "マイナビニュース テレビ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-      "articleUrl": "https://news.mynavi.jp/article/20260728-4750471/",
-      "publishedAt": "2026-07-28T10:33:01.000Z",
-      "summary": "TBS系バラエティ番組『知識の扉よ開け！ドア×ドア クエスト』(31日20:55～)で、26日に放送され大きな反響を呼んだドラマ『VIVANT』第11話の名シーンの裏側が緊急公開される。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "塩﨑太智",
           "group": "M!LK",
           "status": "active"
         }
