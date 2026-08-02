@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-02T13:53:42.932Z",
+  "updatedAt": "2026-08-02T19:33:43.531Z",
   "totals": {
     "all": 160,
-    "today": 7,
+    "today": 1,
     "week": 16
   },
   "groupRanking": [
@@ -101,79 +101,6 @@
   ],
   "topics": [],
   "recentByGroup": {
-    "EBiDAN": [
-      {
-        "id": "e8a8ce312e771780",
-        "title": "EBiDAN発・Not Found、初のデジタル写真集発売 仲睦まじい5人の姿、オンラインサイン会も開催",
-        "sourceName": "ENCOUNT",
-        "sourceUrl": "https://encount.press/feed/",
-        "articleUrl": "https://encount.press/archives/1041260/",
-        "publishedAt": "2026-08-02T13:00:00.000Z",
-        "summary": "EBiDAN（恵比寿学園男子部）から誕生した5人組ボーイズグループ・Not Foundの初のデジタル写真集『Infinite Code』（集英社）が17日に発売されることが、2日発表された。Not Foundが17日に『 […]",
-        "groups": [
-          "EBiDAN"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "7f7d929f12a54a69",
-        "title": "「EBiDAN THE LIVE 2026 15th Anniversary」SHOOTING ACT決定＆最新チケット情報",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26426/",
-        "publishedAt": "2026-07-31T02:59:46.000Z",
-        "summary": "「EBiDAN THE LIVE 2026 15th Anniversary」の一般発売が8月1日(土)10:00より受付開始！ また、昨年の「EBiDAN THE LIVE 2025」最終公演で開催を発表した『EBiD […]",
-        "groups": [
-          "EBiDAN"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "9f2ebe832f79dcdc",
-        "title": "「EBiDAN THE LIVE 2026 15th Anniversary」最新チケット情報＆追加出演者・SHOOTING ACT解禁",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11472/",
-        "publishedAt": "2026-07-31T02:59:28.000Z",
-        "summary": "「EBiDAN THE LIVE 2026 15th Anniversary」の一般発売が8月1日(土)10:00より受付開始！ また、昨年の「EBiDAN THE LIVE 2025」最終公演で開催を発表した『EBiD […] The post 「EBiDAN THE LIVE 2026 15th Anniversary」最新チケット情報＆追加出演者・SH",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "dd61accdbf882afb",
-        "title": "「Yes! 駆け込め! 僕らのEBiSTORE」の開催が決定！",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26410/",
-        "publishedAt": "2026-07-31T01:59:58.000Z",
-        "summary": "EBiDAN15周年記念シングル「Yes! 東京」リリース＆『EBiDAN THE LIVE 2026 15th Anniversary』の開催を記念してSHIBUYA TSUTAYAにてコラボレーションカフェ「Yes! […]",
-        "groups": [
-          "EBiDAN"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "68a07ce857ec6b5b",
-        "title": "「J-POPシングル ウィークリーTOP30」発表。1位はtimelesz『消えない花火』、予約1位はEBiDAN（恵比寿学園男子部）『Yes! 東京』（2026年7月30日付）",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/07/30/tg004",
-        "publishedAt": "2026-07-30T10:00:00.000Z",
-        "summary": "",
-        "groups": [
-          "EBiDAN"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
     "M!LK": [
       {
         "id": "4c7f1cca22e8df38",
@@ -181,7 +108,7 @@
         "sourceName": "THE FIRST TIMES",
         "sourceUrl": "https://www.thefirsttimes.jp/feed/",
         "articleUrl": "https://www.thefirsttimes.jp/news/0000856953/",
-        "publishedAt": "2026-08-02T11:23:09.000Z",
+        "publishedAt": "2026-08-02T15:17:43.000Z",
         "summary": "M!LKが展開中のリリース企画「モー烈モー進！リリースプロジェクト2026」より、あらたなリリー...",
         "groups": [
           "M!LK"
@@ -278,6 +205,79 @@
             "status": "active"
           }
         ]
+      }
+    ],
+    "EBiDAN": [
+      {
+        "id": "e8a8ce312e771780",
+        "title": "EBiDAN発・Not Found、初のデジタル写真集発売 仲睦まじい5人の姿、オンラインサイン会も開催",
+        "sourceName": "ENCOUNT",
+        "sourceUrl": "https://encount.press/feed/",
+        "articleUrl": "https://encount.press/archives/1041260/",
+        "publishedAt": "2026-08-02T13:00:00.000Z",
+        "summary": "EBiDAN（恵比寿学園男子部）から誕生した5人組ボーイズグループ・Not Foundの初のデジタル写真集『Infinite Code』（集英社）が17日に発売されることが、2日発表された。Not Foundが17日に『 […]",
+        "groups": [
+          "EBiDAN"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "7f7d929f12a54a69",
+        "title": "「EBiDAN THE LIVE 2026 15th Anniversary」SHOOTING ACT決定＆最新チケット情報",
+        "sourceName": "超特急 公式NEWS",
+        "sourceUrl": "https://bullettrain.jp/news/feed/",
+        "articleUrl": "https://bullettrain.jp/news/news26426/",
+        "publishedAt": "2026-07-31T02:59:46.000Z",
+        "summary": "「EBiDAN THE LIVE 2026 15th Anniversary」の一般発売が8月1日(土)10:00より受付開始！ また、昨年の「EBiDAN THE LIVE 2025」最終公演で開催を発表した『EBiD […]",
+        "groups": [
+          "EBiDAN"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "9f2ebe832f79dcdc",
+        "title": "「EBiDAN THE LIVE 2026 15th Anniversary」最新チケット情報＆追加出演者・SHOOTING ACT解禁",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11472/",
+        "publishedAt": "2026-07-31T02:59:28.000Z",
+        "summary": "「EBiDAN THE LIVE 2026 15th Anniversary」の一般発売が8月1日(土)10:00より受付開始！ また、昨年の「EBiDAN THE LIVE 2025」最終公演で開催を発表した『EBiD […] The post 「EBiDAN THE LIVE 2026 15th Anniversary」最新チケット情報＆追加出演者・SH",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "dd61accdbf882afb",
+        "title": "「Yes! 駆け込め! 僕らのEBiSTORE」の開催が決定！",
+        "sourceName": "超特急 公式NEWS",
+        "sourceUrl": "https://bullettrain.jp/news/feed/",
+        "articleUrl": "https://bullettrain.jp/news/news26410/",
+        "publishedAt": "2026-07-31T01:59:58.000Z",
+        "summary": "EBiDAN15周年記念シングル「Yes! 東京」リリース＆『EBiDAN THE LIVE 2026 15th Anniversary』の開催を記念してSHIBUYA TSUTAYAにてコラボレーションカフェ「Yes! […]",
+        "groups": [
+          "EBiDAN"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "68a07ce857ec6b5b",
+        "title": "「J-POPシングル ウィークリーTOP30」発表。1位はtimelesz『消えない花火』、予約1位はEBiDAN（恵比寿学園男子部）『Yes! 東京』（2026年7月30日付）",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/07/30/tg004",
+        "publishedAt": "2026-07-30T10:00:00.000Z",
+        "summary": "",
+        "groups": [
+          "EBiDAN"
+        ],
+        "statuses": [],
+        "memberMatches": []
       }
     ],
     "BUDDiiS": [

@@ -1,27 +1,13 @@
 {
-  "updatedAt": "2026-08-02T13:53:42.930Z",
+  "updatedAt": "2026-08-02T19:33:43.529Z",
   "articles": [
-    {
-      "id": "e8a8ce312e771780",
-      "title": "EBiDAN発・Not Found、初のデジタル写真集発売 仲睦まじい5人の姿、オンラインサイン会も開催",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1041260/",
-      "publishedAt": "2026-08-02T13:00:00.000Z",
-      "summary": "EBiDAN（恵比寿学園男子部）から誕生した5人組ボーイズグループ・Not Foundの初のデジタル写真集『Infinite Code』（集英社）が17日に発売されることが、2日発表された。Not Foundが17日に『 […]",
-      "groups": [
-        "EBiDAN"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
     {
       "id": "4c7f1cca22e8df38",
       "title": "M!LK佐野勇斗＆吉田仁人のユニット曲は「罪と罰と雨とキス」スタダコードが限界突破（!?）なPEACH-PIT描き下ろしメロすぎジャケット解禁",
       "sourceName": "THE FIRST TIMES",
       "sourceUrl": "https://www.thefirsttimes.jp/feed/",
       "articleUrl": "https://www.thefirsttimes.jp/news/0000856953/",
-      "publishedAt": "2026-08-02T11:23:09.000Z",
+      "publishedAt": "2026-08-02T15:17:43.000Z",
       "summary": "M!LKが展開中のリリース企画「モー烈モー進！リリースプロジェクト2026」より、あらたなリリー...",
       "groups": [
         "M!LK"
@@ -41,6 +27,20 @@
           "status": "active"
         }
       ]
+    },
+    {
+      "id": "e8a8ce312e771780",
+      "title": "EBiDAN発・Not Found、初のデジタル写真集発売 仲睦まじい5人の姿、オンラインサイン会も開催",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1041260/",
+      "publishedAt": "2026-08-02T13:00:00.000Z",
+      "summary": "EBiDAN（恵比寿学園男子部）から誕生した5人組ボーイズグループ・Not Foundの初のデジタル写真集『Infinite Code』（集英社）が17日に発売されることが、2日発表された。Not Foundが17日に『 […]",
+      "groups": [
+        "EBiDAN"
+      ],
+      "statuses": [],
+      "memberMatches": []
     },
     {
       "id": "18c3fea4ee5f1025",
