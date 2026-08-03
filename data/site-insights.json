@@ -1,30 +1,30 @@
 {
-  "updatedAt": "2026-08-03T10:04:59.636Z",
+  "updatedAt": "2026-08-03T15:15:33.741Z",
   "totals": {
     "all": 160,
-    "today": 7,
+    "today": 0,
     "week": 17
   },
   "groupRanking": [
-    {
-      "name": "M!LK",
-      "count": 6
-    },
     {
       "name": "EBiDAN",
       "count": 5
     },
     {
-      "name": "BUDDiiS",
-      "count": 2
-    },
-    {
-      "name": "SUPER★DRAGON",
-      "count": 2
+      "name": "M!LK",
+      "count": 4
     },
     {
       "name": "超特急",
-      "count": 2
+      "count": 4
+    },
+    {
+      "name": "SUPER★DRAGON",
+      "count": 3
+    },
+    {
+      "name": "BUDDiiS",
+      "count": 1
     },
     {
       "name": "原因は自分にある。",
@@ -33,27 +33,15 @@
   ],
   "memberRanking": [
     {
-      "name": "佐野勇斗",
-      "count": 5
-    },
-    {
       "name": "吉田仁人",
-      "count": 3
+      "count": 4
     },
     {
-      "name": "曽野舜太",
-      "count": 2
+      "name": "佐野勇斗",
+      "count": 4
     },
     {
-      "name": "FUMINORI",
-      "count": 1
-    },
-    {
-      "name": "塩﨑太智",
-      "count": 1
-    },
-    {
-      "name": "山中柔太朗",
+      "name": "池田彪馬",
       "count": 1
     },
     {
@@ -67,24 +55,20 @@
       "count": 4
     },
     {
-      "name": "THE FIRST TIMES",
-      "count": 3
-    },
-    {
       "name": "WWSチャンネル",
       "count": 3
     },
     {
+      "name": "BARKS",
+      "count": 2
+    },
+    {
+      "name": "THE FIRST TIMES",
+      "count": 2
+    },
+    {
       "name": "タワーレコード ニュース",
       "count": 2
-    },
-    {
-      "name": "マイナビニュース テレビ",
-      "count": 2
-    },
-    {
-      "name": "BARKS",
-      "count": 1
     },
     {
       "name": "Bezzy",
@@ -93,19 +77,201 @@
     {
       "name": "SUPER★DRAGON 公式NEWS",
       "count": 1
+    },
+    {
+      "name": "マイナビニュース テレビ",
+      "count": 1
+    },
+    {
+      "name": "リアルサウンド 音楽",
+      "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
+    "SUPER★DRAGON": [
+      {
+        "id": "a7de5c9fa216f384",
+        "title": "SUPER★DRAGON・池田彪馬、“Hyoma Ikeda”名義でソロプロジェクト始動。アー写公開＆1stミニアルバム『Effect』発売決定も",
+        "sourceName": "BARKS",
+        "sourceUrl": "https://www.barks.jp/feed/",
+        "articleUrl": "https://barks.jp/news/1081325",
+        "publishedAt": "2026-08-03T14:00:00.000Z",
+        "summary": "SUPER★DRAGON・池田彪馬が、Hyoma Ikeda名義でのソロプロジェクトを始動することをYouTubeライブでサプライズ発表した。 「オリエンタルシネマ」をテーマに、紫の色彩の中で艶やかさが表現されたアーティスト写真と、月や蝶などが散りばめられたデザインのアーティストロゴが公開された。池田彪馬本人が細部までこだわり抜いたとのことで、彼の存在感を体",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "池田彪馬",
+            "group": "SUPER★DRAGON",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "0b633e6d63584644",
+        "title": "SUPER★DRAGON、ガチャピン・ムックと11人でコラボ！「After the summer night」を披露",
+        "sourceName": "WWSチャンネル",
+        "sourceUrl": "https://www.wws-channel.com/feed",
+        "articleUrl": "https://www.wws-channel.com/stage/659618.html",
+        "publishedAt": "2026-08-03T03:00:32.000Z",
+        "summary": "SUPER★DRAGONが、2026年8月1日に東京・ダイバーシティ東京 プラザのフェスティバル広場で開催された「お台場ファンライジング」のスペシャルステージに出演した。「お台場ファンライジング～楽しくアガる！真夏のエンタメ最前線～」は、フジテレビの人気アニメやバラエテ ... The post SUPER★DRAGON、ガチャピン・ムックと11人でコラボ！",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "9f2ebe832f79dcdc",
+        "title": "「EBiDAN THE LIVE 2026 15th Anniversary」最新チケット情報＆追加出演者・SHOOTING ACT解禁",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11472/",
+        "publishedAt": "2026-07-31T02:59:28.000Z",
+        "summary": "「EBiDAN THE LIVE 2026 15th Anniversary」の一般発売が8月1日(土)10:00より受付開始！ また、昨年の「EBiDAN THE LIVE 2025」最終公演で開催を発表した『EBiD […] The post 「EBiDAN THE LIVE 2026 15th Anniversary」最新チケット情報＆追加出演者・SH",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "9d155a894ee85ffa",
+        "title": "「SUPER★DRAGON July SCRATCH 2026」開催のお知らせ！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11460/",
+        "publishedAt": "2026-07-26T03:00:51.000Z",
+        "summary": "7/27(月)21:00より「SUPER★DRAGON July SCRATCH 2026」の開催が決定しました！ +KIRARI完全撮り下ろしのビジュアルです！ ▼SUPER★DRAGON メンバーコミュニティ htt […] The post 「SUPER★DRAGON July SCRATCH 2026」開催のお知らせ！ first appeared ",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "5750d72b61131334",
+        "title": "SUPER★DRAGONジャン海渡 スペシャルライブ欠席のお知らせ",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11464/",
+        "publishedAt": "2026-07-26T02:29:11.000Z",
+        "summary": "いつもSUPER★DRAGONを応援していただき、誠にありがとうございます。 メンバーのジャン海渡ですが、体調を考慮し、本日開催のMajor 6th Single「Call Me Asap / NUMBER」（愛知県・L […] The post SUPER★DRAGONジャン海渡 スペシャルライブ欠席のお知らせ first appeared on SUPE",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "ジャン海渡",
+            "group": "SUPER★DRAGON",
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "超特急": [
+      {
+        "id": "7de72a7a3eeb662e",
+        "title": "a-nation 2026、浜崎あゆみ・EXILEら出演アーティスト第1弾発表！初出演8組を含む豪華20組が決定",
+        "sourceName": "WWSチャンネル",
+        "sourceUrl": "https://www.wws-channel.com/feed",
+        "articleUrl": "https://www.wws-channel.com/music2/659771.html",
+        "publishedAt": "2026-08-03T13:30:19.000Z",
+        "summary": "今年で22回目を迎える「a-nation」が、10月3日（土）・4日（日）の2日間、東京・お台場で開催される。初の秋開催となる今回、第1弾出演アーティストが発表された。10月3日（土）は、デビュー25年目を迎え、13年ぶり8回目の出演となるEXILEをはじめ、超特急、C ... The post a-nation 2026、浜崎あゆみ・EXILEら出演アーテ",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "93145ae29d85c3a8",
+        "title": "＜a-nation 2026＞、第1弾出演アーティスト発表。史上最多21回目の出演となる浜崎あゆみ、13年ぶりの出演となるEXILEを含む20組が決定",
+        "sourceName": "BARKS",
+        "sourceUrl": "https://www.barks.jp/feed/",
+        "articleUrl": "https://barks.jp/news/1081317",
+        "publishedAt": "2026-08-03T10:08:49.000Z",
+        "summary": "2026年10月3日・4日に開催する＜a-nation 2026＞の、第1弾出演アーティストが発表された。 2026年で22回目を迎える＜a-nation＞は、初の秋開催、そして東京・お台場へと会場を移し開催される。初日となる3日は、デビュー25年目を迎え、a-nationへは13年ぶり8回目の出演となるEXILEをはじめ、超特急、CHANYEOL、WINN",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "59fa057537db8bdf",
+        "title": "『BULLET TRAIN ARENA TOUR 2026 ESCORT』オフィシャルグッズ＆生写真セット 【8/8(土)、8/9(日)Kアリーナ横浜公演】会場販売＆整理券配布のお知らせ",
+        "sourceName": "超特急 公式NEWS",
+        "sourceUrl": "https://bullettrain.jp/news/feed/",
+        "articleUrl": "https://bullettrain.jp/news/news26419/",
+        "publishedAt": "2026-07-30T10:59:40.000Z",
+        "summary": "「BULLET TRAIN ARENA TOUR 2026 ESCORT」Kアリーナ横浜公演の会場販売が決定しました！ 8/8(土)、8/9(日)Kアリーナ横浜公演では、 熱中症対策・混雑緩和のため、LINEアプリを利用 […]",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "0b4084d913452795",
+        "title": "超特急 東京ドーム公演＜追加公演＞最新チケット情報",
+        "sourceName": "超特急 公式NEWS",
+        "sourceUrl": "https://bullettrain.jp/news/feed/",
+        "articleUrl": "https://bullettrain.jp/news/news26417/",
+        "publishedAt": "2026-07-30T08:59:39.000Z",
+        "summary": "8月2日(日)10:00より三井ショッピングパーク チケット先着先行がスタート！ ご乗車お待ちしております!!!!!!!!! ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願いと注意事項】 https […]",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "3536c149fc4a800f",
+        "title": "【シューヤ&マサヒロ】超チャーはんイベント開催決定!",
+        "sourceName": "超特急 公式NEWS",
+        "sourceUrl": "https://bullettrain.jp/news/feed/",
+        "articleUrl": "https://bullettrain.jp/news/news26406/",
+        "publishedAt": "2026-07-25T07:59:44.000Z",
+        "summary": "■【シューヤ＆マサヒロ】超チャーはんイベント開催決定！ 超特急の 11 号車バックボーカル・シューヤと、12 号車メインダンサー・マサヒロからなる YouTube チャンネル「超チャーはん」のチャンネル登録者数が【10 […]",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "シューヤ",
+            "group": "超特急",
+            "status": "active"
+          },
+          {
+            "name": "マサヒロ",
+            "group": "超特急",
+            "status": "active"
+          }
+        ]
+      }
+    ],
     "M!LK": [
       {
-        "id": "36823efe24fe2894",
-        "title": "M!LK佐野勇斗・吉田仁人のユニット曲「罪と罰と雨とキス」本日リリース！MVも公開",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000857308/",
-        "publishedAt": "2026-08-03T09:00:03.000Z",
-        "summary": "5人組ダンスボーカルグループ・M!LKの佐野勇斗と吉田仁人が、ユニット曲として「罪と罰と雨と...",
+        "id": "e8ad3a6184d5309b",
+        "title": "M!LK 佐野勇斗＆吉田仁人、ユニット曲「罪と罰と雨とキス」リリース 霧雨の中で舞う姿映し出すMVも",
+        "sourceName": "リアルサウンド 音楽",
+        "sourceUrl": "https://realsound.jp/music/feed",
+        "articleUrl": "https://realsound.jp/2026/08/post-2479374.html",
+        "publishedAt": "2026-08-03T11:20:35.000Z",
+        "summary": "M!LKの佐野勇斗と吉田仁人によるユニット曲「罪と罰と雨とキス」が、本日8月3日に配信リリースされた。 M!LK - 罪と罰と雨とキス (佐野勇斗＆吉田仁人) (Official Music Video) あわせて、",
         "groups": [
           "M!LK"
         ],
@@ -126,13 +292,13 @@
         ]
       },
       {
-        "id": "76e6242265d8a01a",
-        "title": "M!LK・佐野勇斗＆吉田仁人、「モー烈モー進！リリースプロジェクト2026」完結を飾る「罪と罰と雨とキス」本日リリース＆MV公開",
-        "sourceName": "BARKS",
-        "sourceUrl": "https://www.barks.jp/feed/",
-        "articleUrl": "https://barks.jp/news/1081199",
-        "publishedAt": "2026-08-03T09:00:00.000Z",
-        "summary": "M!LKの佐野勇斗と吉田仁人が、ユニット曲として「罪と罰と雨とキス」を本日配信リリースした。 「モー烈モー進！リリースプロジェクト2026」の最後を飾る楽曲としてリリースされた本作は、惹かれ合うが決して結ばれることのない宿命に抗って必死に手を伸ばす様を描き、焦燥と湿潤が共存したエモーショナルな楽曲だという。 さらに、本作のジャケット写真は女性漫画家ユニット・",
+        "id": "4c7f1cca22e8df38",
+        "title": "M!LK佐野勇斗＆吉田仁人のユニット曲は「罪と罰と雨とキス」スタダコードが限界突破（!?）なPEACH-PIT描き下ろしメロすぎジャケット解禁",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000856953/",
+        "publishedAt": "2026-08-03T10:42:55.000Z",
+        "summary": "M!LKが展開中のリリース企画「モー烈モー進！リリースプロジェクト2026」より、あらたなリリー...",
         "groups": [
           "M!LK"
         ],
@@ -146,17 +312,29 @@
             "status": "active"
           },
           {
-            "name": "塩﨑太智",
+            "name": "吉田仁人",
             "group": "M!LK",
             "status": "active"
-          },
+          }
+        ]
+      },
+      {
+        "id": "36823efe24fe2894",
+        "title": "M!LK佐野勇斗・吉田仁人のユニット曲「罪と罰と雨とキス」本日リリース！MVも公開",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000857308/",
+        "publishedAt": "2026-08-03T09:00:03.000Z",
+        "summary": "5人組ダンスボーカルグループ・M!LKの佐野勇斗と吉田仁人が、ユニット曲として「罪と罰と雨と...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
           {
-            "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "山中柔太朗",
+            "name": "佐野勇斗",
             "group": "M!LK",
             "status": "active"
           },
@@ -195,13 +373,13 @@
         ]
       },
       {
-        "id": "d60c2de33b861227",
-        "title": "M!LK曽野舜太がプライベートで見せた“激メロ”黒縁メガネ姿に「柔太朗くんに見えた」「彼氏感強すぎて滅」「いつもと雰囲気違う」とファン悶絶",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000857060/",
-        "publishedAt": "2026-08-03T03:33:35.000Z",
-        "summary": "M!LK曽野舜太が自身のInstagramを公開。プライベートショットを披露し、ファンの注目を集めて...",
+        "id": "f24b9a74ba26d74a",
+        "title": "曽野舜太、夢の『仮面ライダー』役で活きたM!LKでの経験明かす 役柄に驚きも「あれ、俺…」",
+        "sourceName": "マイナビニュース 映画",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
+        "articleUrl": "https://news.mynavi.jp/article/20260724-4735976/",
+        "publishedAt": "2026-07-24T11:00:00.000Z",
+        "summary": "ダンスボーカルグループ・M!LKの曽野舜太が23日、映画『仮面ライダーゼッツ さよならのミッション』/映画『超宇宙刑事ギャバン インフィニティ 太陽が泣いた日』(公開中)の公開前夜祭舞台挨拶に登壇。夢だったという『仮面ライダー』出演で活きたM!LKでの経験を明かした。",
         "groups": [
           "M!LK"
         ],
@@ -211,28 +389,6 @@
         "memberMatches": [
           {
             "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "83b42f6ea80d4aae",
-        "title": "M!LK佐野勇斗が“変装なし”で表参道へ！クロムハーツをさらりと着こなす私服姿に「顔が整いすぎてる」「彼氏感メロい」「オーラが隠せてない」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000857073/",
-        "publishedAt": "2026-08-03T01:37:57.000Z",
-        "summary": "M!LKの佐野勇斗が自身のInstagramを更新。家族と買い物を楽しんだ際のプライベートショットを...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
             "group": "M!LK",
             "status": "active"
           }
@@ -312,95 +468,6 @@
         "memberMatches": []
       }
     ],
-    "SUPER★DRAGON": [
-      {
-        "id": "0b633e6d63584644",
-        "title": "SUPER★DRAGON、ガチャピン・ムックと11人でコラボ！「After the summer night」を披露",
-        "sourceName": "WWSチャンネル",
-        "sourceUrl": "https://www.wws-channel.com/feed",
-        "articleUrl": "https://www.wws-channel.com/stage/659618.html",
-        "publishedAt": "2026-08-03T03:00:32.000Z",
-        "summary": "SUPER★DRAGONが、2026年8月1日に東京・ダイバーシティ東京 プラザのフェスティバル広場で開催された「お台場ファンライジング」のスペシャルステージに出演した。「お台場ファンライジング～楽しくアガる！真夏のエンタメ最前線～」は、フジテレビの人気アニメやバラエテ ... The post SUPER★DRAGON、ガチャピン・ムックと11人でコラボ！",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "9f2ebe832f79dcdc",
-        "title": "「EBiDAN THE LIVE 2026 15th Anniversary」最新チケット情報＆追加出演者・SHOOTING ACT解禁",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11472/",
-        "publishedAt": "2026-07-31T02:59:28.000Z",
-        "summary": "「EBiDAN THE LIVE 2026 15th Anniversary」の一般発売が8月1日(土)10:00より受付開始！ また、昨年の「EBiDAN THE LIVE 2025」最終公演で開催を発表した『EBiD […] The post 「EBiDAN THE LIVE 2026 15th Anniversary」最新チケット情報＆追加出演者・SH",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "9d155a894ee85ffa",
-        "title": "「SUPER★DRAGON July SCRATCH 2026」開催のお知らせ！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11460/",
-        "publishedAt": "2026-07-26T03:00:51.000Z",
-        "summary": "7/27(月)21:00より「SUPER★DRAGON July SCRATCH 2026」の開催が決定しました！ +KIRARI完全撮り下ろしのビジュアルです！ ▼SUPER★DRAGON メンバーコミュニティ htt […] The post 「SUPER★DRAGON July SCRATCH 2026」開催のお知らせ！ first appeared ",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "5750d72b61131334",
-        "title": "SUPER★DRAGONジャン海渡 スペシャルライブ欠席のお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11464/",
-        "publishedAt": "2026-07-26T02:29:11.000Z",
-        "summary": "いつもSUPER★DRAGONを応援していただき、誠にありがとうございます。 メンバーのジャン海渡ですが、体調を考慮し、本日開催のMajor 6th Single「Call Me Asap / NUMBER」（愛知県・L […] The post SUPER★DRAGONジャン海渡 スペシャルライブ欠席のお知らせ first appeared on SUPE",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "ジャン海渡",
-            "group": "SUPER★DRAGON",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "05b9cd886105e321",
-        "title": "SUPER★DRAGON 田中洸希 イベント欠席のお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11458/",
-        "publishedAt": "2026-07-25T23:29:07.000Z",
-        "summary": "いつもSUPER★DRAGONを応援していただき、誠にありがとうございます。 メンバーの田中洸希ですが、体調不良の為、本日開催のMajor 6th Single「Call Me Asap / NUMBER」（愛知県・Li […] The post SUPER★DRAGON 田中洸希 イベント欠席のお知らせ first appeared on SUPER★DR",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "田中洸希",
-            "group": "SUPER★DRAGON",
-            "status": "active"
-          }
-        ]
-      }
-    ],
     "BUDDiiS": [
       {
         "id": "ba0aee3b8003dc12",
@@ -415,28 +482,6 @@
         ],
         "statuses": [],
         "memberMatches": []
-      },
-      {
-        "id": "121e4825d59a5e6a",
-        "title": "小川史記＆瀬戸利樹W主演「しもべの王子様」、最終話プレミア先行上映会開催！全国35館でライブビューイング",
-        "sourceName": "WWSチャンネル",
-        "sourceUrl": "https://www.wws-channel.com/feed",
-        "articleUrl": "https://www.wws-channel.com/tv/659378.html",
-        "publishedAt": "2026-08-01T21:30:17.000Z",
-        "summary": "小川史記と瀬戸利樹がW主演を務めるTOKYO MXの金曜ドラマ「しもべの王子様」の最終話プレミア先行上映会が、2026年8月21日に東京・池袋HUMAXシネマズで開催されることが決定した。第2部の模様は、全国35館の映画館でもライブビューイングされる。イベントでは、同日 ... The post 小川史記＆瀬戸利樹W主演「しもべの王子様」、最終話プレミア先行",
-        "groups": [
-          "BUDDiiS"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "FUMINORI",
-            "group": "BUDDiiS",
-            "status": "active"
-          }
-        ]
       },
       {
         "id": "15fb9ee4d3775ce2",
@@ -573,99 +618,6 @@
             "status": "active"
           }
         ]
-      }
-    ],
-    "超特急": [
-      {
-        "id": "59fa057537db8bdf",
-        "title": "『BULLET TRAIN ARENA TOUR 2026 ESCORT』オフィシャルグッズ＆生写真セット 【8/8(土)、8/9(日)Kアリーナ横浜公演】会場販売＆整理券配布のお知らせ",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26419/",
-        "publishedAt": "2026-07-30T10:59:40.000Z",
-        "summary": "「BULLET TRAIN ARENA TOUR 2026 ESCORT」Kアリーナ横浜公演の会場販売が決定しました！ 8/8(土)、8/9(日)Kアリーナ横浜公演では、 熱中症対策・混雑緩和のため、LINEアプリを利用 […]",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "0b4084d913452795",
-        "title": "超特急 東京ドーム公演＜追加公演＞最新チケット情報",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26417/",
-        "publishedAt": "2026-07-30T08:59:39.000Z",
-        "summary": "8月2日(日)10:00より三井ショッピングパーク チケット先着先行がスタート！ ご乗車お待ちしております!!!!!!!!! ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願いと注意事項】 https […]",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "3536c149fc4a800f",
-        "title": "【シューヤ&マサヒロ】超チャーはんイベント開催決定!",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26406/",
-        "publishedAt": "2026-07-25T07:59:44.000Z",
-        "summary": "■【シューヤ＆マサヒロ】超チャーはんイベント開催決定！ 超特急の 11 号車バックボーカル・シューヤと、12 号車メインダンサー・マサヒロからなる YouTube チャンネル「超チャーはん」のチャンネル登録者数が【10 […]",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "シューヤ",
-            "group": "超特急",
-            "status": "active"
-          },
-          {
-            "name": "マサヒロ",
-            "group": "超特急",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "af2ad68505f88d84",
-        "title": "本日より「Freecus」3rd Collectionの一般発売がスタート！",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26403/",
-        "publishedAt": "2026-07-24T02:15:32.000Z",
-        "summary": "超特急・タカシが手掛けるアクセサリー＆ネイルブランド 「Freecus」3rd Collectionが、ついに本日より一般発売となりました！ 発売を記念して、期間限定のPOPUP STOREも開催予定✨ こ […]",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "タカシ",
-            "group": "超特急",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "169857daa9888bb5",
-        "title": "超特急『BULLET TRAIN ARENA TOUR 2026 ESCORT』オフィシャルグッズ＆生写真セット 【8/8 (土)、8/9(日)Kアリーナ横浜公演】〈事前購入・会場受取〉実施のお知らせ",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26385/",
-        "publishedAt": "2026-07-23T08:59:47.000Z",
-        "summary": "「BULLET TRAIN ARENA TOUR 2026 ESCORT」のKアリーナ横浜公演会場にて、 該当公演のチケットをお持ちの方を対象に、会場で受け取り可能なオフィシャルグッズ・生写真セットの〈事前購入・会場受取 […]",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
       }
     ],
     "Lienel": [
