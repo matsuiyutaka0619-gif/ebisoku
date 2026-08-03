@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-08-03T03:54:01.474Z",
+  "updatedAt": "2026-08-03T10:04:59.636Z",
   "totals": {
     "all": 160,
-    "today": 5,
-    "week": 15
+    "today": 7,
+    "week": 17
   },
   "groupRanking": [
     {
-      "name": "EBiDAN",
-      "count": 5
+      "name": "M!LK",
+      "count": 6
     },
     {
-      "name": "M!LK",
-      "count": 4
+      "name": "EBiDAN",
+      "count": 5
     },
     {
       "name": "BUDDiiS",
@@ -34,18 +34,26 @@
   "memberRanking": [
     {
       "name": "佐野勇斗",
+      "count": 5
+    },
+    {
+      "name": "吉田仁人",
       "count": 3
+    },
+    {
+      "name": "曽野舜太",
+      "count": 2
     },
     {
       "name": "FUMINORI",
       "count": 1
     },
     {
-      "name": "吉田仁人",
+      "name": "塩﨑太智",
       "count": 1
     },
     {
-      "name": "曽野舜太",
+      "name": "山中柔太朗",
       "count": 1
     },
     {
@@ -55,33 +63,137 @@
   ],
   "sourceRanking": [
     {
-      "name": "THE FIRST TIMES",
+      "name": "超特急 公式NEWS",
       "count": 4
     },
     {
-      "name": "超特急 公式NEWS",
-      "count": 4
+      "name": "THE FIRST TIMES",
+      "count": 3
     },
     {
       "name": "WWSチャンネル",
       "count": 3
     },
     {
+      "name": "タワーレコード ニュース",
+      "count": 2
+    },
+    {
       "name": "マイナビニュース テレビ",
       "count": 2
     },
     {
-      "name": "SUPER★DRAGON 公式NEWS",
+      "name": "BARKS",
       "count": 1
     },
     {
-      "name": "タワーレコード ニュース",
+      "name": "Bezzy",
+      "count": 1
+    },
+    {
+      "name": "SUPER★DRAGON 公式NEWS",
       "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
     "M!LK": [
+      {
+        "id": "36823efe24fe2894",
+        "title": "M!LK佐野勇斗・吉田仁人のユニット曲「罪と罰と雨とキス」本日リリース！MVも公開",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000857308/",
+        "publishedAt": "2026-08-03T09:00:03.000Z",
+        "summary": "5人組ダンスボーカルグループ・M!LKの佐野勇斗と吉田仁人が、ユニット曲として「罪と罰と雨と...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "76e6242265d8a01a",
+        "title": "M!LK・佐野勇斗＆吉田仁人、「モー烈モー進！リリースプロジェクト2026」完結を飾る「罪と罰と雨とキス」本日リリース＆MV公開",
+        "sourceName": "BARKS",
+        "sourceUrl": "https://www.barks.jp/feed/",
+        "articleUrl": "https://barks.jp/news/1081199",
+        "publishedAt": "2026-08-03T09:00:00.000Z",
+        "summary": "M!LKの佐野勇斗と吉田仁人が、ユニット曲として「罪と罰と雨とキス」を本日配信リリースした。 「モー烈モー進！リリースプロジェクト2026」の最後を飾る楽曲としてリリースされた本作は、惹かれ合うが決して結ばれることのない宿命に抗って必死に手を伸ばす様を描き、焦燥と湿潤が共存したエモーショナルな楽曲だという。 さらに、本作のジャケット写真は女性漫画家ユニット・",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "39c1d3aa3ee9ebd7",
+        "title": "M!LK佐野勇斗＆吉田仁人のユニット曲「罪と罰と雨とキス」MV公開、2人が霧雨と共に舞い踊る",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/08/90103/",
+        "publishedAt": "2026-08-03T09:00:00.000Z",
+        "summary": "5人組ダンスボーカルグループ・M!LKの佐野勇斗と吉田仁人が、本日8月3日(月)にユニット曲「罪と罰と雨とキス」を配信リリースした。 本作は、M!LKの5ヵ月連続新曲リリース企画「モー烈モー進！リリースプロジェクト2026」の最後を飾る一曲。惹かれ合うが決して結ばれることのない宿命に抗って必死に手を伸ばす様を描き、焦燥と湿潤が共存したエモーショナルな楽曲とな",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
       {
         "id": "d60c2de33b861227",
         "title": "M!LK曽野舜太がプライベートで見せた“激メロ”黒縁メガネ姿に「柔太朗くんに見えた」「彼氏感強すぎて滅」「いつもと雰囲気違う」とファン悶絶",
@@ -125,77 +237,79 @@
             "status": "active"
           }
         ]
+      }
+    ],
+    "EBiDAN": [
+      {
+        "id": "a38387e4c72681a9",
+        "title": "8月3日放送「CDTVライブ！ライブ！」、ILLIT、＝LOVE、AKB48、EBiDAN（恵比寿学園男子部）、SUPER EIGHT、STARGLOW、Da-iCE、ME:I、優里出演",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/08/03/tg001",
+        "publishedAt": "2026-08-03T04:50:00.000Z",
+        "summary": "",
+        "groups": [
+          "EBiDAN"
+        ],
+        "statuses": [],
+        "memberMatches": []
       },
       {
-        "id": "4c7f1cca22e8df38",
-        "title": "M!LK佐野勇斗＆吉田仁人のユニット曲は「罪と罰と雨とキス」スタダコードが限界突破（!?）なPEACH-PIT描き下ろしメロすぎジャケット解禁",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000856953/",
-        "publishedAt": "2026-08-02T15:17:43.000Z",
-        "summary": "M!LKが展開中のリリース企画「モー烈モー進！リリースプロジェクト2026」より、あらたなリリー...",
+        "id": "7f7d929f12a54a69",
+        "title": "「EBiDAN THE LIVE 2026 15th Anniversary」SHOOTING ACT決定＆最新チケット情報",
+        "sourceName": "超特急 公式NEWS",
+        "sourceUrl": "https://bullettrain.jp/news/feed/",
+        "articleUrl": "https://bullettrain.jp/news/news26426/",
+        "publishedAt": "2026-07-31T02:59:46.000Z",
+        "summary": "「EBiDAN THE LIVE 2026 15th Anniversary」の一般発売が8月1日(土)10:00より受付開始！ また、昨年の「EBiDAN THE LIVE 2025」最終公演で開催を発表した『EBiD […]",
         "groups": [
-          "M!LK"
+          "EBiDAN"
         ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
+        "statuses": [],
+        "memberMatches": []
       },
       {
-        "id": "9111f467adc200de",
-        "title": "佐野勇斗「僕はテレビに出てはいけない人間」 M!LKメンバーが普段と「ゴチ」で見せる姿の違いを暴露",
-        "sourceName": "マイナビニュース テレビ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-        "articleUrl": "https://news.mynavi.jp/article/20260730-4753438/",
-        "publishedAt": "2026-07-29T22:00:00.000Z",
-        "summary": "「僕はテレビに出てはいけない人間」――佐野勇斗が、きょう30日に放送される日本テレビ系バラエティ番組『ぐるぐるナインティナイン 2時間SP』(19:00～)で突然の告白。M!LKからあみだくじで選ばれたメンバーが「ゴチ」に参戦し、普段の佐野について「めっちゃ真面目」と証言する。",
+        "id": "9f2ebe832f79dcdc",
+        "title": "「EBiDAN THE LIVE 2026 15th Anniversary」最新チケット情報＆追加出演者・SHOOTING ACT解禁",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11472/",
+        "publishedAt": "2026-07-31T02:59:28.000Z",
+        "summary": "「EBiDAN THE LIVE 2026 15th Anniversary」の一般発売が8月1日(土)10:00より受付開始！ また、昨年の「EBiDAN THE LIVE 2025」最終公演で開催を発表した『EBiD […] The post 「EBiDAN THE LIVE 2026 15th Anniversary」最新チケット情報＆追加出演者・SH",
         "groups": [
-          "M!LK"
+          "EBiDAN",
+          "SUPER★DRAGON"
         ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
+        "statuses": [],
+        "memberMatches": []
       },
       {
-        "id": "f24b9a74ba26d74a",
-        "title": "曽野舜太、夢の『仮面ライダー』役で活きたM!LKでの経験明かす 役柄に驚きも「あれ、俺…」",
-        "sourceName": "マイナビニュース 映画",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
-        "articleUrl": "https://news.mynavi.jp/article/20260724-4735976/",
-        "publishedAt": "2026-07-24T11:00:00.000Z",
-        "summary": "ダンスボーカルグループ・M!LKの曽野舜太が23日、映画『仮面ライダーゼッツ さよならのミッション』/映画『超宇宙刑事ギャバン インフィニティ 太陽が泣いた日』(公開中)の公開前夜祭舞台挨拶に登壇。夢だったという『仮面ライダー』出演で活きたM!LKでの経験を明かした。",
+        "id": "dd61accdbf882afb",
+        "title": "「Yes! 駆け込め! 僕らのEBiSTORE」の開催が決定！",
+        "sourceName": "超特急 公式NEWS",
+        "sourceUrl": "https://bullettrain.jp/news/feed/",
+        "articleUrl": "https://bullettrain.jp/news/news26410/",
+        "publishedAt": "2026-07-31T01:59:58.000Z",
+        "summary": "EBiDAN15周年記念シングル「Yes! 東京」リリース＆『EBiDAN THE LIVE 2026 15th Anniversary』の開催を記念してSHIBUYA TSUTAYAにてコラボレーションカフェ「Yes! […]",
         "groups": [
-          "M!LK"
+          "EBiDAN"
         ],
-        "statuses": [
-          "active"
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "68a07ce857ec6b5b",
+        "title": "「J-POPシングル ウィークリーTOP30」発表。1位はtimelesz『消えない花火』、予約1位はEBiDAN（恵比寿学園男子部）『Yes! 東京』（2026年7月30日付）",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/07/30/tg004",
+        "publishedAt": "2026-07-30T10:00:00.000Z",
+        "summary": "",
+        "groups": [
+          "EBiDAN"
         ],
-        "memberMatches": [
-          {
-            "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
+        "statuses": [],
+        "memberMatches": []
       }
     ],
     "SUPER★DRAGON": [
@@ -285,79 +399,6 @@
             "status": "active"
           }
         ]
-      }
-    ],
-    "EBiDAN": [
-      {
-        "id": "16fb5fc0d23dd834",
-        "title": "【今夜放送『CDTVライブ！ライブ！』出演者＆歌唱曲】ILLIT、EBiDAN、STARGLOW、Da-iCE、優里ら登場",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000853788/",
-        "publishedAt": "2026-08-03T00:05:05.000Z",
-        "summary": "本日8月3日19時から、2時間にわたってTBS『CDTVライブ！ライブ！』が放送される。 ■出演アーテ...",
-        "groups": [
-          "EBiDAN"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "7f7d929f12a54a69",
-        "title": "「EBiDAN THE LIVE 2026 15th Anniversary」SHOOTING ACT決定＆最新チケット情報",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26426/",
-        "publishedAt": "2026-07-31T02:59:46.000Z",
-        "summary": "「EBiDAN THE LIVE 2026 15th Anniversary」の一般発売が8月1日(土)10:00より受付開始！ また、昨年の「EBiDAN THE LIVE 2025」最終公演で開催を発表した『EBiD […]",
-        "groups": [
-          "EBiDAN"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "9f2ebe832f79dcdc",
-        "title": "「EBiDAN THE LIVE 2026 15th Anniversary」最新チケット情報＆追加出演者・SHOOTING ACT解禁",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11472/",
-        "publishedAt": "2026-07-31T02:59:28.000Z",
-        "summary": "「EBiDAN THE LIVE 2026 15th Anniversary」の一般発売が8月1日(土)10:00より受付開始！ また、昨年の「EBiDAN THE LIVE 2025」最終公演で開催を発表した『EBiD […] The post 「EBiDAN THE LIVE 2026 15th Anniversary」最新チケット情報＆追加出演者・SH",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "dd61accdbf882afb",
-        "title": "「Yes! 駆け込め! 僕らのEBiSTORE」の開催が決定！",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26410/",
-        "publishedAt": "2026-07-31T01:59:58.000Z",
-        "summary": "EBiDAN15周年記念シングル「Yes! 東京」リリース＆『EBiDAN THE LIVE 2026 15th Anniversary』の開催を記念してSHIBUYA TSUTAYAにてコラボレーションカフェ「Yes! […]",
-        "groups": [
-          "EBiDAN"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "68a07ce857ec6b5b",
-        "title": "「J-POPシングル ウィークリーTOP30」発表。1位はtimelesz『消えない花火』、予約1位はEBiDAN（恵比寿学園男子部）『Yes! 東京』（2026年7月30日付）",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/07/30/tg004",
-        "publishedAt": "2026-07-30T10:00:00.000Z",
-        "summary": "",
-        "groups": [
-          "EBiDAN"
-        ],
-        "statuses": [],
-        "memberMatches": []
       }
     ],
     "BUDDiiS": [

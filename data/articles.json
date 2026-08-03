@@ -1,6 +1,116 @@
 {
-  "updatedAt": "2026-08-03T03:54:01.472Z",
+  "updatedAt": "2026-08-03T10:04:59.635Z",
   "articles": [
+    {
+      "id": "36823efe24fe2894",
+      "title": "M!LK佐野勇斗・吉田仁人のユニット曲「罪と罰と雨とキス」本日リリース！MVも公開",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000857308/",
+      "publishedAt": "2026-08-03T09:00:03.000Z",
+      "summary": "5人組ダンスボーカルグループ・M!LKの佐野勇斗と吉田仁人が、ユニット曲として「罪と罰と雨と...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "76e6242265d8a01a",
+      "title": "M!LK・佐野勇斗＆吉田仁人、「モー烈モー進！リリースプロジェクト2026」完結を飾る「罪と罰と雨とキス」本日リリース＆MV公開",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1081199",
+      "publishedAt": "2026-08-03T09:00:00.000Z",
+      "summary": "M!LKの佐野勇斗と吉田仁人が、ユニット曲として「罪と罰と雨とキス」を本日配信リリースした。 「モー烈モー進！リリースプロジェクト2026」の最後を飾る楽曲としてリリースされた本作は、惹かれ合うが決して結ばれることのない宿命に抗って必死に手を伸ばす様を描き、焦燥と湿潤が共存したエモーショナルな楽曲だという。 さらに、本作のジャケット写真は女性漫画家ユニット・",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "塩﨑太智",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "曽野舜太",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "39c1d3aa3ee9ebd7",
+      "title": "M!LK佐野勇斗＆吉田仁人のユニット曲「罪と罰と雨とキス」MV公開、2人が霧雨と共に舞い踊る",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/08/90103/",
+      "publishedAt": "2026-08-03T09:00:00.000Z",
+      "summary": "5人組ダンスボーカルグループ・M!LKの佐野勇斗と吉田仁人が、本日8月3日(月)にユニット曲「罪と罰と雨とキス」を配信リリースした。 本作は、M!LKの5ヵ月連続新曲リリース企画「モー烈モー進！リリースプロジェクト2026」の最後を飾る一曲。惹かれ合うが決して結ばれることのない宿命に抗って必死に手を伸ばす様を描き、焦燥と湿潤が共存したエモーショナルな楽曲とな",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "a38387e4c72681a9",
+      "title": "8月3日放送「CDTVライブ！ライブ！」、ILLIT、＝LOVE、AKB48、EBiDAN（恵比寿学園男子部）、SUPER EIGHT、STARGLOW、Da-iCE、ME:I、優里出演",
+      "sourceName": "タワーレコード ニュース",
+      "sourceUrl": "https://tower.jp/feeds/article/news",
+      "articleUrl": "https://tower.jp/article/news/2026/08/03/tg001",
+      "publishedAt": "2026-08-03T04:50:00.000Z",
+      "summary": "",
+      "groups": [
+        "EBiDAN"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "d60c2de33b861227",
       "title": "M!LK曽野舜太がプライベートで見せた“激メロ”黒縁メガネ姿に「柔太朗くんに見えた」「彼氏感強すぎて滅」「いつもと雰囲気違う」とファン悶絶",
@@ -54,47 +164,6 @@
       "memberMatches": [
         {
           "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "16fb5fc0d23dd834",
-      "title": "【今夜放送『CDTVライブ！ライブ！』出演者＆歌唱曲】ILLIT、EBiDAN、STARGLOW、Da-iCE、優里ら登場",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000853788/",
-      "publishedAt": "2026-08-03T00:05:05.000Z",
-      "summary": "本日8月3日19時から、2時間にわたってTBS『CDTVライブ！ライブ！』が放送される。 ■出演アーテ...",
-      "groups": [
-        "EBiDAN"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "4c7f1cca22e8df38",
-      "title": "M!LK佐野勇斗＆吉田仁人のユニット曲は「罪と罰と雨とキス」スタダコードが限界突破（!?）なPEACH-PIT描き下ろしメロすぎジャケット解禁",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000856953/",
-      "publishedAt": "2026-08-02T15:17:43.000Z",
-      "summary": "M!LKが展開中のリリース企画「モー烈モー進！リリースプロジェクト2026」より、あらたなリリー...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "吉田仁人",
           "group": "M!LK",
           "status": "active"
         }
@@ -413,20 +482,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "3f5a33baf834ec9a",
-      "title": "M!LK、「『装苑』2026年9月号」表紙＆巻頭飾る",
-      "sourceName": "タワーレコード ニュース",
-      "sourceUrl": "https://tower.jp/feeds/article/news",
-      "articleUrl": "https://tower.jp/article/news/2026/07/24/tgb004",
-      "publishedAt": "2026-07-24T05:00:00.000Z",
-      "summary": "",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "143d7c83523956de",
@@ -2690,20 +2745,6 @@
       "summary": "2026年8月11日(火・祝)に発売のEBiDAN15周年記念シングル「Yes! 東京」のリリースイベント『Yes! 飛び出せ! 僕らの移動教室』の開催が決定いたしました。 15周年の特別な節目を、皆さまと一緒に最高に盛 […] The post EBiDAN15周年記念シングル「Yes! 東京」発売記念リリースイベント『Yes! 飛び出せ! 僕らの移動教室",
       "groups": [
         "EBiDAN",
-        "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "53b96b1754a45768",
-      "title": "SUPER★DRAGON LIVE TOUR 2026 「Studio」オフィシャルグッズ、ミニ生写真セット 事後通販決定！",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news10954/",
-      "publishedAt": "2026-05-14T09:59:04.000Z",
-      "summary": "SUPER★DRAGON LIVE TOUR 2026 「Studio」オフィシャルグッズ、ミニ生写真セットの事後通販が決定しました！ 残りわずかな商品もございますので、この機会をお見逃しなく！！ 【販売期 […] The post SUPER★DRAGON LIVE TOUR 2026 「Studio」オフィシャルグッズ、ミニ生写真セット 事後通販決定！ ",
-      "groups": [
         "SUPER★DRAGON"
       ],
       "statuses": [],
