@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-04T09:06:39.514Z",
+  "updatedAt": "2026-08-04T14:39:04.605Z",
   "totals": {
     "all": 160,
-    "today": 16,
-    "week": 27
+    "today": 15,
+    "week": 25
   },
   "groupRanking": [
     {
@@ -15,12 +15,12 @@
       "count": 7
     },
     {
-      "name": "SUPER★DRAGON",
-      "count": 6
+      "name": "超特急",
+      "count": 7
     },
     {
-      "name": "超特急",
-      "count": 6
+      "name": "SUPER★DRAGON",
+      "count": 5
     },
     {
       "name": "原因は自分にある。",
@@ -49,10 +49,6 @@
       "count": 1
     },
     {
-      "name": "池田彪馬",
-      "count": 1
-    },
-    {
       "name": "武藤潤",
       "count": 1
     }
@@ -63,23 +59,19 @@
       "count": 9
     },
     {
+      "name": "THE FIRST TIMES",
+      "count": 5
+    },
+    {
       "name": "SUPER★DRAGON 公式NEWS",
       "count": 4
     },
     {
-      "name": "THE FIRST TIMES",
-      "count": 4
+      "name": "WWSチャンネル",
+      "count": 2
     },
     {
       "name": "タワーレコード ニュース",
-      "count": 3
-    },
-    {
-      "name": "リアルサウンド 音楽",
-      "count": 3
-    },
-    {
-      "name": "WWSチャンネル",
       "count": 2
     },
     {
@@ -89,34 +81,26 @@
     {
       "name": "マイナビニュース テレビ",
       "count": 1
+    },
+    {
+      "name": "リアルサウンド 音楽",
+      "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
-    "M!LK": [
+    "EBiDAN": [
       {
-        "id": "d474dd735c65d2c0",
-        "title": "『ドラゴンボール』に通ずる？ アイデンティティ 田島直弥、Mr.Childrenから受けた感銘とM!LKの凄み",
-        "sourceName": "リアルサウンド 音楽",
-        "sourceUrl": "https://realsound.jp/music/feed",
-        "articleUrl": "https://realsound.jp/2026/08/post-2477008.html",
-        "publishedAt": "2026-08-04T09:00:11.000Z",
-        "summary": "『ドラゴンボール』シリーズの孫悟空の声優として知られる、野沢雅子のモノマネで話題のアイデンティティ 田島直弥。“歌ネタ”も多く披露しており、Mr.Childrenの大ファンとしても知られている田島に、Mr.Children愛や最近ハマっているアーティストについて聞いた。",
+        "id": "0dbdd1f9f6fad6b2",
+        "title": "『EBiDAN THE LIVE 2026』冒頭2曲の無料配信決定！超特急、M!LKら各グループの公式Xアカウント他12ヵ所で配信",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000858243/",
+        "publishedAt": "2026-08-04T10:12:18.000Z",
+        "summary": "8月13日から16日に開催される『EBiDAN THE LIVE 2026 15th Anniversary』に向けた、EBiDAN×UNE...",
         "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "bbfa9119bd6a4d36",
-        "title": "M!LKの真価はカップリング＆アルバム曲にあり？ 「テレパシー」「コトノハ」……躍進を支える名曲たち",
-        "sourceName": "リアルサウンド 音楽",
-        "sourceUrl": "https://realsound.jp/music/feed",
-        "articleUrl": "https://realsound.jp/2026/08/post-2472653.html",
-        "publishedAt": "2026-08-04T08:00:44.000Z",
-        "summary": "「好きすぎて滅！」や「爆裂愛してる」をきっかけに、ダンスボーカルグループ・M!LKが気になり始めた人も多いのではないだろうか。そんな今だからこそぜひ聴いてほしいのが、彼らのカップリング楽曲とアルバム収録曲だ。今こそ、広く知られるべき――そんな使命感を胸に、今回は全力でプレゼンさせていただきたい。",
-        "groups": [
+          "EBiDAN",
+          "超特急",
           "M!LK"
         ],
         "statuses": [],
@@ -138,48 +122,66 @@
         "memberMatches": []
       },
       {
-        "id": "2ef09135b8a7a0ce",
-        "title": "M!LK 5人が頭を縦一列に並べた“密着ショット”が話題！“好き”を取り入れたスタイリングにも注目「神ビジュ」「ドカメロ」「だいちゃんピンク似合う」「アヒル口の仁人たまらん」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000857966/",
-        "publishedAt": "2026-08-04T04:50:34.000Z",
-        "summary": "『装苑』の公式SNSで、M!LKの撮影メイキングが公開され、ファンの注目を集めている。『装苑』...",
+        "id": "ab2d8ee93a167bf9",
+        "title": "EBiDAN THE LIVE 2026 15th Anniversary 定価トレード情報",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11497/",
+        "publishedAt": "2026-08-04T02:59:36.000Z",
+        "summary": "「EBiDAN THE LIVE 2026 15th Anniversary」のチケットをお持ちで、 ご都合が悪くなったお客様のために8月5日(水)21:00より先着順にてチケットトレードの実施が決定いたしました。 トレ […] The post EBiDAN THE LIVE 2026 15th Anniversary 定価トレード情報 first app",
         "groups": [
-          "M!LK"
+          "EBiDAN",
+          "SUPER★DRAGON"
         ],
         "statuses": [],
         "memberMatches": []
       },
       {
-        "id": "7812b324a6472993",
-        "title": "佐野勇斗＆吉田仁人（M!LK）、「モー烈モー進！リリースプロジェクト2026」完結飾る“罪と罰と雨とキス”配信リリース＆MV公開",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/08/04/tg007",
-        "publishedAt": "2026-08-04T04:50:00.000Z",
-        "summary": "",
+        "id": "ed6534bcb3fda4a4",
+        "title": "EBiDAN THE LIVE 2026 15th Anniversary 定価トレード情報",
+        "sourceName": "超特急 公式NEWS",
+        "sourceUrl": "https://bullettrain.jp/news/feed/",
+        "articleUrl": "https://bullettrain.jp/news/news26445/",
+        "publishedAt": "2026-08-04T02:54:14.000Z",
+        "summary": "「EBiDAN THE LIVE 2026 15th Anniversary」のチケットをお持ちで、 ご都合が悪くなったお客様のために8月5日(水)21:00より先着順にてチケットトレードの実施が決定いたしました。 トレ […]",
         "groups": [
-          "M!LK"
+          "EBiDAN"
         ],
-        "statuses": [
-          "active"
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "77df3b53818135f9",
+        "title": "「EBiDAN THE LIVE 2026 15th Anniversary」にてファンクラブブース実施決定！",
+        "sourceName": "超特急 公式NEWS",
+        "sourceUrl": "https://bullettrain.jp/news/feed/",
+        "articleUrl": "https://bullettrain.jp/news/news26440/",
+        "publishedAt": "2026-08-04T01:42:01.000Z",
+        "summary": "8月13日(木)〜8月16日(日) 開催「EBiDAN THE LIVE 2026 15th Anniversary」にて、ファンクラブブースの実施が決定！ EBiDANオフィシャルサイトと、ご入会中のグループファンクラ […]",
+        "groups": [
+          "EBiDAN"
         ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
+        "statuses": [],
+        "memberMatches": []
       }
     ],
     "超特急": [
+      {
+        "id": "0dbdd1f9f6fad6b2",
+        "title": "『EBiDAN THE LIVE 2026』冒頭2曲の無料配信決定！超特急、M!LKら各グループの公式Xアカウント他12ヵ所で配信",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000858243/",
+        "publishedAt": "2026-08-04T10:12:18.000Z",
+        "summary": "8月13日から16日に開催される『EBiDAN THE LIVE 2026 15th Anniversary』に向けた、EBiDAN×UNE...",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
       {
         "id": "5984104a63a6de2a",
         "title": "超特急「BULLET TRAIN ARENA TOUR 2026 ESCORT」【Kアリーナ横浜公演】機材席開放一般発売 実施決定！",
@@ -256,23 +258,39 @@
         ],
         "statuses": [],
         "memberMatches": []
-      },
+      }
+    ],
+    "M!LK": [
       {
-        "id": "59fa057537db8bdf",
-        "title": "『BULLET TRAIN ARENA TOUR 2026 ESCORT』オフィシャルグッズ＆生写真セット 【8/8(土)、8/9(日)Kアリーナ横浜公演】会場販売＆整理券配布のお知らせ",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26419/",
-        "publishedAt": "2026-07-30T10:59:40.000Z",
-        "summary": "「BULLET TRAIN ARENA TOUR 2026 ESCORT」Kアリーナ横浜公演の会場販売が決定しました！ 8/8(土)、8/9(日)Kアリーナ横浜公演では、 熱中症対策・混雑緩和のため、LINEアプリを利用 […]",
+        "id": "0dbdd1f9f6fad6b2",
+        "title": "『EBiDAN THE LIVE 2026』冒頭2曲の無料配信決定！超特急、M!LKら各グループの公式Xアカウント他12ヵ所で配信",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000858243/",
+        "publishedAt": "2026-08-04T10:12:18.000Z",
+        "summary": "8月13日から16日に開催される『EBiDAN THE LIVE 2026 15th Anniversary』に向けた、EBiDAN×UNE...",
         "groups": [
-          "超特急"
+          "EBiDAN",
+          "超特急",
+          "M!LK"
         ],
         "statuses": [],
         "memberMatches": []
-      }
-    ],
-    "EBiDAN": [
+      },
+      {
+        "id": "d474dd735c65d2c0",
+        "title": "『ドラゴンボール』に通ずる？ アイデンティティ 田島直弥、Mr.Childrenから受けた感銘とM!LKの凄み",
+        "sourceName": "リアルサウンド 音楽",
+        "sourceUrl": "https://realsound.jp/music/feed",
+        "articleUrl": "https://realsound.jp/2026/08/post-2477008.html",
+        "publishedAt": "2026-08-04T09:00:11.000Z",
+        "summary": "『ドラゴンボール』シリーズの孫悟空の声優として知られる、野沢雅子のモノマネで話題のアイデンティティ 田島直弥。“歌ネタ”も多く披露しており、Mr.Childrenの大ファンとしても知られている田島に、Mr.Children愛や最近ハマっているアーティストについて聞いた。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
       {
         "id": "6f339cb8e4eb8151",
         "title": "M!LK5人が白ブレザー制服姿でEBiDAN「Yes! 東京」ソロダンスを披露！「柔太朗くん天然スポットライトで輝いてる」「暴れてるけど実はダンスがうまい塩さん」「佐野くんイケメンの照れ隠しみたい」",
@@ -289,61 +307,45 @@
         "memberMatches": []
       },
       {
-        "id": "ab2d8ee93a167bf9",
-        "title": "EBiDAN THE LIVE 2026 15th Anniversary 定価トレード情報",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11497/",
-        "publishedAt": "2026-08-04T02:59:36.000Z",
-        "summary": "「EBiDAN THE LIVE 2026 15th Anniversary」のチケットをお持ちで、 ご都合が悪くなったお客様のために8月5日(水)21:00より先着順にてチケットトレードの実施が決定いたしました。 トレ […] The post EBiDAN THE LIVE 2026 15th Anniversary 定価トレード情報 first app",
+        "id": "2ef09135b8a7a0ce",
+        "title": "M!LK 5人が頭を縦一列に並べた“密着ショット”が話題！“好き”を取り入れたスタイリングにも注目「神ビジュ」「ドカメロ」「だいちゃんピンク似合う」「アヒル口の仁人たまらん」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000857966/",
+        "publishedAt": "2026-08-04T04:50:34.000Z",
+        "summary": "『装苑』の公式SNSで、M!LKの撮影メイキングが公開され、ファンの注目を集めている。『装苑』...",
         "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
+          "M!LK"
         ],
         "statuses": [],
         "memberMatches": []
       },
       {
-        "id": "ed6534bcb3fda4a4",
-        "title": "EBiDAN THE LIVE 2026 15th Anniversary 定価トレード情報",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26445/",
-        "publishedAt": "2026-08-04T02:54:14.000Z",
-        "summary": "「EBiDAN THE LIVE 2026 15th Anniversary」のチケットをお持ちで、 ご都合が悪くなったお客様のために8月5日(水)21:00より先着順にてチケットトレードの実施が決定いたしました。 トレ […]",
+        "id": "7812b324a6472993",
+        "title": "佐野勇斗＆吉田仁人（M!LK）、「モー烈モー進！リリースプロジェクト2026」完結飾る“罪と罰と雨とキス”配信リリース＆MV公開",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/08/04/tg007",
+        "publishedAt": "2026-08-04T04:50:00.000Z",
+        "summary": "",
         "groups": [
-          "EBiDAN"
+          "M!LK"
         ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "77df3b53818135f9",
-        "title": "「EBiDAN THE LIVE 2026 15th Anniversary」にてファンクラブブース実施決定！",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26440/",
-        "publishedAt": "2026-08-04T01:42:01.000Z",
-        "summary": "8月13日(木)〜8月16日(日) 開催「EBiDAN THE LIVE 2026 15th Anniversary」にて、ファンクラブブースの実施が決定！ EBiDANオフィシャルサイトと、ご入会中のグループファンクラ […]",
-        "groups": [
-          "EBiDAN"
+        "statuses": [
+          "active"
         ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "daa638de280a7aa9",
-        "title": "【+KIRARI】「EBiDAN THE LIVE 2026 15th Anniversary」スクラッチ開催のお知らせ!!!",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26437/",
-        "publishedAt": "2026-08-04T01:36:09.000Z",
-        "summary": "「EBiDAN THE LIVE 2026 15th Anniversary」の開催を記念して、+KIRARI会員の方であればどなたでもご参加いただけるスクラッチを開催！ 開催期間を2回に分け、「EBiDAN Style […]",
-        "groups": [
-          "EBiDAN"
-        ],
-        "statuses": [],
-        "memberMatches": []
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
       }
     ],
     "SUPER★DRAGON": [
@@ -361,28 +363,6 @@
         ],
         "statuses": [],
         "memberMatches": []
-      },
-      {
-        "id": "cdabaa9d3c004fe0",
-        "title": "SUPER★DRAGON 池田彪馬、Hyoma Ikeda名義でのソロプロジェクト始動 1stミニアルバムリリース",
-        "sourceName": "リアルサウンド 音楽",
-        "sourceUrl": "https://realsound.jp/music/feed",
-        "articleUrl": "https://realsound.jp/2026/08/post-2480438.html",
-        "publishedAt": "2026-08-04T02:27:28.000Z",
-        "summary": "SUPER★DRAGONの池田彪馬が、Hyoma Ikeda名義でのソロプロジェクトを始動。アーティスト写真およびロゴも公開となった。 公開されたアーティスト写真は、“オリエンタルシネマ”をテーマに、紫の色彩の中で艶",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "池田彪馬",
-            "group": "SUPER★DRAGON",
-            "status": "active"
-          }
-        ]
       },
       {
         "id": "777702b6f3f4719a",
@@ -423,6 +403,21 @@
         "publishedAt": "2026-08-03T03:00:32.000Z",
         "summary": "SUPER★DRAGONが、2026年8月1日に東京・ダイバーシティ東京 プラザのフェスティバル広場で開催された「お台場ファンライジング」のスペシャルステージに出演した。「お台場ファンライジング～楽しくアガる！真夏のエンタメ最前線～」は、フジテレビの人気アニメやバラエテ ... The post SUPER★DRAGON、ガチャピン・ムックと11人でコラボ！",
         "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "9f2ebe832f79dcdc",
+        "title": "「EBiDAN THE LIVE 2026 15th Anniversary」最新チケット情報＆追加出演者・SHOOTING ACT解禁",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11472/",
+        "publishedAt": "2026-07-31T02:59:28.000Z",
+        "summary": "「EBiDAN THE LIVE 2026 15th Anniversary」の一般発売が8月1日(土)10:00より受付開始！ また、昨年の「EBiDAN THE LIVE 2025」最終公演で開催を発表した『EBiD […] The post 「EBiDAN THE LIVE 2026 15th Anniversary」最新チケット情報＆追加出演者・SH",
+        "groups": [
+          "EBiDAN",
           "SUPER★DRAGON"
         ],
         "statuses": [],

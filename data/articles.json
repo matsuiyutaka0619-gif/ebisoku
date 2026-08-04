@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-08-04T09:06:39.511Z",
+  "updatedAt": "2026-08-04T14:39:04.603Z",
   "articles": [
+    {
+      "id": "0dbdd1f9f6fad6b2",
+      "title": "『EBiDAN THE LIVE 2026』冒頭2曲の無料配信決定！超特急、M!LKら各グループの公式Xアカウント他12ヵ所で配信",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000858243/",
+      "publishedAt": "2026-08-04T10:12:18.000Z",
+      "summary": "8月13日から16日に開催される『EBiDAN THE LIVE 2026 15th Anniversary』に向けた、EBiDAN×UNE...",
+      "groups": [
+        "EBiDAN",
+        "超特急",
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "d474dd735c65d2c0",
       "title": "『ドラゴンボール』に通ずる？ アイデンティティ 田島直弥、Mr.Childrenから受けた感銘とM!LKの凄み",
@@ -25,20 +41,6 @@
       "summary": "完売していたKアリーナ横浜公演ですが、ステージプラン確定に伴い若干数の機材席開放販売が決定いたしました！ 8月7日(金)21:00より販売スタート！ ご乗車お待ちしております!!!!!!!!! ※重要：お申込み前に必ずご […]",
       "groups": [
         "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "bbfa9119bd6a4d36",
-      "title": "M!LKの真価はカップリング＆アルバム曲にあり？ 「テレパシー」「コトノハ」……躍進を支える名曲たち",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/08/post-2472653.html",
-      "publishedAt": "2026-08-04T08:00:44.000Z",
-      "summary": "「好きすぎて滅！」や「爆裂愛してる」をきっかけに、ダンスボーカルグループ・M!LKが気になり始めた人も多いのではないだろうか。そんな今だからこそぜひ聴いてほしいのが、彼らのカップリング楽曲とアルバム収録曲だ。今こそ、広く知られるべき――そんな使命感を胸に、今回は全力でプレゼンさせていただきたい。",
-      "groups": [
-        "M!LK"
       ],
       "statuses": [],
       "memberMatches": []
@@ -181,28 +183,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "cdabaa9d3c004fe0",
-      "title": "SUPER★DRAGON 池田彪馬、Hyoma Ikeda名義でのソロプロジェクト始動 1stミニアルバムリリース",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/08/post-2480438.html",
-      "publishedAt": "2026-08-04T02:27:28.000Z",
-      "summary": "SUPER★DRAGONの池田彪馬が、Hyoma Ikeda名義でのソロプロジェクトを始動。アーティスト写真およびロゴも公開となった。 公開されたアーティスト写真は、“オリエンタルシネマ”をテーマに、紫の色彩の中で艶",
-      "groups": [
-        "SUPER★DRAGON"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "池田彪馬",
-          "group": "SUPER★DRAGON",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "77df3b53818135f9",
@@ -428,20 +408,6 @@
       "summary": "「BULLET TRAIN ARENA TOUR 2026 ESCORT」Kアリーナ横浜公演の会場販売が決定しました！ 8/8(土)、8/9(日)Kアリーナ横浜公演では、 熱中症対策・混雑緩和のため、LINEアプリを利用 […]",
       "groups": [
         "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "68a07ce857ec6b5b",
-      "title": "「J-POPシングル ウィークリーTOP30」発表。1位はtimelesz『消えない花火』、予約1位はEBiDAN（恵比寿学園男子部）『Yes! 東京』（2026年7月30日付）",
-      "sourceName": "タワーレコード ニュース",
-      "sourceUrl": "https://tower.jp/feeds/article/news",
-      "articleUrl": "https://tower.jp/article/news/2026/07/30/tg004",
-      "publishedAt": "2026-07-30T10:00:00.000Z",
-      "summary": "",
-      "groups": [
-        "EBiDAN"
       ],
       "statuses": [],
       "memberMatches": []
@@ -2709,6 +2675,47 @@
       "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して、8月11日(火・祝)にリリースするシングル「Yes! 東京」のジャケット写真を公開！今作は通常盤、グループ盤、15周年盤の計15形態での発売となり、その中でも通常盤 […]",
       "groups": [
         "EBiDAN"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "00e2bc9ec2540469",
+      "title": "超特急のシューヤ＆マサヒロが初めてプロデュースするライフスタイルブランド「ROOM614（ルームロクイチヨン）」が誕生。",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26146/",
+      "publishedAt": "2026-05-22T07:19:32.000Z",
+      "summary": "ブランド名「ROOM614」は、シューヤ・マサヒロが2人で過ごしたハワイのホテルのある一室から由来。 日常の中で、“僕らを近くに感じてもらいたい”、“僕ら自身もみなさんに寄り添っていきたい”そんな二人の想いから生まれまし […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "シューヤ",
+          "group": "超特急",
+          "status": "active"
+        },
+        {
+          "name": "マサヒロ",
+          "group": "超特急",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "6a4f4b776bc3a136",
+      "title": "Major 6th Single「Call Me Asap / NUMBER」楽天ブックスにてオンライン予約抽選会開催！",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news11007/",
+      "publishedAt": "2026-05-21T09:00:42.000Z",
+      "summary": "SUPER★DRAGON Major 6th Single「Call Me Asap / NUMBER」発売を記念してラッキードローの実施が決定いたしました！ 対象商品を楽天ブックスにて期間中にご購入いただいた方の中から […] The post Major 6th Single「Call Me Asap / NUMBER」楽天ブックスにてオンライン予約抽選",
+      "groups": [
+        "SUPER★DRAGON"
       ],
       "statuses": [],
       "memberMatches": []
