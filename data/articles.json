@@ -1,6 +1,200 @@
 {
-  "updatedAt": "2026-08-03T19:57:13.152Z",
+  "updatedAt": "2026-08-04T03:36:09.518Z",
   "articles": [
+    {
+      "id": "ab2d8ee93a167bf9",
+      "title": "EBiDAN THE LIVE 2026 15th Anniversary 定価トレード情報",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news11497/",
+      "publishedAt": "2026-08-04T02:59:36.000Z",
+      "summary": "「EBiDAN THE LIVE 2026 15th Anniversary」のチケットをお持ちで、 ご都合が悪くなったお客様のために8月5日(水)21:00より先着順にてチケットトレードの実施が決定いたしました。 トレ […] The post EBiDAN THE LIVE 2026 15th Anniversary 定価トレード情報 first app",
+      "groups": [
+        "EBiDAN",
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "ed6534bcb3fda4a4",
+      "title": "EBiDAN THE LIVE 2026 15th Anniversary 定価トレード情報",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26445/",
+      "publishedAt": "2026-08-04T02:54:14.000Z",
+      "summary": "「EBiDAN THE LIVE 2026 15th Anniversary」のチケットをお持ちで、 ご都合が悪くなったお客様のために8月5日(水)21:00より先着順にてチケットトレードの実施が決定いたしました。 トレ […]",
+      "groups": [
+        "EBiDAN"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "cdabaa9d3c004fe0",
+      "title": "SUPER★DRAGON 池田彪馬、Hyoma Ikeda名義でのソロプロジェクト始動 1stミニアルバムリリース",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/08/post-2480438.html",
+      "publishedAt": "2026-08-04T02:27:28.000Z",
+      "summary": "SUPER★DRAGONの池田彪馬が、Hyoma Ikeda名義でのソロプロジェクトを始動。アーティスト写真およびロゴも公開となった。 公開されたアーティスト写真は、“オリエンタルシネマ”をテーマに、紫の色彩の中で艶",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "池田彪馬",
+          "group": "SUPER★DRAGON",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "9f8398ef8b3db71a",
+      "title": "M!LK佐野勇斗＆吉田仁人が新曲ユニットのショートダンス披露！「ふたりならではの色気」「キンキとかポルノみたいで懐かしさも感じる」「最高に美しい」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000857783/",
+      "publishedAt": "2026-08-04T02:26:47.000Z",
+      "summary": "M!LK公式SNSにて、佐野勇斗と吉田仁人のユニット曲「罪と罰と雨とキス」のショートダンス動画...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "2476e2e86685b212",
+      "title": "M!LK山中柔太朗のアンニュイな“寝そべり”ショットに反響！前髪をはらりと下ろした最新ビジュアルに「美しすぎてAIかと思った」「絵画？」「これが国宝級イケメンか」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000857805/",
+      "publishedAt": "2026-08-04T02:14:33.000Z",
+      "summary": "M!LKの山中柔太朗が自身のSNSを更新。個人YouTubeチャンネル『劇場版 じゅうたろう』に投稿し...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "77df3b53818135f9",
+      "title": "「EBiDAN THE LIVE 2026 15th Anniversary」にてファンクラブブース実施決定！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26440/",
+      "publishedAt": "2026-08-04T01:42:01.000Z",
+      "summary": "8月13日(木)〜8月16日(日) 開催「EBiDAN THE LIVE 2026 15th Anniversary」にて、ファンクラブブースの実施が決定！ EBiDANオフィシャルサイトと、ご入会中のグループファンクラ […]",
+      "groups": [
+        "EBiDAN"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "daa638de280a7aa9",
+      "title": "【+KIRARI】「EBiDAN THE LIVE 2026 15th Anniversary」スクラッチ開催のお知らせ!!!",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26437/",
+      "publishedAt": "2026-08-04T01:36:09.000Z",
+      "summary": "「EBiDAN THE LIVE 2026 15th Anniversary」の開催を記念して、+KIRARI会員の方であればどなたでもご参加いただけるスクラッチを開催！ 開催期間を2回に分け、「EBiDAN Style […]",
+      "groups": [
+        "EBiDAN"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "5b28d2a488710126",
+      "title": "『a-nation 2026』第1弾出演アーティストにEXILE、浜崎あゆみ、超特急、FANTASTICSら20組",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/08/post-2480150.html",
+      "publishedAt": "2026-08-04T01:36:01.000Z",
+      "summary": "お台場 a-nation特設会場にて10月3日、4日に開催されるエイベックスによる音楽フェス『a-nation 2026』の、第1弾出演アーティストが発表となった。 初日となる10月3日は、13年ぶり8回目の出演とな",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "777702b6f3f4719a",
+      "title": "「EBiDAN THE LIVE 2026 15th Anniversary」にてファンクラブブース実施決定！",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news11490/",
+      "publishedAt": "2026-08-04T01:31:46.000Z",
+      "summary": "8月13日(木)〜8月16日(日) 開催「EBiDAN THE LIVE 2026 15th Anniversary」にて、ファンクラブブースの実施が決定！ EBiDANオフィシャルサイトと、ご入会中のグループファンクラ […] The post 「EBiDAN THE LIVE 2026 15th Anniversary」にてファンクラブブース実施決定！ ",
+      "groups": [
+        "EBiDAN",
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "758b89a7e6c56198",
+      "title": "【+KIRARI】「EBiDAN THE LIVE 2026 15th Anniversary」スクラッチ開催のお知らせ!!!",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news11484/",
+      "publishedAt": "2026-08-04T01:30:18.000Z",
+      "summary": "「EBiDAN THE LIVE 2026 15th Anniversary」の開催を記念して、+KIRARI会員の方であればどなたでもご参加いただけるスクラッチを開催！ 開催期間を2回に分け、「EBiDAN Style […] The post 【+KIRARI】「EBiDAN THE LIVE 2026 15th Anniversary」スクラッチ開催の",
+      "groups": [
+        "EBiDAN",
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "d0635febd3b07746",
+      "title": "超特急 リョウガ ライブ欠席のお知らせ",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26435/",
+      "publishedAt": "2026-08-03T22:59:36.000Z",
+      "summary": "いつも超特急を応援いただき、誠にありがとうございます。 重ねてのお知らせになりますが、体調不良のため一定期間活動お休みをいただいております、メンバーのリョウガですが、本人の回復を最優先に考え、メンバー、スタッフとも協議を […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "リョウガ",
+          "group": "超特急",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "a7de5c9fa216f384",
       "title": "SUPER★DRAGON・池田彪馬、“Hyoma Ikeda”名義でソロプロジェクト始動。アー写公開＆1stミニアルバム『Effect』発売決定も",
@@ -38,33 +232,6 @@
       "memberMatches": []
     },
     {
-      "id": "e8ad3a6184d5309b",
-      "title": "M!LK 佐野勇斗＆吉田仁人、ユニット曲「罪と罰と雨とキス」リリース 霧雨の中で舞う姿映し出すMVも",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/08/post-2479374.html",
-      "publishedAt": "2026-08-03T11:20:35.000Z",
-      "summary": "M!LKの佐野勇斗と吉田仁人によるユニット曲「罪と罰と雨とキス」が、本日8月3日に配信リリースされた。 M!LK - 罪と罰と雨とキス (佐野勇斗＆吉田仁人) (Official Music Video) あわせて、",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "4c7f1cca22e8df38",
       "title": "M!LK佐野勇斗＆吉田仁人のユニット曲は「罪と罰と雨とキス」スタダコードが限界突破（!?）なPEACH-PIT描き下ろしメロすぎジャケット解禁",
       "sourceName": "THE FIRST TIMES",
@@ -72,47 +239,6 @@
       "articleUrl": "https://www.thefirsttimes.jp/news/0000856953/",
       "publishedAt": "2026-08-03T10:42:55.000Z",
       "summary": "M!LKが展開中のリリース企画「モー烈モー進！リリースプロジェクト2026」より、あらたなリリー...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "93145ae29d85c3a8",
-      "title": "＜a-nation 2026＞、第1弾出演アーティスト発表。史上最多21回目の出演となる浜崎あゆみ、13年ぶりの出演となるEXILEを含む20組が決定",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1081317",
-      "publishedAt": "2026-08-03T10:08:49.000Z",
-      "summary": "2026年10月3日・4日に開催する＜a-nation 2026＞の、第1弾出演アーティストが発表された。 2026年で22回目を迎える＜a-nation＞は、初の秋開催、そして東京・お台場へと会場を移し開催される。初日となる3日は、デビュー25年目を迎え、a-nationへは13年ぶり8回目の出演となるEXILEをはじめ、超特急、CHANYEOL、WINN",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "36823efe24fe2894",
-      "title": "M!LK佐野勇斗・吉田仁人のユニット曲「罪と罰と雨とキス」本日リリース！MVも公開",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000857308/",
-      "publishedAt": "2026-08-03T09:00:03.000Z",
-      "summary": "5人組ダンスボーカルグループ・M!LKの佐野勇斗と吉田仁人が、ユニット曲として「罪と罰と雨と...",
       "groups": [
         "M!LK"
       ],
@@ -183,20 +309,6 @@
       "summary": "SUPER★DRAGONが、2026年8月1日に東京・ダイバーシティ東京 プラザのフェスティバル広場で開催された「お台場ファンライジング」のスペシャルステージに出演した。「お台場ファンライジング～楽しくアガる！真夏のエンタメ最前線～」は、フジテレビの人気アニメやバラエテ ... The post SUPER★DRAGON、ガチャピン・ムックと11人でコラボ！",
       "groups": [
         "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "ba0aee3b8003dc12",
-      "title": "スターダストプロモーション所属、令和に誕生した新進気鋭のDIYダンスボーカルグループBUDDiiSが「コカ･コーラ SUMMER FES 音楽LIVE」に4年連続出演！",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/music2/659400.html",
-      "publishedAt": "2026-08-01T23:00:45.000Z",
-      "summary": "今年2月にメジャーデビューを果たし、ますます勢いに乗る9人組ダンスボーカルグループのBUDDiiSが、7月31日に「コカ･コーラ SUMMER FES 音楽LIVE」で六本木ヒルズアリーナに登場した。毎年、夏休みに行われている「テレビ朝日・六本木ヒルズ SUMMER F ... The post スターダストプロモーション所属、令和に誕生した新進気鋭のDIY",
-      "groups": [
-        "BUDDiiS"
       ],
       "statuses": [],
       "memberMatches": []
@@ -2612,114 +2724,6 @@
       "summary": "「BULLET TRAIN ARENA TOUR 2026 ESCORT」の会場にて、 該当公演のチケットをお持ちの方を対象に、会場で受け取り可能なオフィシャルグッズ・生写真セットの〈事前購入〉を実施いたします。 「公式 […]",
       "groups": [
         "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "b286b320494d7dcd",
-      "title": "「EBiDAN THE LIVE 2026 15th Anniversary」 最新チケット情報",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news10976/",
-      "publishedAt": "2026-05-20T11:29:31.000Z",
-      "summary": "本日5月20日(水)20:00よりEBiDAN 15周年 Single『Yes！東京』CDシリアル（チケット）先行〈抽選〉が受付開始！ 皆さんとお会いできることを楽しみにしております！ ＜申込条件＞ お申込 […] The post 「EBiDAN THE LIVE 2026 15th Anniversary」 最新チケット情報 first appeared",
-      "groups": [
-        "EBiDAN",
-        "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "c3c362b68acdfa91",
-      "title": "SUPER★DRAGON 新曲「Call Me Asap」がTVアニメ『神の雫』第2クールオープニングテーマに決定！6月8日に先行配信リリース！",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news10989/",
-      "publishedAt": "2026-05-20T11:00:16.000Z",
-      "summary": "7月15日発売のMajor 6th Single 『Call Me Asap / NUMBER』より、新曲「Call Me Asap」を6月8日に先行配信リリースすることが決定！ あわせて、同楽曲がTVアニメ『神の雫』第 […] The post SUPER★DRAGON 新曲「Call Me Asap」がTVアニメ『神の雫』第2クールオープニングテーマに決",
-      "groups": [
-        "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "8413b2c6ff8f34cd",
-      "title": "「EBiDAN THE LIVE 2026 15th Anniversary」 最新チケット情報",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26117/",
-      "publishedAt": "2026-05-20T10:59:34.000Z",
-      "summary": "本日5月20日(水)20:00よりEBiDAN 15周年 Single『Yes！東京』CDシリアル（チケット）先行〈抽選〉が受付開始！ 皆さんとお会いできることを楽しみにしております！ ＜申込条件＞ お申込みには、「EB […]",
-      "groups": [
-        "EBiDAN"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "d311ea1a88fd2c60",
-      "title": "超特急「BULLET TRAIN ARENA TOUR 2026 ESCORT」横浜アリーナ・福岡公演ローソンチケットプレリクエスト最終先行実施決定！",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26114/",
-      "publishedAt": "2026-05-19T07:59:06.000Z",
-      "summary": "5月22日(金) 21:00より、横浜アリーナ・福岡公演のローソンチケットプレリクエスト最終先行(先着)がスタート！ ご乗車お待ちしております!!!!!!!!! ※重要：お申込み前に必ずご確認ください。 【チケットの販売 […]",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "cbde713d2a94218a",
-      "title": "超特急カイ番組欠席のお知らせ",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26112/",
-      "publishedAt": "2026-05-18T03:59:18.000Z",
-      "summary": "いつも超特急へ温かい応援をいただき、誠にありがとうございます。 弊社所属 超特急メンバーのカイが体調不良のため、下記の番組出演を欠席いたします。 2026年5月18日（月）よる19時00分 ON AIR 『CDTVライブ […]",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "カイ",
-          "group": "超特急",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "36ee208bc92969de",
-      "title": "超特急 東京ドーム公演 追加公演 開催決定！！",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26057/",
-      "publishedAt": "2026-05-15T08:59:40.000Z",
-      "summary": "先日発表になった東京ドーム公演の＜追加公演＞チケット販売がいよいよ開始！ 本日5月15日(金)18:00より『夢の青春8きっぷ』会員限定先行がスタート！ ご乗車お待ちしております!!!!!!!!! ※重要：お申込み前に必 […]",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "24012f60543f6331",
-      "title": "EBiDAN15周年記念シングル「Yes! 東京」発売記念リリースイベント『Yes! 飛び出せ! 僕らの移動教室』開催決定！",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news10969/",
-      "publishedAt": "2026-05-15T07:00:34.000Z",
-      "summary": "2026年8月11日(火・祝)に発売のEBiDAN15周年記念シングル「Yes! 東京」のリリースイベント『Yes! 飛び出せ! 僕らの移動教室』の開催が決定いたしました。 15周年の特別な節目を、皆さまと一緒に最高に盛 […] The post EBiDAN15周年記念シングル「Yes! 東京」発売記念リリースイベント『Yes! 飛び出せ! 僕らの移動教室",
-      "groups": [
-        "EBiDAN",
-        "SUPER★DRAGON"
       ],
       "statuses": [],
       "memberMatches": []
