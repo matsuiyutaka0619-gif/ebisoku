@@ -1,28 +1,64 @@
 {
-  "updatedAt": "2026-08-05T03:32:00.537Z",
+  "updatedAt": "2026-08-05T09:04:45.508Z",
   "articles": [
     {
-      "id": "885f70ad18f1464e",
-      "title": "『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット 会場販売のお知らせ",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26452/",
-      "publishedAt": "2026-08-05T02:59:53.000Z",
-      "summary": "8月13日(木)～8月16日(日)に開催される『EBiDAN THE LIVE 2026 15th Anniversary』公演会場にて該当公演のチケットをお持ちの方を対象に、会場で受け取り可能なオフィシャルグッズ・生写 […]",
+      "id": "8eee66f46c531a54",
+      "title": "「SUPER★DRAGON DRA FES 2026」SOLD OUT !!",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news11513/",
+      "publishedAt": "2026-08-05T08:59:02.000Z",
+      "summary": "「SUPER★DRAGON DRA FES 2026」のチケットが好評につき完売いたしました！ ご購入いただいた皆様、ありがとうございました！ 「SUPER★DRAGON DRA FES 2026」 THANK YOU […] The post 「SUPER★DRAGON DRA FES 2026」SOLD OUT !! first appeared on ",
       "groups": [
-        "EBiDAN"
+        "SUPER★DRAGON"
       ],
       "statuses": [],
       "memberMatches": []
     },
     {
-      "id": "0ae98d74da15a605",
-      "title": "M!LK吉田仁人が佐野勇斗をバックハグ!? 普段と雰囲気一変、サングラス越しに視線を送るクールな“密着2ショット”に「さのじんカッコ良すぎる」「え、メロ」「尊い」",
+      "id": "60886701b2fd7836",
+      "title": "超特急髙松アロハ「サウナでアルバイト」20歳の頃の思い出を明かす「熱波師やってしました」",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202608050000668.html",
+      "publishedAt": "2026-08-05T06:59:35.000Z",
+      "summary": "超特急の髙松アロハ（25）が5日、都内で、テレビ朝日系金曜ナイトドラマ「名探偵のままでいて」（金曜午後11時15分）PODCAST公開収録に登場した。 この日は公開収録で視聴者からの質問に回答。「20歳の頃の思い出」について、共演した綱…",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "アロハ",
+          "group": "超特急",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "0ebd5d011ca259f5",
+      "title": "NHK『Venue101 EXTRA』公開収録決定！第1弾アーティストは、新しい学校のリーダーズ、Ayumu Imazu、≒JOY、M!LK",
       "sourceName": "THE FIRST TIMES",
       "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000858441/",
-      "publishedAt": "2026-08-05T02:45:01.000Z",
-      "summary": "フォトグラファー・SASU TEIがInstagramを更新。雑誌『smart』で撮影したM!LKの撮り下ろしショ...",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000858566/",
+      "publishedAt": "2026-08-05T06:00:03.000Z",
+      "summary": "毎週土曜23時よりNHK101スタジオから生放送で届けられている音楽番組『Venue101』。このたび、...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "761bd4754077e101",
+      "title": "M!LK佐野勇斗が7歳のときの写真を公開！大きな蛇を首に巻きニコニコ笑顔を見せる様子に「ミニ勇斗くんかわいい」「幼少期から美形」「かわいいからイケメンに進化してる」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000858282/",
+      "publishedAt": "2026-08-05T04:59:29.000Z",
+      "summary": "M!LKの佐野勇斗がXで子供の頃の写真を公開した。 ■吉田仁人とのユニット曲MVで佐野が白蛇を首...",
       "groups": [
         "M!LK"
       ],
@@ -43,17 +79,71 @@
       ]
     },
     {
-      "id": "0dbdd1f9f6fad6b2",
-      "title": "『EBiDAN THE LIVE 2026』冒頭2曲の無料配信決定！超特急、M!LKら各グループの公式Xアカウント他12ヵ所で配信",
+      "id": "7d466e89c52483e4",
+      "title": "M!LKがリムレスメガネ×秋服姿で互いに寄りかかり合う仲良し撮影メイキングに「メガネは反則」「笑顔がかわいすぎる」「まさにビジュいいじゃん」",
       "sourceName": "THE FIRST TIMES",
       "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000858243/",
-      "publishedAt": "2026-08-04T10:12:18.000Z",
-      "summary": "8月13日から16日に開催される『EBiDAN THE LIVE 2026 15th Anniversary』に向けた、EBiDAN×UNE...",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000858298/",
+      "publishedAt": "2026-08-05T04:50:34.000Z",
+      "summary": "雑誌『mini』公式Xが、M!LKが飾る『mini』9月号（8月10日発売）の表紙を解禁。また雑誌公式Tik...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "2313e7575f89fe12",
+      "title": "M!LK吉田仁人の“リムレスメガネ姿”にファン悶絶！「反則だって」「どこまで沼らせるの」「色気やばい」佐野勇斗ときらびやかな衣装でユニット曲をしっとり踊る姿に反響",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000858554/",
+      "publishedAt": "2026-08-05T04:02:47.000Z",
+      "summary": "M!LKの公式SNSが更新。吉田仁人と佐野勇斗がユニット曲「罪と罰と雨とキス」に合わせてダンス...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "4ec4645d27683863",
+      "title": "『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット 会場販売のお知らせ",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news11500/",
+      "publishedAt": "2026-08-05T03:59:07.000Z",
+      "summary": "8月13日(木)～8月16日(日)に開催される『EBiDAN THE LIVE 2026 15th Anniversary』公演会場にて該当公演のチケットをお持ちの方を対象に、会場で受け取り可能なオフィシャルグッズ・生写 […] The post 『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット ",
       "groups": [
         "EBiDAN",
-        "超特急",
-        "M!LK"
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "885f70ad18f1464e",
+      "title": "『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット 会場販売のお知らせ",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26452/",
+      "publishedAt": "2026-08-05T02:59:53.000Z",
+      "summary": "8月13日(木)～8月16日(日)に開催される『EBiDAN THE LIVE 2026 15th Anniversary』公演会場にて該当公演のチケットをお持ちの方を対象に、会場で受け取り可能なオフィシャルグッズ・生写 […]",
+      "groups": [
+        "EBiDAN"
       ],
       "statuses": [],
       "memberMatches": []
@@ -2627,77 +2717,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "6a4f4b776bc3a136",
-      "title": "Major 6th Single「Call Me Asap / NUMBER」楽天ブックスにてオンライン予約抽選会開催！",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news11007/",
-      "publishedAt": "2026-05-21T09:00:42.000Z",
-      "summary": "SUPER★DRAGON Major 6th Single「Call Me Asap / NUMBER」発売を記念してラッキードローの実施が決定いたしました！ 対象商品を楽天ブックスにて期間中にご購入いただいた方の中から […] The post Major 6th Single「Call Me Asap / NUMBER」楽天ブックスにてオンライン予約抽選",
-      "groups": [
-        "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "27305d648c6a5c60",
-      "title": "超特急『BULLET TRAIN ARENA TOUR 2026 ESCORT』オフィシャルグッズ＆生写真セット 【6/10(水)、11(木)横浜アリーナ公演】、【6/27(土)、28(日) マリンメッセ福岡A館公演】、【7/14(火)、15(水) GLION ARENA KOBE公演】〈事前購入・会場受取〉実施のお知らせ",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26124/",
-      "publishedAt": "2026-05-21T08:59:41.000Z",
-      "summary": "「BULLET TRAIN ARENA TOUR 2026 ESCORT」の会場にて、 該当公演のチケットをお持ちの方を対象に、会場で受け取り可能なオフィシャルグッズ・生写真セットの〈事前購入〉を実施いたします。 「公式 […]",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "b286b320494d7dcd",
-      "title": "「EBiDAN THE LIVE 2026 15th Anniversary」 最新チケット情報",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news10976/",
-      "publishedAt": "2026-05-20T11:29:31.000Z",
-      "summary": "本日5月20日(水)20:00よりEBiDAN 15周年 Single『Yes！東京』CDシリアル（チケット）先行〈抽選〉が受付開始！ 皆さんとお会いできることを楽しみにしております！ ＜申込条件＞ お申込 […] The post 「EBiDAN THE LIVE 2026 15th Anniversary」 最新チケット情報 first appeared",
-      "groups": [
-        "EBiDAN",
-        "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "c3c362b68acdfa91",
-      "title": "SUPER★DRAGON 新曲「Call Me Asap」がTVアニメ『神の雫』第2クールオープニングテーマに決定！6月8日に先行配信リリース！",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news10989/",
-      "publishedAt": "2026-05-20T11:00:16.000Z",
-      "summary": "7月15日発売のMajor 6th Single 『Call Me Asap / NUMBER』より、新曲「Call Me Asap」を6月8日に先行配信リリースすることが決定！ あわせて、同楽曲がTVアニメ『神の雫』第 […] The post SUPER★DRAGON 新曲「Call Me Asap」がTVアニメ『神の雫』第2クールオープニングテーマに決",
-      "groups": [
-        "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "8413b2c6ff8f34cd",
-      "title": "「EBiDAN THE LIVE 2026 15th Anniversary」 最新チケット情報",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26117/",
-      "publishedAt": "2026-05-20T10:59:34.000Z",
-      "summary": "本日5月20日(水)20:00よりEBiDAN 15周年 Single『Yes！東京』CDシリアル（チケット）先行〈抽選〉が受付開始！ 皆さんとお会いできることを楽しみにしております！ ＜申込条件＞ お申込みには、「EB […]",
-      "groups": [
-        "EBiDAN"
-      ],
-      "statuses": [],
-      "memberMatches": []
     }
   ]
 }
