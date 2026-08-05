@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-04T19:55:56.471Z",
+  "updatedAt": "2026-08-05T03:32:00.540Z",
   "totals": {
     "all": 160,
-    "today": 0,
-    "week": 25
+    "today": 2,
+    "week": 21
   },
   "groupRanking": [
     {
@@ -11,20 +11,16 @@
       "count": 12
     },
     {
-      "name": "M!LK",
-      "count": 7
-    },
-    {
       "name": "超特急",
-      "count": 7
+      "count": 6
     },
     {
       "name": "SUPER★DRAGON",
       "count": 5
     },
     {
-      "name": "原因は自分にある。",
-      "count": 1
+      "name": "M!LK",
+      "count": 4
     }
   ],
   "memberRanking": [
@@ -37,34 +33,22 @@
       "count": 3
     },
     {
-      "name": "シューヤ",
-      "count": 1
-    },
-    {
-      "name": "タカシ",
-      "count": 1
-    },
-    {
       "name": "リョウガ",
-      "count": 1
-    },
-    {
-      "name": "武藤潤",
       "count": 1
     }
   ],
   "sourceRanking": [
     {
       "name": "超特急 公式NEWS",
-      "count": 9
-    },
-    {
-      "name": "THE FIRST TIMES",
-      "count": 5
+      "count": 10
     },
     {
       "name": "SUPER★DRAGON 公式NEWS",
       "count": 4
+    },
+    {
+      "name": "THE FIRST TIMES",
+      "count": 2
     },
     {
       "name": "WWSチャンネル",
@@ -77,19 +61,25 @@
     {
       "name": "Bezzy",
       "count": 1
-    },
-    {
-      "name": "マイナビニュース テレビ",
-      "count": 1
-    },
-    {
-      "name": "リアルサウンド 音楽",
-      "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
     "EBiDAN": [
+      {
+        "id": "885f70ad18f1464e",
+        "title": "『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット 会場販売のお知らせ",
+        "sourceName": "超特急 公式NEWS",
+        "sourceUrl": "https://bullettrain.jp/news/feed/",
+        "articleUrl": "https://bullettrain.jp/news/news26452/",
+        "publishedAt": "2026-08-05T02:59:53.000Z",
+        "summary": "8月13日(木)～8月16日(日)に開催される『EBiDAN THE LIVE 2026 15th Anniversary』公演会場にて該当公演のチケットをお持ちの方を対象に、会場で受け取り可能なオフィシャルグッズ・生写 […]",
+        "groups": [
+          "EBiDAN"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
       {
         "id": "0dbdd1f9f6fad6b2",
         "title": "『EBiDAN THE LIVE 2026』冒頭2曲の無料配信決定！超特急、M!LKら各グループの公式Xアカウント他12ヵ所で配信",
@@ -101,21 +91,6 @@
         "groups": [
           "EBiDAN",
           "超特急",
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "6f339cb8e4eb8151",
-        "title": "M!LK5人が白ブレザー制服姿でEBiDAN「Yes! 東京」ソロダンスを披露！「柔太朗くん天然スポットライトで輝いてる」「暴れてるけど実はダンスがうまい塩さん」「佐野くんイケメンの照れ隠しみたい」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000857733/",
-        "publishedAt": "2026-08-04T05:31:13.000Z",
-        "summary": "M!LKメンバーが、EBiDAN（恵比寿学園男子部）公式TikTokに登場。EBiDAN15周年記念シングル「Ye...",
-        "groups": [
-          "EBiDAN",
           "M!LK"
         ],
         "statuses": [],
@@ -165,6 +140,127 @@
         "memberMatches": []
       }
     ],
+    "M!LK": [
+      {
+        "id": "0ae98d74da15a605",
+        "title": "M!LK吉田仁人が佐野勇斗をバックハグ!? 普段と雰囲気一変、サングラス越しに視線を送るクールな“密着2ショット”に「さのじんカッコ良すぎる」「え、メロ」「尊い」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000858441/",
+        "publishedAt": "2026-08-05T02:45:01.000Z",
+        "summary": "フォトグラファー・SASU TEIがInstagramを更新。雑誌『smart』で撮影したM!LKの撮り下ろしショ...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "0dbdd1f9f6fad6b2",
+        "title": "『EBiDAN THE LIVE 2026』冒頭2曲の無料配信決定！超特急、M!LKら各グループの公式Xアカウント他12ヵ所で配信",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000858243/",
+        "publishedAt": "2026-08-04T10:12:18.000Z",
+        "summary": "8月13日から16日に開催される『EBiDAN THE LIVE 2026 15th Anniversary』に向けた、EBiDAN×UNE...",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "7812b324a6472993",
+        "title": "佐野勇斗＆吉田仁人（M!LK）、「モー烈モー進！リリースプロジェクト2026」完結飾る“罪と罰と雨とキス”配信リリース＆MV公開",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/08/04/tg007",
+        "publishedAt": "2026-08-04T04:50:00.000Z",
+        "summary": "",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "39c1d3aa3ee9ebd7",
+        "title": "M!LK佐野勇斗＆吉田仁人のユニット曲「罪と罰と雨とキス」MV公開、2人が霧雨と共に舞い踊る",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/08/90103/",
+        "publishedAt": "2026-08-03T09:00:00.000Z",
+        "summary": "5人組ダンスボーカルグループ・M!LKの佐野勇斗と吉田仁人が、本日8月3日(月)にユニット曲「罪と罰と雨とキス」を配信リリースした。 本作は、M!LKの5ヵ月連続新曲リリース企画「モー烈モー進！リリースプロジェクト2026」の最後を飾る一曲。惹かれ合うが決して結ばれることのない宿命に抗って必死に手を伸ばす様を描き、焦燥と湿潤が共存したエモーショナルな楽曲とな",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "f24b9a74ba26d74a",
+        "title": "曽野舜太、夢の『仮面ライダー』役で活きたM!LKでの経験明かす 役柄に驚きも「あれ、俺…」",
+        "sourceName": "マイナビニュース 映画",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
+        "articleUrl": "https://news.mynavi.jp/article/20260724-4735976/",
+        "publishedAt": "2026-07-24T11:00:00.000Z",
+        "summary": "ダンスボーカルグループ・M!LKの曽野舜太が23日、映画『仮面ライダーゼッツ さよならのミッション』/映画『超宇宙刑事ギャバン インフィニティ 太陽が泣いた日』(公開中)の公開前夜祭舞台挨拶に登壇。夢だったという『仮面ライダー』出演で活きたM!LKでの経験を明かした。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      }
+    ],
     "超特急": [
       {
         "id": "0dbdd1f9f6fad6b2",
@@ -195,33 +291,6 @@
         ],
         "statuses": [],
         "memberMatches": []
-      },
-      {
-        "id": "d9d71043018f3cc7",
-        "title": "『The Covers秋フェス2026』出演アーティスト発表！柴咲コウ、スタレビ、超特急タカシ＆シューヤら出演決定",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000858070/",
-        "publishedAt": "2026-08-04T06:27:27.000Z",
-        "summary": "NHKの音楽番組『The Covers』が、NHKホールから贈る“名曲の祭典”＝『カバーズ・フェス』。この...",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "タカシ",
-            "group": "超特急",
-            "status": "active"
-          },
-          {
-            "name": "シューヤ",
-            "group": "超特急",
-            "status": "active"
-          }
-        ]
       },
       {
         "id": "d0635febd3b07746",
@@ -258,94 +327,20 @@
         ],
         "statuses": [],
         "memberMatches": []
-      }
-    ],
-    "M!LK": [
+      },
       {
-        "id": "0dbdd1f9f6fad6b2",
-        "title": "『EBiDAN THE LIVE 2026』冒頭2曲の無料配信決定！超特急、M!LKら各グループの公式Xアカウント他12ヵ所で配信",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000858243/",
-        "publishedAt": "2026-08-04T10:12:18.000Z",
-        "summary": "8月13日から16日に開催される『EBiDAN THE LIVE 2026 15th Anniversary』に向けた、EBiDAN×UNE...",
+        "id": "59fa057537db8bdf",
+        "title": "『BULLET TRAIN ARENA TOUR 2026 ESCORT』オフィシャルグッズ＆生写真セット 【8/8(土)、8/9(日)Kアリーナ横浜公演】会場販売＆整理券配布のお知らせ",
+        "sourceName": "超特急 公式NEWS",
+        "sourceUrl": "https://bullettrain.jp/news/feed/",
+        "articleUrl": "https://bullettrain.jp/news/news26419/",
+        "publishedAt": "2026-07-30T10:59:40.000Z",
+        "summary": "「BULLET TRAIN ARENA TOUR 2026 ESCORT」Kアリーナ横浜公演の会場販売が決定しました！ 8/8(土)、8/9(日)Kアリーナ横浜公演では、 熱中症対策・混雑緩和のため、LINEアプリを利用 […]",
         "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK"
+          "超特急"
         ],
         "statuses": [],
         "memberMatches": []
-      },
-      {
-        "id": "d474dd735c65d2c0",
-        "title": "『ドラゴンボール』に通ずる？ アイデンティティ 田島直弥、Mr.Childrenから受けた感銘とM!LKの凄み",
-        "sourceName": "リアルサウンド 音楽",
-        "sourceUrl": "https://realsound.jp/music/feed",
-        "articleUrl": "https://realsound.jp/2026/08/post-2477008.html",
-        "publishedAt": "2026-08-04T09:00:11.000Z",
-        "summary": "『ドラゴンボール』シリーズの孫悟空の声優として知られる、野沢雅子のモノマネで話題のアイデンティティ 田島直弥。“歌ネタ”も多く披露しており、Mr.Childrenの大ファンとしても知られている田島に、Mr.Children愛や最近ハマっているアーティストについて聞いた。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "6f339cb8e4eb8151",
-        "title": "M!LK5人が白ブレザー制服姿でEBiDAN「Yes! 東京」ソロダンスを披露！「柔太朗くん天然スポットライトで輝いてる」「暴れてるけど実はダンスがうまい塩さん」「佐野くんイケメンの照れ隠しみたい」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000857733/",
-        "publishedAt": "2026-08-04T05:31:13.000Z",
-        "summary": "M!LKメンバーが、EBiDAN（恵比寿学園男子部）公式TikTokに登場。EBiDAN15周年記念シングル「Ye...",
-        "groups": [
-          "EBiDAN",
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "2ef09135b8a7a0ce",
-        "title": "M!LK 5人が頭を縦一列に並べた“密着ショット”が話題！“好き”を取り入れたスタイリングにも注目「神ビジュ」「ドカメロ」「だいちゃんピンク似合う」「アヒル口の仁人たまらん」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000857966/",
-        "publishedAt": "2026-08-04T04:50:34.000Z",
-        "summary": "『装苑』の公式SNSで、M!LKの撮影メイキングが公開され、ファンの注目を集めている。『装苑』...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "7812b324a6472993",
-        "title": "佐野勇斗＆吉田仁人（M!LK）、「モー烈モー進！リリースプロジェクト2026」完結飾る“罪と罰と雨とキス”配信リリース＆MV公開",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/08/04/tg007",
-        "publishedAt": "2026-08-04T04:50:00.000Z",
-        "summary": "",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
       }
     ],
     "SUPER★DRAGON": [
@@ -425,28 +420,6 @@
       }
     ],
     "原因は自分にある。": [
-      {
-        "id": "a3f73d07a6099998",
-        "title": "鈴木美羽、ウエディングドレス姿でシェアハウス ショートドラマで表参道を全力疾走",
-        "sourceName": "マイナビニュース テレビ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-        "articleUrl": "https://news.mynavi.jp/article/20260731-4759820/",
-        "publishedAt": "2026-07-31T02:21:14.000Z",
-        "summary": "ウエディングドレスしか着られなくなった女性と、崖っぷちのお笑い芸人がシェアハウス生活――鈴木美羽と武藤潤(原因は自分にある。)がW主演を務める縦型ショートドラマ『フライング花嫁』(全61話)が、FOD SHORTで独占配信をスタートした。",
-        "groups": [
-          "原因は自分にある。"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "武藤潤",
-            "group": "原因は自分にある。",
-            "status": "active"
-          }
-        ]
-      },
       {
         "id": "15fb9ee4d3775ce2",
         "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
