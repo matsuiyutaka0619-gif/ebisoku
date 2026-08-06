@@ -1,14 +1,72 @@
 {
-  "updatedAt": "2026-08-06T09:05:17.422Z",
+  "updatedAt": "2026-08-06T14:34:38.549Z",
   "articles": [
     {
-      "id": "b6822549a68ea73b",
-      "title": "EBiDAN NEXTより福岡を拠点とする7人組ダンスボーカルグループ by standard結成 デビュー曲配信も",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/08/post-2483712.html",
-      "publishedAt": "2026-08-06T07:23:29.000Z",
-      "summary": "スターダストプロモーションのEBiDAN NEXTから、福岡を拠点とする7人組ダンスボーカルグループ by standard（バイスタンダード）が結成された。あわせて、デビュー曲となる1stシングル「Blaze Up」",
+      "id": "9997a8ee73155f48",
+      "title": "「ピュアさに心が洗われる」「大好きなんだなあ」M!LK最年少・曽野舜太の“グループ愛”にファンから感動の声",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260806-4784218/",
+      "publishedAt": "2026-08-06T12:00:00.000Z",
+      "summary": "「1人やったら無理やけど、みんなで越えることがすごい気持ちいい」アイドルグループ・M!LKの曽野舜太が語った“グループ愛”にファンから感動の声が上がっている―。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "曽野舜太",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "44c79b3dca880571",
+      "title": "「おうちに帰ってきた時…」M!LK塩崎太智が相手に求める“譲れない条件”",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260806-4779961/",
+      "publishedAt": "2026-08-06T10:00:00.000Z",
+      "summary": "「潔癖ではあるんです」M!LKの塩崎太智(※崎はたつさき)が、3日放送のテレビ東京『オトナモラトリアム』(8月3日・10日24:30～)に出演。相手に求める“譲れない条件”を明かした。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "塩﨑太智",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "e18ccf0cadfec290",
+      "title": "「J-POPシングル ウィークリーTOP30」発表。1位はME:I『花咲く道』、予約1位はEBiDAN（恵比寿学園男子部）『Yes! 東京』（2026年8月6日付）",
+      "sourceName": "タワーレコード ニュース",
+      "sourceUrl": "https://tower.jp/feeds/article/news",
+      "articleUrl": "https://tower.jp/article/news/2026/08/06/tg004",
+      "publishedAt": "2026-08-06T10:00:00.000Z",
+      "summary": "",
+      "groups": [
+        "EBiDAN"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "a1ac5fd85d70a22d",
+      "title": "EBiDAN NEXTから7⼈組新グループ 「by standard」誕⽣！配信中のデビュー曲「Blaze Up」を『星男祭 2026』でお披露⽬",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000859449/",
+      "publishedAt": "2026-08-06T09:50:40.000Z",
+      "summary": "「EBiDAN（恵比寿学園男子部）」の研究生「EBiDAN NEXT」から、福岡を拠点とするEBiDAN FUKUOK...",
       "groups": [
         "EBiDAN"
       ],
@@ -336,20 +394,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "a38387e4c72681a9",
-      "title": "8月3日放送「CDTVライブ！ライブ！」、ILLIT、＝LOVE、AKB48、EBiDAN（恵比寿学園男子部）、SUPER EIGHT、STARGLOW、Da-iCE、ME:I、優里出演",
-      "sourceName": "タワーレコード ニュース",
-      "sourceUrl": "https://tower.jp/feeds/article/news",
-      "articleUrl": "https://tower.jp/article/news/2026/08/03/tg001",
-      "publishedAt": "2026-08-03T04:50:00.000Z",
-      "summary": "",
-      "groups": [
-        "EBiDAN"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "7f7d929f12a54a69",
@@ -2669,47 +2713,6 @@
       "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して、8月11日(火・祝)にリリースするシングル「Yes! 東京」のジャケット写真を公開！今作は通常盤、グループ盤、15周年盤の計15形態での発売となり、その中でも通常盤 […]",
       "groups": [
         "EBiDAN"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "00e2bc9ec2540469",
-      "title": "超特急のシューヤ＆マサヒロが初めてプロデュースするライフスタイルブランド「ROOM614（ルームロクイチヨン）」が誕生。",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26146/",
-      "publishedAt": "2026-05-22T07:19:32.000Z",
-      "summary": "ブランド名「ROOM614」は、シューヤ・マサヒロが2人で過ごしたハワイのホテルのある一室から由来。 日常の中で、“僕らを近くに感じてもらいたい”、“僕ら自身もみなさんに寄り添っていきたい”そんな二人の想いから生まれまし […]",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "シューヤ",
-          "group": "超特急",
-          "status": "active"
-        },
-        {
-          "name": "マサヒロ",
-          "group": "超特急",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "6a4f4b776bc3a136",
-      "title": "Major 6th Single「Call Me Asap / NUMBER」楽天ブックスにてオンライン予約抽選会開催！",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news11007/",
-      "publishedAt": "2026-05-21T09:00:42.000Z",
-      "summary": "SUPER★DRAGON Major 6th Single「Call Me Asap / NUMBER」発売を記念してラッキードローの実施が決定いたしました！ 対象商品を楽天ブックスにて期間中にご購入いただいた方の中から […] The post Major 6th Single「Call Me Asap / NUMBER」楽天ブックスにてオンライン予約抽選",
-      "groups": [
-        "SUPER★DRAGON"
       ],
       "statuses": [],
       "memberMatches": []
