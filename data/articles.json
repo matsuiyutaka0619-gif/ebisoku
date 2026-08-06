@@ -1,6 +1,34 @@
 {
-  "updatedAt": "2026-08-06T03:35:45.393Z",
+  "updatedAt": "2026-08-06T09:05:17.422Z",
   "articles": [
+    {
+      "id": "b6822549a68ea73b",
+      "title": "EBiDAN NEXTより福岡を拠点とする7人組ダンスボーカルグループ by standard結成 デビュー曲配信も",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/08/post-2483712.html",
+      "publishedAt": "2026-08-06T07:23:29.000Z",
+      "summary": "スターダストプロモーションのEBiDAN NEXTから、福岡を拠点とする7人組ダンスボーカルグループ by standard（バイスタンダード）が結成された。あわせて、デビュー曲となる1stシングル「Blaze Up」",
+      "groups": [
+        "EBiDAN"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "70ecccdb70b07e39",
+      "title": "超特急 × Kアリーナ横浜のコラボドリンク販売が決定！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26476/",
+      "publishedAt": "2026-08-06T06:04:14.000Z",
+      "summary": "超特急 × Kアリーナ横浜のコラボドリンク販売が決定！ BULLET TRAIN ARENA TOUR 2026 ESCORTの開催を記念して、コラボドリンク販売が決定いたしました！ コラボドリンクをご注文いただいたお客 […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "f1c7db649e6dcac7",
       "title": "不在の塩﨑太智をM!LKメンバーが揃ってマネする「爆裂愛してる」ダンス公開！「塩さんの肖像画と見つめ合っててかわいい」「いないのに存在感抜群」「1人分スペース空けてあるの愛しい」",
@@ -33,28 +61,6 @@
         },
         {
           "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "317ccd3ff8e04dbb",
-      "title": "塩﨑太智（M!LK）、なぜ愛される？ 芸能界とお茶の間が求めていた“全力感”、人懐っこさの権化",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/08/post-2482576.html",
-      "publishedAt": "2026-08-05T20:50:19.000Z",
-      "summary": "M!LKの塩﨑太智が『オトナモラトリアム』（テレビ東京）に出演。共演者の若槻千夏が塩﨑を「今、芸能界イチ推しタレントです」と紹介していたように、彼の何がそう思わせるのか。愛される理由を考える。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "塩﨑太智",
           "group": "M!LK",
           "status": "active"
         }
@@ -2704,20 +2710,6 @@
       "summary": "SUPER★DRAGON Major 6th Single「Call Me Asap / NUMBER」発売を記念してラッキードローの実施が決定いたしました！ 対象商品を楽天ブックスにて期間中にご購入いただいた方の中から […] The post Major 6th Single「Call Me Asap / NUMBER」楽天ブックスにてオンライン予約抽選",
       "groups": [
         "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "27305d648c6a5c60",
-      "title": "超特急『BULLET TRAIN ARENA TOUR 2026 ESCORT』オフィシャルグッズ＆生写真セット 【6/10(水)、11(木)横浜アリーナ公演】、【6/27(土)、28(日) マリンメッセ福岡A館公演】、【7/14(火)、15(水) GLION ARENA KOBE公演】〈事前購入・会場受取〉実施のお知らせ",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26124/",
-      "publishedAt": "2026-05-21T08:59:41.000Z",
-      "summary": "「BULLET TRAIN ARENA TOUR 2026 ESCORT」の会場にて、 該当公演のチケットをお持ちの方を対象に、会場で受け取り可能なオフィシャルグッズ・生写真セットの〈事前購入〉を実施いたします。 「公式 […]",
-      "groups": [
-        "超特急"
       ],
       "statuses": [],
       "memberMatches": []

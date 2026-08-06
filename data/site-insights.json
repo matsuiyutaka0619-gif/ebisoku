@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-06T03:35:45.395Z",
+  "updatedAt": "2026-08-06T09:05:17.424Z",
   "totals": {
     "all": 160,
-    "today": 2,
+    "today": 3,
     "week": 24
   },
   "groupRanking": [
     {
       "name": "EBiDAN",
-      "count": 14
+      "count": 15
     },
     {
       "name": "SUPER★DRAGON",
@@ -16,7 +16,7 @@
     },
     {
       "name": "M!LK",
-      "count": 5
+      "count": 4
     },
     {
       "name": "超特急",
@@ -25,12 +25,12 @@
   ],
   "memberRanking": [
     {
-      "name": "塩﨑太智",
+      "name": "吉田仁人",
       "count": 3
     },
     {
-      "name": "吉田仁人",
-      "count": 3
+      "name": "塩﨑太智",
+      "count": 2
     },
     {
       "name": "佐野勇斗",
@@ -81,6 +81,160 @@
   ],
   "topics": [],
   "recentByGroup": {
+    "EBiDAN": [
+      {
+        "id": "b6822549a68ea73b",
+        "title": "EBiDAN NEXTより福岡を拠点とする7人組ダンスボーカルグループ by standard結成 デビュー曲配信も",
+        "sourceName": "リアルサウンド 音楽",
+        "sourceUrl": "https://realsound.jp/music/feed",
+        "articleUrl": "https://realsound.jp/2026/08/post-2483712.html",
+        "publishedAt": "2026-08-06T07:23:29.000Z",
+        "summary": "スターダストプロモーションのEBiDAN NEXTから、福岡を拠点とする7人組ダンスボーカルグループ by standard（バイスタンダード）が結成された。あわせて、デビュー曲となる1stシングル「Blaze Up」",
+        "groups": [
+          "EBiDAN"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "b43f4ac8a3d7af47",
+        "title": "『HMV夏のEBiDAN祭り2026』開催決定！「EBiDAN THE LIVE 2026 15th Anniversary」会場にて、デコガチャの販売やスペシャル抽選会を開催！さらに、「Yes! 東京」発売を記念した連動企画や、渋谷MODIでのデコガチャ等、様々な企画でEBiDANを盛り上げます！",
+        "sourceName": "超特急 公式NEWS",
+        "sourceUrl": "https://bullettrain.jp/news/feed/",
+        "articleUrl": "https://bullettrain.jp/news/news26464/",
+        "publishedAt": "2026-08-05T11:59:56.000Z",
+        "summary": "EBiDAN15周年記念シングル「Yes! 東京」発売を記念して、『HMV夏のEBiDAN祭り』がスペシャルバージョンになって実施決定！「EBiDAN THE LIVE 2026 15th Anniversary」会場、 […]",
+        "groups": [
+          "EBiDAN"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "eda2ff0bee252daa",
+        "title": "『HMV夏のEBiDAN祭り2026』開催決定！「EBiDAN THE LIVE 2026 15th Anniversary」会場にて、デコガチャの販売やスペシャル抽選会を開催！さらに、「Yes! 東京」発売を記念した連動企画や、渋谷MODIでのデコガチャ等、様々な企画でEBiDANを盛り上げます！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11518/",
+        "publishedAt": "2026-08-05T11:59:36.000Z",
+        "summary": "EBiDAN15周年記念シングル「Yes! 東京」発売を記念して、『HMV夏のEBiDAN祭り』がスペシャルバージョンになって実施決定！「EBiDAN THE LIVE 2026 15th Anniversary」会場、 […] The post 『HMV夏のEBiDAN祭り2026』開催決定！「EBiDAN THE LIVE 2026 15th Anniv",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "4ec4645d27683863",
+        "title": "『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット 会場販売のお知らせ",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11500/",
+        "publishedAt": "2026-08-05T03:59:07.000Z",
+        "summary": "8月13日(木)～8月16日(日)に開催される『EBiDAN THE LIVE 2026 15th Anniversary』公演会場にて該当公演のチケットをお持ちの方を対象に、会場で受け取り可能なオフィシャルグッズ・生写 […] The post 『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット ",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "885f70ad18f1464e",
+        "title": "『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット 会場販売のお知らせ",
+        "sourceName": "超特急 公式NEWS",
+        "sourceUrl": "https://bullettrain.jp/news/feed/",
+        "articleUrl": "https://bullettrain.jp/news/news26452/",
+        "publishedAt": "2026-08-05T02:59:53.000Z",
+        "summary": "8月13日(木)～8月16日(日)に開催される『EBiDAN THE LIVE 2026 15th Anniversary』公演会場にて該当公演のチケットをお持ちの方を対象に、会場で受け取り可能なオフィシャルグッズ・生写 […]",
+        "groups": [
+          "EBiDAN"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
+    "超特急": [
+      {
+        "id": "70ecccdb70b07e39",
+        "title": "超特急 × Kアリーナ横浜のコラボドリンク販売が決定！",
+        "sourceName": "超特急 公式NEWS",
+        "sourceUrl": "https://bullettrain.jp/news/feed/",
+        "articleUrl": "https://bullettrain.jp/news/news26476/",
+        "publishedAt": "2026-08-06T06:04:14.000Z",
+        "summary": "超特急 × Kアリーナ横浜のコラボドリンク販売が決定！ BULLET TRAIN ARENA TOUR 2026 ESCORTの開催を記念して、コラボドリンク販売が決定いたしました！ コラボドリンクをご注文いただいたお客 […]",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "5984104a63a6de2a",
+        "title": "超特急「BULLET TRAIN ARENA TOUR 2026 ESCORT」【Kアリーナ横浜公演】機材席開放一般発売 実施決定！",
+        "sourceName": "超特急 公式NEWS",
+        "sourceUrl": "https://bullettrain.jp/news/feed/",
+        "articleUrl": "https://bullettrain.jp/news/news26450/",
+        "publishedAt": "2026-08-04T08:59:57.000Z",
+        "summary": "完売していたKアリーナ横浜公演ですが、ステージプラン確定に伴い若干数の機材席開放販売が決定いたしました！ 8月7日(金)21:00より販売スタート！ ご乗車お待ちしております!!!!!!!!! ※重要：お申込み前に必ずご […]",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "d0635febd3b07746",
+        "title": "超特急 リョウガ ライブ欠席のお知らせ",
+        "sourceName": "超特急 公式NEWS",
+        "sourceUrl": "https://bullettrain.jp/news/feed/",
+        "articleUrl": "https://bullettrain.jp/news/news26435/",
+        "publishedAt": "2026-08-03T22:59:36.000Z",
+        "summary": "いつも超特急を応援いただき、誠にありがとうございます。 重ねてのお知らせになりますが、体調不良のため一定期間活動お休みをいただいております、メンバーのリョウガですが、本人の回復を最優先に考え、メンバー、スタッフとも協議を […]",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "リョウガ",
+            "group": "超特急",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "59fa057537db8bdf",
+        "title": "『BULLET TRAIN ARENA TOUR 2026 ESCORT』オフィシャルグッズ＆生写真セット 【8/8(土)、8/9(日)Kアリーナ横浜公演】会場販売＆整理券配布のお知らせ",
+        "sourceName": "超特急 公式NEWS",
+        "sourceUrl": "https://bullettrain.jp/news/feed/",
+        "articleUrl": "https://bullettrain.jp/news/news26419/",
+        "publishedAt": "2026-07-30T10:59:40.000Z",
+        "summary": "「BULLET TRAIN ARENA TOUR 2026 ESCORT」Kアリーナ横浜公演の会場販売が決定しました！ 8/8(土)、8/9(日)Kアリーナ横浜公演では、 熱中症対策・混雑緩和のため、LINEアプリを利用 […]",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "0b4084d913452795",
+        "title": "超特急 東京ドーム公演＜追加公演＞最新チケット情報",
+        "sourceName": "超特急 公式NEWS",
+        "sourceUrl": "https://bullettrain.jp/news/feed/",
+        "articleUrl": "https://bullettrain.jp/news/news26417/",
+        "publishedAt": "2026-07-30T08:59:39.000Z",
+        "summary": "8月2日(日)10:00より三井ショッピングパーク チケット先着先行がスタート！ ご乗車お待ちしております!!!!!!!!! ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願いと注意事項】 https […]",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
     "M!LK": [
       {
         "id": "f1c7db649e6dcac7",
@@ -114,28 +268,6 @@
           },
           {
             "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "317ccd3ff8e04dbb",
-        "title": "塩﨑太智（M!LK）、なぜ愛される？ 芸能界とお茶の間が求めていた“全力感”、人懐っこさの権化",
-        "sourceName": "リアルサウンド 音楽",
-        "sourceUrl": "https://realsound.jp/music/feed",
-        "articleUrl": "https://realsound.jp/2026/08/post-2482576.html",
-        "publishedAt": "2026-08-05T20:50:19.000Z",
-        "summary": "M!LKの塩﨑太智が『オトナモラトリアム』（テレビ東京）に出演。共演者の若槻千夏が塩﨑を「今、芸能界イチ推しタレントです」と紹介していたように、彼の何がそう思わせるのか。愛される理由を考える。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "塩﨑太智",
             "group": "M!LK",
             "status": "active"
           }
@@ -216,81 +348,28 @@
             "status": "active"
           }
         ]
-      }
-    ],
-    "EBiDAN": [
-      {
-        "id": "b43f4ac8a3d7af47",
-        "title": "『HMV夏のEBiDAN祭り2026』開催決定！「EBiDAN THE LIVE 2026 15th Anniversary」会場にて、デコガチャの販売やスペシャル抽選会を開催！さらに、「Yes! 東京」発売を記念した連動企画や、渋谷MODIでのデコガチャ等、様々な企画でEBiDANを盛り上げます！",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26464/",
-        "publishedAt": "2026-08-05T11:59:56.000Z",
-        "summary": "EBiDAN15周年記念シングル「Yes! 東京」発売を記念して、『HMV夏のEBiDAN祭り』がスペシャルバージョンになって実施決定！「EBiDAN THE LIVE 2026 15th Anniversary」会場、 […]",
-        "groups": [
-          "EBiDAN"
-        ],
-        "statuses": [],
-        "memberMatches": []
       },
       {
-        "id": "eda2ff0bee252daa",
-        "title": "『HMV夏のEBiDAN祭り2026』開催決定！「EBiDAN THE LIVE 2026 15th Anniversary」会場にて、デコガチャの販売やスペシャル抽選会を開催！さらに、「Yes! 東京」発売を記念した連動企画や、渋谷MODIでのデコガチャ等、様々な企画でEBiDANを盛り上げます！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11518/",
-        "publishedAt": "2026-08-05T11:59:36.000Z",
-        "summary": "EBiDAN15周年記念シングル「Yes! 東京」発売を記念して、『HMV夏のEBiDAN祭り』がスペシャルバージョンになって実施決定！「EBiDAN THE LIVE 2026 15th Anniversary」会場、 […] The post 『HMV夏のEBiDAN祭り2026』開催決定！「EBiDAN THE LIVE 2026 15th Anniv",
+        "id": "f24b9a74ba26d74a",
+        "title": "曽野舜太、夢の『仮面ライダー』役で活きたM!LKでの経験明かす 役柄に驚きも「あれ、俺…」",
+        "sourceName": "マイナビニュース 映画",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
+        "articleUrl": "https://news.mynavi.jp/article/20260724-4735976/",
+        "publishedAt": "2026-07-24T11:00:00.000Z",
+        "summary": "ダンスボーカルグループ・M!LKの曽野舜太が23日、映画『仮面ライダーゼッツ さよならのミッション』/映画『超宇宙刑事ギャバン インフィニティ 太陽が泣いた日』(公開中)の公開前夜祭舞台挨拶に登壇。夢だったという『仮面ライダー』出演で活きたM!LKでの経験を明かした。",
         "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
+          "M!LK"
         ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "4ec4645d27683863",
-        "title": "『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット 会場販売のお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11500/",
-        "publishedAt": "2026-08-05T03:59:07.000Z",
-        "summary": "8月13日(木)～8月16日(日)に開催される『EBiDAN THE LIVE 2026 15th Anniversary』公演会場にて該当公演のチケットをお持ちの方を対象に、会場で受け取り可能なオフィシャルグッズ・生写 […] The post 『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット ",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
+        "statuses": [
+          "active"
         ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "885f70ad18f1464e",
-        "title": "『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット 会場販売のお知らせ",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26452/",
-        "publishedAt": "2026-08-05T02:59:53.000Z",
-        "summary": "8月13日(木)～8月16日(日)に開催される『EBiDAN THE LIVE 2026 15th Anniversary』公演会場にて該当公演のチケットをお持ちの方を対象に、会場で受け取り可能なオフィシャルグッズ・生写 […]",
-        "groups": [
-          "EBiDAN"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "ab2d8ee93a167bf9",
-        "title": "EBiDAN THE LIVE 2026 15th Anniversary 定価トレード情報",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11497/",
-        "publishedAt": "2026-08-04T02:59:36.000Z",
-        "summary": "「EBiDAN THE LIVE 2026 15th Anniversary」のチケットをお持ちで、 ご都合が悪くなったお客様のために8月5日(水)21:00より先着順にてチケットトレードの実施が決定いたしました。 トレ […] The post EBiDAN THE LIVE 2026 15th Anniversary 定価トレード情報 first app",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
+        "memberMatches": [
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
       }
     ],
     "SUPER★DRAGON": [
@@ -367,99 +446,6 @@
         ],
         "statuses": [],
         "memberMatches": []
-      }
-    ],
-    "超特急": [
-      {
-        "id": "5984104a63a6de2a",
-        "title": "超特急「BULLET TRAIN ARENA TOUR 2026 ESCORT」【Kアリーナ横浜公演】機材席開放一般発売 実施決定！",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26450/",
-        "publishedAt": "2026-08-04T08:59:57.000Z",
-        "summary": "完売していたKアリーナ横浜公演ですが、ステージプラン確定に伴い若干数の機材席開放販売が決定いたしました！ 8月7日(金)21:00より販売スタート！ ご乗車お待ちしております!!!!!!!!! ※重要：お申込み前に必ずご […]",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "d0635febd3b07746",
-        "title": "超特急 リョウガ ライブ欠席のお知らせ",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26435/",
-        "publishedAt": "2026-08-03T22:59:36.000Z",
-        "summary": "いつも超特急を応援いただき、誠にありがとうございます。 重ねてのお知らせになりますが、体調不良のため一定期間活動お休みをいただいております、メンバーのリョウガですが、本人の回復を最優先に考え、メンバー、スタッフとも協議を […]",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "リョウガ",
-            "group": "超特急",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "59fa057537db8bdf",
-        "title": "『BULLET TRAIN ARENA TOUR 2026 ESCORT』オフィシャルグッズ＆生写真セット 【8/8(土)、8/9(日)Kアリーナ横浜公演】会場販売＆整理券配布のお知らせ",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26419/",
-        "publishedAt": "2026-07-30T10:59:40.000Z",
-        "summary": "「BULLET TRAIN ARENA TOUR 2026 ESCORT」Kアリーナ横浜公演の会場販売が決定しました！ 8/8(土)、8/9(日)Kアリーナ横浜公演では、 熱中症対策・混雑緩和のため、LINEアプリを利用 […]",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "0b4084d913452795",
-        "title": "超特急 東京ドーム公演＜追加公演＞最新チケット情報",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26417/",
-        "publishedAt": "2026-07-30T08:59:39.000Z",
-        "summary": "8月2日(日)10:00より三井ショッピングパーク チケット先着先行がスタート！ ご乗車お待ちしております!!!!!!!!! ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願いと注意事項】 https […]",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "3536c149fc4a800f",
-        "title": "【シューヤ&マサヒロ】超チャーはんイベント開催決定!",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26406/",
-        "publishedAt": "2026-07-25T07:59:44.000Z",
-        "summary": "■【シューヤ＆マサヒロ】超チャーはんイベント開催決定！ 超特急の 11 号車バックボーカル・シューヤと、12 号車メインダンサー・マサヒロからなる YouTube チャンネル「超チャーはん」のチャンネル登録者数が【10 […]",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "シューヤ",
-            "group": "超特急",
-            "status": "active"
-          },
-          {
-            "name": "マサヒロ",
-            "group": "超特急",
-            "status": "active"
-          }
-        ]
       }
     ],
     "原因は自分にある。": [
