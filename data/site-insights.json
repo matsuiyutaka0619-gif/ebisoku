@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-08-07T03:17:26.992Z",
+  "updatedAt": "2026-08-07T07:40:40.891Z",
   "totals": {
     "all": 160,
-    "today": 3,
-    "week": 23
+    "today": 6,
+    "week": 25
   },
   "groupRanking": [
     {
       "name": "EBiDAN",
-      "count": 13
+      "count": 12
     },
     {
       "name": "M!LK",
-      "count": 7
+      "count": 10
     },
     {
       "name": "SUPER★DRAGON",
@@ -29,12 +29,12 @@
   ],
   "memberRanking": [
     {
-      "name": "佐野勇斗",
-      "count": 4
+      "name": "吉田仁人",
+      "count": 5
     },
     {
-      "name": "吉田仁人",
-      "count": 3
+      "name": "佐野勇斗",
+      "count": 4
     },
     {
       "name": "塩﨑太智",
@@ -61,11 +61,11 @@
       "count": 1
     },
     {
-      "name": "武田創世",
+      "name": "曽野舜太",
       "count": 1
     },
     {
-      "name": "芳賀柊斗",
+      "name": "武田創世",
       "count": 1
     }
   ],
@@ -80,7 +80,7 @@
     },
     {
       "name": "THE FIRST TIMES",
-      "count": 2
+      "count": 5
     },
     {
       "name": "タワーレコード ニュース",
@@ -97,15 +97,96 @@
     {
       "name": "Bezzy",
       "count": 1
-    },
-    {
-      "name": "リアルサウンド 音楽",
-      "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
     "M!LK": [
+      {
+        "id": "6f5fd14921b036eb",
+        "title": "M!LK5人がくっついて座敷に腰を下ろしたお茶の間オフショット公開！「仁人くんのシースルーバング好き」「太智くん前髪下ろしかわいい」「みんなかっこいい」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000859971/",
+        "publishedAt": "2026-08-07T05:38:11.000Z",
+        "summary": "M!LK公式SNSにて、8月6日深夜放送の『限界突破！やってM!LK』オフショットが公開された。 ■ア...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "baa5bbe47115d311",
+        "title": "M!LK吉田仁人の“もぐもぐ姿”にファン悶絶！頬いっぱいに料理を頬張り「もぐもぐ仁人かわいい」「幸せそう」「ありもしない記憶が蘇ってくる」「食べ方が綺麗」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000859918/",
+        "publishedAt": "2026-08-07T04:36:51.000Z",
+        "summary": "雑誌『butter』の公式Instagramが更新。M!LKの吉田仁人の撮影の様子を収めた動画が公開され、...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "d1f36114afc34542",
+        "title": "M!LKユニット曲を5人全員でダンス！艶っぽいふたりと年下組の自由すぎるダンスに「山中さんだいちゃんに抱きついてる」「吉田さんの爆笑かわいい」「見守るさのじん尊い」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000859578/",
+        "publishedAt": "2026-08-07T03:40:39.000Z",
+        "summary": "M!LKの公式TikTokで、吉田仁人と佐野勇斗のユニット曲「罪と罰と雨とキス」をメンバー全員でダ...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "507999ac75c9ce39",
+        "title": "M!LK曽野舜太が『仮面ライダーゼッツ』ヒロイン・堀口真帆と笑顔で“滅ポーズ”！「身長差にキュン」「美男美女」「激レア2ショット」「最高すぎる」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000859849/",
+        "publishedAt": "2026-08-07T03:38:51.000Z",
+        "summary": "堀口真帆が自身のInstagramとXを更新。映画『仮面ライダーゼッツ さよならのミッション』で共...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
       {
         "id": "3124a5c5b6b92029",
         "title": "M!LK 5人が“メンカラ法被”姿を披露！吉田仁人は金魚すくい成功でニコニコ、佐野勇斗の“悔しがる姿”にも反響「かわいすぎる」",
@@ -128,121 +209,6 @@
           },
           {
             "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "972a3ab59462a4c6",
-        "title": "M!LK 佐野勇斗、大忙しのニューヨーク旅行を公開 「ねむねむモード勇斗くんの破壊力すごい」「スケジュールが異常すぎる」",
-        "sourceName": "リアルサウンド 音楽",
-        "sourceUrl": "https://realsound.jp/music/feed",
-        "articleUrl": "https://realsound.jp/2026/08/post-2483491.html",
-        "publishedAt": "2026-08-06T20:50:08.000Z",
-        "summary": "M!LKの佐野勇斗が自身のYouTubeを更新。GUCCIのファッションショーでニューヨークを訪れた様子を公開した。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "cb40ff4054d504eb",
-        "title": "Lienel、メジャー2ndシングル「愛のダバダ」を10月リリース＋特報映像公開",
-        "sourceName": "BARKS",
-        "sourceUrl": "https://www.barks.jp/feed/",
-        "articleUrl": "https://barks.jp/news/1081836",
-        "publishedAt": "2026-08-06T20:30:00.000Z",
-        "summary": "スターダストプロモーション所属 EBiDANの6人組メインボーカル＆ダンスグループ“Lienel”が10月21日、メジャー2ndシングル「愛のダバダ」をリリースすることが発表となった。これにあわせて、メンバーによるタイトル発表特報映像も公開された。 今年6月に「メロ・コレクション」でメジャーデビューを果たしたLienelの2ndシングル「愛のダバダ」表題曲は",
-        "groups": [
-          "EBiDAN",
-          "M!LK",
-          "Lienel"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "芳賀柊斗",
-            "group": "Lienel",
-            "status": "active"
-          },
-          {
-            "name": "近藤駿太",
-            "group": "Lienel",
-            "status": "active"
-          },
-          {
-            "name": "高岡ミロ",
-            "group": "Lienel",
-            "status": "active"
-          },
-          {
-            "name": "森田璃空",
-            "group": "Lienel",
-            "status": "active"
-          },
-          {
-            "name": "武田創世",
-            "group": "Lienel",
-            "status": "active"
-          },
-          {
-            "name": "高桑真之",
-            "group": "Lienel",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "44c79b3dca880571",
-        "title": "「おうちに帰ってきた時…」M!LK塩崎太智が相手に求める“譲れない条件”",
-        "sourceName": "マイナビニュース テレビ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-        "articleUrl": "https://news.mynavi.jp/article/20260806-4779961/",
-        "publishedAt": "2026-08-06T10:00:00.000Z",
-        "summary": "「潔癖ではあるんです」M!LKの塩崎太智(※崎はたつさき)が、3日放送のテレビ東京『オトナモラトリアム』(8月3日・10日24:30～)に出演。相手に求める“譲れない条件”を明かした。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "1a2dcd16c63fb80c",
-        "title": "「5万円くらいの…」M!LK塩崎太智、過去にあげたことのあるプレゼントを告白",
-        "sourceName": "マイナビニュース テレビ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-        "articleUrl": "https://news.mynavi.jp/article/20260805-4779854/",
-        "publishedAt": "2026-08-05T10:00:00.000Z",
-        "summary": "「普段買わない値段の…」M!LKの塩崎太智(※崎はたつさき)が、3日放送のテレビ東京『オトナモラトリアム』(8月3日・10日24:30～)に出演。過去にあげたことのあるプレゼントを告白した。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "塩﨑太智",
             "group": "M!LK",
             "status": "active"
           }
@@ -314,20 +280,6 @@
         "memberMatches": []
       },
       {
-        "id": "a1ac5fd85d70a22d",
-        "title": "EBiDAN NEXTから7⼈組新グループ 「by standard」誕⽣！配信中のデビュー曲「Blaze Up」を『星男祭 2026』でお披露⽬",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000859449/",
-        "publishedAt": "2026-08-06T09:50:40.000Z",
-        "summary": "「EBiDAN（恵比寿学園男子部）」の研究生「EBiDAN NEXT」から、福岡を拠点とするEBiDAN FUKUOK...",
-        "groups": [
-          "EBiDAN"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
         "id": "b43f4ac8a3d7af47",
         "title": "『HMV夏のEBiDAN祭り2026』開催決定！「EBiDAN THE LIVE 2026 15th Anniversary」会場にて、デコガチャの販売やスペシャル抽選会を開催！さらに、「Yes! 東京」発売を記念した連動企画や、渋谷MODIでのデコガチャ等、様々な企画でEBiDANを盛り上げます！",
         "sourceName": "超特急 公式NEWS",
@@ -349,6 +301,21 @@
         "articleUrl": "https://super-dragon.jp/news/news11518/",
         "publishedAt": "2026-08-05T11:59:36.000Z",
         "summary": "EBiDAN15周年記念シングル「Yes! 東京」発売を記念して、『HMV夏のEBiDAN祭り』がスペシャルバージョンになって実施決定！「EBiDAN THE LIVE 2026 15th Anniversary」会場、 […] The post 『HMV夏のEBiDAN祭り2026』開催決定！「EBiDAN THE LIVE 2026 15th Anniv",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "4ec4645d27683863",
+        "title": "『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット 会場販売のお知らせ",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11500/",
+        "publishedAt": "2026-08-05T03:59:07.000Z",
+        "summary": "8月13日(木)～8月16日(日)に開催される『EBiDAN THE LIVE 2026 15th Anniversary』公演会場にて該当公演のチケットをお持ちの方を対象に、会場で受け取り可能なオフィシャルグッズ・生写 […] The post 『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット ",
         "groups": [
           "EBiDAN",
           "SUPER★DRAGON"
