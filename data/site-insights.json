@@ -1,26 +1,30 @@
 {
-  "updatedAt": "2026-08-06T14:34:38.551Z",
+  "updatedAt": "2026-08-07T00:15:31.097Z",
   "totals": {
     "all": 160,
-    "today": 6,
-    "week": 25
+    "today": 2,
+    "week": 27
   },
   "groupRanking": [
     {
       "name": "EBiDAN",
-      "count": 15
+      "count": 16
+    },
+    {
+      "name": "M!LK",
+      "count": 8
     },
     {
       "name": "SUPER★DRAGON",
       "count": 7
     },
     {
-      "name": "M!LK",
-      "count": 6
-    },
-    {
       "name": "超特急",
       "count": 3
+    },
+    {
+      "name": "Lienel",
+      "count": 1
     }
   ],
   "memberRanking": [
@@ -34,7 +38,7 @@
     },
     {
       "name": "佐野勇斗",
-      "count": 2
+      "count": 3
     },
     {
       "name": "曽野舜太",
@@ -45,7 +49,23 @@
       "count": 1
     },
     {
+      "name": "近藤駿太",
+      "count": 1
+    },
+    {
+      "name": "高岡ミロ",
+      "count": 1
+    },
+    {
+      "name": "高桑真之",
+      "count": 1
+    },
+    {
       "name": "山中柔太朗",
+      "count": 1
+    },
+    {
+      "name": "森田璃空",
       "count": 1
     }
   ],
@@ -71,17 +91,96 @@
       "count": 2
     },
     {
+      "name": "BARKS",
+      "count": 1
+    },
+    {
       "name": "Bezzy",
       "count": 1
     },
     {
       "name": "マイナビニュース テレビ",
       "count": 1
+    },
+    {
+      "name": "リアルサウンド 音楽",
+      "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
     "M!LK": [
+      {
+        "id": "972a3ab59462a4c6",
+        "title": "M!LK 佐野勇斗、大忙しのニューヨーク旅行を公開 「ねむねむモード勇斗くんの破壊力すごい」「スケジュールが異常すぎる」",
+        "sourceName": "リアルサウンド 音楽",
+        "sourceUrl": "https://realsound.jp/music/feed",
+        "articleUrl": "https://realsound.jp/2026/08/post-2483491.html",
+        "publishedAt": "2026-08-06T20:50:08.000Z",
+        "summary": "M!LKの佐野勇斗が自身のYouTubeを更新。GUCCIのファッションショーでニューヨークを訪れた様子を公開した。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "cb40ff4054d504eb",
+        "title": "Lienel、メジャー2ndシングル「愛のダバダ」を10月リリース＋特報映像公開",
+        "sourceName": "BARKS",
+        "sourceUrl": "https://www.barks.jp/feed/",
+        "articleUrl": "https://barks.jp/news/1081836",
+        "publishedAt": "2026-08-06T20:30:00.000Z",
+        "summary": "スターダストプロモーション所属 EBiDANの6人組メインボーカル＆ダンスグループ“Lienel”が10月21日、メジャー2ndシングル「愛のダバダ」をリリースすることが発表となった。これにあわせて、メンバーによるタイトル発表特報映像も公開された。 今年6月に「メロ・コレクション」でメジャーデビューを果たしたLienelの2ndシングル「愛のダバダ」表題曲は",
+        "groups": [
+          "EBiDAN",
+          "M!LK",
+          "Lienel"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "芳賀柊斗",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "近藤駿太",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "高岡ミロ",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "森田璃空",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "武田創世",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "高桑真之",
+            "group": "Lienel",
+            "status": "active"
+          }
+        ]
+      },
       {
         "id": "9997a8ee73155f48",
         "title": "「ピュアさに心が洗われる」「大好きなんだなあ」M!LK最年少・曽野舜太の“グループ愛”にファンから感動の声",
@@ -162,58 +261,58 @@
             "status": "active"
           }
         ]
-      },
-      {
-        "id": "1a2dcd16c63fb80c",
-        "title": "「5万円くらいの…」M!LK塩崎太智、過去にあげたことのあるプレゼントを告白",
-        "sourceName": "マイナビニュース テレビ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-        "articleUrl": "https://news.mynavi.jp/article/20260805-4779854/",
-        "publishedAt": "2026-08-05T10:00:00.000Z",
-        "summary": "「普段買わない値段の…」M!LKの塩崎太智(※崎はたつさき)が、3日放送のテレビ東京『オトナモラトリアム』(8月3日・10日24:30～)に出演。過去にあげたことのあるプレゼントを告白した。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "7812b324a6472993",
-        "title": "佐野勇斗＆吉田仁人（M!LK）、「モー烈モー進！リリースプロジェクト2026」完結飾る“罪と罰と雨とキス”配信リリース＆MV公開",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/08/04/tg007",
-        "publishedAt": "2026-08-04T04:50:00.000Z",
-        "summary": "",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
       }
     ],
     "EBiDAN": [
+      {
+        "id": "cb40ff4054d504eb",
+        "title": "Lienel、メジャー2ndシングル「愛のダバダ」を10月リリース＋特報映像公開",
+        "sourceName": "BARKS",
+        "sourceUrl": "https://www.barks.jp/feed/",
+        "articleUrl": "https://barks.jp/news/1081836",
+        "publishedAt": "2026-08-06T20:30:00.000Z",
+        "summary": "スターダストプロモーション所属 EBiDANの6人組メインボーカル＆ダンスグループ“Lienel”が10月21日、メジャー2ndシングル「愛のダバダ」をリリースすることが発表となった。これにあわせて、メンバーによるタイトル発表特報映像も公開された。 今年6月に「メロ・コレクション」でメジャーデビューを果たしたLienelの2ndシングル「愛のダバダ」表題曲は",
+        "groups": [
+          "EBiDAN",
+          "M!LK",
+          "Lienel"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "芳賀柊斗",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "近藤駿太",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "高岡ミロ",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "森田璃空",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "武田創世",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "高桑真之",
+            "group": "Lienel",
+            "status": "active"
+          }
+        ]
+      },
       {
         "id": "e18ccf0cadfec290",
         "title": "「J-POPシングル ウィークリーTOP30」発表。1位はME:I『花咲く道』、予約1位はEBiDAN（恵比寿学園男子部）『Yes! 東京』（2026年8月6日付）",
@@ -270,21 +369,57 @@
         ],
         "statuses": [],
         "memberMatches": []
-      },
+      }
+    ],
+    "Lienel": [
       {
-        "id": "4ec4645d27683863",
-        "title": "『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット 会場販売のお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11500/",
-        "publishedAt": "2026-08-05T03:59:07.000Z",
-        "summary": "8月13日(木)～8月16日(日)に開催される『EBiDAN THE LIVE 2026 15th Anniversary』公演会場にて該当公演のチケットをお持ちの方を対象に、会場で受け取り可能なオフィシャルグッズ・生写 […] The post 『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット ",
+        "id": "cb40ff4054d504eb",
+        "title": "Lienel、メジャー2ndシングル「愛のダバダ」を10月リリース＋特報映像公開",
+        "sourceName": "BARKS",
+        "sourceUrl": "https://www.barks.jp/feed/",
+        "articleUrl": "https://barks.jp/news/1081836",
+        "publishedAt": "2026-08-06T20:30:00.000Z",
+        "summary": "スターダストプロモーション所属 EBiDANの6人組メインボーカル＆ダンスグループ“Lienel”が10月21日、メジャー2ndシングル「愛のダバダ」をリリースすることが発表となった。これにあわせて、メンバーによるタイトル発表特報映像も公開された。 今年6月に「メロ・コレクション」でメジャーデビューを果たしたLienelの2ndシングル「愛のダバダ」表題曲は",
         "groups": [
           "EBiDAN",
-          "SUPER★DRAGON"
+          "M!LK",
+          "Lienel"
         ],
-        "statuses": [],
-        "memberMatches": []
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "芳賀柊斗",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "近藤駿太",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "高岡ミロ",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "森田璃空",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "武田創世",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "高桑真之",
+            "group": "Lienel",
+            "status": "active"
+          }
+        ]
       }
     ],
     "超特急": [
