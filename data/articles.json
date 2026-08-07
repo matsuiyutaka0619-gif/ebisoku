@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-08-07T00:15:31.094Z",
+  "updatedAt": "2026-08-07T03:17:26.990Z",
   "articles": [
+    {
+      "id": "3124a5c5b6b92029",
+      "title": "M!LK 5人が“メンカラ法被”姿を披露！吉田仁人は金魚すくい成功でニコニコ、佐野勇斗の“悔しがる姿”にも反響「かわいすぎる」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000859787/",
+      "publishedAt": "2026-08-07T02:47:38.000Z",
+      "summary": "TBSの公式YouTubeチャンネルで、M!LKの冠番組『限界突破！やってM!LK』シーズン2の8月13日放送...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "972a3ab59462a4c6",
       "title": "M!LK 佐野勇斗、大忙しのニューヨーク旅行を公開 「ねむねむモード勇斗くんの破壊力すごい」「スケジュールが異常すぎる」",
@@ -73,32 +100,10 @@
       ]
     },
     {
-      "id": "9997a8ee73155f48",
-      "title": "「ピュアさに心が洗われる」「大好きなんだなあ」M!LK最年少・曽野舜太の“グループ愛”にファンから感動の声",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-      "articleUrl": "https://news.mynavi.jp/article/20260806-4784218/",
-      "publishedAt": "2026-08-06T12:00:00.000Z",
-      "summary": "「1人やったら無理やけど、みんなで越えることがすごい気持ちいい」アイドルグループ・M!LKの曽野舜太が語った“グループ愛”にファンから感動の声が上がっている―。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "曽野舜太",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "44c79b3dca880571",
       "title": "「おうちに帰ってきた時…」M!LK塩崎太智が相手に求める“譲れない条件”",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
       "articleUrl": "https://news.mynavi.jp/article/20260806-4779961/",
       "publishedAt": "2026-08-06T10:00:00.000Z",
       "summary": "「潔癖ではあるんです」M!LKの塩崎太智(※崎はたつさき)が、3日放送のテレビ東京『オトナモラトリアム』(8月3日・10日24:30～)に出演。相手に求める“譲れない条件”を明かした。",
@@ -157,43 +162,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "f1c7db649e6dcac7",
-      "title": "不在の塩﨑太智をM!LKメンバーが揃ってマネする「爆裂愛してる」ダンス公開！「塩さんの肖像画と見つめ合っててかわいい」「いないのに存在感抜群」「1人分スペース空けてあるの愛しい」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000859213/",
-      "publishedAt": "2026-08-06T03:31:26.000Z",
-      "summary": "M!LK公式SNSにて、曽野舜太・山中柔太朗・吉田仁人が「爆裂愛してる」を踊る動画が公開された...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "塩﨑太智",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "曽野舜太",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "山中柔太朗",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "b43f4ac8a3d7af47",
@@ -2755,6 +2723,21 @@
       "summary": "超特急「BULLET TRAIN ARENA TOUR 2026 ESCORT」横浜アリーナ・福岡公演 追加販売分も好評につき完売いたしました。 ご購入いただいた皆様、ありがとうございました!!!!!!!!! BULLE […]",
       "groups": [
         "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "62e991f7d06e12f0",
+      "title": "8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 全15形態のジャケット写真、封入特典のトレカ絵柄を一部公開！",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news11012/",
+      "publishedAt": "2026-05-22T08:00:33.000Z",
+      "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して、8月11日(火・祝)にリリースするシングル「Yes! 東京」のジャケット写真を公開！ 今作は通常盤、グループ盤、15周年盤の計15形態での発売となり、その中でも通常 […] The post 8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 全15形態のジャケット写真、封入特典のトレカ",
+      "groups": [
+        "EBiDAN",
+        "SUPER★DRAGON"
       ],
       "statuses": [],
       "memberMatches": []
