@@ -1,86 +1,66 @@
 {
-  "updatedAt": "2026-08-07T07:40:40.891Z",
+  "updatedAt": "2026-08-07T13:38:23.899Z",
   "totals": {
     "all": 160,
-    "today": 6,
-    "week": 25
+    "today": 11,
+    "week": 30
   },
   "groupRanking": [
     {
       "name": "EBiDAN",
-      "count": 12
+      "count": 13
     },
     {
       "name": "M!LK",
-      "count": 10
+      "count": 12
     },
     {
       "name": "SUPER★DRAGON",
-      "count": 6
+      "count": 8
     },
     {
       "name": "超特急",
       "count": 3
-    },
-    {
-      "name": "Lienel",
-      "count": 1
     }
   ],
   "memberRanking": [
     {
       "name": "吉田仁人",
-      "count": 5
+      "count": 4
     },
     {
-      "name": "佐野勇斗",
+      "name": "曽野舜太",
       "count": 4
     },
     {
       "name": "塩﨑太智",
-      "count": 2
+      "count": 3
+    },
+    {
+      "name": "佐野勇斗",
+      "count": 3
     },
     {
       "name": "リョウガ",
-      "count": 1
-    },
-    {
-      "name": "近藤駿太",
-      "count": 1
-    },
-    {
-      "name": "高岡ミロ",
-      "count": 1
-    },
-    {
-      "name": "高桑真之",
-      "count": 1
-    },
-    {
-      "name": "森田璃空",
-      "count": 1
-    },
-    {
-      "name": "曽野舜太",
-      "count": 1
-    },
-    {
-      "name": "武田創世",
       "count": 1
     }
   ],
   "sourceRanking": [
     {
       "name": "超特急 公式NEWS",
-      "count": 8
+      "count": 9
     },
     {
       "name": "SUPER★DRAGON 公式NEWS",
-      "count": 6
+      "count": 8
     },
     {
       "name": "THE FIRST TIMES",
-      "count": 5
+      "count": 3
+    },
+    {
+      "name": "日刊スポーツ 芸能",
+      "count": 3
     },
     {
       "name": "タワーレコード ニュース",
@@ -91,11 +71,15 @@
       "count": 2
     },
     {
-      "name": "BARKS",
+      "name": "Bezzy",
       "count": 1
     },
     {
-      "name": "Bezzy",
+      "name": "ENCOUNT",
+      "count": 1
+    },
+    {
+      "name": "マイナビニュース エンタメ",
       "count": 1
     }
   ],
@@ -103,76 +87,13 @@
   "recentByGroup": {
     "M!LK": [
       {
-        "id": "6f5fd14921b036eb",
-        "title": "M!LK5人がくっついて座敷に腰を下ろしたお茶の間オフショット公開！「仁人くんのシースルーバング好き」「太智くん前髪下ろしかわいい」「みんなかっこいい」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000859971/",
-        "publishedAt": "2026-08-07T05:38:11.000Z",
-        "summary": "M!LK公式SNSにて、8月6日深夜放送の『限界突破！やってM!LK』オフショットが公開された。 ■ア...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "baa5bbe47115d311",
-        "title": "M!LK吉田仁人の“もぐもぐ姿”にファン悶絶！頬いっぱいに料理を頬張り「もぐもぐ仁人かわいい」「幸せそう」「ありもしない記憶が蘇ってくる」「食べ方が綺麗」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000859918/",
-        "publishedAt": "2026-08-07T04:36:51.000Z",
-        "summary": "雑誌『butter』の公式Instagramが更新。M!LKの吉田仁人の撮影の様子を収めた動画が公開され、...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "d1f36114afc34542",
-        "title": "M!LKユニット曲を5人全員でダンス！艶っぽいふたりと年下組の自由すぎるダンスに「山中さんだいちゃんに抱きついてる」「吉田さんの爆笑かわいい」「見守るさのじん尊い」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000859578/",
-        "publishedAt": "2026-08-07T03:40:39.000Z",
-        "summary": "M!LKの公式TikTokで、吉田仁人と佐野勇斗のユニット曲「罪と罰と雨とキス」をメンバー全員でダ...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "507999ac75c9ce39",
-        "title": "M!LK曽野舜太が『仮面ライダーゼッツ』ヒロイン・堀口真帆と笑顔で“滅ポーズ”！「身長差にキュン」「美男美女」「激レア2ショット」「最高すぎる」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000859849/",
-        "publishedAt": "2026-08-07T03:38:51.000Z",
-        "summary": "堀口真帆が自身のInstagramとXを更新。映画『仮面ライダーゼッツ さよならのミッション』で共...",
+        "id": "222baa07b5dd87a4",
+        "title": "曽野舜太「お芝居も頑張ろう」仮面ライダー出演し俳優業への意欲高まる「もっといろんな顔を」",
+        "sourceName": "日刊スポーツ 芸能",
+        "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+        "articleUrl": "https://www.nikkansports.com/entertainment/news/202608070001903.html",
+        "publishedAt": "2026-08-07T12:37:29.000Z",
+        "summary": "5人組ダンスボーカルグループ、M!LKの曽野舜太（24）が7日、都内で映画「仮面ライダーゼッツ さよならのミッション」（上堀内佳寿也監督）公開御礼舞台あいさつに登壇した。 同作に仮面ライダー夢限役でゲスト出演。この日は主演の今井竜太郎（…",
         "groups": [
           "M!LK"
         ],
@@ -188,13 +109,84 @@
         ]
       },
       {
-        "id": "3124a5c5b6b92029",
-        "title": "M!LK 5人が“メンカラ法被”姿を披露！吉田仁人は金魚すくい成功でニコニコ、佐野勇斗の“悔しがる姿”にも反響「かわいすぎる」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000859787/",
-        "publishedAt": "2026-08-07T02:47:38.000Z",
-        "summary": "TBSの公式YouTubeチャンネルで、M!LKの冠番組『限界突破！やってM!LK』シーズン2の8月13日放送...",
+        "id": "a23a311185745f71",
+        "title": "曽野舜太、あいうえお作文で「ん」に挑戦 “代名詞”で力技突破「どうしようもこうしようも」",
+        "sourceName": "日刊スポーツ 芸能",
+        "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+        "articleUrl": "https://www.nikkansports.com/entertainment/news/202608070001823.html",
+        "publishedAt": "2026-08-07T12:20:09.000Z",
+        "summary": "5人組ダンスボーカルグループ、M！LKの曽野舜太（24）が7日、都内で映画「仮面ライダーゼッツ さよならのミッション」（上堀内佳寿也監督）公開御礼舞台あいさつに登壇した。 同作に仮面ライダー夢限役でゲスト出演。この日は主演の今井竜太郎（…",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "9f9e5408e8f9d123",
+        "title": "M！LK曽野舜太、仮面ライダー出演決定時の塩﨑太智をモノマネ再現「自分のことのように",
+        "sourceName": "日刊スポーツ 芸能",
+        "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+        "articleUrl": "https://www.nikkansports.com/entertainment/news/202608070001674.html",
+        "publishedAt": "2026-08-07T11:53:50.000Z",
+        "summary": "5人組ダンスボーカルグループ、M!LKの曽野舜太（24）が7日、都内で映画「仮面ライダーゼッツ さよならのミッション」（上堀内佳寿也監督）公開御礼舞台あいさつに登壇した。 同作に仮面ライダー夢限役でゲスト出演。公開から2週間が経過し、「…",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "5b3b2f1725fa264d",
+        "title": "M!LK曽野舜太、監督から“艶”絶賛で照れ「本当ですか？」 仮面ライダー役の不安も吐露",
+        "sourceName": "ENCOUNT",
+        "sourceUrl": "https://encount.press/feed/",
+        "articleUrl": "https://encount.press/archives/1044813/",
+        "publishedAt": "2026-08-07T11:20:12.000Z",
+        "summary": "M!LKの曽野舜太が7日、都内で行われた映画『仮面ライダーゼッツ さよならのミッション』（公開中）公開御礼舞台あいさつに、俳優の今井竜太郎、上堀内佳寿也監督と共に登壇。上堀内監督から、本作にもたらした“艶”を絶賛される一 […]",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "7affe81872acdcd7",
+        "title": "「やらかしたかな?」「私服警察かと…」M!LK佐野勇斗、ニューヨークの空港で突然声をかけられ… まさかの出来事に驚き",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20260807-4784302/",
+        "publishedAt": "2026-08-07T10:00:00.000Z",
+        "summary": "「不思議な出来事が起きました」アイドルグループ・M!LKの佐野勇斗が、米・ニューヨークの空港で体験した出来事を明かした――。",
         "groups": [
           "M!LK"
         ],
@@ -206,64 +198,39 @@
             "name": "佐野勇斗",
             "group": "M!LK",
             "status": "active"
-          },
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
           }
         ]
       }
     ],
     "EBiDAN": [
       {
-        "id": "cb40ff4054d504eb",
-        "title": "Lienel、メジャー2ndシングル「愛のダバダ」を10月リリース＋特報映像公開",
-        "sourceName": "BARKS",
-        "sourceUrl": "https://www.barks.jp/feed/",
-        "articleUrl": "https://barks.jp/news/1081836",
-        "publishedAt": "2026-08-06T20:30:00.000Z",
-        "summary": "スターダストプロモーション所属 EBiDANの6人組メインボーカル＆ダンスグループ“Lienel”が10月21日、メジャー2ndシングル「愛のダバダ」をリリースすることが発表となった。これにあわせて、メンバーによるタイトル発表特報映像も公開された。 今年6月に「メロ・コレクション」でメジャーデビューを果たしたLienelの2ndシングル「愛のダバダ」表題曲は",
+        "id": "b396ff503ea66479",
+        "title": "【渋谷エリアジャック及び山手線ラッピング広告をご覧になる皆様へ再度のお願い】",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11527/",
+        "publishedAt": "2026-08-07T12:30:26.000Z",
+        "summary": "いつもEBiDANへ温かい応援をいただき、誠にありがとうございます。 依然として、渋谷ジャック及び山手線ラッピング広告に関して駅構内、ホーム上、車内、道路上における危険行為や滞留、一歩間違えれば大事故に直結しかねない極め […] The post 【渋谷エリアジャック及び山手線ラッピング広告をご覧になる皆様へ再度のお願い】 first appeared on",
         "groups": [
           "EBiDAN",
-          "M!LK",
-          "Lienel"
+          "SUPER★DRAGON"
         ],
-        "statuses": [
-          "active"
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "963840c649ccf026",
+        "title": "【渋谷エリアジャック及び山手線ラッピング広告をご覧になる皆様へ再度のお願い】",
+        "sourceName": "超特急 公式NEWS",
+        "sourceUrl": "https://bullettrain.jp/news/feed/",
+        "articleUrl": "https://bullettrain.jp/news/news26484/",
+        "publishedAt": "2026-08-07T12:29:12.000Z",
+        "summary": "いつもEBiDANへ温かい応援をいただき、誠にありがとうございます。 依然として、渋谷ジャック及び山手線ラッピング広告に関して駅構内、ホーム上、車内、道路上における危険行為や滞留、一歩間違えれば大事故に直結しかねない極め […]",
+        "groups": [
+          "EBiDAN"
         ],
-        "memberMatches": [
-          {
-            "name": "芳賀柊斗",
-            "group": "Lienel",
-            "status": "active"
-          },
-          {
-            "name": "近藤駿太",
-            "group": "Lienel",
-            "status": "active"
-          },
-          {
-            "name": "高岡ミロ",
-            "group": "Lienel",
-            "status": "active"
-          },
-          {
-            "name": "森田璃空",
-            "group": "Lienel",
-            "status": "active"
-          },
-          {
-            "name": "武田創世",
-            "group": "Lienel",
-            "status": "active"
-          },
-          {
-            "name": "高桑真之",
-            "group": "Lienel",
-            "status": "active"
-          }
-        ]
+        "statuses": [],
+        "memberMatches": []
       },
       {
         "id": "e18ccf0cadfec290",
@@ -307,6 +274,66 @@
         ],
         "statuses": [],
         "memberMatches": []
+      }
+    ],
+    "SUPER★DRAGON": [
+      {
+        "id": "b396ff503ea66479",
+        "title": "【渋谷エリアジャック及び山手線ラッピング広告をご覧になる皆様へ再度のお願い】",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11527/",
+        "publishedAt": "2026-08-07T12:30:26.000Z",
+        "summary": "いつもEBiDANへ温かい応援をいただき、誠にありがとうございます。 依然として、渋谷ジャック及び山手線ラッピング広告に関して駅構内、ホーム上、車内、道路上における危険行為や滞留、一歩間違えれば大事故に直結しかねない極め […] The post 【渋谷エリアジャック及び山手線ラッピング広告をご覧になる皆様へ再度のお願い】 first appeared on",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "44897469e7a600d4",
+        "title": "「SUPER★DRAGON DRA FES 2026」12月豊洲PITにて追加公演が決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11524/",
+        "publishedAt": "2026-08-07T09:00:11.000Z",
+        "summary": "9月開催「SUPER★DRAGON DRA FES 2026」東京・大阪公演完売につき、12月19日(土)豊洲PITにて追加公演の開催が決定！！ 本日、8月7日(金)18:00より、豊洲PIT〈追加公演〉オフィシャルファ […] The post 「SUPER★DRAGON DRA FES 2026」12月豊洲PITにて追加公演が決定！ first appe",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "eda2ff0bee252daa",
+        "title": "『HMV夏のEBiDAN祭り2026』開催決定！「EBiDAN THE LIVE 2026 15th Anniversary」会場にて、デコガチャの販売やスペシャル抽選会を開催！さらに、「Yes! 東京」発売を記念した連動企画や、渋谷MODIでのデコガチャ等、様々な企画でEBiDANを盛り上げます！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11518/",
+        "publishedAt": "2026-08-05T11:59:36.000Z",
+        "summary": "EBiDAN15周年記念シングル「Yes! 東京」発売を記念して、『HMV夏のEBiDAN祭り』がスペシャルバージョンになって実施決定！「EBiDAN THE LIVE 2026 15th Anniversary」会場、 […] The post 『HMV夏のEBiDAN祭り2026』開催決定！「EBiDAN THE LIVE 2026 15th Anniv",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "8eee66f46c531a54",
+        "title": "「SUPER★DRAGON DRA FES 2026」SOLD OUT !!",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11513/",
+        "publishedAt": "2026-08-05T08:59:02.000Z",
+        "summary": "「SUPER★DRAGON DRA FES 2026」のチケットが好評につき完売いたしました！ ご購入いただいた皆様、ありがとうございました！ 「SUPER★DRAGON DRA FES 2026」 THANK YOU […] The post 「SUPER★DRAGON DRA FES 2026」SOLD OUT !! first appeared on ",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
       },
       {
         "id": "4ec4645d27683863",
@@ -322,57 +349,6 @@
         ],
         "statuses": [],
         "memberMatches": []
-      }
-    ],
-    "Lienel": [
-      {
-        "id": "cb40ff4054d504eb",
-        "title": "Lienel、メジャー2ndシングル「愛のダバダ」を10月リリース＋特報映像公開",
-        "sourceName": "BARKS",
-        "sourceUrl": "https://www.barks.jp/feed/",
-        "articleUrl": "https://barks.jp/news/1081836",
-        "publishedAt": "2026-08-06T20:30:00.000Z",
-        "summary": "スターダストプロモーション所属 EBiDANの6人組メインボーカル＆ダンスグループ“Lienel”が10月21日、メジャー2ndシングル「愛のダバダ」をリリースすることが発表となった。これにあわせて、メンバーによるタイトル発表特報映像も公開された。 今年6月に「メロ・コレクション」でメジャーデビューを果たしたLienelの2ndシングル「愛のダバダ」表題曲は",
-        "groups": [
-          "EBiDAN",
-          "M!LK",
-          "Lienel"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "芳賀柊斗",
-            "group": "Lienel",
-            "status": "active"
-          },
-          {
-            "name": "近藤駿太",
-            "group": "Lienel",
-            "status": "active"
-          },
-          {
-            "name": "高岡ミロ",
-            "group": "Lienel",
-            "status": "active"
-          },
-          {
-            "name": "森田璃空",
-            "group": "Lienel",
-            "status": "active"
-          },
-          {
-            "name": "武田創世",
-            "group": "Lienel",
-            "status": "active"
-          },
-          {
-            "name": "高桑真之",
-            "group": "Lienel",
-            "status": "active"
-          }
-        ]
       }
     ],
     "超特急": [
@@ -450,82 +426,6 @@
         "summary": "8月2日(日)10:00より三井ショッピングパーク チケット先着先行がスタート！ ご乗車お待ちしております!!!!!!!!! ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願いと注意事項】 https […]",
         "groups": [
           "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "SUPER★DRAGON": [
-      {
-        "id": "eda2ff0bee252daa",
-        "title": "『HMV夏のEBiDAN祭り2026』開催決定！「EBiDAN THE LIVE 2026 15th Anniversary」会場にて、デコガチャの販売やスペシャル抽選会を開催！さらに、「Yes! 東京」発売を記念した連動企画や、渋谷MODIでのデコガチャ等、様々な企画でEBiDANを盛り上げます！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11518/",
-        "publishedAt": "2026-08-05T11:59:36.000Z",
-        "summary": "EBiDAN15周年記念シングル「Yes! 東京」発売を記念して、『HMV夏のEBiDAN祭り』がスペシャルバージョンになって実施決定！「EBiDAN THE LIVE 2026 15th Anniversary」会場、 […] The post 『HMV夏のEBiDAN祭り2026』開催決定！「EBiDAN THE LIVE 2026 15th Anniv",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "8eee66f46c531a54",
-        "title": "「SUPER★DRAGON DRA FES 2026」SOLD OUT !!",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11513/",
-        "publishedAt": "2026-08-05T08:59:02.000Z",
-        "summary": "「SUPER★DRAGON DRA FES 2026」のチケットが好評につき完売いたしました！ ご購入いただいた皆様、ありがとうございました！ 「SUPER★DRAGON DRA FES 2026」 THANK YOU […] The post 「SUPER★DRAGON DRA FES 2026」SOLD OUT !! first appeared on ",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "4ec4645d27683863",
-        "title": "『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット 会場販売のお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11500/",
-        "publishedAt": "2026-08-05T03:59:07.000Z",
-        "summary": "8月13日(木)～8月16日(日)に開催される『EBiDAN THE LIVE 2026 15th Anniversary』公演会場にて該当公演のチケットをお持ちの方を対象に、会場で受け取り可能なオフィシャルグッズ・生写 […] The post 『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット ",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "ab2d8ee93a167bf9",
-        "title": "EBiDAN THE LIVE 2026 15th Anniversary 定価トレード情報",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11497/",
-        "publishedAt": "2026-08-04T02:59:36.000Z",
-        "summary": "「EBiDAN THE LIVE 2026 15th Anniversary」のチケットをお持ちで、 ご都合が悪くなったお客様のために8月5日(水)21:00より先着順にてチケットトレードの実施が決定いたしました。 トレ […] The post EBiDAN THE LIVE 2026 15th Anniversary 定価トレード情報 first app",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "777702b6f3f4719a",
-        "title": "「EBiDAN THE LIVE 2026 15th Anniversary」にてファンクラブブース実施決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11490/",
-        "publishedAt": "2026-08-04T01:31:46.000Z",
-        "summary": "8月13日(木)〜8月16日(日) 開催「EBiDAN THE LIVE 2026 15th Anniversary」にて、ファンクラブブースの実施が決定！ EBiDANオフィシャルサイトと、ご入会中のグループファンクラ […] The post 「EBiDAN THE LIVE 2026 15th Anniversary」にてファンクラブブース実施決定！ ",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
         ],
         "statuses": [],
         "memberMatches": []
