@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-08-07T13:38:23.897Z",
+  "updatedAt": "2026-08-07T19:15:04.688Z",
   "articles": [
+    {
+      "id": "be4d78e64780bd02",
+      "title": "M!LK曽野舜太が作品に加えた“艶” 多忙な中での撮影で見せた“熱さ”を監督が絶賛「もう1回やらせてください! と…」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260807-4789954/",
+      "publishedAt": "2026-08-07T14:45:00.000Z",
+      "summary": "ダンスボーカルグループ・M!LKの曽野舜太が7日、映画『仮面ライダーゼッツ さよならのミッション』(公開中)の公開御礼舞台挨拶に、今井竜太郎、上堀内佳寿也監督とともに登壇。監督から魅力を絶賛された。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "曽野舜太",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "222baa07b5dd87a4",
       "title": "曽野舜太「お芝居も頑張ろう」仮面ライダー出演し俳優業への意欲高まる「もっといろんな顔を」",
@@ -60,55 +82,6 @@
       "articleUrl": "https://www.nikkansports.com/entertainment/news/202608070001823.html",
       "publishedAt": "2026-08-07T12:20:09.000Z",
       "summary": "5人組ダンスボーカルグループ、M！LKの曽野舜太（24）が7日、都内で映画「仮面ライダーゼッツ さよならのミッション」（上堀内佳寿也監督）公開御礼舞台あいさつに登壇した。 同作に仮面ライダー夢限役でゲスト出演。この日は主演の今井竜太郎（…",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "曽野舜太",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "9f9e5408e8f9d123",
-      "title": "M！LK曽野舜太、仮面ライダー出演決定時の塩﨑太智をモノマネ再現「自分のことのように",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202608070001674.html",
-      "publishedAt": "2026-08-07T11:53:50.000Z",
-      "summary": "5人組ダンスボーカルグループ、M!LKの曽野舜太（24）が7日、都内で映画「仮面ライダーゼッツ さよならのミッション」（上堀内佳寿也監督）公開御礼舞台あいさつに登壇した。 同作に仮面ライダー夢限役でゲスト出演。公開から2週間が経過し、「…",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "塩﨑太智",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "曽野舜太",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "5b3b2f1725fa264d",
-      "title": "M!LK曽野舜太、監督から“艶”絶賛で照れ「本当ですか？」 仮面ライダー役の不安も吐露",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1044813/",
-      "publishedAt": "2026-08-07T11:20:12.000Z",
-      "summary": "M!LKの曽野舜太が7日、都内で行われた映画『仮面ライダーゼッツ さよならのミッション』（公開中）公開御礼舞台あいさつに、俳優の今井竜太郎、上堀内佳寿也監督と共に登壇。上堀内監督から、本作にもたらした“艶”を絶賛される一 […]",
       "groups": [
         "M!LK"
       ],
@@ -2734,6 +2707,21 @@
       "summary": "5人組ダンスボーカルグループ・M!LKが、最新プロジェクト「モー烈モー進！リリースプロジェクト2026」の幕開けを飾るデジタルシングル「アイドルパワー」のOfficial Promotion Videoを公開した。 “2026年、日本を元気に！”という力強いテーマのもと制作された「アイドルパワー」は、アイドルとしての輝きと、聴く人の背中をそっと押すエールソン",
       "groups": [
         "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "9f24a23eeb8f9131",
+      "title": "【7/27(月)更新】EBiDAN15周年記念シングル「Yes! 東京」発売記念リリースイベント『Yes! 飛び出せ! 僕らの移動教室』詳細が決定！",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news11075/",
+      "publishedAt": "2026-05-29T09:59:23.000Z",
+      "summary": "2026年8月11日(火・祝)に発売のEBiDAN15周年記念シングル「Yes! 東京」のリリースイベント『Yes! 飛び出せ! 僕らの移動教室』の最終日の詳細が決定いたしました。 移動教室は12限目をもちまして終了とな […] The post 【7/27(月)更新】EBiDAN15周年記念シングル「Yes! 東京」発売記念リリースイベント『Yes! 飛び",
+      "groups": [
+        "EBiDAN",
+        "SUPER★DRAGON"
       ],
       "statuses": [],
       "memberMatches": []

@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-07T13:38:23.899Z",
+  "updatedAt": "2026-08-07T19:15:04.782Z",
   "totals": {
     "all": 160,
-    "today": 11,
-    "week": 30
+    "today": 0,
+    "week": 29
   },
   "groupRanking": [
     {
@@ -12,7 +12,7 @@
     },
     {
       "name": "M!LK",
-      "count": 12
+      "count": 11
     },
     {
       "name": "SUPER★DRAGON",
@@ -29,16 +29,16 @@
       "count": 4
     },
     {
+      "name": "佐野勇斗",
+      "count": 3
+    },
+    {
       "name": "曽野舜太",
-      "count": 4
+      "count": 3
     },
     {
       "name": "塩﨑太智",
-      "count": 3
-    },
-    {
-      "name": "佐野勇斗",
-      "count": 3
+      "count": 2
     },
     {
       "name": "リョウガ",
@@ -59,11 +59,11 @@
       "count": 3
     },
     {
-      "name": "日刊スポーツ 芸能",
-      "count": 3
+      "name": "タワーレコード ニュース",
+      "count": 2
     },
     {
-      "name": "タワーレコード ニュース",
+      "name": "マイナビニュース エンタメ",
       "count": 2
     },
     {
@@ -71,21 +71,39 @@
       "count": 2
     },
     {
+      "name": "日刊スポーツ 芸能",
+      "count": 2
+    },
+    {
       "name": "Bezzy",
-      "count": 1
-    },
-    {
-      "name": "ENCOUNT",
-      "count": 1
-    },
-    {
-      "name": "マイナビニュース エンタメ",
       "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
     "M!LK": [
+      {
+        "id": "be4d78e64780bd02",
+        "title": "M!LK曽野舜太が作品に加えた“艶” 多忙な中での撮影で見せた“熱さ”を監督が絶賛「もう1回やらせてください! と…」",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20260807-4789954/",
+        "publishedAt": "2026-08-07T14:45:00.000Z",
+        "summary": "ダンスボーカルグループ・M!LKの曽野舜太が7日、映画『仮面ライダーゼッツ さよならのミッション』(公開中)の公開御礼舞台挨拶に、今井竜太郎、上堀内佳寿也監督とともに登壇。監督から魅力を絶賛された。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
       {
         "id": "222baa07b5dd87a4",
         "title": "曽野舜太「お芝居も頑張ろう」仮面ライダー出演し俳優業への意欲高まる「もっといろんな顔を」",
@@ -131,55 +149,6 @@
         ]
       },
       {
-        "id": "9f9e5408e8f9d123",
-        "title": "M！LK曽野舜太、仮面ライダー出演決定時の塩﨑太智をモノマネ再現「自分のことのように",
-        "sourceName": "日刊スポーツ 芸能",
-        "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-        "articleUrl": "https://www.nikkansports.com/entertainment/news/202608070001674.html",
-        "publishedAt": "2026-08-07T11:53:50.000Z",
-        "summary": "5人組ダンスボーカルグループ、M!LKの曽野舜太（24）が7日、都内で映画「仮面ライダーゼッツ さよならのミッション」（上堀内佳寿也監督）公開御礼舞台あいさつに登壇した。 同作に仮面ライダー夢限役でゲスト出演。公開から2週間が経過し、「…",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "5b3b2f1725fa264d",
-        "title": "M!LK曽野舜太、監督から“艶”絶賛で照れ「本当ですか？」 仮面ライダー役の不安も吐露",
-        "sourceName": "ENCOUNT",
-        "sourceUrl": "https://encount.press/feed/",
-        "articleUrl": "https://encount.press/archives/1044813/",
-        "publishedAt": "2026-08-07T11:20:12.000Z",
-        "summary": "M!LKの曽野舜太が7日、都内で行われた映画『仮面ライダーゼッツ さよならのミッション』（公開中）公開御礼舞台あいさつに、俳優の今井竜太郎、上堀内佳寿也監督と共に登壇。上堀内監督から、本作にもたらした“艶”を絶賛される一 […]",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
         "id": "7affe81872acdcd7",
         "title": "「やらかしたかな?」「私服警察かと…」M!LK佐野勇斗、ニューヨークの空港で突然声をかけられ… まさかの出来事に驚き",
         "sourceName": "マイナビニュース エンタメ",
@@ -196,6 +165,28 @@
         "memberMatches": [
           {
             "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "a06d46a6740d39a1",
+        "title": "黒のM!LK吉田仁人と白の新浜レオンが並んだ『レコメン』オフショット公開！「梨の差し入れでかすぎる（笑）」「トークおもしろすぎた」「笑いすぎて元気出た」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000860234/",
+        "publishedAt": "2026-08-07T09:45:34.000Z",
+        "summary": "8月6日放送の文化放送『M!LK 吉田仁人のレコメン！』オフショットが番組公式SNSと、新浜レオン...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉田仁人",
             "group": "M!LK",
             "status": "active"
           }
