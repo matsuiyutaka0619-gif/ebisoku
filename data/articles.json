@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-08-08T02:21:07.242Z",
+  "updatedAt": "2026-08-08T07:14:12.357Z",
   "articles": [
+    {
+      "id": "7431b088b07b929c",
+      "title": "超特急の冠番組『VS.超特急』2週連続で夏休みスペシャルの放送決定！ゲストのWATWINGと絶叫アトラクション&プールを使った遊び開発に挑戦",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000860507/",
+      "publishedAt": "2026-08-08T05:35:23.000Z",
+      "summary": "超特急の冠番組『VS.超特急』が、8月10日と17日と2週連続で夏休みスペシャルの放送が決定した...",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "d6a562c8e8bf4643",
       "title": "超特急 東京ドーム公演＜追加公演＞ SOLD OUT",
@@ -65,28 +79,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "a06d46a6740d39a1",
-      "title": "黒のM!LK吉田仁人と白の新浜レオンが並んだ『レコメン』オフショット公開！「梨の差し入れでかすぎる（笑）」「トークおもしろすぎた」「笑いすぎて元気出た」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000860234/",
-      "publishedAt": "2026-08-07T09:45:34.000Z",
-      "summary": "8月6日放送の文化放送『M!LK 吉田仁人のレコメン！』オフショットが番組公式SNSと、新浜レオン...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "44897469e7a600d4",
