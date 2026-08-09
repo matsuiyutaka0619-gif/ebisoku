@@ -1,14 +1,18 @@
 {
-  "updatedAt": "2026-08-09T13:15:27.057Z",
+  "updatedAt": "2026-08-09T19:00:18.732Z",
   "totals": {
     "all": 160,
-    "today": 4,
-    "week": 30
+    "today": 0,
+    "week": 32
   },
   "groupRanking": [
     {
       "name": "EBiDAN",
       "count": 13
+    },
+    {
+      "name": "超特急",
+      "count": 9
     },
     {
       "name": "M!LK",
@@ -17,10 +21,6 @@
     {
       "name": "SUPER★DRAGON",
       "count": 8
-    },
-    {
-      "name": "超特急",
-      "count": 7
     }
   ],
   "memberRanking": [
@@ -48,7 +48,7 @@
   "sourceRanking": [
     {
       "name": "超特急 公式NEWS",
-      "count": 12
+      "count": 14
     },
     {
       "name": "SUPER★DRAGON 公式NEWS",
@@ -82,6 +82,34 @@
   "topics": [],
   "recentByGroup": {
     "超特急": [
+      {
+        "id": "5918c4587be51b50",
+        "title": "「ESCORT」で披露した楽曲をRe-ver.として配信スタート！",
+        "sourceName": "超特急 公式NEWS",
+        "sourceUrl": "https://bullettrain.jp/news/feed/",
+        "articleUrl": "https://bullettrain.jp/news/news26471/",
+        "publishedAt": "2026-08-09T14:59:21.000Z",
+        "summary": "『BULLET TRAIN ARENA TOUR 2026 ESCORT』で披露した楽曲 「BREAK OFF」「Hey Hey Hey」「HOPE STEP JUMP」「Never Mine」「OVER DRIVE」「 […]",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "2f202e46e29b484a",
+        "title": "「ESCORT」で披露した楽曲をRe-ver.として配信決定！",
+        "sourceName": "超特急 公式NEWS",
+        "sourceUrl": "https://bullettrain.jp/news/feed/",
+        "articleUrl": "https://bullettrain.jp/news/news26468/",
+        "publishedAt": "2026-08-09T13:29:30.000Z",
+        "summary": "本日最終公演を迎えた「BULLET TRAIN ARENA TOUR 2026 ESCORT」の中で披露した楽曲を このあと8月10日(月)0:00に「Re-ver.」での配信リリースが決定しました！ 今回のツアーで披露 […]",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
       {
         "id": "282b232c3fc39f4e",
         "title": "「東京ドーム公演記念 乗車準備会 僕たちは、超特急です!!!!!!!!!」 全国の映画館で開催決定！",
@@ -118,34 +146,6 @@
         "articleUrl": "https://bullettrain.jp/news/news26486/",
         "publishedAt": "2026-08-08T13:29:55.000Z",
         "summary": "Apple Music、Spotifyのいずれかで超特急のアーティストページをフォローいただいた上、ご応募いただいた方全員に「Secretなボイスメッセージ」をプレゼントいたします。 ぜひご参加をお待ちしております！ 【 […]",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "d6a562c8e8bf4643",
-        "title": "超特急 東京ドーム公演＜追加公演＞ SOLD OUT",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26499/",
-        "publishedAt": "2026-08-08T02:14:50.000Z",
-        "summary": "超特急「東京ドーム公演」追加公演も好評につき完売いたしました。 ご購入いただいた皆様、ありがとうございました!!!!!!!!! 超特急 東京ドーム公演＜追加公演＞ 【東京】東京ドーム THANK YOU SOLD OUT […]",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "70ecccdb70b07e39",
-        "title": "超特急 × Kアリーナ横浜のコラボドリンク販売が決定！",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26476/",
-        "publishedAt": "2026-08-06T06:04:14.000Z",
-        "summary": "超特急 × Kアリーナ横浜のコラボドリンク販売が決定！ BULLET TRAIN ARENA TOUR 2026 ESCORTの開催を記念して、コラボドリンク販売が決定いたしました！ コラボドリンクをご注文いただいたお客 […]",
         "groups": [
           "超特急"
         ],
