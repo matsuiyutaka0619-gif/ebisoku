@@ -1,6 +1,56 @@
 {
-  "updatedAt": "2026-08-09T07:15:39.510Z",
+  "updatedAt": "2026-08-09T13:15:27.055Z",
   "articles": [
+    {
+      "id": "282b232c3fc39f4e",
+      "title": "「東京ドーム公演記念 乗車準備会 僕たちは、超特急です!!!!!!!!!」 全国の映画館で開催決定！",
+      "sourceName": "超特急 公式NEWS",
+      "sourceUrl": "https://bullettrain.jp/news/feed/",
+      "articleUrl": "https://bullettrain.jp/news/news26508/",
+      "publishedAt": "2026-08-09T11:29:55.000Z",
+      "summary": "“超特急”の4回限りの特別な全国映画館での上映イベント「東京ドーム公演記念 乗車準備会 僕たちは、超特急です!!!!!!!!!」を開催。 当イベントにて上映される本作は、15周年を迎える“超特急”の歴代ライブと新撮ドキュ […]",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "43a707b385875fa4",
+      "title": "超特急、4回限りの上映イベント『東京ドーム公演記念 乗車準備会 僕たちは、超特急です!!!!!!!!!』開催！特報＆キービジュアルも解禁",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000860747/",
+      "publishedAt": "2026-08-09T11:00:53.000Z",
+      "summary": "15周年を迎える超特急の歴代ライブと新撮ドキュメントを交えた完全新作フィルム『東京ドーム公...",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "a42c8d6e892b6c4b",
+      "title": "「ありがとう幸せです」「一番安心する」多忙を極めるM!LK佐野勇斗の“報告”にファンから安堵の声",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260809-4784341/",
+      "publishedAt": "2026-08-09T10:00:00.000Z",
+      "summary": "「5時間半寝てしまいました」アイドルグループ・M!LKの佐野勇斗が明かした渡米中の“爆睡報告”にファンから反響の声が寄せられている――。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "67daaf520fe7ef00",
       "title": "M!LK吉田仁人＆新浜レオンが互いにパフォーマンスを譲らないマイク争奪戦を披露！「仲良しでかわいい」「深夜テンションおもろい」「息ぴったりの掛け合い」",
@@ -24,20 +74,6 @@
       ]
     },
     {
-      "id": "e6fe53805f96fb2a",
-      "title": "＜氣志團万博2026＞、追加出演アーティストにアイナ・ジ・エンド",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1082249",
-      "publishedAt": "2026-08-09T03:00:45.000Z",
-      "summary": "11月7日(土)・8日(日)に幕張メッセで開催される＜サントリー オールフリー presents 氣志團万博2026 ～房総爆音リゾート～＞の追加出演アーティストが発表となった。 今回の発表では、11月8日(日)にアイナ・ジ・エンドの出演が決定。発表は綾小路 翔がレギュラーを務めるTBSラジオ『俺達には土曜日しかない』にてサプライズ発表となったかたちだ。 追",
-      "groups": [
-        "Lienel"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
       "id": "54347134bb282bdf",
       "title": "超特急「Secret Invitation」リリース記念 アーティストフォローキャンペーン",
       "sourceName": "超特急 公式NEWS",
@@ -54,8 +90,8 @@
     {
       "id": "332f9e22f238c9e9",
       "title": "「楽屋で台本を開いていたら…」「それぞれが…」曽野舜太が明かしたM!LKメンバーのリアクション 俳優業にもさらなる意欲",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 映画",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
       "articleUrl": "https://news.mynavi.jp/article/20260808-4792972/",
       "publishedAt": "2026-08-08T11:00:00.000Z",
       "summary": "ダンスボーカルグループ・M!LKの曽野舜太が7日、映画『仮面ライダーゼッツ さよならのミッション』(公開中)の公開御礼舞台挨拶に、今井竜太郎、上堀内佳寿也監督とともに登壇。同作出演を知ったときのM!LKメンバーのリアクションを明かした。",
@@ -72,20 +108,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "7431b088b07b929c",
-      "title": "超特急の冠番組『VS.超特急』2週連続で夏休みスペシャルの放送決定！ゲストのWATWINGと絶叫アトラクション&プールを使った遊び開発に挑戦",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000860507/",
-      "publishedAt": "2026-08-08T05:35:23.000Z",
-      "summary": "超特急の冠番組『VS.超特急』が、8月10日と17日と2週連続で夏休みスペシャルの放送が決定した...",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "d6a562c8e8bf4643",
@@ -952,7 +974,7 @@
       "sourceUrl": "https://super-dragon.jp/news/feed/",
       "articleUrl": "https://super-dragon.jp/news/news11432/",
       "publishedAt": "2026-07-17T07:00:40.000Z",
-      "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念いたしまして、『EBiDAN 15th Anniversaryオフィシャルグッズ』の販売が決定いたしました！ ロゴが映えるリキッドキーホルダーやファーキーホルダー、メンバ […] The post 『EBiDAN 15th Anniversaryオフィシャルグッズ』の販売が決定！ first appeared",
+      "summary": "【8/9(日)更新】 HMV&BOOKS HAKATAでの『EBiDAN 15th Anniversaryオフィシャルグッズ』につきまして、 配送遅延の影響により販売開始日を延期させて頂くこととなりました。 販売 […] The post 『EBiDAN 15th Anniversaryオフィシャルグッズ』の販売が決定！ first appeared on ",
       "groups": [
         "EBiDAN",
         "SUPER★DRAGON"
@@ -2683,21 +2705,6 @@
       "summary": "5人組ダンスボーカルグループ・M!LKが、最新プロジェクト「モー烈モー進！リリースプロジェクト2026」の幕開けを飾るデジタルシングル「アイドルパワー」のOfficial Promotion Videoを公開した。 “2026年、日本を元気に！”という力強いテーマのもと制作された「アイドルパワー」は、アイドルとしての輝きと、聴く人の背中をそっと押すエールソン",
       "groups": [
         "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "9f24a23eeb8f9131",
-      "title": "【7/27(月)更新】EBiDAN15周年記念シングル「Yes! 東京」発売記念リリースイベント『Yes! 飛び出せ! 僕らの移動教室』詳細が決定！",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news11075/",
-      "publishedAt": "2026-05-29T09:59:23.000Z",
-      "summary": "2026年8月11日(火・祝)に発売のEBiDAN15周年記念シングル「Yes! 東京」のリリースイベント『Yes! 飛び出せ! 僕らの移動教室』の最終日の詳細が決定いたしました。 移動教室は12限目をもちまして終了とな […] The post 【7/27(月)更新】EBiDAN15周年記念シングル「Yes! 東京」発売記念リリースイベント『Yes! 飛び",
-      "groups": [
-        "EBiDAN",
-        "SUPER★DRAGON"
       ],
       "statuses": [],
       "memberMatches": []
