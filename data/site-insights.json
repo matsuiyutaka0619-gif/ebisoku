@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-09T02:28:02.897Z",
+  "updatedAt": "2026-08-09T07:15:39.513Z",
   "totals": {
     "all": 160,
-    "today": 0,
-    "week": 28
+    "today": 2,
+    "week": 29
   },
   "groupRanking": [
     {
@@ -21,11 +21,15 @@
     {
       "name": "超特急",
       "count": 6
+    },
+    {
+      "name": "Lienel",
+      "count": 1
     }
   ],
   "memberRanking": [
     {
-      "name": "曽野舜太",
+      "name": "吉田仁人",
       "count": 3
     },
     {
@@ -33,11 +37,11 @@
       "count": 2
     },
     {
-      "name": "吉田仁人",
+      "name": "佐野勇斗",
       "count": 2
     },
     {
-      "name": "佐野勇斗",
+      "name": "曽野舜太",
       "count": 2
     },
     {
@@ -55,11 +59,11 @@
       "count": 8
     },
     {
-      "name": "タワーレコード ニュース",
+      "name": "THE FIRST TIMES",
       "count": 2
     },
     {
-      "name": "マイナビニュース エンタメ",
+      "name": "タワーレコード ニュース",
       "count": 2
     },
     {
@@ -67,11 +71,15 @@
       "count": 2
     },
     {
+      "name": "BARKS",
+      "count": 1
+    },
+    {
       "name": "Bezzy",
       "count": 1
     },
     {
-      "name": "THE FIRST TIMES",
+      "name": "マイナビニュース エンタメ",
       "count": 1
     },
     {
@@ -81,87 +89,15 @@
   ],
   "topics": [],
   "recentByGroup": {
-    "超特急": [
-      {
-        "id": "54347134bb282bdf",
-        "title": "超特急「Secret Invitation」リリース記念 アーティストフォローキャンペーン",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26486/",
-        "publishedAt": "2026-08-08T13:29:55.000Z",
-        "summary": "Apple Music、Spotifyのいずれかで超特急のアーティストページをフォローいただいた上、ご応募いただいた方全員に「Secretなボイスメッセージ」をプレゼントいたします。 ぜひご参加をお待ちしております！ 【 […]",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "7431b088b07b929c",
-        "title": "超特急の冠番組『VS.超特急』2週連続で夏休みスペシャルの放送決定！ゲストのWATWINGと絶叫アトラクション&プールを使った遊び開発に挑戦",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000860507/",
-        "publishedAt": "2026-08-08T05:35:23.000Z",
-        "summary": "超特急の冠番組『VS.超特急』が、8月10日と17日と2週連続で夏休みスペシャルの放送が決定した...",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "d6a562c8e8bf4643",
-        "title": "超特急 東京ドーム公演＜追加公演＞ SOLD OUT",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26499/",
-        "publishedAt": "2026-08-08T02:14:50.000Z",
-        "summary": "超特急「東京ドーム公演」追加公演も好評につき完売いたしました。 ご購入いただいた皆様、ありがとうございました!!!!!!!!! 超特急 東京ドーム公演＜追加公演＞ 【東京】東京ドーム THANK YOU SOLD OUT […]",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "70ecccdb70b07e39",
-        "title": "超特急 × Kアリーナ横浜のコラボドリンク販売が決定！",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26476/",
-        "publishedAt": "2026-08-06T06:04:14.000Z",
-        "summary": "超特急 × Kアリーナ横浜のコラボドリンク販売が決定！ BULLET TRAIN ARENA TOUR 2026 ESCORTの開催を記念して、コラボドリンク販売が決定いたしました！ コラボドリンクをご注文いただいたお客 […]",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "5984104a63a6de2a",
-        "title": "超特急「BULLET TRAIN ARENA TOUR 2026 ESCORT」【Kアリーナ横浜公演】機材席開放一般発売 実施決定！",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26450/",
-        "publishedAt": "2026-08-04T08:59:57.000Z",
-        "summary": "完売していたKアリーナ横浜公演ですが、ステージプラン確定に伴い若干数の機材席開放販売が決定いたしました！ 8月7日(金)21:00より販売スタート！ ご乗車お待ちしております!!!!!!!!! ※重要：お申込み前に必ずご […]",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
     "M!LK": [
       {
-        "id": "332f9e22f238c9e9",
-        "title": "「楽屋で台本を開いていたら…」「それぞれが…」曽野舜太が明かしたM!LKメンバーのリアクション 俳優業にもさらなる意欲",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20260808-4792972/",
-        "publishedAt": "2026-08-08T11:00:00.000Z",
-        "summary": "ダンスボーカルグループ・M!LKの曽野舜太が7日、映画『仮面ライダーゼッツ さよならのミッション』(公開中)の公開御礼舞台挨拶に、今井竜太郎、上堀内佳寿也監督とともに登壇。同作出演を知ったときのM!LKメンバーのリアクションを明かした。",
+        "id": "67daaf520fe7ef00",
+        "title": "M!LK吉田仁人＆新浜レオンが互いにパフォーマンスを譲らないマイク争奪戦を披露！「仲良しでかわいい」「深夜テンションおもろい」「息ぴったりの掛け合い」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000860614/",
+        "publishedAt": "2026-08-09T03:16:15.000Z",
+        "summary": "新浜レオン公式SNSにて、M!LK吉田仁人とのダンス動画が公開された。 ■ふたりは『M!LK吉田仁人...",
         "groups": [
           "M!LK"
         ],
@@ -170,20 +106,20 @@
         ],
         "memberMatches": [
           {
-            "name": "曽野舜太",
+            "name": "吉田仁人",
             "group": "M!LK",
             "status": "active"
           }
         ]
       },
       {
-        "id": "44500bc996c09501",
-        "title": "「泣けた」「心が素敵すぎる」「良い子だなぁ…」メンバーの“すごさ”を痛感したM!LK曽野舜太、悔しさあふれる姿にファン感動",
+        "id": "332f9e22f238c9e9",
+        "title": "「楽屋で台本を開いていたら…」「それぞれが…」曽野舜太が明かしたM!LKメンバーのリアクション 俳優業にもさらなる意欲",
         "sourceName": "マイナビニュース エンタメ",
         "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20260808-4780705/",
-        "publishedAt": "2026-08-08T10:00:00.000Z",
-        "summary": "「助けてあげたいときに助けられへんって、こんな気持ちなんやな」アイドルグループ・M!LKの曽野舜太が、メンバーへの思いを口にした―。",
+        "articleUrl": "https://news.mynavi.jp/article/20260808-4792972/",
+        "publishedAt": "2026-08-08T11:00:00.000Z",
+        "summary": "ダンスボーカルグループ・M!LKの曽野舜太が7日、映画『仮面ライダーゼッツ さよならのミッション』(公開中)の公開御礼舞台挨拶に、今井竜太郎、上堀内佳寿也監督とともに登壇。同作出演を知ったときのM!LKメンバーのリアクションを明かした。",
         "groups": [
           "M!LK"
         ],
@@ -263,6 +199,94 @@
             "status": "active"
           }
         ]
+      }
+    ],
+    "Lienel": [
+      {
+        "id": "e6fe53805f96fb2a",
+        "title": "＜氣志團万博2026＞、追加出演アーティストにアイナ・ジ・エンド",
+        "sourceName": "BARKS",
+        "sourceUrl": "https://www.barks.jp/feed/",
+        "articleUrl": "https://barks.jp/news/1082249",
+        "publishedAt": "2026-08-09T03:00:45.000Z",
+        "summary": "11月7日(土)・8日(日)に幕張メッセで開催される＜サントリー オールフリー presents 氣志團万博2026 ～房総爆音リゾート～＞の追加出演アーティストが発表となった。 今回の発表では、11月8日(日)にアイナ・ジ・エンドの出演が決定。発表は綾小路 翔がレギュラーを務めるTBSラジオ『俺達には土曜日しかない』にてサプライズ発表となったかたちだ。 追",
+        "groups": [
+          "Lienel"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
+    "超特急": [
+      {
+        "id": "54347134bb282bdf",
+        "title": "超特急「Secret Invitation」リリース記念 アーティストフォローキャンペーン",
+        "sourceName": "超特急 公式NEWS",
+        "sourceUrl": "https://bullettrain.jp/news/feed/",
+        "articleUrl": "https://bullettrain.jp/news/news26486/",
+        "publishedAt": "2026-08-08T13:29:55.000Z",
+        "summary": "Apple Music、Spotifyのいずれかで超特急のアーティストページをフォローいただいた上、ご応募いただいた方全員に「Secretなボイスメッセージ」をプレゼントいたします。 ぜひご参加をお待ちしております！ 【 […]",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "7431b088b07b929c",
+        "title": "超特急の冠番組『VS.超特急』2週連続で夏休みスペシャルの放送決定！ゲストのWATWINGと絶叫アトラクション&プールを使った遊び開発に挑戦",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000860507/",
+        "publishedAt": "2026-08-08T05:35:23.000Z",
+        "summary": "超特急の冠番組『VS.超特急』が、8月10日と17日と2週連続で夏休みスペシャルの放送が決定した...",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "d6a562c8e8bf4643",
+        "title": "超特急 東京ドーム公演＜追加公演＞ SOLD OUT",
+        "sourceName": "超特急 公式NEWS",
+        "sourceUrl": "https://bullettrain.jp/news/feed/",
+        "articleUrl": "https://bullettrain.jp/news/news26499/",
+        "publishedAt": "2026-08-08T02:14:50.000Z",
+        "summary": "超特急「東京ドーム公演」追加公演も好評につき完売いたしました。 ご購入いただいた皆様、ありがとうございました!!!!!!!!! 超特急 東京ドーム公演＜追加公演＞ 【東京】東京ドーム THANK YOU SOLD OUT […]",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "70ecccdb70b07e39",
+        "title": "超特急 × Kアリーナ横浜のコラボドリンク販売が決定！",
+        "sourceName": "超特急 公式NEWS",
+        "sourceUrl": "https://bullettrain.jp/news/feed/",
+        "articleUrl": "https://bullettrain.jp/news/news26476/",
+        "publishedAt": "2026-08-06T06:04:14.000Z",
+        "summary": "超特急 × Kアリーナ横浜のコラボドリンク販売が決定！ BULLET TRAIN ARENA TOUR 2026 ESCORTの開催を記念して、コラボドリンク販売が決定いたしました！ コラボドリンクをご注文いただいたお客 […]",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "5984104a63a6de2a",
+        "title": "超特急「BULLET TRAIN ARENA TOUR 2026 ESCORT」【Kアリーナ横浜公演】機材席開放一般発売 実施決定！",
+        "sourceName": "超特急 公式NEWS",
+        "sourceUrl": "https://bullettrain.jp/news/feed/",
+        "articleUrl": "https://bullettrain.jp/news/news26450/",
+        "publishedAt": "2026-08-04T08:59:57.000Z",
+        "summary": "完売していたKアリーナ横浜公演ですが、ステージプラン確定に伴い若干数の機材席開放販売が決定いたしました！ 8月7日(金)21:00より販売スタート！ ご乗車お待ちしております!!!!!!!!! ※重要：お申込み前に必ずご […]",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
       }
     ],
     "EBiDAN": [

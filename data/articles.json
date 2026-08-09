@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-08-09T02:28:02.895Z",
+  "updatedAt": "2026-08-09T07:15:39.510Z",
   "articles": [
+    {
+      "id": "67daaf520fe7ef00",
+      "title": "M!LK吉田仁人＆新浜レオンが互いにパフォーマンスを譲らないマイク争奪戦を披露！「仲良しでかわいい」「深夜テンションおもろい」「息ぴったりの掛け合い」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000860614/",
+      "publishedAt": "2026-08-09T03:16:15.000Z",
+      "summary": "新浜レオン公式SNSにて、M!LK吉田仁人とのダンス動画が公開された。 ■ふたりは『M!LK吉田仁人...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "e6fe53805f96fb2a",
+      "title": "＜氣志團万博2026＞、追加出演アーティストにアイナ・ジ・エンド",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1082249",
+      "publishedAt": "2026-08-09T03:00:45.000Z",
+      "summary": "11月7日(土)・8日(日)に幕張メッセで開催される＜サントリー オールフリー presents 氣志團万博2026 ～房総爆音リゾート～＞の追加出演アーティストが発表となった。 今回の発表では、11月8日(日)にアイナ・ジ・エンドの出演が決定。発表は綾小路 翔がレギュラーを務めるTBSラジオ『俺達には土曜日しかない』にてサプライズ発表となったかたちだ。 追",
+      "groups": [
+        "Lienel"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "54347134bb282bdf",
       "title": "超特急「Secret Invitation」リリース記念 アーティストフォローキャンペーン",
@@ -23,28 +59,6 @@
       "articleUrl": "https://news.mynavi.jp/article/20260808-4792972/",
       "publishedAt": "2026-08-08T11:00:00.000Z",
       "summary": "ダンスボーカルグループ・M!LKの曽野舜太が7日、映画『仮面ライダーゼッツ さよならのミッション』(公開中)の公開御礼舞台挨拶に、今井竜太郎、上堀内佳寿也監督とともに登壇。同作出演を知ったときのM!LKメンバーのリアクションを明かした。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "曽野舜太",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "44500bc996c09501",
-      "title": "「泣けた」「心が素敵すぎる」「良い子だなぁ…」メンバーの“すごさ”を痛感したM!LK曽野舜太、悔しさあふれる姿にファン感動",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-      "articleUrl": "https://news.mynavi.jp/article/20260808-4780705/",
-      "publishedAt": "2026-08-08T10:00:00.000Z",
-      "summary": "「助けてあげたいときに助けられへんって、こんな気持ちなんやな」アイドルグループ・M!LKの曽野舜太が、メンバーへの思いを口にした―。",
       "groups": [
         "M!LK"
       ],
@@ -2687,28 +2701,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "77758296067afbfb",
-      "title": "超特急リョウガ インフルエンザ感染に関するご報告",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26155/",
-      "publishedAt": "2026-05-29T06:29:28.000Z",
-      "summary": "いつも超特急へ温かい応援をいただき、誠にありがとうございます。 弊社所属 超特急メンバーのリョウガがインフルエンザに感染していることを確認致しましたのでご報告申し上げます。 今後につきましては、医師の判断に伴い6月1日ま […]",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "リョウガ",
-          "group": "超特急",
-          "status": "active"
-        }
-      ]
     }
   ]
 }
