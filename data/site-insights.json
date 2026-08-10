@@ -1,39 +1,39 @@
 {
-  "updatedAt": "2026-08-09T19:00:18.732Z",
+  "updatedAt": "2026-08-10T02:34:05.879Z",
   "totals": {
     "all": 160,
-    "today": 0,
-    "week": 32
+    "today": 2,
+    "week": 33
   },
   "groupRanking": [
     {
       "name": "EBiDAN",
-      "count": 13
+      "count": 14
     },
     {
       "name": "超特急",
-      "count": 9
-    },
-    {
-      "name": "M!LK",
-      "count": 8
+      "count": 10
     },
     {
       "name": "SUPER★DRAGON",
       "count": 8
+    },
+    {
+      "name": "M!LK",
+      "count": 7
     }
   ],
   "memberRanking": [
-    {
-      "name": "吉田仁人",
-      "count": 3
-    },
     {
       "name": "佐野勇斗",
       "count": 3
     },
     {
       "name": "塩﨑太智",
+      "count": 2
+    },
+    {
+      "name": "吉田仁人",
       "count": 2
     },
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "THE FIRST TIMES",
-      "count": 2
+      "count": 3
     },
     {
       "name": "タワーレコード ニュース",
@@ -82,6 +82,20 @@
   "topics": [],
   "recentByGroup": {
     "超特急": [
+      {
+        "id": "464f6136fe356d55",
+        "title": "【ライブレポート】超特急、8号車と“ガチ夢中！”で駆け抜けた『ESCORT』ツアー完走！「みんなの声が僕たちのパワーになります」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/report/0000861141/",
+        "publishedAt": "2026-08-10T02:00:24.000Z",
+        "summary": "9人組ダンス＆ボーカルグループの超特急が、8月8・9日に『BULLET TRAIN ARENA TOUR 2026「ESCO...",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
       {
         "id": "5918c4587be51b50",
         "title": "「ESCORT」で披露した楽曲をRe-ver.として配信スタート！",
@@ -137,17 +151,76 @@
         ],
         "statuses": [],
         "memberMatches": []
+      }
+    ],
+    "EBiDAN": [
+      {
+        "id": "b2304362a6d9c381",
+        "title": "EBiDAN新グループ・iiONDO（イイオンド）デビュー曲「はつ恋ONDO」MV公開！良い温度を保つために銭湯で奮闘する姿も",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000861019/",
+        "publishedAt": "2026-08-10T00:50:10.000Z",
+        "summary": "EBiDAN新グループ、iiONDO（イイオンド）が、デビュー曲「はつ恋ONDO」を8月7日に配信リリース...",
+        "groups": [
+          "EBiDAN"
+        ],
+        "statuses": [],
+        "memberMatches": []
       },
       {
-        "id": "54347134bb282bdf",
-        "title": "超特急「Secret Invitation」リリース記念 アーティストフォローキャンペーン",
+        "id": "b396ff503ea66479",
+        "title": "【渋谷エリアジャック及び山手線ラッピング広告をご覧になる皆様へ再度のお願い】",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11527/",
+        "publishedAt": "2026-08-07T12:30:26.000Z",
+        "summary": "いつもEBiDANへ温かい応援をいただき、誠にありがとうございます。 依然として、渋谷ジャック及び山手線ラッピング広告に関して駅構内、ホーム上、車内、道路上における危険行為や滞留、一歩間違えれば大事故に直結しかねない極め […] The post 【渋谷エリアジャック及び山手線ラッピング広告をご覧になる皆様へ再度のお願い】 first appeared on",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "963840c649ccf026",
+        "title": "【渋谷エリアジャック及び山手線ラッピング広告をご覧になる皆様へ再度のお願い】",
         "sourceName": "超特急 公式NEWS",
         "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26486/",
-        "publishedAt": "2026-08-08T13:29:55.000Z",
-        "summary": "Apple Music、Spotifyのいずれかで超特急のアーティストページをフォローいただいた上、ご応募いただいた方全員に「Secretなボイスメッセージ」をプレゼントいたします。 ぜひご参加をお待ちしております！ 【 […]",
+        "articleUrl": "https://bullettrain.jp/news/news26484/",
+        "publishedAt": "2026-08-07T12:29:12.000Z",
+        "summary": "いつもEBiDANへ温かい応援をいただき、誠にありがとうございます。 依然として、渋谷ジャック及び山手線ラッピング広告に関して駅構内、ホーム上、車内、道路上における危険行為や滞留、一歩間違えれば大事故に直結しかねない極め […]",
         "groups": [
-          "超特急"
+          "EBiDAN"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "e18ccf0cadfec290",
+        "title": "「J-POPシングル ウィークリーTOP30」発表。1位はME:I『花咲く道』、予約1位はEBiDAN（恵比寿学園男子部）『Yes! 東京』（2026年8月6日付）",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/08/06/tg004",
+        "publishedAt": "2026-08-06T10:00:00.000Z",
+        "summary": "",
+        "groups": [
+          "EBiDAN"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "b43f4ac8a3d7af47",
+        "title": "『HMV夏のEBiDAN祭り2026』開催決定！「EBiDAN THE LIVE 2026 15th Anniversary」会場にて、デコガチャの販売やスペシャル抽選会を開催！さらに、「Yes! 東京」発売を記念した連動企画や、渋谷MODIでのデコガチャ等、様々な企画でEBiDANを盛り上げます！",
+        "sourceName": "超特急 公式NEWS",
+        "sourceUrl": "https://bullettrain.jp/news/feed/",
+        "articleUrl": "https://bullettrain.jp/news/news26464/",
+        "publishedAt": "2026-08-05T11:59:56.000Z",
+        "summary": "EBiDAN15周年記念シングル「Yes! 東京」発売を記念して、『HMV夏のEBiDAN祭り』がスペシャルバージョンになって実施決定！「EBiDAN THE LIVE 2026 15th Anniversary」会場、 […]",
+        "groups": [
+          "EBiDAN"
         ],
         "statuses": [],
         "memberMatches": []
@@ -171,28 +244,6 @@
         "memberMatches": [
           {
             "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "67daaf520fe7ef00",
-        "title": "M!LK吉田仁人＆新浜レオンが互いにパフォーマンスを譲らないマイク争奪戦を披露！「仲良しでかわいい」「深夜テンションおもろい」「息ぴったりの掛け合い」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000860614/",
-        "publishedAt": "2026-08-09T03:16:15.000Z",
-        "summary": "新浜レオン公式SNSにて、M!LK吉田仁人とのダンス動画が公開された。 ■ふたりは『M!LK吉田仁人...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
             "group": "M!LK",
             "status": "active"
           }
@@ -263,80 +314,28 @@
             "status": "active"
           }
         ]
-      }
-    ],
-    "EBiDAN": [
-      {
-        "id": "b396ff503ea66479",
-        "title": "【渋谷エリアジャック及び山手線ラッピング広告をご覧になる皆様へ再度のお願い】",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11527/",
-        "publishedAt": "2026-08-07T12:30:26.000Z",
-        "summary": "いつもEBiDANへ温かい応援をいただき、誠にありがとうございます。 依然として、渋谷ジャック及び山手線ラッピング広告に関して駅構内、ホーム上、車内、道路上における危険行為や滞留、一歩間違えれば大事故に直結しかねない極め […] The post 【渋谷エリアジャック及び山手線ラッピング広告をご覧になる皆様へ再度のお願い】 first appeared on",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
       },
       {
-        "id": "963840c649ccf026",
-        "title": "【渋谷エリアジャック及び山手線ラッピング広告をご覧になる皆様へ再度のお願い】",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26484/",
-        "publishedAt": "2026-08-07T12:29:12.000Z",
-        "summary": "いつもEBiDANへ温かい応援をいただき、誠にありがとうございます。 依然として、渋谷ジャック及び山手線ラッピング広告に関して駅構内、ホーム上、車内、道路上における危険行為や滞留、一歩間違えれば大事故に直結しかねない極め […]",
+        "id": "1a2dcd16c63fb80c",
+        "title": "「5万円くらいの…」M!LK塩崎太智、過去にあげたことのあるプレゼントを告白",
+        "sourceName": "マイナビニュース テレビ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
+        "articleUrl": "https://news.mynavi.jp/article/20260805-4779854/",
+        "publishedAt": "2026-08-05T10:00:00.000Z",
+        "summary": "「普段買わない値段の…」M!LKの塩崎太智(※崎はたつさき)が、3日放送のテレビ東京『オトナモラトリアム』(8月3日・10日24:30～)に出演。過去にあげたことのあるプレゼントを告白した。",
         "groups": [
-          "EBiDAN"
+          "M!LK"
         ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "e18ccf0cadfec290",
-        "title": "「J-POPシングル ウィークリーTOP30」発表。1位はME:I『花咲く道』、予約1位はEBiDAN（恵比寿学園男子部）『Yes! 東京』（2026年8月6日付）",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/08/06/tg004",
-        "publishedAt": "2026-08-06T10:00:00.000Z",
-        "summary": "",
-        "groups": [
-          "EBiDAN"
+        "statuses": [
+          "active"
         ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "b43f4ac8a3d7af47",
-        "title": "『HMV夏のEBiDAN祭り2026』開催決定！「EBiDAN THE LIVE 2026 15th Anniversary」会場にて、デコガチャの販売やスペシャル抽選会を開催！さらに、「Yes! 東京」発売を記念した連動企画や、渋谷MODIでのデコガチャ等、様々な企画でEBiDANを盛り上げます！",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26464/",
-        "publishedAt": "2026-08-05T11:59:56.000Z",
-        "summary": "EBiDAN15周年記念シングル「Yes! 東京」発売を記念して、『HMV夏のEBiDAN祭り』がスペシャルバージョンになって実施決定！「EBiDAN THE LIVE 2026 15th Anniversary」会場、 […]",
-        "groups": [
-          "EBiDAN"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "eda2ff0bee252daa",
-        "title": "『HMV夏のEBiDAN祭り2026』開催決定！「EBiDAN THE LIVE 2026 15th Anniversary」会場にて、デコガチャの販売やスペシャル抽選会を開催！さらに、「Yes! 東京」発売を記念した連動企画や、渋谷MODIでのデコガチャ等、様々な企画でEBiDANを盛り上げます！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11518/",
-        "publishedAt": "2026-08-05T11:59:36.000Z",
-        "summary": "EBiDAN15周年記念シングル「Yes! 東京」発売を記念して、『HMV夏のEBiDAN祭り』がスペシャルバージョンになって実施決定！「EBiDAN THE LIVE 2026 15th Anniversary」会場、 […] The post 『HMV夏のEBiDAN祭り2026』開催決定！「EBiDAN THE LIVE 2026 15th Anniv",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
+        "memberMatches": [
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
       }
     ],
     "SUPER★DRAGON": [
