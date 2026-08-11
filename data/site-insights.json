@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-11T07:36:49.245Z",
+  "updatedAt": "2026-08-11T13:42:05.415Z",
   "totals": {
     "all": 160,
-    "today": 3,
-    "week": 24
+    "today": 4,
+    "week": 23
   },
   "groupRanking": [
     {
       "name": "EBiDAN",
-      "count": 8
+      "count": 10
     },
     {
       "name": "超特急",
@@ -16,39 +16,43 @@
     },
     {
       "name": "SUPER★DRAGON",
-      "count": 6
+      "count": 7
     },
     {
       "name": "M!LK",
       "count": 5
-    },
-    {
-      "name": "原因は自分にある。",
-      "count": 1
     }
   ],
   "memberRanking": [
     {
-      "name": "塩﨑太智",
-      "count": 3
+      "name": "佐野勇斗",
+      "count": 2
     },
     {
       "name": "曽野舜太",
       "count": 2
     },
     {
-      "name": "佐野勇斗",
+      "name": "塩﨑太智",
+      "count": 1
+    },
+    {
+      "name": "吉田仁人",
+      "count": 1
+    },
+    {
+      "name": "山中柔太朗",
       "count": 1
     }
   ],
   "sourceRanking": [
     {
       "name": "超特急 公式NEWS",
-      "count": 11
+      "count": 10
     },
     {
       "name": "SUPER★DRAGON 公式NEWS",
-      "count": 6
+      "count": 7
     },
     {
       "name": "THE FIRST TIMES",
@@ -61,67 +65,19 @@
     {
       "name": "タワーレコード ニュース",
       "count": 1
-    },
-    {
-      "name": "リアルサウンド 音楽",
-      "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
     "M!LK": [
       {
-        "id": "fc9ce5623da7eb83",
-        "title": "M!LK塩﨑太智が櫻坂46曲でも大暴れ！目にもとまらぬキレキレうさぎダンス披露「女子と並ぶと背高い」「しっかり踊れててすごい」「かわいくて尊い」",
+        "id": "34dd35f57ad80391",
+        "title": "M!LK 5人の“距離感バグ”ショット続々！塩﨑太智が吉田仁人にほっぺツン＆佐野勇斗が吉田をバックハグ「ちゃのざき顔近すぎポーズかわいすぎ」「仁人くんの舌ペロやばい」「どのケミも最高」",
         "sourceName": "THE FIRST TIMES",
         "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000861741/",
-        "publishedAt": "2026-08-11T04:21:20.000Z",
-        "summary": "櫻坂46公式SNSにて「Lonesome rabbit」を森田ひかる＆山崎天（「崎」はたつさきが正式表記）と...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "3d04f6b33cd532cc",
-        "title": "塩﨑太智（M!LK）、サッカー日本代表・森保一監督らが『踊る！さんま御殿！！』に登場！さんまと「滅！」コラボも披露",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000861477/",
-        "publishedAt": "2026-08-10T21:00:18.000Z",
-        "summary": "塩崎太智（M!LK）（※崎は、たつさきが正式表記）が、日本テレビ『踊る！さんま御殿！！』（8月...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "fe089e71b5084098",
-        "title": "M!LKがトイ・ストーリーのおもちゃになりきりはしゃぎ倒して無になる姿を披露！「関節の感じまで似てる（笑）」「かわいすぎ」「公式でやってるのすごい」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000861521/",
-        "publishedAt": "2026-08-10T09:39:27.000Z",
-        "summary": "ディズニー・スタジオ（アニメーション）公式SNSにて、M!LK佐野勇斗・塩崎太智（「崎」はたつ...",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000861968/",
+        "publishedAt": "2026-08-11T09:02:04.000Z",
+        "summary": "M!LKが表紙を飾る『mini』9月号が発売。『mini』の公式SNSで撮影の裏側を収めたビハインド動画...",
         "groups": [
           "M!LK"
         ],
@@ -136,6 +92,54 @@
           },
           {
             "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "cfbc39f13171d0b6",
+        "title": "EBiDAN、15周年記念シングル「Yes! 東京」リリース！Making Lyric Video公開",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000861719/",
+        "publishedAt": "2026-08-11T08:30:26.000Z",
+        "summary": "超特急やM!LKら全9グループ総勢60名からなる、スターダストプロモーション所属俳優・タレント...",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "9a090928c9c68dec",
+        "title": "M!LK 5人の“雰囲気一変”モードビジュアルに大反響！佐野勇斗は素肌×レザー、山中柔太朗は顔まわりにパール、クールで色気あふれる姿に「バッチバチにかっこいい」「神ビジュ」「美しくて絵画のよう」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000861913/",
+        "publishedAt": "2026-08-11T07:54:53.000Z",
+        "summary": "『NYLON JAPAN』の公式SNSで、M!LKのモードな姿が公開され、注目を集めている。 ■M!LKがモード...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "山中柔太朗",
             "group": "M!LK",
             "status": "active"
           }
@@ -186,79 +190,100 @@
         ]
       }
     ],
-    "原因は自分にある。": [
+    "EBiDAN": [
       {
-        "id": "35b9eef686e6f9e1",
-        "title": "原因は自分にある。『鉄鍋のジャン！』の美学と重なる「火宴」 “常識破りなマインド”を自らのエンタメへ変換した1曲に",
-        "sourceName": "リアルサウンド 音楽",
-        "sourceUrl": "https://realsound.jp/music/feed",
-        "articleUrl": "https://realsound.jp/2026/08/post-2487361.html",
-        "publishedAt": "2026-08-11T03:10:27.000Z",
-        "summary": "話題のバイラルヒット曲を毎週収録するSpotifyによる日本向けエディトリアルプレイリスト「Viral Hits Japan」。同プレイリストより、本記事では原因は自分にある。の「火宴」をピックアップする。",
+        "id": "cfbc39f13171d0b6",
+        "title": "EBiDAN、15周年記念シングル「Yes! 東京」リリース！Making Lyric Video公開",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000861719/",
+        "publishedAt": "2026-08-11T08:30:26.000Z",
+        "summary": "超特急やM!LKら全9グループ総勢60名からなる、スターダストプロモーション所属俳優・タレント...",
         "groups": [
-          "原因は自分にある。"
+          "EBiDAN",
+          "超特急",
+          "M!LK"
         ],
         "statuses": [],
         "memberMatches": []
       },
       {
-        "id": "15fb9ee4d3775ce2",
-        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/07/89645/",
-        "publishedAt": "2026-07-24T12:00:00.000Z",
-        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
+        "id": "1ad5810b4c9a0a8b",
+        "title": "本日8月11日(火・祝)発売、 EBiDAN15周年記念シングル「Yes! 東京」のを公開！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11555/",
+        "publishedAt": "2026-08-11T08:30:18.000Z",
+        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して、本日8月11日(火・祝)にリリースされたシングル「Yes! 東京」のMaking Lyric Videoを公開！ 本日公開された映像は、4日間に渡って撮影されたMu […] The post 本日8月11日(火・祝)発売、 EBiDAN15周年記念シングル「Yes! 東京」の を公開！ first ap",
         "groups": [
-          "原因は自分にある。",
-          "BUDDiiS"
+          "EBiDAN",
+          "SUPER★DRAGON"
         ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "SHOOT",
-            "group": "BUDDiiS",
-            "status": "active"
-          }
-        ]
+        "statuses": [],
+        "memberMatches": []
       },
       {
-        "id": "3fb662210aaeb54f",
-        "title": "森愁斗主演『ウォーターガーディアンズ』本予告解禁、ライフセーバーの本格訓練シーンが初お披露目",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/06/87426/",
-        "publishedAt": "2026-06-05T22:00:00.000Z",
-        "summary": "森愁斗主演映画『ウォーターガーディアンズ』の公開日が8月21日(金)に決定し、本予告映像と主題歌、追加キャスト情報が一挙解禁された。 本作は、ライフセーバーを目指す若者たちの本気のひと夏を描いた青春サマームービー。思いがけずライフセーバーになるという目標を得た若者たちが友情を育み、恋と出会う姿を描く。キャストでは主人公・海翔役の森愁斗（BUDDiiS）、海翔",
+        "id": "abb0cde9a3991b12",
+        "title": "シングル「Yes! 東京」＆アルバム「Yes! 東京 (体験入学版)」、デジタルリリース決定！各種キャンペーンもスタート！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11544/",
+        "publishedAt": "2026-08-10T08:00:46.000Z",
+        "summary": "ついにCD発売を迎えるEBiDAN (恵比寿学園男子部)「Yes! 東京」が、デジタルシングルとしてもリリースが決定いたしました。リード曲「Yes! 東京」に加え、カップリングには昨年の『EBiDAN THE LIVE […] The post シングル「Yes! 東京」＆アルバム「Yes! 東京 (体験入学版)」、デジタルリリース決定！各種キャンペーンもス",
         "groups": [
-          "原因は自分にある。",
-          "BUDDiiS"
+          "EBiDAN",
+          "SUPER★DRAGON"
         ],
-        "statuses": [
-          "active"
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "b396ff503ea66479",
+        "title": "【渋谷エリアジャック及び山手線ラッピング広告をご覧になる皆様へ再度のお願い】",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11527/",
+        "publishedAt": "2026-08-07T12:30:26.000Z",
+        "summary": "いつもEBiDANへ温かい応援をいただき、誠にありがとうございます。 依然として、渋谷ジャック及び山手線ラッピング広告に関して駅構内、ホーム上、車内、道路上における危険行為や滞留、一歩間違えれば大事故に直結しかねない極め […] The post 【渋谷エリアジャック及び山手線ラッピング広告をご覧になる皆様へ再度のお願い】 first appeared on",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
         ],
-        "memberMatches": [
-          {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "SHOOT",
-            "group": "BUDDiiS",
-            "status": "active"
-          }
-        ]
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "963840c649ccf026",
+        "title": "【渋谷エリアジャック及び山手線ラッピング広告をご覧になる皆様へ再度のお願い】",
+        "sourceName": "超特急 公式NEWS",
+        "sourceUrl": "https://bullettrain.jp/news/feed/",
+        "articleUrl": "https://bullettrain.jp/news/news26484/",
+        "publishedAt": "2026-08-07T12:29:12.000Z",
+        "summary": "いつもEBiDANへ温かい応援をいただき、誠にありがとうございます。 依然として、渋谷ジャック及び山手線ラッピング広告に関して駅構内、ホーム上、車内、道路上における危険行為や滞留、一歩間違えれば大事故に直結しかねない極め […]",
+        "groups": [
+          "EBiDAN"
+        ],
+        "statuses": [],
+        "memberMatches": []
       }
     ],
     "超特急": [
+      {
+        "id": "cfbc39f13171d0b6",
+        "title": "EBiDAN、15周年記念シングル「Yes! 東京」リリース！Making Lyric Video公開",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000861719/",
+        "publishedAt": "2026-08-11T08:30:26.000Z",
+        "summary": "超特急やM!LKら全9グループ総勢60名からなる、スターダストプロモーション所属俳優・タレント...",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
       {
         "id": "a84a7e31e229fe68",
         "title": "超特急オフィシャルサイト・オフィシャルファンクラブ システムメンテナンスのお知らせ",
@@ -314,97 +339,24 @@
         ],
         "statuses": [],
         "memberMatches": []
-      },
-      {
-        "id": "54347134bb282bdf",
-        "title": "超特急「Secret Invitation」リリース記念 アーティストフォローキャンペーン",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26486/",
-        "publishedAt": "2026-08-08T13:29:55.000Z",
-        "summary": "Apple Music、Spotifyのいずれかで超特急のアーティストページをフォローいただいた上、ご応募いただいた方全員に「Secretなボイスメッセージ」をプレゼントいたします。 ぜひご参加をお待ちしております！ 【 […]",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "EBiDAN": [
-      {
-        "id": "abb0cde9a3991b12",
-        "title": "シングル「Yes! 東京」＆アルバム「Yes! 東京 (体験入学版)」、デジタルリリース決定！各種キャンペーンもスタート！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11544/",
-        "publishedAt": "2026-08-10T08:00:46.000Z",
-        "summary": "ついにCD発売を迎えるEBiDAN (恵比寿学園男子部)「Yes! 東京」が、デジタルシングルとしてもリリースが決定いたしました。リード曲「Yes! 東京」に加え、カップリングには昨年の『EBiDAN THE LIVE […] The post シングル「Yes! 東京」＆アルバム「Yes! 東京 (体験入学版)」、デジタルリリース決定！各種キャンペーンもス",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "b396ff503ea66479",
-        "title": "【渋谷エリアジャック及び山手線ラッピング広告をご覧になる皆様へ再度のお願い】",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11527/",
-        "publishedAt": "2026-08-07T12:30:26.000Z",
-        "summary": "いつもEBiDANへ温かい応援をいただき、誠にありがとうございます。 依然として、渋谷ジャック及び山手線ラッピング広告に関して駅構内、ホーム上、車内、道路上における危険行為や滞留、一歩間違えれば大事故に直結しかねない極め […] The post 【渋谷エリアジャック及び山手線ラッピング広告をご覧になる皆様へ再度のお願い】 first appeared on",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "963840c649ccf026",
-        "title": "【渋谷エリアジャック及び山手線ラッピング広告をご覧になる皆様へ再度のお願い】",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26484/",
-        "publishedAt": "2026-08-07T12:29:12.000Z",
-        "summary": "いつもEBiDANへ温かい応援をいただき、誠にありがとうございます。 依然として、渋谷ジャック及び山手線ラッピング広告に関して駅構内、ホーム上、車内、道路上における危険行為や滞留、一歩間違えれば大事故に直結しかねない極め […]",
-        "groups": [
-          "EBiDAN"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "e18ccf0cadfec290",
-        "title": "「J-POPシングル ウィークリーTOP30」発表。1位はME:I『花咲く道』、予約1位はEBiDAN（恵比寿学園男子部）『Yes! 東京』（2026年8月6日付）",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/08/06/tg004",
-        "publishedAt": "2026-08-06T10:00:00.000Z",
-        "summary": "",
-        "groups": [
-          "EBiDAN"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "b43f4ac8a3d7af47",
-        "title": "『HMV夏のEBiDAN祭り2026』開催決定！「EBiDAN THE LIVE 2026 15th Anniversary」会場にて、デコガチャの販売やスペシャル抽選会を開催！さらに、「Yes! 東京」発売を記念した連動企画や、渋谷MODIでのデコガチャ等、様々な企画でEBiDANを盛り上げます！",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26464/",
-        "publishedAt": "2026-08-05T11:59:56.000Z",
-        "summary": "EBiDAN15周年記念シングル「Yes! 東京」発売を記念して、『HMV夏のEBiDAN祭り』がスペシャルバージョンになって実施決定！「EBiDAN THE LIVE 2026 15th Anniversary」会場、 […]",
-        "groups": [
-          "EBiDAN"
-        ],
-        "statuses": [],
-        "memberMatches": []
       }
     ],
     "SUPER★DRAGON": [
+      {
+        "id": "1ad5810b4c9a0a8b",
+        "title": "本日8月11日(火・祝)発売、 EBiDAN15周年記念シングル「Yes! 東京」のを公開！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11555/",
+        "publishedAt": "2026-08-11T08:30:18.000Z",
+        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して、本日8月11日(火・祝)にリリースされたシングル「Yes! 東京」のMaking Lyric Videoを公開！ 本日公開された映像は、4日間に渡って撮影されたMu […] The post 本日8月11日(火・祝)発売、 EBiDAN15周年記念シングル「Yes! 東京」の を公開！ first ap",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
       {
         "id": "abb0cde9a3991b12",
         "title": "シングル「Yes! 東京」＆アルバム「Yes! 東京 (体験入学版)」、デジタルリリース決定！各種キャンペーンもスタート！",
@@ -463,20 +415,64 @@
         ],
         "statuses": [],
         "memberMatches": []
+      }
+    ],
+    "原因は自分にある。": [
+      {
+        "id": "15fb9ee4d3775ce2",
+        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/07/89645/",
+        "publishedAt": "2026-07-24T12:00:00.000Z",
+        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
+        "groups": [
+          "原因は自分にある。",
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
       },
       {
-        "id": "8eee66f46c531a54",
-        "title": "「SUPER★DRAGON DRA FES 2026」SOLD OUT !!",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11513/",
-        "publishedAt": "2026-08-05T08:59:02.000Z",
-        "summary": "「SUPER★DRAGON DRA FES 2026」のチケットが好評につき完売いたしました！ ご購入いただいた皆様、ありがとうございました！ 「SUPER★DRAGON DRA FES 2026」 THANK YOU […] The post 「SUPER★DRAGON DRA FES 2026」SOLD OUT !! first appeared on ",
+        "id": "3fb662210aaeb54f",
+        "title": "森愁斗主演『ウォーターガーディアンズ』本予告解禁、ライフセーバーの本格訓練シーンが初お披露目",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/06/87426/",
+        "publishedAt": "2026-06-05T22:00:00.000Z",
+        "summary": "森愁斗主演映画『ウォーターガーディアンズ』の公開日が8月21日(金)に決定し、本予告映像と主題歌、追加キャスト情報が一挙解禁された。 本作は、ライフセーバーを目指す若者たちの本気のひと夏を描いた青春サマームービー。思いがけずライフセーバーになるという目標を得た若者たちが友情を育み、恋と出会う姿を描く。キャストでは主人公・海翔役の森愁斗（BUDDiiS）、海翔",
         "groups": [
-          "SUPER★DRAGON"
+          "原因は自分にある。",
+          "BUDDiiS"
         ],
-        "statuses": [],
-        "memberMatches": []
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
       }
     ],
     "BUDDiiS": [
