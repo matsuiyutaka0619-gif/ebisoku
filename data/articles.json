@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-08-11T13:42:05.412Z",
+  "updatedAt": "2026-08-11T19:19:48.557Z",
   "articles": [
+    {
+      "id": "7f9d3816328eba34",
+      "title": "『君の好きは無敵』が描く“好き”が“恋”に変わる瞬間 杏奈と瀬尾の距離が縮まり始める予感",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/08/post-2488485.html",
+      "publishedAt": "2026-08-11T14:10:07.000Z",
+      "summary": "胸が突然ズキッと痛んだら、まず疑うべきは体の不調だろう。ましてや恋愛とは縁遠い瀬尾（佐野勇斗）なら、それが誰かを「好き」になったサインだなんて思いもしない。『君の好きは無敵』（TBS系）第5話では、チュチュチュエラが店",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "34dd35f57ad80391",
       "title": "M!LK 5人の“距離感バグ”ショット続々！塩﨑太智が吉田仁人にほっぺツン＆佐野勇斗が吉田をバックハグ「ちゃのざき顔近すぎポーズかわいすぎ」「仁人くんの舌ペロやばい」「どのケミも最高」",
@@ -2679,20 +2701,6 @@
       "articleUrl": "https://super-dragon.jp/news/news11106/",
       "publishedAt": "2026-05-30T11:59:36.000Z",
       "summary": "①『「Call Me Asap / NUMBER」発売記念！ SUPER★DRAGON タワーレコード抽選会』が全国のタワーレコードSUPER応援店（10店舗）にて実施決定！ SUPER応援店舗にてSUPER★DRAGO […] The post Major 6th Single「Call Me Asap / NUMBER」 タワーレコードキャンペーン決定！",
-      "groups": [
-        "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "fcba0d69850272ef",
-      "title": "Major 6th Single「Call Me Asap / NUMBER」 HMVキャンペーン決定！",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news11097/",
-      "publishedAt": "2026-05-30T10:59:45.000Z",
-      "summary": "①『「Call Me Asap / NUMBER」発売記念！ SUPER★DRAGON HMV抽選会』が全国のHMV6店舗で実施決定！ 下記対象店舗にて対象商品のCDご購入額3,300円（税込）ごとに1回、トレカ、缶バッ […] The post Major 6th Single「Call Me Asap / NUMBER」 HMVキャンペーン決定！ fir",
       "groups": [
         "SUPER★DRAGON"
       ],

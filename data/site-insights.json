@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-11T13:42:05.415Z",
+  "updatedAt": "2026-08-11T19:19:48.595Z",
   "totals": {
     "all": 160,
-    "today": 4,
-    "week": 23
+    "today": 0,
+    "week": 24
   },
   "groupRanking": [
     {
@@ -20,13 +20,13 @@
     },
     {
       "name": "M!LK",
-      "count": 5
+      "count": 6
     }
   ],
   "memberRanking": [
     {
       "name": "佐野勇斗",
-      "count": 2
+      "count": 3
     },
     {
       "name": "曽野舜太",
@@ -65,11 +65,37 @@
     {
       "name": "タワーレコード ニュース",
       "count": 1
+    },
+    {
+      "name": "リアルサウンド 映画部",
+      "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
     "M!LK": [
+      {
+        "id": "7f9d3816328eba34",
+        "title": "『君の好きは無敵』が描く“好き”が“恋”に変わる瞬間 杏奈と瀬尾の距離が縮まり始める予感",
+        "sourceName": "リアルサウンド 映画部",
+        "sourceUrl": "https://realsound.jp/movie/feed",
+        "articleUrl": "https://realsound.jp/movie/2026/08/post-2488485.html",
+        "publishedAt": "2026-08-11T14:10:07.000Z",
+        "summary": "胸が突然ズキッと痛んだら、まず疑うべきは体の不調だろう。ましてや恋愛とは縁遠い瀬尾（佐野勇斗）なら、それが誰かを「好き」になったサインだなんて思いもしない。『君の好きは無敵』（TBS系）第5話では、チュチュチュエラが店",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
       {
         "id": "34dd35f57ad80391",
         "title": "M!LK 5人の“距離感バグ”ショット続々！塩﨑太智が吉田仁人にほっぺツン＆佐野勇斗が吉田をバックハグ「ちゃのざき顔近すぎポーズかわいすぎ」「仁人くんの舌ペロやばい」「どのケミも最高」",
@@ -153,28 +179,6 @@
         "articleUrl": "https://news.mynavi.jp/article/20260808-4792972/",
         "publishedAt": "2026-08-08T11:00:00.000Z",
         "summary": "ダンスボーカルグループ・M!LKの曽野舜太が7日、映画『仮面ライダーゼッツ さよならのミッション』(公開中)の公開御礼舞台挨拶に、今井竜太郎、上堀内佳寿也監督とともに登壇。同作出演を知ったときのM!LKメンバーのリアクションを明かした。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "be4d78e64780bd02",
-        "title": "M!LK曽野舜太が作品に加えた“艶” 多忙な中での撮影で見せた“熱さ”を監督が絶賛「もう1回やらせてください! と…」",
-        "sourceName": "マイナビニュース 映画",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
-        "articleUrl": "https://news.mynavi.jp/article/20260807-4789954/",
-        "publishedAt": "2026-08-07T14:45:00.000Z",
-        "summary": "ダンスボーカルグループ・M!LKの曽野舜太が7日、映画『仮面ライダーゼッツ さよならのミッション』(公開中)の公開御礼舞台挨拶に、今井竜太郎、上堀内佳寿也監督とともに登壇。監督から魅力を絶賛された。",
         "groups": [
           "M!LK"
         ],
