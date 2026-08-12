@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-12T13:46:05.877Z",
+  "updatedAt": "2026-08-12T19:19:53.036Z",
   "totals": {
-    "all": 127,
-    "today": 5,
-    "week": 11
+    "all": 126,
+    "today": 0,
+    "week": 10
   },
   "groupRanking": [
     {
@@ -17,10 +17,6 @@
     {
       "name": "SUPER★DRAGON",
       "count": 5
-    },
-    {
-      "name": "ONE N' ONLY",
-      "count": 1
     }
   ],
   "memberRanking": [
@@ -31,10 +27,6 @@
     {
       "name": "山中柔太朗",
       "count": 2
-    },
-    {
-      "name": "EIKU",
-      "count": 1
     }
   ],
   "sourceRanking": [
@@ -49,10 +41,6 @@
     {
       "name": "マイナビニュース 映画",
       "count": 2
-    },
-    {
-      "name": "リアルサウンド 映画部",
-      "count": 1
     }
   ],
   "topics": [],
@@ -315,30 +303,6 @@
           {
             "name": "曽野舜太",
             "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      }
-    ],
-    "ONE N' ONLY": [
-      {
-        "id": "8b5fe4cdcdc7187a",
-        "title": "『付き合ってあげてもいいかな』に山下永玖、葵揚、紺野彩夏ら出演 メインビジュアルも",
-        "sourceName": "リアルサウンド 映画部",
-        "sourceUrl": "https://realsound.jp/movie/feed",
-        "articleUrl": "https://realsound.jp/movie/2026/08/post-2488658.html",
-        "publishedAt": "2026-08-12T04:05:49.000Z",
-        "summary": "9月10日よりMBSドラマ特区枠で放送がスタートする鞘師里保と小西桜子のW主演ドラマ『付き合ってあげてもいいかな』のメインビジュアルが公開され、山下永玖（ONE N’ ONLY）、山谷花純、紺野彩夏ら追加キャストが発表",
-        "groups": [
-          "ONE N' ONLY"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "EIKU",
-            "group": "ONE N' ONLY",
             "status": "active"
           }
         ]
