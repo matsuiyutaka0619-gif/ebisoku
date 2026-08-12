@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T02:43:44.345Z",
+  "updatedAt": "2026-08-12T07:51:40.056Z",
   "sources": [
     {
       "source": "日刊スポーツ 芸能",
@@ -106,7 +106,7 @@
       "source": "超特急 公式NEWS",
       "count": 0,
       "ok": false,
-      "error": "HTTP 503"
+      "error": "HTTP 404"
     },
     {
       "source": "SUPER★DRAGON 公式NEWS",

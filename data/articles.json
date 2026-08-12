@@ -1,14 +1,58 @@
 {
-  "updatedAt": "2026-08-12T02:43:44.343Z",
+  "updatedAt": "2026-08-12T07:51:40.053Z",
   "articles": [
     {
-      "id": "7f9d3816328eba34",
-      "title": "『君の好きは無敵』が描く“好き”が“恋”に変わる瞬間 杏奈と瀬尾の距離が縮まり始める予感",
+      "id": "8553dad257566e1c",
+      "title": "M!LK山中柔太朗とTWSシニュの高身長小顔ペアがコラボダンス披露「顔が似てる」「ふたりともかわいい」「天使のよう」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000862377/",
+      "publishedAt": "2026-08-12T06:10:31.000Z",
+      "summary": "TWS公式SNSにて、TWSシニュ（SHINYU）とM!LK山中柔太朗のコラボダンス動画が公開された。 ■衣...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "8b5fe4cdcdc7187a",
+      "title": "『付き合ってあげてもいいかな』に山下永玖、葵揚、紺野彩夏ら出演 メインビジュアルも",
       "sourceName": "リアルサウンド 映画部",
       "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/08/post-2488485.html",
-      "publishedAt": "2026-08-11T14:10:07.000Z",
-      "summary": "胸が突然ズキッと痛んだら、まず疑うべきは体の不調だろう。ましてや恋愛とは縁遠い瀬尾（佐野勇斗）なら、それが誰かを「好き」になったサインだなんて思いもしない。『君の好きは無敵』（TBS系）第5話では、チュチュチュエラが店",
+      "articleUrl": "https://realsound.jp/movie/2026/08/post-2488658.html",
+      "publishedAt": "2026-08-12T04:05:49.000Z",
+      "summary": "9月10日よりMBSドラマ特区枠で放送がスタートする鞘師里保と小西桜子のW主演ドラマ『付き合ってあげてもいいかな』のメインビジュアルが公開され、山下永玖（ONE N’ ONLY）、山谷花純、紺野彩夏ら追加キャストが発表",
+      "groups": [
+        "ONE N' ONLY"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "EIKU",
+          "group": "ONE N' ONLY",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "622866db8e08c2e2",
+      "title": "M!LK山中柔太朗と曽野舜太がぎゅっとハグ＆ほっぺにチュッ!? 「やわしゅんのイチャイチャ尊い」「ニヤニヤが止まらない」＝LOVE大谷映美里＆佐々木舞香とのコラボに「美男美女」「身長差メロすぎ」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000862351/",
+      "publishedAt": "2026-08-12T03:57:51.000Z",
+      "summary": "M!LKと＝LOVEの公式TikTokが更新。M!LKの曽野舜太＆山中柔太朗と、＝LOVEの大谷映美里＆佐々木...",
       "groups": [
         "M!LK"
       ],
@@ -17,55 +61,27 @@
       ],
       "memberMatches": [
         {
-          "name": "佐野勇斗",
+          "name": "曽野舜太",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "山中柔太朗",
           "group": "M!LK",
           "status": "active"
         }
       ]
     },
     {
-      "id": "34dd35f57ad80391",
-      "title": "M!LK 5人の“距離感バグ”ショット続々！塩﨑太智が吉田仁人にほっぺツン＆佐野勇斗が吉田をバックハグ「ちゃのざき顔近すぎポーズかわいすぎ」「仁人くんの舌ペロやばい」「どのケミも最高」",
+      "id": "5cbd03c84f4f8914",
+      "title": "M!LK 5人が“制服”でずらり！笑顔で肩を寄せる集合ショットに「みんな制服王子すぎる…眩しい」「こんなイケメンが学校にいたら絶対惚れる」「さすがにメロすぎ」「ビジュ完璧すぎて恋」",
       "sourceName": "THE FIRST TIMES",
       "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000861968/",
-      "publishedAt": "2026-08-11T09:02:04.000Z",
-      "summary": "M!LKが表紙を飾る『mini』9月号が発売。『mini』の公式SNSで撮影の裏側を収めたビハインド動画...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "塩﨑太智",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "cfbc39f13171d0b6",
-      "title": "EBiDAN、15周年記念シングル「Yes! 東京」リリース！Making Lyric Video公開",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000861719/",
-      "publishedAt": "2026-08-11T08:30:26.000Z",
-      "summary": "超特急やM!LKら全9グループ総勢60名からなる、スターダストプロモーション所属俳優・タレント...",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000862293/",
+      "publishedAt": "2026-08-12T03:10:16.000Z",
+      "summary": "EBiDANの公式Xが更新。M!LKのメンバー5人が揃ったオフショットが公開され、ファンの注目を集め...",
       "groups": [
         "EBiDAN",
-        "超特急",
         "M!LK"
       ],
       "statuses": [],
