@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-08-12T07:51:40.053Z",
+  "updatedAt": "2026-08-12T13:46:05.876Z",
   "articles": [
+    {
+      "id": "91a2a4d301121007",
+      "title": "【SUPERSTAR EBiDAN】 「EBiDAN THE LIVE 2026 15th Anniversary」開催記念！ゲーム内イベント実施",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news11560/",
+      "publishedAt": "2026-08-12T08:00:18.000Z",
+      "summary": "EBiDAN公式リズムゲーム『SUPERSTAR EBiDAN』では、 「EBiDAN THE LIVE 2026 15th Anniversary」の開催を記念して、期間限定のゲーム内イベントを実施いたします！ ここで […] The post 【SUPERSTAR EBiDAN】 「EBiDAN THE LIVE 2026 15th Anniversar",
+      "groups": [
+        "EBiDAN",
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "8553dad257566e1c",
       "title": "M!LK山中柔太朗とTWSシニュの高身長小顔ペアがコラボダンス披露「顔が似てる」「ふたりともかわいい」「天使のよう」",
@@ -186,20 +201,6 @@
       "summary": "9月開催「SUPER★DRAGON DRA FES 2026」東京・大阪公演完売につき、12月19日(土)豊洲PITにて追加公演の開催が決定！！ 本日、8月7日(金)18:00より、豊洲PIT〈追加公演〉オフィシャルファ […] The post 「SUPER★DRAGON DRA FES 2026」12月豊洲PITにて追加公演が決定！ first appe",
       "groups": [
         "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "e18ccf0cadfec290",
-      "title": "「J-POPシングル ウィークリーTOP30」発表。1位はME:I『花咲く道』、予約1位はEBiDAN（恵比寿学園男子部）『Yes! 東京』（2026年8月6日付）",
-      "sourceName": "タワーレコード ニュース",
-      "sourceUrl": "https://tower.jp/feeds/article/news",
-      "articleUrl": "https://tower.jp/article/news/2026/08/06/tg004",
-      "publishedAt": "2026-08-06T10:00:00.000Z",
-      "summary": "",
-      "groups": [
-        "EBiDAN"
       ],
       "statuses": [],
       "memberMatches": []
@@ -2185,20 +2186,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "8881034f99d32858",
-      "title": "SUPER★DRAGON LIVE TOUR 2026「Studio」チケットトレード情報",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news10835/",
-      "publishedAt": "2026-04-10T08:59:46.000Z",
-      "summary": "4月19日(日)開催SUPER★DRAGON LIVE TOUR 2026「Studio」東京公演につきまして、 ご都合によりご来場が難しくなったお客様を対象に、 本日4月10日(金)18:00よりチケットトレードを実施 […] The post SUPER★DRAGON LIVE TOUR 2026「Studio」チケットトレード情報 first appe",
-      "groups": [
-        "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
     }
   ]
 }
