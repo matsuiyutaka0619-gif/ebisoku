@@ -1,18 +1,14 @@
 {
-  "updatedAt": "2026-08-11T19:19:48.595Z",
+  "updatedAt": "2026-08-12T02:43:44.345Z",
   "totals": {
-    "all": 160,
+    "all": 127,
     "today": 0,
-    "week": 24
+    "week": 13
   },
   "groupRanking": [
     {
       "name": "EBiDAN",
-      "count": 10
-    },
-    {
-      "name": "超特急",
-      "count": 8
+      "count": 7
     },
     {
       "name": "SUPER★DRAGON",
@@ -20,13 +16,17 @@
     },
     {
       "name": "M!LK",
-      "count": 6
+      "count": 5
+    },
+    {
+      "name": "超特急",
+      "count": 1
     }
   ],
   "memberRanking": [
     {
       "name": "佐野勇斗",
-      "count": 3
+      "count": 2
     },
     {
       "name": "曽野舜太",
@@ -39,24 +39,16 @@
     {
       "name": "吉田仁人",
       "count": 1
-    },
-    {
-      "name": "山中柔太朗",
-      "count": 1
     }
   ],
   "sourceRanking": [
-    {
-      "name": "超特急 公式NEWS",
-      "count": 10
-    },
     {
       "name": "SUPER★DRAGON 公式NEWS",
       "count": 7
     },
     {
       "name": "THE FIRST TIMES",
-      "count": 3
+      "count": 2
     },
     {
       "name": "マイナビニュース 映画",
@@ -145,13 +137,13 @@
         "memberMatches": []
       },
       {
-        "id": "9a090928c9c68dec",
-        "title": "M!LK 5人の“雰囲気一変”モードビジュアルに大反響！佐野勇斗は素肌×レザー、山中柔太朗は顔まわりにパール、クールで色気あふれる姿に「バッチバチにかっこいい」「神ビジュ」「美しくて絵画のよう」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000861913/",
-        "publishedAt": "2026-08-11T07:54:53.000Z",
-        "summary": "『NYLON JAPAN』の公式SNSで、M!LKのモードな姿が公開され、注目を集めている。 ■M!LKがモード...",
+        "id": "332f9e22f238c9e9",
+        "title": "「楽屋で台本を開いていたら…」「それぞれが…」曽野舜太が明かしたM!LKメンバーのリアクション 俳優業にもさらなる意欲",
+        "sourceName": "マイナビニュース 映画",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
+        "articleUrl": "https://news.mynavi.jp/article/20260808-4792972/",
+        "publishedAt": "2026-08-08T11:00:00.000Z",
+        "summary": "ダンスボーカルグループ・M!LKの曽野舜太が7日、映画『仮面ライダーゼッツ さよならのミッション』(公開中)の公開御礼舞台挨拶に、今井竜太郎、上堀内佳寿也監督とともに登壇。同作出演を知ったときのM!LKメンバーのリアクションを明かした。",
         "groups": [
           "M!LK"
         ],
@@ -160,25 +152,20 @@
         ],
         "memberMatches": [
           {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "山中柔太朗",
+            "name": "曽野舜太",
             "group": "M!LK",
             "status": "active"
           }
         ]
       },
       {
-        "id": "332f9e22f238c9e9",
-        "title": "「楽屋で台本を開いていたら…」「それぞれが…」曽野舜太が明かしたM!LKメンバーのリアクション 俳優業にもさらなる意欲",
+        "id": "be4d78e64780bd02",
+        "title": "M!LK曽野舜太が作品に加えた“艶” 多忙な中での撮影で見せた“熱さ”を監督が絶賛「もう1回やらせてください! と…」",
         "sourceName": "マイナビニュース 映画",
         "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
-        "articleUrl": "https://news.mynavi.jp/article/20260808-4792972/",
-        "publishedAt": "2026-08-08T11:00:00.000Z",
-        "summary": "ダンスボーカルグループ・M!LKの曽野舜太が7日、映画『仮面ライダーゼッツ さよならのミッション』(公開中)の公開御礼舞台挨拶に、今井竜太郎、上堀内佳寿也監督とともに登壇。同作出演を知ったときのM!LKメンバーのリアクションを明かした。",
+        "articleUrl": "https://news.mynavi.jp/article/20260807-4789954/",
+        "publishedAt": "2026-08-07T14:45:00.000Z",
+        "summary": "ダンスボーカルグループ・M!LKの曽野舜太が7日、映画『仮面ライダーゼッツ さよならのミッション』(公開中)の公開御礼舞台挨拶に、今井竜太郎、上堀内佳寿也監督とともに登壇。監督から魅力を絶賛された。",
         "groups": [
           "M!LK"
         ],
@@ -257,13 +244,13 @@
         "memberMatches": []
       },
       {
-        "id": "963840c649ccf026",
-        "title": "【渋谷エリアジャック及び山手線ラッピング広告をご覧になる皆様へ再度のお願い】",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26484/",
-        "publishedAt": "2026-08-07T12:29:12.000Z",
-        "summary": "いつもEBiDANへ温かい応援をいただき、誠にありがとうございます。 依然として、渋谷ジャック及び山手線ラッピング広告に関して駅構内、ホーム上、車内、道路上における危険行為や滞留、一歩間違えれば大事故に直結しかねない極め […]",
+        "id": "e18ccf0cadfec290",
+        "title": "「J-POPシングル ウィークリーTOP30」発表。1位はME:I『花咲く道』、予約1位はEBiDAN（恵比寿学園男子部）『Yes! 東京』（2026年8月6日付）",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/08/06/tg004",
+        "publishedAt": "2026-08-06T10:00:00.000Z",
+        "summary": "",
         "groups": [
           "EBiDAN"
         ],
@@ -289,13 +276,52 @@
         "memberMatches": []
       },
       {
-        "id": "a84a7e31e229fe68",
-        "title": "超特急オフィシャルサイト・オフィシャルファンクラブ システムメンテナンスのお知らせ",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26511/",
-        "publishedAt": "2026-08-10T08:59:50.000Z",
-        "summary": "日頃より超特急オフィシャルサイト、オフィシャルファンクラブ「夢の青春8きっぷ」をご利用いただき誠にありがとうございます。 この度、超特急オフィシャルサイト・オフィシャルファンクラブ「夢の青春8きっぷ」・超特急OFFICI […]",
+        "id": "397a635043a0e0e2",
+        "title": "映画『ワンダンス』新キャストにGirls2山口綺羅、MAZZEL・RAN、TSUKKI、超特急・髙松アロハ",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/07/89594/",
+        "publishedAt": "2026-07-22T09:00:00.000Z",
+        "summary": "11月27日(金)に公開されるJO（&TEAM）初主演映画『ワンダンス』の新キャストとして山口綺羅（Girls2）、RAN（MAZZEL）、現役DリーガーのTSUKKI、髙松アロハ（超特急）が出演することが発表された。 原作は単行本累計発行部数110万部を突破し「月刊アフタヌーン」（講談社）で連載中の珈琲による同名漫画。ダンサーからも熱く支持され、昨年放送さ",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "アロハ",
+            "group": "超特急",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "382225983e9781d4",
+        "title": "8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 7月2日からの先行配信リリースに合わせて デジタルキャンペーンが追加決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11354/",
+        "publishedAt": "2026-07-01T06:00:22.000Z",
+        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して8月11日(火・祝)にリリースされる「Yes! 東京」が、いよいよ7月2日（木）より先行配信リリースとなります。超特急、M!LK、SUPER★DRAGON、Sakur […] The post 8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 7月2日からの先行配信リリースに合わせて デ",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "cc5ac2d0f2585820",
+        "title": "佐々木美玲＆森次政裕の健やかさの秘訣。共演してわかった互いの愛され力とは？",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/06/87486/",
+        "publishedAt": "2026-06-11T09:00:00.000Z",
+        "summary": "一夜限りの関係を結んだ相手は、誰もが羨むハイスペ社長だった──。 2026年4月クールで放送中のドラマ特区『あの夜、社長の子供を授かりました』は、一夜の過ちから運命が大きく変わる波乱のラブストーリー。自己評価の低さゆえに、つい自分を犠牲にして他人のために頑張りすぎてしまうヒロイン・花井栞里を佐々木美玲。そんな栞里に無償の愛を注ぐ溺愛社長・瀬古貴人を森次政裕（",
         "groups": [
           "超特急"
         ],
@@ -303,46 +329,26 @@
         "memberMatches": []
       },
       {
-        "id": "5918c4587be51b50",
-        "title": "「ESCORT」で披露した楽曲をRe-ver.として配信スタート！",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26471/",
-        "publishedAt": "2026-08-09T14:59:21.000Z",
-        "summary": "『BULLET TRAIN ARENA TOUR 2026 ESCORT』で披露した楽曲 「BREAK OFF」「Hey Hey Hey」「HOPE STEP JUMP」「Never Mine」「OVER DRIVE」「 […]",
+        "id": "63b99a8e04894f82",
+        "title": "伊東蒼が圧巻の表現力で“危うい”人物を演じ切る、奈緒主演映画『死ねばいいのに』本編映像解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/06/87607/",
+        "publishedAt": "2026-06-11T03:00:00.000Z",
+        "summary": "7月3日(金)にテアトル新宿ほかで公開される奈緒主演映画『死ねばいいのに』より、伊東蒼演じる亜佐美にフォーカスした本編映像と場面写真が解禁された。 京極夏彦の同名小説を映画化した本作は、何者かによって殺された“亜佐美”を巡るミステリー。その“亜佐美”について尋ね歩く謎めいた人物・渡来映子を奈緒が演じ、従来のイメージを覆すアウトローな雰囲気で新境地を開拓する。",
         "groups": [
           "超特急"
         ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "2f202e46e29b484a",
-        "title": "「ESCORT」で披露した楽曲をRe-ver.として配信決定！",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26468/",
-        "publishedAt": "2026-08-09T13:29:30.000Z",
-        "summary": "本日最終公演を迎えた「BULLET TRAIN ARENA TOUR 2026 ESCORT」の中で披露した楽曲を このあと8月10日(月)0:00に「Re-ver.」での配信リリースが決定しました！ 今回のツアーで披露 […]",
-        "groups": [
-          "超特急"
+        "statuses": [
+          "active"
         ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "282b232c3fc39f4e",
-        "title": "「東京ドーム公演記念 乗車準備会 僕たちは、超特急です!!!!!!!!!」 全国の映画館で開催決定！",
-        "sourceName": "超特急 公式NEWS",
-        "sourceUrl": "https://bullettrain.jp/news/feed/",
-        "articleUrl": "https://bullettrain.jp/news/news26508/",
-        "publishedAt": "2026-08-09T11:29:55.000Z",
-        "summary": "“超特急”の4回限りの特別な全国映画館での上映イベント「東京ドーム公演記念 乗車準備会 僕たちは、超特急です!!!!!!!!!」を開催。 当イベントにて上映される本作は、15周年を迎える“超特急”の歴代ライブと新撮ドキュ […]",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
+        "memberMatches": [
+          {
+            "name": "タクヤ",
+            "group": "超特急",
+            "status": "active"
+          }
+        ]
       }
     ],
     "SUPER★DRAGON": [

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T19:19:48.557Z",
+  "updatedAt": "2026-08-12T02:43:44.343Z",
   "articles": [
     {
       "id": "7f9d3816328eba34",
@@ -87,47 +87,6 @@
       "memberMatches": []
     },
     {
-      "id": "9a090928c9c68dec",
-      "title": "M!LK 5人の“雰囲気一変”モードビジュアルに大反響！佐野勇斗は素肌×レザー、山中柔太朗は顔まわりにパール、クールで色気あふれる姿に「バッチバチにかっこいい」「神ビジュ」「美しくて絵画のよう」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000861913/",
-      "publishedAt": "2026-08-11T07:54:53.000Z",
-      "summary": "『NYLON JAPAN』の公式SNSで、M!LKのモードな姿が公開され、注目を集めている。 ■M!LKがモード...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "山中柔太朗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "a84a7e31e229fe68",
-      "title": "超特急オフィシャルサイト・オフィシャルファンクラブ システムメンテナンスのお知らせ",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26511/",
-      "publishedAt": "2026-08-10T08:59:50.000Z",
-      "summary": "日頃より超特急オフィシャルサイト、オフィシャルファンクラブ「夢の青春8きっぷ」をご利用いただき誠にありがとうございます。 この度、超特急オフィシャルサイト・オフィシャルファンクラブ「夢の青春8きっぷ」・超特急OFFICI […]",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
       "id": "abb0cde9a3991b12",
       "title": "シングル「Yes! 東京」＆アルバム「Yes! 東京 (体験入学版)」、デジタルリリース決定！各種キャンペーンもスタート！",
       "sourceName": "SUPER★DRAGON 公式NEWS",
@@ -138,62 +97,6 @@
       "groups": [
         "EBiDAN",
         "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "5918c4587be51b50",
-      "title": "「ESCORT」で披露した楽曲をRe-ver.として配信スタート！",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26471/",
-      "publishedAt": "2026-08-09T14:59:21.000Z",
-      "summary": "『BULLET TRAIN ARENA TOUR 2026 ESCORT』で披露した楽曲 「BREAK OFF」「Hey Hey Hey」「HOPE STEP JUMP」「Never Mine」「OVER DRIVE」「 […]",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "2f202e46e29b484a",
-      "title": "「ESCORT」で披露した楽曲をRe-ver.として配信決定！",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26468/",
-      "publishedAt": "2026-08-09T13:29:30.000Z",
-      "summary": "本日最終公演を迎えた「BULLET TRAIN ARENA TOUR 2026 ESCORT」の中で披露した楽曲を このあと8月10日(月)0:00に「Re-ver.」での配信リリースが決定しました！ 今回のツアーで披露 […]",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "282b232c3fc39f4e",
-      "title": "「東京ドーム公演記念 乗車準備会 僕たちは、超特急です!!!!!!!!!」 全国の映画館で開催決定！",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26508/",
-      "publishedAt": "2026-08-09T11:29:55.000Z",
-      "summary": "“超特急”の4回限りの特別な全国映画館での上映イベント「東京ドーム公演記念 乗車準備会 僕たちは、超特急です!!!!!!!!!」を開催。 当イベントにて上映される本作は、15周年を迎える“超特急”の歴代ライブと新撮ドキュ […]",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "54347134bb282bdf",
-      "title": "超特急「Secret Invitation」リリース記念 アーティストフォローキャンペーン",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26486/",
-      "publishedAt": "2026-08-08T13:29:55.000Z",
-      "summary": "Apple Music、Spotifyのいずれかで超特急のアーティストページをフォローいただいた上、ご応募いただいた方全員に「Secretなボイスメッセージ」をプレゼントいたします。 ぜひご参加をお待ちしております！ 【 […]",
-      "groups": [
-        "超特急"
       ],
       "statuses": [],
       "memberMatches": []
@@ -219,20 +122,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "d6a562c8e8bf4643",
-      "title": "超特急 東京ドーム公演＜追加公演＞ SOLD OUT",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26499/",
-      "publishedAt": "2026-08-08T02:14:50.000Z",
-      "summary": "超特急「東京ドーム公演」追加公演も好評につき完売いたしました。 ご購入いただいた皆様、ありがとうございました!!!!!!!!! 超特急 東京ドーム公演＜追加公演＞ 【東京】東京ドーム THANK YOU SOLD OUT […]",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "be4d78e64780bd02",
@@ -272,20 +161,6 @@
       "memberMatches": []
     },
     {
-      "id": "963840c649ccf026",
-      "title": "【渋谷エリアジャック及び山手線ラッピング広告をご覧になる皆様へ再度のお願い】",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26484/",
-      "publishedAt": "2026-08-07T12:29:12.000Z",
-      "summary": "いつもEBiDANへ温かい応援をいただき、誠にありがとうございます。 依然として、渋谷ジャック及び山手線ラッピング広告に関して駅構内、ホーム上、車内、道路上における危険行為や滞留、一歩間違えれば大事故に直結しかねない極め […]",
-      "groups": [
-        "EBiDAN"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
       "id": "44897469e7a600d4",
       "title": "「SUPER★DRAGON DRA FES 2026」12月豊洲PITにて追加公演が決定！",
       "sourceName": "SUPER★DRAGON 公式NEWS",
@@ -307,34 +182,6 @@
       "articleUrl": "https://tower.jp/article/news/2026/08/06/tg004",
       "publishedAt": "2026-08-06T10:00:00.000Z",
       "summary": "",
-      "groups": [
-        "EBiDAN"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "70ecccdb70b07e39",
-      "title": "超特急 × Kアリーナ横浜のコラボドリンク販売が決定！",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26476/",
-      "publishedAt": "2026-08-06T06:04:14.000Z",
-      "summary": "超特急 × Kアリーナ横浜のコラボドリンク販売が決定！ BULLET TRAIN ARENA TOUR 2026 ESCORTの開催を記念して、コラボドリンク販売が決定いたしました！ コラボドリンクをご注文いただいたお客 […]",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "b43f4ac8a3d7af47",
-      "title": "『HMV夏のEBiDAN祭り2026』開催決定！「EBiDAN THE LIVE 2026 15th Anniversary」会場にて、デコガチャの販売やスペシャル抽選会を開催！さらに、「Yes! 東京」発売を記念した連動企画や、渋谷MODIでのデコガチャ等、様々な企画でEBiDANを盛り上げます！",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26464/",
-      "publishedAt": "2026-08-05T11:59:56.000Z",
-      "summary": "EBiDAN15周年記念シングル「Yes! 東京」発売を記念して、『HMV夏のEBiDAN祭り』がスペシャルバージョンになって実施決定！「EBiDAN THE LIVE 2026 15th Anniversary」会場、 […]",
       "groups": [
         "EBiDAN"
       ],
@@ -386,34 +233,6 @@
       "memberMatches": []
     },
     {
-      "id": "885f70ad18f1464e",
-      "title": "『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット 会場販売のお知らせ",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26452/",
-      "publishedAt": "2026-08-05T02:59:53.000Z",
-      "summary": "8月13日(木)～8月16日(日)に開催される『EBiDAN THE LIVE 2026 15th Anniversary』公演会場にて該当公演のチケットをお持ちの方を対象に、会場で受け取り可能なオフィシャルグッズ・生写 […]",
-      "groups": [
-        "EBiDAN"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "5984104a63a6de2a",
-      "title": "超特急「BULLET TRAIN ARENA TOUR 2026 ESCORT」【Kアリーナ横浜公演】機材席開放一般発売 実施決定！",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26450/",
-      "publishedAt": "2026-08-04T08:59:57.000Z",
-      "summary": "完売していたKアリーナ横浜公演ですが、ステージプラン確定に伴い若干数の機材席開放販売が決定いたしました！ 8月7日(金)21:00より販売スタート！ ご乗車お待ちしております!!!!!!!!! ※重要：お申込み前に必ずご […]",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
       "id": "ab2d8ee93a167bf9",
       "title": "EBiDAN THE LIVE 2026 15th Anniversary 定価トレード情報",
       "sourceName": "SUPER★DRAGON 公式NEWS",
@@ -424,48 +243,6 @@
       "groups": [
         "EBiDAN",
         "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "ed6534bcb3fda4a4",
-      "title": "EBiDAN THE LIVE 2026 15th Anniversary 定価トレード情報",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26445/",
-      "publishedAt": "2026-08-04T02:54:14.000Z",
-      "summary": "「EBiDAN THE LIVE 2026 15th Anniversary」のチケットをお持ちで、 ご都合が悪くなったお客様のために8月5日(水)21:00より先着順にてチケットトレードの実施が決定いたしました。 トレ […]",
-      "groups": [
-        "EBiDAN"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "77df3b53818135f9",
-      "title": "「EBiDAN THE LIVE 2026 15th Anniversary」にてファンクラブブース実施決定！",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26440/",
-      "publishedAt": "2026-08-04T01:42:01.000Z",
-      "summary": "8月13日(木)〜8月16日(日) 開催「EBiDAN THE LIVE 2026 15th Anniversary」にて、ファンクラブブースの実施が決定！ EBiDANオフィシャルサイトと、ご入会中のグループファンクラ […]",
-      "groups": [
-        "EBiDAN"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "daa638de280a7aa9",
-      "title": "【+KIRARI】「EBiDAN THE LIVE 2026 15th Anniversary」スクラッチ開催のお知らせ!!!",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26437/",
-      "publishedAt": "2026-08-04T01:36:09.000Z",
-      "summary": "「EBiDAN THE LIVE 2026 15th Anniversary」の開催を記念して、+KIRARI会員の方であればどなたでもご参加いただけるスクラッチを開催！ 開催期間を2回に分け、「EBiDAN Style […]",
-      "groups": [
-        "EBiDAN"
       ],
       "statuses": [],
       "memberMatches": []
@@ -501,28 +278,6 @@
       "memberMatches": []
     },
     {
-      "id": "d0635febd3b07746",
-      "title": "超特急 リョウガ ライブ欠席のお知らせ",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26435/",
-      "publishedAt": "2026-08-03T22:59:36.000Z",
-      "summary": "いつも超特急を応援いただき、誠にありがとうございます。 重ねてのお知らせになりますが、体調不良のため一定期間活動お休みをいただいております、メンバーのリョウガですが、本人の回復を最優先に考え、メンバー、スタッフとも協議を […]",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "リョウガ",
-          "group": "超特急",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "39c1d3aa3ee9ebd7",
       "title": "M!LK佐野勇斗＆吉田仁人のユニット曲「罪と罰と雨とキス」MV公開、2人が霧雨と共に舞い踊る",
       "sourceName": "Bezzy",
@@ -550,20 +305,6 @@
       ]
     },
     {
-      "id": "7f7d929f12a54a69",
-      "title": "「EBiDAN THE LIVE 2026 15th Anniversary」SHOOTING ACT決定＆最新チケット情報",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26426/",
-      "publishedAt": "2026-07-31T02:59:46.000Z",
-      "summary": "「EBiDAN THE LIVE 2026 15th Anniversary」の一般発売が8月1日(土)10:00より受付開始！ また、昨年の「EBiDAN THE LIVE 2025」最終公演で開催を発表した『EBiD […]",
-      "groups": [
-        "EBiDAN"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
       "id": "9f2ebe832f79dcdc",
       "title": "「EBiDAN THE LIVE 2026 15th Anniversary」最新チケット情報＆追加出演者・SHOOTING ACT解禁",
       "sourceName": "SUPER★DRAGON 公式NEWS",
@@ -574,48 +315,6 @@
       "groups": [
         "EBiDAN",
         "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "dd61accdbf882afb",
-      "title": "「Yes! 駆け込め! 僕らのEBiSTORE」の開催が決定！",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26410/",
-      "publishedAt": "2026-07-31T01:59:58.000Z",
-      "summary": "EBiDAN15周年記念シングル「Yes! 東京」リリース＆『EBiDAN THE LIVE 2026 15th Anniversary』の開催を記念してSHIBUYA TSUTAYAにてコラボレーションカフェ「Yes! […]",
-      "groups": [
-        "EBiDAN"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "59fa057537db8bdf",
-      "title": "『BULLET TRAIN ARENA TOUR 2026 ESCORT』オフィシャルグッズ＆生写真セット 【8/8(土)、8/9(日)Kアリーナ横浜公演】会場販売＆整理券配布のお知らせ",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26419/",
-      "publishedAt": "2026-07-30T10:59:40.000Z",
-      "summary": "「BULLET TRAIN ARENA TOUR 2026 ESCORT」Kアリーナ横浜公演の会場販売が決定しました！ 8/8(土)、8/9(日)Kアリーナ横浜公演では、 熱中症対策・混雑緩和のため、LINEアプリを利用 […]",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "0b4084d913452795",
-      "title": "超特急 東京ドーム公演＜追加公演＞最新チケット情報",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26417/",
-      "publishedAt": "2026-07-30T08:59:39.000Z",
-      "summary": "8月2日(日)10:00より三井ショッピングパーク チケット先着先行がスタート！ ご乗車お待ちしております!!!!!!!!! ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願いと注意事項】 https […]",
-      "groups": [
-        "超特急"
       ],
       "statuses": [],
       "memberMatches": []
@@ -674,33 +373,6 @@
         {
           "name": "田中洸希",
           "group": "SUPER★DRAGON",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "3536c149fc4a800f",
-      "title": "【シューヤ&マサヒロ】超チャーはんイベント開催決定!",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26406/",
-      "publishedAt": "2026-07-25T07:59:44.000Z",
-      "summary": "■【シューヤ＆マサヒロ】超チャーはんイベント開催決定！ 超特急の 11 号車バックボーカル・シューヤと、12 号車メインダンサー・マサヒロからなる YouTube チャンネル「超チャーはん」のチャンネル登録者数が【10 […]",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "シューヤ",
-          "group": "超特急",
-          "status": "active"
-        },
-        {
-          "name": "マサヒロ",
-          "group": "超特急",
           "status": "active"
         }
       ]
@@ -792,28 +464,6 @@
       ]
     },
     {
-      "id": "af2ad68505f88d84",
-      "title": "本日より「Freecus」3rd Collectionの一般発売がスタート！",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26403/",
-      "publishedAt": "2026-07-24T02:15:32.000Z",
-      "summary": "超特急・タカシが手掛けるアクセサリー＆ネイルブランド 「Freecus」3rd Collectionが、ついに本日より一般発売となりました！ 発売を記念して、期間限定のPOPUP STOREも開催予定✨ こ […]",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "タカシ",
-          "group": "超特急",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "932f2bcf32ec4ee5",
       "title": "「ブンブン振り回していたら……」M!LK曽野舜太、殺陣練習のために模擬刀を購入→自宅で起こったハプニングとは",
       "sourceName": "マイナビニュース 映画",
@@ -845,20 +495,6 @@
       "summary": "7月23日(木)18:00よりプレイガイド先行受付開始。 会場で皆さんとお会いできることを楽しみにしております！ ―――――――――――――――――――――――――――――――― ※重要：お申込み前に必ずご確認ください。 […] The post 「SUPER★DRAGON DRA FES 2026」最新チケット情報 first appeared on SU",
       "groups": [
         "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "169857daa9888bb5",
-      "title": "超特急『BULLET TRAIN ARENA TOUR 2026 ESCORT』オフィシャルグッズ＆生写真セット 【8/8 (土)、8/9(日)Kアリーナ横浜公演】〈事前購入・会場受取〉実施のお知らせ",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26385/",
-      "publishedAt": "2026-07-23T08:59:47.000Z",
-      "summary": "「BULLET TRAIN ARENA TOUR 2026 ESCORT」のKアリーナ横浜公演会場にて、 該当公演のチケットをお持ちの方を対象に、会場で受け取り可能なオフィシャルグッズ・生写真セットの〈事前購入・会場受取 […]",
-      "groups": [
-        "超特急"
       ],
       "statuses": [],
       "memberMatches": []
@@ -906,20 +542,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "bd0df7139fe2f96f",
-      "title": "【8/7(金)更新】EBiDANと過ごす、特別な夏がやってくる！2026年8月15日(土)より全国4会場のhmv museumで開催となる『EBiDAN museum 2026』新グループ「iiONDO」が加わったメインビジュアル＆入場特典絵柄を公開！さらに開催記念グッズラインナップも解禁！",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26381/",
-      "publishedAt": "2026-07-21T10:30:48.000Z",
-      "summary": "EBiDANと過ごす、特別な夏がやってくる！『EBiDAN museum 2026』2026年8月15日(土)より全国4会場のhmv museumで同時開催が決定しました！ 今年のテーマは“EBiDANの夏休み”！ 本展 […]",
-      "groups": [
-        "EBiDAN"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "54453213202c0367",
@@ -970,20 +592,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "3b6cae44bc88ebae",
-      "title": "『EBiDAN 15th Anniversaryオフィシャルグッズ』の販売が決定！",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26375/",
-      "publishedAt": "2026-07-17T07:18:56.000Z",
-      "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念いたしまして、『EBiDAN 15th Anniversaryオフィシャルグッズ』の販売が決定いたしました！ ロゴが映えるリキッドキーホルダーやファーキーホルダー、メンバ […]",
-      "groups": [
-        "EBiDAN"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "c7b72ffb52ec68c8",
@@ -1038,55 +646,6 @@
       "memberMatches": []
     },
     {
-      "id": "db547bce1070a3b7",
-      "title": "超特急リョウガ・マサヒロ番組欠席のお知らせ",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26365/",
-      "publishedAt": "2026-07-16T22:14:12.000Z",
-      "summary": "いつも超特急を応援いただき、誠にありがとうございます。 この度、メンバーのリョウガ・マサヒロが体調不良のため、下記の番組出演を欠席いたします。 2026年7月18日(土)午後2時00分 ON AIR TBS系「音楽の日2 […]",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "リョウガ",
-          "group": "超特急",
-          "status": "active"
-        },
-        {
-          "name": "マサヒロ",
-          "group": "超特急",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "6cb670a7abf60acb",
-      "title": "超特急リョウガに関する大切なお知らせ",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26367/",
-      "publishedAt": "2026-07-16T21:59:43.000Z",
-      "summary": "いつも超特急へ温かい応援をいただきまして、誠にありがとうございます。 メンバーのリョウガですが、今月初旬より体調を崩すことが増えたため、健康診断も兼ねて医療機関を受診いたしました。 その結果、疲労が蓄積している状態であり […]",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "リョウガ",
-          "group": "超特急",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "6d6179aa4b081875",
       "title": "「Yes! 駆け込め! 僕らのEBiSTORE」の開催が決定！",
       "sourceName": "SUPER★DRAGON 公式NEWS",
@@ -1096,20 +655,6 @@
       "summary": "【8月5日（水）更新】 本日8月5日（水）12:00より販売開始を予定しておりました「＜後半期間＞展示ブースチケット」につきまして、当サイトに掲載していた購入ページから、後半期間のチケットをご購入いただけない状態となって […] The post 「Yes! 駆け込め! 僕らのEBiSTORE」の開催が決定！ first appeared on SUPER★",
       "groups": [
         "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "f3d2f6d0c64fe7d1",
-      "title": "「Yes! 駆け込め! 僕らのEBiSTORE」の開催が決定！",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26362/",
-      "publishedAt": "2026-07-16T06:59:01.000Z",
-      "summary": "EBiDAN15周年記念シングル「Yes! 東京」リリース＆『EBiDAN THE LIVE 2026 15th Anniversary』の開催を記念してSHIBUYA TSUTAYAにてコラボレーションカフェ「Yes! […]",
-      "groups": [
-        "EBiDAN"
       ],
       "statuses": [],
       "memberMatches": []
@@ -1128,50 +673,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "037a3deffe2bde86",
-      "title": "BULLET TRAIN ARENA TOUR 2026 ESCORT 2026年7月14日(火)・15日(水) GLION ARENA KOBE公演についてのお知らせ",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26359/",
-      "publishedAt": "2026-07-14T06:29:43.000Z",
-      "summary": "いつも超特急を応援いただき、誠にありがとうございます。 メンバーのマサヒロですが、本日のリハーサル中に腰を負傷し、急性腰痛症と判断されました。 本人の回復を最優先に考え、メンバー、スタッフとも協議を重ねた結果、 2026 […]",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "マサヒロ",
-          "group": "超特急",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "fde2e5cc9f02f7bc",
-      "title": "BULLET TRAIN ARENA TOUR 2026「ESCORT」 リョウガ 参加見合わせに関して",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26357/",
-      "publishedAt": "2026-07-13T10:44:32.000Z",
-      "summary": "いつも超特急へ温かい応援を頂きありがとうございます。 弊社所属 超特急メンバーのリョウガが体調不良のため、本人の体調回復を最優先に考え、以下のライブにつきまして出演を見合わせさせていただくことになりました。 ＜欠席対応公 […]",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "リョウガ",
-          "group": "超特急",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "5e43c6ca0d90cfeb",
@@ -1228,34 +729,6 @@
       ]
     },
     {
-      "id": "933629b884c40b49",
-      "title": "超特急 東京ドーム公演＜追加公演＞最新チケット情報",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26350/",
-      "publishedAt": "2026-07-11T08:59:47.000Z",
-      "summary": "7月11日(土)18:00よりローソンチケットプレリクエスト先行受付開始！ ご乗車お待ちしております!!!!!!!!! ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願いと注意事項】 https:// […]",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "14cbec71089a2e5b",
-      "title": "超特急「BULLET TRAIN ARENA TOUR 2026 ESCORT」【兵庫公演】機材席開放一般発売 実施決定！",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26316/",
-      "publishedAt": "2026-07-10T08:59:10.000Z",
-      "summary": "完売していた兵庫公演ですが、ステージプラン確定に伴い若干数の機材席開放販売が決定いたしました！ 7月13日(月)21:00より販売スタート！ ご乗車お待ちしております!!!!!!!!! ※重要：お申込み前に必ずご確認くだ […]",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
       "id": "d04e729ed22127a2",
       "title": "M!LKがメンカラ自転車に乗る初ミニアルバムのジャケ写公開、タイトルは『LOVE ENG!NE』に",
       "sourceName": "Bezzy",
@@ -1280,49 +753,6 @@
       "groups": [
         "EBiDAN",
         "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "e4506961b8c3348e",
-      "title": "EBiDAN公式Stationheadアカウント開設＆リスニングパーティー開催が決定！",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26347/",
-      "publishedAt": "2026-07-10T07:29:40.000Z",
-      "summary": "ラジオ放送プラットフォームアプリ「Stationhead」にて、EBiDAN (恵比寿学園男子部)のオフィシャルアカウントを開設しました！そして、7月13日(月)以降、Stationheadでリスニングパーティーの連続開 […]",
-      "groups": [
-        "EBiDAN"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "a554aecc620c3a36",
-      "title": "『BULLET TRAIN ARENA TOUR 2026 ESCORT』U-NEXTにて独占ライブ配信決定！",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26314/",
-      "publishedAt": "2026-07-09T10:01:42.000Z",
-      "summary": "8月9日(日)に開催される『BULLET TRAIN ARENA TOUR 2026 ESCORT』の模様がU-NEXTにて生配信することが決定！ U-NEXT月額会員の方なら追加料金なくお楽しみいただけます。 ライブ配 […]",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "ba1d4bfc5a46098d",
-      "title": "【SUPERSTAR EBiDAN】 「BULLET TRAIN ARENA TOUR 2026 ESCORT」開催記念！ゲーム内イベント実施のお知らせ",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26309/",
-      "publishedAt": "2026-07-09T08:10:08.000Z",
-      "summary": "EBiDAN公式リズムゲーム『SUPERSTAR EBiDAN』では、「BULLET TRAIN ARENA TOUR 2026 ESCORT」の開催を記念して、期間限定のゲーム内イベントを実施いたします！ ■実施期間： […]",
-      "groups": [
-        "EBiDAN",
-        "超特急"
       ],
       "statuses": [],
       "memberMatches": []
@@ -1378,34 +808,6 @@
       "memberMatches": []
     },
     {
-      "id": "2649c44b93033a0e",
-      "title": "超特急「BULLET TRAIN ARENA TOUR 2026 ESCORT」兵庫・Kアリーナ横浜公演 チケットトレードのお知らせ",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26307/",
-      "publishedAt": "2026-07-07T08:59:40.000Z",
-      "summary": "「BULLET TRAIN ARENA TOUR 2026 ESCORT」兵庫公演とKアリーナ横浜公演のチケットトレード実施が決定いたしました！ トレードへの出品、お申込みの際は必ず下記詳細をご確認のうえ、お申込みくださ […]",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "6182e0a1925ae519",
-      "title": "2026年8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 《第3弾》 CD予約購入キャンペーン実施決定！",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26303/",
-      "publishedAt": "2026-07-07T03:21:17.000Z",
-      "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して、8月11日(火・祝)にリリースするシングル「Yes! 東京」の《第３弾》CD予約購入特典キャンペーンの実施が決定いたしました！ 2026年8月11日(火・祝)発売 […]",
-      "groups": [
-        "EBiDAN"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
       "id": "ca0284afa9f3c73a",
       "title": "2026年8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 《第3弾》 CD予約購入キャンペーン実施決定！",
       "sourceName": "SUPER★DRAGON 公式NEWS",
@@ -1416,20 +818,6 @@
       "groups": [
         "EBiDAN",
         "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "f35e85c59d9de0a7",
-      "title": "『BULLET TRAIN ARENA TOUR 2026 ESCORT』オフィシャルグッズ＆生写真セット 【7/14(火)、15(水) GLION ARENA KOBE公演】会場販売＆整理券配布のお知らせ",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26292/",
-      "publishedAt": "2026-07-06T10:59:26.000Z",
-      "summary": "「BULLET TRAIN ARENA TOUR 2026 ESCORT」GLION ARENA KOBE公演の会場販売が決定しました！ 7/14(火)、15(水)GLION ARENA KOBE公演では、 熱中症対策・ […]",
-      "groups": [
-        "超特急"
       ],
       "statuses": [],
       "memberMatches": []
@@ -1467,20 +855,6 @@
       "groups": [
         "EBiDAN",
         "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "cd157eadad31df34",
-      "title": "『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット事前通販決定！",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26283/",
-      "publishedAt": "2026-07-06T08:59:44.000Z",
-      "summary": "8月13日(木)～8月16日(日)に開催される『EBiDAN THE LIVE 2026 15th Anniversary』に先駆け、オフィシャルグッズ＆生写真セットの事前通販が決定いたしました！！今年も一部グッズをHM […]",
-      "groups": [
-        "EBiDAN"
       ],
       "statuses": [],
       "memberMatches": []
@@ -1557,42 +931,6 @@
       "memberMatches": []
     },
     {
-      "id": "1e9d0510b81aa712",
-      "title": "8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」、 全9グループ総勢60名が出演のMUSIC VIDEOを公開！",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26279/",
-      "publishedAt": "2026-07-02T09:29:16.000Z",
-      "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して、8月11日(火・祝)にリリースされるシングル「Yes! 東京」のMUSIC VIDEOを公開！ 今年15周年と節目を迎えたEBiDANは、元々学園をコンセプトに立ち […]",
-      "groups": [
-        "EBiDAN"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "2d9951067ed156e5",
-      "title": "超特急シューヤ 生配信欠席のお知らせ",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26277/",
-      "publishedAt": "2026-07-02T06:29:38.000Z",
-      "summary": "いつも超特急を応援いただき、誠にありがとうございます。 この度、メンバーのシューヤが体調不良のため、下記の生配信出演を欠席いたします。 2026年7月2日（木）18時00分 配信 『「Yes! 東京」MUSIC VIDE […]",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "シューヤ",
-          "group": "超特急",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "cecb7ab43160a02d",
       "title": "M!LK佐野勇斗、“夢”を与える立場になって感じたこととは「気を付けていかなきゃ…」",
       "sourceName": "マイナビニュース 映画",
@@ -1613,23 +951,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "a38bf114ab863cf9",
-      "title": "8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 7月2日からの先行配信リリースに合わせて デジタルキャンペーンが追加決定！",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26274/",
-      "publishedAt": "2026-07-01T06:05:46.000Z",
-      "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して8月11日(火・祝)にリリースされる「Yes! 東京」が、いよいよ7月2日（木）より先行配信リリースとなります。超特急、M!LK、SUPER★DRAGON、Sakur […]",
-      "groups": [
-        "EBiDAN",
-        "超特急",
-        "M!LK",
-        "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "382225983e9781d4",
@@ -1717,64 +1038,6 @@
       ]
     },
     {
-      "id": "f4a67df2b657e003",
-      "title": "超特急 東京ドーム公演＜追加公演＞最新チケット情報",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26270/",
-      "publishedAt": "2026-06-26T08:59:17.000Z",
-      "summary": "本日6月26日(金)18:00より『＋KIRARI』会員先行がスタート！ ご乗車お待ちしております!!!!!!!!! ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願いと注意事項】 https://b […]",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "734afb0a9d50e071",
-      "title": "超特急ユーキ 復帰時期に関するご報告",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26268/",
-      "publishedAt": "2026-06-26T03:29:16.000Z",
-      "summary": "いつも超特急へ温かい応援をいただき、誠にありがとうございます。 急性虫垂炎のため、休養をいただいておりました超特急メンバーのユーキですが、順調に回復へと向かっており、本人と医師とで話し合いを重ねた結果、6月27日(土)よ […]",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "ユーキ",
-          "group": "超特急",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "b7cd6ee67ccf035c",
-      "title": "超特急カイ 写真集「いま」NFCキーホルダー 発売決定！",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26262/",
-      "publishedAt": "2026-06-25T10:59:55.000Z",
-      "summary": "タイトル：超特急カイ 「いま」NFC キーホルダー 価格：2,970 円（2,700 円＋税） サイズ： トゥクトゥクキーホルダー／横 18×奥行 40×高さ 26mm 木製キーホルダー／横 30×縦 70mm アクリル […]",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "カイ",
-          "group": "超特急",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "0d0cefb3ae3eb508",
       "title": "8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」、 7月2日に表題曲の先行配信及びMUSIC VIDEOをプレミア公開！ MUSIC VIDEO公開直前生配信も実施！",
       "sourceName": "SUPER★DRAGON 公式NEWS",
@@ -1790,20 +1053,6 @@
       "memberMatches": []
     },
     {
-      "id": "b0c5166645a61a94",
-      "title": "8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」、 7月2日に表題曲の先行配信及びMUSIC VIDEOをプレミア公開！ MUSIC VIDEO公開直前生配信も実施！",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26259/",
-      "publishedAt": "2026-06-25T08:59:21.000Z",
-      "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して、8月11日(火・祝)にリリースするシングル「Yes! 東京」の表題曲を7月2日(木)より先行配信！通常配信に加えて、Dolby Atmosによる空間オーディオ配信も […]",
-      "groups": [
-        "EBiDAN"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
       "id": "36631120072b3adf",
       "title": "【8/7(金)更新】EBiDANと過ごす、特別な夏がやってくる！2026年8月15日(土)より全国4会場のhmv museumで開催となる『EBiDAN museum 2026』新グループ「iiONDO」が加わったメインビジュアル＆入場特典絵柄を公開！さらに開催記念グッズラインナップも解禁！",
       "sourceName": "SUPER★DRAGON 公式NEWS",
@@ -1814,34 +1063,6 @@
       "groups": [
         "EBiDAN",
         "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "dab0ceec7527c4ec",
-      "title": "EBiDANと過ごす、特別な夏がやってくる！『EBiDAN museum 2026』2026年8月15日(土)より全国4会場のhmv museumで同時開催決定！",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26254/",
-      "publishedAt": "2026-06-25T06:59:45.000Z",
-      "summary": "EBiDANと過ごす、特別な夏がやってくる！『EBiDAN museum 2026』2026年8月15日(土)より全国4会場のhmv museumで同時開催が決定しました！ 今年のテーマは“EBiDANの夏休み”！ 本展 […]",
-      "groups": [
-        "EBiDAN"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "8b52eae6e4732482",
-      "title": "超特急「BULLET TRAIN ARENA TOUR 2026 ESCORT」【福岡公演】機材席開放追加発売 実施決定！",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26252/",
-      "publishedAt": "2026-06-24T08:59:14.000Z",
-      "summary": "福岡公演ですが、若干数の機材席開放追加販売が決定いたしました！ 6月26日(金)21:00より販売スタート！ ご乗車お待ちしております!!!!!!!!! ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお […]",
-      "groups": [
-        "超特急"
       ],
       "statuses": [],
       "memberMatches": []
@@ -1876,20 +1097,6 @@
       "memberMatches": []
     },
     {
-      "id": "261440b7c50ff1e9",
-      "title": "EBiDAN THE LIVE 2026 15th Anniversary 最新チケット情報",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26245/",
-      "publishedAt": "2026-06-23T10:58:18.000Z",
-      "summary": "本日6月23日(火)20:00より「アップグレードチケット」受付が開始！ 「アップグレードチケット」は、対象先行にて「指定席」のチケットに当選・入金済みの方のみお申込みいただけます。 ※対象先行にお申込みいただいたお申込 […]",
-      "groups": [
-        "EBiDAN"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
       "id": "bed8b4036988c682",
       "title": "SUPER★DRAGON Major 6th Single「Call Me Asap / NUMBER」楽天ブックスキャンペーン！ 7/12(日)・7/19(日)イベント詳細",
       "sourceName": "SUPER★DRAGON 公式NEWS",
@@ -1899,42 +1106,6 @@
       "summary": "楽天ブックスにてキャンペーン期間内に2026年7月15日発売のMajor 6th Single「Call Me Asap / NUMBER」をご予約購入頂きますと以下の各特典会参加券をプレゼント！7/12(日)東京、7/ […] The post SUPER★DRAGON Major 6th Single「Call Me Asap / NUMBER」楽天ブッ",
       "groups": [
         "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "1f3e3bd9c6b73f2b",
-      "title": "超特急ユーキ 急性虫垂炎に関するご報告",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26242/",
-      "publishedAt": "2026-06-22T06:59:00.000Z",
-      "summary": "いつも超特急へ温かい応援をいただき、誠にありがとうございます。 弊社所属 超特急メンバーのユーキが急性虫垂炎と診断されましたことをご報告申し上げます。 以降の復帰時期につきましては医師と相談の上、治療経過を見ながら改めて […]",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "ユーキ",
-          "group": "超特急",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "7fb844984569b768",
-      "title": "『BULLET TRAIN ARENA TOUR 2026 ESCORT』オフィシャルグッズ＆生写真セット 【6/27(土)、28(日)マリンメッセ福岡A館公演】会場販売＆整理券配布のお知らせ",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26232/",
-      "publishedAt": "2026-06-21T09:59:51.000Z",
-      "summary": "「BULLET TRAIN ARENA TOUR 2026 ESCORT」マリンメッセ福岡A館公演の会場販売が決定しました！ 6/27(土)、28(日)マリンメッセ福岡A館公演では、 熱中症対策・混雑緩和のため、LINE […]",
-      "groups": [
-        "超特急"
       ],
       "statuses": [],
       "memberMatches": []
@@ -2034,34 +1205,6 @@
       "memberMatches": []
     },
     {
-      "id": "1f0f6dc77d18c88d",
-      "title": "「EBiDAN THE LIVE 2026 15th Anniversary」U-NEXTにて独占ライブ配信決定！",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26220/",
-      "publishedAt": "2026-06-18T09:59:41.000Z",
-      "summary": "8月13日（木）から8月16日（日）までの4日間にわたり開催される「EBiDAN THE LIVE 2026 15th Anniversary」の全4公演をU-NEXTにて生配信することが決定！ U-NEXT月額会員の方 […]",
-      "groups": [
-        "EBiDAN"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "59cd930032f47295",
-      "title": "超特急「BULLET TRAIN ARENA TOUR 2026 ESCORT」兵庫・Kアリーナ横浜公演ローソンチケットプレリクエスト最終先行実施決定！",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26222/",
-      "publishedAt": "2026-06-18T08:59:32.000Z",
-      "summary": "6月20日(土) 11:00より、兵庫・Kアリーナ横浜公演のローソンチケットプレリクエスト最終先行(先着)がスタート！ ご乗車お待ちしております!!!!!!!!! ※重要：お申込み前に必ずご確認ください。 【チケットの販 […]",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
       "id": "fb6a40e8523b91e9",
       "title": "井上和と松井ケムリが『トイ・ストーリー５』日本版声優に決定、佐野勇斗と新キャラトリオを演じる",
       "sourceName": "Bezzy",
@@ -2109,34 +1252,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "d3ea4154f42c8acc",
-      "title": "【夢8会員限定版】『BULLET TRAIN TAKASHI 1st Photobook xemx』がスタダ便にて通信販売決定！",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26217/",
-      "publishedAt": "2026-06-15T09:59:17.000Z",
-      "summary": "【夢8会員限定版】『BULLET TRAIN TAKASHI 1st Photobook xemx』のスタダ便通信販売が決定しました！ スタダ便限定で、マルタにてスタッフが撮影したオフショット＆月刊誌JUNONで連載中『 […]",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "21bf2eff04dfe84d",
-      "title": "【＠Loppi・HMV限定】EBiDAN15周年シングル『Yes! 東京』メンバー別グッズ付セットの発売決定！",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26214/",
-      "publishedAt": "2026-06-15T09:06:11.000Z",
-      "summary": "【＠Loppi・HMV限定】EBiDAN15周年シングル『Yes! 東京』メンバー別グッズ付セットの発売が決定！ 全国のローソン店頭Loppi端末（送料手数料無料）、HMV&BOOKS onlineにて受付いたし […]",
-      "groups": [
-        "EBiDAN"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "545f3009b7c226e3",
@@ -2276,20 +1391,6 @@
       ]
     },
     {
-      "id": "30532290191ffe5b",
-      "title": "超特急「BULLET TRAIN ARENA TOUR 2026 ESCORT」【福岡公演】機材席開放一般発売 実施決定！",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26200/",
-      "publishedAt": "2026-06-12T07:59:17.000Z",
-      "summary": "完売していた福岡公演ですが、ステージプラン確定に伴い若干数の機材席開放販売が決定いたしました！ 6月14日(日)10:00より機材席開放一般発売がスタート！ ご乗車お待ちしております!!!!!!!!! ※重要：お申込み前 […]",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
       "id": "cc5ac2d0f2585820",
       "title": "佐々木美玲＆森次政裕の健やかさの秘訣。共演してわかった互いの愛され力とは？",
       "sourceName": "Bezzy",
@@ -2340,20 +1441,6 @@
       "memberMatches": []
     },
     {
-      "id": "267bbdebd2b5df1d",
-      "title": "EBiDAN THE LIVE 2026 15th Anniversary 最新チケット情報",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26198/",
-      "publishedAt": "2026-06-10T12:30:22.000Z",
-      "summary": "本日6月10日(水)20:00よりEBiDAN先行が受付開始！ 皆さんとお会いできることを楽しみにしております！ 【公演当日の本人確認について】 入場口および客席内にて、ランダムで本人確認をさせていただきます。 必ずご購 […]",
-      "groups": [
-        "EBiDAN"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
       "id": "a6c84b9bce227e95",
       "title": "EBiDAN THE LIVE 2026 15th Anniversary 最新チケット情報",
       "sourceName": "SUPER★DRAGON 公式NEWS",
@@ -2396,20 +1483,6 @@
       ]
     },
     {
-      "id": "dba7874879a32022",
-      "title": "超特急「BULLET TRAIN ARENA TOUR 2026 ESCORT」【横浜アリーナ公演】機材席開放一般発売 実施決定！",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26191/",
-      "publishedAt": "2026-06-07T08:59:01.000Z",
-      "summary": "完売していた横浜アリーナ公演ですが、ステージプラン確定に伴い若干数の機材席開放販売が決定いたしました！ 6月9日(火)21:00より機材席開放一般発売がスタート！ ご乗車お待ちしております!!!!!!!!! ※重要：お申 […]",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
       "id": "f5b1be8dbc764ac1",
       "title": "SUPER★DRAGON Digital Single「Call Me Asap」の配信を記念して、 Spotify Canvasに限定動画を公開！更に、シェアキャンペーン開催決定！",
       "sourceName": "SUPER★DRAGON 公式NEWS",
@@ -2433,20 +1506,6 @@
       "summary": "LINE MUSIC再生キャンペーン SUPER★DRAGON、Digital Single「Call Me Asap」の配信リリースを記念して、この楽曲をたくさん聴いていただいた方へのプレゼントキャンペーンが決定いたし […] The post SUPER★DRAGON Digital Single「Call Me Asap」の配信を記念して、 LINE ",
       "groups": [
         "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "61f3f78286fe0ac8",
-      "title": "超特急 東京ドーム公演＜追加公演＞最新チケット情報",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26187/",
-      "publishedAt": "2026-06-06T08:59:33.000Z",
-      "summary": "本日6月6日(土)18:00より『夢の青春8きっぷ』会員2次先行がスタート！ ご乗車お待ちしております!!!!!!!!! ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願いと注意事項】 https:/ […]",
-      "groups": [
-        "超特急"
       ],
       "statuses": [],
       "memberMatches": []
@@ -2478,20 +1537,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "3152a14bce117a36",
-      "title": "「BULLET TRAIN ARENA TOUR 2026 ESCORT」CD・Blu-ray販売 会場限定特典決定！！",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26167/",
-      "publishedAt": "2026-06-05T11:59:27.000Z",
-      "summary": "6/10(水)からスタートする「BULLET TRAIN ARENA TOUR 2026 ESCORT」でのCD・Blu-ray会場限定特典が決定いたしましたのでご案内いたします。 当日会場のCD・Blu-ray・DVD […]",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "50079ff2be04a31d",
@@ -2536,20 +1581,6 @@
       "memberMatches": []
     },
     {
-      "id": "ba91a2a8c258541f",
-      "title": "8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 15周年盤のリミキサーを公開！ 店舗別購入者特典絵柄を発表！ さらに、『EBiDAN THE LIVE 2026 15th Anniversary』シャッフルユニット解禁！",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26178/",
-      "publishedAt": "2026-06-05T08:59:49.000Z",
-      "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して、8月11日(火・祝)にリリースするシングル「Yes! 東京」の15周年盤に収録される「Yes! 東京」リミックスを手掛ける5名のアーティストが発表。EBiDANメン […]",
-      "groups": [
-        "EBiDAN"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
       "id": "24add64d5d2e57bb",
       "title": "8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 15周年盤のリミキサーを公開！ 店舗別購入者特典絵柄を発表！ さらに、『EBiDAN THE LIVE 2026 15th Anniversary』シャッフルユニット解禁！",
       "sourceName": "SUPER★DRAGON 公式NEWS",
@@ -2589,34 +1620,6 @@
       "summary": "【「スペシャルライブ参加券」当日追加配券のお知らせ】 会場CD販売ブースにて下記対象商品3枚のご購入で、当日のスペシャルライブへの参加券を先着で配券させていただきます！ご希望の方は、ご購入の際にレジにて「スペシャルライブ […] The post Major 6th Single「Call Me Asap / NUMBER」7月16日(木)開催リリースイベン",
       "groups": [
         "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "a7b0538adcbebdec",
-      "title": "『BULLET TRAIN ARENA TOUR 2026 ESCORT』オフィシャルグッズ＆生写真セット 【6/10(水)、11(木)横浜アリーナ公演】会場販売のお知らせ",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26159/",
-      "publishedAt": "2026-06-03T09:59:30.000Z",
-      "summary": "「BULLET TRAIN ARENA TOUR 2026 ESCORT」横浜アリーナ公演の会場販売が決定しました！ ************************** ◆公演情報/会場販売情報 【会場】神奈川・横浜ア […]",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "36f895500f6c8dca",
-      "title": "超特急「BULLET TRAIN ARENA TOUR 2026 ESCORT」横浜アリーナ・福岡公演 チケットトレードのお知らせ",
-      "sourceName": "超特急 公式NEWS",
-      "sourceUrl": "https://bullettrain.jp/news/feed/",
-      "articleUrl": "https://bullettrain.jp/news/news26157/",
-      "publishedAt": "2026-06-03T08:59:13.000Z",
-      "summary": "「BULLET TRAIN ARENA TOUR 2026 ESCORT」横浜アリーナ公演と福岡公演のチケットトレード実施が決定いたしました！ トレードへの出品、お申込みの際は必ず下記詳細をご確認のうえ、お申込みください […]",
-      "groups": [
-        "超特急"
       ],
       "statuses": [],
       "memberMatches": []
@@ -2701,6 +1704,480 @@
       "articleUrl": "https://super-dragon.jp/news/news11106/",
       "publishedAt": "2026-05-30T11:59:36.000Z",
       "summary": "①『「Call Me Asap / NUMBER」発売記念！ SUPER★DRAGON タワーレコード抽選会』が全国のタワーレコードSUPER応援店（10店舗）にて実施決定！ SUPER応援店舗にてSUPER★DRAGO […] The post Major 6th Single「Call Me Asap / NUMBER」 タワーレコードキャンペーン決定！",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "fcba0d69850272ef",
+      "title": "Major 6th Single「Call Me Asap / NUMBER」 HMVキャンペーン決定！",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news11097/",
+      "publishedAt": "2026-05-30T10:59:45.000Z",
+      "summary": "①『「Call Me Asap / NUMBER」発売記念！ SUPER★DRAGON HMV抽選会』が全国のHMV6店舗で実施決定！ 下記対象店舗にて対象商品のCDご購入額3,300円（税込）ごとに1回、トレカ、缶バッ […] The post Major 6th Single「Call Me Asap / NUMBER」 HMVキャンペーン決定！ fir",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "8e39471816774487",
+      "title": "「SUPER★DRAGON DRA FES 2026」最新チケット情報",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news11090/",
+      "publishedAt": "2026-05-30T04:59:05.000Z",
+      "summary": "本日5月30日(土)14:00より『+KIRARI』会員先行が受付開始。 会場で皆さんとお会いできることを楽しみにしております！ ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願いと注意事項】 htt […] The post 「SUPER★DRAGON DRA FES 2026」最新チケット情報 first appeared on SU",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "907a05018837ed91",
+      "title": "M!LKの最新エールソング「アイドルパワー」PV公開、これまでの歩みを一気に体感できる4分間",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/05/87136/",
+      "publishedAt": "2026-05-29T11:00:00.000Z",
+      "summary": "5人組ダンスボーカルグループ・M!LKが、最新プロジェクト「モー烈モー進！リリースプロジェクト2026」の幕開けを飾るデジタルシングル「アイドルパワー」のOfficial Promotion Videoを公開した。 “2026年、日本を元気に！”という力強いテーマのもと制作された「アイドルパワー」は、アイドルとしての輝きと、聴く人の背中をそっと押すエールソン",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "9f24a23eeb8f9131",
+      "title": "【7/27(月)更新】EBiDAN15周年記念シングル「Yes! 東京」発売記念リリースイベント『Yes! 飛び出せ! 僕らの移動教室』詳細が決定！",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news11075/",
+      "publishedAt": "2026-05-29T09:59:23.000Z",
+      "summary": "2026年8月11日(火・祝)に発売のEBiDAN15周年記念シングル「Yes! 東京」のリリースイベント『Yes! 飛び出せ! 僕らの移動教室』の最終日の詳細が決定いたしました。 移動教室は12限目をもちまして終了とな […] The post 【7/27(月)更新】EBiDAN15周年記念シングル「Yes! 東京」発売記念リリースイベント『Yes! 飛び",
+      "groups": [
+        "EBiDAN",
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "ff583d9b7747afc8",
+      "title": "【+KIRARI】「SUPER★DRAGON May SCRATCH 2026」開催のお知らせ！",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news11062/",
+      "publishedAt": "2026-05-28T11:59:45.000Z",
+      "summary": "5月29日(金)21:00より「SUPER★DRAGON May SCRATCH 2026」の開催が決定しました！ +KIRARI完全撮り下ろしのビジュアルです！ 【開催期間】 5月29日(金)21:00〜5月31日(日 […] The post 【+KIRARI】「SUPER★DRAGON May SCRATCH 2026」開催のお知らせ！ first a",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "690bbdebe7cc5e4b",
+      "title": "Major 6th Single「Call Me Asap / NUMBER」 封入トレカ/ショップ別先着予約特典デザイン＆M3楽曲名 公開！",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news11041/",
+      "publishedAt": "2026-05-28T10:59:32.000Z",
+      "summary": "2026年7月15日(水)発売 Major 6th Single「Call Me Asap / NUMBER」 [CD収録内容] ※全形態収録内容共通 M1.「Call Me Asap」 M2.「NUMBER」 M3.「 […] The post Major 6th Single「Call Me Asap / NUMBER」 封入トレカ/ショップ別先着予約特",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "2dee0059b1ab70aa",
+      "title": "Major 6th Single「Call Me Asap / NUMBER」6月27日(土)開催リリースイベント＠UNITEDLAB（福岡）参加方法・特典会内容についてのご案内",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news11031/",
+      "publishedAt": "2026-05-26T11:00:23.000Z",
+      "summary": "6月27日(土)UNITEDLABにて開催するリリースイベントの詳細をご案内致します。 必ず最後まで全てお読み頂き、会場にいらした皆様がイベントを楽しめるよう、ファンの皆様同士でルールとマナーの厳守をお願い致します。 リ […] The post Major 6th Single「Call Me Asap / NUMBER」6月27日(土)開催リリースイベン",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "62e991f7d06e12f0",
+      "title": "8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 全15形態のジャケット写真、封入特典のトレカ絵柄を一部公開！",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news11012/",
+      "publishedAt": "2026-05-22T08:00:33.000Z",
+      "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して、8月11日(火・祝)にリリースするシングル「Yes! 東京」のジャケット写真を公開！ 今作は通常盤、グループ盤、15周年盤の計15形態での発売となり、その中でも通常 […] The post 8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 全15形態のジャケット写真、封入特典のトレカ",
+      "groups": [
+        "EBiDAN",
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "6a4f4b776bc3a136",
+      "title": "Major 6th Single「Call Me Asap / NUMBER」楽天ブックスにてオンライン予約抽選会開催！",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news11007/",
+      "publishedAt": "2026-05-21T09:00:42.000Z",
+      "summary": "SUPER★DRAGON Major 6th Single「Call Me Asap / NUMBER」発売を記念してラッキードローの実施が決定いたしました！ 対象商品を楽天ブックスにて期間中にご購入いただいた方の中から […] The post Major 6th Single「Call Me Asap / NUMBER」楽天ブックスにてオンライン予約抽選",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "b286b320494d7dcd",
+      "title": "「EBiDAN THE LIVE 2026 15th Anniversary」 最新チケット情報",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news10976/",
+      "publishedAt": "2026-05-20T11:29:31.000Z",
+      "summary": "本日5月20日(水)20:00よりEBiDAN 15周年 Single『Yes！東京』CDシリアル（チケット）先行〈抽選〉が受付開始！ 皆さんとお会いできることを楽しみにしております！ ＜申込条件＞ お申込 […] The post 「EBiDAN THE LIVE 2026 15th Anniversary」 最新チケット情報 first appeared",
+      "groups": [
+        "EBiDAN",
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "c3c362b68acdfa91",
+      "title": "SUPER★DRAGON 新曲「Call Me Asap」がTVアニメ『神の雫』第2クールオープニングテーマに決定！6月8日に先行配信リリース！",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news10989/",
+      "publishedAt": "2026-05-20T11:00:16.000Z",
+      "summary": "7月15日発売のMajor 6th Single 『Call Me Asap / NUMBER』より、新曲「Call Me Asap」を6月8日に先行配信リリースすることが決定！ あわせて、同楽曲がTVアニメ『神の雫』第 […] The post SUPER★DRAGON 新曲「Call Me Asap」がTVアニメ『神の雫』第2クールオープニングテーマに決",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "24012f60543f6331",
+      "title": "EBiDAN15周年記念シングル「Yes! 東京」発売記念リリースイベント『Yes! 飛び出せ! 僕らの移動教室』開催決定！",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news10969/",
+      "publishedAt": "2026-05-15T07:00:34.000Z",
+      "summary": "2026年8月11日(火・祝)に発売のEBiDAN15周年記念シングル「Yes! 東京」のリリースイベント『Yes! 飛び出せ! 僕らの移動教室』の開催が決定いたしました。 15周年の特別な節目を、皆さまと一緒に最高に盛 […] The post EBiDAN15周年記念シングル「Yes! 東京」発売記念リリースイベント『Yes! 飛び出せ! 僕らの移動教室",
+      "groups": [
+        "EBiDAN",
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "53b96b1754a45768",
+      "title": "SUPER★DRAGON LIVE TOUR 2026 「Studio」オフィシャルグッズ、ミニ生写真セット 事後通販決定！",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news10954/",
+      "publishedAt": "2026-05-14T09:59:04.000Z",
+      "summary": "SUPER★DRAGON LIVE TOUR 2026 「Studio」オフィシャルグッズ、ミニ生写真セットの事後通販が決定しました！ 残りわずかな商品もございますので、この機会をお見逃しなく！！ 【販売期 […] The post SUPER★DRAGON LIVE TOUR 2026 「Studio」オフィシャルグッズ、ミニ生写真セット 事後通販決定！ ",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "140b16750f49e7c3",
+      "title": "「SUPER★DRAGON DRA FES 2026」開催決定！",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news10949/",
+      "publishedAt": "2026-05-11T08:59:54.000Z",
+      "summary": "本日5月11日(月)18:00よりオフィシャルファンクラブ『AREA SD』会員先行が受付開始。 会場で皆さんとお会いできることを楽しみにしております！ 【チケットの販売に伴うお願いと注意事項】 ※重要：お申込み前に必ず […] The post 「SUPER★DRAGON DRA FES 2026」開催決定！ first appeared on SUPER",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "78e7fc08c491c8f1",
+      "title": "SUPER★DRAGON DRA FES 2026 チケットの販売に伴うお願いと注意事項",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news10935/",
+      "publishedAt": "2026-05-11T08:59:26.000Z",
+      "summary": "皆様に安心して公演をお楽しみいただくために、下記のご案内を必ずご確認のうえ、 お申込み、ご来場いただきますようお願い申しあげます。 ●チケットの譲渡や転売を含む不正行為は、いかなる場合も禁止いたします。正規販売以外でのチ […] The post SUPER★DRAGON DRA FES 2026 チケットの販売に伴うお願いと注意事項 first appea",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "a27a5cf7193a30c8",
+      "title": "5月9日(土) LIVE TOUR 2026「Studio」終演後生配信実施のお知らせ！",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news10944/",
+      "publishedAt": "2026-05-09T01:29:04.000Z",
+      "summary": "本日5月9日(土)LIVE TOUR 2026「Studio」公演終演後、SUPER★DRAGON OFFICIAL Instagram & AREA SDにて終演後生配信の実施が決定！ 前半はInstagram […] The post 5月9日(土) LIVE TOUR 2026「Studio」終演後生配信実施のお知らせ！ first appeared ",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "263ba4637cc5d23b",
+      "title": "【バースデーグッズ】ジャン海渡26歳 バースデーPHOTO SET＆プロデュースグッズ スタダ便受注販売決定！",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news10931/",
+      "publishedAt": "2026-05-04T08:59:38.000Z",
+      "summary": "本日、2026年5月4日(月･祝)に26歳を迎えたジャン海渡の誕生日を記念して、 バースデーPHOTO SET&プロデュースグッズの販売が決定しました！ 今年のプロデュースグッズは、シークレットを含めた全7種のラ […] The post 【バースデーグッズ】ジャン海渡26歳 バースデーPHOTO SET＆プロデュースグッズ スタダ便受注販売決定！ firs",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "ジャン海渡",
+          "group": "SUPER★DRAGON",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "d1c6e35e5a2eee20",
+      "title": "「JEAN 26th BIRTHDAY SCRATCH」開催決定！！",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news10926/",
+      "publishedAt": "2026-05-03T11:59:34.000Z",
+      "summary": "ジャン海渡 26歳の誕生日を記念した「JEAN 26th BIRTHDAY SCRATCH」開催が決定いたしました！ ぜひアクセスしてみてください！！ ▼ジャン海渡［平和島］ https://fanicon.net/fa […] The post 「JEAN 26th BIRTHDAY SCRATCH」開催決定！！ first appeared on SUP",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "ジャン海渡",
+          "group": "SUPER★DRAGON",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "0996f2425745e0ec",
+      "title": "「EBiDAN THE LIVE 2026 15th Anniversary」 最新チケット情報",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news10920/",
+      "publishedAt": "2026-05-01T10:59:59.000Z",
+      "summary": "本日5月1日(金)20:00より国内在住『＋KIRARI』/ 海外在住『＋KIRARI』会員限定先行（会員＋会員）が受付開始！ 皆さんとお会いできることを楽しみにしております！ 海外在住『＋KIRARI』会員先行について […] The post 「EBiDAN THE LIVE 2026 15th Anniversary」 最新チケット情報 first a",
+      "groups": [
+        "EBiDAN",
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "43ed77c64951f9cc",
+      "title": "SUPER★DRAGON LIVE TOUR 2026「Studio」チケットトレード情報",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news10916/",
+      "publishedAt": "2026-05-01T08:59:23.000Z",
+      "summary": "5月9日(土)開催SUPER★DRAGON LIVE TOUR 2026「Studio」福岡公演につきまして、ご都合によりご来場が難しくなったお客様を対象に、本日5月1日(金)18:00よりチケットトレードを実施いたしま […] The post SUPER★DRAGON LIVE TOUR 2026「Studio」チケットトレード情報 first appe",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "b81d7633d680dba1",
+      "title": "SUPER★DRAGON Major 6th Single「Call Me Asap / NUMBER」リリースイベント・特典会開催！（※5月29日更新）",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news10904/",
+      "publishedAt": "2026-04-30T10:59:42.000Z",
+      "summary": "2026年7月15日(水)、SUPER★DRAGONメジャー6枚目となるシングル「Call Me Asap / NUMBER」の発売を記念し、リリースイベント・特典会が決定いたしました！ SUPER★DRAGONと一緒に […] The post SUPER★DRAGON Major 6th Single「Call Me Asap / NUMBER」リリース",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "d8ebe107a8b2f4bd",
+      "title": "【バースデーグッズ】柴崎楽22歳 バースデーPHOTO SET＆プロデュースグッズ スタダ便受注販売決定！",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news10891/",
+      "publishedAt": "2026-04-28T09:59:36.000Z",
+      "summary": "本日、2026年4月28日(火)に22歳を迎えた柴崎楽の誕生日を記念して、 バースデーPHOTO SET&プロデュースグッズの販売が決定しました！ 今年のプロデュースグッズは、手書きイラストが刺繍されたヘアバンド […] The post 【バースデーグッズ】柴崎楽22歳 バースデーPHOTO SET＆プロデュースグッズ スタダ便受注販売決定！ first ",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "柴崎楽",
+          "group": "SUPER★DRAGON",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "3a18d6b40a9c6dae",
+      "title": "「RAKU 22nd BIRTHDAY SCRATCH」開催決定！！",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news10888/",
+      "publishedAt": "2026-04-27T11:59:35.000Z",
+      "summary": "柴崎楽 22歳の誕生日を記念した「RAKU 22nd BIRTHDAY SCRATCH」開催が決定いたしました！ ぜひアクセスしてみてください！！ ▼柴崎楽［楽の世界］ https://fanicon.net/fanco […] The post 「RAKU 22nd BIRTHDAY SCRATCH」開催決定！！ first appeared on SUP",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "柴崎楽",
+          "group": "SUPER★DRAGON",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "710a0f531667d68f",
+      "title": "SUPER★DRAGON Major 6th Single「Call Me Asap / NUMBER」2026年7月15日(水)発売決定！",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news10866/",
+      "publishedAt": "2026-04-19T10:59:46.000Z",
+      "summary": "2026年7月15日(水)発売 Major 6th Single「Call Me Asap / NUMBER」 TVアニメ『ダイヤのA actⅡ -Second Season-』エンディングテーマ「NUMBER」を含む全 […] The post SUPER★DRAGON Major 6th Single「Call Me Asap / NUMBER」2026",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "bd298419212668ee",
+      "title": "「SUPER★DRAGON DRA FES 2026」開催決定！",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news10878/",
+      "publishedAt": "2026-04-19T10:59:35.000Z",
+      "summary": "「SUPER★DRAGON DRA FES 2026」 ＜公演詳細＞ 【東京】Zepp Haneda （TOKYO） 2026年9月24日(木) 【大阪】Zepp Osaka Bayside 2026年9月27日(日) […] The post 「SUPER★DRAGON DRA FES 2026」開催決定！ first appeared on SUPER★",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "d2d6cab1a0933109",
+      "title": "SUPER★DRAGON LIVE TOUR 2026「Studio」4月19日東京公演 追加販売情報",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news10861/",
+      "publishedAt": "2026-04-17T04:00:57.000Z",
+      "summary": "SOLD OUTとなっておりましたSUPER★DRAGON LIVE TOUR 2026「Studio」東京公演につきまして、 機材席の一部開放に伴い、若干数ではございますが、追加販売が決定いたしました。 4月18日(土 […] The post SUPER★DRAGON LIVE TOUR 2026「Studio」4月19日東京公演 追加販売情報 firs",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "136f205f637576d6",
+      "title": "【SUPERSTAR EBiDAN】 SUPER★DRAGON LIVE TOUR 2026「Studio」開催記念！ ゲーム内イベント実施のお知らせ！",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news10856/",
+      "publishedAt": "2026-04-16T07:59:07.000Z",
+      "summary": "EBiDAN公式リズムゲーム『SUPERSTAR EBiDAN』では、SUPER★DRAGON LIVE TOUR 2026「Studio」の開催を記念して、期間限定のゲーム内イベントを実施いたします！ 【 […] The post 【SUPERSTAR EBiDAN】 SUPER★DRAGON LIVE TOUR 2026「Studio」開催記念！ ゲーム",
+      "groups": [
+        "EBiDAN",
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "1c0087c0c5ebe51d",
+      "title": "【バースデーグッズ】松村和哉22歳 バースデーPHOTO SET＆プロデュースグッズ スタダ便受注販売決定！",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news10848/",
+      "publishedAt": "2026-04-15T10:59:30.000Z",
+      "summary": "本日、2026年4月15日(水)に22歳を迎えた松村和哉の誕生日を記念して、バースデーPHOTO SET&プロデュースグッズの販売が決定しました！ 今年のプロデュースグッズは、持っているだけで気分が上がるユニーク […] The post 【バースデーグッズ】松村和哉22歳 バースデーPHOTO SET＆プロデュースグッズ スタダ便受注販売決定！ first",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "松村和哉",
+          "group": "SUPER★DRAGON",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "a332d7d013838590",
+      "title": "「TOMOYA 22nd BIRTHDAY SCRATCH」開催決定！！",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news10844/",
+      "publishedAt": "2026-04-14T11:59:14.000Z",
+      "summary": "松村和哉 22歳の誕生日を記念した「TOMOYA 22nd BIRTHDAY SCRATCH」開催が決定いたしました！ ぜひアクセスしてみてください！！ ▼松村和哉［俺の家］ https://fanicon.net/fa […] The post 「TOMOYA 22nd BIRTHDAY SCRATCH」開催決定！！ first appeared on S",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "松村和哉",
+          "group": "SUPER★DRAGON",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "8881034f99d32858",
+      "title": "SUPER★DRAGON LIVE TOUR 2026「Studio」チケットトレード情報",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news10835/",
+      "publishedAt": "2026-04-10T08:59:46.000Z",
+      "summary": "4月19日(日)開催SUPER★DRAGON LIVE TOUR 2026「Studio」東京公演につきまして、 ご都合によりご来場が難しくなったお客様を対象に、 本日4月10日(金)18:00よりチケットトレードを実施 […] The post SUPER★DRAGON LIVE TOUR 2026「Studio」チケットトレード情報 first appe",
       "groups": [
         "SUPER★DRAGON"
       ],
