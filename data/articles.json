@@ -1,6 +1,49 @@
 {
-  "updatedAt": "2026-08-12T19:19:53.034Z",
+  "updatedAt": "2026-08-13T02:46:50.548Z",
   "articles": [
+    {
+      "id": "d7a9c1acf1d6c4ae",
+      "title": "M!LK佐野勇斗が吉田仁人を“チラ見”！並んで仲良くダンスするふたりに「身長差がかわいい」「テンションの差がさのじん！って感じで好き」「前髪サングラスかきあげがほんとに好みすぎて困る」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000862944/",
+      "publishedAt": "2026-08-13T02:14:04.000Z",
+      "summary": "M!LKの公式SNSが更新。佐野勇斗と吉田仁人が「You!Joy!Parade!」に合わせてダンスする動画が公...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "ab28b620c383a17a",
+      "title": "EBiDAN15周年の“今”と各グループの熱き躍進ーー『EBiDAN THE LIVE 2026』4DAYSへ高まる期待",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/08/post-2488723.html",
+      "publishedAt": "2026-08-12T23:00:42.000Z",
+      "summary": "超特急やM!LKらなどが所属するEBiDANの全グループが集結する『EBiDAN THE LIVE 2026 15th Anniversary』が東京・国立代々木競技場 第一体育館で開催される。本稿では、今年の『エビライ』への期待、昨年の『エビライ』から現在までの各グループの躍進を振り返っていく。",
+      "groups": [
+        "EBiDAN",
+        "超特急",
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "91a2a4d301121007",
       "title": "【SUPERSTAR EBiDAN】 「EBiDAN THE LIVE 2026 15th Anniversary」開催記念！ゲーム内イベント実施",
@@ -12,70 +55,6 @@
       "groups": [
         "EBiDAN",
         "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "8553dad257566e1c",
-      "title": "M!LK山中柔太朗とTWSシニュの高身長小顔ペアがコラボダンス披露「顔が似てる」「ふたりともかわいい」「天使のよう」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000862377/",
-      "publishedAt": "2026-08-12T06:10:31.000Z",
-      "summary": "TWS公式SNSにて、TWSシニュ（SHINYU）とM!LK山中柔太朗のコラボダンス動画が公開された。 ■衣...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "山中柔太朗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "622866db8e08c2e2",
-      "title": "M!LK山中柔太朗と曽野舜太がぎゅっとハグ＆ほっぺにチュッ!? 「やわしゅんのイチャイチャ尊い」「ニヤニヤが止まらない」＝LOVE大谷映美里＆佐々木舞香とのコラボに「美男美女」「身長差メロすぎ」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000862351/",
-      "publishedAt": "2026-08-12T03:57:51.000Z",
-      "summary": "M!LKと＝LOVEの公式TikTokが更新。M!LKの曽野舜太＆山中柔太朗と、＝LOVEの大谷映美里＆佐々木...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "曽野舜太",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "山中柔太朗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "5cbd03c84f4f8914",
-      "title": "M!LK 5人が“制服”でずらり！笑顔で肩を寄せる集合ショットに「みんな制服王子すぎる…眩しい」「こんなイケメンが学校にいたら絶対惚れる」「さすがにメロすぎ」「ビジュ完璧すぎて恋」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000862293/",
-      "publishedAt": "2026-08-12T03:10:16.000Z",
-      "summary": "EBiDANの公式Xが更新。M!LKのメンバー5人が揃ったオフショットが公開され、ファンの注目を集め...",
-      "groups": [
-        "EBiDAN",
-        "M!LK"
       ],
       "statuses": [],
       "memberMatches": []
@@ -1729,20 +1708,6 @@
       "summary": "本日5月30日(土)14:00より『+KIRARI』会員先行が受付開始。 会場で皆さんとお会いできることを楽しみにしております！ ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願いと注意事項】 htt […] The post 「SUPER★DRAGON DRA FES 2026」最新チケット情報 first appeared on SU",
       "groups": [
         "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "907a05018837ed91",
-      "title": "M!LKの最新エールソング「アイドルパワー」PV公開、これまでの歩みを一気に体感できる4分間",
-      "sourceName": "Bezzy",
-      "sourceUrl": "https://bezzy.jp/feed/",
-      "articleUrl": "https://bezzy.jp/2026/05/87136/",
-      "publishedAt": "2026-05-29T11:00:00.000Z",
-      "summary": "5人組ダンスボーカルグループ・M!LKが、最新プロジェクト「モー烈モー進！リリースプロジェクト2026」の幕開けを飾るデジタルシングル「アイドルパワー」のOfficial Promotion Videoを公開した。 “2026年、日本を元気に！”という力強いテーマのもと制作された「アイドルパワー」は、アイドルとしての輝きと、聴く人の背中をそっと押すエールソン",
-      "groups": [
-        "M!LK"
       ],
       "statuses": [],
       "memberMatches": []
