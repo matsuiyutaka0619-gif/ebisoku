@@ -1,43 +1,31 @@
 {
-  "updatedAt": "2026-08-13T07:52:21.421Z",
+  "updatedAt": "2026-08-13T13:46:31.472Z",
   "totals": {
-    "all": 127,
-    "today": 5,
-    "week": 12
+    "all": 126,
+    "today": 4,
+    "week": 11
   },
   "groupRanking": [
-    {
-      "name": "M!LK",
-      "count": 7
-    },
     {
       "name": "EBiDAN",
       "count": 5
     },
     {
-      "name": "SUPER★DRAGON",
+      "name": "M!LK",
       "count": 5
     },
     {
-      "name": "超特急",
-      "count": 1
+      "name": "SUPER★DRAGON",
+      "count": 5
     }
   ],
   "memberRanking": [
     {
       "name": "曽野舜太",
-      "count": 4
-    },
-    {
-      "name": "吉田仁人",
-      "count": 2
+      "count": 5
     },
     {
       "name": "佐野勇斗",
-      "count": 2
-    },
-    {
-      "name": "塩﨑太智",
       "count": 1
     },
     {
@@ -52,20 +40,47 @@
     },
     {
       "name": "THE FIRST TIMES",
-      "count": 4
+      "count": 3
     },
     {
       "name": "マイナビニュース 映画",
       "count": 2
     },
     {
-      "name": "リアルサウンド 音楽",
+      "name": "タワーレコード ニュース",
       "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
     "M!LK": [
+      {
+        "id": "e4b086e236c0f4fd",
+        "title": "M!LK佐野勇斗が曽野舜太の達成事をいち早く祝福する姿に「さすがお兄ちゃん」「メンバー愛がすごい」「祝う早さがTO並み」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000863372/",
+        "publishedAt": "2026-08-13T11:36:53.000Z",
+        "summary": "M!LK曽野舜太がInstagramフォロワー100万人を達成し、佐野勇斗がそれを祝う投稿をXに公開した...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
       {
         "id": "9d4fd9d553aefce7",
         "title": "M!LK山中柔太朗＆曽野舜太が“タイプ違いの王子様”と話題！王冠×きらびやか衣装のスタイル際立つ並びに「ふたりとも脚長すぎ」「兄弟みたいで尊い」「ノリノリでかわいい」「やわしゅん最強」",
@@ -116,13 +131,13 @@
         ]
       },
       {
-        "id": "e1a455b46dfbbae1",
-        "title": "M!LK 5人の“家族写真”に反響！ちょこんと座る吉田仁人に「めっちゃお母さんwww」「脚閉じててめっちゃお上品」塩﨑太智が佐野勇斗にしがみつく仲良しショットも",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000862984/",
-        "publishedAt": "2026-08-13T02:57:52.000Z",
-        "summary": "フォトグラファーの谷口巧がInstagramを更新。アーカイブとして、自身が撮影したM!LKメンバー...",
+        "id": "332f9e22f238c9e9",
+        "title": "「楽屋で台本を開いていたら…」「それぞれが…」曽野舜太が明かしたM!LKメンバーのリアクション 俳優業にもさらなる意欲",
+        "sourceName": "マイナビニュース 映画",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
+        "articleUrl": "https://news.mynavi.jp/article/20260808-4792972/",
+        "publishedAt": "2026-08-08T11:00:00.000Z",
+        "summary": "ダンスボーカルグループ・M!LKの曽野舜太が7日、映画『仮面ライダーゼッツ さよならのミッション』(公開中)の公開御礼舞台挨拶に、今井竜太郎、上堀内佳寿也監督とともに登壇。同作出演を知ったときのM!LKメンバーのリアクションを明かした。",
         "groups": [
           "M!LK"
         ],
@@ -131,30 +146,20 @@
         ],
         "memberMatches": [
           {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "吉田仁人",
+            "name": "曽野舜太",
             "group": "M!LK",
             "status": "active"
           }
         ]
       },
       {
-        "id": "d7a9c1acf1d6c4ae",
-        "title": "M!LK佐野勇斗が吉田仁人を“チラ見”！並んで仲良くダンスするふたりに「身長差がかわいい」「テンションの差がさのじん！って感じで好き」「前髪サングラスかきあげがほんとに好みすぎて困る」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000862944/",
-        "publishedAt": "2026-08-13T02:14:04.000Z",
-        "summary": "M!LKの公式SNSが更新。佐野勇斗と吉田仁人が「You!Joy!Parade!」に合わせてダンスする動画が公...",
+        "id": "be4d78e64780bd02",
+        "title": "M!LK曽野舜太が作品に加えた“艶” 多忙な中での撮影で見せた“熱さ”を監督が絶賛「もう1回やらせてください! と…」",
+        "sourceName": "マイナビニュース 映画",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
+        "articleUrl": "https://news.mynavi.jp/article/20260807-4789954/",
+        "publishedAt": "2026-08-07T14:45:00.000Z",
+        "summary": "ダンスボーカルグループ・M!LKの曽野舜太が7日、映画『仮面ライダーゼッツ さよならのミッション』(公開中)の公開御礼舞台挨拶に、今井竜太郎、上堀内佳寿也監督とともに登壇。監督から魅力を絶賛された。",
         "groups": [
           "M!LK"
         ],
@@ -163,47 +168,24 @@
         ],
         "memberMatches": [
           {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "吉田仁人",
+            "name": "曽野舜太",
             "group": "M!LK",
             "status": "active"
           }
         ]
-      },
-      {
-        "id": "ab28b620c383a17a",
-        "title": "EBiDAN15周年の“今”と各グループの熱き躍進ーー『EBiDAN THE LIVE 2026』4DAYSへ高まる期待",
-        "sourceName": "リアルサウンド 音楽",
-        "sourceUrl": "https://realsound.jp/music/feed",
-        "articleUrl": "https://realsound.jp/2026/08/post-2488723.html",
-        "publishedAt": "2026-08-12T23:00:42.000Z",
-        "summary": "超特急やM!LKらなどが所属するEBiDANの全グループが集結する『EBiDAN THE LIVE 2026 15th Anniversary』が東京・国立代々木競技場 第一体育館で開催される。本稿では、今年の『エビライ』への期待、昨年の『エビライ』から現在までの各グループの躍進を振り返っていく。",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
       }
     ],
     "EBiDAN": [
       {
-        "id": "ab28b620c383a17a",
-        "title": "EBiDAN15周年の“今”と各グループの熱き躍進ーー『EBiDAN THE LIVE 2026』4DAYSへ高まる期待",
-        "sourceName": "リアルサウンド 音楽",
-        "sourceUrl": "https://realsound.jp/music/feed",
-        "articleUrl": "https://realsound.jp/2026/08/post-2488723.html",
-        "publishedAt": "2026-08-12T23:00:42.000Z",
-        "summary": "超特急やM!LKらなどが所属するEBiDANの全グループが集結する『EBiDAN THE LIVE 2026 15th Anniversary』が東京・国立代々木競技場 第一体育館で開催される。本稿では、今年の『エビライ』への期待、昨年の『エビライ』から現在までの各グループの躍進を振り返っていく。",
+        "id": "03aad97b9a26b11f",
+        "title": "「J-POPシングル ウィークリーTOP30」発表。1位はEBiDAN（恵比寿学園男子部）『Yes! 東京』、予約1位はINI『ANTHEM』（2026年8月13日付）",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/08/13/tg006",
+        "publishedAt": "2026-08-13T10:00:00.000Z",
+        "summary": "",
         "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK"
+          "EBiDAN"
         ],
         "statuses": [],
         "memberMatches": []
@@ -267,99 +249,6 @@
         ],
         "statuses": [],
         "memberMatches": []
-      }
-    ],
-    "超特急": [
-      {
-        "id": "ab28b620c383a17a",
-        "title": "EBiDAN15周年の“今”と各グループの熱き躍進ーー『EBiDAN THE LIVE 2026』4DAYSへ高まる期待",
-        "sourceName": "リアルサウンド 音楽",
-        "sourceUrl": "https://realsound.jp/music/feed",
-        "articleUrl": "https://realsound.jp/2026/08/post-2488723.html",
-        "publishedAt": "2026-08-12T23:00:42.000Z",
-        "summary": "超特急やM!LKらなどが所属するEBiDANの全グループが集結する『EBiDAN THE LIVE 2026 15th Anniversary』が東京・国立代々木競技場 第一体育館で開催される。本稿では、今年の『エビライ』への期待、昨年の『エビライ』から現在までの各グループの躍進を振り返っていく。",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "397a635043a0e0e2",
-        "title": "映画『ワンダンス』新キャストにGirls2山口綺羅、MAZZEL・RAN、TSUKKI、超特急・髙松アロハ",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/07/89594/",
-        "publishedAt": "2026-07-22T09:00:00.000Z",
-        "summary": "11月27日(金)に公開されるJO（&TEAM）初主演映画『ワンダンス』の新キャストとして山口綺羅（Girls2）、RAN（MAZZEL）、現役DリーガーのTSUKKI、髙松アロハ（超特急）が出演することが発表された。 原作は単行本累計発行部数110万部を突破し「月刊アフタヌーン」（講談社）で連載中の珈琲による同名漫画。ダンサーからも熱く支持され、昨年放送さ",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "アロハ",
-            "group": "超特急",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "382225983e9781d4",
-        "title": "8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 7月2日からの先行配信リリースに合わせて デジタルキャンペーンが追加決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11354/",
-        "publishedAt": "2026-07-01T06:00:22.000Z",
-        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して8月11日(火・祝)にリリースされる「Yes! 東京」が、いよいよ7月2日（木）より先行配信リリースとなります。超特急、M!LK、SUPER★DRAGON、Sakur […] The post 8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 7月2日からの先行配信リリースに合わせて デ",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "cc5ac2d0f2585820",
-        "title": "佐々木美玲＆森次政裕の健やかさの秘訣。共演してわかった互いの愛され力とは？",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/06/87486/",
-        "publishedAt": "2026-06-11T09:00:00.000Z",
-        "summary": "一夜限りの関係を結んだ相手は、誰もが羨むハイスペ社長だった──。 2026年4月クールで放送中のドラマ特区『あの夜、社長の子供を授かりました』は、一夜の過ちから運命が大きく変わる波乱のラブストーリー。自己評価の低さゆえに、つい自分を犠牲にして他人のために頑張りすぎてしまうヒロイン・花井栞里を佐々木美玲。そんな栞里に無償の愛を注ぐ溺愛社長・瀬古貴人を森次政裕（",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "63b99a8e04894f82",
-        "title": "伊東蒼が圧巻の表現力で“危うい”人物を演じ切る、奈緒主演映画『死ねばいいのに』本編映像解禁",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/06/87607/",
-        "publishedAt": "2026-06-11T03:00:00.000Z",
-        "summary": "7月3日(金)にテアトル新宿ほかで公開される奈緒主演映画『死ねばいいのに』より、伊東蒼演じる亜佐美にフォーカスした本編映像と場面写真が解禁された。 京極夏彦の同名小説を映画化した本作は、何者かによって殺された“亜佐美”を巡るミステリー。その“亜佐美”について尋ね歩く謎めいた人物・渡来映子を奈緒が演じ、従来のイメージを覆すアウトローな雰囲気で新境地を開拓する。",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "タクヤ",
-            "group": "超特急",
-            "status": "active"
-          }
-        ]
       }
     ],
     "SUPER★DRAGON": [
@@ -549,6 +438,83 @@
           {
             "name": "SHOOT",
             "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "超特急": [
+      {
+        "id": "397a635043a0e0e2",
+        "title": "映画『ワンダンス』新キャストにGirls2山口綺羅、MAZZEL・RAN、TSUKKI、超特急・髙松アロハ",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/07/89594/",
+        "publishedAt": "2026-07-22T09:00:00.000Z",
+        "summary": "11月27日(金)に公開されるJO（&TEAM）初主演映画『ワンダンス』の新キャストとして山口綺羅（Girls2）、RAN（MAZZEL）、現役DリーガーのTSUKKI、髙松アロハ（超特急）が出演することが発表された。 原作は単行本累計発行部数110万部を突破し「月刊アフタヌーン」（講談社）で連載中の珈琲による同名漫画。ダンサーからも熱く支持され、昨年放送さ",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "アロハ",
+            "group": "超特急",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "382225983e9781d4",
+        "title": "8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 7月2日からの先行配信リリースに合わせて デジタルキャンペーンが追加決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11354/",
+        "publishedAt": "2026-07-01T06:00:22.000Z",
+        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して8月11日(火・祝)にリリースされる「Yes! 東京」が、いよいよ7月2日（木）より先行配信リリースとなります。超特急、M!LK、SUPER★DRAGON、Sakur […] The post 8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 7月2日からの先行配信リリースに合わせて デ",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "cc5ac2d0f2585820",
+        "title": "佐々木美玲＆森次政裕の健やかさの秘訣。共演してわかった互いの愛され力とは？",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/06/87486/",
+        "publishedAt": "2026-06-11T09:00:00.000Z",
+        "summary": "一夜限りの関係を結んだ相手は、誰もが羨むハイスペ社長だった──。 2026年4月クールで放送中のドラマ特区『あの夜、社長の子供を授かりました』は、一夜の過ちから運命が大きく変わる波乱のラブストーリー。自己評価の低さゆえに、つい自分を犠牲にして他人のために頑張りすぎてしまうヒロイン・花井栞里を佐々木美玲。そんな栞里に無償の愛を注ぐ溺愛社長・瀬古貴人を森次政裕（",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "63b99a8e04894f82",
+        "title": "伊東蒼が圧巻の表現力で“危うい”人物を演じ切る、奈緒主演映画『死ねばいいのに』本編映像解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/06/87607/",
+        "publishedAt": "2026-06-11T03:00:00.000Z",
+        "summary": "7月3日(金)にテアトル新宿ほかで公開される奈緒主演映画『死ねばいいのに』より、伊東蒼演じる亜佐美にフォーカスした本編映像と場面写真が解禁された。 京極夏彦の同名小説を映画化した本作は、何者かによって殺された“亜佐美”を巡るミステリー。その“亜佐美”について尋ね歩く謎めいた人物・渡来映子を奈緒が演じ、従来のイメージを覆すアウトローな雰囲気で新境地を開拓する。",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "タクヤ",
+            "group": "超特急",
             "status": "active"
           }
         ]

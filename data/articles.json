@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-08-13T07:52:21.414Z",
+  "updatedAt": "2026-08-13T13:46:31.470Z",
   "articles": [
+    {
+      "id": "e4b086e236c0f4fd",
+      "title": "M!LK佐野勇斗が曽野舜太の達成事をいち早く祝福する姿に「さすがお兄ちゃん」「メンバー愛がすごい」「祝う早さがTO並み」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000863372/",
+      "publishedAt": "2026-08-13T11:36:53.000Z",
+      "summary": "M!LK曽野舜太がInstagramフォロワー100万人を達成し、佐野勇斗がそれを祝う投稿をXに公開した...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "曽野舜太",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "03aad97b9a26b11f",
+      "title": "「J-POPシングル ウィークリーTOP30」発表。1位はEBiDAN（恵比寿学園男子部）『Yes! 東京』、予約1位はINI『ANTHEM』（2026年8月13日付）",
+      "sourceName": "タワーレコード ニュース",
+      "sourceUrl": "https://tower.jp/feeds/article/news",
+      "articleUrl": "https://tower.jp/article/news/2026/08/13/tg006",
+      "publishedAt": "2026-08-13T10:00:00.000Z",
+      "summary": "",
+      "groups": [
+        "EBiDAN"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "9d4fd9d553aefce7",
       "title": "M!LK山中柔太朗＆曽野舜太が“タイプ違いの王子様”と話題！王冠×きらびやか衣装のスタイル際立つ並びに「ふたりとも脚長すぎ」「兄弟みたいで尊い」「ノリノリでかわいい」「やわしゅん最強」",
@@ -49,81 +90,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "e1a455b46dfbbae1",
-      "title": "M!LK 5人の“家族写真”に反響！ちょこんと座る吉田仁人に「めっちゃお母さんwww」「脚閉じててめっちゃお上品」塩﨑太智が佐野勇斗にしがみつく仲良しショットも",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000862984/",
-      "publishedAt": "2026-08-13T02:57:52.000Z",
-      "summary": "フォトグラファーの谷口巧がInstagramを更新。アーカイブとして、自身が撮影したM!LKメンバー...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "塩﨑太智",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "d7a9c1acf1d6c4ae",
-      "title": "M!LK佐野勇斗が吉田仁人を“チラ見”！並んで仲良くダンスするふたりに「身長差がかわいい」「テンションの差がさのじん！って感じで好き」「前髪サングラスかきあげがほんとに好みすぎて困る」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000862944/",
-      "publishedAt": "2026-08-13T02:14:04.000Z",
-      "summary": "M!LKの公式SNSが更新。佐野勇斗と吉田仁人が「You!Joy!Parade!」に合わせてダンスする動画が公...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "ab28b620c383a17a",
-      "title": "EBiDAN15周年の“今”と各グループの熱き躍進ーー『EBiDAN THE LIVE 2026』4DAYSへ高まる期待",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/08/post-2488723.html",
-      "publishedAt": "2026-08-12T23:00:42.000Z",
-      "summary": "超特急やM!LKらなどが所属するEBiDANの全グループが集結する『EBiDAN THE LIVE 2026 15th Anniversary』が東京・国立代々木競技場 第一体育館で開催される。本稿では、今年の『エビライ』への期待、昨年の『エビライ』から現在までの各グループの躍進を振り返っていく。",
-      "groups": [
-        "EBiDAN",
-        "超特急",
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "91a2a4d301121007",
