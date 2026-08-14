@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-14T13:42:28.084Z",
+  "updatedAt": "2026-08-14T19:13:13.556Z",
   "totals": {
     "all": 131,
-    "today": 8,
-    "week": 14
+    "today": 0,
+    "week": 13
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 9
+      "count": 8
     },
     {
       "name": "EBiDAN",
@@ -33,11 +33,11 @@
   ],
   "memberRanking": [
     {
-      "name": "曽野舜太",
-      "count": 3
+      "name": "佐野勇斗",
+      "count": 2
     },
     {
-      "name": "佐野勇斗",
+      "name": "曽野舜太",
       "count": 2
     },
     {
@@ -87,15 +87,15 @@
       "count": 2
     },
     {
-      "name": "マイナビニュース 映画",
-      "count": 2
-    },
-    {
       "name": "QJWeb",
       "count": 1
     },
     {
       "name": "タワーレコード ニュース",
+      "count": 1
+    },
+    {
+      "name": "マイナビニュース 映画",
       "count": 1
     }
   ],
