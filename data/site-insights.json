@@ -1,26 +1,34 @@
 {
-  "updatedAt": "2026-08-14T07:49:41.688Z",
+  "updatedAt": "2026-08-14T13:42:28.084Z",
   "totals": {
-    "all": 132,
-    "today": 9,
-    "week": 17
+    "all": 131,
+    "today": 8,
+    "week": 14
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 8
+      "count": 9
     },
     {
       "name": "EBiDAN",
-      "count": 7
+      "count": 6
     },
     {
       "name": "SUPER★DRAGON",
-      "count": 5
+      "count": 3
+    },
+    {
+      "name": "Lienel",
+      "count": 1
+    },
+    {
+      "name": "原因は自分にある。",
+      "count": 1
     },
     {
       "name": "超特急",
-      "count": 2
+      "count": 1
     }
   ],
   "memberRanking": [
@@ -41,6 +49,26 @@
       "count": 1
     },
     {
+      "name": "吉田仁人",
+      "count": 1
+    },
+    {
+      "name": "近藤駿太",
+      "count": 1
+    },
+    {
+      "name": "高岡ミロ",
+      "count": 1
+    },
+    {
+      "name": "高桑真之",
+      "count": 1
+    },
+    {
+      "name": "桜木雅哉",
+      "count": 1
+    },
+    {
       "name": "山中柔太朗",
       "count": 1
     }
@@ -48,11 +76,15 @@
   "sourceRanking": [
     {
       "name": "THE FIRST TIMES",
-      "count": 7
+      "count": 5
     },
     {
       "name": "SUPER★DRAGON 公式NEWS",
-      "count": 5
+      "count": 3
+    },
+    {
+      "name": "BARKS",
+      "count": 2
     },
     {
       "name": "マイナビニュース 映画",
@@ -65,15 +97,131 @@
     {
       "name": "タワーレコード ニュース",
       "count": 1
-    },
-    {
-      "name": "リアルサウンド 音楽",
-      "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
-    "EBiDAN": [
+    "M!LK": [
+      {
+        "id": "06d0579435176346",
+        "title": "『MUSIC AWARDS JAPAN 2026』、授賞式の模様をYouTubeにて全世界配信スタート",
+        "sourceName": "BARKS",
+        "sourceUrl": "https://www.barks.jp/feed/",
+        "articleUrl": "https://barks.jp/news/1083163",
+        "publishedAt": "2026-08-14T12:00:00.000Z",
+        "summary": "『MUSIC AWARDS JAPAN 2026』より授賞式“Grand Ceremony”と“Premiere Ceremony”の模様が本日8月14日21:00からYouTubeにて全世界配信スタートとなった。 “世界とつながり、音楽の未来を灯す(ともす)。”をコンセプトとした国内最大規模の国際音楽賞『MUSIC AWARDS JAPAN』は2026年6",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "1a5f533cbd39e064",
+        "title": "Lienel、ドラマ『ちょっと待とうよ、春虎くん』オープニング主題歌「一途な輪舞」配信リリース決定",
+        "sourceName": "BARKS",
+        "sourceUrl": "https://www.barks.jp/feed/",
+        "articleUrl": "https://barks.jp/news/1083145",
+        "publishedAt": "2026-08-14T09:55:00.000Z",
+        "summary": "スターダストプロモーション所属 EBiDANの6人組メインボーカル＆ダンスグループ“Lienel”が、MBSドラマフィル枠にて本日より放送スタートの新ドラマ『ちょっと待とうよ、春虎くん』オープニング主題歌「一途な輪舞」を8月21日に配信リリースすることが決定した。 ドラマ『ちょっと待とうよ、春虎くん』は中川翼と桜木雅哉(原因は自分にある。)のW主演作だ。原作",
+        "groups": [
+          "EBiDAN",
+          "M!LK",
+          "原因は自分にある。",
+          "Lienel"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "桜木雅哉",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "芳賀柊斗",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "近藤駿太",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "高岡ミロ",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "森田璃空",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "武田創世",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "高桑真之",
+            "group": "Lienel",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "180ffbc4f9d026bb",
+        "title": "M!LKが色違いの法被を着て屋台の前で肩組み！『やってM!LK』オフショットに「お祭りにこんなお兄さんいてほしい」「メンカラ法被似合ってる」「夏らしくてさわやか」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000864042/",
+        "publishedAt": "2026-08-14T08:43:49.000Z",
+        "summary": "M!LK公式SNSにて、冠番組『限界突破！やってM!LK』の8月13日放送回のオフショットが公開された...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "aeaeb9c1b1b46567",
+        "title": "M!LK 5人が“撮り合いっこ”！寝転ぶ吉田仁人に山中柔太朗がぐっと接近、佐野勇斗がカメラを向けると塩﨑太智がニコッ「ずっと眼福」「ただただ愛おしい」“全員メガネ”ビジュにも反響",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000864011/",
+        "publishedAt": "2026-08-14T08:08:34.000Z",
+        "summary": "M!LKが表紙を飾る『mini』9月号の撮影に密着したメイキング映像が公開され、ファンの注目を集...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
       {
         "id": "4ab9c31afa174ec6",
         "title": "M!LK『エビライ』白金ジャケット×チェックパンツの華やか制服姿オフショット公開！「衣装が豪華になってる」「楽しそうでかわいい」「今日もビジュがいい」",
@@ -88,17 +236,75 @@
         ],
         "statuses": [],
         "memberMatches": []
+      }
+    ],
+    "EBiDAN": [
+      {
+        "id": "1a5f533cbd39e064",
+        "title": "Lienel、ドラマ『ちょっと待とうよ、春虎くん』オープニング主題歌「一途な輪舞」配信リリース決定",
+        "sourceName": "BARKS",
+        "sourceUrl": "https://www.barks.jp/feed/",
+        "articleUrl": "https://barks.jp/news/1083145",
+        "publishedAt": "2026-08-14T09:55:00.000Z",
+        "summary": "スターダストプロモーション所属 EBiDANの6人組メインボーカル＆ダンスグループ“Lienel”が、MBSドラマフィル枠にて本日より放送スタートの新ドラマ『ちょっと待とうよ、春虎くん』オープニング主題歌「一途な輪舞」を8月21日に配信リリースすることが決定した。 ドラマ『ちょっと待とうよ、春虎くん』は中川翼と桜木雅哉(原因は自分にある。)のW主演作だ。原作",
+        "groups": [
+          "EBiDAN",
+          "M!LK",
+          "原因は自分にある。",
+          "Lienel"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "桜木雅哉",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "芳賀柊斗",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "近藤駿太",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "高岡ミロ",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "森田璃空",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "武田創世",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "高桑真之",
+            "group": "Lienel",
+            "status": "active"
+          }
+        ]
       },
       {
-        "id": "4ab6155581bccf6f",
-        "title": "EBiDAN表紙『日経エンタテインメント！』特装版が完売続出！ボリューム満点の誌面企画と豪華付録が大きな話題に。緊急重版決定",
+        "id": "4ab9c31afa174ec6",
+        "title": "M!LK『エビライ』白金ジャケット×チェックパンツの華やか制服姿オフショット公開！「衣装が豪華になってる」「楽しそうでかわいい」「今日もビジュがいい」",
         "sourceName": "THE FIRST TIMES",
         "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000863749/",
-        "publishedAt": "2026-08-14T03:30:47.000Z",
-        "summary": "EBiDANが表紙を飾る『日経エンタテインメント！』9月号特装版が完売続出。このたび、緊急重版...",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000863794/",
+        "publishedAt": "2026-08-14T06:03:58.000Z",
+        "summary": "M!LK公式SNSにて、『EBiDAN THE LIVE 2026 15th Anniversary』オフショットが公開された。 ■『...",
         "groups": [
-          "EBiDAN"
+          "EBiDAN",
+          "M!LK"
         ],
         "statuses": [],
         "memberMatches": []
@@ -148,120 +354,177 @@
         "memberMatches": []
       }
     ],
-    "M!LK": [
+    "原因は自分にある。": [
       {
-        "id": "4ab9c31afa174ec6",
-        "title": "M!LK『エビライ』白金ジャケット×チェックパンツの華やか制服姿オフショット公開！「衣装が豪華になってる」「楽しそうでかわいい」「今日もビジュがいい」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000863794/",
-        "publishedAt": "2026-08-14T06:03:58.000Z",
-        "summary": "M!LK公式SNSにて、『EBiDAN THE LIVE 2026 15th Anniversary』オフショットが公開された。 ■『...",
+        "id": "1a5f533cbd39e064",
+        "title": "Lienel、ドラマ『ちょっと待とうよ、春虎くん』オープニング主題歌「一途な輪舞」配信リリース決定",
+        "sourceName": "BARKS",
+        "sourceUrl": "https://www.barks.jp/feed/",
+        "articleUrl": "https://barks.jp/news/1083145",
+        "publishedAt": "2026-08-14T09:55:00.000Z",
+        "summary": "スターダストプロモーション所属 EBiDANの6人組メインボーカル＆ダンスグループ“Lienel”が、MBSドラマフィル枠にて本日より放送スタートの新ドラマ『ちょっと待とうよ、春虎くん』オープニング主題歌「一途な輪舞」を8月21日に配信リリースすることが決定した。 ドラマ『ちょっと待とうよ、春虎くん』は中川翼と桜木雅哉(原因は自分にある。)のW主演作だ。原作",
         "groups": [
           "EBiDAN",
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "ee335fb33d783294",
-        "title": "M!LKの“新衣装”に大反響！メンバーカラー×牛モチーフのド派手デザインに「え、新しい衣装!?」「すごっ」「かわいすぎる」「派手すぎてめっちゃ目立つ」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000863872/",
-        "publishedAt": "2026-08-14T05:47:32.000Z",
-        "summary": "NHKの音楽特番『NHK夏の音楽祭 うたであえたら 2026』が8月15日に放送。公式SNSで公開された動...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "4c5c1212f3bbea48",
-        "title": "M!LKが全身金タイツ姿で曽野舜太を囲み祝福！「タイツ姿もかわいい」「待ってました」「その格好でキメ顔のギャップｗｗ」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000863775/",
-        "publishedAt": "2026-08-14T03:44:57.000Z",
-        "summary": "M!LK佐野勇斗が「しゅんた100万人おめでとう」として、曽野舜太をM!LKメンバーで祝福した姿を...",
-        "groups": [
-          "M!LK"
+          "M!LK",
+          "原因は自分にある。",
+          "Lienel"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "佐野勇斗",
-            "group": "M!LK",
+            "name": "桜木雅哉",
+            "group": "原因は自分にある。",
             "status": "active"
           },
           {
-            "name": "曽野舜太",
-            "group": "M!LK",
+            "name": "芳賀柊斗",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "近藤駿太",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "高岡ミロ",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "森田璃空",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "武田創世",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "高桑真之",
+            "group": "Lienel",
             "status": "active"
           }
         ]
       },
       {
-        "id": "df3716f84288a2aa",
-        "title": "M!LK佐野勇斗が塩﨑太智の肩を抱いてぴったり密着！“ちゃのざき”の仲良しショットに「かわいい」「距離感バグすぎ」「太智くんの表情やばすぎてきゅん」「めちゃくちゃ新鮮」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000863686/",
-        "publishedAt": "2026-08-14T02:36:12.000Z",
-        "summary": "M!LKの佐野勇斗と塩崎太智（崎は、たつさきが正式表記）が特別版表紙を飾る『non-no』9月号の...",
+        "id": "15fb9ee4d3775ce2",
+        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/07/89645/",
+        "publishedAt": "2026-07-24T12:00:00.000Z",
+        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
         "groups": [
-          "M!LK"
+          "原因は自分にある。",
+          "BUDDiiS"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "佐野勇斗",
-            "group": "M!LK",
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
             "status": "active"
           },
           {
-            "name": "塩﨑太智",
-            "group": "M!LK",
+            "name": "SHOOT",
+            "group": "BUDDiiS",
             "status": "active"
           }
         ]
       },
       {
-        "id": "4b2fb6d2ad348a59",
-        "title": "【『NHK夏の音楽祭 うたであえたら 2026』公開収録レポート(2)】ゆず×羽生結弦、M!LK×高校ダンス部、郷ひろみ×＝LOVE…。豪華コラボステージの詳細が一挙解禁",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000863458/",
-        "publishedAt": "2026-08-14T02:00:55.000Z",
-        "summary": "NHKのあらたな音楽特番『NHK夏の音楽祭 うたであえたら 2026』が、8月15日18時05分より、NHK総...",
+        "id": "3fb662210aaeb54f",
+        "title": "森愁斗主演『ウォーターガーディアンズ』本予告解禁、ライフセーバーの本格訓練シーンが初お披露目",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/06/87426/",
+        "publishedAt": "2026-06-05T22:00:00.000Z",
+        "summary": "森愁斗主演映画『ウォーターガーディアンズ』の公開日が8月21日(金)に決定し、本予告映像と主題歌、追加キャスト情報が一挙解禁された。 本作は、ライフセーバーを目指す若者たちの本気のひと夏を描いた青春サマームービー。思いがけずライフセーバーになるという目標を得た若者たちが友情を育み、恋と出会う姿を描く。キャストでは主人公・海翔役の森愁斗（BUDDiiS）、海翔",
         "groups": [
-          "M!LK"
+          "原因は自分にある。",
+          "BUDDiiS"
         ],
-        "statuses": [],
-        "memberMatches": []
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "Lienel": [
+      {
+        "id": "1a5f533cbd39e064",
+        "title": "Lienel、ドラマ『ちょっと待とうよ、春虎くん』オープニング主題歌「一途な輪舞」配信リリース決定",
+        "sourceName": "BARKS",
+        "sourceUrl": "https://www.barks.jp/feed/",
+        "articleUrl": "https://barks.jp/news/1083145",
+        "publishedAt": "2026-08-14T09:55:00.000Z",
+        "summary": "スターダストプロモーション所属 EBiDANの6人組メインボーカル＆ダンスグループ“Lienel”が、MBSドラマフィル枠にて本日より放送スタートの新ドラマ『ちょっと待とうよ、春虎くん』オープニング主題歌「一途な輪舞」を8月21日に配信リリースすることが決定した。 ドラマ『ちょっと待とうよ、春虎くん』は中川翼と桜木雅哉(原因は自分にある。)のW主演作だ。原作",
+        "groups": [
+          "EBiDAN",
+          "M!LK",
+          "原因は自分にある。",
+          "Lienel"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "桜木雅哉",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "芳賀柊斗",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "近藤駿太",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "高岡ミロ",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "森田璃空",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "武田創世",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "高桑真之",
+            "group": "Lienel",
+            "status": "active"
+          }
+        ]
       }
     ],
     "超特急": [
-      {
-        "id": "32ab5e47b18f50e0",
-        "title": "スピッツ、細野晴臣、Ado、福山雅治、TAKARA、超特急……注目新譜6作をレビュー",
-        "sourceName": "リアルサウンド 音楽",
-        "sourceUrl": "https://realsound.jp/music/feed",
-        "articleUrl": "https://realsound.jp/2026/08/post-2489667.html",
-        "publishedAt": "2026-08-14T03:10:55.000Z",
-        "summary": "毎週発表される新譜の中から注目作品をレビューしていく連載「New Releases In Focus」。今回は、スピッツ「見知らぬ糸」、細野晴臣「Sincerely」、Ado「モンストロ」、福山雅治「邂逅」、TAKARA「Time is money」、超特急「Secret Invitation」の6作品をピックアップした。",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
       {
         "id": "dce31689d53942e2",
         "title": "超特急『ESCORT』ツアーファイナルで見せた“感動を超えた場所”。15年の軌跡を乗せて、9人で東京ドームへ",
@@ -336,6 +599,28 @@
         ],
         "statuses": [],
         "memberMatches": []
+      },
+      {
+        "id": "63b99a8e04894f82",
+        "title": "伊東蒼が圧巻の表現力で“危うい”人物を演じ切る、奈緒主演映画『死ねばいいのに』本編映像解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/06/87607/",
+        "publishedAt": "2026-06-11T03:00:00.000Z",
+        "summary": "7月3日(金)にテアトル新宿ほかで公開される奈緒主演映画『死ねばいいのに』より、伊東蒼演じる亜佐美にフォーカスした本編映像と場面写真が解禁された。 京極夏彦の同名小説を映画化した本作は、何者かによって殺された“亜佐美”を巡るミステリー。その“亜佐美”について尋ね歩く謎めいた人物・渡来映子を奈緒が演じ、従来のイメージを覆すアウトローな雰囲気で新境地を開拓する。",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "タクヤ",
+            "group": "超特急",
+            "status": "active"
+          }
+        ]
       }
     ],
     "SUPER★DRAGON": [
@@ -412,64 +697,6 @@
         ],
         "statuses": [],
         "memberMatches": []
-      }
-    ],
-    "原因は自分にある。": [
-      {
-        "id": "15fb9ee4d3775ce2",
-        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/07/89645/",
-        "publishedAt": "2026-07-24T12:00:00.000Z",
-        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
-        "groups": [
-          "原因は自分にある。",
-          "BUDDiiS"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "SHOOT",
-            "group": "BUDDiiS",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "3fb662210aaeb54f",
-        "title": "森愁斗主演『ウォーターガーディアンズ』本予告解禁、ライフセーバーの本格訓練シーンが初お披露目",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/06/87426/",
-        "publishedAt": "2026-06-05T22:00:00.000Z",
-        "summary": "森愁斗主演映画『ウォーターガーディアンズ』の公開日が8月21日(金)に決定し、本予告映像と主題歌、追加キャスト情報が一挙解禁された。 本作は、ライフセーバーを目指す若者たちの本気のひと夏を描いた青春サマームービー。思いがけずライフセーバーになるという目標を得た若者たちが友情を育み、恋と出会う姿を描く。キャストでは主人公・海翔役の森愁斗（BUDDiiS）、海翔",
-        "groups": [
-          "原因は自分にある。",
-          "BUDDiiS"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "SHOOT",
-            "group": "BUDDiiS",
-            "status": "active"
-          }
-        ]
       }
     ],
     "BUDDiiS": [

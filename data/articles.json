@@ -1,6 +1,126 @@
 {
-  "updatedAt": "2026-08-14T07:49:41.686Z",
+  "updatedAt": "2026-08-14T13:42:28.081Z",
   "articles": [
+    {
+      "id": "06d0579435176346",
+      "title": "『MUSIC AWARDS JAPAN 2026』、授賞式の模様をYouTubeにて全世界配信スタート",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1083163",
+      "publishedAt": "2026-08-14T12:00:00.000Z",
+      "summary": "『MUSIC AWARDS JAPAN 2026』より授賞式“Grand Ceremony”と“Premiere Ceremony”の模様が本日8月14日21:00からYouTubeにて全世界配信スタートとなった。 “世界とつながり、音楽の未来を灯す(ともす)。”をコンセプトとした国内最大規模の国際音楽賞『MUSIC AWARDS JAPAN』は2026年6",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "1a5f533cbd39e064",
+      "title": "Lienel、ドラマ『ちょっと待とうよ、春虎くん』オープニング主題歌「一途な輪舞」配信リリース決定",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1083145",
+      "publishedAt": "2026-08-14T09:55:00.000Z",
+      "summary": "スターダストプロモーション所属 EBiDANの6人組メインボーカル＆ダンスグループ“Lienel”が、MBSドラマフィル枠にて本日より放送スタートの新ドラマ『ちょっと待とうよ、春虎くん』オープニング主題歌「一途な輪舞」を8月21日に配信リリースすることが決定した。 ドラマ『ちょっと待とうよ、春虎くん』は中川翼と桜木雅哉(原因は自分にある。)のW主演作だ。原作",
+      "groups": [
+        "EBiDAN",
+        "M!LK",
+        "原因は自分にある。",
+        "Lienel"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "桜木雅哉",
+          "group": "原因は自分にある。",
+          "status": "active"
+        },
+        {
+          "name": "芳賀柊斗",
+          "group": "Lienel",
+          "status": "active"
+        },
+        {
+          "name": "近藤駿太",
+          "group": "Lienel",
+          "status": "active"
+        },
+        {
+          "name": "高岡ミロ",
+          "group": "Lienel",
+          "status": "active"
+        },
+        {
+          "name": "森田璃空",
+          "group": "Lienel",
+          "status": "active"
+        },
+        {
+          "name": "武田創世",
+          "group": "Lienel",
+          "status": "active"
+        },
+        {
+          "name": "高桑真之",
+          "group": "Lienel",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "180ffbc4f9d026bb",
+      "title": "M!LKが色違いの法被を着て屋台の前で肩組み！『やってM!LK』オフショットに「お祭りにこんなお兄さんいてほしい」「メンカラ法被似合ってる」「夏らしくてさわやか」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000864042/",
+      "publishedAt": "2026-08-14T08:43:49.000Z",
+      "summary": "M!LK公式SNSにて、冠番組『限界突破！やってM!LK』の8月13日放送回のオフショットが公開された...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "aeaeb9c1b1b46567",
+      "title": "M!LK 5人が“撮り合いっこ”！寝転ぶ吉田仁人に山中柔太朗がぐっと接近、佐野勇斗がカメラを向けると塩﨑太智がニコッ「ずっと眼福」「ただただ愛おしい」“全員メガネ”ビジュにも反響",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000864011/",
+      "publishedAt": "2026-08-14T08:08:34.000Z",
+      "summary": "M!LKが表紙を飾る『mini』9月号の撮影に密着したメイキング映像が公開され、ファンの注目を集...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "塩﨑太智",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "4ab9c31afa174ec6",
       "title": "M!LK『エビライ』白金ジャケット×チェックパンツの華やか制服姿オフショット公開！「衣装が豪華になってる」「楽しそうでかわいい」「今日もビジュがいい」",
@@ -58,34 +178,6 @@
       ]
     },
     {
-      "id": "4ab6155581bccf6f",
-      "title": "EBiDAN表紙『日経エンタテインメント！』特装版が完売続出！ボリューム満点の誌面企画と豪華付録が大きな話題に。緊急重版決定",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000863749/",
-      "publishedAt": "2026-08-14T03:30:47.000Z",
-      "summary": "EBiDANが表紙を飾る『日経エンタテインメント！』9月号特装版が完売続出。このたび、緊急重版...",
-      "groups": [
-        "EBiDAN"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "32ab5e47b18f50e0",
-      "title": "スピッツ、細野晴臣、Ado、福山雅治、TAKARA、超特急……注目新譜6作をレビュー",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/08/post-2489667.html",
-      "publishedAt": "2026-08-14T03:10:55.000Z",
-      "summary": "毎週発表される新譜の中から注目作品をレビューしていく連載「New Releases In Focus」。今回は、スピッツ「見知らぬ糸」、細野晴臣「Sincerely」、Ado「モンストロ」、福山雅治「邂逅」、TAKARA「Time is money」、超特急「Secret Invitation」の6作品をピックアップした。",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
       "id": "dce31689d53942e2",
       "title": "超特急『ESCORT』ツアーファイナルで見せた“感動を超えた場所”。15年の軌跡を乗せて、9人で東京ドームへ",
       "sourceName": "QJWeb",
@@ -103,69 +195,6 @@
         {
           "name": "リョウガ",
           "group": "超特急",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "df3716f84288a2aa",
-      "title": "M!LK佐野勇斗が塩﨑太智の肩を抱いてぴったり密着！“ちゃのざき”の仲良しショットに「かわいい」「距離感バグすぎ」「太智くんの表情やばすぎてきゅん」「めちゃくちゃ新鮮」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000863686/",
-      "publishedAt": "2026-08-14T02:36:12.000Z",
-      "summary": "M!LKの佐野勇斗と塩崎太智（崎は、たつさきが正式表記）が特別版表紙を飾る『non-no』9月号の...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "塩﨑太智",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "4b2fb6d2ad348a59",
-      "title": "【『NHK夏の音楽祭 うたであえたら 2026』公開収録レポート(2)】ゆず×羽生結弦、M!LK×高校ダンス部、郷ひろみ×＝LOVE…。豪華コラボステージの詳細が一挙解禁",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000863458/",
-      "publishedAt": "2026-08-14T02:00:55.000Z",
-      "summary": "NHKのあらたな音楽特番『NHK夏の音楽祭 うたであえたら 2026』が、8月15日18時05分より、NHK総...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "c67b834b72c40750",
-      "title": "M!LK 5人が「おはよう」と次々に起こしてくれる！“神アラーム”に「最高すぎる」「需要ありまくり」「吉田さんの笑い方つられる」山中柔太朗の寝ぼけ顔にも「メロい」「髪切った？」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000863656/",
-      "publishedAt": "2026-08-14T01:54:47.000Z",
-      "summary": "M!LKの公式SNSが更新。メンバー5人が次々と声をかけて“起こしてくれる”動画が公開され、ファン...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "山中柔太朗",
-          "group": "M!LK",
           "status": "active"
         }
       ]
