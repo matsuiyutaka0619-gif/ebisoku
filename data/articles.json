@@ -1,6 +1,112 @@
 {
-  "updatedAt": "2026-08-14T02:45:26.047Z",
+  "updatedAt": "2026-08-14T07:49:41.686Z",
   "articles": [
+    {
+      "id": "4ab9c31afa174ec6",
+      "title": "M!LK『エビライ』白金ジャケット×チェックパンツの華やか制服姿オフショット公開！「衣装が豪華になってる」「楽しそうでかわいい」「今日もビジュがいい」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000863794/",
+      "publishedAt": "2026-08-14T06:03:58.000Z",
+      "summary": "M!LK公式SNSにて、『EBiDAN THE LIVE 2026 15th Anniversary』オフショットが公開された。 ■『...",
+      "groups": [
+        "EBiDAN",
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "ee335fb33d783294",
+      "title": "M!LKの“新衣装”に大反響！メンバーカラー×牛モチーフのド派手デザインに「え、新しい衣装!?」「すごっ」「かわいすぎる」「派手すぎてめっちゃ目立つ」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000863872/",
+      "publishedAt": "2026-08-14T05:47:32.000Z",
+      "summary": "NHKの音楽特番『NHK夏の音楽祭 うたであえたら 2026』が8月15日に放送。公式SNSで公開された動...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "4c5c1212f3bbea48",
+      "title": "M!LKが全身金タイツ姿で曽野舜太を囲み祝福！「タイツ姿もかわいい」「待ってました」「その格好でキメ顔のギャップｗｗ」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000863775/",
+      "publishedAt": "2026-08-14T03:44:57.000Z",
+      "summary": "M!LK佐野勇斗が「しゅんた100万人おめでとう」として、曽野舜太をM!LKメンバーで祝福した姿を...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "曽野舜太",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "4ab6155581bccf6f",
+      "title": "EBiDAN表紙『日経エンタテインメント！』特装版が完売続出！ボリューム満点の誌面企画と豪華付録が大きな話題に。緊急重版決定",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000863749/",
+      "publishedAt": "2026-08-14T03:30:47.000Z",
+      "summary": "EBiDANが表紙を飾る『日経エンタテインメント！』9月号特装版が完売続出。このたび、緊急重版...",
+      "groups": [
+        "EBiDAN"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "32ab5e47b18f50e0",
+      "title": "スピッツ、細野晴臣、Ado、福山雅治、TAKARA、超特急……注目新譜6作をレビュー",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/08/post-2489667.html",
+      "publishedAt": "2026-08-14T03:10:55.000Z",
+      "summary": "毎週発表される新譜の中から注目作品をレビューしていく連載「New Releases In Focus」。今回は、スピッツ「見知らぬ糸」、細野晴臣「Sincerely」、Ado「モンストロ」、福山雅治「邂逅」、TAKARA「Time is money」、超特急「Secret Invitation」の6作品をピックアップした。",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "dce31689d53942e2",
+      "title": "超特急『ESCORT』ツアーファイナルで見せた“感動を超えた場所”。15年の軌跡を乗せて、9人で東京ドームへ",
+      "sourceName": "QJWeb",
+      "sourceUrl": "https://qjweb.jp/feed/",
+      "articleUrl": "https://qjweb.jp/column/163651/",
+      "publishedAt": "2026-08-14T03:04:05.000Z",
+      "summary": "9人組メインダンサー&バックボーカルグループ・超特急が、アリーナツアー『BULLET TRAIN ARENA TOUR 2026「ESCORT」』の最終公演を2026年8月8日、9日に神奈川・Kアリーナ横浜で開催した。 11月に初の東京ドーム公演を控えるなか、リーダー・リョウガが休養のため不.. 投稿 超特急『ESCORT』ツアーファイナルで見せた“感動を超",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "リョウガ",
+          "group": "超特急",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "df3716f84288a2aa",
       "title": "M!LK佐野勇斗が塩﨑太智の肩を抱いてぴったり密着！“ちゃのざき”の仲良しショットに「かわいい」「距離感バグすぎ」「太智くんの表情やばすぎてきゅん」「めちゃくちゃ新鮮」",
@@ -65,60 +171,6 @@
       ]
     },
     {
-      "id": "af0cb8ad1945f4b0",
-      "title": "M!LK 曽野舜太「コミュ力化け物」舞台挨拶から北海道まで一日密着 山中柔太朗の寝顔を見守る姿に「やわしゅん尊すぎる」",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/08/post-2490565.html",
-      "publishedAt": "2026-08-13T20:50:36.000Z",
-      "summary": "M!LKの曽野舜太が自身のYouTubeを更新。映画『仮面ライダーゼッツ さよならのミッション』の取材・舞台挨拶から、山中柔太朗との北海道移動までに密着した。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "曽野舜太",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "山中柔太朗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "e4b086e236c0f4fd",
-      "title": "M!LK佐野勇斗が曽野舜太の達成事をいち早く祝福する姿に「さすがお兄ちゃん」「メンバー愛がすごい」「祝う早さがTO並み」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000863372/",
-      "publishedAt": "2026-08-13T11:36:53.000Z",
-      "summary": "M!LK曽野舜太がInstagramフォロワー100万人を達成し、佐野勇斗がそれを祝う投稿をXに公開した...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "曽野舜太",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "03aad97b9a26b11f",
       "title": "「J-POPシングル ウィークリーTOP30」発表。1位はEBiDAN（恵比寿学園男子部）『Yes! 東京』、予約1位はINI『ANTHEM』（2026年8月13日付）",
       "sourceName": "タワーレコード ニュース",
@@ -131,33 +183,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "9d4fd9d553aefce7",
-      "title": "M!LK山中柔太朗＆曽野舜太が“タイプ違いの王子様”と話題！王冠×きらびやか衣装のスタイル際立つ並びに「ふたりとも脚長すぎ」「兄弟みたいで尊い」「ノリノリでかわいい」「やわしゅん最強」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000863202/",
-      "publishedAt": "2026-08-13T07:10:46.000Z",
-      "summary": "M!LKの公式SNSが更新。山中柔太朗と曽野舜太が「You!Joy!Parade!」に合わせて踊る動画が公開さ...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "曽野舜太",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "山中柔太朗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "91a2a4d301121007",
