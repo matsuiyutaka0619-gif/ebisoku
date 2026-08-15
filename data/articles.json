@@ -1,6 +1,91 @@
 {
-  "updatedAt": "2026-08-15T06:56:56.122Z",
+  "updatedAt": "2026-08-15T12:58:27.074Z",
   "articles": [
+    {
+      "id": "aef99fcfff099d38",
+      "title": "M!LK5人のクールビジュアル公開！佐野勇斗の黒髪オールバック、吉田仁人の前髪ありの明るめブラウンヘア、曽野舜太の金髪にも注目「なにこのイケメン集団」「なんとも言えない色気」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000864467/",
+      "publishedAt": "2026-08-15T10:27:29.000Z",
+      "summary": "インフォスクエアの公式Xが更新。M!LKが表紙を飾った『S Cawaii! ME 2025 SUMMER＜特別版＞』...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "曽野舜太",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "b7eeb4e4b1c28631",
+      "title": "【ライブレポート】バーチャルアイドル・FouRTe Project、東京・Zepp DiverCityにて初のオフラインライブ開催。「みんなに名刺を渡すような気持ちで最初の衝撃を与えたい」",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1083327",
+      "publishedAt": "2026-08-15T10:16:02.000Z",
+      "summary": "7人組バーチャルアイドルグループ・FouRTe Project（フォルテ・プロジェクト）が、グループ初のオフラインライブ＜FouRTe Project 1st LIVE “ALL IN”＞を2026年8月14日に東京・Zepp DiverCity (TOKYO)で開催した。 FouRTe Projectは玖音レオ、朔楽はるひ、朔楽はづき、翠凰稜巳、御影漣、ア",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "5e3223a3c3d3127c",
+      "title": "M!LKふわふわファーのゴージャスロングコート姿で『エビライ』舞台裏ダンス披露！「仁人くんのセリフに頷く舜ちゃん尊い」「太智くん前髪ありかわいい」「はやちゃんのデコ出しかっこいい」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000864377/",
+      "publishedAt": "2026-08-15T07:17:34.000Z",
+      "summary": "M!LK公式SNSにて、5人が「チラチLOVE」にのせてダンスする姿が公開された。ハッシュタグに『エ...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "a28a721ba6c6c279",
+      "title": "EBiDAN「Yes! 東京」推しを見つけられる＜おのおののネーム ver.＞MV公開！「EBiDANを“最強の男たち”にしていきたい」（げんじぶ杢代和人）",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000864214/",
+      "publishedAt": "2026-08-15T07:00:37.000Z",
+      "summary": "超特急やM!LKらが所属し、新グループも加わって全10グループ総勢68名となった、スターダストプ...",
+      "groups": [
+        "EBiDAN",
+        "超特急",
+        "M!LK",
+        "原因は自分にある。"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "杢代和人",
+          "group": "原因は自分にある。",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "0d68bdc2832631a1",
       "title": "M!LK5人が存在感抜群のカラフルファー衣装でずらり！スタイル際立つ集合ショットに「みんな脚長すぎる」「肩幅すごい笑」「ビジュ最高」「ヘアセット大優勝」",
@@ -65,20 +150,6 @@
       "articleUrl": "https://www.thefirsttimes.jp/news/0000861352/",
       "publishedAt": "2026-08-15T03:00:36.000Z",
       "summary": "カラフルでポップな衣装など、アイドルらしいスタイリングも魅力のM!LK。そんな5人が見せる、...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "06d0579435176346",
-      "title": "『MUSIC AWARDS JAPAN 2026』、授賞式の模様をYouTubeにて全世界配信スタート",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1083163",
-      "publishedAt": "2026-08-14T12:00:00.000Z",
-      "summary": "『MUSIC AWARDS JAPAN 2026』より授賞式“Grand Ceremony”と“Premiere Ceremony”の模様が本日8月14日21:00からYouTubeにて全世界配信スタートとなった。 “世界とつながり、音楽の未来を灯す(ともす)。”をコンセプトとした国内最大規模の国際音楽賞『MUSIC AWARDS JAPAN』は2026年6",
       "groups": [
         "M!LK"
       ],
