@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T19:13:13.554Z",
+  "updatedAt": "2026-08-15T01:49:20.666Z",
   "articles": [
     {
       "id": "06d0579435176346",
@@ -149,33 +149,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "4c5c1212f3bbea48",
-      "title": "M!LKが全身金タイツ姿で曽野舜太を囲み祝福！「タイツ姿もかわいい」「待ってました」「その格好でキメ顔のギャップｗｗ」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000863775/",
-      "publishedAt": "2026-08-14T03:44:57.000Z",
-      "summary": "M!LK佐野勇斗が「しゅんた100万人おめでとう」として、曽野舜太をM!LKメンバーで祝福した姿を...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "曽野舜太",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "dce31689d53942e2",

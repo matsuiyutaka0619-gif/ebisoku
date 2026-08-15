@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-14T19:13:13.556Z",
+  "updatedAt": "2026-08-15T01:49:20.668Z",
   "totals": {
-    "all": 131,
+    "all": 130,
     "today": 0,
-    "week": 13
+    "week": 12
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 8
+      "count": 7
     },
     {
       "name": "EBiDAN",
@@ -32,14 +32,6 @@
     }
   ],
   "memberRanking": [
-    {
-      "name": "佐野勇斗",
-      "count": 2
-    },
-    {
-      "name": "曽野舜太",
-      "count": 2
-    },
     {
       "name": "リョウガ",
       "count": 1
@@ -65,18 +57,26 @@
       "count": 1
     },
     {
+      "name": "佐野勇斗",
+      "count": 1
+    },
+    {
       "name": "桜木雅哉",
       "count": 1
     },
     {
       "name": "山中柔太朗",
       "count": 1
+    },
+    {
+      "name": "森田璃空",
+      "count": 1
     }
   ],
   "sourceRanking": [
     {
       "name": "THE FIRST TIMES",
-      "count": 5
+      "count": 4
     },
     {
       "name": "SUPER★DRAGON 公式NEWS",
