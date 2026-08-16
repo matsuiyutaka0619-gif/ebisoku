@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-08-16T01:57:00.033Z",
+  "updatedAt": "2026-08-16T06:58:38.948Z",
   "totals": {
-    "all": 130,
-    "today": 0,
-    "week": 11
+    "all": 128,
+    "today": 3,
+    "week": 9
   },
   "groupRanking": [
     {
-      "name": "M!LK",
+      "name": "EBiDAN",
       "count": 6
     },
     {
-      "name": "EBiDAN",
-      "count": 5
+      "name": "M!LK",
+      "count": 3
     },
     {
       "name": "SUPER★DRAGON",
@@ -20,16 +20,16 @@
     },
     {
       "name": "超特急",
-      "count": 2
-    },
-    {
-      "name": "原因は自分にある。",
       "count": 1
     }
   ],
   "memberRanking": [
     {
       "name": "リョウガ",
+      "count": 1
+    },
+    {
+      "name": "塩﨑太智",
       "count": 1
     },
     {
@@ -43,24 +43,16 @@
     {
       "name": "曽野舜太",
       "count": 1
-    },
-    {
-      "name": "杢代和人",
-      "count": 1
     }
   ],
   "sourceRanking": [
     {
       "name": "THE FIRST TIMES",
-      "count": 5
+      "count": 4
     },
     {
       "name": "SUPER★DRAGON 公式NEWS",
       "count": 3
-    },
-    {
-      "name": "BARKS",
-      "count": 1
     },
     {
       "name": "QJWeb",
@@ -73,132 +65,43 @@
   ],
   "topics": [],
   "recentByGroup": {
-    "M!LK": [
-      {
-        "id": "aef99fcfff099d38",
-        "title": "M!LK5人のクールビジュアル公開！佐野勇斗の黒髪オールバック、吉田仁人の前髪ありの明るめブラウンヘア、曽野舜太の金髪にも注目「なにこのイケメン集団」「なんとも言えない色気」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000864467/",
-        "publishedAt": "2026-08-15T10:27:29.000Z",
-        "summary": "インフォスクエアの公式Xが更新。M!LKが表紙を飾った『S Cawaii! ME 2025 SUMMER＜特別版＞』...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "b7eeb4e4b1c28631",
-        "title": "【ライブレポート】バーチャルアイドル・FouRTe Project、東京・Zepp DiverCityにて初のオフラインライブ開催。「みんなに名刺を渡すような気持ちで最初の衝撃を与えたい」",
-        "sourceName": "BARKS",
-        "sourceUrl": "https://www.barks.jp/feed/",
-        "articleUrl": "https://barks.jp/news/1083327",
-        "publishedAt": "2026-08-15T10:16:02.000Z",
-        "summary": "7人組バーチャルアイドルグループ・FouRTe Project（フォルテ・プロジェクト）が、グループ初のオフラインライブ＜FouRTe Project 1st LIVE “ALL IN”＞を2026年8月14日に東京・Zepp DiverCity (TOKYO)で開催した。 FouRTe Projectは玖音レオ、朔楽はるひ、朔楽はづき、翠凰稜巳、御影漣、ア",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "5e3223a3c3d3127c",
-        "title": "M!LKふわふわファーのゴージャスロングコート姿で『エビライ』舞台裏ダンス披露！「仁人くんのセリフに頷く舜ちゃん尊い」「太智くん前髪ありかわいい」「はやちゃんのデコ出しかっこいい」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000864377/",
-        "publishedAt": "2026-08-15T07:17:34.000Z",
-        "summary": "M!LK公式SNSにて、5人が「チラチLOVE」にのせてダンスする姿が公開された。ハッシュタグに『エ...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "a28a721ba6c6c279",
-        "title": "EBiDAN「Yes! 東京」推しを見つけられる＜おのおののネーム ver.＞MV公開！「EBiDANを“最強の男たち”にしていきたい」（げんじぶ杢代和人）",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000864214/",
-        "publishedAt": "2026-08-15T07:00:37.000Z",
-        "summary": "超特急やM!LKらが所属し、新グループも加わって全10グループ総勢68名となった、スターダストプ...",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK",
-          "原因は自分にある。"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "杢代和人",
-            "group": "原因は自分にある。",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "0d68bdc2832631a1",
-        "title": "M!LK5人が存在感抜群のカラフルファー衣装でずらり！スタイル際立つ集合ショットに「みんな脚長すぎる」「肩幅すごい笑」「ビジュ最高」「ヘアセット大優勝」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000864269/",
-        "publishedAt": "2026-08-15T04:53:08.000Z",
-        "summary": "NHKの音楽特番『NHK夏の音楽祭 うたであえたら 2026』（8月15日放送）の公式SNSが更新。M!LKの...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
     "EBiDAN": [
       {
-        "id": "a28a721ba6c6c279",
-        "title": "EBiDAN「Yes! 東京」推しを見つけられる＜おのおののネーム ver.＞MV公開！「EBiDANを“最強の男たち”にしていきたい」（げんじぶ杢代和人）",
+        "id": "e8ca0657c77a5f73",
+        "title": "M!LK塩﨑太智が“雰囲気一変”！花をまとった黒衣装で大人の色気あふれる『エビライ』シャッフルユニット姿に「えぐかっこいい」「破壊力やばすぎ」「色気に釘付け」5人の仲良し制服ショットも公開",
         "sourceName": "THE FIRST TIMES",
         "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000864214/",
-        "publishedAt": "2026-08-15T07:00:37.000Z",
-        "summary": "超特急やM!LKらが所属し、新グループも加わって全10グループ総勢68名となった、スターダストプ...",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000864597/",
+        "publishedAt": "2026-08-16T04:11:10.000Z",
+        "summary": "M!LKの公式Xが更新。『EBiDAN THE LIVE 2026 15th Anniversary』Day3のオフショットが公開され...",
         "groups": [
           "EBiDAN",
-          "超特急",
-          "M!LK",
-          "原因は自分にある。"
+          "M!LK"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "杢代和人",
-            "group": "原因は自分にある。",
+            "name": "塩﨑太智",
+            "group": "M!LK",
             "status": "active"
           }
         ]
+      },
+      {
+        "id": "8d40d5b75ed96611",
+        "title": "EBiDAN×HIGHLIGHTコラボ企画始動！特別に作成された「Yes! 東京」Remix音源にて一発撮りダンスパフォーマンスを披露",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000864608/",
+        "publishedAt": "2026-08-16T04:00:43.000Z",
+        "summary": "15周年を迎えたスターダストプロモーションに所属する男性アーティスト集団・EBiDANと『THE FI...",
+        "groups": [
+          "EBiDAN"
+        ],
+        "statuses": [],
+        "memberMatches": []
       },
       {
         "id": "03aad97b9a26b11f",
@@ -243,49 +146,124 @@
         ],
         "statuses": [],
         "memberMatches": []
-      },
-      {
-        "id": "abb0cde9a3991b12",
-        "title": "シングル「Yes! 東京」＆アルバム「Yes! 東京 (体験入学版)」、デジタルリリース決定！各種キャンペーンもスタート！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11544/",
-        "publishedAt": "2026-08-10T08:00:46.000Z",
-        "summary": "ついにCD発売を迎えるEBiDAN (恵比寿学園男子部)「Yes! 東京」が、デジタルシングルとしてもリリースが決定いたしました。リード曲「Yes! 東京」に加え、カップリングには昨年の『EBiDAN THE LIVE […] The post シングル「Yes! 東京」＆アルバム「Yes! 東京 (体験入学版)」、デジタルリリース決定！各種キャンペーンもス",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
       }
     ],
-    "超特急": [
+    "M!LK": [
       {
-        "id": "a28a721ba6c6c279",
-        "title": "EBiDAN「Yes! 東京」推しを見つけられる＜おのおののネーム ver.＞MV公開！「EBiDANを“最強の男たち”にしていきたい」（げんじぶ杢代和人）",
+        "id": "e8ca0657c77a5f73",
+        "title": "M!LK塩﨑太智が“雰囲気一変”！花をまとった黒衣装で大人の色気あふれる『エビライ』シャッフルユニット姿に「えぐかっこいい」「破壊力やばすぎ」「色気に釘付け」5人の仲良し制服ショットも公開",
         "sourceName": "THE FIRST TIMES",
         "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000864214/",
-        "publishedAt": "2026-08-15T07:00:37.000Z",
-        "summary": "超特急やM!LKらが所属し、新グループも加わって全10グループ総勢68名となった、スターダストプ...",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000864597/",
+        "publishedAt": "2026-08-16T04:11:10.000Z",
+        "summary": "M!LKの公式Xが更新。『EBiDAN THE LIVE 2026 15th Anniversary』Day3のオフショットが公開され...",
         "groups": [
           "EBiDAN",
-          "超特急",
-          "M!LK",
-          "原因は自分にある。"
+          "M!LK"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "杢代和人",
-            "group": "原因は自分にある。",
+            "name": "塩﨑太智",
+            "group": "M!LK",
             "status": "active"
           }
         ]
       },
+      {
+        "id": "849de427d445fa5f",
+        "title": "M!LK5人が北川景子を囲んで笑顔でピース！DAIGO扮する一之森大湖との顔寄せ集合ショットも「美男美女で眩しい」「すごい組み合わせ」「後輩してるM!LK見れて神すぎた」「景子さん顔ちっちゃ」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000864556/",
+        "publishedAt": "2026-08-16T02:33:29.000Z",
+        "summary": "北川景子とDAIGO扮する一之森大湖がそれぞれ自身のXを更新。8月15日に放送されたNHKの音楽特番...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "aef99fcfff099d38",
+        "title": "M!LK5人のクールビジュアル公開！佐野勇斗の黒髪オールバック、吉田仁人の前髪ありの明るめブラウンヘア、曽野舜太の金髪にも注目「なにこのイケメン集団」「なんとも言えない色気」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000864467/",
+        "publishedAt": "2026-08-15T10:27:29.000Z",
+        "summary": "インフォスクエアの公式Xが更新。M!LKが表紙を飾った『S Cawaii! ME 2025 SUMMER＜特別版＞』...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "332f9e22f238c9e9",
+        "title": "「楽屋で台本を開いていたら…」「それぞれが…」曽野舜太が明かしたM!LKメンバーのリアクション 俳優業にもさらなる意欲",
+        "sourceName": "マイナビニュース 映画",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
+        "articleUrl": "https://news.mynavi.jp/article/20260808-4792972/",
+        "publishedAt": "2026-08-08T11:00:00.000Z",
+        "summary": "ダンスボーカルグループ・M!LKの曽野舜太が7日、映画『仮面ライダーゼッツ さよならのミッション』(公開中)の公開御礼舞台挨拶に、今井竜太郎、上堀内佳寿也監督とともに登壇。同作出演を知ったときのM!LKメンバーのリアクションを明かした。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "be4d78e64780bd02",
+        "title": "M!LK曽野舜太が作品に加えた“艶” 多忙な中での撮影で見せた“熱さ”を監督が絶賛「もう1回やらせてください! と…」",
+        "sourceName": "マイナビニュース 映画",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
+        "articleUrl": "https://news.mynavi.jp/article/20260807-4789954/",
+        "publishedAt": "2026-08-07T14:45:00.000Z",
+        "summary": "ダンスボーカルグループ・M!LKの曽野舜太が7日、映画『仮面ライダーゼッツ さよならのミッション』(公開中)の公開御礼舞台挨拶に、今井竜太郎、上堀内佳寿也監督とともに登壇。監督から魅力を絶賛された。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "超特急": [
       {
         "id": "dce31689d53942e2",
         "title": "超特急『ESCORT』ツアーファイナルで見せた“感動を超えた場所”。15年の軌跡を乗せて、9人で東京ドームへ",
@@ -360,86 +338,25 @@
         ],
         "statuses": [],
         "memberMatches": []
-      }
-    ],
-    "原因は自分にある。": [
-      {
-        "id": "a28a721ba6c6c279",
-        "title": "EBiDAN「Yes! 東京」推しを見つけられる＜おのおののネーム ver.＞MV公開！「EBiDANを“最強の男たち”にしていきたい」（げんじぶ杢代和人）",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000864214/",
-        "publishedAt": "2026-08-15T07:00:37.000Z",
-        "summary": "超特急やM!LKらが所属し、新グループも加わって全10グループ総勢68名となった、スターダストプ...",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK",
-          "原因は自分にある。"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "杢代和人",
-            "group": "原因は自分にある。",
-            "status": "active"
-          }
-        ]
       },
       {
-        "id": "15fb9ee4d3775ce2",
-        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
+        "id": "63b99a8e04894f82",
+        "title": "伊東蒼が圧巻の表現力で“危うい”人物を演じ切る、奈緒主演映画『死ねばいいのに』本編映像解禁",
         "sourceName": "Bezzy",
         "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/07/89645/",
-        "publishedAt": "2026-07-24T12:00:00.000Z",
-        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
+        "articleUrl": "https://bezzy.jp/2026/06/87607/",
+        "publishedAt": "2026-06-11T03:00:00.000Z",
+        "summary": "7月3日(金)にテアトル新宿ほかで公開される奈緒主演映画『死ねばいいのに』より、伊東蒼演じる亜佐美にフォーカスした本編映像と場面写真が解禁された。 京極夏彦の同名小説を映画化した本作は、何者かによって殺された“亜佐美”を巡るミステリー。その“亜佐美”について尋ね歩く謎めいた人物・渡来映子を奈緒が演じ、従来のイメージを覆すアウトローな雰囲気で新境地を開拓する。",
         "groups": [
-          "原因は自分にある。",
-          "BUDDiiS"
+          "超特急"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "SHOOT",
-            "group": "BUDDiiS",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "3fb662210aaeb54f",
-        "title": "森愁斗主演『ウォーターガーディアンズ』本予告解禁、ライフセーバーの本格訓練シーンが初お披露目",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/06/87426/",
-        "publishedAt": "2026-06-05T22:00:00.000Z",
-        "summary": "森愁斗主演映画『ウォーターガーディアンズ』の公開日が8月21日(金)に決定し、本予告映像と主題歌、追加キャスト情報が一挙解禁された。 本作は、ライフセーバーを目指す若者たちの本気のひと夏を描いた青春サマームービー。思いがけずライフセーバーになるという目標を得た若者たちが友情を育み、恋と出会う姿を描く。キャストでは主人公・海翔役の森愁斗（BUDDiiS）、海翔",
-        "groups": [
-          "原因は自分にある。",
-          "BUDDiiS"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "SHOOT",
-            "group": "BUDDiiS",
+            "name": "タクヤ",
+            "group": "超特急",
             "status": "active"
           }
         ]
@@ -519,6 +436,64 @@
         ],
         "statuses": [],
         "memberMatches": []
+      }
+    ],
+    "原因は自分にある。": [
+      {
+        "id": "15fb9ee4d3775ce2",
+        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/07/89645/",
+        "publishedAt": "2026-07-24T12:00:00.000Z",
+        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
+        "groups": [
+          "原因は自分にある。",
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "3fb662210aaeb54f",
+        "title": "森愁斗主演『ウォーターガーディアンズ』本予告解禁、ライフセーバーの本格訓練シーンが初お披露目",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/06/87426/",
+        "publishedAt": "2026-06-05T22:00:00.000Z",
+        "summary": "森愁斗主演映画『ウォーターガーディアンズ』の公開日が8月21日(金)に決定し、本予告映像と主題歌、追加キャスト情報が一挙解禁された。 本作は、ライフセーバーを目指す若者たちの本気のひと夏を描いた青春サマームービー。思いがけずライフセーバーになるという目標を得た若者たちが友情を育み、恋と出会う姿を描く。キャストでは主人公・海翔役の森愁斗（BUDDiiS）、海翔",
+        "groups": [
+          "原因は自分にある。",
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
       }
     ],
     "BUDDiiS": [
