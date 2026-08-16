@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-08-16T13:00:01.762Z",
+  "updatedAt": "2026-08-16T18:46:26.885Z",
   "articles": [
+    {
+      "id": "09b60dc9ff38f8ae",
+      "title": "HAYATO (ONE N' ONLY) – Yes! 東京 [ONE N' ONLY HAYATO ver.] -HIGHLIGHT Remix- / HIGHLIGHT",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/highlight/0000865118/",
+      "publishedAt": "2026-08-16T13:00:26.000Z",
+      "summary": "「HIGHLIGHT」は、一発撮りで多様な才能の“個の輝き”を鮮明に切り取る新シリーズ。ONE N&#8217...",
+      "groups": [
+        "ONE N' ONLY"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "HAYATO",
+          "group": "ONE N' ONLY",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "b39f79db7a05b2c1",
       "title": "EBiDAN、15周年記念スペシャルムービー公開！各グループそれぞれの楽曲を軸に制作",
@@ -67,20 +89,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "8d40d5b75ed96611",
-      "title": "EBiDAN×HIGHLIGHTコラボ企画始動！特別に作成された「Yes! 東京」Remix音源にて一発撮りダンスパフォーマンスを披露",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000864608/",
-      "publishedAt": "2026-08-16T04:00:43.000Z",
-      "summary": "15周年を迎えたスターダストプロモーションに所属する男性アーティスト集団・EBiDANと『THE FI...",
-      "groups": [
-        "EBiDAN"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "dce31689d53942e2",

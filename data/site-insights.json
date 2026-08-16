@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-16T13:00:01.764Z",
+  "updatedAt": "2026-08-16T18:46:26.887Z",
   "totals": {
     "all": 129,
-    "today": 5,
+    "today": 0,
     "week": 10
   },
   "groupRanking": [
     {
       "name": "EBiDAN",
-      "count": 8
+      "count": 7
     },
     {
       "name": "M!LK",
@@ -21,9 +21,17 @@
     {
       "name": "超特急",
       "count": 2
+    },
+    {
+      "name": "ONE N' ONLY",
+      "count": 1
     }
   ],
   "memberRanking": [
+    {
+      "name": "HAYATO",
+      "count": 1
+    },
     {
       "name": "リョウガ",
       "count": 1
@@ -57,6 +65,30 @@
   ],
   "topics": [],
   "recentByGroup": {
+    "ONE N' ONLY": [
+      {
+        "id": "09b60dc9ff38f8ae",
+        "title": "HAYATO (ONE N' ONLY) – Yes! 東京 [ONE N' ONLY HAYATO ver.] -HIGHLIGHT Remix- / HIGHLIGHT",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/highlight/0000865118/",
+        "publishedAt": "2026-08-16T13:00:26.000Z",
+        "summary": "「HIGHLIGHT」は、一発撮りで多様な才能の“個の輝き”を鮮明に切り取る新シリーズ。ONE N&#8217...",
+        "groups": [
+          "ONE N' ONLY"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "HAYATO",
+            "group": "ONE N' ONLY",
+            "status": "active"
+          }
+        ]
+      }
+    ],
     "EBiDAN": [
       {
         "id": "b39f79db7a05b2c1",
@@ -112,20 +144,6 @@
         ]
       },
       {
-        "id": "8d40d5b75ed96611",
-        "title": "EBiDAN×HIGHLIGHTコラボ企画始動！特別に作成された「Yes! 東京」Remix音源にて一発撮りダンスパフォーマンスを披露",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000864608/",
-        "publishedAt": "2026-08-16T04:00:43.000Z",
-        "summary": "15周年を迎えたスターダストプロモーションに所属する男性アーティスト集団・EBiDANと『THE FI...",
-        "groups": [
-          "EBiDAN"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
         "id": "03aad97b9a26b11f",
         "title": "「J-POPシングル ウィークリーTOP30」発表。1位はEBiDAN（恵比寿学園男子部）『Yes! 東京』、予約1位はINI『ANTHEM』（2026年8月13日付）",
         "sourceName": "タワーレコード ニュース",
@@ -135,6 +153,21 @@
         "summary": "",
         "groups": [
           "EBiDAN"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "91a2a4d301121007",
+        "title": "【SUPERSTAR EBiDAN】 「EBiDAN THE LIVE 2026 15th Anniversary」開催記念！ゲーム内イベント実施",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11560/",
+        "publishedAt": "2026-08-12T08:00:18.000Z",
+        "summary": "EBiDAN公式リズムゲーム『SUPERSTAR EBiDAN』では、 「EBiDAN THE LIVE 2026 15th Anniversary」の開催を記念して、期間限定のゲーム内イベントを実施いたします！ ここで […] The post 【SUPERSTAR EBiDAN】 「EBiDAN THE LIVE 2026 15th Anniversar",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
         ],
         "statuses": [],
         "memberMatches": []
