@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-16T06:58:38.948Z",
+  "updatedAt": "2026-08-16T13:00:01.764Z",
   "totals": {
-    "all": 128,
-    "today": 3,
-    "week": 9
+    "all": 129,
+    "today": 5,
+    "week": 10
   },
   "groupRanking": [
     {
       "name": "EBiDAN",
-      "count": 6
+      "count": 8
     },
     {
       "name": "M!LK",
@@ -20,7 +20,7 @@
     },
     {
       "name": "超特急",
-      "count": 1
+      "count": 2
     }
   ],
   "memberRanking": [
@@ -30,18 +30,6 @@
     },
     {
       "name": "塩﨑太智",
-      "count": 1
-    },
-    {
-      "name": "吉田仁人",
-      "count": 1
-    },
-    {
-      "name": "佐野勇斗",
-      "count": 1
-    },
-    {
-      "name": "曽野舜太",
       "count": 1
     }
   ],
@@ -55,6 +43,10 @@
       "count": 3
     },
     {
+      "name": "BARKS",
+      "count": 1
+    },
+    {
       "name": "QJWeb",
       "count": 1
     },
@@ -66,6 +58,36 @@
   "topics": [],
   "recentByGroup": {
     "EBiDAN": [
+      {
+        "id": "b39f79db7a05b2c1",
+        "title": "EBiDAN、15周年記念スペシャルムービー公開！各グループそれぞれの楽曲を軸に制作",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000864753/",
+        "publishedAt": "2026-08-16T10:30:58.000Z",
+        "summary": "超特急やM!LKらが所属し、新グループも加わり全10グループ総勢68名となった、スターダストプロ...",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "9d54b6d2c78e0d65",
+        "title": "EBiDAN×HIGHLIGHTのコラボ企画始動。第一弾はHAYATO(ONE N’ ONLY)が「Yes! 東京」特別Remix音源で一発撮りダンスパフォーマンス",
+        "sourceName": "BARKS",
+        "sourceUrl": "https://www.barks.jp/feed/",
+        "articleUrl": "https://barks.jp/news/1083489",
+        "publishedAt": "2026-08-16T08:53:28.000Z",
+        "summary": "YouTubeチャンネル「THE FIRST TAKE」にて行なわれているスポットライト企画「HIGHLIGHT」と、スターダストプロモーションに所属する男性アーティスト集団・EBiDANとのコラボレーション企画が発表された。 「HIGHLIGHT」はダンス・楽器演奏など様々なジャンルにフォーカスを当て、「THE FIRST TAKE」本編では伝えきれていな",
+        "groups": [
+          "EBiDAN"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
       {
         "id": "e8ca0657c77a5f73",
         "title": "M!LK塩﨑太智が“雰囲気一変”！花をまとった黒衣装で大人の色気あふれる『エビライ』シャッフルユニット姿に「えぐかっこいい」「破壊力やばすぎ」「色気に釘付け」5人の仲良し制服ショットも公開",
@@ -116,154 +138,25 @@
         ],
         "statuses": [],
         "memberMatches": []
-      },
-      {
-        "id": "91a2a4d301121007",
-        "title": "【SUPERSTAR EBiDAN】 「EBiDAN THE LIVE 2026 15th Anniversary」開催記念！ゲーム内イベント実施",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11560/",
-        "publishedAt": "2026-08-12T08:00:18.000Z",
-        "summary": "EBiDAN公式リズムゲーム『SUPERSTAR EBiDAN』では、 「EBiDAN THE LIVE 2026 15th Anniversary」の開催を記念して、期間限定のゲーム内イベントを実施いたします！ ここで […] The post 【SUPERSTAR EBiDAN】 「EBiDAN THE LIVE 2026 15th Anniversar",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "1ad5810b4c9a0a8b",
-        "title": "本日8月11日(火・祝)発売、 EBiDAN15周年記念シングル「Yes! 東京」のを公開！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11555/",
-        "publishedAt": "2026-08-11T08:30:18.000Z",
-        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して、本日8月11日(火・祝)にリリースされたシングル「Yes! 東京」のMaking Lyric Videoを公開！ 本日公開された映像は、4日間に渡って撮影されたMu […] The post 本日8月11日(火・祝)発売、 EBiDAN15周年記念シングル「Yes! 東京」の を公開！ first ap",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "M!LK": [
-      {
-        "id": "e8ca0657c77a5f73",
-        "title": "M!LK塩﨑太智が“雰囲気一変”！花をまとった黒衣装で大人の色気あふれる『エビライ』シャッフルユニット姿に「えぐかっこいい」「破壊力やばすぎ」「色気に釘付け」5人の仲良し制服ショットも公開",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000864597/",
-        "publishedAt": "2026-08-16T04:11:10.000Z",
-        "summary": "M!LKの公式Xが更新。『EBiDAN THE LIVE 2026 15th Anniversary』Day3のオフショットが公開され...",
-        "groups": [
-          "EBiDAN",
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "849de427d445fa5f",
-        "title": "M!LK5人が北川景子を囲んで笑顔でピース！DAIGO扮する一之森大湖との顔寄せ集合ショットも「美男美女で眩しい」「すごい組み合わせ」「後輩してるM!LK見れて神すぎた」「景子さん顔ちっちゃ」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000864556/",
-        "publishedAt": "2026-08-16T02:33:29.000Z",
-        "summary": "北川景子とDAIGO扮する一之森大湖がそれぞれ自身のXを更新。8月15日に放送されたNHKの音楽特番...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "aef99fcfff099d38",
-        "title": "M!LK5人のクールビジュアル公開！佐野勇斗の黒髪オールバック、吉田仁人の前髪ありの明るめブラウンヘア、曽野舜太の金髪にも注目「なにこのイケメン集団」「なんとも言えない色気」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000864467/",
-        "publishedAt": "2026-08-15T10:27:29.000Z",
-        "summary": "インフォスクエアの公式Xが更新。M!LKが表紙を飾った『S Cawaii! ME 2025 SUMMER＜特別版＞』...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "332f9e22f238c9e9",
-        "title": "「楽屋で台本を開いていたら…」「それぞれが…」曽野舜太が明かしたM!LKメンバーのリアクション 俳優業にもさらなる意欲",
-        "sourceName": "マイナビニュース 映画",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
-        "articleUrl": "https://news.mynavi.jp/article/20260808-4792972/",
-        "publishedAt": "2026-08-08T11:00:00.000Z",
-        "summary": "ダンスボーカルグループ・M!LKの曽野舜太が7日、映画『仮面ライダーゼッツ さよならのミッション』(公開中)の公開御礼舞台挨拶に、今井竜太郎、上堀内佳寿也監督とともに登壇。同作出演を知ったときのM!LKメンバーのリアクションを明かした。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "be4d78e64780bd02",
-        "title": "M!LK曽野舜太が作品に加えた“艶” 多忙な中での撮影で見せた“熱さ”を監督が絶賛「もう1回やらせてください! と…」",
-        "sourceName": "マイナビニュース 映画",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
-        "articleUrl": "https://news.mynavi.jp/article/20260807-4789954/",
-        "publishedAt": "2026-08-07T14:45:00.000Z",
-        "summary": "ダンスボーカルグループ・M!LKの曽野舜太が7日、映画『仮面ライダーゼッツ さよならのミッション』(公開中)の公開御礼舞台挨拶に、今井竜太郎、上堀内佳寿也監督とともに登壇。監督から魅力を絶賛された。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
       }
     ],
     "超特急": [
+      {
+        "id": "b39f79db7a05b2c1",
+        "title": "EBiDAN、15周年記念スペシャルムービー公開！各グループそれぞれの楽曲を軸に制作",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000864753/",
+        "publishedAt": "2026-08-16T10:30:58.000Z",
+        "summary": "超特急やM!LKらが所属し、新グループも加わり全10グループ総勢68名となった、スターダストプロ...",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
       {
         "id": "dce31689d53942e2",
         "title": "超特急『ESCORT』ツアーファイナルで見せた“感動を超えた場所”。15年の軌跡を乗せて、9人で東京ドームへ",
@@ -338,25 +231,102 @@
         ],
         "statuses": [],
         "memberMatches": []
+      }
+    ],
+    "M!LK": [
+      {
+        "id": "b39f79db7a05b2c1",
+        "title": "EBiDAN、15周年記念スペシャルムービー公開！各グループそれぞれの楽曲を軸に制作",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000864753/",
+        "publishedAt": "2026-08-16T10:30:58.000Z",
+        "summary": "超特急やM!LKらが所属し、新グループも加わり全10グループ総勢68名となった、スターダストプロ...",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
       },
       {
-        "id": "63b99a8e04894f82",
-        "title": "伊東蒼が圧巻の表現力で“危うい”人物を演じ切る、奈緒主演映画『死ねばいいのに』本編映像解禁",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/06/87607/",
-        "publishedAt": "2026-06-11T03:00:00.000Z",
-        "summary": "7月3日(金)にテアトル新宿ほかで公開される奈緒主演映画『死ねばいいのに』より、伊東蒼演じる亜佐美にフォーカスした本編映像と場面写真が解禁された。 京極夏彦の同名小説を映画化した本作は、何者かによって殺された“亜佐美”を巡るミステリー。その“亜佐美”について尋ね歩く謎めいた人物・渡来映子を奈緒が演じ、従来のイメージを覆すアウトローな雰囲気で新境地を開拓する。",
+        "id": "e917984de4f36f64",
+        "title": "M!LK『うたであえたら』オフショット＆ステージショット一挙公開！ド派手衣装やグレー制服で5人ぎゅっと集合「やわしゅんネクタイ交換しててかわいい」「前髪あり柔ちゃんが神すぎる」「だいちゃん髪染めた？」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000864884/",
+        "publishedAt": "2026-08-16T09:39:48.000Z",
+        "summary": "M!LKの公式Xが更新。8月15日に放送されたNHKの音楽特番『NHK夏の音楽祭 うたであえたら 2026』...",
         "groups": [
-          "超特急"
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "e8ca0657c77a5f73",
+        "title": "M!LK塩﨑太智が“雰囲気一変”！花をまとった黒衣装で大人の色気あふれる『エビライ』シャッフルユニット姿に「えぐかっこいい」「破壊力やばすぎ」「色気に釘付け」5人の仲良し制服ショットも公開",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000864597/",
+        "publishedAt": "2026-08-16T04:11:10.000Z",
+        "summary": "M!LKの公式Xが更新。『EBiDAN THE LIVE 2026 15th Anniversary』Day3のオフショットが公開され...",
+        "groups": [
+          "EBiDAN",
+          "M!LK"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "タクヤ",
-            "group": "超特急",
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "332f9e22f238c9e9",
+        "title": "「楽屋で台本を開いていたら…」「それぞれが…」曽野舜太が明かしたM!LKメンバーのリアクション 俳優業にもさらなる意欲",
+        "sourceName": "マイナビニュース 映画",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
+        "articleUrl": "https://news.mynavi.jp/article/20260808-4792972/",
+        "publishedAt": "2026-08-08T11:00:00.000Z",
+        "summary": "ダンスボーカルグループ・M!LKの曽野舜太が7日、映画『仮面ライダーゼッツ さよならのミッション』(公開中)の公開御礼舞台挨拶に、今井竜太郎、上堀内佳寿也監督とともに登壇。同作出演を知ったときのM!LKメンバーのリアクションを明かした。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "be4d78e64780bd02",
+        "title": "M!LK曽野舜太が作品に加えた“艶” 多忙な中での撮影で見せた“熱さ”を監督が絶賛「もう1回やらせてください! と…」",
+        "sourceName": "マイナビニュース 映画",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
+        "articleUrl": "https://news.mynavi.jp/article/20260807-4789954/",
+        "publishedAt": "2026-08-07T14:45:00.000Z",
+        "summary": "ダンスボーカルグループ・M!LKの曽野舜太が7日、映画『仮面ライダーゼッツ さよならのミッション』(公開中)の公開御礼舞台挨拶に、今井竜太郎、上堀内佳寿也監督とともに登壇。監督から魅力を絶賛された。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
             "status": "active"
           }
         ]

@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-08-16T06:58:38.946Z",
+  "updatedAt": "2026-08-16T13:00:01.762Z",
   "articles": [
+    {
+      "id": "b39f79db7a05b2c1",
+      "title": "EBiDAN、15周年記念スペシャルムービー公開！各グループそれぞれの楽曲を軸に制作",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000864753/",
+      "publishedAt": "2026-08-16T10:30:58.000Z",
+      "summary": "超特急やM!LKらが所属し、新グループも加わり全10グループ総勢68名となった、スターダストプロ...",
+      "groups": [
+        "EBiDAN",
+        "超特急",
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "e917984de4f36f64",
+      "title": "M!LK『うたであえたら』オフショット＆ステージショット一挙公開！ド派手衣装やグレー制服で5人ぎゅっと集合「やわしゅんネクタイ交換しててかわいい」「前髪あり柔ちゃんが神すぎる」「だいちゃん髪染めた？」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000864884/",
+      "publishedAt": "2026-08-16T09:39:48.000Z",
+      "summary": "M!LKの公式Xが更新。8月15日に放送されたNHKの音楽特番『NHK夏の音楽祭 うたであえたら 2026』...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "9d54b6d2c78e0d65",
+      "title": "EBiDAN×HIGHLIGHTのコラボ企画始動。第一弾はHAYATO(ONE N’ ONLY)が「Yes! 東京」特別Remix音源で一発撮りダンスパフォーマンス",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1083489",
+      "publishedAt": "2026-08-16T08:53:28.000Z",
+      "summary": "YouTubeチャンネル「THE FIRST TAKE」にて行なわれているスポットライト企画「HIGHLIGHT」と、スターダストプロモーションに所属する男性アーティスト集団・EBiDANとのコラボレーション企画が発表された。 「HIGHLIGHT」はダンス・楽器演奏など様々なジャンルにフォーカスを当て、「THE FIRST TAKE」本編では伝えきれていな",
+      "groups": [
+        "EBiDAN"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "e8ca0657c77a5f73",
       "title": "M!LK塩﨑太智が“雰囲気一変”！花をまとった黒衣装で大人の色気あふれる『エビライ』シャッフルユニット姿に「えぐかっこいい」「破壊力やばすぎ」「色気に釘付け」5人の仲良し制服ショットも公開",
@@ -37,52 +81,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "849de427d445fa5f",
-      "title": "M!LK5人が北川景子を囲んで笑顔でピース！DAIGO扮する一之森大湖との顔寄せ集合ショットも「美男美女で眩しい」「すごい組み合わせ」「後輩してるM!LK見れて神すぎた」「景子さん顔ちっちゃ」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000864556/",
-      "publishedAt": "2026-08-16T02:33:29.000Z",
-      "summary": "北川景子とDAIGO扮する一之森大湖がそれぞれ自身のXを更新。8月15日に放送されたNHKの音楽特番...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "aef99fcfff099d38",
-      "title": "M!LK5人のクールビジュアル公開！佐野勇斗の黒髪オールバック、吉田仁人の前髪ありの明るめブラウンヘア、曽野舜太の金髪にも注目「なにこのイケメン集団」「なんとも言えない色気」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000864467/",
-      "publishedAt": "2026-08-15T10:27:29.000Z",
-      "summary": "インフォスクエアの公式Xが更新。M!LKが表紙を飾った『S Cawaii! ME 2025 SUMMER＜特別版＞』...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "曽野舜太",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "dce31689d53942e2",
