@@ -1,14 +1,128 @@
 {
-  "updatedAt": "2026-08-17T01:54:44.719Z",
+  "updatedAt": "2026-08-17T07:15:40.738Z",
   "articles": [
     {
-      "id": "09b60dc9ff38f8ae",
-      "title": "HAYATO (ONE N' ONLY) – Yes! 東京 [ONE N' ONLY HAYATO ver.] -HIGHLIGHT Remix- / HIGHLIGHT",
+      "id": "8354af6cf141cd90",
+      "title": "M!LK『エビライ』オフショット4Daysまとめ！赤白ハート柄ラブリー衣装や麗しの立体花衣装などユニット曲も盛りだくさん",
       "sourceName": "THE FIRST TIMES",
       "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/highlight/0000865118/",
-      "publishedAt": "2026-08-16T13:00:26.000Z",
-      "summary": "「HIGHLIGHT」は、一発撮りで多様な才能の“個の輝き”を鮮明に切り取る新シリーズ。ONE N&#8217...",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000865600/",
+      "publishedAt": "2026-08-17T06:33:49.000Z",
+      "summary": "M!LK公式SNSにて、『EBiDAN THE LIVE 2026 15th Anniversary』（通称：エビライ）のオフショッ...",
+      "groups": [
+        "EBiDAN",
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "fa3b9a729dad63d4",
+      "title": "【ライブレポート】EBiDAN15周年を祝う『EBiDAN THE LIVE』が大盛況で幕！最終日には卒業生のDISH//が出演するサプライズも！「大きくなったね、EBiDAN」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/report/0000865459/",
+      "publishedAt": "2026-08-17T06:05:14.000Z",
+      "summary": "EBiDANが、年に一度の夢の祭典『EBiDAN THE LIVE 2026 15th Anniversary』を8月13日・14日・15...",
+      "groups": [
+        "EBiDAN"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "4b17c6af827d4662",
+      "title": "M!LK佐野勇斗、ドクターシーラボ(R)新WEBCMで美しい表情を披露！「生まれたての肌を一緒に目指していきましょう！」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000865448/",
+      "publishedAt": "2026-08-17T05:10:17.000Z",
+      "summary": "M!LKの佐野勇斗が出演する、ドクターシーラボ(R)の新WEBCM『角質クリア美容液 クリニピールエ...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "8ab4ff5729972f98",
+      "title": "山中柔太朗（M!LK）、「CM NOW BOYS VOL.17」表紙／巻頭に登場",
+      "sourceName": "タワーレコード ニュース",
+      "sourceUrl": "https://tower.jp/feeds/article/news",
+      "articleUrl": "https://tower.jp/article/news/2026/08/17/tgb004",
+      "publishedAt": "2026-08-17T04:45:00.000Z",
+      "summary": "",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "a741efac71146273",
+      "title": "M!LK山中柔太朗＆曽野舜太の“双子ルック”に「まじ双子じゃん」「イケメンすぎる」と反響！懐かしのバトボ衣装を纏う“やわしゅん”2ショットも公開",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000865308/",
+      "publishedAt": "2026-08-17T03:45:40.000Z",
+      "summary": "M!LKの曽野舜太が自身のInstagramを更新。山中柔太朗との2ショットを公開し、ファンの注目を集...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "曽野舜太",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "f85376311ade649f",
+      "title": "EBiDAN（恵比寿学園男子部）が登場。「日経エンタテインメント！2026年9月号」特装版の緊急重版決定",
+      "sourceName": "タワーレコード ニュース",
+      "sourceUrl": "https://tower.jp/feeds/article/news",
+      "articleUrl": "https://tower.jp/article/news/2026/08/17/tgb001",
+      "publishedAt": "2026-08-17T03:30:00.000Z",
+      "summary": "",
+      "groups": [
+        "EBiDAN"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "43ae5e52a81fffdc",
+      "title": "【独占写真有】ONE N' ONLY・HAYATO 「エンタメの中心になっていきたいという強い想いを込めて」\"見ている人と楽しむこと\"を体現した『HIGHLIGHT』",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/column/0000864691/",
+      "publishedAt": "2026-08-17T03:00:05.000Z",
+      "summary": "『THE FIRST TAKE』から派生したコンテンツ『HIGHLIGHT』。今回登場したのはONE N’ ONLY...",
       "groups": [
         "ONE N' ONLY"
       ],
@@ -22,50 +136,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "b39f79db7a05b2c1",
-      "title": "EBiDAN、15周年記念スペシャルムービー公開！各グループそれぞれの楽曲を軸に制作",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000864753/",
-      "publishedAt": "2026-08-16T10:30:58.000Z",
-      "summary": "超特急やM!LKらが所属し、新グループも加わり全10グループ総勢68名となった、スターダストプロ...",
-      "groups": [
-        "EBiDAN",
-        "超特急",
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "e917984de4f36f64",
-      "title": "M!LK『うたであえたら』オフショット＆ステージショット一挙公開！ド派手衣装やグレー制服で5人ぎゅっと集合「やわしゅんネクタイ交換しててかわいい」「前髪あり柔ちゃんが神すぎる」「だいちゃん髪染めた？」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000864884/",
-      "publishedAt": "2026-08-16T09:39:48.000Z",
-      "summary": "M!LKの公式Xが更新。8月15日に放送されたNHKの音楽特番『NHK夏の音楽祭 うたであえたら 2026』...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "9d54b6d2c78e0d65",
-      "title": "EBiDAN×HIGHLIGHTのコラボ企画始動。第一弾はHAYATO(ONE N’ ONLY)が「Yes! 東京」特別Remix音源で一発撮りダンスパフォーマンス",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1083489",
-      "publishedAt": "2026-08-16T08:53:28.000Z",
-      "summary": "YouTubeチャンネル「THE FIRST TAKE」にて行なわれているスポットライト企画「HIGHLIGHT」と、スターダストプロモーションに所属する男性アーティスト集団・EBiDANとのコラボレーション企画が発表された。 「HIGHLIGHT」はダンス・楽器演奏など様々なジャンルにフォーカスを当て、「THE FIRST TAKE」本編では伝えきれていな",
-      "groups": [
-        "EBiDAN"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "dce31689d53942e2",
