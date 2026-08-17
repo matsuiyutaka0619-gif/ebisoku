@@ -1,6 +1,162 @@
 {
-  "updatedAt": "2026-08-17T07:15:40.738Z",
+  "updatedAt": "2026-08-17T13:05:03.672Z",
   "articles": [
+    {
+      "id": "3525e4140612f43e",
+      "title": "藤原大祐、初のドラマ主題歌に新曲「BA♡BI♡DA♡BI♡」を書き下ろし",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1083675",
+      "publishedAt": "2026-08-17T11:00:37.000Z",
+      "summary": "藤原大祐が、新曲「BA♡BI♡DA♡BI♡」を9月2日(水)に配信リリースすることが決定した。 本楽曲は、2026年9月1日（火）よりMBS/TBSドラマイズム枠で放送される『恋をするなら二度目が上等 season2』のエンディング主題歌として、藤原が作品のために書き下ろした楽曲。藤原にとって初のドラマ主題歌となる。 藤原大祐は、作詞・作曲・アレンジからジャ",
+      "groups": [
+        "超特急",
+        "ICEx"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "アロハ",
+          "group": "超特急",
+          "status": "active"
+        },
+        {
+          "name": "阿久根温世",
+          "group": "ICEx",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "4dc861ad46fe5a0c",
+      "title": "EBiDAN、15周年記念シングル「Yes! 東京」メンバー60人の名前入りMV公開！初日116万枚突破の話題曲",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/music2/662201.html",
+      "publishedAt": "2026-08-17T11:00:03.000Z",
+      "summary": "超特急やM!LKらが所属する男性アーティスト集団・EBiDANが、15周年記念シングル「Yes! 東京」のMUSIC VIDEO「おのおののネーム ver.」を8月15日に公開した。「おのおののネーム ver.」は、7月に公開された「Yes! 東京」のMUSIC VID ... The post EBiDAN、15周年記念シングル「Yes! 東京」メンバー6",
+      "groups": [
+        "EBiDAN",
+        "超特急",
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "405f567120939483",
+      "title": "M!LKシルバーツイード衣装で「Kiss Plan」でムーディダンス披露！「吉田さんのリムレスメガネ大好物」「太智くん前髪ありだ」「柔ちゃんエアギターかわいい」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000865937/",
+      "publishedAt": "2026-08-17T10:52:11.000Z",
+      "summary": "M!LKが「Kiss Plan」を踊る動画が、グループ公式SNSに公開された。 ■「エビライ4日間ありがと...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "519b105e498ff549",
+      "title": "「泣けてきた」「誠実な人すぎて…」M!LK曽野舜太がメンバーに“謝罪”…山中柔太朗の対応にファンから感動の声が上がった理由とは",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260817-4829710/",
+      "publishedAt": "2026-08-17T10:00:00.000Z",
+      "summary": "「ずっと放置してる」「お金も払ってない」アイドルグループ・M!LKの曽野舜太が、メンバーに“謝りたいこと”を告白した――。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "曽野舜太",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "6886e1ee6f2dac12",
+      "title": "M!LK5人との舞台裏ショットを『エビライ』出演者が続々公開！超特急ユーキを囲んだ自撮り＆ONE N’ ONLY草川直弥と佐野勇斗の肩組みなど仲良しショットずらり",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000865900/",
+      "publishedAt": "2026-08-17T09:57:30.000Z",
+      "summary": "『EBiDAN THE LIVE 2026 15th Anniversary』に出演したEBiDANメンバーが、それぞれ自身のSNSを...",
+      "groups": [
+        "EBiDAN",
+        "超特急",
+        "M!LK",
+        "ONE N' ONLY"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "ユーキ",
+          "group": "超特急",
+          "status": "active"
+        },
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "NAOYA",
+          "group": "ONE N' ONLY",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "9ca143c897e4006b",
+      "title": "M!LKド派手でトロピカルなメンカラ柄×ファー衣装で「ば・く・れ・つ」にのせて大喜利！「わちゃわちゃかわいい」「山中さんの発想さすが」「大笑いする塩さんにつられ笑い」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000865641/",
+      "publishedAt": "2026-08-17T09:55:33.000Z",
+      "summary": "M!LK公式SNSにて、メンバーが「爆裂愛してる」の“ば・く・れ・つ”にのせて大喜利する4文字大喜...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "c825434e40f21c78",
+      "title": "M!LK・山中柔太朗『CM NOW BOYS VOL.17』表紙に登場！出演CMの裏話や俳優・アーティストとしての現在地について語る",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000865699/",
+      "publishedAt": "2026-08-17T07:40:05.000Z",
+      "summary": "山中柔太朗（M!LK）が、8月17日に発売される『CM NOW BOYS VOL.17』の表紙・巻頭22ページに登...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "8354af6cf141cd90",
       "title": "M!LK『エビライ』オフショット4Daysまとめ！赤白ハート柄ラブリー衣装や麗しの立体花衣装などユニット曲も盛りだくさん",
@@ -31,28 +187,6 @@
       "memberMatches": []
     },
     {
-      "id": "4b17c6af827d4662",
-      "title": "M!LK佐野勇斗、ドクターシーラボ(R)新WEBCMで美しい表情を披露！「生まれたての肌を一緒に目指していきましょう！」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000865448/",
-      "publishedAt": "2026-08-17T05:10:17.000Z",
-      "summary": "M!LKの佐野勇斗が出演する、ドクターシーラボ(R)の新WEBCM『角質クリア美容液 クリニピールエ...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "8ab4ff5729972f98",
       "title": "山中柔太朗（M!LK）、「CM NOW BOYS VOL.17」表紙／巻頭に登場",
       "sourceName": "タワーレコード ニュース",
@@ -75,33 +209,6 @@
       ]
     },
     {
-      "id": "a741efac71146273",
-      "title": "M!LK山中柔太朗＆曽野舜太の“双子ルック”に「まじ双子じゃん」「イケメンすぎる」と反響！懐かしのバトボ衣装を纏う“やわしゅん”2ショットも公開",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000865308/",
-      "publishedAt": "2026-08-17T03:45:40.000Z",
-      "summary": "M!LKの曽野舜太が自身のInstagramを更新。山中柔太朗との2ショットを公開し、ファンの注目を集...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "曽野舜太",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "山中柔太朗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "f85376311ade649f",
       "title": "EBiDAN（恵比寿学園男子部）が登場。「日経エンタテインメント！2026年9月号」特装版の緊急重版決定",
       "sourceName": "タワーレコード ニュース",
@@ -114,28 +221,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "43ae5e52a81fffdc",
-      "title": "【独占写真有】ONE N' ONLY・HAYATO 「エンタメの中心になっていきたいという強い想いを込めて」\"見ている人と楽しむこと\"を体現した『HIGHLIGHT』",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/column/0000864691/",
-      "publishedAt": "2026-08-17T03:00:05.000Z",
-      "summary": "『THE FIRST TAKE』から派生したコンテンツ『HIGHLIGHT』。今回登場したのはONE N’ ONLY...",
-      "groups": [
-        "ONE N' ONLY"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "HAYATO",
-          "group": "ONE N' ONLY",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "dce31689d53942e2",

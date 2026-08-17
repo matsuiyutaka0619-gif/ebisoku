@@ -1,43 +1,59 @@
 {
-  "updatedAt": "2026-08-17T07:15:40.741Z",
+  "updatedAt": "2026-08-17T13:05:03.675Z",
   "totals": {
-    "all": 131,
-    "today": 7,
-    "week": 12
+    "all": 135,
+    "today": 11,
+    "week": 15
   },
   "groupRanking": [
     {
       "name": "EBiDAN",
-      "count": 7
+      "count": 8
     },
     {
       "name": "M!LK",
+      "count": 8
+    },
+    {
+      "name": "超特急",
       "count": 4
     },
     {
       "name": "SUPER★DRAGON",
-      "count": 3
+      "count": 2
     },
     {
-      "name": "ONE N' ONLY",
+      "name": "ICEx",
       "count": 1
     },
     {
-      "name": "超特急",
+      "name": "ONE N' ONLY",
       "count": 1
     }
   ],
   "memberRanking": [
     {
       "name": "山中柔太朗",
-      "count": 2
+      "count": 3
     },
     {
-      "name": "HAYATO",
+      "name": "NAOYA",
+      "count": 1
+    },
+    {
+      "name": "アロハ",
+      "count": 1
+    },
+    {
+      "name": "ユーキ",
       "count": 1
     },
     {
       "name": "リョウガ",
+      "count": 1
+    },
+    {
+      "name": "阿久根温世",
       "count": 1
     },
     {
@@ -52,217 +68,92 @@
   "sourceRanking": [
     {
       "name": "THE FIRST TIMES",
-      "count": 5
-    },
-    {
-      "name": "SUPER★DRAGON 公式NEWS",
-      "count": 3
+      "count": 6
     },
     {
       "name": "タワーレコード ニュース",
       "count": 3
     },
     {
+      "name": "SUPER★DRAGON 公式NEWS",
+      "count": 2
+    },
+    {
+      "name": "BARKS",
+      "count": 1
+    },
+    {
       "name": "QJWeb",
+      "count": 1
+    },
+    {
+      "name": "WWSチャンネル",
+      "count": 1
+    },
+    {
+      "name": "マイナビニュース エンタメ",
       "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
-    "EBiDAN": [
+    "超特急": [
       {
-        "id": "8354af6cf141cd90",
-        "title": "M!LK『エビライ』オフショット4Daysまとめ！赤白ハート柄ラブリー衣装や麗しの立体花衣装などユニット曲も盛りだくさん",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000865600/",
-        "publishedAt": "2026-08-17T06:33:49.000Z",
-        "summary": "M!LK公式SNSにて、『EBiDAN THE LIVE 2026 15th Anniversary』（通称：エビライ）のオフショッ...",
+        "id": "3525e4140612f43e",
+        "title": "藤原大祐、初のドラマ主題歌に新曲「BA♡BI♡DA♡BI♡」を書き下ろし",
+        "sourceName": "BARKS",
+        "sourceUrl": "https://www.barks.jp/feed/",
+        "articleUrl": "https://barks.jp/news/1083675",
+        "publishedAt": "2026-08-17T11:00:37.000Z",
+        "summary": "藤原大祐が、新曲「BA♡BI♡DA♡BI♡」を9月2日(水)に配信リリースすることが決定した。 本楽曲は、2026年9月1日（火）よりMBS/TBSドラマイズム枠で放送される『恋をするなら二度目が上等 season2』のエンディング主題歌として、藤原が作品のために書き下ろした楽曲。藤原にとって初のドラマ主題歌となる。 藤原大祐は、作詞・作曲・アレンジからジャ",
         "groups": [
-          "EBiDAN",
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "fa3b9a729dad63d4",
-        "title": "【ライブレポート】EBiDAN15周年を祝う『EBiDAN THE LIVE』が大盛況で幕！最終日には卒業生のDISH//が出演するサプライズも！「大きくなったね、EBiDAN」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/report/0000865459/",
-        "publishedAt": "2026-08-17T06:05:14.000Z",
-        "summary": "EBiDANが、年に一度の夢の祭典『EBiDAN THE LIVE 2026 15th Anniversary』を8月13日・14日・15...",
-        "groups": [
-          "EBiDAN"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "f85376311ade649f",
-        "title": "EBiDAN（恵比寿学園男子部）が登場。「日経エンタテインメント！2026年9月号」特装版の緊急重版決定",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/08/17/tgb001",
-        "publishedAt": "2026-08-17T03:30:00.000Z",
-        "summary": "",
-        "groups": [
-          "EBiDAN"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "03aad97b9a26b11f",
-        "title": "「J-POPシングル ウィークリーTOP30」発表。1位はEBiDAN（恵比寿学園男子部）『Yes! 東京』、予約1位はINI『ANTHEM』（2026年8月13日付）",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/08/13/tg006",
-        "publishedAt": "2026-08-13T10:00:00.000Z",
-        "summary": "",
-        "groups": [
-          "EBiDAN"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "91a2a4d301121007",
-        "title": "【SUPERSTAR EBiDAN】 「EBiDAN THE LIVE 2026 15th Anniversary」開催記念！ゲーム内イベント実施",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11560/",
-        "publishedAt": "2026-08-12T08:00:18.000Z",
-        "summary": "EBiDAN公式リズムゲーム『SUPERSTAR EBiDAN』では、 「EBiDAN THE LIVE 2026 15th Anniversary」の開催を記念して、期間限定のゲーム内イベントを実施いたします！ ここで […] The post 【SUPERSTAR EBiDAN】 「EBiDAN THE LIVE 2026 15th Anniversar",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "M!LK": [
-      {
-        "id": "8354af6cf141cd90",
-        "title": "M!LK『エビライ』オフショット4Daysまとめ！赤白ハート柄ラブリー衣装や麗しの立体花衣装などユニット曲も盛りだくさん",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000865600/",
-        "publishedAt": "2026-08-17T06:33:49.000Z",
-        "summary": "M!LK公式SNSにて、『EBiDAN THE LIVE 2026 15th Anniversary』（通称：エビライ）のオフショッ...",
-        "groups": [
-          "EBiDAN",
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "4b17c6af827d4662",
-        "title": "M!LK佐野勇斗、ドクターシーラボ(R)新WEBCMで美しい表情を披露！「生まれたての肌を一緒に目指していきましょう！」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000865448/",
-        "publishedAt": "2026-08-17T05:10:17.000Z",
-        "summary": "M!LKの佐野勇斗が出演する、ドクターシーラボ(R)の新WEBCM『角質クリア美容液 クリニピールエ...",
-        "groups": [
-          "M!LK"
+          "超特急",
+          "ICEx"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "8ab4ff5729972f98",
-        "title": "山中柔太朗（M!LK）、「CM NOW BOYS VOL.17」表紙／巻頭に登場",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/08/17/tgb004",
-        "publishedAt": "2026-08-17T04:45:00.000Z",
-        "summary": "",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "a741efac71146273",
-        "title": "M!LK山中柔太朗＆曽野舜太の“双子ルック”に「まじ双子じゃん」「イケメンすぎる」と反響！懐かしのバトボ衣装を纏う“やわしゅん”2ショットも公開",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000865308/",
-        "publishedAt": "2026-08-17T03:45:40.000Z",
-        "summary": "M!LKの曽野舜太が自身のInstagramを更新。山中柔太朗との2ショットを公開し、ファンの注目を集...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "曽野舜太",
-            "group": "M!LK",
+            "name": "アロハ",
+            "group": "超特急",
             "status": "active"
           },
           {
-            "name": "山中柔太朗",
-            "group": "M!LK",
+            "name": "阿久根温世",
+            "group": "ICEx",
             "status": "active"
           }
         ]
       },
       {
-        "id": "332f9e22f238c9e9",
-        "title": "「楽屋で台本を開いていたら…」「それぞれが…」曽野舜太が明かしたM!LKメンバーのリアクション 俳優業にもさらなる意欲",
-        "sourceName": "マイナビニュース 映画",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
-        "articleUrl": "https://news.mynavi.jp/article/20260808-4792972/",
-        "publishedAt": "2026-08-08T11:00:00.000Z",
-        "summary": "ダンスボーカルグループ・M!LKの曽野舜太が7日、映画『仮面ライダーゼッツ さよならのミッション』(公開中)の公開御礼舞台挨拶に、今井竜太郎、上堀内佳寿也監督とともに登壇。同作出演を知ったときのM!LKメンバーのリアクションを明かした。",
+        "id": "4dc861ad46fe5a0c",
+        "title": "EBiDAN、15周年記念シングル「Yes! 東京」メンバー60人の名前入りMV公開！初日116万枚突破の話題曲",
+        "sourceName": "WWSチャンネル",
+        "sourceUrl": "https://www.wws-channel.com/feed",
+        "articleUrl": "https://www.wws-channel.com/music2/662201.html",
+        "publishedAt": "2026-08-17T11:00:03.000Z",
+        "summary": "超特急やM!LKらが所属する男性アーティスト集団・EBiDANが、15周年記念シングル「Yes! 東京」のMUSIC VIDEO「おのおののネーム ver.」を8月15日に公開した。「おのおののネーム ver.」は、7月に公開された「Yes! 東京」のMUSIC VID ... The post EBiDAN、15周年記念シングル「Yes! 東京」メンバー6",
         "groups": [
+          "EBiDAN",
+          "超特急",
           "M!LK"
         ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      }
-    ],
-    "ONE N' ONLY": [
+        "statuses": [],
+        "memberMatches": []
+      },
       {
-        "id": "43ae5e52a81fffdc",
-        "title": "【独占写真有】ONE N' ONLY・HAYATO 「エンタメの中心になっていきたいという強い想いを込めて」\"見ている人と楽しむこと\"を体現した『HIGHLIGHT』",
+        "id": "6886e1ee6f2dac12",
+        "title": "M!LK5人との舞台裏ショットを『エビライ』出演者が続々公開！超特急ユーキを囲んだ自撮り＆ONE N’ ONLY草川直弥と佐野勇斗の肩組みなど仲良しショットずらり",
         "sourceName": "THE FIRST TIMES",
         "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/column/0000864691/",
-        "publishedAt": "2026-08-17T03:00:05.000Z",
-        "summary": "『THE FIRST TAKE』から派生したコンテンツ『HIGHLIGHT』。今回登場したのはONE N’ ONLY...",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000865900/",
+        "publishedAt": "2026-08-17T09:57:30.000Z",
+        "summary": "『EBiDAN THE LIVE 2026 15th Anniversary』に出演したEBiDANメンバーが、それぞれ自身のSNSを...",
         "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK",
           "ONE N' ONLY"
         ],
         "statuses": [
@@ -270,14 +161,22 @@
         ],
         "memberMatches": [
           {
-            "name": "HAYATO",
+            "name": "ユーキ",
+            "group": "超特急",
+            "status": "active"
+          },
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "NAOYA",
             "group": "ONE N' ONLY",
             "status": "active"
           }
         ]
-      }
-    ],
-    "超特急": [
+      },
       {
         "id": "dce31689d53942e2",
         "title": "超特急『ESCORT』ツアーファイナルで見せた“感動を超えた場所”。15年の軌跡を乗せて、9人で東京ドームへ",
@@ -321,56 +220,274 @@
             "status": "active"
           }
         ]
-      },
+      }
+    ],
+    "ICEx": [
       {
-        "id": "382225983e9781d4",
-        "title": "8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 7月2日からの先行配信リリースに合わせて デジタルキャンペーンが追加決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11354/",
-        "publishedAt": "2026-07-01T06:00:22.000Z",
-        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して8月11日(火・祝)にリリースされる「Yes! 東京」が、いよいよ7月2日（木）より先行配信リリースとなります。超特急、M!LK、SUPER★DRAGON、Sakur […] The post 8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 7月2日からの先行配信リリースに合わせて デ",
+        "id": "3525e4140612f43e",
+        "title": "藤原大祐、初のドラマ主題歌に新曲「BA♡BI♡DA♡BI♡」を書き下ろし",
+        "sourceName": "BARKS",
+        "sourceUrl": "https://www.barks.jp/feed/",
+        "articleUrl": "https://barks.jp/news/1083675",
+        "publishedAt": "2026-08-17T11:00:37.000Z",
+        "summary": "藤原大祐が、新曲「BA♡BI♡DA♡BI♡」を9月2日(水)に配信リリースすることが決定した。 本楽曲は、2026年9月1日（火）よりMBS/TBSドラマイズム枠で放送される『恋をするなら二度目が上等 season2』のエンディング主題歌として、藤原が作品のために書き下ろした楽曲。藤原にとって初のドラマ主題歌となる。 藤原大祐は、作詞・作曲・アレンジからジャ",
         "groups": [
-          "EBiDAN",
           "超特急",
-          "M!LK",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "cc5ac2d0f2585820",
-        "title": "佐々木美玲＆森次政裕の健やかさの秘訣。共演してわかった互いの愛され力とは？",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/06/87486/",
-        "publishedAt": "2026-06-11T09:00:00.000Z",
-        "summary": "一夜限りの関係を結んだ相手は、誰もが羨むハイスペ社長だった──。 2026年4月クールで放送中のドラマ特区『あの夜、社長の子供を授かりました』は、一夜の過ちから運命が大きく変わる波乱のラブストーリー。自己評価の低さゆえに、つい自分を犠牲にして他人のために頑張りすぎてしまうヒロイン・花井栞里を佐々木美玲。そんな栞里に無償の愛を注ぐ溺愛社長・瀬古貴人を森次政裕（",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "63b99a8e04894f82",
-        "title": "伊東蒼が圧巻の表現力で“危うい”人物を演じ切る、奈緒主演映画『死ねばいいのに』本編映像解禁",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/06/87607/",
-        "publishedAt": "2026-06-11T03:00:00.000Z",
-        "summary": "7月3日(金)にテアトル新宿ほかで公開される奈緒主演映画『死ねばいいのに』より、伊東蒼演じる亜佐美にフォーカスした本編映像と場面写真が解禁された。 京極夏彦の同名小説を映画化した本作は、何者かによって殺された“亜佐美”を巡るミステリー。その“亜佐美”について尋ね歩く謎めいた人物・渡来映子を奈緒が演じ、従来のイメージを覆すアウトローな雰囲気で新境地を開拓する。",
-        "groups": [
-          "超特急"
+          "ICEx"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "タクヤ",
+            "name": "アロハ",
             "group": "超特急",
+            "status": "active"
+          },
+          {
+            "name": "阿久根温世",
+            "group": "ICEx",
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "EBiDAN": [
+      {
+        "id": "4dc861ad46fe5a0c",
+        "title": "EBiDAN、15周年記念シングル「Yes! 東京」メンバー60人の名前入りMV公開！初日116万枚突破の話題曲",
+        "sourceName": "WWSチャンネル",
+        "sourceUrl": "https://www.wws-channel.com/feed",
+        "articleUrl": "https://www.wws-channel.com/music2/662201.html",
+        "publishedAt": "2026-08-17T11:00:03.000Z",
+        "summary": "超特急やM!LKらが所属する男性アーティスト集団・EBiDANが、15周年記念シングル「Yes! 東京」のMUSIC VIDEO「おのおののネーム ver.」を8月15日に公開した。「おのおののネーム ver.」は、7月に公開された「Yes! 東京」のMUSIC VID ... The post EBiDAN、15周年記念シングル「Yes! 東京」メンバー6",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "6886e1ee6f2dac12",
+        "title": "M!LK5人との舞台裏ショットを『エビライ』出演者が続々公開！超特急ユーキを囲んだ自撮り＆ONE N’ ONLY草川直弥と佐野勇斗の肩組みなど仲良しショットずらり",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000865900/",
+        "publishedAt": "2026-08-17T09:57:30.000Z",
+        "summary": "『EBiDAN THE LIVE 2026 15th Anniversary』に出演したEBiDANメンバーが、それぞれ自身のSNSを...",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK",
+          "ONE N' ONLY"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "ユーキ",
+            "group": "超特急",
+            "status": "active"
+          },
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "NAOYA",
+            "group": "ONE N' ONLY",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "8354af6cf141cd90",
+        "title": "M!LK『エビライ』オフショット4Daysまとめ！赤白ハート柄ラブリー衣装や麗しの立体花衣装などユニット曲も盛りだくさん",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000865600/",
+        "publishedAt": "2026-08-17T06:33:49.000Z",
+        "summary": "M!LK公式SNSにて、『EBiDAN THE LIVE 2026 15th Anniversary』（通称：エビライ）のオフショッ...",
+        "groups": [
+          "EBiDAN",
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "fa3b9a729dad63d4",
+        "title": "【ライブレポート】EBiDAN15周年を祝う『EBiDAN THE LIVE』が大盛況で幕！最終日には卒業生のDISH//が出演するサプライズも！「大きくなったね、EBiDAN」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/report/0000865459/",
+        "publishedAt": "2026-08-17T06:05:14.000Z",
+        "summary": "EBiDANが、年に一度の夢の祭典『EBiDAN THE LIVE 2026 15th Anniversary』を8月13日・14日・15...",
+        "groups": [
+          "EBiDAN"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "f85376311ade649f",
+        "title": "EBiDAN（恵比寿学園男子部）が登場。「日経エンタテインメント！2026年9月号」特装版の緊急重版決定",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/08/17/tgb001",
+        "publishedAt": "2026-08-17T03:30:00.000Z",
+        "summary": "",
+        "groups": [
+          "EBiDAN"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
+    "M!LK": [
+      {
+        "id": "4dc861ad46fe5a0c",
+        "title": "EBiDAN、15周年記念シングル「Yes! 東京」メンバー60人の名前入りMV公開！初日116万枚突破の話題曲",
+        "sourceName": "WWSチャンネル",
+        "sourceUrl": "https://www.wws-channel.com/feed",
+        "articleUrl": "https://www.wws-channel.com/music2/662201.html",
+        "publishedAt": "2026-08-17T11:00:03.000Z",
+        "summary": "超特急やM!LKらが所属する男性アーティスト集団・EBiDANが、15周年記念シングル「Yes! 東京」のMUSIC VIDEO「おのおののネーム ver.」を8月15日に公開した。「おのおののネーム ver.」は、7月に公開された「Yes! 東京」のMUSIC VID ... The post EBiDAN、15周年記念シングル「Yes! 東京」メンバー6",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "405f567120939483",
+        "title": "M!LKシルバーツイード衣装で「Kiss Plan」でムーディダンス披露！「吉田さんのリムレスメガネ大好物」「太智くん前髪ありだ」「柔ちゃんエアギターかわいい」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000865937/",
+        "publishedAt": "2026-08-17T10:52:11.000Z",
+        "summary": "M!LKが「Kiss Plan」を踊る動画が、グループ公式SNSに公開された。 ■「エビライ4日間ありがと...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "519b105e498ff549",
+        "title": "「泣けてきた」「誠実な人すぎて…」M!LK曽野舜太がメンバーに“謝罪”…山中柔太朗の対応にファンから感動の声が上がった理由とは",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20260817-4829710/",
+        "publishedAt": "2026-08-17T10:00:00.000Z",
+        "summary": "「ずっと放置してる」「お金も払ってない」アイドルグループ・M!LKの曽野舜太が、メンバーに“謝りたいこと”を告白した――。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "6886e1ee6f2dac12",
+        "title": "M!LK5人との舞台裏ショットを『エビライ』出演者が続々公開！超特急ユーキを囲んだ自撮り＆ONE N’ ONLY草川直弥と佐野勇斗の肩組みなど仲良しショットずらり",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000865900/",
+        "publishedAt": "2026-08-17T09:57:30.000Z",
+        "summary": "『EBiDAN THE LIVE 2026 15th Anniversary』に出演したEBiDANメンバーが、それぞれ自身のSNSを...",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK",
+          "ONE N' ONLY"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "ユーキ",
+            "group": "超特急",
+            "status": "active"
+          },
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "NAOYA",
+            "group": "ONE N' ONLY",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "9ca143c897e4006b",
+        "title": "M!LKド派手でトロピカルなメンカラ柄×ファー衣装で「ば・く・れ・つ」にのせて大喜利！「わちゃわちゃかわいい」「山中さんの発想さすが」「大笑いする塩さんにつられ笑い」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000865641/",
+        "publishedAt": "2026-08-17T09:55:33.000Z",
+        "summary": "M!LK公式SNSにて、メンバーが「爆裂愛してる」の“ば・く・れ・つ”にのせて大喜利する4文字大喜...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
+    "ONE N' ONLY": [
+      {
+        "id": "6886e1ee6f2dac12",
+        "title": "M!LK5人との舞台裏ショットを『エビライ』出演者が続々公開！超特急ユーキを囲んだ自撮り＆ONE N’ ONLY草川直弥と佐野勇斗の肩組みなど仲良しショットずらり",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000865900/",
+        "publishedAt": "2026-08-17T09:57:30.000Z",
+        "summary": "『EBiDAN THE LIVE 2026 15th Anniversary』に出演したEBiDANメンバーが、それぞれ自身のSNSを...",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK",
+          "ONE N' ONLY"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "ユーキ",
+            "group": "超特急",
+            "status": "active"
+          },
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "NAOYA",
+            "group": "ONE N' ONLY",
             "status": "active"
           }
         ]
