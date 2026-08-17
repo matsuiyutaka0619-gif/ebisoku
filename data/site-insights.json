@@ -1,22 +1,22 @@
 {
-  "updatedAt": "2026-08-16T18:46:26.887Z",
+  "updatedAt": "2026-08-17T01:54:44.721Z",
   "totals": {
-    "all": 129,
+    "all": 128,
     "today": 0,
-    "week": 10
+    "week": 9
   },
   "groupRanking": [
     {
       "name": "EBiDAN",
-      "count": 7
-    },
-    {
-      "name": "M!LK",
-      "count": 3
+      "count": 6
     },
     {
       "name": "SUPER★DRAGON",
       "count": 3
+    },
+    {
+      "name": "M!LK",
+      "count": 2
     },
     {
       "name": "超特急",
@@ -35,19 +35,15 @@
     {
       "name": "リョウガ",
       "count": 1
-    },
-    {
-      "name": "塩﨑太智",
-      "count": 1
     }
   ],
   "sourceRanking": [
     {
-      "name": "THE FIRST TIMES",
-      "count": 4
+      "name": "SUPER★DRAGON 公式NEWS",
+      "count": 3
     },
     {
-      "name": "SUPER★DRAGON 公式NEWS",
+      "name": "THE FIRST TIMES",
       "count": 3
     },
     {
@@ -121,29 +117,6 @@
         "memberMatches": []
       },
       {
-        "id": "e8ca0657c77a5f73",
-        "title": "M!LK塩﨑太智が“雰囲気一変”！花をまとった黒衣装で大人の色気あふれる『エビライ』シャッフルユニット姿に「えぐかっこいい」「破壊力やばすぎ」「色気に釘付け」5人の仲良し制服ショットも公開",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000864597/",
-        "publishedAt": "2026-08-16T04:11:10.000Z",
-        "summary": "M!LKの公式Xが更新。『EBiDAN THE LIVE 2026 15th Anniversary』Day3のオフショットが公開され...",
-        "groups": [
-          "EBiDAN",
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
         "id": "03aad97b9a26b11f",
         "title": "「J-POPシングル ウィークリーTOP30」発表。1位はEBiDAN（恵比寿学園男子部）『Yes! 東京』、予約1位はINI『ANTHEM』（2026年8月13日付）",
         "sourceName": "タワーレコード ニュース",
@@ -165,6 +138,21 @@
         "articleUrl": "https://super-dragon.jp/news/news11560/",
         "publishedAt": "2026-08-12T08:00:18.000Z",
         "summary": "EBiDAN公式リズムゲーム『SUPERSTAR EBiDAN』では、 「EBiDAN THE LIVE 2026 15th Anniversary」の開催を記念して、期間限定のゲーム内イベントを実施いたします！ ここで […] The post 【SUPERSTAR EBiDAN】 「EBiDAN THE LIVE 2026 15th Anniversar",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "1ad5810b4c9a0a8b",
+        "title": "本日8月11日(火・祝)発売、 EBiDAN15周年記念シングル「Yes! 東京」のを公開！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11555/",
+        "publishedAt": "2026-08-11T08:30:18.000Z",
+        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して、本日8月11日(火・祝)にリリースされたシングル「Yes! 東京」のMaking Lyric Videoを公開！ 本日公開された映像は、4日間に渡って撮影されたMu […] The post 本日8月11日(火・祝)発売、 EBiDAN15周年記念シングル「Yes! 東京」の を公開！ first ap",
         "groups": [
           "EBiDAN",
           "SUPER★DRAGON"
@@ -298,29 +286,6 @@
         "memberMatches": []
       },
       {
-        "id": "e8ca0657c77a5f73",
-        "title": "M!LK塩﨑太智が“雰囲気一変”！花をまとった黒衣装で大人の色気あふれる『エビライ』シャッフルユニット姿に「えぐかっこいい」「破壊力やばすぎ」「色気に釘付け」5人の仲良し制服ショットも公開",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000864597/",
-        "publishedAt": "2026-08-16T04:11:10.000Z",
-        "summary": "M!LKの公式Xが更新。『EBiDAN THE LIVE 2026 15th Anniversary』Day3のオフショットが公開され...",
-        "groups": [
-          "EBiDAN",
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
         "id": "332f9e22f238c9e9",
         "title": "「楽屋で台本を開いていたら…」「それぞれが…」曽野舜太が明かしたM!LKメンバーのリアクション 俳優業にもさらなる意欲",
         "sourceName": "マイナビニュース 映画",
@@ -359,6 +324,33 @@
         "memberMatches": [
           {
             "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "39c1d3aa3ee9ebd7",
+        "title": "M!LK佐野勇斗＆吉田仁人のユニット曲「罪と罰と雨とキス」MV公開、2人が霧雨と共に舞い踊る",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/08/90103/",
+        "publishedAt": "2026-08-03T09:00:00.000Z",
+        "summary": "5人組ダンスボーカルグループ・M!LKの佐野勇斗と吉田仁人が、本日8月3日(月)にユニット曲「罪と罰と雨とキス」を配信リリースした。 本作は、M!LKの5ヵ月連続新曲リリース企画「モー烈モー進！リリースプロジェクト2026」の最後を飾る一曲。惹かれ合うが決して結ばれることのない宿命に抗って必死に手を伸ばす様を描き、焦燥と湿潤が共存したエモーショナルな楽曲とな",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "吉田仁人",
             "group": "M!LK",
             "status": "active"
           }
