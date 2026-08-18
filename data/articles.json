@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2026-08-18T07:03:53.359Z",
+  "updatedAt": "2026-08-18T13:07:23.558Z",
   "articles": [
+    {
+      "id": "9d2289f2fe4ea4b6",
+      "title": "「SUPER★DRAGON DRA FES 2026 追加公演」最新チケット情報",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news11564/",
+      "publishedAt": "2026-08-18T09:00:46.000Z",
+      "summary": "本日8月18日(火)18:00よりオフィシャルファンクラブ『AREA SD』会員2次先行が受付開始。 会場で皆さんとお会いできることを楽しみにしております！ ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴 […] The post 「SUPER★DRAGON DRA FES 2026 追加公演」最新チケット情報 first appeared ",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "f7eb150a558caf26",
+      "title": "EBiDAN「Yes! 東京」ミリオンセラー記念にライブ映像を初公開「皆様の計り知れない愛と絆があってこその結果」（超特急タカシ）",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000866574/",
+      "publishedAt": "2026-08-18T09:00:11.000Z",
+      "summary": "超特急やM!LKらが所属し、新グループも加わって全10グループ総勢68名となった、スターダストプ...",
+      "groups": [
+        "EBiDAN",
+        "超特急",
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "タカシ",
+          "group": "超特急",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "f7a16bf22f2b75a9",
       "title": "山中柔太朗×曽野舜太（M!LK）、「SODA PLUS vol.12」表紙に登場",
@@ -96,69 +134,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "3f273f5cb58e7b5c",
-      "title": "M!LK吉田仁人の“サラスト黒髪”×イヤーカフに反響！秋ファッションで車のボンネットに腰掛け「ビジュ良すぎて倒れそう」「前髪下ろしてるのやばい」「どタイプ」「肌つやっつや」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000866305/",
-      "publishedAt": "2026-08-18T03:40:49.000Z",
-      "summary": "『smart』の公式SNSが更新。M!LKの吉田仁人を起用した『smart』10月号（8月25日発売）の表紙ビ...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "663786aa02825d21",
-      "title": "M!LK山中柔太朗の“スカートコーデ”に絶賛の声！サングラス×オールバックの佐野勇斗と並び「3080久しぶりだ」「国宝級イケメンのふたり」「ニッコニコなのかわいすぎる」「さんぱち需要ありすぎ」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000866276/",
-      "publishedAt": "2026-08-18T03:18:14.000Z",
-      "summary": "M!LKの公式TikTokが更新。佐野勇斗と山中柔太朗が「You!Joy!Parade!」を踊る姿が公開され、フ...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "山中柔太朗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "d7bcdf956f463a08",
-      "title": "原因は自分にある。 5thシングルタイトルは『ラブリーズン』に決定 収録内容発表＆リリイベ開催も",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/08/post-2494151.html",
-      "publishedAt": "2026-08-18T02:37:48.000Z",
-      "summary": "原因は自分にある。が、11月11日にリリースする5thシングル『ラブリーズン』の収録内容およびリリースイベントの開催を発表した。 本作は、タイトル通り、狂気の愛と欲望をグループ独自の世界観で表現した作品に。初回限定盤",
-      "groups": [
-        "原因は自分にある。"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "4dc861ad46fe5a0c",
@@ -2298,28 +2273,6 @@
       "articleUrl": "https://super-dragon.jp/news/news10848/",
       "publishedAt": "2026-04-15T10:59:30.000Z",
       "summary": "本日、2026年4月15日(水)に22歳を迎えた松村和哉の誕生日を記念して、バースデーPHOTO SET&プロデュースグッズの販売が決定しました！ 今年のプロデュースグッズは、持っているだけで気分が上がるユニーク […] The post 【バースデーグッズ】松村和哉22歳 バースデーPHOTO SET＆プロデュースグッズ スタダ便受注販売決定！ first",
-      "groups": [
-        "SUPER★DRAGON"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "松村和哉",
-          "group": "SUPER★DRAGON",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "a332d7d013838590",
-      "title": "「TOMOYA 22nd BIRTHDAY SCRATCH」開催決定！！",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news10844/",
-      "publishedAt": "2026-04-14T11:59:14.000Z",
-      "summary": "松村和哉 22歳の誕生日を記念した「TOMOYA 22nd BIRTHDAY SCRATCH」開催が決定いたしました！ ぜひアクセスしてみてください！！ ▼松村和哉［俺の家］ https://fanicon.net/fa […] The post 「TOMOYA 22nd BIRTHDAY SCRATCH」開催決定！！ first appeared on S",
       "groups": [
         "SUPER★DRAGON"
       ],
