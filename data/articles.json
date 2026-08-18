@@ -1,6 +1,29 @@
 {
-  "updatedAt": "2026-08-17T18:56:51.967Z",
+  "updatedAt": "2026-08-18T01:50:13.852Z",
   "articles": [
+    {
+      "id": "3e26d91f3023d653",
+      "title": "北村匠海「まっすぐ歩いているEBiDAN。すごいね」エビライ出演報告「過去ではなく今この瞬間が」",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202608170000811.html",
+      "publishedAt": "2026-08-18T00:55:00.000Z",
+      "summary": "4人組バンド、DISH／／リーダーで俳優の北村匠海（28）が、17日までに自身のインスタグラムを更新。16日に開催された「EBiDAN THE LIVE 2026」最終公演に出演したことを報告した。 超特急リョウガ（31）のパネルの写真…",
+      "groups": [
+        "EBiDAN",
+        "超特急"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "リョウガ",
+          "group": "超特急",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "3525e4140612f43e",
       "title": "藤原大祐、初のドラマ主題歌に新曲「BA♡BI♡DA♡BI♡」を書き下ろし",
@@ -156,35 +179,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "8354af6cf141cd90",
-      "title": "M!LK『エビライ』オフショット4Daysまとめ！赤白ハート柄ラブリー衣装や麗しの立体花衣装などユニット曲も盛りだくさん",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000865600/",
-      "publishedAt": "2026-08-17T06:33:49.000Z",
-      "summary": "M!LK公式SNSにて、『EBiDAN THE LIVE 2026 15th Anniversary』（通称：エビライ）のオフショッ...",
-      "groups": [
-        "EBiDAN",
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "fa3b9a729dad63d4",
-      "title": "【ライブレポート】EBiDAN15周年を祝う『EBiDAN THE LIVE』が大盛況で幕！最終日には卒業生のDISH//が出演するサプライズも！「大きくなったね、EBiDAN」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/report/0000865459/",
-      "publishedAt": "2026-08-17T06:05:14.000Z",
-      "summary": "EBiDANが、年に一度の夢の祭典『EBiDAN THE LIVE 2026 15th Anniversary』を8月13日・14日・15...",
-      "groups": [
-        "EBiDAN"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "8ab4ff5729972f98",

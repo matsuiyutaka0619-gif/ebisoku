@@ -1,22 +1,22 @@
 {
-  "updatedAt": "2026-08-17T18:56:51.969Z",
+  "updatedAt": "2026-08-18T01:50:13.854Z",
   "totals": {
-    "all": 135,
-    "today": 0,
-    "week": 15
+    "all": 134,
+    "today": 1,
+    "week": 14
   },
   "groupRanking": [
     {
       "name": "EBiDAN",
-      "count": 8
+      "count": 7
     },
     {
       "name": "M!LK",
-      "count": 8
+      "count": 7
     },
     {
       "name": "超特急",
-      "count": 4
+      "count": 5
     },
     {
       "name": "SUPER★DRAGON",
@@ -37,6 +37,10 @@
       "count": 3
     },
     {
+      "name": "リョウガ",
+      "count": 2
+    },
+    {
       "name": "NAOYA",
       "count": 1
     },
@@ -46,10 +50,6 @@
     },
     {
       "name": "ユーキ",
-      "count": 1
-    },
-    {
-      "name": "リョウガ",
       "count": 1
     },
     {
@@ -68,7 +68,7 @@
   "sourceRanking": [
     {
       "name": "THE FIRST TIMES",
-      "count": 6
+      "count": 4
     },
     {
       "name": "タワーレコード ニュース",
@@ -93,11 +93,142 @@
     {
       "name": "マイナビニュース エンタメ",
       "count": 1
+    },
+    {
+      "name": "日刊スポーツ 芸能",
+      "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
+    "EBiDAN": [
+      {
+        "id": "3e26d91f3023d653",
+        "title": "北村匠海「まっすぐ歩いているEBiDAN。すごいね」エビライ出演報告「過去ではなく今この瞬間が」",
+        "sourceName": "日刊スポーツ 芸能",
+        "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+        "articleUrl": "https://www.nikkansports.com/entertainment/news/202608170000811.html",
+        "publishedAt": "2026-08-18T00:55:00.000Z",
+        "summary": "4人組バンド、DISH／／リーダーで俳優の北村匠海（28）が、17日までに自身のインスタグラムを更新。16日に開催された「EBiDAN THE LIVE 2026」最終公演に出演したことを報告した。 超特急リョウガ（31）のパネルの写真…",
+        "groups": [
+          "EBiDAN",
+          "超特急"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "リョウガ",
+            "group": "超特急",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "4dc861ad46fe5a0c",
+        "title": "EBiDAN、15周年記念シングル「Yes! 東京」メンバー60人の名前入りMV公開！初日116万枚突破の話題曲",
+        "sourceName": "WWSチャンネル",
+        "sourceUrl": "https://www.wws-channel.com/feed",
+        "articleUrl": "https://www.wws-channel.com/music2/662201.html",
+        "publishedAt": "2026-08-17T11:00:03.000Z",
+        "summary": "超特急やM!LKらが所属する男性アーティスト集団・EBiDANが、15周年記念シングル「Yes! 東京」のMUSIC VIDEO「おのおののネーム ver.」を8月15日に公開した。「おのおののネーム ver.」は、7月に公開された「Yes! 東京」のMUSIC VID ... The post EBiDAN、15周年記念シングル「Yes! 東京」メンバー6",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "6886e1ee6f2dac12",
+        "title": "M!LK5人との舞台裏ショットを『エビライ』出演者が続々公開！超特急ユーキを囲んだ自撮り＆ONE N’ ONLY草川直弥と佐野勇斗の肩組みなど仲良しショットずらり",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000865900/",
+        "publishedAt": "2026-08-17T09:57:30.000Z",
+        "summary": "『EBiDAN THE LIVE 2026 15th Anniversary』に出演したEBiDANメンバーが、それぞれ自身のSNSを...",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK",
+          "ONE N' ONLY"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "ユーキ",
+            "group": "超特急",
+            "status": "active"
+          },
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "NAOYA",
+            "group": "ONE N' ONLY",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "f85376311ade649f",
+        "title": "EBiDAN（恵比寿学園男子部）が登場。「日経エンタテインメント！2026年9月号」特装版の緊急重版決定",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/08/17/tgb001",
+        "publishedAt": "2026-08-17T03:30:00.000Z",
+        "summary": "",
+        "groups": [
+          "EBiDAN"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "03aad97b9a26b11f",
+        "title": "「J-POPシングル ウィークリーTOP30」発表。1位はEBiDAN（恵比寿学園男子部）『Yes! 東京』、予約1位はINI『ANTHEM』（2026年8月13日付）",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/08/13/tg006",
+        "publishedAt": "2026-08-13T10:00:00.000Z",
+        "summary": "",
+        "groups": [
+          "EBiDAN"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
     "超特急": [
+      {
+        "id": "3e26d91f3023d653",
+        "title": "北村匠海「まっすぐ歩いているEBiDAN。すごいね」エビライ出演報告「過去ではなく今この瞬間が」",
+        "sourceName": "日刊スポーツ 芸能",
+        "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+        "articleUrl": "https://www.nikkansports.com/entertainment/news/202608170000811.html",
+        "publishedAt": "2026-08-18T00:55:00.000Z",
+        "summary": "4人組バンド、DISH／／リーダーで俳優の北村匠海（28）が、17日までに自身のインスタグラムを更新。16日に開催された「EBiDAN THE LIVE 2026」最終公演に出演したことを報告した。 超特急リョウガ（31）のパネルの写真…",
+        "groups": [
+          "EBiDAN",
+          "超特急"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "リョウガ",
+            "group": "超特急",
+            "status": "active"
+          }
+        ]
+      },
       {
         "id": "3525e4140612f43e",
         "title": "藤原大祐、初のドラマ主題歌に新曲「BA♡BI♡DA♡BI♡」を書き下ろし",
@@ -198,28 +329,6 @@
             "status": "active"
           }
         ]
-      },
-      {
-        "id": "397a635043a0e0e2",
-        "title": "映画『ワンダンス』新キャストにGirls2山口綺羅、MAZZEL・RAN、TSUKKI、超特急・髙松アロハ",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/07/89594/",
-        "publishedAt": "2026-07-22T09:00:00.000Z",
-        "summary": "11月27日(金)に公開されるJO（&TEAM）初主演映画『ワンダンス』の新キャストとして山口綺羅（Girls2）、RAN（MAZZEL）、現役DリーガーのTSUKKI、髙松アロハ（超特急）が出演することが発表された。 原作は単行本累計発行部数110万部を突破し「月刊アフタヌーン」（講談社）で連載中の珈琲による同名漫画。ダンサーからも熱く支持され、昨年放送さ",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "アロハ",
-            "group": "超特急",
-            "status": "active"
-          }
-        ]
       }
     ],
     "ICEx": [
@@ -250,102 +359,6 @@
             "status": "active"
           }
         ]
-      }
-    ],
-    "EBiDAN": [
-      {
-        "id": "4dc861ad46fe5a0c",
-        "title": "EBiDAN、15周年記念シングル「Yes! 東京」メンバー60人の名前入りMV公開！初日116万枚突破の話題曲",
-        "sourceName": "WWSチャンネル",
-        "sourceUrl": "https://www.wws-channel.com/feed",
-        "articleUrl": "https://www.wws-channel.com/music2/662201.html",
-        "publishedAt": "2026-08-17T11:00:03.000Z",
-        "summary": "超特急やM!LKらが所属する男性アーティスト集団・EBiDANが、15周年記念シングル「Yes! 東京」のMUSIC VIDEO「おのおののネーム ver.」を8月15日に公開した。「おのおののネーム ver.」は、7月に公開された「Yes! 東京」のMUSIC VID ... The post EBiDAN、15周年記念シングル「Yes! 東京」メンバー6",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "6886e1ee6f2dac12",
-        "title": "M!LK5人との舞台裏ショットを『エビライ』出演者が続々公開！超特急ユーキを囲んだ自撮り＆ONE N’ ONLY草川直弥と佐野勇斗の肩組みなど仲良しショットずらり",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000865900/",
-        "publishedAt": "2026-08-17T09:57:30.000Z",
-        "summary": "『EBiDAN THE LIVE 2026 15th Anniversary』に出演したEBiDANメンバーが、それぞれ自身のSNSを...",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK",
-          "ONE N' ONLY"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "ユーキ",
-            "group": "超特急",
-            "status": "active"
-          },
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "NAOYA",
-            "group": "ONE N' ONLY",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "8354af6cf141cd90",
-        "title": "M!LK『エビライ』オフショット4Daysまとめ！赤白ハート柄ラブリー衣装や麗しの立体花衣装などユニット曲も盛りだくさん",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000865600/",
-        "publishedAt": "2026-08-17T06:33:49.000Z",
-        "summary": "M!LK公式SNSにて、『EBiDAN THE LIVE 2026 15th Anniversary』（通称：エビライ）のオフショッ...",
-        "groups": [
-          "EBiDAN",
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "fa3b9a729dad63d4",
-        "title": "【ライブレポート】EBiDAN15周年を祝う『EBiDAN THE LIVE』が大盛況で幕！最終日には卒業生のDISH//が出演するサプライズも！「大きくなったね、EBiDAN」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/report/0000865459/",
-        "publishedAt": "2026-08-17T06:05:14.000Z",
-        "summary": "EBiDANが、年に一度の夢の祭典『EBiDAN THE LIVE 2026 15th Anniversary』を8月13日・14日・15...",
-        "groups": [
-          "EBiDAN"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "f85376311ade649f",
-        "title": "EBiDAN（恵比寿学園男子部）が登場。「日経エンタテインメント！2026年9月号」特装版の緊急重版決定",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/08/17/tgb001",
-        "publishedAt": "2026-08-17T03:30:00.000Z",
-        "summary": "",
-        "groups": [
-          "EBiDAN"
-        ],
-        "statuses": [],
-        "memberMatches": []
       }
     ],
     "M!LK": [
