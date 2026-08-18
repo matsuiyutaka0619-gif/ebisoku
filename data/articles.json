@@ -1,95 +1,14 @@
 {
-  "updatedAt": "2026-08-18T01:50:13.852Z",
+  "updatedAt": "2026-08-18T07:03:53.359Z",
   "articles": [
     {
-      "id": "3e26d91f3023d653",
-      "title": "北村匠海「まっすぐ歩いているEBiDAN。すごいね」エビライ出演報告「過去ではなく今この瞬間が」",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202608170000811.html",
-      "publishedAt": "2026-08-18T00:55:00.000Z",
-      "summary": "4人組バンド、DISH／／リーダーで俳優の北村匠海（28）が、17日までに自身のインスタグラムを更新。16日に開催された「EBiDAN THE LIVE 2026」最終公演に出演したことを報告した。 超特急リョウガ（31）のパネルの写真…",
-      "groups": [
-        "EBiDAN",
-        "超特急"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "リョウガ",
-          "group": "超特急",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "3525e4140612f43e",
-      "title": "藤原大祐、初のドラマ主題歌に新曲「BA♡BI♡DA♡BI♡」を書き下ろし",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1083675",
-      "publishedAt": "2026-08-17T11:00:37.000Z",
-      "summary": "藤原大祐が、新曲「BA♡BI♡DA♡BI♡」を9月2日(水)に配信リリースすることが決定した。 本楽曲は、2026年9月1日（火）よりMBS/TBSドラマイズム枠で放送される『恋をするなら二度目が上等 season2』のエンディング主題歌として、藤原が作品のために書き下ろした楽曲。藤原にとって初のドラマ主題歌となる。 藤原大祐は、作詞・作曲・アレンジからジャ",
-      "groups": [
-        "超特急",
-        "ICEx"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "アロハ",
-          "group": "超特急",
-          "status": "active"
-        },
-        {
-          "name": "阿久根温世",
-          "group": "ICEx",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "4dc861ad46fe5a0c",
-      "title": "EBiDAN、15周年記念シングル「Yes! 東京」メンバー60人の名前入りMV公開！初日116万枚突破の話題曲",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/music2/662201.html",
-      "publishedAt": "2026-08-17T11:00:03.000Z",
-      "summary": "超特急やM!LKらが所属する男性アーティスト集団・EBiDANが、15周年記念シングル「Yes! 東京」のMUSIC VIDEO「おのおののネーム ver.」を8月15日に公開した。「おのおののネーム ver.」は、7月に公開された「Yes! 東京」のMUSIC VID ... The post EBiDAN、15周年記念シングル「Yes! 東京」メンバー6",
-      "groups": [
-        "EBiDAN",
-        "超特急",
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "405f567120939483",
-      "title": "M!LKシルバーツイード衣装で「Kiss Plan」でムーディダンス披露！「吉田さんのリムレスメガネ大好物」「太智くん前髪ありだ」「柔ちゃんエアギターかわいい」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000865937/",
-      "publishedAt": "2026-08-17T10:52:11.000Z",
-      "summary": "M!LKが「Kiss Plan」を踊る動画が、グループ公式SNSに公開された。 ■「エビライ4日間ありがと...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "519b105e498ff549",
-      "title": "「泣けてきた」「誠実な人すぎて…」M!LK曽野舜太がメンバーに“謝罪”…山中柔太朗の対応にファンから感動の声が上がった理由とは",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-      "articleUrl": "https://news.mynavi.jp/article/20260817-4829710/",
-      "publishedAt": "2026-08-17T10:00:00.000Z",
-      "summary": "「ずっと放置してる」「お金も払ってない」アイドルグループ・M!LKの曽野舜太が、メンバーに“謝りたいこと”を告白した――。",
+      "id": "f7a16bf22f2b75a9",
+      "title": "山中柔太朗×曽野舜太（M!LK）、「SODA PLUS vol.12」表紙に登場",
+      "sourceName": "タワーレコード ニュース",
+      "sourceUrl": "https://tower.jp/feeds/article/news",
+      "articleUrl": "https://tower.jp/article/news/2026/08/18/tgb002",
+      "publishedAt": "2026-08-18T06:00:00.000Z",
+      "summary": "",
       "groups": [
         "M!LK"
       ],
@@ -110,75 +29,152 @@
       ]
     },
     {
-      "id": "6886e1ee6f2dac12",
-      "title": "M!LK5人との舞台裏ショットを『エビライ』出演者が続々公開！超特急ユーキを囲んだ自撮り＆ONE N’ ONLY草川直弥と佐野勇斗の肩組みなど仲良しショットずらり",
+      "id": "6f0db28bd44291b6",
+      "title": "M!LK山中柔太朗＆曽野舜太が寝そべり密着！“白まつ毛”や顔にパールを散りばめた幻想的ビジュアルに「天界の双子やわしゅん」「え、幻？」「透明感ハンパない」「美しすぎて絵画かと思った」",
       "sourceName": "THE FIRST TIMES",
       "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000865900/",
-      "publishedAt": "2026-08-17T09:57:30.000Z",
-      "summary": "『EBiDAN THE LIVE 2026 15th Anniversary』に出演したEBiDANメンバーが、それぞれ自身のSNSを...",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000866477/",
+      "publishedAt": "2026-08-18T05:32:12.000Z",
+      "summary": "『SODA』編集部の公式SNSで、M!LKの山中柔太朗と曽野舜太を起用した『SODA PLUS vol.12』（8月...",
       "groups": [
-        "EBiDAN",
-        "超特急",
-        "M!LK",
-        "ONE N' ONLY"
+        "M!LK"
       ],
       "statuses": [
         "active"
       ],
       "memberMatches": [
         {
-          "name": "ユーキ",
-          "group": "超特急",
-          "status": "active"
-        },
-        {
-          "name": "佐野勇斗",
+          "name": "曽野舜太",
           "group": "M!LK",
           "status": "active"
         },
-        {
-          "name": "NAOYA",
-          "group": "ONE N' ONLY",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "9ca143c897e4006b",
-      "title": "M!LKド派手でトロピカルなメンカラ柄×ファー衣装で「ば・く・れ・つ」にのせて大喜利！「わちゃわちゃかわいい」「山中さんの発想さすが」「大笑いする塩さんにつられ笑い」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000865641/",
-      "publishedAt": "2026-08-17T09:55:33.000Z",
-      "summary": "M!LK公式SNSにて、メンバーが「爆裂愛してる」の“ば・く・れ・つ”にのせて大喜利する4文字大喜...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "c825434e40f21c78",
-      "title": "M!LK・山中柔太朗『CM NOW BOYS VOL.17』表紙に登場！出演CMの裏話や俳優・アーティストとしての現在地について語る",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000865699/",
-      "publishedAt": "2026-08-17T07:40:05.000Z",
-      "summary": "山中柔太朗（M!LK）が、8月17日に発売される『CM NOW BOYS VOL.17』の表紙・巻頭22ページに登...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
         {
           "name": "山中柔太朗",
           "group": "M!LK",
           "status": "active"
         }
       ]
+    },
+    {
+      "id": "a7a04ada4eb6e59d",
+      "title": "EBiDAN（恵比寿学園男子部）、15周年記念シングル『Yes! 東京』より表題曲MV「おのおののネームver.」公開",
+      "sourceName": "タワーレコード ニュース",
+      "sourceUrl": "https://tower.jp/feeds/article/news",
+      "articleUrl": "https://tower.jp/article/news/2026/08/18/tg003",
+      "publishedAt": "2026-08-18T04:00:00.000Z",
+      "summary": "",
+      "groups": [
+        "EBiDAN"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "676c3fd29d87d101",
+      "title": "M!LK山中柔太朗×超特急 草川拓弥がお揃いの腕時計＆靴で“棒立ち”！リンクコーデ姿に「兄弟みたい」「表情可愛すぎる笑」「やわタク最高」の声",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000866125/",
+      "publishedAt": "2026-08-18T03:42:23.000Z",
+      "summary": "M!LKの山中柔太朗が自身のInstagramを更新。超特急の草川拓弥との2ショットを公開した。 ■M!LK...",
+      "groups": [
+        "超特急",
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "タクヤ",
+          "group": "超特急",
+          "status": "active"
+        },
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "3f273f5cb58e7b5c",
+      "title": "M!LK吉田仁人の“サラスト黒髪”×イヤーカフに反響！秋ファッションで車のボンネットに腰掛け「ビジュ良すぎて倒れそう」「前髪下ろしてるのやばい」「どタイプ」「肌つやっつや」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000866305/",
+      "publishedAt": "2026-08-18T03:40:49.000Z",
+      "summary": "『smart』の公式SNSが更新。M!LKの吉田仁人を起用した『smart』10月号（8月25日発売）の表紙ビ...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "663786aa02825d21",
+      "title": "M!LK山中柔太朗の“スカートコーデ”に絶賛の声！サングラス×オールバックの佐野勇斗と並び「3080久しぶりだ」「国宝級イケメンのふたり」「ニッコニコなのかわいすぎる」「さんぱち需要ありすぎ」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000866276/",
+      "publishedAt": "2026-08-18T03:18:14.000Z",
+      "summary": "M!LKの公式TikTokが更新。佐野勇斗と山中柔太朗が「You!Joy!Parade!」を踊る姿が公開され、フ...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "d7bcdf956f463a08",
+      "title": "原因は自分にある。 5thシングルタイトルは『ラブリーズン』に決定 収録内容発表＆リリイベ開催も",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/08/post-2494151.html",
+      "publishedAt": "2026-08-18T02:37:48.000Z",
+      "summary": "原因は自分にある。が、11月11日にリリースする5thシングル『ラブリーズン』の収録内容およびリリースイベントの開催を発表した。 本作は、タイトル通り、狂気の愛と欲望をグループ独自の世界観で表現した作品に。初回限定盤",
+      "groups": [
+        "原因は自分にある。"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "4dc861ad46fe5a0c",
+      "title": "EBiDAN、15周年記念シングル「Yes! 東京」メンバー60人の名前入りMV公開！初日116万枚突破の話題曲",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/music2/662201.html",
+      "publishedAt": "2026-08-17T11:00:03.000Z",
+      "summary": "超特急やM!LKらが所属する男性アーティスト集団・EBiDANが、15周年記念シングル「Yes! 東京」のMUSIC VIDEO「おのおののネーム ver.」を8月15日に公開した。「おのおののネーム ver.」は、7月に公開された「Yes! 東京」のMUSIC VID ... The post EBiDAN、15周年記念シングル「Yes! 東京」メンバー6",
+      "groups": [
+        "EBiDAN",
+        "超特急",
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
     },
     {
       "id": "8ab4ff5729972f98",
