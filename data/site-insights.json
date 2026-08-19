@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-19T13:08:05.081Z",
+  "updatedAt": "2026-08-19T18:52:53.329Z",
   "totals": {
-    "all": 132,
-    "today": 6,
-    "week": 14
+    "all": 133,
+    "today": 1,
+    "week": 15
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 7
+      "count": 8
     },
     {
       "name": "EBiDAN",
@@ -30,14 +30,14 @@
   "memberRanking": [
     {
       "name": "吉田仁人",
+      "count": 4
+    },
+    {
+      "name": "佐野勇斗",
       "count": 3
     },
     {
       "name": "塩﨑太智",
-      "count": 2
-    },
-    {
-      "name": "佐野勇斗",
       "count": 2
     },
     {
@@ -79,6 +79,10 @@
       "count": 2
     },
     {
+      "name": "THE FIRST TIMES",
+      "count": 2
+    },
+    {
       "name": "マイナビニュース エンタメ",
       "count": 2
     },
@@ -88,10 +92,6 @@
     },
     {
       "name": "QJWeb",
-      "count": 1
-    },
-    {
-      "name": "THE FIRST TIMES",
       "count": 1
     },
     {
@@ -106,6 +106,33 @@
   "topics": [],
   "recentByGroup": {
     "M!LK": [
+      {
+        "id": "bc9dd48e2f68dbe6",
+        "title": "M!LK佐野勇斗＆吉田仁人、イジり合いから不仲説が浮上（笑）「なんか…この空気だけ切り取ると仲悪いって思われそう（笑）」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000867178/",
+        "publishedAt": "2026-08-19T15:00:42.000Z",
+        "summary": "M!LKの佐野勇斗と吉田仁人が出演する『ホットペッパーグルメ』の新WebCM『席押さえ召喚』篇が...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
       {
         "id": "639f5ff2dab31385",
         "title": "M!LK佐野勇斗&吉田仁人が“チューしたいぐらいかわいいもの”とは「逆に…」「彼らがすごく…」",
@@ -210,33 +237,6 @@
           },
           {
             "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "f7a16bf22f2b75a9",
-        "title": "山中柔太朗×曽野舜太（M!LK）、「SODA PLUS vol.12」表紙に登場",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/08/18/tgb002",
-        "publishedAt": "2026-08-18T06:00:00.000Z",
-        "summary": "",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "山中柔太朗",
             "group": "M!LK",
             "status": "active"
           }

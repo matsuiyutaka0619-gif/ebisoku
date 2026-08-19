@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-08-19T13:08:05.013Z",
+  "updatedAt": "2026-08-19T18:52:53.327Z",
   "articles": [
+    {
+      "id": "bc9dd48e2f68dbe6",
+      "title": "M!LK佐野勇斗＆吉田仁人、イジり合いから不仲説が浮上（笑）「なんか…この空気だけ切り取ると仲悪いって思われそう（笑）」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000867178/",
+      "publishedAt": "2026-08-19T15:00:42.000Z",
+      "summary": "M!LKの佐野勇斗と吉田仁人が出演する『ホットペッパーグルメ』の新WebCM『席押さえ召喚』篇が...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "639f5ff2dab31385",
       "title": "M!LK佐野勇斗&吉田仁人が“チューしたいぐらいかわいいもの”とは「逆に…」「彼らがすごく…」",
