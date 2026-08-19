@@ -1,31 +1,43 @@
 {
-  "updatedAt": "2026-08-19T07:05:09.937Z",
+  "updatedAt": "2026-08-19T13:08:05.081Z",
   "totals": {
-    "all": 14,
-    "today": 3,
-    "week": 9
+    "all": 132,
+    "today": 6,
+    "week": 14
   },
   "groupRanking": [
+    {
+      "name": "M!LK",
+      "count": 7
+    },
     {
       "name": "EBiDAN",
       "count": 5
     },
     {
-      "name": "M!LK",
-      "count": 5
+      "name": "SUPER★DRAGON",
+      "count": 2
     },
     {
       "name": "超特急",
       "count": 2
+    },
+    {
+      "name": "ICEx",
+      "count": 1
     }
   ],
   "memberRanking": [
     {
-      "name": "曽野舜太",
+      "name": "吉田仁人",
       "count": 3
     },
     {
-      "name": "吉田仁人",
+      "name": "塩﨑太智",
+      "count": 2
+    },
+    {
+      "name": "佐野勇斗",
       "count": 2
     },
     {
@@ -33,11 +45,27 @@
       "count": 2
     },
     {
+      "name": "曽野舜太",
+      "count": 2
+    },
+    {
       "name": "リョウガ",
       "count": 1
     },
     {
-      "name": "塩﨑太智",
+      "name": "阿久根温世",
+      "count": 1
+    },
+    {
+      "name": "山本龍人",
+      "count": 1
+    },
+    {
+      "name": "志賀李玖",
+      "count": 1
+    },
+    {
+      "name": "千田波空斗",
       "count": 1
     }
   ],
@@ -47,15 +75,31 @@
       "count": 5
     },
     {
-      "name": "THE FIRST TIMES",
+      "name": "SUPER★DRAGON 公式NEWS",
       "count": 2
+    },
+    {
+      "name": "マイナビニュース エンタメ",
+      "count": 2
+    },
+    {
+      "name": "BARKS",
+      "count": 1
     },
     {
       "name": "QJWeb",
       "count": 1
     },
     {
-      "name": "マイナビニュース エンタメ",
+      "name": "THE FIRST TIMES",
+      "count": 1
+    },
+    {
+      "name": "WWSチャンネル",
+      "count": 1
+    },
+    {
+      "name": "マイナビニュース テレビ",
       "count": 1
     }
   ],
@@ -63,13 +107,13 @@
   "recentByGroup": {
     "M!LK": [
       {
-        "id": "a73fa429aa3e9e81",
-        "title": "M!LK曽野舜太＆吉田仁人がメンバーカラーを取り入れたラフコーデでロケへ！爽やか2ショットに「そのじんかわいい」「大好きなコンビ」「ニコニコがとまらない」「まさかの地元！」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000867041/",
-        "publishedAt": "2026-08-19T03:26:54.000Z",
-        "summary": "『笑ってコラえて！』（日本テレビ系）の公式SNSで、M!LKの曽野舜太と吉田仁人の2ショットが公...",
+        "id": "639f5ff2dab31385",
+        "title": "M!LK佐野勇斗&吉田仁人が“チューしたいぐらいかわいいもの”とは「逆に…」「彼らがすごく…」",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20260819-4839146/",
+        "publishedAt": "2026-08-19T11:00:00.000Z",
+        "summary": "アイドルグループ・M!LKの佐野勇斗と吉田仁人が、21日発売の月刊誌『JUNON』2026年10月号(主婦と生活社)に登場する。",
         "groups": [
           "M!LK"
         ],
@@ -78,7 +122,56 @@
         ],
         "memberMatches": [
           {
-            "name": "曽野舜太",
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "8c653e446a05290f",
+        "title": "「ガチのシゴデキ」「ギャップすごすぎてえぐい」M!LKの展示会や花火大会コラボ… 率先してグループを引っ張るメンバーの“行動力”に驚き「すげーな!」「絶大な信頼だった」",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20260819-4829678/",
+        "publishedAt": "2026-08-19T10:00:00.000Z",
+        "summary": "「スケジュール管理能力がいかつい」アイドルグループ・M!LKが、メンバーの塩崎太智(※崎はたつさき)の“行動力”を称賛した―。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "67d0a130aa4a3fac",
+        "title": "M!LK佐野勇斗＆吉田仁人のユニット曲「罪と罰と雨とキス」MV撮影現場に『JUNON』が独占密着",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000867210/",
+        "publishedAt": "2026-08-19T08:00:04.000Z",
+        "summary": "M!LKの佐野勇斗と吉田仁人が、8月21日に発売される『JUNON』10月号に登場する。 ■佐野勇斗と吉...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
             "group": "M!LK",
             "status": "active"
           },
@@ -92,8 +185,8 @@
       {
         "id": "16fb7f9f1f6e308c",
         "title": "M!LK曽野舜太にパンサー尾形が「水イイじゃん!」懇願 『有吉の壁』EBiDANライブ本番当日にコラボ",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "sourceName": "マイナビニュース テレビ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
         "articleUrl": "https://news.mynavi.jp/article/20260819-4835845/",
         "publishedAt": "2026-08-18T21:00:00.000Z",
         "summary": "ライブ本番当日に『有吉の壁』のロケへ――M!LKの塩崎太智、曽野舜太、吉田仁人が、19日に放送される日本テレビ系バラエティ番組『有吉の壁』(毎週水曜19:00～)の「EBiDANライブコラボSP」に登場する。3人はさらば青春の光とコラボするものの、時間がなさすぎて思わぬ展開に。さらに曽野には、パンサー尾形が「水イイじゃん!」を一緒にやってほしいと懇願する。",
@@ -121,22 +214,6 @@
             "status": "active"
           }
         ]
-      },
-      {
-        "id": "79aaf80c37974e74",
-        "title": "超特急、M!LKらEBiDANメンバーが壁芸人とコラボ！「有吉の壁×EBiDANライブコラボSP」今夜放送",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000866647/",
-        "publishedAt": "2026-08-18T21:00:00.000Z",
-        "summary": "8月19日放送の日本テレビ系『有吉の壁』（毎週水曜 19時～）は、超特急やM!LKを擁する恵比寿学...",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
       },
       {
         "id": "f7a16bf22f2b75a9",
@@ -164,36 +241,148 @@
             "status": "active"
           }
         ]
-      },
+      }
+    ],
+    "ICEx": [
       {
-        "id": "8ab4ff5729972f98",
-        "title": "山中柔太朗（M!LK）、「CM NOW BOYS VOL.17」表紙／巻頭に登場",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/08/17/tgb004",
-        "publishedAt": "2026-08-17T04:45:00.000Z",
-        "summary": "",
+        "id": "c4b11de898d9fd00",
+        "title": "ICEx、ライバルグループ（？）HOTxによる初楽曲「熱烈ファイヤー」のMV公開",
+        "sourceName": "BARKS",
+        "sourceUrl": "https://www.barks.jp/feed/",
+        "articleUrl": "https://barks.jp/news/1084258",
+        "publishedAt": "2026-08-19T11:00:00.000Z",
+        "summary": "ICEx（読み：アイス）のライバルグループ・HOTx（読み：ホット）が、初楽曲「熱烈ファイヤー」のMVを公開した。 HOTxは、アルファ星から舞い降りた貴公子・HARUSE、最大火力の青い炎・RIKU、大地を揺るがすタップダンサー・TOSHIAKI、熱唱・熱狂・大合唱のRYOSUKE、吹き出した汗と色気が止まらないOTARO、得意技は光合成、太陽は友達・HA",
         "groups": [
-          "M!LK"
+          "ICEx"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "山中柔太朗",
-            "group": "M!LK",
+            "name": "志賀李玖",
+            "group": "ICEx",
+            "status": "active"
+          },
+          {
+            "name": "中村旺太郎",
+            "group": "ICEx",
+            "status": "active"
+          },
+          {
+            "name": "阿久根温世",
+            "group": "ICEx",
+            "status": "active"
+          },
+          {
+            "name": "千田波空斗",
+            "group": "ICEx",
+            "status": "active"
+          },
+          {
+            "name": "筒井俊旭",
+            "group": "ICEx",
+            "status": "active"
+          },
+          {
+            "name": "山本龍人",
+            "group": "ICEx",
+            "status": "active"
+          },
+          {
+            "name": "竹野世梛",
+            "group": "ICEx",
+            "status": "active"
+          },
+          {
+            "name": "八神遼介",
+            "group": "ICEx",
             "status": "active"
           }
         ]
+      }
+    ],
+    "SUPER★DRAGON": [
+      {
+        "id": "ab97f608347cc9bf",
+        "title": "SUPER★DRAGON「DRA FES 2026」オフィシャルグッズ、ミニ生写真セット 事前通販のお知らせ",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11568/",
+        "publishedAt": "2026-08-19T08:00:32.000Z",
+        "summary": "2026年9月24日(木)東京、9月27日(日)大阪にて開催される、 SUPER★DRAGON「DRA FES 2026」公演に先駆けて、スタダ便にてオフィシャルグッズ、ミニ生写真セットの事前通販が決定いたしました！ 龍 […] The post SUPER★DRAGON「DRA FES 2026」オフィシャルグッズ、ミニ生写真セット 事前通販のお知らせ f",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "9d2289f2fe4ea4b6",
+        "title": "「SUPER★DRAGON DRA FES 2026 追加公演」最新チケット情報",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11564/",
+        "publishedAt": "2026-08-18T09:00:46.000Z",
+        "summary": "本日8月18日(火)18:00よりオフィシャルファンクラブ『AREA SD』会員2次先行が受付開始。 会場で皆さんとお会いできることを楽しみにしております！ ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴 […] The post 「SUPER★DRAGON DRA FES 2026 追加公演」最新チケット情報 first appeared ",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "91a2a4d301121007",
+        "title": "【SUPERSTAR EBiDAN】 「EBiDAN THE LIVE 2026 15th Anniversary」開催記念！ゲーム内イベント実施",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11560/",
+        "publishedAt": "2026-08-12T08:00:18.000Z",
+        "summary": "EBiDAN公式リズムゲーム『SUPERSTAR EBiDAN』では、 「EBiDAN THE LIVE 2026 15th Anniversary」の開催を記念して、期間限定のゲーム内イベントを実施いたします！ ここで […] The post 【SUPERSTAR EBiDAN】 「EBiDAN THE LIVE 2026 15th Anniversar",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "1ad5810b4c9a0a8b",
+        "title": "本日8月11日(火・祝)発売、 EBiDAN15周年記念シングル「Yes! 東京」のを公開！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11555/",
+        "publishedAt": "2026-08-11T08:30:18.000Z",
+        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して、本日8月11日(火・祝)にリリースされたシングル「Yes! 東京」のMaking Lyric Videoを公開！ 本日公開された映像は、4日間に渡って撮影されたMu […] The post 本日8月11日(火・祝)発売、 EBiDAN15周年記念シングル「Yes! 東京」の を公開！ first ap",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "abb0cde9a3991b12",
+        "title": "シングル「Yes! 東京」＆アルバム「Yes! 東京 (体験入学版)」、デジタルリリース決定！各種キャンペーンもスタート！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11544/",
+        "publishedAt": "2026-08-10T08:00:46.000Z",
+        "summary": "ついにCD発売を迎えるEBiDAN (恵比寿学園男子部)「Yes! 東京」が、デジタルシングルとしてもリリースが決定いたしました。リード曲「Yes! 東京」に加え、カップリングには昨年の『EBiDAN THE LIVE […] The post シングル「Yes! 東京」＆アルバム「Yes! 東京 (体験入学版)」、デジタルリリース決定！各種キャンペーンもス",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
       }
     ],
     "EBiDAN": [
       {
         "id": "16fb7f9f1f6e308c",
         "title": "M!LK曽野舜太にパンサー尾形が「水イイじゃん!」懇願 『有吉の壁』EBiDANライブ本番当日にコラボ",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "sourceName": "マイナビニュース テレビ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
         "articleUrl": "https://news.mynavi.jp/article/20260819-4835845/",
         "publishedAt": "2026-08-18T21:00:00.000Z",
         "summary": "ライブ本番当日に『有吉の壁』のロケへ――M!LKの塩崎太智、曽野舜太、吉田仁人が、19日に放送される日本テレビ系バラエティ番組『有吉の壁』(毎週水曜19:00～)の「EBiDANライブコラボSP」に登場する。3人はさらば青春の光とコラボするものの、時間がなさすぎて思わぬ展開に。さらに曽野には、パンサー尾形が「水イイじゃん!」を一緒にやってほしいと懇願する。",
@@ -223,22 +412,6 @@
         ]
       },
       {
-        "id": "79aaf80c37974e74",
-        "title": "超特急、M!LKらEBiDANメンバーが壁芸人とコラボ！「有吉の壁×EBiDANライブコラボSP」今夜放送",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000866647/",
-        "publishedAt": "2026-08-18T21:00:00.000Z",
-        "summary": "8月19日放送の日本テレビ系『有吉の壁』（毎週水曜 19時～）は、超特急やM!LKを擁する恵比寿学...",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
         "id": "a7a04ada4eb6e59d",
         "title": "EBiDAN（恵比寿学園男子部）、15周年記念シングル『Yes! 東京』より表題曲MV「おのおののネームver.」公開",
         "sourceName": "タワーレコード ニュース",
@@ -248,6 +421,22 @@
         "summary": "",
         "groups": [
           "EBiDAN"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "4dc861ad46fe5a0c",
+        "title": "EBiDAN、15周年記念シングル「Yes! 東京」メンバー60人の名前入りMV公開！初日116万枚突破の話題曲",
+        "sourceName": "WWSチャンネル",
+        "sourceUrl": "https://www.wws-channel.com/feed",
+        "articleUrl": "https://www.wws-channel.com/music2/662201.html",
+        "publishedAt": "2026-08-17T11:00:03.000Z",
+        "summary": "超特急やM!LKらが所属する男性アーティスト集団・EBiDANが、15周年記念シングル「Yes! 東京」のMUSIC VIDEO「おのおののネーム ver.」を8月15日に公開した。「おのおののネーム ver.」は、7月に公開された「Yes! 東京」のMUSIC VID ... The post EBiDAN、15周年記念シングル「Yes! 東京」メンバー6",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK"
         ],
         "statuses": [],
         "memberMatches": []
@@ -283,13 +472,13 @@
     ],
     "超特急": [
       {
-        "id": "79aaf80c37974e74",
-        "title": "超特急、M!LKらEBiDANメンバーが壁芸人とコラボ！「有吉の壁×EBiDANライブコラボSP」今夜放送",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000866647/",
-        "publishedAt": "2026-08-18T21:00:00.000Z",
-        "summary": "8月19日放送の日本テレビ系『有吉の壁』（毎週水曜 19時～）は、超特急やM!LKを擁する恵比寿学...",
+        "id": "4dc861ad46fe5a0c",
+        "title": "EBiDAN、15周年記念シングル「Yes! 東京」メンバー60人の名前入りMV公開！初日116万枚突破の話題曲",
+        "sourceName": "WWSチャンネル",
+        "sourceUrl": "https://www.wws-channel.com/feed",
+        "articleUrl": "https://www.wws-channel.com/music2/662201.html",
+        "publishedAt": "2026-08-17T11:00:03.000Z",
+        "summary": "超特急やM!LKらが所属する男性アーティスト集団・EBiDANが、15周年記念シングル「Yes! 東京」のMUSIC VIDEO「おのおののネーム ver.」を8月15日に公開した。「おのおののネーム ver.」は、7月に公開された「Yes! 東京」のMUSIC VID ... The post EBiDAN、15周年記念シングル「Yes! 東京」メンバー6",
         "groups": [
           "EBiDAN",
           "超特急",
@@ -316,6 +505,119 @@
           {
             "name": "リョウガ",
             "group": "超特急",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "397a635043a0e0e2",
+        "title": "映画『ワンダンス』新キャストにGirls2山口綺羅、MAZZEL・RAN、TSUKKI、超特急・髙松アロハ",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/07/89594/",
+        "publishedAt": "2026-07-22T09:00:00.000Z",
+        "summary": "11月27日(金)に公開されるJO（&TEAM）初主演映画『ワンダンス』の新キャストとして山口綺羅（Girls2）、RAN（MAZZEL）、現役DリーガーのTSUKKI、髙松アロハ（超特急）が出演することが発表された。 原作は単行本累計発行部数110万部を突破し「月刊アフタヌーン」（講談社）で連載中の珈琲による同名漫画。ダンサーからも熱く支持され、昨年放送さ",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "アロハ",
+            "group": "超特急",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "382225983e9781d4",
+        "title": "8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 7月2日からの先行配信リリースに合わせて デジタルキャンペーンが追加決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11354/",
+        "publishedAt": "2026-07-01T06:00:22.000Z",
+        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して8月11日(火・祝)にリリースされる「Yes! 東京」が、いよいよ7月2日（木）より先行配信リリースとなります。超特急、M!LK、SUPER★DRAGON、Sakur […] The post 8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 7月2日からの先行配信リリースに合わせて デ",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "cc5ac2d0f2585820",
+        "title": "佐々木美玲＆森次政裕の健やかさの秘訣。共演してわかった互いの愛され力とは？",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/06/87486/",
+        "publishedAt": "2026-06-11T09:00:00.000Z",
+        "summary": "一夜限りの関係を結んだ相手は、誰もが羨むハイスペ社長だった──。 2026年4月クールで放送中のドラマ特区『あの夜、社長の子供を授かりました』は、一夜の過ちから運命が大きく変わる波乱のラブストーリー。自己評価の低さゆえに、つい自分を犠牲にして他人のために頑張りすぎてしまうヒロイン・花井栞里を佐々木美玲。そんな栞里に無償の愛を注ぐ溺愛社長・瀬古貴人を森次政裕（",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
+    "原因は自分にある。": [
+      {
+        "id": "15fb9ee4d3775ce2",
+        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/07/89645/",
+        "publishedAt": "2026-07-24T12:00:00.000Z",
+        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
+        "groups": [
+          "原因は自分にある。",
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "BUDDiiS": [
+      {
+        "id": "15fb9ee4d3775ce2",
+        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/07/89645/",
+        "publishedAt": "2026-07-24T12:00:00.000Z",
+        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
+        "groups": [
+          "原因は自分にある。",
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
             "status": "active"
           }
         ]
