@@ -1,6 +1,55 @@
 {
-  "updatedAt": "2026-08-18T18:55:47.171Z",
+  "updatedAt": "2026-08-19T01:52:54.063Z",
   "articles": [
+    {
+      "id": "16fb7f9f1f6e308c",
+      "title": "M!LK曽野舜太にパンサー尾形が「水イイじゃん!」懇願 『有吉の壁』EBiDANライブ本番当日にコラボ",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260819-4835845/",
+      "publishedAt": "2026-08-18T21:00:00.000Z",
+      "summary": "ライブ本番当日に『有吉の壁』のロケへ――M!LKの塩崎太智、曽野舜太、吉田仁人が、19日に放送される日本テレビ系バラエティ番組『有吉の壁』(毎週水曜19:00～)の「EBiDANライブコラボSP」に登場する。3人はさらば青春の光とコラボするものの、時間がなさすぎて思わぬ展開に。さらに曽野には、パンサー尾形が「水イイじゃん!」を一緒にやってほしいと懇願する。",
+      "groups": [
+        "EBiDAN",
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "塩﨑太智",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "曽野舜太",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "79aaf80c37974e74",
+      "title": "超特急、M!LKらEBiDANメンバーが壁芸人とコラボ！「有吉の壁×EBiDANライブコラボSP」今夜放送",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000866647/",
+      "publishedAt": "2026-08-18T21:00:00.000Z",
+      "summary": "8月19日放送の日本テレビ系『有吉の壁』（毎週水曜 19時～）は、超特急やM!LKを擁する恵比寿学...",
+      "groups": [
+        "EBiDAN",
+        "超特急",
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "1b2cb3b985a8b6a5",
       "title": "『君の好きは無敵』“カッコ悪い”佐野勇斗にこそ惹かれる理由 不器用な恋が生み出す魅力",
@@ -83,33 +132,6 @@
       "articleUrl": "https://tower.jp/article/news/2026/08/18/tgb002",
       "publishedAt": "2026-08-18T06:00:00.000Z",
       "summary": "",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "曽野舜太",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "山中柔太朗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "6f0db28bd44291b6",
-      "title": "M!LK山中柔太朗＆曽野舜太が寝そべり密着！“白まつ毛”や顔にパールを散りばめた幻想的ビジュアルに「天界の双子やわしゅん」「え、幻？」「透明感ハンパない」「美しすぎて絵画かと思った」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000866477/",
-      "publishedAt": "2026-08-18T05:32:12.000Z",
-      "summary": "『SODA』編集部の公式SNSで、M!LKの山中柔太朗と曽野舜太を起用した『SODA PLUS vol.12』（8月...",
       "groups": [
         "M!LK"
       ],
