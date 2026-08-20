@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-08-19T18:52:53.327Z",
+  "updatedAt": "2026-08-20T01:51:12.382Z",
   "articles": [
+    {
+      "id": "86c5f405d92839df",
+      "title": "超特急・M!LKの弟分Lienel、ゴールデン番組で“大暴れ” 高岡ミロ「伸び伸びと発言できた」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260820-4840016/",
+      "publishedAt": "2026-08-19T21:00:00.000Z",
+      "summary": "EBiDANで、超特急やM!LKの弟分グループ・Lienelの近藤駿太、高岡ミロが、きょう20日に放送されるフジテレビ系音楽バラエティ特番『ミュージックジェネレーション』3時間スペシャル(19:00～)に出演する。",
+      "groups": [
+        "EBiDAN",
+        "超特急",
+        "M!LK",
+        "Lienel"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "近藤駿太",
+          "group": "Lienel",
+          "status": "active"
+        },
+        {
+          "name": "高岡ミロ",
+          "group": "Lienel",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "bc9dd48e2f68dbe6",
       "title": "M!LK佐野勇斗＆吉田仁人、イジり合いから不仲説が浮上（笑）「なんか…この空気だけ切り取ると仲悪いって思われそう（笑）」",

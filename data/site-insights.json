@@ -1,29 +1,33 @@
 {
-  "updatedAt": "2026-08-19T18:52:53.329Z",
+  "updatedAt": "2026-08-20T01:51:12.385Z",
   "totals": {
-    "all": 133,
-    "today": 1,
-    "week": 15
+    "all": 134,
+    "today": 2,
+    "week": 16
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 8
+      "count": 9
     },
     {
       "name": "EBiDAN",
-      "count": 5
+      "count": 6
+    },
+    {
+      "name": "超特急",
+      "count": 3
     },
     {
       "name": "SUPER★DRAGON",
       "count": 2
     },
     {
-      "name": "超特急",
-      "count": 2
+      "name": "ICEx",
+      "count": 1
     },
     {
-      "name": "ICEx",
+      "name": "Lienel",
       "count": 1
     }
   ],
@@ -57,15 +61,15 @@
       "count": 1
     },
     {
+      "name": "近藤駿太",
+      "count": 1
+    },
+    {
+      "name": "高岡ミロ",
+      "count": 1
+    },
+    {
       "name": "山本龍人",
-      "count": 1
-    },
-    {
-      "name": "志賀李玖",
-      "count": 1
-    },
-    {
-      "name": "千田波空斗",
       "count": 1
     }
   ],
@@ -75,15 +79,15 @@
       "count": 5
     },
     {
+      "name": "マイナビニュース エンタメ",
+      "count": 3
+    },
+    {
       "name": "SUPER★DRAGON 公式NEWS",
       "count": 2
     },
     {
       "name": "THE FIRST TIMES",
-      "count": 2
-    },
-    {
-      "name": "マイナビニュース エンタメ",
       "count": 2
     },
     {
@@ -105,7 +109,255 @@
   ],
   "topics": [],
   "recentByGroup": {
+    "EBiDAN": [
+      {
+        "id": "86c5f405d92839df",
+        "title": "超特急・M!LKの弟分Lienel、ゴールデン番組で“大暴れ” 高岡ミロ「伸び伸びと発言できた」",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20260820-4840016/",
+        "publishedAt": "2026-08-19T21:00:00.000Z",
+        "summary": "EBiDANで、超特急やM!LKの弟分グループ・Lienelの近藤駿太、高岡ミロが、きょう20日に放送されるフジテレビ系音楽バラエティ特番『ミュージックジェネレーション』3時間スペシャル(19:00～)に出演する。",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK",
+          "Lienel"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "近藤駿太",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "高岡ミロ",
+            "group": "Lienel",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "16fb7f9f1f6e308c",
+        "title": "M!LK曽野舜太にパンサー尾形が「水イイじゃん!」懇願 『有吉の壁』EBiDANライブ本番当日にコラボ",
+        "sourceName": "マイナビニュース テレビ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
+        "articleUrl": "https://news.mynavi.jp/article/20260819-4835845/",
+        "publishedAt": "2026-08-18T21:00:00.000Z",
+        "summary": "ライブ本番当日に『有吉の壁』のロケへ――M!LKの塩崎太智、曽野舜太、吉田仁人が、19日に放送される日本テレビ系バラエティ番組『有吉の壁』(毎週水曜19:00～)の「EBiDANライブコラボSP」に登場する。3人はさらば青春の光とコラボするものの、時間がなさすぎて思わぬ展開に。さらに曽野には、パンサー尾形が「水イイじゃん!」を一緒にやってほしいと懇願する。",
+        "groups": [
+          "EBiDAN",
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "a7a04ada4eb6e59d",
+        "title": "EBiDAN（恵比寿学園男子部）、15周年記念シングル『Yes! 東京』より表題曲MV「おのおののネームver.」公開",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/08/18/tg003",
+        "publishedAt": "2026-08-18T04:00:00.000Z",
+        "summary": "",
+        "groups": [
+          "EBiDAN"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "4dc861ad46fe5a0c",
+        "title": "EBiDAN、15周年記念シングル「Yes! 東京」メンバー60人の名前入りMV公開！初日116万枚突破の話題曲",
+        "sourceName": "WWSチャンネル",
+        "sourceUrl": "https://www.wws-channel.com/feed",
+        "articleUrl": "https://www.wws-channel.com/music2/662201.html",
+        "publishedAt": "2026-08-17T11:00:03.000Z",
+        "summary": "超特急やM!LKらが所属する男性アーティスト集団・EBiDANが、15周年記念シングル「Yes! 東京」のMUSIC VIDEO「おのおののネーム ver.」を8月15日に公開した。「おのおののネーム ver.」は、7月に公開された「Yes! 東京」のMUSIC VID ... The post EBiDAN、15周年記念シングル「Yes! 東京」メンバー6",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "f85376311ade649f",
+        "title": "EBiDAN（恵比寿学園男子部）が登場。「日経エンタテインメント！2026年9月号」特装版の緊急重版決定",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/08/17/tgb001",
+        "publishedAt": "2026-08-17T03:30:00.000Z",
+        "summary": "",
+        "groups": [
+          "EBiDAN"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
+    "超特急": [
+      {
+        "id": "86c5f405d92839df",
+        "title": "超特急・M!LKの弟分Lienel、ゴールデン番組で“大暴れ” 高岡ミロ「伸び伸びと発言できた」",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20260820-4840016/",
+        "publishedAt": "2026-08-19T21:00:00.000Z",
+        "summary": "EBiDANで、超特急やM!LKの弟分グループ・Lienelの近藤駿太、高岡ミロが、きょう20日に放送されるフジテレビ系音楽バラエティ特番『ミュージックジェネレーション』3時間スペシャル(19:00～)に出演する。",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK",
+          "Lienel"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "近藤駿太",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "高岡ミロ",
+            "group": "Lienel",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "4dc861ad46fe5a0c",
+        "title": "EBiDAN、15周年記念シングル「Yes! 東京」メンバー60人の名前入りMV公開！初日116万枚突破の話題曲",
+        "sourceName": "WWSチャンネル",
+        "sourceUrl": "https://www.wws-channel.com/feed",
+        "articleUrl": "https://www.wws-channel.com/music2/662201.html",
+        "publishedAt": "2026-08-17T11:00:03.000Z",
+        "summary": "超特急やM!LKらが所属する男性アーティスト集団・EBiDANが、15周年記念シングル「Yes! 東京」のMUSIC VIDEO「おのおののネーム ver.」を8月15日に公開した。「おのおののネーム ver.」は、7月に公開された「Yes! 東京」のMUSIC VID ... The post EBiDAN、15周年記念シングル「Yes! 東京」メンバー6",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "dce31689d53942e2",
+        "title": "超特急『ESCORT』ツアーファイナルで見せた“感動を超えた場所”。15年の軌跡を乗せて、9人で東京ドームへ",
+        "sourceName": "QJWeb",
+        "sourceUrl": "https://qjweb.jp/feed/",
+        "articleUrl": "https://qjweb.jp/column/163651/",
+        "publishedAt": "2026-08-14T03:04:05.000Z",
+        "summary": "9人組メインダンサー&バックボーカルグループ・超特急が、アリーナツアー『BULLET TRAIN ARENA TOUR 2026「ESCORT」』の最終公演を2026年8月8日、9日に神奈川・Kアリーナ横浜で開催した。 11月に初の東京ドーム公演を控えるなか、リーダー・リョウガが休養のため不.. 投稿 超特急『ESCORT』ツアーファイナルで見せた“感動を超",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "リョウガ",
+            "group": "超特急",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "397a635043a0e0e2",
+        "title": "映画『ワンダンス』新キャストにGirls2山口綺羅、MAZZEL・RAN、TSUKKI、超特急・髙松アロハ",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/07/89594/",
+        "publishedAt": "2026-07-22T09:00:00.000Z",
+        "summary": "11月27日(金)に公開されるJO（&TEAM）初主演映画『ワンダンス』の新キャストとして山口綺羅（Girls2）、RAN（MAZZEL）、現役DリーガーのTSUKKI、髙松アロハ（超特急）が出演することが発表された。 原作は単行本累計発行部数110万部を突破し「月刊アフタヌーン」（講談社）で連載中の珈琲による同名漫画。ダンサーからも熱く支持され、昨年放送さ",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "アロハ",
+            "group": "超特急",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "382225983e9781d4",
+        "title": "8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 7月2日からの先行配信リリースに合わせて デジタルキャンペーンが追加決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11354/",
+        "publishedAt": "2026-07-01T06:00:22.000Z",
+        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して8月11日(火・祝)にリリースされる「Yes! 東京」が、いよいよ7月2日（木）より先行配信リリースとなります。超特急、M!LK、SUPER★DRAGON、Sakur […] The post 8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 7月2日からの先行配信リリースに合わせて デ",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
     "M!LK": [
+      {
+        "id": "86c5f405d92839df",
+        "title": "超特急・M!LKの弟分Lienel、ゴールデン番組で“大暴れ” 高岡ミロ「伸び伸びと発言できた」",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20260820-4840016/",
+        "publishedAt": "2026-08-19T21:00:00.000Z",
+        "summary": "EBiDANで、超特急やM!LKの弟分グループ・Lienelの近藤駿太、高岡ミロが、きょう20日に放送されるフジテレビ系音楽バラエティ特番『ミュージックジェネレーション』3時間スペシャル(19:00～)に出演する。",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK",
+          "Lienel"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "近藤駿太",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "高岡ミロ",
+            "group": "Lienel",
+            "status": "active"
+          }
+        ]
+      },
       {
         "id": "bc9dd48e2f68dbe6",
         "title": "M!LK佐野勇斗＆吉田仁人、イジり合いから不仲説が浮上（笑）「なんか…この空気だけ切り取ると仲悪いって思われそう（笑）」",
@@ -208,36 +460,35 @@
             "status": "active"
           }
         ]
-      },
+      }
+    ],
+    "Lienel": [
       {
-        "id": "16fb7f9f1f6e308c",
-        "title": "M!LK曽野舜太にパンサー尾形が「水イイじゃん!」懇願 『有吉の壁』EBiDANライブ本番当日にコラボ",
-        "sourceName": "マイナビニュース テレビ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-        "articleUrl": "https://news.mynavi.jp/article/20260819-4835845/",
-        "publishedAt": "2026-08-18T21:00:00.000Z",
-        "summary": "ライブ本番当日に『有吉の壁』のロケへ――M!LKの塩崎太智、曽野舜太、吉田仁人が、19日に放送される日本テレビ系バラエティ番組『有吉の壁』(毎週水曜19:00～)の「EBiDANライブコラボSP」に登場する。3人はさらば青春の光とコラボするものの、時間がなさすぎて思わぬ展開に。さらに曽野には、パンサー尾形が「水イイじゃん!」を一緒にやってほしいと懇願する。",
+        "id": "86c5f405d92839df",
+        "title": "超特急・M!LKの弟分Lienel、ゴールデン番組で“大暴れ” 高岡ミロ「伸び伸びと発言できた」",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20260820-4840016/",
+        "publishedAt": "2026-08-19T21:00:00.000Z",
+        "summary": "EBiDANで、超特急やM!LKの弟分グループ・Lienelの近藤駿太、高岡ミロが、きょう20日に放送されるフジテレビ系音楽バラエティ特番『ミュージックジェネレーション』3時間スペシャル(19:00～)に出演する。",
         "groups": [
           "EBiDAN",
-          "M!LK"
+          "超特急",
+          "M!LK",
+          "Lienel"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "塩﨑太智",
-            "group": "M!LK",
+            "name": "近藤駿太",
+            "group": "Lienel",
             "status": "active"
           },
           {
-            "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
+            "name": "高岡ミロ",
+            "group": "Lienel",
             "status": "active"
           }
         ]
@@ -372,192 +623,6 @@
         "groups": [
           "EBiDAN",
           "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "EBiDAN": [
-      {
-        "id": "16fb7f9f1f6e308c",
-        "title": "M!LK曽野舜太にパンサー尾形が「水イイじゃん!」懇願 『有吉の壁』EBiDANライブ本番当日にコラボ",
-        "sourceName": "マイナビニュース テレビ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-        "articleUrl": "https://news.mynavi.jp/article/20260819-4835845/",
-        "publishedAt": "2026-08-18T21:00:00.000Z",
-        "summary": "ライブ本番当日に『有吉の壁』のロケへ――M!LKの塩崎太智、曽野舜太、吉田仁人が、19日に放送される日本テレビ系バラエティ番組『有吉の壁』(毎週水曜19:00～)の「EBiDANライブコラボSP」に登場する。3人はさらば青春の光とコラボするものの、時間がなさすぎて思わぬ展開に。さらに曽野には、パンサー尾形が「水イイじゃん!」を一緒にやってほしいと懇願する。",
-        "groups": [
-          "EBiDAN",
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "a7a04ada4eb6e59d",
-        "title": "EBiDAN（恵比寿学園男子部）、15周年記念シングル『Yes! 東京』より表題曲MV「おのおののネームver.」公開",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/08/18/tg003",
-        "publishedAt": "2026-08-18T04:00:00.000Z",
-        "summary": "",
-        "groups": [
-          "EBiDAN"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "4dc861ad46fe5a0c",
-        "title": "EBiDAN、15周年記念シングル「Yes! 東京」メンバー60人の名前入りMV公開！初日116万枚突破の話題曲",
-        "sourceName": "WWSチャンネル",
-        "sourceUrl": "https://www.wws-channel.com/feed",
-        "articleUrl": "https://www.wws-channel.com/music2/662201.html",
-        "publishedAt": "2026-08-17T11:00:03.000Z",
-        "summary": "超特急やM!LKらが所属する男性アーティスト集団・EBiDANが、15周年記念シングル「Yes! 東京」のMUSIC VIDEO「おのおののネーム ver.」を8月15日に公開した。「おのおののネーム ver.」は、7月に公開された「Yes! 東京」のMUSIC VID ... The post EBiDAN、15周年記念シングル「Yes! 東京」メンバー6",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "f85376311ade649f",
-        "title": "EBiDAN（恵比寿学園男子部）が登場。「日経エンタテインメント！2026年9月号」特装版の緊急重版決定",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/08/17/tgb001",
-        "publishedAt": "2026-08-17T03:30:00.000Z",
-        "summary": "",
-        "groups": [
-          "EBiDAN"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "03aad97b9a26b11f",
-        "title": "「J-POPシングル ウィークリーTOP30」発表。1位はEBiDAN（恵比寿学園男子部）『Yes! 東京』、予約1位はINI『ANTHEM』（2026年8月13日付）",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/08/13/tg006",
-        "publishedAt": "2026-08-13T10:00:00.000Z",
-        "summary": "",
-        "groups": [
-          "EBiDAN"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "超特急": [
-      {
-        "id": "4dc861ad46fe5a0c",
-        "title": "EBiDAN、15周年記念シングル「Yes! 東京」メンバー60人の名前入りMV公開！初日116万枚突破の話題曲",
-        "sourceName": "WWSチャンネル",
-        "sourceUrl": "https://www.wws-channel.com/feed",
-        "articleUrl": "https://www.wws-channel.com/music2/662201.html",
-        "publishedAt": "2026-08-17T11:00:03.000Z",
-        "summary": "超特急やM!LKらが所属する男性アーティスト集団・EBiDANが、15周年記念シングル「Yes! 東京」のMUSIC VIDEO「おのおののネーム ver.」を8月15日に公開した。「おのおののネーム ver.」は、7月に公開された「Yes! 東京」のMUSIC VID ... The post EBiDAN、15周年記念シングル「Yes! 東京」メンバー6",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "dce31689d53942e2",
-        "title": "超特急『ESCORT』ツアーファイナルで見せた“感動を超えた場所”。15年の軌跡を乗せて、9人で東京ドームへ",
-        "sourceName": "QJWeb",
-        "sourceUrl": "https://qjweb.jp/feed/",
-        "articleUrl": "https://qjweb.jp/column/163651/",
-        "publishedAt": "2026-08-14T03:04:05.000Z",
-        "summary": "9人組メインダンサー&バックボーカルグループ・超特急が、アリーナツアー『BULLET TRAIN ARENA TOUR 2026「ESCORT」』の最終公演を2026年8月8日、9日に神奈川・Kアリーナ横浜で開催した。 11月に初の東京ドーム公演を控えるなか、リーダー・リョウガが休養のため不.. 投稿 超特急『ESCORT』ツアーファイナルで見せた“感動を超",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "リョウガ",
-            "group": "超特急",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "397a635043a0e0e2",
-        "title": "映画『ワンダンス』新キャストにGirls2山口綺羅、MAZZEL・RAN、TSUKKI、超特急・髙松アロハ",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/07/89594/",
-        "publishedAt": "2026-07-22T09:00:00.000Z",
-        "summary": "11月27日(金)に公開されるJO（&TEAM）初主演映画『ワンダンス』の新キャストとして山口綺羅（Girls2）、RAN（MAZZEL）、現役DリーガーのTSUKKI、髙松アロハ（超特急）が出演することが発表された。 原作は単行本累計発行部数110万部を突破し「月刊アフタヌーン」（講談社）で連載中の珈琲による同名漫画。ダンサーからも熱く支持され、昨年放送さ",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "アロハ",
-            "group": "超特急",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "382225983e9781d4",
-        "title": "8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 7月2日からの先行配信リリースに合わせて デジタルキャンペーンが追加決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11354/",
-        "publishedAt": "2026-07-01T06:00:22.000Z",
-        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して8月11日(火・祝)にリリースされる「Yes! 東京」が、いよいよ7月2日（木）より先行配信リリースとなります。超特急、M!LK、SUPER★DRAGON、Sakur […] The post 8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 7月2日からの先行配信リリースに合わせて デ",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "cc5ac2d0f2585820",
-        "title": "佐々木美玲＆森次政裕の健やかさの秘訣。共演してわかった互いの愛され力とは？",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/06/87486/",
-        "publishedAt": "2026-06-11T09:00:00.000Z",
-        "summary": "一夜限りの関係を結んだ相手は、誰もが羨むハイスペ社長だった──。 2026年4月クールで放送中のドラマ特区『あの夜、社長の子供を授かりました』は、一夜の過ちから運命が大きく変わる波乱のラブストーリー。自己評価の低さゆえに、つい自分を犠牲にして他人のために頑張りすぎてしまうヒロイン・花井栞里を佐々木美玲。そんな栞里に無償の愛を注ぐ溺愛社長・瀬古貴人を森次政裕（",
-        "groups": [
-          "超特急"
         ],
         "statuses": [],
         "memberMatches": []
