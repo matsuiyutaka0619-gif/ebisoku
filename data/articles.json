@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-08-20T01:51:12.382Z",
+  "updatedAt": "2026-08-20T07:05:31.765Z",
   "articles": [
+    {
+      "id": "e817dfbcf942f4ab",
+      "title": "佐野勇斗『TVガイドdan』表紙に登場！「グループがあるからひとりじゃ絶対に見られない景色が見られる」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000867653/",
+      "publishedAt": "2026-08-20T02:06:07.000Z",
+      "summary": "佐野勇斗が、『TVガイドdan vol.61』（8月20日発売）の表紙を飾っている。 ■佐野勇斗が登場す...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "86c5f405d92839df",
       "title": "超特急・M!LKの弟分Lienel、ゴールデン番組で“大暴れ” 高岡ミロ「伸び伸びと発言できた」",
@@ -59,112 +81,6 @@
       ]
     },
     {
-      "id": "639f5ff2dab31385",
-      "title": "M!LK佐野勇斗&吉田仁人が“チューしたいぐらいかわいいもの”とは「逆に…」「彼らがすごく…」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-      "articleUrl": "https://news.mynavi.jp/article/20260819-4839146/",
-      "publishedAt": "2026-08-19T11:00:00.000Z",
-      "summary": "アイドルグループ・M!LKの佐野勇斗と吉田仁人が、21日発売の月刊誌『JUNON』2026年10月号(主婦と生活社)に登場する。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "c4b11de898d9fd00",
-      "title": "ICEx、ライバルグループ（？）HOTxによる初楽曲「熱烈ファイヤー」のMV公開",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1084258",
-      "publishedAt": "2026-08-19T11:00:00.000Z",
-      "summary": "ICEx（読み：アイス）のライバルグループ・HOTx（読み：ホット）が、初楽曲「熱烈ファイヤー」のMVを公開した。 HOTxは、アルファ星から舞い降りた貴公子・HARUSE、最大火力の青い炎・RIKU、大地を揺るがすタップダンサー・TOSHIAKI、熱唱・熱狂・大合唱のRYOSUKE、吹き出した汗と色気が止まらないOTARO、得意技は光合成、太陽は友達・HA",
-      "groups": [
-        "ICEx"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "志賀李玖",
-          "group": "ICEx",
-          "status": "active"
-        },
-        {
-          "name": "中村旺太郎",
-          "group": "ICEx",
-          "status": "active"
-        },
-        {
-          "name": "阿久根温世",
-          "group": "ICEx",
-          "status": "active"
-        },
-        {
-          "name": "千田波空斗",
-          "group": "ICEx",
-          "status": "active"
-        },
-        {
-          "name": "筒井俊旭",
-          "group": "ICEx",
-          "status": "active"
-        },
-        {
-          "name": "山本龍人",
-          "group": "ICEx",
-          "status": "active"
-        },
-        {
-          "name": "竹野世梛",
-          "group": "ICEx",
-          "status": "active"
-        },
-        {
-          "name": "八神遼介",
-          "group": "ICEx",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "8c653e446a05290f",
-      "title": "「ガチのシゴデキ」「ギャップすごすぎてえぐい」M!LKの展示会や花火大会コラボ… 率先してグループを引っ張るメンバーの“行動力”に驚き「すげーな!」「絶大な信頼だった」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-      "articleUrl": "https://news.mynavi.jp/article/20260819-4829678/",
-      "publishedAt": "2026-08-19T10:00:00.000Z",
-      "summary": "「スケジュール管理能力がいかつい」アイドルグループ・M!LKが、メンバーの塩崎太智(※崎はたつさき)の“行動力”を称賛した―。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "塩﨑太智",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "ab97f608347cc9bf",
       "title": "SUPER★DRAGON「DRA FES 2026」オフィシャルグッズ、ミニ生写真セット 事前通販のお知らせ",
       "sourceName": "SUPER★DRAGON 公式NEWS",
@@ -177,33 +93,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "67d0a130aa4a3fac",
-      "title": "M!LK佐野勇斗＆吉田仁人のユニット曲「罪と罰と雨とキス」MV撮影現場に『JUNON』が独占密着",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000867210/",
-      "publishedAt": "2026-08-19T08:00:04.000Z",
-      "summary": "M!LKの佐野勇斗と吉田仁人が、8月21日に発売される『JUNON』10月号に登場する。 ■佐野勇斗と吉...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "16fb7f9f1f6e308c",
@@ -366,20 +255,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "03aad97b9a26b11f",
-      "title": "「J-POPシングル ウィークリーTOP30」発表。1位はEBiDAN（恵比寿学園男子部）『Yes! 東京』、予約1位はINI『ANTHEM』（2026年8月13日付）",
-      "sourceName": "タワーレコード ニュース",
-      "sourceUrl": "https://tower.jp/feeds/article/news",
-      "articleUrl": "https://tower.jp/article/news/2026/08/13/tg006",
-      "publishedAt": "2026-08-13T10:00:00.000Z",
-      "summary": "",
-      "groups": [
-        "EBiDAN"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "91a2a4d301121007",

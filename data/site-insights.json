@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-08-20T01:51:12.385Z",
+  "updatedAt": "2026-08-20T07:05:31.768Z",
   "totals": {
-    "all": 134,
-    "today": 2,
-    "week": 16
+    "all": 130,
+    "today": 3,
+    "week": 12
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 9
+      "count": 7
     },
     {
       "name": "EBiDAN",
-      "count": 6
+      "count": 5
     },
     {
       "name": "超特急",
@@ -23,10 +23,6 @@
       "count": 2
     },
     {
-      "name": "ICEx",
-      "count": 1
-    },
-    {
       "name": "Lienel",
       "count": 1
     }
@@ -34,14 +30,10 @@
   "memberRanking": [
     {
       "name": "吉田仁人",
-      "count": 4
+      "count": 2
     },
     {
       "name": "佐野勇斗",
-      "count": 3
-    },
-    {
-      "name": "塩﨑太智",
       "count": 2
     },
     {
@@ -57,7 +49,7 @@
       "count": 1
     },
     {
-      "name": "阿久根温世",
+      "name": "塩﨑太智",
       "count": 1
     },
     {
@@ -67,20 +59,12 @@
     {
       "name": "高岡ミロ",
       "count": 1
-    },
-    {
-      "name": "山本龍人",
-      "count": 1
     }
   ],
   "sourceRanking": [
     {
       "name": "タワーレコード ニュース",
-      "count": 5
-    },
-    {
-      "name": "マイナビニュース エンタメ",
-      "count": 3
+      "count": 4
     },
     {
       "name": "SUPER★DRAGON 公式NEWS",
@@ -91,15 +75,15 @@
       "count": 2
     },
     {
-      "name": "BARKS",
-      "count": 1
-    },
-    {
       "name": "QJWeb",
       "count": 1
     },
     {
       "name": "WWSチャンネル",
+      "count": 1
+    },
+    {
+      "name": "マイナビニュース エンタメ",
       "count": 1
     },
     {
@@ -109,6 +93,147 @@
   ],
   "topics": [],
   "recentByGroup": {
+    "M!LK": [
+      {
+        "id": "e817dfbcf942f4ab",
+        "title": "佐野勇斗『TVガイドdan』表紙に登場！「グループがあるからひとりじゃ絶対に見られない景色が見られる」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000867653/",
+        "publishedAt": "2026-08-20T02:06:07.000Z",
+        "summary": "佐野勇斗が、『TVガイドdan vol.61』（8月20日発売）の表紙を飾っている。 ■佐野勇斗が登場す...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "86c5f405d92839df",
+        "title": "超特急・M!LKの弟分Lienel、ゴールデン番組で“大暴れ” 高岡ミロ「伸び伸びと発言できた」",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20260820-4840016/",
+        "publishedAt": "2026-08-19T21:00:00.000Z",
+        "summary": "EBiDANで、超特急やM!LKの弟分グループ・Lienelの近藤駿太、高岡ミロが、きょう20日に放送されるフジテレビ系音楽バラエティ特番『ミュージックジェネレーション』3時間スペシャル(19:00～)に出演する。",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK",
+          "Lienel"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "近藤駿太",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "高岡ミロ",
+            "group": "Lienel",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "bc9dd48e2f68dbe6",
+        "title": "M!LK佐野勇斗＆吉田仁人、イジり合いから不仲説が浮上（笑）「なんか…この空気だけ切り取ると仲悪いって思われそう（笑）」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000867178/",
+        "publishedAt": "2026-08-19T15:00:42.000Z",
+        "summary": "M!LKの佐野勇斗と吉田仁人が出演する『ホットペッパーグルメ』の新WebCM『席押さえ召喚』篇が...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "16fb7f9f1f6e308c",
+        "title": "M!LK曽野舜太にパンサー尾形が「水イイじゃん!」懇願 『有吉の壁』EBiDANライブ本番当日にコラボ",
+        "sourceName": "マイナビニュース テレビ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
+        "articleUrl": "https://news.mynavi.jp/article/20260819-4835845/",
+        "publishedAt": "2026-08-18T21:00:00.000Z",
+        "summary": "ライブ本番当日に『有吉の壁』のロケへ――M!LKの塩崎太智、曽野舜太、吉田仁人が、19日に放送される日本テレビ系バラエティ番組『有吉の壁』(毎週水曜19:00～)の「EBiDANライブコラボSP」に登場する。3人はさらば青春の光とコラボするものの、時間がなさすぎて思わぬ展開に。さらに曽野には、パンサー尾形が「水イイじゃん!」を一緒にやってほしいと懇願する。",
+        "groups": [
+          "EBiDAN",
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "f7a16bf22f2b75a9",
+        "title": "山中柔太朗×曽野舜太（M!LK）、「SODA PLUS vol.12」表紙に登場",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/08/18/tgb002",
+        "publishedAt": "2026-08-18T06:00:00.000Z",
+        "summary": "",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      }
+    ],
     "EBiDAN": [
       {
         "id": "86c5f405d92839df",
@@ -327,141 +452,6 @@
         "memberMatches": []
       }
     ],
-    "M!LK": [
-      {
-        "id": "86c5f405d92839df",
-        "title": "超特急・M!LKの弟分Lienel、ゴールデン番組で“大暴れ” 高岡ミロ「伸び伸びと発言できた」",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20260820-4840016/",
-        "publishedAt": "2026-08-19T21:00:00.000Z",
-        "summary": "EBiDANで、超特急やM!LKの弟分グループ・Lienelの近藤駿太、高岡ミロが、きょう20日に放送されるフジテレビ系音楽バラエティ特番『ミュージックジェネレーション』3時間スペシャル(19:00～)に出演する。",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK",
-          "Lienel"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "近藤駿太",
-            "group": "Lienel",
-            "status": "active"
-          },
-          {
-            "name": "高岡ミロ",
-            "group": "Lienel",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "bc9dd48e2f68dbe6",
-        "title": "M!LK佐野勇斗＆吉田仁人、イジり合いから不仲説が浮上（笑）「なんか…この空気だけ切り取ると仲悪いって思われそう（笑）」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000867178/",
-        "publishedAt": "2026-08-19T15:00:42.000Z",
-        "summary": "M!LKの佐野勇斗と吉田仁人が出演する『ホットペッパーグルメ』の新WebCM『席押さえ召喚』篇が...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "639f5ff2dab31385",
-        "title": "M!LK佐野勇斗&吉田仁人が“チューしたいぐらいかわいいもの”とは「逆に…」「彼らがすごく…」",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20260819-4839146/",
-        "publishedAt": "2026-08-19T11:00:00.000Z",
-        "summary": "アイドルグループ・M!LKの佐野勇斗と吉田仁人が、21日発売の月刊誌『JUNON』2026年10月号(主婦と生活社)に登場する。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "8c653e446a05290f",
-        "title": "「ガチのシゴデキ」「ギャップすごすぎてえぐい」M!LKの展示会や花火大会コラボ… 率先してグループを引っ張るメンバーの“行動力”に驚き「すげーな!」「絶大な信頼だった」",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20260819-4829678/",
-        "publishedAt": "2026-08-19T10:00:00.000Z",
-        "summary": "「スケジュール管理能力がいかつい」アイドルグループ・M!LKが、メンバーの塩崎太智(※崎はたつさき)の“行動力”を称賛した―。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "67d0a130aa4a3fac",
-        "title": "M!LK佐野勇斗＆吉田仁人のユニット曲「罪と罰と雨とキス」MV撮影現場に『JUNON』が独占密着",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000867210/",
-        "publishedAt": "2026-08-19T08:00:04.000Z",
-        "summary": "M!LKの佐野勇斗と吉田仁人が、8月21日に発売される『JUNON』10月号に登場する。 ■佐野勇斗と吉...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      }
-    ],
     "Lienel": [
       {
         "id": "86c5f405d92839df",
@@ -489,65 +479,6 @@
           {
             "name": "高岡ミロ",
             "group": "Lienel",
-            "status": "active"
-          }
-        ]
-      }
-    ],
-    "ICEx": [
-      {
-        "id": "c4b11de898d9fd00",
-        "title": "ICEx、ライバルグループ（？）HOTxによる初楽曲「熱烈ファイヤー」のMV公開",
-        "sourceName": "BARKS",
-        "sourceUrl": "https://www.barks.jp/feed/",
-        "articleUrl": "https://barks.jp/news/1084258",
-        "publishedAt": "2026-08-19T11:00:00.000Z",
-        "summary": "ICEx（読み：アイス）のライバルグループ・HOTx（読み：ホット）が、初楽曲「熱烈ファイヤー」のMVを公開した。 HOTxは、アルファ星から舞い降りた貴公子・HARUSE、最大火力の青い炎・RIKU、大地を揺るがすタップダンサー・TOSHIAKI、熱唱・熱狂・大合唱のRYOSUKE、吹き出した汗と色気が止まらないOTARO、得意技は光合成、太陽は友達・HA",
-        "groups": [
-          "ICEx"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "志賀李玖",
-            "group": "ICEx",
-            "status": "active"
-          },
-          {
-            "name": "中村旺太郎",
-            "group": "ICEx",
-            "status": "active"
-          },
-          {
-            "name": "阿久根温世",
-            "group": "ICEx",
-            "status": "active"
-          },
-          {
-            "name": "千田波空斗",
-            "group": "ICEx",
-            "status": "active"
-          },
-          {
-            "name": "筒井俊旭",
-            "group": "ICEx",
-            "status": "active"
-          },
-          {
-            "name": "山本龍人",
-            "group": "ICEx",
-            "status": "active"
-          },
-          {
-            "name": "竹野世梛",
-            "group": "ICEx",
-            "status": "active"
-          },
-          {
-            "name": "八神遼介",
-            "group": "ICEx",
             "status": "active"
           }
         ]
