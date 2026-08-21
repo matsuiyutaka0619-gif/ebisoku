@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-21T07:06:58.869Z",
+  "updatedAt": "2026-08-21T13:10:18.110Z",
   "totals": {
-    "all": 126,
-    "today": 1,
-    "week": 8
+    "all": 127,
+    "today": 4,
+    "week": 9
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 5
+      "count": 6
     },
     {
       "name": "EBiDAN",
@@ -19,25 +19,29 @@
       "count": 2
     },
     {
-      "name": "超特急",
-      "count": 2
+      "name": "BUDDiiS",
+      "count": 1
     },
     {
       "name": "Lienel",
+      "count": 1
+    },
+    {
+      "name": "超特急",
       "count": 1
     }
   ],
   "memberRanking": [
     {
-      "name": "曽野舜太",
-      "count": 2
+      "name": "吉田仁人",
+      "count": 3
     },
     {
       "name": "塩﨑太智",
-      "count": 1
+      "count": 2
     },
     {
-      "name": "吉田仁人",
+      "name": "FUMINORI",
       "count": 1
     },
     {
@@ -53,7 +57,7 @@
       "count": 1
     },
     {
-      "name": "山中柔太朗",
+      "name": "曽野舜太",
       "count": 1
     }
   ],
@@ -63,7 +67,7 @@
       "count": 2
     },
     {
-      "name": "タワーレコード ニュース",
+      "name": "THE FIRST TIMES",
       "count": 2
     },
     {
@@ -71,30 +75,135 @@
       "count": 2
     },
     {
-      "name": "BARKS",
+      "name": "ENCOUNT",
       "count": 1
     },
     {
-      "name": "THE FIRST TIMES",
+      "name": "タワーレコード ニュース",
+      "count": 1
+    },
+    {
+      "name": "マイナビニュース エンタメ",
       "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
+    "BUDDiiS": [
+      {
+        "id": "55c4ec0708d988f2",
+        "title": "BUDDiiS小川史記、BL連ドラ撮影に自画自賛「いい絵だった」 瀬戸利樹も「めちゃくちゃ良かった」",
+        "sourceName": "ENCOUNT",
+        "sourceUrl": "https://encount.press/feed/",
+        "articleUrl": "https://encount.press/archives/1051856/",
+        "publishedAt": "2026-08-21T11:48:12.000Z",
+        "summary": "ダンス＆ボーカルグループ・BUDDiiSの小川史記、俳優の瀬戸利樹がダブル主演を務めるTOKYO MXの連続ドラマ『しもべの王子様』（金曜午後11時）の最終話プレミア先行上映会＆ライブビューイングが21日、都内で開催され […]",
+        "groups": [
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "FUMINORI",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "15fb9ee4d3775ce2",
+        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/07/89645/",
+        "publishedAt": "2026-07-24T12:00:00.000Z",
+        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
+        "groups": [
+          "原因は自分にある。",
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
+      }
+    ],
     "M!LK": [
       {
-        "id": "6fe5d0299a59279d",
-        "title": "M!LKがラフな私服風衣装でお茶の間を囲んだほっこりオフショット公開！「佐野くんのポーズ滅の変化形？」「仁人くんの力んだ眉毛が好き」「みんな顔がいい」",
+        "id": "b24e315214848df8",
+        "title": "「前々から決定してて愛」「ガチで愛おしい」M!LK吉田仁人の“ウキウキ”ぶりにファンから反響 “相方”に無許可で購入した「2026年マストバイ」アイテムとは",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20260821-4847470/",
+        "publishedAt": "2026-08-21T09:30:00.000Z",
+        "summary": "「2026年マストバイって言ったらこれ」――M!LKの吉田仁人と塩崎太智(※崎はたつさき)が、YouTubeチャンネル『じんだいチャンネル』を更新。吉田が新たに購入した撮影機材を披露した。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "8e117128dce85fea",
+        "title": "M!LK5人がグレーの制服ルックで青春中毒リレーダンス！「吉田さんがふざけてるのレアで好き」「舜ちゃん半分スカートおしゃれ」「柔太郎のスカートジャージ好きすぎる」",
         "sourceName": "THE FIRST TIMES",
         "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000868434/",
-        "publishedAt": "2026-08-21T04:48:58.000Z",
-        "summary": "M!LKの冠番組『限界突破！やってM!LK』シーズン2（TBS系）の8月20日放送回オフショットが、M!L...",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000868748/",
+        "publishedAt": "2026-08-21T09:17:43.000Z",
+        "summary": "M!LK公式SNSにて、「アオノオト」にのせて5人でリレーダンスする姿が公開された。M!LKはNHK「...",
         "groups": [
           "M!LK"
         ],
         "statuses": [],
         "memberMatches": []
+      },
+      {
+        "id": "e5fe3daf6e828efc",
+        "title": "M!LK吉田仁人ラジオブースでうたた寝ショット披露「かわいくてずっと見てられる」「ほっぺたつっつきたい」「守りたいこの寝顔」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000868722/",
+        "publishedAt": "2026-08-21T09:00:20.000Z",
+        "summary": "M!LK 吉田仁人のレコメン！公式SNSとM!LK公式SNSにて、ラジオオフショットが続々公開された。 ...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
       },
       {
         "id": "2e6490c967efae49",
@@ -147,165 +256,6 @@
             "status": "active"
           }
         ]
-      },
-      {
-        "id": "16fb7f9f1f6e308c",
-        "title": "M!LK曽野舜太にパンサー尾形が「水イイじゃん!」懇願 『有吉の壁』EBiDANライブ本番当日にコラボ",
-        "sourceName": "マイナビニュース テレビ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-        "articleUrl": "https://news.mynavi.jp/article/20260819-4835845/",
-        "publishedAt": "2026-08-18T21:00:00.000Z",
-        "summary": "ライブ本番当日に『有吉の壁』のロケへ――M!LKの塩崎太智、曽野舜太、吉田仁人が、19日に放送される日本テレビ系バラエティ番組『有吉の壁』(毎週水曜19:00～)の「EBiDANライブコラボSP」に登場する。3人はさらば青春の光とコラボするものの、時間がなさすぎて思わぬ展開に。さらに曽野には、パンサー尾形が「水イイじゃん!」を一緒にやってほしいと懇願する。",
-        "groups": [
-          "EBiDAN",
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "f7a16bf22f2b75a9",
-        "title": "山中柔太朗×曽野舜太（M!LK）、「SODA PLUS vol.12」表紙に登場",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/08/18/tgb002",
-        "publishedAt": "2026-08-18T06:00:00.000Z",
-        "summary": "",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      }
-    ],
-    "超特急": [
-      {
-        "id": "9404a5a16c8428a8",
-        "title": "＜a-nation 2026＞第二弾出演アーティストにすとぷり、騎士X – Knight X –",
-        "sourceName": "BARKS",
-        "sourceUrl": "https://www.barks.jp/feed/",
-        "articleUrl": "https://barks.jp/news/1084497",
-        "publishedAt": "2026-08-20T13:06:30.000Z",
-        "summary": "今年で22回目を迎える＜a-nation＞。初の秋開催、そして東京・お台場へと会場を移し、10月3日(土)・4日(日)の2日間にわたり開催される。 本日、第二弾出演アーティストとして、10月3日(土)にすとぷり、騎士X – Knight X – の出演が発表された。チケットは、8月25日(火)15時よりオフィシャル2次抽選先行が開始する。 初日となる3日(土",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "86c5f405d92839df",
-        "title": "超特急・M!LKの弟分Lienel、ゴールデン番組で“大暴れ” 高岡ミロ「伸び伸びと発言できた」",
-        "sourceName": "マイナビニュース テレビ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-        "articleUrl": "https://news.mynavi.jp/article/20260820-4840016/",
-        "publishedAt": "2026-08-19T21:00:00.000Z",
-        "summary": "EBiDANで、超特急やM!LKの弟分グループ・Lienelの近藤駿太、高岡ミロが、きょう20日に放送されるフジテレビ系音楽バラエティ特番『ミュージックジェネレーション』3時間スペシャル(19:00～)に出演する。",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK",
-          "Lienel"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "近藤駿太",
-            "group": "Lienel",
-            "status": "active"
-          },
-          {
-            "name": "高岡ミロ",
-            "group": "Lienel",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "397a635043a0e0e2",
-        "title": "映画『ワンダンス』新キャストにGirls2山口綺羅、MAZZEL・RAN、TSUKKI、超特急・髙松アロハ",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/07/89594/",
-        "publishedAt": "2026-07-22T09:00:00.000Z",
-        "summary": "11月27日(金)に公開されるJO（&TEAM）初主演映画『ワンダンス』の新キャストとして山口綺羅（Girls2）、RAN（MAZZEL）、現役DリーガーのTSUKKI、髙松アロハ（超特急）が出演することが発表された。 原作は単行本累計発行部数110万部を突破し「月刊アフタヌーン」（講談社）で連載中の珈琲による同名漫画。ダンサーからも熱く支持され、昨年放送さ",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "アロハ",
-            "group": "超特急",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "382225983e9781d4",
-        "title": "8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 7月2日からの先行配信リリースに合わせて デジタルキャンペーンが追加決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11354/",
-        "publishedAt": "2026-07-01T06:00:22.000Z",
-        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して8月11日(火・祝)にリリースされる「Yes! 東京」が、いよいよ7月2日（木）より先行配信リリースとなります。超特急、M!LK、SUPER★DRAGON、Sakur […] The post 8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 7月2日からの先行配信リリースに合わせて デ",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "cc5ac2d0f2585820",
-        "title": "佐々木美玲＆森次政裕の健やかさの秘訣。共演してわかった互いの愛され力とは？",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/06/87486/",
-        "publishedAt": "2026-06-11T09:00:00.000Z",
-        "summary": "一夜限りの関係を結んだ相手は、誰もが羨むハイスペ社長だった──。 2026年4月クールで放送中のドラマ特区『あの夜、社長の子供を授かりました』は、一夜の過ちから運命が大きく変わる波乱のラブストーリー。自己評価の低さゆえに、つい自分を犠牲にして他人のために頑張りすぎてしまうヒロイン・花井栞里を佐々木美玲。そんな栞里に無償の愛を注ぐ溺愛社長・瀬古貴人を森次政裕（",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
       }
     ],
     "EBiDAN": [
@@ -418,6 +368,113 @@
         "memberMatches": []
       }
     ],
+    "超特急": [
+      {
+        "id": "86c5f405d92839df",
+        "title": "超特急・M!LKの弟分Lienel、ゴールデン番組で“大暴れ” 高岡ミロ「伸び伸びと発言できた」",
+        "sourceName": "マイナビニュース テレビ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
+        "articleUrl": "https://news.mynavi.jp/article/20260820-4840016/",
+        "publishedAt": "2026-08-19T21:00:00.000Z",
+        "summary": "EBiDANで、超特急やM!LKの弟分グループ・Lienelの近藤駿太、高岡ミロが、きょう20日に放送されるフジテレビ系音楽バラエティ特番『ミュージックジェネレーション』3時間スペシャル(19:00～)に出演する。",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK",
+          "Lienel"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "近藤駿太",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "高岡ミロ",
+            "group": "Lienel",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "397a635043a0e0e2",
+        "title": "映画『ワンダンス』新キャストにGirls2山口綺羅、MAZZEL・RAN、TSUKKI、超特急・髙松アロハ",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/07/89594/",
+        "publishedAt": "2026-07-22T09:00:00.000Z",
+        "summary": "11月27日(金)に公開されるJO（&TEAM）初主演映画『ワンダンス』の新キャストとして山口綺羅（Girls2）、RAN（MAZZEL）、現役DリーガーのTSUKKI、髙松アロハ（超特急）が出演することが発表された。 原作は単行本累計発行部数110万部を突破し「月刊アフタヌーン」（講談社）で連載中の珈琲による同名漫画。ダンサーからも熱く支持され、昨年放送さ",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "アロハ",
+            "group": "超特急",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "382225983e9781d4",
+        "title": "8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 7月2日からの先行配信リリースに合わせて デジタルキャンペーンが追加決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11354/",
+        "publishedAt": "2026-07-01T06:00:22.000Z",
+        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して8月11日(火・祝)にリリースされる「Yes! 東京」が、いよいよ7月2日（木）より先行配信リリースとなります。超特急、M!LK、SUPER★DRAGON、Sakur […] The post 8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 7月2日からの先行配信リリースに合わせて デ",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "cc5ac2d0f2585820",
+        "title": "佐々木美玲＆森次政裕の健やかさの秘訣。共演してわかった互いの愛され力とは？",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/06/87486/",
+        "publishedAt": "2026-06-11T09:00:00.000Z",
+        "summary": "一夜限りの関係を結んだ相手は、誰もが羨むハイスペ社長だった──。 2026年4月クールで放送中のドラマ特区『あの夜、社長の子供を授かりました』は、一夜の過ちから運命が大きく変わる波乱のラブストーリー。自己評価の低さゆえに、つい自分を犠牲にして他人のために頑張りすぎてしまうヒロイン・花井栞里を佐々木美玲。そんな栞里に無償の愛を注ぐ溺愛社長・瀬古貴人を森次政裕（",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "63b99a8e04894f82",
+        "title": "伊東蒼が圧巻の表現力で“危うい”人物を演じ切る、奈緒主演映画『死ねばいいのに』本編映像解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/06/87607/",
+        "publishedAt": "2026-06-11T03:00:00.000Z",
+        "summary": "7月3日(金)にテアトル新宿ほかで公開される奈緒主演映画『死ねばいいのに』より、伊東蒼演じる亜佐美にフォーカスした本編映像と場面写真が解禁された。 京極夏彦の同名小説を映画化した本作は、何者かによって殺された“亜佐美”を巡るミステリー。その“亜佐美”について尋ね歩く謎めいた人物・渡来映子を奈緒が演じ、従来のイメージを覆すアウトローな雰囲気で新境地を開拓する。",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "タクヤ",
+            "group": "超特急",
+            "status": "active"
+          }
+        ]
+      }
+    ],
     "Lienel": [
       {
         "id": "86c5f405d92839df",
@@ -526,36 +583,6 @@
       }
     ],
     "原因は自分にある。": [
-      {
-        "id": "15fb9ee4d3775ce2",
-        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/07/89645/",
-        "publishedAt": "2026-07-24T12:00:00.000Z",
-        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
-        "groups": [
-          "原因は自分にある。",
-          "BUDDiiS"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "SHOOT",
-            "group": "BUDDiiS",
-            "status": "active"
-          }
-        ]
-      }
-    ],
-    "BUDDiiS": [
       {
         "id": "15fb9ee4d3775ce2",
         "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
