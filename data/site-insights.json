@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-22T01:50:06.287Z",
+  "updatedAt": "2026-08-22T06:58:52.234Z",
   "totals": {
-    "all": 128,
-    "today": 2,
-    "week": 10
+    "all": 126,
+    "today": 3,
+    "week": 8
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 8
+      "count": 5
     },
     {
       "name": "EBiDAN",
@@ -23,22 +23,30 @@
       "count": 1
     },
     {
+      "name": "原因は自分にある。",
+      "count": 1
+    },
+    {
       "name": "超特急",
       "count": 1
     }
   ],
   "memberRanking": [
     {
-      "name": "吉田仁人",
-      "count": 5
+      "name": "塩﨑太智",
+      "count": 3
     },
     {
-      "name": "塩﨑太智",
-      "count": 4
+      "name": "吉田仁人",
+      "count": 3
     },
     {
       "name": "曽野舜太",
       "count": 3
+    },
+    {
+      "name": "吉澤要人",
+      "count": 1
     },
     {
       "name": "近藤駿太",
@@ -55,15 +63,7 @@
   ],
   "sourceRanking": [
     {
-      "name": "THE FIRST TIMES",
-      "count": 3
-    },
-    {
       "name": "SUPER★DRAGON 公式NEWS",
-      "count": 2
-    },
-    {
-      "name": "マイナビニュース エンタメ",
       "count": 2
     },
     {
@@ -71,12 +71,76 @@
       "count": 2
     },
     {
+      "name": "THE FIRST TIMES",
+      "count": 1
+    },
+    {
       "name": "タワーレコード ニュース",
+      "count": 1
+    },
+    {
+      "name": "マイナビニュース エンタメ",
+      "count": 1
+    },
+    {
+      "name": "リアルサウンド 映画部",
       "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
+    "原因は自分にある。": [
+      {
+        "id": "5da56ea4f78a520e",
+        "title": "櫻坂46 山﨑天主演『デス(青春)ゲーム』に藤本洸大、吉澤要人、林裕太、菊池日菜子ら出演",
+        "sourceName": "リアルサウンド 映画部",
+        "sourceUrl": "https://realsound.jp/movie/feed",
+        "articleUrl": "https://realsound.jp/movie/2026/08/post-2499273.html",
+        "publishedAt": "2026-08-22T03:00:48.000Z",
+        "summary": "9月5日24時30分からテレビ朝日で放送される、櫻坂46 山﨑天の初主演ドラマ『デス(青春)ゲーム』に藤本洸大、吉澤要人、林裕太、菊池日菜子、川島海荷、池田良、芦川誠、神尾佑の出演が決定した。 “青春×デスゲーム”と",
+        "groups": [
+          "原因は自分にある。"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉澤要人",
+            "group": "原因は自分にある。",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "15fb9ee4d3775ce2",
+        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/07/89645/",
+        "publishedAt": "2026-07-24T12:00:00.000Z",
+        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
+        "groups": [
+          "原因は自分にある。",
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
+      }
+    ],
     "M!LK": [
       {
         "id": "711e94eb666a0be4",
@@ -143,14 +207,67 @@
         ]
       },
       {
-        "id": "b24e315214848df8",
-        "title": "「前々から決定してて愛」「ガチで愛おしい」M!LK吉田仁人の“ウキウキ”ぶりにファンから反響 “相方”に無許可で購入した「2026年マストバイ」アイテムとは",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20260821-4847470/",
-        "publishedAt": "2026-08-21T09:30:00.000Z",
-        "summary": "「2026年マストバイって言ったらこれ」――M!LKの吉田仁人と塩崎太智(※崎はたつさき)が、YouTubeチャンネル『じんだいチャンネル』を更新。吉田が新たに購入した撮影機材を披露した。",
+        "id": "2e6490c967efae49",
+        "title": "佐野勇斗（M!LK）、「週刊TVガイド関西版2026年10月3日号増刊 TVガイドdan［ダン］vol.61」表紙に初登場",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/08/20/tgb007",
+        "publishedAt": "2026-08-20T08:30:00.000Z",
+        "summary": "",
         "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "86c5f405d92839df",
+        "title": "超特急・M!LKの弟分Lienel、ゴールデン番組で“大暴れ” 高岡ミロ「伸び伸びと発言できた」",
+        "sourceName": "マイナビニュース テレビ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
+        "articleUrl": "https://news.mynavi.jp/article/20260820-4840016/",
+        "publishedAt": "2026-08-19T21:00:00.000Z",
+        "summary": "EBiDANで、超特急やM!LKの弟分グループ・Lienelの近藤駿太、高岡ミロが、きょう20日に放送されるフジテレビ系音楽バラエティ特番『ミュージックジェネレーション』3時間スペシャル(19:00～)に出演する。",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK",
+          "Lienel"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "近藤駿太",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "高岡ミロ",
+            "group": "Lienel",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "16fb7f9f1f6e308c",
+        "title": "M!LK曽野舜太にパンサー尾形が「水イイじゃん!」懇願 『有吉の壁』EBiDANライブ本番当日にコラボ",
+        "sourceName": "マイナビニュース テレビ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
+        "articleUrl": "https://news.mynavi.jp/article/20260819-4835845/",
+        "publishedAt": "2026-08-18T21:00:00.000Z",
+        "summary": "ライブ本番当日に『有吉の壁』のロケへ――M!LKの塩崎太智、曽野舜太、吉田仁人が、19日に放送される日本テレビ系バラエティ番組『有吉の壁』(毎週水曜19:00～)の「EBiDANライブコラボSP」に登場する。3人はさらば青春の光とコラボするものの、時間がなさすぎて思わぬ展開に。さらに曽野には、パンサー尾形が「水イイじゃん!」を一緒にやってほしいと懇願する。",
+        "groups": [
+          "EBiDAN",
           "M!LK"
         ],
         "statuses": [
@@ -163,41 +280,10 @@
             "status": "active"
           },
           {
-            "name": "吉田仁人",
+            "name": "曽野舜太",
             "group": "M!LK",
             "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "8e117128dce85fea",
-        "title": "M!LK5人がグレーの制服ルックで青春中毒リレーダンス！「吉田さんがふざけてるのレアで好き」「舜ちゃん半分スカートおしゃれ」「柔太郎のスカートジャージ好きすぎる」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000868748/",
-        "publishedAt": "2026-08-21T09:17:43.000Z",
-        "summary": "M!LK公式SNSにて、「アオノオト」にのせて5人でリレーダンスする姿が公開された。M!LKはNHK「...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "e5fe3daf6e828efc",
-        "title": "M!LK吉田仁人ラジオブースでうたた寝ショット披露「かわいくてずっと見てられる」「ほっぺたつっつきたい」「守りたいこの寝顔」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000868722/",
-        "publishedAt": "2026-08-21T09:00:20.000Z",
-        "summary": "M!LK 吉田仁人のレコメン！公式SNSとM!LK公式SNSにて、ラジオオフショットが続々公開された。 ...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
+          },
           {
             "name": "吉田仁人",
             "group": "M!LK",
@@ -528,36 +614,6 @@
         ],
         "statuses": [],
         "memberMatches": []
-      }
-    ],
-    "原因は自分にある。": [
-      {
-        "id": "15fb9ee4d3775ce2",
-        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/07/89645/",
-        "publishedAt": "2026-07-24T12:00:00.000Z",
-        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
-        "groups": [
-          "原因は自分にある。",
-          "BUDDiiS"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "SHOOT",
-            "group": "BUDDiiS",
-            "status": "active"
-          }
-        ]
       }
     ],
     "BUDDiiS": [
