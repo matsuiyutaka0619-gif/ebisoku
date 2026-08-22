@@ -1,6 +1,70 @@
 {
-  "updatedAt": "2026-08-21T18:55:23.905Z",
+  "updatedAt": "2026-08-22T01:50:06.285Z",
   "articles": [
+    {
+      "id": "711e94eb666a0be4",
+      "title": "M!LK『笑ってコラえて！』で大奮闘！塩﨑太智は「ダーツの旅」、曽野舜太＆吉田仁人は「道の駅伝」に登場",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000868559/",
+      "publishedAt": "2026-08-21T22:00:35.000Z",
+      "summary": "M!LKのメンバーが、8月22日放送の日本テレビ『1億人の大質問!? 笑ってコラえて！』に登場。「...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "塩﨑太智",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "曽野舜太",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "6200edf1a2bbc39a",
+      "title": "塩崎太智、食リポでこん身の「滅!」も…店の人に伝わらず「もっとがんばらなきゃな」M!LKがロケ企画で大奮闘",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260822-4847539/",
+      "publishedAt": "2026-08-21T22:00:00.000Z",
+      "summary": "「甘すぎて滅!」――。きょう22日に放送される日本テレビ系バラエティ番組『1億人の大質問!? 笑ってコラえて!』2時間スペシャル(19:00～)では、M!LKの塩崎太智、曽野舜太、吉田仁人がロケ企画で大奮闘。塩崎は「日本列島ダーツの旅」に初挑戦し、曽野と吉田は「日本全国 道の駅伝」で北陸の“売上No.1グルメ”探しに挑む。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "塩﨑太智",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "曽野舜太",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "b24e315214848df8",
       "title": "「前々から決定してて愛」「ガチで愛おしい」M!LK吉田仁人の“ウキウキ”ぶりにファンから反響 “相方”に無許可で購入した「2026年マストバイ」アイテムとは",
