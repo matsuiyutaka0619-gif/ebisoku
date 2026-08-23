@@ -1,6 +1,35 @@
 {
-  "updatedAt": "2026-08-23T01:59:12.607Z",
+  "updatedAt": "2026-08-23T07:00:33.823Z",
   "articles": [
+    {
+      "id": "49194847cb25db93",
+      "title": "M!LKの“かわいい”をぎゅっと凝縮！制服姿からサンリオコラボまでキュートな瞬間を厳選",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000867386/",
+      "publishedAt": "2026-08-23T03:00:35.000Z",
+      "summary": "圧倒的なキュートさでファンを魅了するM!LK。ステージ上で見せるアイドルらしい表情から、思わ...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "a02364c0b1bd5a80",
+      "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』開催決定！",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news11576/",
+      "publishedAt": "2026-08-23T03:00:22.000Z",
+      "summary": "EBiDAN大運動会『スポーツマンヒップ！』6回目の開催が決定！ 第6回は入所順でのグループ対抗戦！！ スポーツの秋…あの日の同期が、今日だけの夢のチームとなるEBiDAN大運動会を、是非一緒に見届けましょう […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』開催決定！ first appeared on SUPER★DRAGON ",
+      "groups": [
+        "EBiDAN",
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "5da56ea4f78a520e",
       "title": "櫻坂46 山﨑天主演『デス(青春)ゲーム』に藤本洸大、吉澤要人、林裕太、菊池日菜子ら出演",
@@ -19,38 +48,6 @@
         {
           "name": "吉澤要人",
           "group": "原因は自分にある。",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "711e94eb666a0be4",
-      "title": "M!LK『笑ってコラえて！』で大奮闘！塩﨑太智は「ダーツの旅」、曽野舜太＆吉田仁人は「道の駅伝」に登場",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000868559/",
-      "publishedAt": "2026-08-21T22:00:35.000Z",
-      "summary": "M!LKのメンバーが、8月22日放送の日本テレビ『1億人の大質問!? 笑ってコラえて！』に登場。「...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "塩﨑太智",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "曽野舜太",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
           "status": "active"
         }
       ]
@@ -2172,21 +2169,6 @@
       "publishedAt": "2026-04-17T04:00:57.000Z",
       "summary": "SOLD OUTとなっておりましたSUPER★DRAGON LIVE TOUR 2026「Studio」東京公演につきまして、 機材席の一部開放に伴い、若干数ではございますが、追加販売が決定いたしました。 4月18日(土 […] The post SUPER★DRAGON LIVE TOUR 2026「Studio」4月19日東京公演 追加販売情報 firs",
       "groups": [
-        "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "136f205f637576d6",
-      "title": "【SUPERSTAR EBiDAN】 SUPER★DRAGON LIVE TOUR 2026「Studio」開催記念！ ゲーム内イベント実施のお知らせ！",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news10856/",
-      "publishedAt": "2026-04-16T07:59:07.000Z",
-      "summary": "EBiDAN公式リズムゲーム『SUPERSTAR EBiDAN』では、SUPER★DRAGON LIVE TOUR 2026「Studio」の開催を記念して、期間限定のゲーム内イベントを実施いたします！ 【 […] The post 【SUPERSTAR EBiDAN】 SUPER★DRAGON LIVE TOUR 2026「Studio」開催記念！ ゲーム",
-      "groups": [
-        "EBiDAN",
         "SUPER★DRAGON"
       ],
       "statuses": [],
