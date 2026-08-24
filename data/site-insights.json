@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-24T01:57:37.668Z",
+  "updatedAt": "2026-08-24T07:20:17.799Z",
   "totals": {
-    "all": 128,
-    "today": 2,
-    "week": 11
+    "all": 126,
+    "today": 1,
+    "week": 9
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 5
+      "count": 4
     },
     {
       "name": "EBiDAN",
@@ -19,15 +19,15 @@
       "count": 3
     },
     {
-      "name": "原因は自分にある。",
-      "count": 2
-    },
-    {
       "name": "Lienel",
       "count": 1
     },
     {
       "name": "Sakurashimeji",
+      "count": 1
+    },
+    {
+      "name": "原因は自分にある。",
       "count": 1
     },
     {
@@ -49,10 +49,6 @@
       "count": 2
     },
     {
-      "name": "杢代和人",
-      "count": 2
-    },
-    {
       "name": "近藤駿太",
       "count": 1
     },
@@ -62,6 +58,10 @@
     },
     {
       "name": "佐野勇斗",
+      "count": 1
+    },
+    {
+      "name": "杢代和人",
       "count": 1
     }
   ],
@@ -75,10 +75,6 @@
       "count": 3
     },
     {
-      "name": "THE FIRST TIMES",
-      "count": 1
-    },
-    {
       "name": "WWSチャンネル",
       "count": 1
     },
@@ -89,37 +85,11 @@
     {
       "name": "マイナビニュース エンタメ",
       "count": 1
-    },
-    {
-      "name": "リアルサウンド 映画部",
-      "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
     "原因は自分にある。": [
-      {
-        "id": "ff70f24d4114cee0",
-        "title": "浅香航大と杢代和人がW主演 『仮面教師～妻を亡くしたその日から』10月7日より放送決定",
-        "sourceName": "リアルサウンド 映画部",
-        "sourceUrl": "https://realsound.jp/movie/feed",
-        "articleUrl": "https://realsound.jp/movie/2026/08/post-2499290.html",
-        "publishedAt": "2026-08-23T19:00:29.000Z",
-        "summary": "浅香航大と杢代和人がW主演を務める連続ドラマ『仮面教師～妻を亡くしたその日から』が、中京テレビ・日本テレビ系「水曜プラチナイト」枠にて10月7日より放送されることが決定した。 本作は、最愛の妻の死の真相を追うため学園",
-        "groups": [
-          "原因は自分にある。"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "杢代和人",
-            "group": "原因は自分にある。",
-            "status": "active"
-          }
-        ]
-      },
       {
         "id": "b94cee96de01482e",
         "title": "亡き妻の真相追い学園に潜入…浅香航大×杢代和人、“劇場型リベンジサスペンス”でW主演「強い信念を大切に」「思わず考察したくなる」",
@@ -185,139 +155,6 @@
         ],
         "statuses": [],
         "memberMatches": []
-      }
-    ],
-    "M!LK": [
-      {
-        "id": "49194847cb25db93",
-        "title": "M!LKの“かわいい”をぎゅっと凝縮！制服姿からサンリオコラボまでキュートな瞬間を厳選",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000867386/",
-        "publishedAt": "2026-08-23T03:00:35.000Z",
-        "summary": "圧倒的なキュートさでファンを魅了するM!LK。ステージ上で見せるアイドルらしい表情から、思わ...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "6200edf1a2bbc39a",
-        "title": "塩崎太智、食リポでこん身の「滅!」も…店の人に伝わらず「もっとがんばらなきゃな」M!LKがロケ企画で大奮闘",
-        "sourceName": "マイナビニュース テレビ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-        "articleUrl": "https://news.mynavi.jp/article/20260822-4847539/",
-        "publishedAt": "2026-08-21T22:00:00.000Z",
-        "summary": "「甘すぎて滅!」――。きょう22日に放送される日本テレビ系バラエティ番組『1億人の大質問!? 笑ってコラえて!』2時間スペシャル(19:00～)では、M!LKの塩崎太智、曽野舜太、吉田仁人がロケ企画で大奮闘。塩崎は「日本列島ダーツの旅」に初挑戦し、曽野と吉田は「日本全国 道の駅伝」で北陸の“売上No.1グルメ”探しに挑む。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "2e6490c967efae49",
-        "title": "佐野勇斗（M!LK）、「週刊TVガイド関西版2026年10月3日号増刊 TVガイドdan［ダン］vol.61」表紙に初登場",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/08/20/tgb007",
-        "publishedAt": "2026-08-20T08:30:00.000Z",
-        "summary": "",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "86c5f405d92839df",
-        "title": "超特急・M!LKの弟分Lienel、ゴールデン番組で“大暴れ” 高岡ミロ「伸び伸びと発言できた」",
-        "sourceName": "マイナビニュース テレビ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-        "articleUrl": "https://news.mynavi.jp/article/20260820-4840016/",
-        "publishedAt": "2026-08-19T21:00:00.000Z",
-        "summary": "EBiDANで、超特急やM!LKの弟分グループ・Lienelの近藤駿太、高岡ミロが、きょう20日に放送されるフジテレビ系音楽バラエティ特番『ミュージックジェネレーション』3時間スペシャル(19:00～)に出演する。",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK",
-          "Lienel"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "近藤駿太",
-            "group": "Lienel",
-            "status": "active"
-          },
-          {
-            "name": "高岡ミロ",
-            "group": "Lienel",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "16fb7f9f1f6e308c",
-        "title": "M!LK曽野舜太にパンサー尾形が「水イイじゃん!」懇願 『有吉の壁』EBiDANライブ本番当日にコラボ",
-        "sourceName": "マイナビニュース テレビ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-        "articleUrl": "https://news.mynavi.jp/article/20260819-4835845/",
-        "publishedAt": "2026-08-18T21:00:00.000Z",
-        "summary": "ライブ本番当日に『有吉の壁』のロケへ――M!LKの塩崎太智、曽野舜太、吉田仁人が、19日に放送される日本テレビ系バラエティ番組『有吉の壁』(毎週水曜19:00～)の「EBiDANライブコラボSP」に登場する。3人はさらば青春の光とコラボするものの、時間がなさすぎて思わぬ展開に。さらに曽野には、パンサー尾形が「水イイじゃん!」を一緒にやってほしいと懇願する。",
-        "groups": [
-          "EBiDAN",
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
       }
     ],
     "EBiDAN": [
@@ -503,6 +340,147 @@
         ],
         "statuses": [],
         "memberMatches": []
+      }
+    ],
+    "M!LK": [
+      {
+        "id": "6200edf1a2bbc39a",
+        "title": "塩崎太智、食リポでこん身の「滅!」も…店の人に伝わらず「もっとがんばらなきゃな」M!LKがロケ企画で大奮闘",
+        "sourceName": "マイナビニュース テレビ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
+        "articleUrl": "https://news.mynavi.jp/article/20260822-4847539/",
+        "publishedAt": "2026-08-21T22:00:00.000Z",
+        "summary": "「甘すぎて滅!」――。きょう22日に放送される日本テレビ系バラエティ番組『1億人の大質問!? 笑ってコラえて!』2時間スペシャル(19:00～)では、M!LKの塩崎太智、曽野舜太、吉田仁人がロケ企画で大奮闘。塩崎は「日本列島ダーツの旅」に初挑戦し、曽野と吉田は「日本全国 道の駅伝」で北陸の“売上No.1グルメ”探しに挑む。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "2e6490c967efae49",
+        "title": "佐野勇斗（M!LK）、「週刊TVガイド関西版2026年10月3日号増刊 TVガイドdan［ダン］vol.61」表紙に初登場",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/08/20/tgb007",
+        "publishedAt": "2026-08-20T08:30:00.000Z",
+        "summary": "",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "86c5f405d92839df",
+        "title": "超特急・M!LKの弟分Lienel、ゴールデン番組で“大暴れ” 高岡ミロ「伸び伸びと発言できた」",
+        "sourceName": "マイナビニュース テレビ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
+        "articleUrl": "https://news.mynavi.jp/article/20260820-4840016/",
+        "publishedAt": "2026-08-19T21:00:00.000Z",
+        "summary": "EBiDANで、超特急やM!LKの弟分グループ・Lienelの近藤駿太、高岡ミロが、きょう20日に放送されるフジテレビ系音楽バラエティ特番『ミュージックジェネレーション』3時間スペシャル(19:00～)に出演する。",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK",
+          "Lienel"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "近藤駿太",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "高岡ミロ",
+            "group": "Lienel",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "16fb7f9f1f6e308c",
+        "title": "M!LK曽野舜太にパンサー尾形が「水イイじゃん!」懇願 『有吉の壁』EBiDANライブ本番当日にコラボ",
+        "sourceName": "マイナビニュース テレビ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
+        "articleUrl": "https://news.mynavi.jp/article/20260819-4835845/",
+        "publishedAt": "2026-08-18T21:00:00.000Z",
+        "summary": "ライブ本番当日に『有吉の壁』のロケへ――M!LKの塩崎太智、曽野舜太、吉田仁人が、19日に放送される日本テレビ系バラエティ番組『有吉の壁』(毎週水曜19:00～)の「EBiDANライブコラボSP」に登場する。3人はさらば青春の光とコラボするものの、時間がなさすぎて思わぬ展開に。さらに曽野には、パンサー尾形が「水イイじゃん!」を一緒にやってほしいと懇願する。",
+        "groups": [
+          "EBiDAN",
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "332f9e22f238c9e9",
+        "title": "「楽屋で台本を開いていたら…」「それぞれが…」曽野舜太が明かしたM!LKメンバーのリアクション 俳優業にもさらなる意欲",
+        "sourceName": "マイナビニュース 映画",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
+        "articleUrl": "https://news.mynavi.jp/article/20260808-4792972/",
+        "publishedAt": "2026-08-08T11:00:00.000Z",
+        "summary": "ダンスボーカルグループ・M!LKの曽野舜太が7日、映画『仮面ライダーゼッツ さよならのミッション』(公開中)の公開御礼舞台挨拶に、今井竜太郎、上堀内佳寿也監督とともに登壇。同作出演を知ったときのM!LKメンバーのリアクションを明かした。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
       }
     ],
     "超特急": [
