@@ -1,11 +1,47 @@
 {
-  "updatedAt": "2026-08-24T07:20:17.797Z",
+  "updatedAt": "2026-08-24T13:12:24.519Z",
   "articles": [
+    {
+      "id": "a14836626d5476f2",
+      "title": "M!LK吉田仁人が黒スーツで霧島市長と握手を交わす交付式の様子が公開！「スーツかっこよすぎ」「凛々しくてすてき」「ビジュいい」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000869936/",
+      "publishedAt": "2026-08-24T11:05:15.000Z",
+      "summary": "鹿児島県霧島市出身のM!LK吉田仁人が「おじゃんせ霧島大使」に選ばれ、霧島市長から委嘱状の交...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "9fab6496151998d2",
+      "title": "M!LK5人がくっついて笑顔を見せ花火舞う中「友情パレード」ダンス披露！「M!LK最高」「ずっと笑顔でいて」「楽しそうでかわいい」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000869920/",
+      "publishedAt": "2026-08-24T10:34:34.000Z",
+      "summary": "M!LK公式SNSで、5人が花火舞う中「You!Joy!Parade!」を踊る姿が公開された。 ■紅白提灯が飾ら...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "b94cee96de01482e",
       "title": "亡き妻の真相追い学園に潜入…浅香航大×杢代和人、“劇場型リベンジサスペンス”でW主演「強い信念を大切に」「思わず考察したくなる」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
       "articleUrl": "https://news.mynavi.jp/article/20260824-4857213/",
       "publishedAt": "2026-08-23T19:00:00.000Z",
       "summary": "「毎話、爽快感がありながらも先の読めない展開が続く作品」――浅香航大と杢代和人が、10月7日にスタートする中京テレビ・日本テレビ系ドラマ『仮面教師～妻を亡くしたその日から』(毎週水曜24:24～)でW主演する。最愛の妻の死の真相を追って学園に潜入する元俳優の教師と、ある事情を抱えた転校生が、演劇ならではの仕掛けを武器に巨大な権力へ立ち向かう“劇場型リベンジサ",
@@ -149,39 +185,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "16fb7f9f1f6e308c",
-      "title": "M!LK曽野舜太にパンサー尾形が「水イイじゃん!」懇願 『有吉の壁』EBiDANライブ本番当日にコラボ",
-      "sourceName": "マイナビニュース テレビ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-      "articleUrl": "https://news.mynavi.jp/article/20260819-4835845/",
-      "publishedAt": "2026-08-18T21:00:00.000Z",
-      "summary": "ライブ本番当日に『有吉の壁』のロケへ――M!LKの塩崎太智、曽野舜太、吉田仁人が、19日に放送される日本テレビ系バラエティ番組『有吉の壁』(毎週水曜19:00～)の「EBiDANライブコラボSP」に登場する。3人はさらば青春の光とコラボするものの、時間がなさすぎて思わぬ展開に。さらに曽野には、パンサー尾形が「水イイじゃん!」を一緒にやってほしいと懇願する。",
-      "groups": [
-        "EBiDAN",
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "塩﨑太智",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "曽野舜太",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "9d2289f2fe4ea4b6",
@@ -1559,33 +1562,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "32786c31026c54f4",
-      "title": "M!LKの連続リリース第二弾「真・運命」6月17日配信、曽野舜太＆山中柔太朗が抗えない恋を歌う",
-      "sourceName": "Bezzy",
-      "sourceUrl": "https://bezzy.jp/feed/",
-      "articleUrl": "https://bezzy.jp/2026/06/87641/",
-      "publishedAt": "2026-06-10T10:50:00.000Z",
-      "summary": "5人組ダンスボーカルグループ・M!LKの曽野舜太と山中柔太朗が、6月17日(水)に2人ユニット曲「真・運命」（読み：マジ・デスティニー）を配信リリースする。 M!LKの連続リリース企画「モー烈モー進プロジェクト」の第二弾シングルとなる今作は、恋に落ちる瞬間の衝撃、どうしても抗えず惹かれあっていく運命を描いた一曲。曽野舜太と山中柔太朗の対照的な関係性や、誰しも",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "曽野舜太",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "山中柔太朗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "f5b1be8dbc764ac1",
