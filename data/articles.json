@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T13:12:24.519Z",
+  "updatedAt": "2026-08-24T18:58:45.180Z",
   "articles": [
     {
       "id": "a14836626d5476f2",
@@ -115,28 +115,6 @@
         },
         {
           "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "2e6490c967efae49",
-      "title": "佐野勇斗（M!LK）、「週刊TVガイド関西版2026年10月3日号増刊 TVガイドdan［ダン］vol.61」表紙に初登場",
-      "sourceName": "タワーレコード ニュース",
-      "sourceUrl": "https://tower.jp/feeds/article/news",
-      "articleUrl": "https://tower.jp/article/news/2026/08/20/tgb007",
-      "publishedAt": "2026-08-20T08:30:00.000Z",
-      "summary": "",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
           "group": "M!LK",
           "status": "active"
         }

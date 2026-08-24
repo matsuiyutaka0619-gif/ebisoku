@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-24T13:12:24.522Z",
+  "updatedAt": "2026-08-24T18:58:45.182Z",
   "totals": {
-    "all": 126,
-    "today": 3,
-    "week": 10
+    "all": 125,
+    "today": 0,
+    "week": 9
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 5
+      "count": 4
     },
     {
       "name": "SUPER★DRAGON",
@@ -53,10 +53,6 @@
       "count": 1
     },
     {
-      "name": "佐野勇斗",
-      "count": 1
-    },
-    {
       "name": "曽野舜太",
       "count": 1
     },
@@ -80,10 +76,6 @@
     },
     {
       "name": "WWSチャンネル",
-      "count": 1
-    },
-    {
-      "name": "タワーレコード ニュース",
       "count": 1
     }
   ],
@@ -159,28 +151,6 @@
         ]
       },
       {
-        "id": "2e6490c967efae49",
-        "title": "佐野勇斗（M!LK）、「週刊TVガイド関西版2026年10月3日号増刊 TVガイドdan［ダン］vol.61」表紙に初登場",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/08/20/tgb007",
-        "publishedAt": "2026-08-20T08:30:00.000Z",
-        "summary": "",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
         "id": "86c5f405d92839df",
         "title": "超特急・M!LKの弟分Lienel、ゴールデン番組で“大暴れ” 高岡ミロ「伸び伸びと発言できた」",
         "sourceName": "マイナビニュース テレビ",
@@ -206,6 +176,28 @@
           {
             "name": "高岡ミロ",
             "group": "Lienel",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "332f9e22f238c9e9",
+        "title": "「楽屋で台本を開いていたら…」「それぞれが…」曽野舜太が明かしたM!LKメンバーのリアクション 俳優業にもさらなる意欲",
+        "sourceName": "マイナビニュース 映画",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
+        "articleUrl": "https://news.mynavi.jp/article/20260808-4792972/",
+        "publishedAt": "2026-08-08T11:00:00.000Z",
+        "summary": "ダンスボーカルグループ・M!LKの曽野舜太が7日、映画『仮面ライダーゼッツ さよならのミッション』(公開中)の公開御礼舞台挨拶に、今井竜太郎、上堀内佳寿也監督とともに登壇。同作出演を知ったときのM!LKメンバーのリアクションを明かした。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
             "status": "active"
           }
         ]
