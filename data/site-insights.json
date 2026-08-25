@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-25T01:52:11.201Z",
+  "updatedAt": "2026-08-25T07:08:02.971Z",
   "totals": {
     "all": 125,
-    "today": 1,
+    "today": 4,
     "week": 11
   },
   "groupRanking": [
@@ -16,10 +16,6 @@
     },
     {
       "name": "EBiDAN",
-      "count": 2
-    },
-    {
-      "name": "Lienel",
       "count": 1
     },
     {
@@ -29,27 +25,15 @@
     {
       "name": "原因は自分にある。",
       "count": 1
-    },
-    {
-      "name": "超特急",
-      "count": 1
     }
   ],
   "memberRanking": [
-    {
-      "name": "吉田仁人",
-      "count": 2
-    },
     {
       "name": "塩﨑太智",
       "count": 1
     },
     {
-      "name": "近藤駿太",
-      "count": 1
-    },
-    {
-      "name": "高岡ミロ",
+      "name": "吉田仁人",
       "count": 1
     },
     {
@@ -71,16 +55,16 @@
   ],
   "sourceRanking": [
     {
+      "name": "THE FIRST TIMES",
+      "count": 4
+    },
+    {
       "name": "SUPER★DRAGON 公式NEWS",
       "count": 3
     },
     {
-      "name": "THE FIRST TIMES",
-      "count": 3
-    },
-    {
       "name": "マイナビニュース テレビ",
-      "count": 3
+      "count": 2
     },
     {
       "name": "WWSチャンネル",
@@ -94,6 +78,48 @@
   "topics": [],
   "recentByGroup": {
     "M!LK": [
+      {
+        "id": "2aecb9c5c394326a",
+        "title": "M!LK5人でキャッチーなアイソレや艶やかな表情を見せるこなれダンスを披露！「アイソレうますぎ」「M!LK以外を踊ってるのレア」「上目遣いメロい」「塩﨑くん前髪あり似合う」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000869995/",
+        "publishedAt": "2026-08-25T05:35:48.000Z",
+        "summary": "M!LKが公式TikTokで、TikTokミームとなっている「GG EZ」にのせてダンスする動画が公開された...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "a51268b66e3f63b6",
+        "title": "M!LKが制服衣装で腕組みハイタッチする仲良しダンス披露！「イケメン先輩とのない思い出蘇る」「同級生にいたら絶対に楽しい」「襟元開け腕まくりの着こなしかっこいい」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000870124/",
+        "publishedAt": "2026-08-25T04:44:07.000Z",
+        "summary": "M!LKが公式TikTokで「アイドルパワー」をダンスする動画が公開された。 ■ニコニコ笑顔でハイタ...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "af83f951146512bd",
+        "title": "新浜レオンがM!LK5人に囲まれ“膝スラ”！笑顔あふれる豪華6ショットに「レオンさん溶け込みすぎ」「私服かな？神写真」「みんなの笑顔最高」「一緒に膝スラしてるじゅうちゃんかわいすぎる」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000870302/",
+        "publishedAt": "2026-08-25T03:28:37.000Z",
+        "summary": "新浜レオンが自身のXを更新。M!LKとの集合ショットを公開し、注目を集めている。 ■新浜レオン...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
       {
         "id": "2b0d2674fea827da",
         "title": "M!LK山中柔太朗が“メロリッチ”な香りに夢中！LABO AROOMの新Web CM公開",
@@ -115,42 +141,6 @@
             "status": "active"
           }
         ]
-      },
-      {
-        "id": "a14836626d5476f2",
-        "title": "M!LK吉田仁人が黒スーツで霧島市長と握手を交わす交付式の様子が公開！「スーツかっこよすぎ」「凛々しくてすてき」「ビジュいい」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000869936/",
-        "publishedAt": "2026-08-24T11:05:15.000Z",
-        "summary": "鹿児島県霧島市出身のM!LK吉田仁人が「おじゃんせ霧島大使」に選ばれ、霧島市長から委嘱状の交...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "9fab6496151998d2",
-        "title": "M!LK5人がくっついて笑顔を見せ花火舞う中「友情パレード」ダンス披露！「M!LK最高」「ずっと笑顔でいて」「楽しそうでかわいい」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000869920/",
-        "publishedAt": "2026-08-24T10:34:34.000Z",
-        "summary": "M!LK公式SNSで、5人が花火舞う中「You!Joy!Parade!」を踊る姿が公開された。 ■紅白提灯が飾ら...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
       },
       {
         "id": "6200edf1a2bbc39a",
@@ -179,28 +169,6 @@
           },
           {
             "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "2e6490c967efae49",
-        "title": "佐野勇斗（M!LK）、「週刊TVガイド関西版2026年10月3日号増刊 TVガイドdan［ダン］vol.61」表紙に初登場",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/08/20/tgb007",
-        "publishedAt": "2026-08-20T08:30:00.000Z",
-        "summary": "",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
             "group": "M!LK",
             "status": "active"
           }
@@ -292,36 +260,6 @@
         "memberMatches": []
       },
       {
-        "id": "86c5f405d92839df",
-        "title": "超特急・M!LKの弟分Lienel、ゴールデン番組で“大暴れ” 高岡ミロ「伸び伸びと発言できた」",
-        "sourceName": "マイナビニュース テレビ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-        "articleUrl": "https://news.mynavi.jp/article/20260820-4840016/",
-        "publishedAt": "2026-08-19T21:00:00.000Z",
-        "summary": "EBiDANで、超特急やM!LKの弟分グループ・Lienelの近藤駿太、高岡ミロが、きょう20日に放送されるフジテレビ系音楽バラエティ特番『ミュージックジェネレーション』3時間スペシャル(19:00～)に出演する。",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK",
-          "Lienel"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "近藤駿太",
-            "group": "Lienel",
-            "status": "active"
-          },
-          {
-            "name": "高岡ミロ",
-            "group": "Lienel",
-            "status": "active"
-          }
-        ]
-      },
-      {
         "id": "91a2a4d301121007",
         "title": "【SUPERSTAR EBiDAN】 「EBiDAN THE LIVE 2026 15th Anniversary」開催記念！ゲーム内イベント実施",
         "sourceName": "SUPER★DRAGON 公式NEWS",
@@ -359,6 +297,21 @@
         "articleUrl": "https://super-dragon.jp/news/news11544/",
         "publishedAt": "2026-08-10T08:00:46.000Z",
         "summary": "ついにCD発売を迎えるEBiDAN (恵比寿学園男子部)「Yes! 東京」が、デジタルシングルとしてもリリースが決定いたしました。リード曲「Yes! 東京」に加え、カップリングには昨年の『EBiDAN THE LIVE […] The post シングル「Yes! 東京」＆アルバム「Yes! 東京 (体験入学版)」、デジタルリリース決定！各種キャンペーンもス",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "b396ff503ea66479",
+        "title": "【渋谷エリアジャック及び山手線ラッピング広告をご覧になる皆様へ再度のお願い】",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11527/",
+        "publishedAt": "2026-08-07T12:30:26.000Z",
+        "summary": "いつもEBiDANへ温かい応援をいただき、誠にありがとうございます。 依然として、渋谷ジャック及び山手線ラッピング広告に関して駅構内、ホーム上、車内、道路上における危険行為や滞留、一歩間違えれば大事故に直結しかねない極め […] The post 【渋谷エリアジャック及び山手線ラッピング広告をご覧になる皆様へ再度のお願い】 first appeared on",
         "groups": [
           "EBiDAN",
           "SUPER★DRAGON"
@@ -442,37 +395,37 @@
         "memberMatches": []
       }
     ],
-    "超特急": [
+    "BUDDiiS": [
       {
-        "id": "86c5f405d92839df",
-        "title": "超特急・M!LKの弟分Lienel、ゴールデン番組で“大暴れ” 高岡ミロ「伸び伸びと発言できた」",
-        "sourceName": "マイナビニュース テレビ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-        "articleUrl": "https://news.mynavi.jp/article/20260820-4840016/",
-        "publishedAt": "2026-08-19T21:00:00.000Z",
-        "summary": "EBiDANで、超特急やM!LKの弟分グループ・Lienelの近藤駿太、高岡ミロが、きょう20日に放送されるフジテレビ系音楽バラエティ特番『ミュージックジェネレーション』3時間スペシャル(19:00～)に出演する。",
+        "id": "15fb9ee4d3775ce2",
+        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/07/89645/",
+        "publishedAt": "2026-07-24T12:00:00.000Z",
+        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
         "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK",
-          "Lienel"
+          "原因は自分にある。",
+          "BUDDiiS"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "近藤駿太",
-            "group": "Lienel",
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
             "status": "active"
           },
           {
-            "name": "高岡ミロ",
-            "group": "Lienel",
+            "name": "SHOOT",
+            "group": "BUDDiiS",
             "status": "active"
           }
         ]
-      },
+      }
+    ],
+    "超特急": [
       {
         "id": "397a635043a0e0e2",
         "title": "映画『ワンダンス』新キャストにGirls2山口綺羅、MAZZEL・RAN、TSUKKI、超特急・髙松アロハ",
@@ -511,68 +464,6 @@
         ],
         "statuses": [],
         "memberMatches": []
-      }
-    ],
-    "Lienel": [
-      {
-        "id": "86c5f405d92839df",
-        "title": "超特急・M!LKの弟分Lienel、ゴールデン番組で“大暴れ” 高岡ミロ「伸び伸びと発言できた」",
-        "sourceName": "マイナビニュース テレビ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-        "articleUrl": "https://news.mynavi.jp/article/20260820-4840016/",
-        "publishedAt": "2026-08-19T21:00:00.000Z",
-        "summary": "EBiDANで、超特急やM!LKの弟分グループ・Lienelの近藤駿太、高岡ミロが、きょう20日に放送されるフジテレビ系音楽バラエティ特番『ミュージックジェネレーション』3時間スペシャル(19:00～)に出演する。",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK",
-          "Lienel"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "近藤駿太",
-            "group": "Lienel",
-            "status": "active"
-          },
-          {
-            "name": "高岡ミロ",
-            "group": "Lienel",
-            "status": "active"
-          }
-        ]
-      }
-    ],
-    "BUDDiiS": [
-      {
-        "id": "15fb9ee4d3775ce2",
-        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/07/89645/",
-        "publishedAt": "2026-07-24T12:00:00.000Z",
-        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
-        "groups": [
-          "原因は自分にある。",
-          "BUDDiiS"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "SHOOT",
-            "group": "BUDDiiS",
-            "status": "active"
-          }
-        ]
       }
     ]
   }
