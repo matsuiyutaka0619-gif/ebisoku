@@ -1,6 +1,60 @@
 {
-  "updatedAt": "2026-08-25T07:08:02.968Z",
+  "updatedAt": "2026-08-25T13:11:20.614Z",
   "articles": [
+    {
+      "id": "f72346cf0b201448",
+      "title": "「尊敬って言葉じゃ足りない」「佐野くんが『舜太は…』」M!LK曽野舜太が気象予報士試験を受験 自身に課した“誓い”にファン感動",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260825-4866472/",
+      "publishedAt": "2026-08-25T10:00:00.000Z",
+      "summary": "「俺って何ができるんだろうなって……」M!LKの曽野舜太が、自身のYouTubeチャンネル『I'm 曽野舜太』を更新。気象予報士試験を目指したきっかけや、受験にあたって自分の中で決めたことを明かした。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "曽野舜太",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "55ae612aba3ab476",
+      "title": "超特急・M!LK・BUDDiiS・ICEx・Lienel…EBiDAN選抜9名が『よるのブランチ』で胸キュンセリフバトル",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000870417/",
+      "publishedAt": "2026-08-25T09:00:21.000Z",
+      "summary": "8月26日放送の『よるのブランチ』に、EBiDAN15周年を記念してカイ（超特急）、曽野舜太（M!LK...",
+      "groups": [
+        "EBiDAN",
+        "超特急",
+        "M!LK",
+        "BUDDiiS",
+        "ICEx",
+        "Lienel"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "カイ",
+          "group": "超特急",
+          "status": "active"
+        },
+        {
+          "name": "曽野舜太",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "2aecb9c5c394326a",
       "title": "M!LK5人でキャッチーなアイソレや艶やかな表情を見せるこなれダンスを披露！「アイソレうますぎ」「M!LK以外を踊ってるのレア」「上目遣いメロい」「塩﨑くん前髪あり似合う」",
@@ -44,28 +98,6 @@
       "memberMatches": []
     },
     {
-      "id": "2b0d2674fea827da",
-      "title": "M!LK山中柔太朗が“メロリッチ”な香りに夢中！LABO AROOMの新Web CM公開",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000870063/",
-      "publishedAt": "2026-08-25T01:34:09.000Z",
-      "summary": "M!LKの山中柔太朗をブランドアンバサダーとして起用したフレグランス柔軟剤LABO AROOMのWeb CM...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "山中柔太朗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "b94cee96de01482e",
       "title": "亡き妻の真相追い学園に潜入…浅香航大×杢代和人、“劇場型リベンジサスペンス”でW主演「強い信念を大切に」「思わず考察したくなる」",
       "sourceName": "マイナビニュース テレビ",
@@ -86,20 +118,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "be0e75b230d78514",
-      "title": "Sakurashimeji、2nd EP「あなたの声になれたら」11月4日発売！新ビジュアル＆ジャケット写真公開",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/music2/663239.html",
-      "publishedAt": "2026-08-23T09:00:27.000Z",
-      "summary": "ギターデュオ・Sakurashimejiが、11月4日に発売する2nd EPのタイトルを「あなたの声になれたら」に決定。あわせてジャケット写真と新たなアーティスト写真を公開した。今回公開されたアーティスト写真は、EP「あなたの声になれたら」のキービジュアルにもなっている ... The post Sakurashimeji、2nd EP「あなたの声になれたら",
-      "groups": [
-        "Sakurashimeji"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "a02364c0b1bd5a80",
@@ -143,28 +161,6 @@
         },
         {
           "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "2e6490c967efae49",
-      "title": "佐野勇斗（M!LK）、「週刊TVガイド関西版2026年10月3日号増刊 TVガイドdan［ダン］vol.61」表紙に初登場",
-      "sourceName": "タワーレコード ニュース",
-      "sourceUrl": "https://tower.jp/feeds/article/news",
-      "articleUrl": "https://tower.jp/article/news/2026/08/20/tgb007",
-      "publishedAt": "2026-08-20T08:30:00.000Z",
-      "summary": "",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
           "group": "M!LK",
           "status": "active"
         }

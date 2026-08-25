@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-25T07:08:02.971Z",
+  "updatedAt": "2026-08-25T13:11:20.616Z",
   "totals": {
-    "all": 125,
-    "today": 4,
-    "week": 11
+    "all": 124,
+    "today": 5,
+    "week": 9
   },
   "groupRanking": [
     {
@@ -11,41 +11,49 @@
       "count": 6
     },
     {
-      "name": "SUPER★DRAGON",
-      "count": 3
+      "name": "EBiDAN",
+      "count": 2
     },
     {
-      "name": "EBiDAN",
+      "name": "SUPER★DRAGON",
+      "count": 2
+    },
+    {
+      "name": "BUDDiiS",
       "count": 1
     },
     {
-      "name": "Sakurashimeji",
+      "name": "ICEx",
+      "count": 1
+    },
+    {
+      "name": "Lienel",
       "count": 1
     },
     {
       "name": "原因は自分にある。",
       "count": 1
+    },
+    {
+      "name": "超特急",
+      "count": 1
     }
   ],
   "memberRanking": [
+    {
+      "name": "曽野舜太",
+      "count": 3
+    },
+    {
+      "name": "カイ",
+      "count": 1
+    },
     {
       "name": "塩﨑太智",
       "count": 1
     },
     {
       "name": "吉田仁人",
-      "count": 1
-    },
-    {
-      "name": "佐野勇斗",
-      "count": 1
-    },
-    {
-      "name": "山中柔太朗",
-      "count": 1
-    },
-    {
-      "name": "曽野舜太",
       "count": 1
     },
     {
@@ -60,24 +68,74 @@
     },
     {
       "name": "SUPER★DRAGON 公式NEWS",
-      "count": 3
+      "count": 2
     },
     {
       "name": "マイナビニュース テレビ",
       "count": 2
     },
     {
-      "name": "WWSチャンネル",
-      "count": 1
-    },
-    {
-      "name": "タワーレコード ニュース",
+      "name": "マイナビニュース エンタメ",
       "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
     "M!LK": [
+      {
+        "id": "f72346cf0b201448",
+        "title": "「尊敬って言葉じゃ足りない」「佐野くんが『舜太は…』」M!LK曽野舜太が気象予報士試験を受験 自身に課した“誓い”にファン感動",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20260825-4866472/",
+        "publishedAt": "2026-08-25T10:00:00.000Z",
+        "summary": "「俺って何ができるんだろうなって……」M!LKの曽野舜太が、自身のYouTubeチャンネル『I'm 曽野舜太』を更新。気象予報士試験を目指したきっかけや、受験にあたって自分の中で決めたことを明かした。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "55ae612aba3ab476",
+        "title": "超特急・M!LK・BUDDiiS・ICEx・Lienel…EBiDAN選抜9名が『よるのブランチ』で胸キュンセリフバトル",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000870417/",
+        "publishedAt": "2026-08-25T09:00:21.000Z",
+        "summary": "8月26日放送の『よるのブランチ』に、EBiDAN15周年を記念してカイ（超特急）、曽野舜太（M!LK...",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK",
+          "BUDDiiS",
+          "ICEx",
+          "Lienel"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "カイ",
+            "group": "超特急",
+            "status": "active"
+          },
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
       {
         "id": "2aecb9c5c394326a",
         "title": "M!LK5人でキャッチーなアイソレや艶やかな表情を見せるこなれダンスを披露！「アイソレうますぎ」「M!LK以外を踊ってるのレア」「上目遣いメロい」「塩﨑くん前髪あり似合う」",
@@ -119,131 +177,41 @@
         ],
         "statuses": [],
         "memberMatches": []
-      },
+      }
+    ],
+    "EBiDAN": [
       {
-        "id": "2b0d2674fea827da",
-        "title": "M!LK山中柔太朗が“メロリッチ”な香りに夢中！LABO AROOMの新Web CM公開",
+        "id": "55ae612aba3ab476",
+        "title": "超特急・M!LK・BUDDiiS・ICEx・Lienel…EBiDAN選抜9名が『よるのブランチ』で胸キュンセリフバトル",
         "sourceName": "THE FIRST TIMES",
         "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000870063/",
-        "publishedAt": "2026-08-25T01:34:09.000Z",
-        "summary": "M!LKの山中柔太朗をブランドアンバサダーとして起用したフレグランス柔軟剤LABO AROOMのWeb CM...",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000870417/",
+        "publishedAt": "2026-08-25T09:00:21.000Z",
+        "summary": "8月26日放送の『よるのブランチ』に、EBiDAN15周年を記念してカイ（超特急）、曽野舜太（M!LK...",
         "groups": [
-          "M!LK"
+          "EBiDAN",
+          "超特急",
+          "M!LK",
+          "BUDDiiS",
+          "ICEx",
+          "Lienel"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "6200edf1a2bbc39a",
-        "title": "塩崎太智、食リポでこん身の「滅!」も…店の人に伝わらず「もっとがんばらなきゃな」M!LKがロケ企画で大奮闘",
-        "sourceName": "マイナビニュース テレビ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-        "articleUrl": "https://news.mynavi.jp/article/20260822-4847539/",
-        "publishedAt": "2026-08-21T22:00:00.000Z",
-        "summary": "「甘すぎて滅!」――。きょう22日に放送される日本テレビ系バラエティ番組『1億人の大質問!? 笑ってコラえて!』2時間スペシャル(19:00～)では、M!LKの塩崎太智、曽野舜太、吉田仁人がロケ企画で大奮闘。塩崎は「日本列島ダーツの旅」に初挑戦し、曽野と吉田は「日本全国 道の駅伝」で北陸の“売上No.1グルメ”探しに挑む。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
+            "name": "カイ",
+            "group": "超特急",
             "status": "active"
           },
           {
             "name": "曽野舜太",
             "group": "M!LK",
             "status": "active"
-          },
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      }
-    ],
-    "原因は自分にある。": [
-      {
-        "id": "b94cee96de01482e",
-        "title": "亡き妻の真相追い学園に潜入…浅香航大×杢代和人、“劇場型リベンジサスペンス”でW主演「強い信念を大切に」「思わず考察したくなる」",
-        "sourceName": "マイナビニュース テレビ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-        "articleUrl": "https://news.mynavi.jp/article/20260824-4857213/",
-        "publishedAt": "2026-08-23T19:00:00.000Z",
-        "summary": "「毎話、爽快感がありながらも先の読めない展開が続く作品」――浅香航大と杢代和人が、10月7日にスタートする中京テレビ・日本テレビ系ドラマ『仮面教師～妻を亡くしたその日から』(毎週水曜24:24～)でW主演する。最愛の妻の死の真相を追って学園に潜入する元俳優の教師と、ある事情を抱えた転校生が、演劇ならではの仕掛けを武器に巨大な権力へ立ち向かう“劇場型リベンジサ",
-        "groups": [
-          "原因は自分にある。"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "杢代和人",
-            "group": "原因は自分にある。",
-            "status": "active"
           }
         ]
       },
-      {
-        "id": "15fb9ee4d3775ce2",
-        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/07/89645/",
-        "publishedAt": "2026-07-24T12:00:00.000Z",
-        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
-        "groups": [
-          "原因は自分にある。",
-          "BUDDiiS"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "SHOOT",
-            "group": "BUDDiiS",
-            "status": "active"
-          }
-        ]
-      }
-    ],
-    "Sakurashimeji": [
-      {
-        "id": "be0e75b230d78514",
-        "title": "Sakurashimeji、2nd EP「あなたの声になれたら」11月4日発売！新ビジュアル＆ジャケット写真公開",
-        "sourceName": "WWSチャンネル",
-        "sourceUrl": "https://www.wws-channel.com/feed",
-        "articleUrl": "https://www.wws-channel.com/music2/663239.html",
-        "publishedAt": "2026-08-23T09:00:27.000Z",
-        "summary": "ギターデュオ・Sakurashimejiが、11月4日に発売する2nd EPのタイトルを「あなたの声になれたら」に決定。あわせてジャケット写真と新たなアーティスト写真を公開した。今回公開されたアーティスト写真は、EP「あなたの声になれたら」のキービジュアルにもなっている ... The post Sakurashimeji、2nd EP「あなたの声になれたら",
-        "groups": [
-          "Sakurashimeji"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "EBiDAN": [
       {
         "id": "a02364c0b1bd5a80",
         "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』開催決定！",
@@ -303,21 +271,261 @@
         ],
         "statuses": [],
         "memberMatches": []
-      },
+      }
+    ],
+    "超特急": [
       {
-        "id": "b396ff503ea66479",
-        "title": "【渋谷エリアジャック及び山手線ラッピング広告をご覧になる皆様へ再度のお願い】",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11527/",
-        "publishedAt": "2026-08-07T12:30:26.000Z",
-        "summary": "いつもEBiDANへ温かい応援をいただき、誠にありがとうございます。 依然として、渋谷ジャック及び山手線ラッピング広告に関して駅構内、ホーム上、車内、道路上における危険行為や滞留、一歩間違えれば大事故に直結しかねない極め […] The post 【渋谷エリアジャック及び山手線ラッピング広告をご覧になる皆様へ再度のお願い】 first appeared on",
+        "id": "55ae612aba3ab476",
+        "title": "超特急・M!LK・BUDDiiS・ICEx・Lienel…EBiDAN選抜9名が『よるのブランチ』で胸キュンセリフバトル",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000870417/",
+        "publishedAt": "2026-08-25T09:00:21.000Z",
+        "summary": "8月26日放送の『よるのブランチ』に、EBiDAN15周年を記念してカイ（超特急）、曽野舜太（M!LK...",
         "groups": [
           "EBiDAN",
+          "超特急",
+          "M!LK",
+          "BUDDiiS",
+          "ICEx",
+          "Lienel"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "カイ",
+            "group": "超特急",
+            "status": "active"
+          },
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "397a635043a0e0e2",
+        "title": "映画『ワンダンス』新キャストにGirls2山口綺羅、MAZZEL・RAN、TSUKKI、超特急・髙松アロハ",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/07/89594/",
+        "publishedAt": "2026-07-22T09:00:00.000Z",
+        "summary": "11月27日(金)に公開されるJO（&TEAM）初主演映画『ワンダンス』の新キャストとして山口綺羅（Girls2）、RAN（MAZZEL）、現役DリーガーのTSUKKI、髙松アロハ（超特急）が出演することが発表された。 原作は単行本累計発行部数110万部を突破し「月刊アフタヌーン」（講談社）で連載中の珈琲による同名漫画。ダンサーからも熱く支持され、昨年放送さ",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "アロハ",
+            "group": "超特急",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "382225983e9781d4",
+        "title": "8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 7月2日からの先行配信リリースに合わせて デジタルキャンペーンが追加決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11354/",
+        "publishedAt": "2026-07-01T06:00:22.000Z",
+        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して8月11日(火・祝)にリリースされる「Yes! 東京」が、いよいよ7月2日（木）より先行配信リリースとなります。超特急、M!LK、SUPER★DRAGON、Sakur […] The post 8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 7月2日からの先行配信リリースに合わせて デ",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK",
           "SUPER★DRAGON"
         ],
         "statuses": [],
         "memberMatches": []
+      }
+    ],
+    "BUDDiiS": [
+      {
+        "id": "55ae612aba3ab476",
+        "title": "超特急・M!LK・BUDDiiS・ICEx・Lienel…EBiDAN選抜9名が『よるのブランチ』で胸キュンセリフバトル",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000870417/",
+        "publishedAt": "2026-08-25T09:00:21.000Z",
+        "summary": "8月26日放送の『よるのブランチ』に、EBiDAN15周年を記念してカイ（超特急）、曽野舜太（M!LK...",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK",
+          "BUDDiiS",
+          "ICEx",
+          "Lienel"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "カイ",
+            "group": "超特急",
+            "status": "active"
+          },
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "15fb9ee4d3775ce2",
+        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/07/89645/",
+        "publishedAt": "2026-07-24T12:00:00.000Z",
+        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
+        "groups": [
+          "原因は自分にある。",
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "ICEx": [
+      {
+        "id": "55ae612aba3ab476",
+        "title": "超特急・M!LK・BUDDiiS・ICEx・Lienel…EBiDAN選抜9名が『よるのブランチ』で胸キュンセリフバトル",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000870417/",
+        "publishedAt": "2026-08-25T09:00:21.000Z",
+        "summary": "8月26日放送の『よるのブランチ』に、EBiDAN15周年を記念してカイ（超特急）、曽野舜太（M!LK...",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK",
+          "BUDDiiS",
+          "ICEx",
+          "Lienel"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "カイ",
+            "group": "超特急",
+            "status": "active"
+          },
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "Lienel": [
+      {
+        "id": "55ae612aba3ab476",
+        "title": "超特急・M!LK・BUDDiiS・ICEx・Lienel…EBiDAN選抜9名が『よるのブランチ』で胸キュンセリフバトル",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000870417/",
+        "publishedAt": "2026-08-25T09:00:21.000Z",
+        "summary": "8月26日放送の『よるのブランチ』に、EBiDAN15周年を記念してカイ（超特急）、曽野舜太（M!LK...",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK",
+          "BUDDiiS",
+          "ICEx",
+          "Lienel"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "カイ",
+            "group": "超特急",
+            "status": "active"
+          },
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "原因は自分にある。": [
+      {
+        "id": "b94cee96de01482e",
+        "title": "亡き妻の真相追い学園に潜入…浅香航大×杢代和人、“劇場型リベンジサスペンス”でW主演「強い信念を大切に」「思わず考察したくなる」",
+        "sourceName": "マイナビニュース テレビ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
+        "articleUrl": "https://news.mynavi.jp/article/20260824-4857213/",
+        "publishedAt": "2026-08-23T19:00:00.000Z",
+        "summary": "「毎話、爽快感がありながらも先の読めない展開が続く作品」――浅香航大と杢代和人が、10月7日にスタートする中京テレビ・日本テレビ系ドラマ『仮面教師～妻を亡くしたその日から』(毎週水曜24:24～)でW主演する。最愛の妻の死の真相を追って学園に潜入する元俳優の教師と、ある事情を抱えた転校生が、演劇ならではの仕掛けを武器に巨大な権力へ立ち向かう“劇場型リベンジサ",
+        "groups": [
+          "原因は自分にある。"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "杢代和人",
+            "group": "原因は自分にある。",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "15fb9ee4d3775ce2",
+        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/07/89645/",
+        "publishedAt": "2026-07-24T12:00:00.000Z",
+        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
+        "groups": [
+          "原因は自分にある。",
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
       }
     ],
     "SUPER★DRAGON": [
@@ -389,77 +597,6 @@
         "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して、本日8月11日(火・祝)にリリースされたシングル「Yes! 東京」のMaking Lyric Videoを公開！ 本日公開された映像は、4日間に渡って撮影されたMu […] The post 本日8月11日(火・祝)発売、 EBiDAN15周年記念シングル「Yes! 東京」の を公開！ first ap",
         "groups": [
           "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "BUDDiiS": [
-      {
-        "id": "15fb9ee4d3775ce2",
-        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/07/89645/",
-        "publishedAt": "2026-07-24T12:00:00.000Z",
-        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
-        "groups": [
-          "原因は自分にある。",
-          "BUDDiiS"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "SHOOT",
-            "group": "BUDDiiS",
-            "status": "active"
-          }
-        ]
-      }
-    ],
-    "超特急": [
-      {
-        "id": "397a635043a0e0e2",
-        "title": "映画『ワンダンス』新キャストにGirls2山口綺羅、MAZZEL・RAN、TSUKKI、超特急・髙松アロハ",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/07/89594/",
-        "publishedAt": "2026-07-22T09:00:00.000Z",
-        "summary": "11月27日(金)に公開されるJO（&TEAM）初主演映画『ワンダンス』の新キャストとして山口綺羅（Girls2）、RAN（MAZZEL）、現役DリーガーのTSUKKI、髙松アロハ（超特急）が出演することが発表された。 原作は単行本累計発行部数110万部を突破し「月刊アフタヌーン」（講談社）で連載中の珈琲による同名漫画。ダンサーからも熱く支持され、昨年放送さ",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "アロハ",
-            "group": "超特急",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "382225983e9781d4",
-        "title": "8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 7月2日からの先行配信リリースに合わせて デジタルキャンペーンが追加決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11354/",
-        "publishedAt": "2026-07-01T06:00:22.000Z",
-        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して8月11日(火・祝)にリリースされる「Yes! 東京」が、いよいよ7月2日（木）より先行配信リリースとなります。超特急、M!LK、SUPER★DRAGON、Sakur […] The post 8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 7月2日からの先行配信リリースに合わせて デ",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK",
           "SUPER★DRAGON"
         ],
         "statuses": [],
