@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-08-24T18:58:45.180Z",
+  "updatedAt": "2026-08-25T01:52:11.199Z",
   "articles": [
+    {
+      "id": "2b0d2674fea827da",
+      "title": "M!LK山中柔太朗が“メロリッチ”な香りに夢中！LABO AROOMの新Web CM公開",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000870063/",
+      "publishedAt": "2026-08-25T01:34:09.000Z",
+      "summary": "M!LKの山中柔太朗をブランドアンバサダーとして起用したフレグランス柔軟剤LABO AROOMのWeb CM...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "a14836626d5476f2",
       "title": "M!LK吉田仁人が黒スーツで霧島市長と握手を交わす交付式の様子が公開！「スーツかっこよすぎ」「凛々しくてすてき」「ビジュいい」",
@@ -115,6 +137,28 @@
         },
         {
           "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "2e6490c967efae49",
+      "title": "佐野勇斗（M!LK）、「週刊TVガイド関西版2026年10月3日号増刊 TVガイドdan［ダン］vol.61」表紙に初登場",
+      "sourceName": "タワーレコード ニュース",
+      "sourceUrl": "https://tower.jp/feeds/article/news",
+      "articleUrl": "https://tower.jp/article/news/2026/08/20/tgb007",
+      "publishedAt": "2026-08-20T08:30:00.000Z",
+      "summary": "",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
           "group": "M!LK",
           "status": "active"
         }
@@ -1472,42 +1516,6 @@
         {
           "name": "佐野勇斗",
           "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "cc5ac2d0f2585820",
-      "title": "佐々木美玲＆森次政裕の健やかさの秘訣。共演してわかった互いの愛され力とは？",
-      "sourceName": "Bezzy",
-      "sourceUrl": "https://bezzy.jp/feed/",
-      "articleUrl": "https://bezzy.jp/2026/06/87486/",
-      "publishedAt": "2026-06-11T09:00:00.000Z",
-      "summary": "一夜限りの関係を結んだ相手は、誰もが羨むハイスペ社長だった──。 2026年4月クールで放送中のドラマ特区『あの夜、社長の子供を授かりました』は、一夜の過ちから運命が大きく変わる波乱のラブストーリー。自己評価の低さゆえに、つい自分を犠牲にして他人のために頑張りすぎてしまうヒロイン・花井栞里を佐々木美玲。そんな栞里に無償の愛を注ぐ溺愛社長・瀬古貴人を森次政裕（",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "63b99a8e04894f82",
-      "title": "伊東蒼が圧巻の表現力で“危うい”人物を演じ切る、奈緒主演映画『死ねばいいのに』本編映像解禁",
-      "sourceName": "Bezzy",
-      "sourceUrl": "https://bezzy.jp/feed/",
-      "articleUrl": "https://bezzy.jp/2026/06/87607/",
-      "publishedAt": "2026-06-11T03:00:00.000Z",
-      "summary": "7月3日(金)にテアトル新宿ほかで公開される奈緒主演映画『死ねばいいのに』より、伊東蒼演じる亜佐美にフォーカスした本編映像と場面写真が解禁された。 京極夏彦の同名小説を映画化した本作は、何者かによって殺された“亜佐美”を巡るミステリー。その“亜佐美”について尋ね歩く謎めいた人物・渡来映子を奈緒が演じ、従来のイメージを覆すアウトローな雰囲気で新境地を開拓する。",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "タクヤ",
-          "group": "超特急",
           "status": "active"
         }
       ]
