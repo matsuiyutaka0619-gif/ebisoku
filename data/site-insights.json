@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-26T13:16:15.749Z",
+  "updatedAt": "2026-08-26T20:03:04.105Z",
   "totals": {
-    "all": 127,
-    "today": 9,
-    "week": 12
+    "all": 129,
+    "today": 0,
+    "week": 14
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 10
+      "count": 12
     },
     {
       "name": "EBiDAN",
@@ -26,7 +26,7 @@
   "memberRanking": [
     {
       "name": "塩﨑太智",
-      "count": 5
+      "count": 7
     },
     {
       "name": "吉田仁人",
@@ -51,15 +51,19 @@
   ],
   "sourceRanking": [
     {
+      "name": "タワーレコード ニュース",
+      "count": 4
+    },
+    {
       "name": "Edge Line",
       "count": 3
     },
     {
-      "name": "タワーレコード ニュース",
-      "count": 3
+      "name": "THE FIRST TIMES",
+      "count": 2
     },
     {
-      "name": "THE FIRST TIMES",
+      "name": "マイナビニュース エンタメ",
       "count": 2
     },
     {
@@ -69,15 +73,55 @@
     {
       "name": "SUPER★DRAGON 公式NEWS",
       "count": 1
-    },
-    {
-      "name": "マイナビニュース エンタメ",
-      "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
     "M!LK": [
+      {
+        "id": "11f21b68eb550b5d",
+        "title": "「ダメですよ!」「皆さん…」M!LK塩崎太智、報道陣にまさかの“呼びかけ” 全力ジェスチャー&ダンス披露",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20260826-4871396/",
+        "publishedAt": "2026-08-26T14:00:00.000Z",
+        "summary": "M!LKの塩崎太智(※崎はたつさき)が26日、都内で行われたマクドナルドの新商品発表イベントに、＝LOVEの佐々木舞香とともに登壇。新商品の試食を懸けたジェスチャーゲームに挑戦し、会場を盛り上げた。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "64545bb06b9b2821",
+        "title": "宮﨑あおい、塩﨑太智、佐々木舞香、マクドナルド「月見ファミリー」新TVCM出演。9月1日より全国放映開始",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/08/26/tg011",
+        "publishedAt": "2026-08-26T13:40:00.000Z",
+        "summary": "",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
       {
         "id": "de8aaaf7bc0e5ad1",
         "title": "吉田仁人（M!LK）が登場。「FINEBOYS+plus OYASUMI vol.2」表紙公開",
@@ -144,51 +188,6 @@
         "memberMatches": [
           {
             "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "0caff10c9a2df585",
-        "title": "山中柔太朗、フレグランス柔軟剤「LABO AROOM」アンバサダーに就任。新WEB CM「その香り、メロリッチ。｜柔太朗と柔軟剤」篇公開",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/08/26/tg004",
-        "publishedAt": "2026-08-26T09:50:00.000Z",
-        "summary": "",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "8e5bdb9b3dc34862",
-        "title": "佐野勇斗がEBiDANメンツとのご飯会ショット公開！「あんまEBiDANメンバーの連絡先知らないから、次来たいよーって人コメントしといて」に反響続々",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000871104/",
-        "publishedAt": "2026-08-26T07:23:46.000Z",
-        "summary": "佐野勇斗がEBiDANメンバーとのご飯会ショットを公開した。 ■「なんか凄く楽しい回でした。みん...",
-        "groups": [
-          "EBiDAN",
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
             "group": "M!LK",
             "status": "active"
           }
