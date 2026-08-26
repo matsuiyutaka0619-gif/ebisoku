@@ -1,6 +1,108 @@
 {
-  "updatedAt": "2026-08-26T01:57:56.849Z",
+  "updatedAt": "2026-08-26T07:08:32.957Z",
   "articles": [
+    {
+      "id": "b3cd9be4ed2a8507",
+      "title": "吉田仁人がリムレスメガネをクイッ！M!LK5人の「energy」ダンスに「メロすぎて沼」「見下したようなほほ笑みもたまらん」「あざとくて心臓持たない」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000870884/",
+      "publishedAt": "2026-08-26T05:46:38.000Z",
+      "summary": "M!LK公式SNSにて、M!LKが「energy」を踊る動画が公開された。 ■白×シルバー×ツイード衣装の5人...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "7100ae1735d40e26",
+      "title": "M!LKが“インパクト抜群”メンカラ衣装でニッコニコ！「イケメン5人の友情リレー最高」「この衣装すき！」「だいちゃんの前髪あり需要しかない」「舜ちゃん目キラキラ」「ヘアセット全員天才」と反響",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000870936/",
+      "publishedAt": "2026-08-26T04:24:18.000Z",
+      "summary": "M!LKの公式SNSが更新。「You!Joy!Parade!」に乗せたリレーダンスが公開され、注目を集めている...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "25ee6e9261271906",
+      "title": "M!LK塩﨑太智、マクドナルドCM初出演！宮﨑あおい、＝LOVE佐々木舞香と“月見ファミリー”新TVCMに登場",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000870745/",
+      "publishedAt": "2026-08-26T03:48:11.000Z",
+      "summary": "宮崎あおい（崎は、たつさきが正式表記）、塩崎太智（崎は、たつさきが正式表記/M!LK）、佐々...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "塩﨑太智",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "7c75003d6e26c66d",
+      "title": "＝LOVE佐々木舞香、“運動音痴”克服に意欲 ピックルボールで空振り連発「さっとできるようになりたい」",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1054903/",
+      "publishedAt": "2026-08-26T03:03:06.000Z",
+      "summary": "＝LOVEの佐々木舞香が26日、都内で行われたマクドナルド「2026年 月見ファミリー発表イベント」に、M!LKの塩﨑太智とともに登壇。“運動音痴”を克服するため、さまざまなスポーツに挑戦したいと意欲を示した。60歳まで […]",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "塩﨑太智",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "31cb68531afaedd6",
+      "title": "塩﨑太智＆佐々木舞香まさかの不正解で“月見バーガーダンス”生披露！「炙り牛すき焼き風月見」の味？",
+      "sourceName": "Edge Line",
+      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+      "articleUrl": "https://www.edgeline-tokyo.com/food/203947",
+      "publishedAt": "2026-08-26T02:04:42.000Z",
+      "summary": "アイドルグループ『M!LK』塩﨑太智、“イコラブ”こと『＝LOVE』佐々木舞香が8月26日に都内で日本マクドナルド『2026年 月見ファミリー発表イベント』に登場した。 マクドナルドの秋の風物詩メニュー『月見バーガー...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "塩﨑太智",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "cb22ebff28132498",
       "title": "塩﨑太智 浴衣姿で佐々木舞香とマクドナルドイベント登場！「大大大好きです！」",
@@ -44,88 +146,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "ab1fb6d4c17eb4ef",
-      "title": "「Yes! 東京」M!LK歌唱バージョンがオリコン週間ストリーミングランキングで1位に！デジタルシングルはTXTが自身初の首位獲得",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000870626/",
-      "publishedAt": "2026-08-25T19:00:10.000Z",
-      "summary": "8月31日付オリコン週間デジタルランキング（集計期間：8月17日～8月23日）が発表された。 ■「Y...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "f72346cf0b201448",
-      "title": "「尊敬って言葉じゃ足りない」「佐野くんが『舜太は…』」M!LK曽野舜太が気象予報士試験を受験 自身に課した“誓い”にファン感動",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-      "articleUrl": "https://news.mynavi.jp/article/20260825-4866472/",
-      "publishedAt": "2026-08-25T10:00:00.000Z",
-      "summary": "「俺って何ができるんだろうなって……」M!LKの曽野舜太が、自身のYouTubeチャンネル『I'm 曽野舜太』を更新。気象予報士試験を目指したきっかけや、受験にあたって自分の中で決めたことを明かした。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "曽野舜太",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "55ae612aba3ab476",
-      "title": "超特急・M!LK・BUDDiiS・ICEx・Lienel…EBiDAN選抜9名が『よるのブランチ』で胸キュンセリフバトル",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000870417/",
-      "publishedAt": "2026-08-25T09:00:21.000Z",
-      "summary": "8月26日放送の『よるのブランチ』に、EBiDAN15周年を記念してカイ（超特急）、曽野舜太（M!LK...",
-      "groups": [
-        "EBiDAN",
-        "超特急",
-        "M!LK",
-        "BUDDiiS",
-        "ICEx",
-        "Lienel"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "カイ",
-          "group": "超特急",
-          "status": "active"
-        },
-        {
-          "name": "曽野舜太",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "2aecb9c5c394326a",
-      "title": "M!LK5人でキャッチーなアイソレや艶やかな表情を見せるこなれダンスを披露！「アイソレうますぎ」「M!LK以外を踊ってるのレア」「上目遣いメロい」「塩﨑くん前髪あり似合う」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000869995/",
-      "publishedAt": "2026-08-25T05:35:48.000Z",
-      "summary": "M!LKが公式TikTokで、TikTokミームとなっている「GG EZ」にのせてダンスする動画が公開された...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "b94cee96de01482e",
