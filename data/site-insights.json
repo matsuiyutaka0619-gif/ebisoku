@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-25T18:56:25.024Z",
+  "updatedAt": "2026-08-26T01:57:56.851Z",
   "totals": {
-    "all": 124,
-    "today": 0,
-    "week": 9
+    "all": 125,
+    "today": 3,
+    "week": 10
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 6
+      "count": 7
     },
     {
       "name": "EBiDAN",
@@ -41,6 +41,10 @@
   ],
   "memberRanking": [
     {
+      "name": "塩﨑太智",
+      "count": 3
+    },
+    {
       "name": "曽野舜太",
       "count": 3
     },
@@ -49,15 +53,7 @@
       "count": 1
     },
     {
-      "name": "塩﨑太智",
-      "count": 1
-    },
-    {
       "name": "吉田仁人",
-      "count": 1
-    },
-    {
-      "name": "佐野勇斗",
       "count": 1
     },
     {
@@ -71,6 +67,10 @@
       "count": 3
     },
     {
+      "name": "Edge Line",
+      "count": 2
+    },
+    {
       "name": "SUPER★DRAGON 公式NEWS",
       "count": 2
     },
@@ -81,23 +81,19 @@
     {
       "name": "マイナビニュース エンタメ",
       "count": 1
-    },
-    {
-      "name": "リアルサウンド 映画部",
-      "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
     "M!LK": [
       {
-        "id": "bf46a4747d87122a",
-        "title": "“瀬尾”佐野勇斗が放った「結婚しよう」の衝撃 『君の好きは無敵』が繋ぐ“好き”の力",
-        "sourceName": "リアルサウンド 映画部",
-        "sourceUrl": "https://realsound.jp/movie/feed",
-        "articleUrl": "https://realsound.jp/movie/2026/08/post-2501675.html",
-        "publishedAt": "2026-08-25T14:10:51.000Z",
-        "summary": "キャラクターにも、流行り廃りはある。かつて一世を風靡したキャラクターが、いつしか「懐かしい」と言われるようになることも珍しくない。『君の好きは無敵』（TBS系）第7話で描かれたのは、移り変わりの激しい世界で「好き」を貫",
+        "id": "cb22ebff28132498",
+        "title": "塩﨑太智 浴衣姿で佐々木舞香とマクドナルドイベント登場！「大大大好きです！」",
+        "sourceName": "Edge Line",
+        "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+        "articleUrl": "https://www.edgeline-tokyo.com/food/203890",
+        "publishedAt": "2026-08-26T01:26:00.000Z",
+        "summary": "アイドルグループ『M!LK』塩﨑太智、“イコラブ”こと『＝LOVE』佐々木舞香が8月26日に都内で日本マクドナルド『2026年 月見ファミリー発表イベント』に登場した。 マクドナルドの秋の風物詩メニュー『月見バーガー...",
         "groups": [
           "M!LK"
         ],
@@ -106,11 +102,47 @@
         ],
         "memberMatches": [
           {
-            "name": "佐野勇斗",
+            "name": "塩﨑太智",
             "group": "M!LK",
             "status": "active"
           }
         ]
+      },
+      {
+        "id": "0b630efca8d54ee4",
+        "title": "M!LK塩﨑太智 初マクドナルドCMはスーツ姿で！「植物を育てること」に最近全力【原稿ロング】",
+        "sourceName": "Edge Line",
+        "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+        "articleUrl": "https://www.edgeline-tokyo.com/food/203935",
+        "publishedAt": "2026-08-26T01:14:48.000Z",
+        "summary": "アイドルグループ『M!LK』塩﨑太智が9月1日より全国放送となる日本マクドナルド月見バーガー新TVCM『チーチー倍月見「月見でたでた」塩崎さん篇』に出演する。 塩﨑はサラリーマンという設定。仕事帰りの塩崎が、満月の夜...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "ab1fb6d4c17eb4ef",
+        "title": "「Yes! 東京」M!LK歌唱バージョンがオリコン週間ストリーミングランキングで1位に！デジタルシングルはTXTが自身初の首位獲得",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000870626/",
+        "publishedAt": "2026-08-25T19:00:10.000Z",
+        "summary": "8月31日付オリコン週間デジタルランキング（集計期間：8月17日～8月23日）が発表された。 ■「Y...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
       },
       {
         "id": "f72346cf0b201448",
@@ -165,34 +197,6 @@
             "status": "active"
           }
         ]
-      },
-      {
-        "id": "2aecb9c5c394326a",
-        "title": "M!LK5人でキャッチーなアイソレや艶やかな表情を見せるこなれダンスを披露！「アイソレうますぎ」「M!LK以外を踊ってるのレア」「上目遣いメロい」「塩﨑くん前髪あり似合う」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000869995/",
-        "publishedAt": "2026-08-25T05:35:48.000Z",
-        "summary": "M!LKが公式TikTokで、TikTokミームとなっている「GG EZ」にのせてダンスする動画が公開された...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "a51268b66e3f63b6",
-        "title": "M!LKが制服衣装で腕組みハイタッチする仲良しダンス披露！「イケメン先輩とのない思い出蘇る」「同級生にいたら絶対に楽しい」「襟元開け腕まくりの着こなしかっこいい」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000870124/",
-        "publishedAt": "2026-08-25T04:44:07.000Z",
-        "summary": "M!LKが公式TikTokで「アイドルパワー」をダンスする動画が公開された。 ■ニコニコ笑顔でハイタ...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
       }
     ],
     "EBiDAN": [
