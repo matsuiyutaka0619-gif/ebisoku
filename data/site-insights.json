@@ -1,21 +1,29 @@
 {
-  "updatedAt": "2026-08-26T20:03:04.105Z",
+  "updatedAt": "2026-08-27T09:47:58.400Z",
   "totals": {
-    "all": 129,
-    "today": 0,
-    "week": 14
+    "all": 132,
+    "today": 9,
+    "week": 18
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 12
+      "count": 13
     },
     {
       "name": "EBiDAN",
-      "count": 2
+      "count": 3
     },
     {
       "name": "SUPER★DRAGON",
+      "count": 2
+    },
+    {
+      "name": "超特急",
+      "count": 2
+    },
+    {
+      "name": "ICEx",
       "count": 1
     },
     {
@@ -25,23 +33,31 @@
   ],
   "memberRanking": [
     {
-      "name": "塩﨑太智",
+      "name": "吉田仁人",
       "count": 7
     },
     {
-      "name": "吉田仁人",
-      "count": 4
+      "name": "塩﨑太智",
+      "count": 6
+    },
+    {
+      "name": "曽野舜太",
+      "count": 3
+    },
+    {
+      "name": "カイ",
+      "count": 2
     },
     {
       "name": "佐野勇斗",
       "count": 2
     },
     {
-      "name": "山中柔太朗",
+      "name": "リョウガ",
       "count": 1
     },
     {
-      "name": "曽野舜太",
+      "name": "山中柔太朗",
       "count": 1
     },
     {
@@ -51,19 +67,15 @@
   ],
   "sourceRanking": [
     {
+      "name": "THE FIRST TIMES",
+      "count": 6
+    },
+    {
       "name": "タワーレコード ニュース",
       "count": 4
     },
     {
-      "name": "Edge Line",
-      "count": 3
-    },
-    {
-      "name": "THE FIRST TIMES",
-      "count": 2
-    },
-    {
-      "name": "マイナビニュース エンタメ",
+      "name": "SUPER★DRAGON 公式NEWS",
       "count": 2
     },
     {
@@ -71,44 +83,47 @@
       "count": 2
     },
     {
-      "name": "SUPER★DRAGON 公式NEWS",
+      "name": "マイナビニュース 芸能",
+      "count": 2
+    },
+    {
+      "name": "BARKS",
+      "count": 1
+    },
+    {
+      "name": "Edge Line",
       "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
-    "M!LK": [
+    "EBiDAN": [
       {
-        "id": "11f21b68eb550b5d",
-        "title": "「ダメですよ!」「皆さん…」M!LK塩崎太智、報道陣にまさかの“呼びかけ” 全力ジェスチャー&ダンス披露",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20260826-4871396/",
-        "publishedAt": "2026-08-26T14:00:00.000Z",
-        "summary": "M!LKの塩崎太智(※崎はたつさき)が26日、都内で行われたマクドナルドの新商品発表イベントに、＝LOVEの佐々木舞香とともに登壇。新商品の試食を懸けたジェスチャーゲームに挑戦し、会場を盛り上げた。",
+        "id": "529e06a874764faf",
+        "title": "『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット、『EBiDAN 15th Anniversaryオフィシャルグッズ』＆『恵比寿学園男子部 校内スナップ』通販決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11580/",
+        "publishedAt": "2026-08-27T09:15:19.000Z",
+        "summary": "『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット、『EBiDAN 15th Anniversaryオフィシャルグッズ』＆『恵比寿学園男子部 校内スナップ』通販 […] The post 『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット、",
         "groups": [
-          "M!LK"
+          "EBiDAN",
+          "SUPER★DRAGON"
         ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
+        "statuses": [],
+        "memberMatches": []
       },
       {
-        "id": "64545bb06b9b2821",
-        "title": "宮﨑あおい、塩﨑太智、佐々木舞香、マクドナルド「月見ファミリー」新TVCM出演。9月1日より全国放映開始",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/08/26/tg011",
-        "publishedAt": "2026-08-26T13:40:00.000Z",
-        "summary": "",
+        "id": "403969ab99921b60",
+        "title": "M!LK曽野舜太や超特急カイも！EBiDANメンバーが「Yes! 東京」制服姿で大集合の『よるブラ』オフショットに「華がありすぎ」「先輩後輩のわちゃわちゃ楽しい」「舜太くん背が高い」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000871560/",
+        "publishedAt": "2026-08-27T05:00:25.000Z",
+        "summary": "TBS系『よるのブランチ』（8月26日放送）に、カイ（超特急）、曽野舜太（M!LK）などEBiDAN（恵...",
         "groups": [
+          "EBiDAN",
+          "超特急",
           "M!LK"
         ],
         "statuses": [
@@ -116,103 +131,12 @@
         ],
         "memberMatches": [
           {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "de8aaaf7bc0e5ad1",
-        "title": "吉田仁人（M!LK）が登場。「FINEBOYS+plus OYASUMI vol.2」表紙公開",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/08/26/tgb008",
-        "publishedAt": "2026-08-26T12:00:00.000Z",
-        "summary": "",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "c86f8ba26aa1432a",
-        "title": "8月28日放送「ミュージックステーション」、＝LOVE、NCT WISH、King & Prince、佐野勇斗＆吉田仁人(M!LK)、Da-iCE、TOMORROW X TOGETHER、M!LK、レミオロメン出演",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/08/26/tg008",
-        "publishedAt": "2026-08-26T10:55:00.000Z",
-        "summary": "",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
+            "name": "カイ",
+            "group": "超特急",
             "status": "active"
           },
           {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "8f94f089568a8ae0",
-        "title": "「普段歌って踊っているんですけど…」「いまだに自分が…」M!LK塩崎太智の“告白”にイコラブ佐々木舞香も驚き「えっ!?」",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20260826-4871039/",
-        "publishedAt": "2026-08-26T10:00:00.000Z",
-        "summary": "ダンスボーカルグループ・M!LKの塩崎太智(※崎はたつさき)が26日、日本マクドナルド「2026年 月見ファミリー発表イベント」に、＝LOVEの佐々木舞香とともに登壇。パワーアップしたいことを明かした。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      }
-    ],
-    "EBiDAN": [
-      {
-        "id": "8e5bdb9b3dc34862",
-        "title": "佐野勇斗がEBiDANメンツとのご飯会ショット公開！「あんまEBiDANメンバーの連絡先知らないから、次来たいよーって人コメントしといて」に反響続々",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000871104/",
-        "publishedAt": "2026-08-26T07:23:46.000Z",
-        "summary": "佐野勇斗がEBiDANメンバーとのご飯会ショットを公開した。 ■「なんか凄く楽しい回でした。みん...",
-        "groups": [
-          "EBiDAN",
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
+            "name": "曽野舜太",
             "group": "M!LK",
             "status": "active"
           }
@@ -262,76 +186,24 @@
         ],
         "statuses": [],
         "memberMatches": []
-      },
+      }
+    ],
+    "SUPER★DRAGON": [
       {
-        "id": "abb0cde9a3991b12",
-        "title": "シングル「Yes! 東京」＆アルバム「Yes! 東京 (体験入学版)」、デジタルリリース決定！各種キャンペーンもスタート！",
+        "id": "529e06a874764faf",
+        "title": "『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット、『EBiDAN 15th Anniversaryオフィシャルグッズ』＆『恵比寿学園男子部 校内スナップ』通販決定！",
         "sourceName": "SUPER★DRAGON 公式NEWS",
         "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11544/",
-        "publishedAt": "2026-08-10T08:00:46.000Z",
-        "summary": "ついにCD発売を迎えるEBiDAN (恵比寿学園男子部)「Yes! 東京」が、デジタルシングルとしてもリリースが決定いたしました。リード曲「Yes! 東京」に加え、カップリングには昨年の『EBiDAN THE LIVE […] The post シングル「Yes! 東京」＆アルバム「Yes! 東京 (体験入学版)」、デジタルリリース決定！各種キャンペーンもス",
+        "articleUrl": "https://super-dragon.jp/news/news11580/",
+        "publishedAt": "2026-08-27T09:15:19.000Z",
+        "summary": "『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット、『EBiDAN 15th Anniversaryオフィシャルグッズ』＆『恵比寿学園男子部 校内スナップ』通販 […] The post 『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット、",
         "groups": [
           "EBiDAN",
           "SUPER★DRAGON"
         ],
         "statuses": [],
         "memberMatches": []
-      }
-    ],
-    "原因は自分にある。": [
-      {
-        "id": "b94cee96de01482e",
-        "title": "亡き妻の真相追い学園に潜入…浅香航大×杢代和人、“劇場型リベンジサスペンス”でW主演「強い信念を大切に」「思わず考察したくなる」",
-        "sourceName": "マイナビニュース テレビ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-        "articleUrl": "https://news.mynavi.jp/article/20260824-4857213/",
-        "publishedAt": "2026-08-23T19:00:00.000Z",
-        "summary": "「毎話、爽快感がありながらも先の読めない展開が続く作品」――浅香航大と杢代和人が、10月7日にスタートする中京テレビ・日本テレビ系ドラマ『仮面教師～妻を亡くしたその日から』(毎週水曜24:24～)でW主演する。最愛の妻の死の真相を追って学園に潜入する元俳優の教師と、ある事情を抱えた転校生が、演劇ならではの仕掛けを武器に巨大な権力へ立ち向かう“劇場型リベンジサ",
-        "groups": [
-          "原因は自分にある。"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "杢代和人",
-            "group": "原因は自分にある。",
-            "status": "active"
-          }
-        ]
       },
-      {
-        "id": "15fb9ee4d3775ce2",
-        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/07/89645/",
-        "publishedAt": "2026-07-24T12:00:00.000Z",
-        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
-        "groups": [
-          "原因は自分にある。",
-          "BUDDiiS"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "SHOOT",
-            "group": "BUDDiiS",
-            "status": "active"
-          }
-        ]
-      }
-    ],
-    "SUPER★DRAGON": [
       {
         "id": "a02364c0b1bd5a80",
         "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』開催決定！",
@@ -389,54 +261,199 @@
         ],
         "statuses": [],
         "memberMatches": []
-      },
-      {
-        "id": "1ad5810b4c9a0a8b",
-        "title": "本日8月11日(火・祝)発売、 EBiDAN15周年記念シングル「Yes! 東京」のを公開！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11555/",
-        "publishedAt": "2026-08-11T08:30:18.000Z",
-        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して、本日8月11日(火・祝)にリリースされたシングル「Yes! 東京」のMaking Lyric Videoを公開！ 本日公開された映像は、4日間に渡って撮影されたMu […] The post 本日8月11日(火・祝)発売、 EBiDAN15周年記念シングル「Yes! 東京」の を公開！ first ap",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
       }
     ],
-    "BUDDiiS": [
+    "M!LK": [
       {
-        "id": "15fb9ee4d3775ce2",
-        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/07/89645/",
-        "publishedAt": "2026-07-24T12:00:00.000Z",
-        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
+        "id": "cdfb2c77d7020dc6",
+        "title": "浴衣の塩﨑太智がにっこりめざましくんを両手で抱えた姿に「笑顔がかわいい」「デニム浴衣おしゃれ」「浴衣姿かっこいい」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000871838/",
+        "publishedAt": "2026-08-27T09:04:34.000Z",
+        "summary": "めざましテレビ公式SNSにて、8月27日放送のエンタメPick Upに出演した塩崎太智（「崎」はたつ...",
         "groups": [
-          "原因は自分にある。",
-          "BUDDiiS"
+          "M!LK"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "403969ab99921b60",
+        "title": "M!LK曽野舜太や超特急カイも！EBiDANメンバーが「Yes! 東京」制服姿で大集合の『よるブラ』オフショットに「華がありすぎ」「先輩後輩のわちゃわちゃ楽しい」「舜太くん背が高い」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000871560/",
+        "publishedAt": "2026-08-27T05:00:25.000Z",
+        "summary": "TBS系『よるのブランチ』（8月26日放送）に、カイ（超特急）、曽野舜太（M!LK）などEBiDAN（恵...",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "カイ",
+            "group": "超特急",
             "status": "active"
           },
           {
-            "name": "SHOOT",
-            "group": "BUDDiiS",
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "6072eea4725dcac2",
+        "title": "M!LK吉田仁人＆曽野舜太が“距離近すぎ”！曽野がどんどん接近し最後はピタッ「そのじん最高」「見つめ合うの尊い」「舜ちゃんの末っ子感かわいい」「テンションの差がいい」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000871627/",
+        "publishedAt": "2026-08-27T04:06:23.000Z",
+        "summary": "M!LKの公式TikTokが更新。吉田仁人と曽野舜太が「You!Joy!Parade!」を踊る動画が公開された。 ...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "da5f234e6ba9244f",
+        "title": "M!LK佐野勇斗＆吉田仁人が統一感あるスーツ姿でスマートに並ぶ！「さのじんかっこよ…」「イケメン兄弟爆誕」「身長差にきゅん」「こんなに身長差あったっけ？」佐野の“仁ちゃん”呼びにも反響",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000871562/",
+        "publishedAt": "2026-08-27T03:27:48.000Z",
+        "summary": "M!LKの佐野勇斗と吉田仁人が『ホットペッパーグルメ』の新WebCM『席押さえ召喚』篇に出演する...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "6bde382d5990448d",
+        "title": "M!LK塩﨑太智＆吉田仁人のおそろいのオーバーオール姿に「あまりにも双子」「塩レ兄弟」「ペアルックが愛おしい」と反響！“爆食旅”続編も放送決定",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000871445/",
+        "publishedAt": "2026-08-27T02:30:38.000Z",
+        "summary": "M!LKの公式Xにて、塩崎太智（崎は、たつさきが正式表記）と吉田仁人がおそろいのオーバーオー...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
             "status": "active"
           }
         ]
       }
     ],
     "超特急": [
+      {
+        "id": "403969ab99921b60",
+        "title": "M!LK曽野舜太や超特急カイも！EBiDANメンバーが「Yes! 東京」制服姿で大集合の『よるブラ』オフショットに「華がありすぎ」「先輩後輩のわちゃわちゃ楽しい」「舜太くん背が高い」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000871560/",
+        "publishedAt": "2026-08-27T05:00:25.000Z",
+        "summary": "TBS系『よるのブランチ』（8月26日放送）に、カイ（超特急）、曽野舜太（M!LK）などEBiDAN（恵...",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "カイ",
+            "group": "超特急",
+            "status": "active"
+          },
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "6155206ca3f931e1",
+        "title": "『稜海しました！超特急QR』公開収録第2弾12月開催！小笠原海「1周年の衝撃を超える」",
+        "sourceName": "Edge Line",
+        "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+        "articleUrl": "https://www.edgeline-tokyo.com/entertainment/204052",
+        "publishedAt": "2026-08-27T04:00:52.000Z",
+        "summary": "『超特急』の“カイ”小笠原海と“リョウガ”船津稜雅による初のラジオ番組『稜海しました！超特急QR』（文化放送、月曜・深夜1時30分～）。本番組の第2弾となる公開収録イベントが12月12日に行われることが8月27日に発表...",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "カイ",
+            "group": "超特急",
+            "status": "active"
+          },
+          {
+            "name": "リョウガ",
+            "group": "超特急",
+            "status": "active"
+          }
+        ]
+      },
       {
         "id": "397a635043a0e0e2",
         "title": "映画『ワンダンス』新キャストにGirls2山口綺羅、MAZZEL・RAN、TSUKKI、超特急・髙松アロハ",
@@ -475,6 +492,104 @@
         ],
         "statuses": [],
         "memberMatches": []
+      }
+    ],
+    "ICEx": [
+      {
+        "id": "ddce30f7f167a384",
+        "title": "西川貴教発起人の＜FEST. INAZUMA 2026＞、ライブエリア出演パフォーマー発表",
+        "sourceName": "BARKS",
+        "sourceUrl": "https://www.barks.jp/feed/",
+        "articleUrl": "https://barks.jp/news/1085600",
+        "publishedAt": "2026-08-27T03:00:14.000Z",
+        "summary": "滋賀ふるさと観光大使を務める西川貴教が発起人となり琵琶湖岸にて毎秋開催してきた大型野外ライブイベント＜イナズマロック フェス＞が、2026年より名称を＜FEST. INAZUMA (フェスト イナズマ)＞と改めて実施される。このたび同フェスのライブエリア出演パフォーマーが発表となった。 ◆＜FEST. INAZUMA 2026＞ 画像 2026年で18年目を",
+        "groups": [
+          "ICEx"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
+    "原因は自分にある。": [
+      {
+        "id": "b94cee96de01482e",
+        "title": "亡き妻の真相追い学園に潜入…浅香航大×杢代和人、“劇場型リベンジサスペンス”でW主演「強い信念を大切に」「思わず考察したくなる」",
+        "sourceName": "マイナビニュース テレビ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
+        "articleUrl": "https://news.mynavi.jp/article/20260824-4857213/",
+        "publishedAt": "2026-08-23T19:00:00.000Z",
+        "summary": "「毎話、爽快感がありながらも先の読めない展開が続く作品」――浅香航大と杢代和人が、10月7日にスタートする中京テレビ・日本テレビ系ドラマ『仮面教師～妻を亡くしたその日から』(毎週水曜24:24～)でW主演する。最愛の妻の死の真相を追って学園に潜入する元俳優の教師と、ある事情を抱えた転校生が、演劇ならではの仕掛けを武器に巨大な権力へ立ち向かう“劇場型リベンジサ",
+        "groups": [
+          "原因は自分にある。"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "杢代和人",
+            "group": "原因は自分にある。",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "15fb9ee4d3775ce2",
+        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/07/89645/",
+        "publishedAt": "2026-07-24T12:00:00.000Z",
+        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
+        "groups": [
+          "原因は自分にある。",
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "BUDDiiS": [
+      {
+        "id": "15fb9ee4d3775ce2",
+        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/07/89645/",
+        "publishedAt": "2026-07-24T12:00:00.000Z",
+        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
+        "groups": [
+          "原因は自分にある。",
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
       }
     ]
   }

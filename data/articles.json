@@ -1,11 +1,221 @@
 {
-  "updatedAt": "2026-08-26T20:03:04.103Z",
+  "updatedAt": "2026-08-27T09:47:58.398Z",
   "articles": [
+    {
+      "id": "529e06a874764faf",
+      "title": "『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット、『EBiDAN 15th Anniversaryオフィシャルグッズ』＆『恵比寿学園男子部 校内スナップ』通販決定！",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news11580/",
+      "publishedAt": "2026-08-27T09:15:19.000Z",
+      "summary": "『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット、『EBiDAN 15th Anniversaryオフィシャルグッズ』＆『恵比寿学園男子部 校内スナップ』通販 […] The post 『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット、",
+      "groups": [
+        "EBiDAN",
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "cdfb2c77d7020dc6",
+      "title": "浴衣の塩﨑太智がにっこりめざましくんを両手で抱えた姿に「笑顔がかわいい」「デニム浴衣おしゃれ」「浴衣姿かっこいい」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000871838/",
+      "publishedAt": "2026-08-27T09:04:34.000Z",
+      "summary": "めざましテレビ公式SNSにて、8月27日放送のエンタメPick Upに出演した塩崎太智（「崎」はたつ...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "塩﨑太智",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "403969ab99921b60",
+      "title": "M!LK曽野舜太や超特急カイも！EBiDANメンバーが「Yes! 東京」制服姿で大集合の『よるブラ』オフショットに「華がありすぎ」「先輩後輩のわちゃわちゃ楽しい」「舜太くん背が高い」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000871560/",
+      "publishedAt": "2026-08-27T05:00:25.000Z",
+      "summary": "TBS系『よるのブランチ』（8月26日放送）に、カイ（超特急）、曽野舜太（M!LK）などEBiDAN（恵...",
+      "groups": [
+        "EBiDAN",
+        "超特急",
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "カイ",
+          "group": "超特急",
+          "status": "active"
+        },
+        {
+          "name": "曽野舜太",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "6072eea4725dcac2",
+      "title": "M!LK吉田仁人＆曽野舜太が“距離近すぎ”！曽野がどんどん接近し最後はピタッ「そのじん最高」「見つめ合うの尊い」「舜ちゃんの末っ子感かわいい」「テンションの差がいい」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000871627/",
+      "publishedAt": "2026-08-27T04:06:23.000Z",
+      "summary": "M!LKの公式TikTokが更新。吉田仁人と曽野舜太が「You!Joy!Parade!」を踊る動画が公開された。 ...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "曽野舜太",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "6155206ca3f931e1",
+      "title": "『稜海しました！超特急QR』公開収録第2弾12月開催！小笠原海「1周年の衝撃を超える」",
+      "sourceName": "Edge Line",
+      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/204052",
+      "publishedAt": "2026-08-27T04:00:52.000Z",
+      "summary": "『超特急』の“カイ”小笠原海と“リョウガ”船津稜雅による初のラジオ番組『稜海しました！超特急QR』（文化放送、月曜・深夜1時30分～）。本番組の第2弾となる公開収録イベントが12月12日に行われることが8月27日に発表...",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "カイ",
+          "group": "超特急",
+          "status": "active"
+        },
+        {
+          "name": "リョウガ",
+          "group": "超特急",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "da5f234e6ba9244f",
+      "title": "M!LK佐野勇斗＆吉田仁人が統一感あるスーツ姿でスマートに並ぶ！「さのじんかっこよ…」「イケメン兄弟爆誕」「身長差にきゅん」「こんなに身長差あったっけ？」佐野の“仁ちゃん”呼びにも反響",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000871562/",
+      "publishedAt": "2026-08-27T03:27:48.000Z",
+      "summary": "M!LKの佐野勇斗と吉田仁人が『ホットペッパーグルメ』の新WebCM『席押さえ召喚』篇に出演する...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "ddce30f7f167a384",
+      "title": "西川貴教発起人の＜FEST. INAZUMA 2026＞、ライブエリア出演パフォーマー発表",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1085600",
+      "publishedAt": "2026-08-27T03:00:14.000Z",
+      "summary": "滋賀ふるさと観光大使を務める西川貴教が発起人となり琵琶湖岸にて毎秋開催してきた大型野外ライブイベント＜イナズマロック フェス＞が、2026年より名称を＜FEST. INAZUMA (フェスト イナズマ)＞と改めて実施される。このたび同フェスのライブエリア出演パフォーマーが発表となった。 ◆＜FEST. INAZUMA 2026＞ 画像 2026年で18年目を",
+      "groups": [
+        "ICEx"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "6bde382d5990448d",
+      "title": "M!LK塩﨑太智＆吉田仁人のおそろいのオーバーオール姿に「あまりにも双子」「塩レ兄弟」「ペアルックが愛おしい」と反響！“爆食旅”続編も放送決定",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000871445/",
+      "publishedAt": "2026-08-27T02:30:38.000Z",
+      "summary": "M!LKの公式Xにて、塩崎太智（崎は、たつさきが正式表記）と吉田仁人がおそろいのオーバーオー...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "塩﨑太智",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "856b9109a727ef61",
+      "title": "M!LK吉田仁人の“ドアップ”が破壊力抜群！前髪あり×ふわふわニットで横たわり澄んだ瞳を向ける＆黒縁メガネ姿も「顔が綺麗」「添い寝？」「儚げなぽやっとした表情好き」「罪な男」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000871476/",
+      "publishedAt": "2026-08-27T02:07:54.000Z",
+      "summary": "M!LKの吉田仁人が表紙を飾る『FINEBOYS+plus OYASUMI vol.2』が、8月31日に発売される。日之出...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "11f21b68eb550b5d",
       "title": "「ダメですよ!」「皆さん…」M!LK塩崎太智、報道陣にまさかの“呼びかけ” 全力ジェスチャー&ダンス披露",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260826-4871396/",
       "publishedAt": "2026-08-26T14:00:00.000Z",
       "summary": "M!LKの塩崎太智(※崎はたつさき)が26日、都内で行われたマクドナルドの新商品発表イベントに、＝LOVEの佐々木舞香とともに登壇。新商品の試食を懸けたジェスチャーゲームに挑戦し、会場を盛り上げた。",
@@ -97,8 +307,8 @@
     {
       "id": "8f94f089568a8ae0",
       "title": "「普段歌って踊っているんですけど…」「いまだに自分が…」M!LK塩崎太智の“告白”にイコラブ佐々木舞香も驚き「えっ!?」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260826-4871039/",
       "publishedAt": "2026-08-26T10:00:00.000Z",
       "summary": "ダンスボーカルグループ・M!LKの塩崎太智(※崎はたつさき)が26日、日本マクドナルド「2026年 月見ファミリー発表イベント」に、＝LOVEの佐々木舞香とともに登壇。パワーアップしたいことを明かした。",
@@ -133,117 +343,6 @@
       "memberMatches": [
         {
           "name": "山中柔太朗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "8e5bdb9b3dc34862",
-      "title": "佐野勇斗がEBiDANメンツとのご飯会ショット公開！「あんまEBiDANメンバーの連絡先知らないから、次来たいよーって人コメントしといて」に反響続々",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000871104/",
-      "publishedAt": "2026-08-26T07:23:46.000Z",
-      "summary": "佐野勇斗がEBiDANメンバーとのご飯会ショットを公開した。 ■「なんか凄く楽しい回でした。みん...",
-      "groups": [
-        "EBiDAN",
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "b3cd9be4ed2a8507",
-      "title": "吉田仁人がリムレスメガネをクイッ！M!LK5人の「energy」ダンスに「メロすぎて沼」「見下したようなほほ笑みもたまらん」「あざとくて心臓持たない」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000870884/",
-      "publishedAt": "2026-08-26T05:46:38.000Z",
-      "summary": "M!LK公式SNSにて、M!LKが「energy」を踊る動画が公開された。 ■白×シルバー×ツイード衣装の5人...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "31cb68531afaedd6",
-      "title": "塩﨑太智＆佐々木舞香まさかの不正解で“月見バーガーダンス”生披露！「炙り牛すき焼き風月見」の味？",
-      "sourceName": "Edge Line",
-      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-      "articleUrl": "https://www.edgeline-tokyo.com/food/203947",
-      "publishedAt": "2026-08-26T02:04:42.000Z",
-      "summary": "アイドルグループ『M!LK』塩﨑太智、“イコラブ”こと『＝LOVE』佐々木舞香が8月26日に都内で日本マクドナルド『2026年 月見ファミリー発表イベント』に登場した。 マクドナルドの秋の風物詩メニュー『月見バーガー...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "塩﨑太智",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "cb22ebff28132498",
-      "title": "塩﨑太智 浴衣姿で佐々木舞香とマクドナルドイベント登場！「大大大好きです！」",
-      "sourceName": "Edge Line",
-      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-      "articleUrl": "https://www.edgeline-tokyo.com/food/203890",
-      "publishedAt": "2026-08-26T01:26:00.000Z",
-      "summary": "アイドルグループ『M!LK』塩﨑太智、“イコラブ”こと『＝LOVE』佐々木舞香が8月26日に都内で日本マクドナルド『2026年 月見ファミリー発表イベント』に登場した。 マクドナルドの秋の風物詩メニュー『月見バーガー...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "塩﨑太智",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "0b630efca8d54ee4",
-      "title": "M!LK塩﨑太智 初マクドナルドCMはスーツ姿で！「植物を育てること」に最近全力【原稿ロング】",
-      "sourceName": "Edge Line",
-      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-      "articleUrl": "https://www.edgeline-tokyo.com/food/203935",
-      "publishedAt": "2026-08-26T01:14:48.000Z",
-      "summary": "アイドルグループ『M!LK』塩﨑太智が9月1日より全国放送となる日本マクドナルド月見バーガー新TVCM『チーチー倍月見「月見でたでた」塩崎さん篇』に出演する。 塩﨑はサラリーマンという設定。仕事帰りの塩崎が、満月の夜...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "塩﨑太智",
           "group": "M!LK",
           "status": "active"
         }
@@ -2218,20 +2317,6 @@
       "articleUrl": "https://super-dragon.jp/news/news10878/",
       "publishedAt": "2026-04-19T10:59:35.000Z",
       "summary": "「SUPER★DRAGON DRA FES 2026」 ＜公演詳細＞ 【東京】Zepp Haneda （TOKYO） 2026年9月24日(木) 【大阪】Zepp Osaka Bayside 2026年9月27日(日) […] The post 「SUPER★DRAGON DRA FES 2026」開催決定！ first appeared on SUPER★",
-      "groups": [
-        "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "d2d6cab1a0933109",
-      "title": "SUPER★DRAGON LIVE TOUR 2026「Studio」4月19日東京公演 追加販売情報",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news10861/",
-      "publishedAt": "2026-04-17T04:00:57.000Z",
-      "summary": "SOLD OUTとなっておりましたSUPER★DRAGON LIVE TOUR 2026「Studio」東京公演につきまして、 機材席の一部開放に伴い、若干数ではございますが、追加販売が決定いたしました。 4月18日(土 […] The post SUPER★DRAGON LIVE TOUR 2026「Studio」4月19日東京公演 追加販売情報 firs",
       "groups": [
         "SUPER★DRAGON"
       ],
