@@ -1,6 +1,70 @@
 {
-  "updatedAt": "2026-08-27T09:47:58.398Z",
+  "updatedAt": "2026-08-27T22:15:53.357Z",
   "articles": [
+    {
+      "id": "d46a5a401a99a20c",
+      "title": "M!LK 佐野勇斗、大暴れのMV撮影裏側公開 和気藹々とした空気に「滑って転けるシーン大好き」「5人が尊い」",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/08/post-2504497.html",
+      "publishedAt": "2026-08-27T20:50:38.000Z",
+      "summary": "M!LKの佐野勇斗が自身のYouTubeを更新。「You!Joy!Parade!」のMV撮影裏側を公開した。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "222f223289dd1ae2",
+      "title": "iiONDO、デビューシングル「はつ恋 ONDO」初リリースイベント開催！1000人のHiDAMARiを前に堂々パフォーマンス",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/music2/663823.html",
+      "publishedAt": "2026-08-27T12:00:30.000Z",
+      "summary": "EBiDAN（恵比寿学園男子部）発足15周年を記念した「EBiDAN THE AUDITION 2026」から選出された8人組ボーカルダンスグループ・iiONDOが、2026年10月14日に発売するデビューシングル「はつ恋 ONDO」の初となるリリースイベントを、ダイバ ... The post iiONDO、デビューシングル「はつ恋 ONDO」初リリースイ",
+      "groups": [
+        "EBiDAN"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "7846935a229f2892",
+      "title": "EBiDAN全10グループのパフォーマンスを楽しめる『EBiDAN THE LIVE 2026 15th Anniversary』ダイジェスト映像公開「ぜひご覧ください！」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000871911/",
+      "publishedAt": "2026-08-27T11:00:35.000Z",
+      "summary": "EBiDANが、8月13日〜16日に国立代々木競技場 第一体育館にて開催した『EBiDAN THE LIVE 2026 1...",
+      "groups": [
+        "EBiDAN"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "52ef01c4df67e19b",
+      "title": "EBiDAN、TXTら豪華5組『Venue101』で話題の楽曲を披露＆アーティストたちの“絵日記”で夏の思い出を振り返る",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000871893/",
+      "publishedAt": "2026-08-27T10:20:59.000Z",
+      "summary": "8月29日23時からNHK総合にて『Venue101』#118が放送される。 ■出演アーティスト／歌唱楽曲 INI...",
+      "groups": [
+        "EBiDAN"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "529e06a874764faf",
       "title": "『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット、『EBiDAN 15th Anniversaryオフィシャルグッズ』＆『恵比寿学園男子部 校内スナップ』通販決定！",
@@ -68,33 +132,6 @@
       ]
     },
     {
-      "id": "6072eea4725dcac2",
-      "title": "M!LK吉田仁人＆曽野舜太が“距離近すぎ”！曽野がどんどん接近し最後はピタッ「そのじん最高」「見つめ合うの尊い」「舜ちゃんの末っ子感かわいい」「テンションの差がいい」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000871627/",
-      "publishedAt": "2026-08-27T04:06:23.000Z",
-      "summary": "M!LKの公式TikTokが更新。吉田仁人と曽野舜太が「You!Joy!Parade!」を踊る動画が公開された。 ...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "曽野舜太",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "6155206ca3f931e1",
       "title": "『稜海しました！超特急QR』公開収録第2弾12月開催！小笠原海「1周年の衝撃を超える」",
       "sourceName": "Edge Line",
@@ -117,96 +154,6 @@
         {
           "name": "リョウガ",
           "group": "超特急",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "da5f234e6ba9244f",
-      "title": "M!LK佐野勇斗＆吉田仁人が統一感あるスーツ姿でスマートに並ぶ！「さのじんかっこよ…」「イケメン兄弟爆誕」「身長差にきゅん」「こんなに身長差あったっけ？」佐野の“仁ちゃん”呼びにも反響",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000871562/",
-      "publishedAt": "2026-08-27T03:27:48.000Z",
-      "summary": "M!LKの佐野勇斗と吉田仁人が『ホットペッパーグルメ』の新WebCM『席押さえ召喚』篇に出演する...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "ddce30f7f167a384",
-      "title": "西川貴教発起人の＜FEST. INAZUMA 2026＞、ライブエリア出演パフォーマー発表",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1085600",
-      "publishedAt": "2026-08-27T03:00:14.000Z",
-      "summary": "滋賀ふるさと観光大使を務める西川貴教が発起人となり琵琶湖岸にて毎秋開催してきた大型野外ライブイベント＜イナズマロック フェス＞が、2026年より名称を＜FEST. INAZUMA (フェスト イナズマ)＞と改めて実施される。このたび同フェスのライブエリア出演パフォーマーが発表となった。 ◆＜FEST. INAZUMA 2026＞ 画像 2026年で18年目を",
-      "groups": [
-        "ICEx"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "6bde382d5990448d",
-      "title": "M!LK塩﨑太智＆吉田仁人のおそろいのオーバーオール姿に「あまりにも双子」「塩レ兄弟」「ペアルックが愛おしい」と反響！“爆食旅”続編も放送決定",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000871445/",
-      "publishedAt": "2026-08-27T02:30:38.000Z",
-      "summary": "M!LKの公式Xにて、塩崎太智（崎は、たつさきが正式表記）と吉田仁人がおそろいのオーバーオー...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "塩﨑太智",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "856b9109a727ef61",
-      "title": "M!LK吉田仁人の“ドアップ”が破壊力抜群！前髪あり×ふわふわニットで横たわり澄んだ瞳を向ける＆黒縁メガネ姿も「顔が綺麗」「添い寝？」「儚げなぽやっとした表情好き」「罪な男」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000871476/",
-      "publishedAt": "2026-08-27T02:07:54.000Z",
-      "summary": "M!LKの吉田仁人が表紙を飾る『FINEBOYS+plus OYASUMI vol.2』が、8月31日に発売される。日之出...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
           "status": "active"
         }
       ]
@@ -384,38 +331,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "6200edf1a2bbc39a",
-      "title": "塩崎太智、食リポでこん身の「滅!」も…店の人に伝わらず「もっとがんばらなきゃな」M!LKがロケ企画で大奮闘",
-      "sourceName": "マイナビニュース テレビ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-      "articleUrl": "https://news.mynavi.jp/article/20260822-4847539/",
-      "publishedAt": "2026-08-21T22:00:00.000Z",
-      "summary": "「甘すぎて滅!」――。きょう22日に放送される日本テレビ系バラエティ番組『1億人の大質問!? 笑ってコラえて!』2時間スペシャル(19:00～)では、M!LKの塩崎太智、曽野舜太、吉田仁人がロケ企画で大奮闘。塩崎は「日本列島ダーツの旅」に初挑戦し、曽野と吉田は「日本全国 道の駅伝」で北陸の“売上No.1グルメ”探しに挑む。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "塩﨑太智",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "曽野舜太",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "ab97f608347cc9bf",

@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-08-27T09:47:58.400Z",
+  "updatedAt": "2026-08-27T22:15:53.359Z",
   "totals": {
-    "all": 132,
-    "today": 9,
-    "week": 18
+    "all": 130,
+    "today": 1,
+    "week": 16
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 13
+      "count": 9
     },
     {
       "name": "EBiDAN",
-      "count": 3
+      "count": 6
     },
     {
       "name": "SUPER★DRAGON",
@@ -23,29 +23,21 @@
       "count": 2
     },
     {
-      "name": "ICEx",
-      "count": 1
-    },
-    {
       "name": "原因は自分にある。",
       "count": 1
     }
   ],
   "memberRanking": [
     {
-      "name": "吉田仁人",
-      "count": 7
-    },
-    {
       "name": "塩﨑太智",
-      "count": 6
-    },
-    {
-      "name": "曽野舜太",
-      "count": 3
+      "count": 4
     },
     {
       "name": "カイ",
+      "count": 2
+    },
+    {
+      "name": "吉田仁人",
       "count": 2
     },
     {
@@ -61,6 +53,10 @@
       "count": 1
     },
     {
+      "name": "曽野舜太",
+      "count": 1
+    },
+    {
       "name": "杢代和人",
       "count": 1
     }
@@ -68,7 +64,7 @@
   "sourceRanking": [
     {
       "name": "THE FIRST TIMES",
-      "count": 6
+      "count": 4
     },
     {
       "name": "タワーレコード ニュース",
@@ -79,25 +75,190 @@
       "count": 2
     },
     {
-      "name": "マイナビニュース テレビ",
-      "count": 2
-    },
-    {
       "name": "マイナビニュース 芸能",
       "count": 2
     },
     {
-      "name": "BARKS",
+      "name": "Edge Line",
       "count": 1
     },
     {
-      "name": "Edge Line",
+      "name": "WWSチャンネル",
+      "count": 1
+    },
+    {
+      "name": "マイナビニュース テレビ",
+      "count": 1
+    },
+    {
+      "name": "リアルサウンド 音楽",
       "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
+    "M!LK": [
+      {
+        "id": "d46a5a401a99a20c",
+        "title": "M!LK 佐野勇斗、大暴れのMV撮影裏側公開 和気藹々とした空気に「滑って転けるシーン大好き」「5人が尊い」",
+        "sourceName": "リアルサウンド 音楽",
+        "sourceUrl": "https://realsound.jp/music/feed",
+        "articleUrl": "https://realsound.jp/2026/08/post-2504497.html",
+        "publishedAt": "2026-08-27T20:50:38.000Z",
+        "summary": "M!LKの佐野勇斗が自身のYouTubeを更新。「You!Joy!Parade!」のMV撮影裏側を公開した。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "cdfb2c77d7020dc6",
+        "title": "浴衣の塩﨑太智がにっこりめざましくんを両手で抱えた姿に「笑顔がかわいい」「デニム浴衣おしゃれ」「浴衣姿かっこいい」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000871838/",
+        "publishedAt": "2026-08-27T09:04:34.000Z",
+        "summary": "めざましテレビ公式SNSにて、8月27日放送のエンタメPick Upに出演した塩崎太智（「崎」はたつ...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "403969ab99921b60",
+        "title": "M!LK曽野舜太や超特急カイも！EBiDANメンバーが「Yes! 東京」制服姿で大集合の『よるブラ』オフショットに「華がありすぎ」「先輩後輩のわちゃわちゃ楽しい」「舜太くん背が高い」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000871560/",
+        "publishedAt": "2026-08-27T05:00:25.000Z",
+        "summary": "TBS系『よるのブランチ』（8月26日放送）に、カイ（超特急）、曽野舜太（M!LK）などEBiDAN（恵...",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "カイ",
+            "group": "超特急",
+            "status": "active"
+          },
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "11f21b68eb550b5d",
+        "title": "「ダメですよ!」「皆さん…」M!LK塩崎太智、報道陣にまさかの“呼びかけ” 全力ジェスチャー&ダンス披露",
+        "sourceName": "マイナビニュース 芸能",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
+        "articleUrl": "https://news.mynavi.jp/article/20260826-4871396/",
+        "publishedAt": "2026-08-26T14:00:00.000Z",
+        "summary": "M!LKの塩崎太智(※崎はたつさき)が26日、都内で行われたマクドナルドの新商品発表イベントに、＝LOVEの佐々木舞香とともに登壇。新商品の試食を懸けたジェスチャーゲームに挑戦し、会場を盛り上げた。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "64545bb06b9b2821",
+        "title": "宮﨑あおい、塩﨑太智、佐々木舞香、マクドナルド「月見ファミリー」新TVCM出演。9月1日より全国放映開始",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/08/26/tg011",
+        "publishedAt": "2026-08-26T13:40:00.000Z",
+        "summary": "",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      }
+    ],
     "EBiDAN": [
+      {
+        "id": "222f223289dd1ae2",
+        "title": "iiONDO、デビューシングル「はつ恋 ONDO」初リリースイベント開催！1000人のHiDAMARiを前に堂々パフォーマンス",
+        "sourceName": "WWSチャンネル",
+        "sourceUrl": "https://www.wws-channel.com/feed",
+        "articleUrl": "https://www.wws-channel.com/music2/663823.html",
+        "publishedAt": "2026-08-27T12:00:30.000Z",
+        "summary": "EBiDAN（恵比寿学園男子部）発足15周年を記念した「EBiDAN THE AUDITION 2026」から選出された8人組ボーカルダンスグループ・iiONDOが、2026年10月14日に発売するデビューシングル「はつ恋 ONDO」の初となるリリースイベントを、ダイバ ... The post iiONDO、デビューシングル「はつ恋 ONDO」初リリースイ",
+        "groups": [
+          "EBiDAN"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "7846935a229f2892",
+        "title": "EBiDAN全10グループのパフォーマンスを楽しめる『EBiDAN THE LIVE 2026 15th Anniversary』ダイジェスト映像公開「ぜひご覧ください！」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000871911/",
+        "publishedAt": "2026-08-27T11:00:35.000Z",
+        "summary": "EBiDANが、8月13日〜16日に国立代々木競技場 第一体育館にて開催した『EBiDAN THE LIVE 2026 1...",
+        "groups": [
+          "EBiDAN"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "52ef01c4df67e19b",
+        "title": "EBiDAN、TXTら豪華5組『Venue101』で話題の楽曲を披露＆アーティストたちの“絵日記”で夏の思い出を振り返る",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000871893/",
+        "publishedAt": "2026-08-27T10:20:59.000Z",
+        "summary": "8月29日23時からNHK総合にて『Venue101』#118が放送される。 ■出演アーティスト／歌唱楽曲 INI...",
+        "groups": [
+          "EBiDAN"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
       {
         "id": "529e06a874764faf",
         "title": "『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット、『EBiDAN 15th Anniversaryオフィシャルグッズ』＆『恵比寿学園男子部 校内スナップ』通販決定！",
@@ -141,51 +302,6 @@
             "status": "active"
           }
         ]
-      },
-      {
-        "id": "a02364c0b1bd5a80",
-        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』開催決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11576/",
-        "publishedAt": "2026-08-23T03:00:22.000Z",
-        "summary": "EBiDAN大運動会『スポーツマンヒップ！』6回目の開催が決定！ 第6回は入所順でのグループ対抗戦！！ スポーツの秋…あの日の同期が、今日だけの夢のチームとなるEBiDAN大運動会を、是非一緒に見届けましょう […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』開催決定！ first appeared on SUPER★DRAGON ",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "91a2a4d301121007",
-        "title": "【SUPERSTAR EBiDAN】 「EBiDAN THE LIVE 2026 15th Anniversary」開催記念！ゲーム内イベント実施",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11560/",
-        "publishedAt": "2026-08-12T08:00:18.000Z",
-        "summary": "EBiDAN公式リズムゲーム『SUPERSTAR EBiDAN』では、 「EBiDAN THE LIVE 2026 15th Anniversary」の開催を記念して、期間限定のゲーム内イベントを実施いたします！ ここで […] The post 【SUPERSTAR EBiDAN】 「EBiDAN THE LIVE 2026 15th Anniversar",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "1ad5810b4c9a0a8b",
-        "title": "本日8月11日(火・祝)発売、 EBiDAN15周年記念シングル「Yes! 東京」のを公開！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11555/",
-        "publishedAt": "2026-08-11T08:30:18.000Z",
-        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して、本日8月11日(火・祝)にリリースされたシングル「Yes! 東京」のMaking Lyric Videoを公開！ 本日公開された映像は、4日間に渡って撮影されたMu […] The post 本日8月11日(火・祝)発売、 EBiDAN15周年記念シングル「Yes! 東京」の を公開！ first ap",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
       }
     ],
     "SUPER★DRAGON": [
@@ -261,140 +377,6 @@
         ],
         "statuses": [],
         "memberMatches": []
-      }
-    ],
-    "M!LK": [
-      {
-        "id": "cdfb2c77d7020dc6",
-        "title": "浴衣の塩﨑太智がにっこりめざましくんを両手で抱えた姿に「笑顔がかわいい」「デニム浴衣おしゃれ」「浴衣姿かっこいい」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000871838/",
-        "publishedAt": "2026-08-27T09:04:34.000Z",
-        "summary": "めざましテレビ公式SNSにて、8月27日放送のエンタメPick Upに出演した塩崎太智（「崎」はたつ...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "403969ab99921b60",
-        "title": "M!LK曽野舜太や超特急カイも！EBiDANメンバーが「Yes! 東京」制服姿で大集合の『よるブラ』オフショットに「華がありすぎ」「先輩後輩のわちゃわちゃ楽しい」「舜太くん背が高い」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000871560/",
-        "publishedAt": "2026-08-27T05:00:25.000Z",
-        "summary": "TBS系『よるのブランチ』（8月26日放送）に、カイ（超特急）、曽野舜太（M!LK）などEBiDAN（恵...",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "カイ",
-            "group": "超特急",
-            "status": "active"
-          },
-          {
-            "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "6072eea4725dcac2",
-        "title": "M!LK吉田仁人＆曽野舜太が“距離近すぎ”！曽野がどんどん接近し最後はピタッ「そのじん最高」「見つめ合うの尊い」「舜ちゃんの末っ子感かわいい」「テンションの差がいい」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000871627/",
-        "publishedAt": "2026-08-27T04:06:23.000Z",
-        "summary": "M!LKの公式TikTokが更新。吉田仁人と曽野舜太が「You!Joy!Parade!」を踊る動画が公開された。 ...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "da5f234e6ba9244f",
-        "title": "M!LK佐野勇斗＆吉田仁人が統一感あるスーツ姿でスマートに並ぶ！「さのじんかっこよ…」「イケメン兄弟爆誕」「身長差にきゅん」「こんなに身長差あったっけ？」佐野の“仁ちゃん”呼びにも反響",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000871562/",
-        "publishedAt": "2026-08-27T03:27:48.000Z",
-        "summary": "M!LKの佐野勇斗と吉田仁人が『ホットペッパーグルメ』の新WebCM『席押さえ召喚』篇に出演する...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "6bde382d5990448d",
-        "title": "M!LK塩﨑太智＆吉田仁人のおそろいのオーバーオール姿に「あまりにも双子」「塩レ兄弟」「ペアルックが愛おしい」と反響！“爆食旅”続編も放送決定",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000871445/",
-        "publishedAt": "2026-08-27T02:30:38.000Z",
-        "summary": "M!LKの公式Xにて、塩崎太智（崎は、たつさきが正式表記）と吉田仁人がおそろいのオーバーオー...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
       }
     ],
     "超特急": [
@@ -489,22 +471,6 @@
           "超特急",
           "M!LK",
           "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "ICEx": [
-      {
-        "id": "ddce30f7f167a384",
-        "title": "西川貴教発起人の＜FEST. INAZUMA 2026＞、ライブエリア出演パフォーマー発表",
-        "sourceName": "BARKS",
-        "sourceUrl": "https://www.barks.jp/feed/",
-        "articleUrl": "https://barks.jp/news/1085600",
-        "publishedAt": "2026-08-27T03:00:14.000Z",
-        "summary": "滋賀ふるさと観光大使を務める西川貴教が発起人となり琵琶湖岸にて毎秋開催してきた大型野外ライブイベント＜イナズマロック フェス＞が、2026年より名称を＜FEST. INAZUMA (フェスト イナズマ)＞と改めて実施される。このたび同フェスのライブエリア出演パフォーマーが発表となった。 ◆＜FEST. INAZUMA 2026＞ 画像 2026年で18年目を",
-        "groups": [
-          "ICEx"
         ],
         "statuses": [],
         "memberMatches": []
