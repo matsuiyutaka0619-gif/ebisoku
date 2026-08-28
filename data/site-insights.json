@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-28T11:23:02.768Z",
+  "updatedAt": "2026-08-28T22:19:32.936Z",
   "totals": {
     "all": 135,
-    "today": 10,
+    "today": 0,
     "week": 21
   },
   "groupRanking": [
@@ -34,7 +34,7 @@
   "memberRanking": [
     {
       "name": "塩﨑太智",
-      "count": 8
+      "count": 7
     },
     {
       "name": "吉田仁人",
@@ -42,6 +42,10 @@
     },
     {
       "name": "佐野勇斗",
+      "count": 2
+    },
+    {
+      "name": "山中柔太朗",
       "count": 2
     },
     {
@@ -53,7 +57,7 @@
       "count": 1
     },
     {
-      "name": "山中柔太朗",
+      "name": "曽野舜太",
       "count": 1
     },
     {
@@ -64,7 +68,7 @@
   "sourceRanking": [
     {
       "name": "THE FIRST TIMES",
-      "count": 6
+      "count": 4
     },
     {
       "name": "タワーレコード ニュース",
@@ -87,20 +91,132 @@
       "count": 2
     },
     {
+      "name": "BARKS",
+      "count": 1
+    },
+    {
+      "name": "Bezzy",
+      "count": 1
+    },
+    {
       "name": "マイナビニュース エンタメ",
       "count": 1
     },
     {
       "name": "マイナビニュース テレビ",
       "count": 1
-    },
-    {
-      "name": "リアルサウンド 音楽",
-      "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
+    "M!LK": [
+      {
+        "id": "63b7f36053b0e2be",
+        "title": "M!LKミニアルバム『LOVE ENG!NE』収録曲公開！リード曲「時空超えてユニバース」先行配信決定",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000872616/",
+        "publishedAt": "2026-08-28T13:00:22.000Z",
+        "summary": "M!LKが、9月16日にリリースする1stミニアルバム『LOVE ENG!NE』より収録曲を公開。併せて、リ...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "bbd8056d67a448a4",
+        "title": "M!LK初ミニアルバムの収録楽曲公開、リード曲は“愛”の3部作完結編「時空超えてユニバース」",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/08/91395/",
+        "publishedAt": "2026-08-28T13:00:00.000Z",
+        "summary": "5人組ダンスボーカルグループ・M!LKが、9月16日(水)にリリースする1stミニアルバム『LOVE ENG!NE』の収録曲を公開した。 今作にはリード曲「時空超えてユニバース」をはじめ「Don’t let me down!」「僕のすべては君のもの」という計3曲の新曲に加え、「モー烈モー進！リリースプロジェクト2026」で配信リリースされた「アイドルパワー」",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "52247654a97f436d",
+        "title": "M!LK、1stミニアルバム『LOVE ENG!NE』収録曲公開。リード曲は“愛”がテーマの3部作完結編「時空超えてユニバース」",
+        "sourceName": "BARKS",
+        "sourceUrl": "https://www.barks.jp/feed/",
+        "articleUrl": "https://barks.jp/news/1085892",
+        "publishedAt": "2026-08-28T12:54:32.000Z",
+        "summary": "M!LKが9月16日(水)にリリースする1stミニアルバム『LOVE ENG!NE』の収録曲が公開された。 リード曲「時空超えてユニバース」をはじめ、「Don’t let me down!」「僕のすべては君のもの」の新曲3曲に加え、「モー烈モー進！リリースプロジェクト2026」でデジタル配信された「アイドルパワー」「You!Joy!Parade!」の計5曲が",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "6cac7394dee29e84",
+        "title": "『VIVANT』ドラムが「しおざきわんだーらんど」ダンス披露！かわいらしいフォルムで踊る姿に「癒される」「だいちゃん嬉しいだろうな」「ぜひコラボを」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000872583/",
+        "publishedAt": "2026-08-28T11:39:46.000Z",
+        "summary": "富栄ドラムがSNSでダンス動画を公開した。 ■M!LK塩崎のソロ曲にのせてノリノリダンス ドラムが...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "99e70b38e5813c95",
+        "title": "MILK塩崎太智、ハイテンションな大人気動画配信者に ABC『もうパパ!』でGP帯連ドラ初レギュラー",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20260828-4881654/",
+        "publishedAt": "2026-08-28T10:00:00.000Z",
+        "summary": "M!LKの塩崎太智(※崎はたつさき)が、10月期のABCテレビ・テレビ朝日系日10ドラマ『もうパパ!』(10月4日スタート 毎週日曜22:15～)に出演することが、わかった。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      }
+    ],
     "原因は自分にある。": [
       {
         "id": "e0b34b8da80a83f1",
@@ -162,115 +278,6 @@
           {
             "name": "SHOOT",
             "group": "BUDDiiS",
-            "status": "active"
-          }
-        ]
-      }
-    ],
-    "M!LK": [
-      {
-        "id": "99e70b38e5813c95",
-        "title": "MILK塩崎太智、ハイテンションな大人気動画配信者に ABC『もうパパ!』でGP帯連ドラ初レギュラー",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20260828-4881654/",
-        "publishedAt": "2026-08-28T10:00:00.000Z",
-        "summary": "M!LKの塩崎太智(※崎はたつさき)が、10月期のABCテレビ・テレビ朝日系日10ドラマ『もうパパ!』(10月4日スタート 毎週日曜22:15～)に出演することが、わかった。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "1773711ccf33a3e1",
-        "title": "M!LK5人の“抜群スタイル”をスタイリストが絶賛！カラフルなストリートMIXコーデ披露＆魚眼レンズで撮影した“ドアップ”ソロショットも",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000872425/",
-        "publishedAt": "2026-08-28T07:42:16.000Z",
-        "summary": "スタイリストの武田亜利紗が自身のInstagramを更新し、『smart』7月号でM!LKをスタイリングし...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "ffb41a5289e19013",
-        "title": "【レポート】綾瀬はるか、松下洸平、M!LK塩﨑太智ら登場！ユニクロ2026年秋冬コレクション披露",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/report/0000872287/",
-        "publishedAt": "2026-08-28T06:15:31.000Z",
-        "summary": "綾瀬はるか、松下洸平、M!LKの塩崎太智（「崎」は、たつさきが正式表記）、芸人のジャルジャル...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "bb3ea8a551787f27",
-        "title": "塩﨑太智が全身ユニクロの大人なデニムオンデニム姿を披露！“初期装備ニキ”卒業は否定「高課金コーデがメロすぎる」「タートルネックかわいい」と反響",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000872230/",
-        "publishedAt": "2026-08-28T05:51:23.000Z",
-        "summary": "M!LKの塩崎太智（「崎」はたつさきが正式表記）が、ユニクロコーデを披露し、話題を集めている...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "ddc2dba01d4a4b87",
-        "title": "M!LK塩﨑太智が佐野勇斗をガン見し照れ笑い！制服姿の“友情パレード”ダンスに「ヤンチャな兄と優等生な弟」「だいちゃんの愛伝わる」「佐野くんのワイシャツ姿メロい」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000872056/",
-        "publishedAt": "2026-08-28T05:34:12.000Z",
-        "summary": "M!LK公式TikTokで、佐野勇斗と塩崎太智（「崎」はたつさきが正式表記）による「You!Joy!Parade...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
             "status": "active"
           }
         ]
