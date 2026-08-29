@@ -1,6 +1,74 @@
 {
-  "updatedAt": "2026-08-29T07:04:03.976Z",
+  "updatedAt": "2026-08-29T16:43:05.825Z",
   "articles": [
+    {
+      "id": "b4a41aafcc78df8e",
+      "title": "M!LK曽野舜太と山中柔太朗がサシメシした北海道のジンギスカン専門店が判明！「やわしゅん尊い」「兄弟みたいでほっこり」「かわいくてキュン」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000872823/",
+      "publishedAt": "2026-08-29T10:52:17.000Z",
+      "summary": "M!LK公式YouTubeに「やわしゅん9年目サシメシ」として、曽野舜太と山中柔太朗のサシメシ動画が...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "曽野舜太",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "09a545b947f014d7",
+      "title": "佐野勇斗＆吉田仁人をM!LK年下組が応援！激しい3人に戸惑うふたりのわちゃわちゃムービーに「佐野さん違う曲踊ってる？」「応援激しい」「仁ちゃん困ってる（笑）」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000872793/",
+      "publishedAt": "2026-08-29T10:20:47.000Z",
+      "summary": "M!LK公式SNSにて、「年下組から佐野さんと吉田さんにアイドルパワー」動画が公開された。 ■ユ...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "5956b6a9832b49d1",
+      "title": "レミオロメンがM!LKと衣装姿で並んだ共演オフショット公開！「すごい並び」「大好きなグループのコラボ」「2グループともかわいい」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000872750/",
+      "publishedAt": "2026-08-29T07:21:44.000Z",
+      "summary": "レミオロメン公式SNSにて、M!LKとのオフショットが公開された。 ■和やかな2グループの共演ショ...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "3d134d72623ad757",
       "title": "M!LK、1stミニアルバム『LOVE ENG!NE』収録曲公開 リード曲「時空超えてユニバース」先行配信も",
@@ -42,48 +110,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "52247654a97f436d",
-      "title": "M!LK、1stミニアルバム『LOVE ENG!NE』収録曲公開。リード曲は“愛”がテーマの3部作完結編「時空超えてユニバース」",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1085892",
-      "publishedAt": "2026-08-28T12:54:32.000Z",
-      "summary": "M!LKが9月16日(水)にリリースする1stミニアルバム『LOVE ENG!NE』の収録曲が公開された。 リード曲「時空超えてユニバース」をはじめ、「Don’t let me down!」「僕のすべては君のもの」の新曲3曲に加え、「モー烈モー進！リリースプロジェクト2026」でデジタル配信された「アイドルパワー」「You!Joy!Parade!」の計5曲が",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "塩﨑太智",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "曽野舜太",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "山中柔太朗",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "6cac7394dee29e84",
@@ -158,20 +184,6 @@
       "memberMatches": []
     },
     {
-      "id": "222f223289dd1ae2",
-      "title": "iiONDO、デビューシングル「はつ恋 ONDO」初リリースイベント開催！1000人のHiDAMARiを前に堂々パフォーマンス",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/music2/663823.html",
-      "publishedAt": "2026-08-27T12:00:30.000Z",
-      "summary": "EBiDAN（恵比寿学園男子部）発足15周年を記念した「EBiDAN THE AUDITION 2026」から選出された8人組ボーカルダンスグループ・iiONDOが、2026年10月14日に発売するデビューシングル「はつ恋 ONDO」の初となるリリースイベントを、ダイバ ... The post iiONDO、デビューシングル「はつ恋 ONDO」初リリースイ",
-      "groups": [
-        "EBiDAN"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
       "id": "529e06a874764faf",
       "title": "『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット、『EBiDAN 15th Anniversaryオフィシャルグッズ』＆『恵比寿学園男子部 校内スナップ』通販決定！",
       "sourceName": "SUPER★DRAGON 公式NEWS",
@@ -185,33 +197,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "6155206ca3f931e1",
-      "title": "『稜海しました！超特急QR』公開収録第2弾12月開催！小笠原海「1周年の衝撃を超える」",
-      "sourceName": "Edge Line",
-      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/204052",
-      "publishedAt": "2026-08-27T04:00:52.000Z",
-      "summary": "『超特急』の“カイ”小笠原海と“リョウガ”船津稜雅による初のラジオ番組『稜海しました！超特急QR』（文化放送、月曜・深夜1時30分～）。本番組の第2弾となる公開収録イベントが12月12日に行われることが8月27日に発表...",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "カイ",
-          "group": "超特急",
-          "status": "active"
-        },
-        {
-          "name": "リョウガ",
-          "group": "超特急",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "11f21b68eb550b5d",
@@ -1522,33 +1507,6 @@
       "memberMatches": [
         {
           "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "4286b1a3077348d3",
-      "title": "曽野舜太×山中柔太朗「真・運命」MV公開、2人がジャケ写衣装で対照的な美しさを魅せる",
-      "sourceName": "Bezzy",
-      "sourceUrl": "https://bezzy.jp/feed/",
-      "articleUrl": "https://bezzy.jp/2026/06/87889/",
-      "publishedAt": "2026-06-17T11:00:00.000Z",
-      "summary": "5人組ダンスボーカルグループ・M!LKの曽野舜太と山中柔太朗が、ユニット曲「真・運命」（マジ・デスティニー）のMusic Videoを公開した。 「真・運命」は、M!LKが展開中の新曲連続リリース企画「モー烈モー進！プロジェクト2026」の第二弾シングル。恋に落ちる瞬間の衝撃やどうしても抗えず惹かれ合っていく運命を描いた一曲で、誰もが耳にしたことのあるような",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "曽野舜太",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "山中柔太朗",
           "group": "M!LK",
           "status": "active"
         }
