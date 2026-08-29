@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-28T22:19:32.936Z",
+  "updatedAt": "2026-08-29T07:04:03.979Z",
   "totals": {
-    "all": 135,
-    "today": 0,
-    "week": 21
+    "all": 132,
+    "today": 1,
+    "week": 18
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 14
+      "count": 13
     },
     {
       "name": "EBiDAN",
@@ -16,10 +16,6 @@
     },
     {
       "name": "SUPER★DRAGON",
-      "count": 2
-    },
-    {
-      "name": "原因は自分にある。",
       "count": 2
     },
     {
@@ -34,7 +30,7 @@
   "memberRanking": [
     {
       "name": "塩﨑太智",
-      "count": 7
+      "count": 6
     },
     {
       "name": "吉田仁人",
@@ -59,17 +55,9 @@
     {
       "name": "曽野舜太",
       "count": 1
-    },
-    {
-      "name": "杢代和人",
-      "count": 1
     }
   ],
   "sourceRanking": [
-    {
-      "name": "THE FIRST TIMES",
-      "count": 4
-    },
     {
       "name": "タワーレコード ニュース",
       "count": 4
@@ -80,6 +68,10 @@
     },
     {
       "name": "SUPER★DRAGON 公式NEWS",
+      "count": 2
+    },
+    {
+      "name": "THE FIRST TIMES",
       "count": 2
     },
     {
@@ -99,17 +91,31 @@
       "count": 1
     },
     {
-      "name": "マイナビニュース エンタメ",
+      "name": "マイナビニュース テレビ",
       "count": 1
     },
     {
-      "name": "マイナビニュース テレビ",
+      "name": "リアルサウンド 音楽",
       "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
     "M!LK": [
+      {
+        "id": "3d134d72623ad757",
+        "title": "M!LK、1stミニアルバム『LOVE ENG!NE』収録曲公開 リード曲「時空超えてユニバース」先行配信も",
+        "sourceName": "リアルサウンド 音楽",
+        "sourceUrl": "https://realsound.jp/music/feed",
+        "articleUrl": "https://realsound.jp/2026/08/post-2506991.html",
+        "publishedAt": "2026-08-29T05:09:16.000Z",
+        "summary": "M!LKが、9月16日にリリースする1stミニアルバム『LOVE ENG!NE』の収録曲を公開した。 本作には、リード曲「時空超えてユニバース」をはじめ、「Don’t let me down!」「僕のすべては君のもの",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
       {
         "id": "63b7f36053b0e2be",
         "title": "M!LKミニアルバム『LOVE ENG!NE』収録曲公開！リード曲「時空超えてユニバース」先行配信決定",
@@ -193,94 +199,6 @@
         ],
         "statuses": [],
         "memberMatches": []
-      },
-      {
-        "id": "99e70b38e5813c95",
-        "title": "MILK塩崎太智、ハイテンションな大人気動画配信者に ABC『もうパパ!』でGP帯連ドラ初レギュラー",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20260828-4881654/",
-        "publishedAt": "2026-08-28T10:00:00.000Z",
-        "summary": "M!LKの塩崎太智(※崎はたつさき)が、10月期のABCテレビ・テレビ朝日系日10ドラマ『もうパパ!』(10月4日スタート 毎週日曜22:15～)に出演することが、わかった。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      }
-    ],
-    "原因は自分にある。": [
-      {
-        "id": "e0b34b8da80a83f1",
-        "title": "原因は自分にある。 5thシングル『ラブリーズン』ジャケット＆アーティスト写真全17枚一挙公開",
-        "sourceName": "リアルサウンド 音楽",
-        "sourceUrl": "https://realsound.jp/music/feed",
-        "articleUrl": "https://realsound.jp/2026/08/post-2505584.html",
-        "publishedAt": "2026-08-28T10:00:07.000Z",
-        "summary": "原因は自分にある。が、11月11日にリリースする5thシングル『ラブリーズン』の各種ジャケット写真および新たなアーティスト写真全17枚を公開した。 本作は、狂気の愛と欲望をグループ独自の世界観で表現した作品。アートワ",
-        "groups": [
-          "原因は自分にある。"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "b94cee96de01482e",
-        "title": "亡き妻の真相追い学園に潜入…浅香航大×杢代和人、“劇場型リベンジサスペンス”でW主演「強い信念を大切に」「思わず考察したくなる」",
-        "sourceName": "マイナビニュース テレビ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-        "articleUrl": "https://news.mynavi.jp/article/20260824-4857213/",
-        "publishedAt": "2026-08-23T19:00:00.000Z",
-        "summary": "「毎話、爽快感がありながらも先の読めない展開が続く作品」――浅香航大と杢代和人が、10月7日にスタートする中京テレビ・日本テレビ系ドラマ『仮面教師～妻を亡くしたその日から』(毎週水曜24:24～)でW主演する。最愛の妻の死の真相を追って学園に潜入する元俳優の教師と、ある事情を抱えた転校生が、演劇ならではの仕掛けを武器に巨大な権力へ立ち向かう“劇場型リベンジサ",
-        "groups": [
-          "原因は自分にある。"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "杢代和人",
-            "group": "原因は自分にある。",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "15fb9ee4d3775ce2",
-        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/07/89645/",
-        "publishedAt": "2026-07-24T12:00:00.000Z",
-        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
-        "groups": [
-          "原因は自分にある。",
-          "BUDDiiS"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "SHOOT",
-            "group": "BUDDiiS",
-            "status": "active"
-          }
-        ]
       }
     ],
     "ONE N' ONLY": [
@@ -516,6 +434,36 @@
         ],
         "statuses": [],
         "memberMatches": []
+      }
+    ],
+    "原因は自分にある。": [
+      {
+        "id": "15fb9ee4d3775ce2",
+        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/07/89645/",
+        "publishedAt": "2026-07-24T12:00:00.000Z",
+        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
+        "groups": [
+          "原因は自分にある。",
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
       }
     ],
     "BUDDiiS": [
