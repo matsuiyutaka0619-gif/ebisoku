@@ -1,6 +1,35 @@
 {
-  "updatedAt": "2026-08-29T20:55:12.545Z",
+  "updatedAt": "2026-08-30T05:23:53.733Z",
   "articles": [
+    {
+      "id": "95c5e145518c2898",
+      "title": "EBiDAN所属人気デュオがライブ中止を当日発表「想定を大幅に超える」来場により",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202608300000365.html",
+      "publishedAt": "2026-08-30T03:37:55.000Z",
+      "summary": "ギターデュオSakurashimejiが30日、公式HPを更新。同日開催を予定していたフリーライブの中止を発表した。 公式HPでは「本日、8月30日(日)千葉県・テラスモール松戸にて開催をいたしますリリースイベントですが、当初の想定を大…",
+      "groups": [
+        "EBiDAN",
+        "Sakurashimeji"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "ba62bbdf9fb47098",
+      "title": "超特急、4回限りの特別上映イベント『東京ドーム公演記念 乗車準備会 僕たちは、超特急です!!!!!!!!!』予告編解禁",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000872861/",
+      "publishedAt": "2026-08-30T03:30:20.000Z",
+      "summary": "10月14日19:30、10月24日14:00、11月1日14:00、11月12日19:30の4回限りで上映イベントが開催さ...",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "b4a41aafcc78df8e",
       "title": "M!LK曽野舜太と山中柔太朗がサシメシした北海道のジンギスカン専門店が判明！「やわしゅん尊い」「兄弟みたいでほっこり」「かわいくてキュン」",
@@ -70,20 +99,6 @@
       "memberMatches": []
     },
     {
-      "id": "3d134d72623ad757",
-      "title": "M!LK、1stミニアルバム『LOVE ENG!NE』収録曲公開 リード曲「時空超えてユニバース」先行配信も",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/08/post-2506991.html",
-      "publishedAt": "2026-08-29T05:09:16.000Z",
-      "summary": "M!LKが、9月16日にリリースする1stミニアルバム『LOVE ENG!NE』の収録曲を公開した。 本作には、リード曲「時空超えてユニバース」をはじめ、「Don’t let me down!」「僕のすべては君のもの",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
       "id": "63b7f36053b0e2be",
       "title": "M!LKミニアルバム『LOVE ENG!NE』収録曲公開！リード曲「時空超えてユニバース」先行配信決定",
       "sourceName": "THE FIRST TIMES",
@@ -105,20 +120,6 @@
       "articleUrl": "https://bezzy.jp/2026/08/91395/",
       "publishedAt": "2026-08-28T13:00:00.000Z",
       "summary": "5人組ダンスボーカルグループ・M!LKが、9月16日(水)にリリースする1stミニアルバム『LOVE ENG!NE』の収録曲を公開した。 今作にはリード曲「時空超えてユニバース」をはじめ「Don’t let me down!」「僕のすべては君のもの」という計3曲の新曲に加え、「モー烈モー進！リリースプロジェクト2026」で配信リリースされた「アイドルパワー」",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "6cac7394dee29e84",
-      "title": "『VIVANT』ドラムが「しおざきわんだーらんど」ダンス披露！かわいらしいフォルムで踊る姿に「癒される」「だいちゃん嬉しいだろうな」「ぜひコラボを」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000872583/",
-      "publishedAt": "2026-08-28T11:39:46.000Z",
-      "summary": "富栄ドラムがSNSでダンス動画を公開した。 ■M!LK塩崎のソロ曲にのせてノリノリダンス ドラムが...",
       "groups": [
         "M!LK"
       ],
@@ -168,20 +169,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "96709617d830b9af",
-      "title": "ONE N' ONLY、FM大阪で初のレギュラー番組スタート！「夜ふかしナイトフィーバー！」9月1日放送開始",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/radio/664112.html",
-      "publishedAt": "2026-08-27T23:00:28.000Z",
-      "summary": "5人組ダンス＆ボーカルグループ・ONE N' ONLYがDJを務める新番組「ONE N' ONLYの夜ふかしナイトフィーバー！」が、FM大阪で9月1日からスタートする。番組は毎週火曜日25時から25時30分まで放送。初回は9月1日25時からオンエアされる。ONE N' ... The post ONE N' ONLY、FM大阪で初のレギュラー番組スタート！「",
-      "groups": [
-        "ONE N' ONLY"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "529e06a874764faf",
