@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T16:40:46.648Z",
+  "updatedAt": "2026-08-30T21:05:27.611Z",
   "articles": [
     {
       "id": "5a8eb9a06c1c63b3",
@@ -56,33 +56,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "b4a41aafcc78df8e",
-      "title": "M!LK曽野舜太と山中柔太朗がサシメシした北海道のジンギスカン専門店が判明！「やわしゅん尊い」「兄弟みたいでほっこり」「かわいくてキュン」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000872823/",
-      "publishedAt": "2026-08-29T10:52:17.000Z",
-      "summary": "M!LK公式YouTubeに「やわしゅん9年目サシメシ」として、曽野舜太と山中柔太朗のサシメシ動画が...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "曽野舜太",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "山中柔太朗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "bbd8056d67a448a4",

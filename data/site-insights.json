@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-30T16:40:46.650Z",
+  "updatedAt": "2026-08-30T21:05:27.613Z",
   "totals": {
-    "all": 126,
+    "all": 125,
     "today": 0,
-    "week": 12
+    "week": 11
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 10
+      "count": 9
     },
     {
       "name": "EBiDAN",
@@ -33,26 +33,22 @@
       "count": 3
     },
     {
-      "name": "山中柔太朗",
-      "count": 3
-    },
-    {
       "name": "佐野勇斗",
       "count": 2
     },
     {
-      "name": "曽野舜太",
+      "name": "山中柔太朗",
       "count": 2
+    },
+    {
+      "name": "曽野舜太",
+      "count": 1
     }
   ],
   "sourceRanking": [
     {
       "name": "タワーレコード ニュース",
       "count": 4
-    },
-    {
-      "name": "THE FIRST TIMES",
-      "count": 2
     },
     {
       "name": "マイナビニュース 芸能",
@@ -64,6 +60,10 @@
     },
     {
       "name": "SUPER★DRAGON 公式NEWS",
+      "count": 1
+    },
+    {
+      "name": "THE FIRST TIMES",
       "count": 1
     },
     {
@@ -121,33 +121,6 @@
         ]
       },
       {
-        "id": "b4a41aafcc78df8e",
-        "title": "M!LK曽野舜太と山中柔太朗がサシメシした北海道のジンギスカン専門店が判明！「やわしゅん尊い」「兄弟みたいでほっこり」「かわいくてキュン」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000872823/",
-        "publishedAt": "2026-08-29T10:52:17.000Z",
-        "summary": "M!LK公式YouTubeに「やわしゅん9年目サシメシ」として、曽野舜太と山中柔太朗のサシメシ動画が...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
         "id": "bbd8056d67a448a4",
         "title": "M!LK初ミニアルバムの収録楽曲公開、リード曲は“愛”の3部作完結編「時空超えてユニバース」",
         "sourceName": "Bezzy",
@@ -191,6 +164,28 @@
         "articleUrl": "https://news.mynavi.jp/article/20260826-4871396/",
         "publishedAt": "2026-08-26T14:00:00.000Z",
         "summary": "M!LKの塩崎太智(※崎はたつさき)が26日、都内で行われたマクドナルドの新商品発表イベントに、＝LOVEの佐々木舞香とともに登壇。新商品の試食を懸けたジェスチャーゲームに挑戦し、会場を盛り上げた。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "64545bb06b9b2821",
+        "title": "宮﨑あおい、塩﨑太智、佐々木舞香、マクドナルド「月見ファミリー」新TVCM出演。9月1日より全国放映開始",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/08/26/tg011",
+        "publishedAt": "2026-08-26T13:40:00.000Z",
+        "summary": "",
         "groups": [
           "M!LK"
         ],
