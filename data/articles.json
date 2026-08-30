@@ -1,20 +1,47 @@
 {
-  "updatedAt": "2026-08-30T05:23:53.733Z",
+  "updatedAt": "2026-08-30T11:54:27.918Z",
   "articles": [
     {
-      "id": "95c5e145518c2898",
-      "title": "EBiDAN所属人気デュオがライブ中止を当日発表「想定を大幅に超える」来場により",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202608300000365.html",
-      "publishedAt": "2026-08-30T03:37:55.000Z",
-      "summary": "ギターデュオSakurashimejiが30日、公式HPを更新。同日開催を予定していたフリーライブの中止を発表した。 公式HPでは「本日、8月30日(日)千葉県・テラスモール松戸にて開催をいたしますリリースイベントですが、当初の想定を大…",
+      "id": "5a8eb9a06c1c63b3",
+      "title": "日曜トライアル 第40回 「5人の時間を…」「楽しすぎて…」M!LKの個人YouTubeを見ていて感じたこと それぞれが口にするグループの“絆”",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/sunday_trial-40/",
+      "publishedAt": "2026-08-30T10:00:00.000Z",
+      "summary": "「イイじゃん」が大ヒットし、昨年末には『第76回NHK紅白歌合戦』への初出場を果たした5人組ダンスボーカルグループ・M!LK。結成から10年以上を経て、グループとして大きな飛躍を遂げる一方、最近では佐野勇斗に続き山中柔太朗、曽野舜太がそれぞれ個人YouTubeチャンネルを開設し、塩崎太智と吉田仁人も『じんだいチャンネル』を約4年半ぶりに復活させるなど、You",
       "groups": [
-        "EBiDAN",
-        "Sakurashimeji"
+        "M!LK"
       ],
-      "statuses": [],
-      "memberMatches": []
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "塩﨑太智",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "曽野舜太",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
     },
     {
       "id": "ba62bbdf9fb47098",
@@ -83,34 +110,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "5956b6a9832b49d1",
-      "title": "レミオロメンがM!LKと衣装姿で並んだ共演オフショット公開！「すごい並び」「大好きなグループのコラボ」「2グループともかわいい」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000872750/",
-      "publishedAt": "2026-08-29T07:21:44.000Z",
-      "summary": "レミオロメン公式SNSにて、M!LKとのオフショットが公開された。 ■和やかな2グループの共演ショ...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "63b7f36053b0e2be",
-      "title": "M!LKミニアルバム『LOVE ENG!NE』収録曲公開！リード曲「時空超えてユニバース」先行配信決定",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000872616/",
-      "publishedAt": "2026-08-28T13:00:22.000Z",
-      "summary": "M!LKが、9月16日にリリースする1stミニアルバム『LOVE ENG!NE』より収録曲を公開。併せて、リ...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "bbd8056d67a448a4",

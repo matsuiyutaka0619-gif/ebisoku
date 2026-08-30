@@ -1,21 +1,17 @@
 {
-  "updatedAt": "2026-08-30T05:23:53.735Z",
+  "updatedAt": "2026-08-30T11:54:27.921Z",
   "totals": {
-    "all": 130,
+    "all": 128,
     "today": 2,
-    "week": 16
+    "week": 14
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 13
+      "count": 12
     },
     {
       "name": "EBiDAN",
-      "count": 2
-    },
-    {
-      "name": "Sakurashimeji",
       "count": 1
     },
     {
@@ -30,33 +26,33 @@
   "memberRanking": [
     {
       "name": "塩﨑太智",
-      "count": 5
+      "count": 6
     },
     {
       "name": "吉田仁人",
-      "count": 3
+      "count": 4
     },
     {
       "name": "佐野勇斗",
-      "count": 2
+      "count": 3
     },
     {
       "name": "山中柔太朗",
-      "count": 2
+      "count": 3
     },
     {
       "name": "曽野舜太",
-      "count": 1
+      "count": 2
     }
   ],
   "sourceRanking": [
     {
-      "name": "THE FIRST TIMES",
-      "count": 5
-    },
-    {
       "name": "タワーレコード ニュース",
       "count": 4
+    },
+    {
+      "name": "THE FIRST TIMES",
+      "count": 3
     },
     {
       "name": "マイナビニュース 芸能",
@@ -75,32 +71,206 @@
       "count": 1
     },
     {
-      "name": "マイナビニュース テレビ",
+      "name": "マイナビニュース エンタメ",
       "count": 1
     },
     {
-      "name": "日刊スポーツ 芸能",
+      "name": "マイナビニュース テレビ",
       "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
-    "EBiDAN": [
+    "M!LK": [
       {
-        "id": "95c5e145518c2898",
-        "title": "EBiDAN所属人気デュオがライブ中止を当日発表「想定を大幅に超える」来場により",
-        "sourceName": "日刊スポーツ 芸能",
-        "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-        "articleUrl": "https://www.nikkansports.com/entertainment/news/202608300000365.html",
-        "publishedAt": "2026-08-30T03:37:55.000Z",
-        "summary": "ギターデュオSakurashimejiが30日、公式HPを更新。同日開催を予定していたフリーライブの中止を発表した。 公式HPでは「本日、8月30日(日)千葉県・テラスモール松戸にて開催をいたしますリリースイベントですが、当初の想定を大…",
+        "id": "5a8eb9a06c1c63b3",
+        "title": "日曜トライアル 第40回 「5人の時間を…」「楽しすぎて…」M!LKの個人YouTubeを見ていて感じたこと それぞれが口にするグループの“絆”",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/sunday_trial-40/",
+        "publishedAt": "2026-08-30T10:00:00.000Z",
+        "summary": "「イイじゃん」が大ヒットし、昨年末には『第76回NHK紅白歌合戦』への初出場を果たした5人組ダンスボーカルグループ・M!LK。結成から10年以上を経て、グループとして大きな飛躍を遂げる一方、最近では佐野勇斗に続き山中柔太朗、曽野舜太がそれぞれ個人YouTubeチャンネルを開設し、塩崎太智と吉田仁人も『じんだいチャンネル』を約4年半ぶりに復活させるなど、You",
         "groups": [
-          "EBiDAN",
-          "Sakurashimeji"
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "b4a41aafcc78df8e",
+        "title": "M!LK曽野舜太と山中柔太朗がサシメシした北海道のジンギスカン専門店が判明！「やわしゅん尊い」「兄弟みたいでほっこり」「かわいくてキュン」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000872823/",
+        "publishedAt": "2026-08-29T10:52:17.000Z",
+        "summary": "M!LK公式YouTubeに「やわしゅん9年目サシメシ」として、曽野舜太と山中柔太朗のサシメシ動画が...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "09a545b947f014d7",
+        "title": "佐野勇斗＆吉田仁人をM!LK年下組が応援！激しい3人に戸惑うふたりのわちゃわちゃムービーに「佐野さん違う曲踊ってる？」「応援激しい」「仁ちゃん困ってる（笑）」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000872793/",
+        "publishedAt": "2026-08-29T10:20:47.000Z",
+        "summary": "M!LK公式SNSにて、「年下組から佐野さんと吉田さんにアイドルパワー」動画が公開された。 ■ユ...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "bbd8056d67a448a4",
+        "title": "M!LK初ミニアルバムの収録楽曲公開、リード曲は“愛”の3部作完結編「時空超えてユニバース」",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/08/91395/",
+        "publishedAt": "2026-08-28T13:00:00.000Z",
+        "summary": "5人組ダンスボーカルグループ・M!LKが、9月16日(水)にリリースする1stミニアルバム『LOVE ENG!NE』の収録曲を公開した。 今作にはリード曲「時空超えてユニバース」をはじめ「Don’t let me down!」「僕のすべては君のもの」という計3曲の新曲に加え、「モー烈モー進！リリースプロジェクト2026」で配信リリースされた「アイドルパワー」",
+        "groups": [
+          "M!LK"
         ],
         "statuses": [],
         "memberMatches": []
       },
+      {
+        "id": "99e70b38e5813c95",
+        "title": "MILK塩崎太智、ハイテンションな大人気動画配信者に ABC『もうパパ!』でGP帯連ドラ初レギュラー",
+        "sourceName": "マイナビニュース テレビ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
+        "articleUrl": "https://news.mynavi.jp/article/20260828-4881654/",
+        "publishedAt": "2026-08-28T10:00:00.000Z",
+        "summary": "M!LKの塩崎太智(※崎はたつさき)が、10月期のABCテレビ・テレビ朝日系日10ドラマ『もうパパ!』(10月4日スタート 毎週日曜22:15～)に出演することが、わかった。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "超特急": [
+      {
+        "id": "ba62bbdf9fb47098",
+        "title": "超特急、4回限りの特別上映イベント『東京ドーム公演記念 乗車準備会 僕たちは、超特急です!!!!!!!!!』予告編解禁",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000872861/",
+        "publishedAt": "2026-08-30T03:30:20.000Z",
+        "summary": "10月14日19:30、10月24日14:00、11月1日14:00、11月12日19:30の4回限りで上映イベントが開催さ...",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "397a635043a0e0e2",
+        "title": "映画『ワンダンス』新キャストにGirls2山口綺羅、MAZZEL・RAN、TSUKKI、超特急・髙松アロハ",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/07/89594/",
+        "publishedAt": "2026-07-22T09:00:00.000Z",
+        "summary": "11月27日(金)に公開されるJO（&TEAM）初主演映画『ワンダンス』の新キャストとして山口綺羅（Girls2）、RAN（MAZZEL）、現役DリーガーのTSUKKI、髙松アロハ（超特急）が出演することが発表された。 原作は単行本累計発行部数110万部を突破し「月刊アフタヌーン」（講談社）で連載中の珈琲による同名漫画。ダンサーからも熱く支持され、昨年放送さ",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "アロハ",
+            "group": "超特急",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "382225983e9781d4",
+        "title": "8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 7月2日からの先行配信リリースに合わせて デジタルキャンペーンが追加決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11354/",
+        "publishedAt": "2026-07-01T06:00:22.000Z",
+        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して8月11日(火・祝)にリリースされる「Yes! 東京」が、いよいよ7月2日（木）より先行配信リリースとなります。超特急、M!LK、SUPER★DRAGON、Sakur […] The post 8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 7月2日からの先行配信リリースに合わせて デ",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
+    "EBiDAN": [
       {
         "id": "529e06a874764faf",
         "title": "『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット、『EBiDAN 15th Anniversaryオフィシャルグッズ』＆『恵比寿学園男子部 校内スナップ』通販決定！",
@@ -160,173 +330,18 @@
         ],
         "statuses": [],
         "memberMatches": []
-      }
-    ],
-    "Sakurashimeji": [
-      {
-        "id": "95c5e145518c2898",
-        "title": "EBiDAN所属人気デュオがライブ中止を当日発表「想定を大幅に超える」来場により",
-        "sourceName": "日刊スポーツ 芸能",
-        "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-        "articleUrl": "https://www.nikkansports.com/entertainment/news/202608300000365.html",
-        "publishedAt": "2026-08-30T03:37:55.000Z",
-        "summary": "ギターデュオSakurashimejiが30日、公式HPを更新。同日開催を予定していたフリーライブの中止を発表した。 公式HPでは「本日、8月30日(日)千葉県・テラスモール松戸にて開催をいたしますリリースイベントですが、当初の想定を大…",
-        "groups": [
-          "EBiDAN",
-          "Sakurashimeji"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "超特急": [
-      {
-        "id": "ba62bbdf9fb47098",
-        "title": "超特急、4回限りの特別上映イベント『東京ドーム公演記念 乗車準備会 僕たちは、超特急です!!!!!!!!!』予告編解禁",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000872861/",
-        "publishedAt": "2026-08-30T03:30:20.000Z",
-        "summary": "10月14日19:30、10月24日14:00、11月1日14:00、11月12日19:30の4回限りで上映イベントが開催さ...",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
       },
       {
-        "id": "397a635043a0e0e2",
-        "title": "映画『ワンダンス』新キャストにGirls2山口綺羅、MAZZEL・RAN、TSUKKI、超特急・髙松アロハ",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/07/89594/",
-        "publishedAt": "2026-07-22T09:00:00.000Z",
-        "summary": "11月27日(金)に公開されるJO（&TEAM）初主演映画『ワンダンス』の新キャストとして山口綺羅（Girls2）、RAN（MAZZEL）、現役DリーガーのTSUKKI、髙松アロハ（超特急）が出演することが発表された。 原作は単行本累計発行部数110万部を突破し「月刊アフタヌーン」（講談社）で連載中の珈琲による同名漫画。ダンサーからも熱く支持され、昨年放送さ",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "アロハ",
-            "group": "超特急",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "382225983e9781d4",
-        "title": "8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 7月2日からの先行配信リリースに合わせて デジタルキャンペーンが追加決定！",
+        "id": "abb0cde9a3991b12",
+        "title": "シングル「Yes! 東京」＆アルバム「Yes! 東京 (体験入学版)」、デジタルリリース決定！各種キャンペーンもスタート！",
         "sourceName": "SUPER★DRAGON 公式NEWS",
         "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11354/",
-        "publishedAt": "2026-07-01T06:00:22.000Z",
-        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して8月11日(火・祝)にリリースされる「Yes! 東京」が、いよいよ7月2日（木）より先行配信リリースとなります。超特急、M!LK、SUPER★DRAGON、Sakur […] The post 8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 7月2日からの先行配信リリースに合わせて デ",
+        "articleUrl": "https://super-dragon.jp/news/news11544/",
+        "publishedAt": "2026-08-10T08:00:46.000Z",
+        "summary": "ついにCD発売を迎えるEBiDAN (恵比寿学園男子部)「Yes! 東京」が、デジタルシングルとしてもリリースが決定いたしました。リード曲「Yes! 東京」に加え、カップリングには昨年の『EBiDAN THE LIVE […] The post シングル「Yes! 東京」＆アルバム「Yes! 東京 (体験入学版)」、デジタルリリース決定！各種キャンペーンもス",
         "groups": [
           "EBiDAN",
-          "超特急",
-          "M!LK",
           "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "M!LK": [
-      {
-        "id": "b4a41aafcc78df8e",
-        "title": "M!LK曽野舜太と山中柔太朗がサシメシした北海道のジンギスカン専門店が判明！「やわしゅん尊い」「兄弟みたいでほっこり」「かわいくてキュン」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000872823/",
-        "publishedAt": "2026-08-29T10:52:17.000Z",
-        "summary": "M!LK公式YouTubeに「やわしゅん9年目サシメシ」として、曽野舜太と山中柔太朗のサシメシ動画が...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "09a545b947f014d7",
-        "title": "佐野勇斗＆吉田仁人をM!LK年下組が応援！激しい3人に戸惑うふたりのわちゃわちゃムービーに「佐野さん違う曲踊ってる？」「応援激しい」「仁ちゃん困ってる（笑）」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000872793/",
-        "publishedAt": "2026-08-29T10:20:47.000Z",
-        "summary": "M!LK公式SNSにて、「年下組から佐野さんと吉田さんにアイドルパワー」動画が公開された。 ■ユ...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "5956b6a9832b49d1",
-        "title": "レミオロメンがM!LKと衣装姿で並んだ共演オフショット公開！「すごい並び」「大好きなグループのコラボ」「2グループともかわいい」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000872750/",
-        "publishedAt": "2026-08-29T07:21:44.000Z",
-        "summary": "レミオロメン公式SNSにて、M!LKとのオフショットが公開された。 ■和やかな2グループの共演ショ...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "63b7f36053b0e2be",
-        "title": "M!LKミニアルバム『LOVE ENG!NE』収録曲公開！リード曲「時空超えてユニバース」先行配信決定",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000872616/",
-        "publishedAt": "2026-08-28T13:00:22.000Z",
-        "summary": "M!LKが、9月16日にリリースする1stミニアルバム『LOVE ENG!NE』より収録曲を公開。併せて、リ...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "bbd8056d67a448a4",
-        "title": "M!LK初ミニアルバムの収録楽曲公開、リード曲は“愛”の3部作完結編「時空超えてユニバース」",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/08/91395/",
-        "publishedAt": "2026-08-28T13:00:00.000Z",
-        "summary": "5人組ダンスボーカルグループ・M!LKが、9月16日(水)にリリースする1stミニアルバム『LOVE ENG!NE』の収録曲を公開した。 今作にはリード曲「時空超えてユニバース」をはじめ「Don’t let me down!」「僕のすべては君のもの」という計3曲の新曲に加え、「モー烈モー進！リリースプロジェクト2026」で配信リリースされた「アイドルパワー」",
-        "groups": [
-          "M!LK"
         ],
         "statuses": [],
         "memberMatches": []
