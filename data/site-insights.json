@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-30T11:54:27.921Z",
+  "updatedAt": "2026-08-30T16:40:46.650Z",
   "totals": {
-    "all": 128,
-    "today": 2,
-    "week": 14
+    "all": 126,
+    "today": 0,
+    "week": 12
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 12
+      "count": 10
     },
     {
       "name": "EBiDAN",
@@ -26,19 +26,19 @@
   "memberRanking": [
     {
       "name": "塩﨑太智",
-      "count": 6
+      "count": 5
     },
     {
       "name": "吉田仁人",
-      "count": 4
-    },
-    {
-      "name": "佐野勇斗",
       "count": 3
     },
     {
       "name": "山中柔太朗",
       "count": 3
+    },
+    {
+      "name": "佐野勇斗",
+      "count": 2
     },
     {
       "name": "曽野舜太",
@@ -52,7 +52,7 @@
     },
     {
       "name": "THE FIRST TIMES",
-      "count": 3
+      "count": 2
     },
     {
       "name": "マイナビニュース 芸能",
@@ -60,10 +60,6 @@
     },
     {
       "name": "Bezzy",
-      "count": 1
-    },
-    {
-      "name": "Edge Line",
       "count": 1
     },
     {
@@ -152,33 +148,6 @@
         ]
       },
       {
-        "id": "09a545b947f014d7",
-        "title": "佐野勇斗＆吉田仁人をM!LK年下組が応援！激しい3人に戸惑うふたりのわちゃわちゃムービーに「佐野さん違う曲踊ってる？」「応援激しい」「仁ちゃん困ってる（笑）」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000872793/",
-        "publishedAt": "2026-08-29T10:20:47.000Z",
-        "summary": "M!LK公式SNSにて、「年下組から佐野さんと吉田さんにアイドルパワー」動画が公開された。 ■ユ...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
         "id": "bbd8056d67a448a4",
         "title": "M!LK初ミニアルバムの収録楽曲公開、リード曲は“愛”の3部作完結編「時空超えてユニバース」",
         "sourceName": "Bezzy",
@@ -200,6 +169,28 @@
         "articleUrl": "https://news.mynavi.jp/article/20260828-4881654/",
         "publishedAt": "2026-08-28T10:00:00.000Z",
         "summary": "M!LKの塩崎太智(※崎はたつさき)が、10月期のABCテレビ・テレビ朝日系日10ドラマ『もうパパ!』(10月4日スタート 毎週日曜22:15～)に出演することが、わかった。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "11f21b68eb550b5d",
+        "title": "「ダメですよ!」「皆さん…」M!LK塩崎太智、報道陣にまさかの“呼びかけ” 全力ジェスチャー&ダンス披露",
+        "sourceName": "マイナビニュース 芸能",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
+        "articleUrl": "https://news.mynavi.jp/article/20260826-4871396/",
+        "publishedAt": "2026-08-26T14:00:00.000Z",
+        "summary": "M!LKの塩崎太智(※崎はたつさき)が26日、都内で行われたマクドナルドの新商品発表イベントに、＝LOVEの佐々木舞香とともに登壇。新商品の試食を懸けたジェスチャーゲームに挑戦し、会場を盛り上げた。",
         "groups": [
           "M!LK"
         ],
