@@ -1,11 +1,150 @@
 {
-  "updatedAt": "2026-08-30T21:05:27.611Z",
+  "updatedAt": "2026-08-31T05:33:53.829Z",
   "articles": [
+    {
+      "id": "d183805c1ba859e0",
+      "title": "M!LK佐野勇斗＆吉田仁人ユニット1,000万再生突破記念の肩組みショット公開「さのじん爆イケ」「仁人くんから肩を組んでるのがいい」「しっとりした大人の色気が大好き」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000873240/",
+      "publishedAt": "2026-08-31T04:39:27.000Z",
+      "summary": "M!LK公式Xが、佐野勇斗と吉田仁人のユニット曲「罪と罰と雨とキス」のMV再生回数が1,000万回を...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "dc9556cb195ee918",
+      "title": "M!LK佐野勇斗＆吉田仁人が“おそろいヘア”で肩組み！華やか衣装の“さのじん”2ショットに「ふたりともいい顔」「絆を感じて激エモ」「この衣装は罪すぎる」「眼福」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000873450/",
+      "publishedAt": "2026-08-31T04:11:42.000Z",
+      "summary": "M!LKが8月28日放送の『ミュージックステーション』（テレビ朝日系）に出演。5人で「アイドルパ...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "b988b7dd1d5aa779",
+      "title": "M!LK山中柔太朗が曽野舜太を後ろからぎゅっ！仲良し“密着”ショットに「美しすぎて画面割れる」「額に入れて飾りたいくらい素敵な写真」「尊すぎる」とファン歓喜、“やわしゅんポーズ”にも反響",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000873411/",
+      "publishedAt": "2026-08-31T03:30:46.000Z",
+      "summary": "M!LKの山中柔太朗と曽野舜太がそれぞれ自身のInstagramを更新。グループ加入8周年を迎えたこと...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "曽野舜太",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "ece5e5743f43c0ab",
+      "title": "今夜の『テレビ×ミセス』は話題を呼んだ豪華コラボ8連発！M!LK、りくりゅうの未公開トークも",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000873354/",
+      "publishedAt": "2026-08-31T03:30:12.000Z",
+      "summary": "Mrs. GREEN APPLEがMCを務めるTBS『テレビ×ミセス』。8月31日は、極上の歌コラボ8連発＆未公開...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "307ce21bedd39514",
+      "title": "M!LK吉田仁人の“無防備すぎる”寝顔にファン悶絶！パジャマ×ヘアバンドでうとうとする姿に「かわいすぎる」「天使？」「破壊力やばい」「まつ毛長い」“ポンパドールヘア”にも反響",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000873356/",
+      "publishedAt": "2026-08-31T02:49:45.000Z",
+      "summary": "M!LKの吉田仁人が表紙を飾る『FINEBOYS+plus OYASUMI vol.2』が、8月31日に発売。『FINEBOYS』...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "9bd202ff9447600b",
+      "title": "M!LK塩崎太智「歴史に残るめざましじゃんけんを」『めざましテレビ』9月エンタメプレゼンター、メンバーには未報告",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260831-4885999/",
+      "publishedAt": "2026-08-30T22:00:00.000Z",
+      "summary": "「歴史に残るめざましじゃんけんをしたいと思います(笑)」――。フジテレビ系情報番組『めざましテレビ』(毎週月～金曜5:25～)に、M!LKの塩崎太智が9月のマンスリーエンタメプレゼンターとして出演する(※生出演は9日・17日・29日を予定)。念願だったという大役に「めちゃくちゃうれしすぎて滅!」と喜びながら、メンバーにはまだ就任を伝えていないことも明かした。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "塩﨑太智",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "5a8eb9a06c1c63b3",
       "title": "日曜トライアル 第40回 「5人の時間を…」「楽しすぎて…」M!LKの個人YouTubeを見ていて感じたこと それぞれが口にするグループの“絆”",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/sunday_trial-40/",
       "publishedAt": "2026-08-30T10:00:00.000Z",
       "summary": "「イイじゃん」が大ヒットし、昨年末には『第76回NHK紅白歌合戦』への初出場を果たした5人組ダンスボーカルグループ・M!LK。結成から10年以上を経て、グループとして大きな飛躍を遂げる一方、最近では佐野勇斗に続き山中柔太朗、曽野舜太がそれぞれ個人YouTubeチャンネルを開設し、塩崎太智と吉田仁人も『じんだいチャンネル』を約4年半ぶりに復活させるなど、You",
@@ -42,20 +181,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "ba62bbdf9fb47098",
-      "title": "超特急、4回限りの特別上映イベント『東京ドーム公演記念 乗車準備会 僕たちは、超特急です!!!!!!!!!』予告編解禁",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000872861/",
-      "publishedAt": "2026-08-30T03:30:20.000Z",
-      "summary": "10月14日19:30、10月24日14:00、11月1日14:00、11月12日19:30の4回限りで上映イベントが開催さ...",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "bbd8056d67a448a4",
@@ -1399,28 +1524,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "fb6a40e8523b91e9",
-      "title": "井上和と松井ケムリが『トイ・ストーリー５』日本版声優に決定、佐野勇斗と新キャラトリオを演じる",
-      "sourceName": "Bezzy",
-      "sourceUrl": "https://bezzy.jp/feed/",
-      "articleUrl": "https://bezzy.jp/2026/06/87909/",
-      "publishedAt": "2026-06-17T21:00:00.000Z",
-      "summary": "7月3日(金)に全国公開される映画『トイ・ストーリー５』に登場する新キャラクターの日本版声優を乃木坂46・井上和と令和ロマン・松井ケムリが務めることが決定した。 おもちゃと人との絆を描き、世代を超えて愛されてきたディズニー＆ピクサーの『トイ・ストーリー』シリーズ。最新作ではウッディ役の唐沢寿明やバズ役の所ジョージが続投するほか、新たにリリーパッド役の広瀬アリ",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "545f3009b7c226e3",
