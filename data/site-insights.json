@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-31T13:48:59.131Z",
+  "updatedAt": "2026-08-31T22:50:17.052Z",
   "totals": {
-    "all": 126,
-    "today": 7,
-    "week": 14
+    "all": 125,
+    "today": 0,
+    "week": 13
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 10
+      "count": 9
     },
     {
       "name": "EBiDAN",
@@ -30,7 +30,7 @@
   "memberRanking": [
     {
       "name": "塩﨑太智",
-      "count": 5
+      "count": 4
     },
     {
       "name": "吉田仁人",
@@ -92,10 +92,6 @@
     },
     {
       "name": "Bezzy",
-      "count": 1
-    },
-    {
-      "name": "マイナビニュース エンタメ",
       "count": 1
     },
     {
@@ -313,8 +309,8 @@
       {
         "id": "9bd202ff9447600b",
         "title": "M!LK塩崎太智「歴史に残るめざましじゃんけんを」『めざましテレビ』9月エンタメプレゼンター、メンバーには未報告",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "sourceName": "マイナビニュース テレビ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
         "articleUrl": "https://news.mynavi.jp/article/20260831-4885999/",
         "publishedAt": "2026-08-30T22:00:00.000Z",
         "summary": "「歴史に残るめざましじゃんけんをしたいと思います(笑)」――。フジテレビ系情報番組『めざましテレビ』(毎週月～金曜5:25～)に、M!LKの塩崎太智が9月のマンスリーエンタメプレゼンターとして出演する(※生出演は9日・17日・29日を予定)。念願だったという大役に「めちゃくちゃうれしすぎて滅!」と喜びながら、メンバーにはまだ就任を伝えていないことも明かした。",
