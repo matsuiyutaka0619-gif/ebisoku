@@ -1,65 +1,97 @@
 {
-  "updatedAt": "2026-08-31T05:33:53.832Z",
+  "updatedAt": "2026-08-31T13:48:59.131Z",
   "totals": {
-    "all": 129,
-    "today": 6,
-    "week": 16
+    "all": 126,
+    "today": 7,
+    "week": 14
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 15
+      "count": 10
     },
     {
       "name": "EBiDAN",
-      "count": 1
+      "count": 3
     },
     {
       "name": "SUPER★DRAGON",
+      "count": 2
+    },
+    {
+      "name": "BUDDiiS",
+      "count": 1
+    },
+    {
+      "name": "Lienel",
       "count": 1
     }
   ],
   "memberRanking": [
     {
       "name": "塩﨑太智",
-      "count": 6
-    },
-    {
-      "name": "吉田仁人",
-      "count": 6
-    },
-    {
-      "name": "佐野勇斗",
-      "count": 4
-    },
-    {
-      "name": "山中柔太朗",
-      "count": 3
-    },
-    {
-      "name": "曽野舜太",
-      "count": 2
-    }
-  ],
-  "sourceRanking": [
-    {
-      "name": "THE FIRST TIMES",
       "count": 5
     },
     {
-      "name": "タワーレコード ニュース",
-      "count": 4
+      "name": "吉田仁人",
+      "count": 2
     },
+    {
+      "name": "山中柔太朗",
+      "count": 2
+    },
+    {
+      "name": "近藤駿太",
+      "count": 1
+    },
+    {
+      "name": "高岡ミロ",
+      "count": 1
+    },
+    {
+      "name": "高桑真之",
+      "count": 1
+    },
+    {
+      "name": "佐野勇斗",
+      "count": 1
+    },
+    {
+      "name": "森田璃空",
+      "count": 1
+    },
+    {
+      "name": "曽野舜太",
+      "count": 1
+    },
+    {
+      "name": "武田創世",
+      "count": 1
+    }
+  ],
+  "sourceRanking": [
     {
       "name": "マイナビニュース 芸能",
       "count": 3
     },
     {
-      "name": "Bezzy",
-      "count": 1
+      "name": "BARKS",
+      "count": 2
     },
     {
       "name": "SUPER★DRAGON 公式NEWS",
+      "count": 2
+    },
+    {
+      "name": "THE FIRST TIMES",
+      "count": 2
+    },
+    {
+      "name": "タワーレコード ニュース",
+      "count": 2
+    },
+    {
+      "name": "Bezzy",
       "count": 1
     },
     {
@@ -73,126 +105,80 @@
   ],
   "topics": [],
   "recentByGroup": {
-    "M!LK": [
+    "BUDDiiS": [
       {
-        "id": "d183805c1ba859e0",
-        "title": "M!LK佐野勇斗＆吉田仁人ユニット1,000万再生突破記念の肩組みショット公開「さのじん爆イケ」「仁人くんから肩を組んでるのがいい」「しっとりした大人の色気が大好き」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000873240/",
-        "publishedAt": "2026-08-31T04:39:27.000Z",
-        "summary": "M!LK公式Xが、佐野勇斗と吉田仁人のユニット曲「罪と罰と雨とキス」のMV再生回数が1,000万回を...",
+        "id": "b46612ddf86ce650",
+        "title": "BUDDiiS、“ヒーロー”がテーマのメジャー2ndシングル「無限大LOVE!!!」リリース決定＆新アー写公開",
+        "sourceName": "BARKS",
+        "sourceUrl": "https://www.barks.jp/feed/",
+        "articleUrl": "https://barks.jp/news/1086266",
+        "publishedAt": "2026-08-31T12:00:00.000Z",
+        "summary": "BUDDiiSが、2026年11月18日にメジャー2ndシングル「無限大LOVE!!!」をリリースすることを発表した。 本作は、愛より大きな肯定をあなたに届ける“ヒーロー”をテーマに制作。ポジティブソング「無限大LOVE!!!」をはじめ、多様なジャンルの楽曲を詰め込んだメジャー2ndシングルになるとのことだ。 また、新アーティスト写真も公開された。こちらもヒ",
         "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "dc9556cb195ee918",
-        "title": "M!LK佐野勇斗＆吉田仁人が“おそろいヘア”で肩組み！華やか衣装の“さのじん”2ショットに「ふたりともいい顔」「絆を感じて激エモ」「この衣装は罪すぎる」「眼福」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000873450/",
-        "publishedAt": "2026-08-31T04:11:42.000Z",
-        "summary": "M!LKが8月28日放送の『ミュージックステーション』（テレビ朝日系）に出演。5人で「アイドルパ...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "b988b7dd1d5aa779",
-        "title": "M!LK山中柔太朗が曽野舜太を後ろからぎゅっ！仲良し“密着”ショットに「美しすぎて画面割れる」「額に入れて飾りたいくらい素敵な写真」「尊すぎる」とファン歓喜、“やわしゅんポーズ”にも反響",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000873411/",
-        "publishedAt": "2026-08-31T03:30:46.000Z",
-        "summary": "M!LKの山中柔太朗と曽野舜太がそれぞれ自身のInstagramを更新。グループ加入8周年を迎えたこと...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "ece5e5743f43c0ab",
-        "title": "今夜の『テレビ×ミセス』は話題を呼んだ豪華コラボ8連発！M!LK、りくりゅうの未公開トークも",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000873354/",
-        "publishedAt": "2026-08-31T03:30:12.000Z",
-        "summary": "Mrs. GREEN APPLEがMCを務めるTBS『テレビ×ミセス』。8月31日は、極上の歌コラボ8連発＆未公開...",
-        "groups": [
-          "M!LK"
+          "BUDDiiS"
         ],
         "statuses": [],
         "memberMatches": []
       },
       {
-        "id": "307ce21bedd39514",
-        "title": "M!LK吉田仁人の“無防備すぎる”寝顔にファン悶絶！パジャマ×ヘアバンドでうとうとする姿に「かわいすぎる」「天使？」「破壊力やばい」「まつ毛長い」“ポンパドールヘア”にも反響",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000873356/",
-        "publishedAt": "2026-08-31T02:49:45.000Z",
-        "summary": "M!LKの吉田仁人が表紙を飾る『FINEBOYS+plus OYASUMI vol.2』が、8月31日に発売。『FINEBOYS』...",
+        "id": "15fb9ee4d3775ce2",
+        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/07/89645/",
+        "publishedAt": "2026-07-24T12:00:00.000Z",
+        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
         "groups": [
-          "M!LK"
+          "原因は自分にある。",
+          "BUDDiiS"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "吉田仁人",
-            "group": "M!LK",
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
             "status": "active"
           }
         ]
       }
     ],
     "EBiDAN": [
+      {
+        "id": "66fe3c1fb6ea56ca",
+        "title": "SixTONES、次回『CDTVライブ！ライブ！』で新曲「マイオンリー」を歌唱！EBiDAN、AKB48、T.M.Revolutionはおかわりライブ",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000873736/",
+        "publishedAt": "2026-08-31T11:55:45.000Z",
+        "summary": "9月7日19時から放送のTBS『CDTVライブ！ライブ！』の出演者、歌唱楽曲が発表された。 ■出演ア...",
+        "groups": [
+          "EBiDAN"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "7277b3cf409678c0",
+        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』 最新チケット情報",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11600/",
+        "publishedAt": "2026-08-31T09:30:16.000Z",
+        "summary": "本日8月31日(月)18:00よりEBiDAN先行受付開始！ 皆さんとお会いできることを楽しみにしております！ 第６回EBiDAN大運動会『スポーツマンヒップ！』 【千葉】LaLa arena […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』 最新チケット情報 first appeared on SUPER★DRAGON .",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
       {
         "id": "529e06a874764faf",
         "title": "『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット、『EBiDAN 15th Anniversaryオフィシャルグッズ』＆『恵比寿学園男子部 校内スナップ』通販決定！",
@@ -237,39 +223,224 @@
         ],
         "statuses": [],
         "memberMatches": []
+      }
+    ],
+    "M!LK": [
+      {
+        "id": "dd2a6f2d94286769",
+        "title": "Lienel、メジャー2ndシングル「愛のダバダ」のアー写＆通常盤アートワーク公開。“とめどなく溢れる愛”をテーマにした情熱的なビジュアルに",
+        "sourceName": "BARKS",
+        "sourceUrl": "https://www.barks.jp/feed/",
+        "articleUrl": "https://barks.jp/news/1086220",
+        "publishedAt": "2026-08-31T11:00:00.000Z",
+        "summary": "Lienelが、2026年10月21日にリリースするメジャー2ndシングル「愛のダバダ」のアーティスト写真と通常盤アートワークを公開した。 真紅の衣装を身に纏った6人が、バラを口に咥えた横顔や一輪のバラを差し出す姿など、さまざまな表情やポージングで「愛のダバダ」の世界観を表現。ソロビジュアルでは、メンバーそれぞれの個性と魅力を引き出しながら、6人それぞれの「",
+        "groups": [
+          "M!LK",
+          "Lienel"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "芳賀柊斗",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "近藤駿太",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "高岡ミロ",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "森田璃空",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "武田創世",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "高桑真之",
+            "group": "Lienel",
+            "status": "active"
+          }
+        ]
       },
       {
-        "id": "1ad5810b4c9a0a8b",
-        "title": "本日8月11日(火・祝)発売、 EBiDAN15周年記念シングル「Yes! 東京」のを公開！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11555/",
-        "publishedAt": "2026-08-11T08:30:18.000Z",
-        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して、本日8月11日(火・祝)にリリースされたシングル「Yes! 東京」のMaking Lyric Videoを公開！ 本日公開された映像は、4日間に渡って撮影されたMu […] The post 本日8月11日(火・祝)発売、 EBiDAN15周年記念シングル「Yes! 東京」の を公開！ first ap",
+        "id": "0737bfd30535fad0",
+        "title": "M!LK、9月16日リリースの1stミニ・アルバム『LOVE ENG!NE』収録曲公開。リード曲“時空超えてユニバース”先行配信決定",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/08/31/tg008",
+        "publishedAt": "2026-08-31T10:45:05.000Z",
+        "summary": "",
         "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
+          "M!LK"
         ],
         "statuses": [],
         "memberMatches": []
       },
       {
-        "id": "abb0cde9a3991b12",
-        "title": "シングル「Yes! 東京」＆アルバム「Yes! 東京 (体験入学版)」、デジタルリリース決定！各種キャンペーンもスタート！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11544/",
-        "publishedAt": "2026-08-10T08:00:46.000Z",
-        "summary": "ついにCD発売を迎えるEBiDAN (恵比寿学園男子部)「Yes! 東京」が、デジタルシングルとしてもリリースが決定いたしました。リード曲「Yes! 東京」に加え、カップリングには昨年の『EBiDAN THE LIVE […] The post シングル「Yes! 東京」＆アルバム「Yes! 東京 (体験入学版)」、デジタルリリース決定！各種キャンペーンもス",
+        "id": "072542d6d85f8ac7",
+        "title": "M!LK山中柔太朗が“ノリノリ”でカメラに接近＆思わず笑顔になる4人！ロング丈の衣装で踊る5人に「テンション高い柔ちゃん最高」「みんなニコニコでかわいい」「さのその何してるの？w」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000873583/",
+        "publishedAt": "2026-08-31T06:41:13.000Z",
+        "summary": "M!LKの公式TikTokが更新。5人がカラフルな衣装で「You!Joy!Parade!」を踊る姿が公開された。 ■...",
         "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
+          "M!LK"
         ],
-        "statuses": [],
-        "memberMatches": []
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "9bd202ff9447600b",
+        "title": "M!LK塩崎太智「歴史に残るめざましじゃんけんを」『めざましテレビ』9月エンタメプレゼンター、メンバーには未報告",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20260831-4885999/",
+        "publishedAt": "2026-08-30T22:00:00.000Z",
+        "summary": "「歴史に残るめざましじゃんけんをしたいと思います(笑)」――。フジテレビ系情報番組『めざましテレビ』(毎週月～金曜5:25～)に、M!LKの塩崎太智が9月のマンスリーエンタメプレゼンターとして出演する(※生出演は9日・17日・29日を予定)。念願だったという大役に「めちゃくちゃうれしすぎて滅!」と喜びながら、メンバーにはまだ就任を伝えていないことも明かした。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "5a8eb9a06c1c63b3",
+        "title": "日曜トライアル 第40回 「5人の時間を…」「楽しすぎて…」M!LKの個人YouTubeを見ていて感じたこと それぞれが口にするグループの“絆”",
+        "sourceName": "マイナビニュース 芸能",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
+        "articleUrl": "https://news.mynavi.jp/article/sunday_trial-40/",
+        "publishedAt": "2026-08-30T10:00:00.000Z",
+        "summary": "「イイじゃん」が大ヒットし、昨年末には『第76回NHK紅白歌合戦』への初出場を果たした5人組ダンスボーカルグループ・M!LK。結成から10年以上を経て、グループとして大きな飛躍を遂げる一方、最近では佐野勇斗に続き山中柔太朗、曽野舜太がそれぞれ個人YouTubeチャンネルを開設し、塩崎太智と吉田仁人も『じんだいチャンネル』を約4年半ぶりに復活させるなど、You",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "Lienel": [
+      {
+        "id": "dd2a6f2d94286769",
+        "title": "Lienel、メジャー2ndシングル「愛のダバダ」のアー写＆通常盤アートワーク公開。“とめどなく溢れる愛”をテーマにした情熱的なビジュアルに",
+        "sourceName": "BARKS",
+        "sourceUrl": "https://www.barks.jp/feed/",
+        "articleUrl": "https://barks.jp/news/1086220",
+        "publishedAt": "2026-08-31T11:00:00.000Z",
+        "summary": "Lienelが、2026年10月21日にリリースするメジャー2ndシングル「愛のダバダ」のアーティスト写真と通常盤アートワークを公開した。 真紅の衣装を身に纏った6人が、バラを口に咥えた横顔や一輪のバラを差し出す姿など、さまざまな表情やポージングで「愛のダバダ」の世界観を表現。ソロビジュアルでは、メンバーそれぞれの個性と魅力を引き出しながら、6人それぞれの「",
+        "groups": [
+          "M!LK",
+          "Lienel"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "芳賀柊斗",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "近藤駿太",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "高岡ミロ",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "森田璃空",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "武田創世",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "高桑真之",
+            "group": "Lienel",
+            "status": "active"
+          }
+        ]
       }
     ],
     "SUPER★DRAGON": [
+      {
+        "id": "7277b3cf409678c0",
+        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』 最新チケット情報",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11600/",
+        "publishedAt": "2026-08-31T09:30:16.000Z",
+        "summary": "本日8月31日(月)18:00よりEBiDAN先行受付開始！ 皆さんとお会いできることを楽しみにしております！ 第６回EBiDAN大運動会『スポーツマンヒップ！』 【千葉】LaLa arena […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』 最新チケット情報 first appeared on SUPER★DRAGON .",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
       {
         "id": "529e06a874764faf",
         "title": "『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット、『EBiDAN 15th Anniversaryオフィシャルグッズ』＆『恵比寿学園男子部 校内スナップ』通販決定！",
@@ -327,54 +498,9 @@
         ],
         "statuses": [],
         "memberMatches": []
-      },
-      {
-        "id": "91a2a4d301121007",
-        "title": "【SUPERSTAR EBiDAN】 「EBiDAN THE LIVE 2026 15th Anniversary」開催記念！ゲーム内イベント実施",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11560/",
-        "publishedAt": "2026-08-12T08:00:18.000Z",
-        "summary": "EBiDAN公式リズムゲーム『SUPERSTAR EBiDAN』では、 「EBiDAN THE LIVE 2026 15th Anniversary」の開催を記念して、期間限定のゲーム内イベントを実施いたします！ ここで […] The post 【SUPERSTAR EBiDAN】 「EBiDAN THE LIVE 2026 15th Anniversar",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
       }
     ],
     "原因は自分にある。": [
-      {
-        "id": "15fb9ee4d3775ce2",
-        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/07/89645/",
-        "publishedAt": "2026-07-24T12:00:00.000Z",
-        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
-        "groups": [
-          "原因は自分にある。",
-          "BUDDiiS"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "SHOOT",
-            "group": "BUDDiiS",
-            "status": "active"
-          }
-        ]
-      }
-    ],
-    "BUDDiiS": [
       {
         "id": "15fb9ee4d3775ce2",
         "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
