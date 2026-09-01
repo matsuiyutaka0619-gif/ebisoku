@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-09-01T05:07:21.736Z",
+  "updatedAt": "2026-09-01T11:38:57.066Z",
   "articles": [
+    {
+      "id": "32afb9a399ee7a38",
+      "title": "『ふったらどしゃぶり』シーズン2放送決定 伊藤あさひ×原因は自分にある。武藤潤が続投",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/09/post-2508342.html",
+      "publishedAt": "2026-09-01T09:00:52.000Z",
+      "summary": "伊藤あさひと武藤潤（原因は自分にある。）がW主演を務める連続ドラマ『ふったらどしゃぶり』の続編となる『ふったらどしゃぶり メロウレイン』が、11月5日よりMBSドラマ特区枠で放送されることが決定した。 本作は、一穂ミ",
+      "groups": [
+        "原因は自分にある。"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "武藤潤",
+          "group": "原因は自分にある。",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "0472097ee2768398",
+      "title": "「SUPER★DRAGON DRA FES 2026 追加公演」最新チケット情報！",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news11603/",
+      "publishedAt": "2026-09-01T09:00:32.000Z",
+      "summary": "本日9月1日(火)18:00より『+KIRARI』会員先行が受付開始。 会場で皆さんとお会いできることを楽しみにしております！ ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願いと注意事項】 http […] The post 「SUPER★DRAGON DRA FES 2026 追加公演」最新チケット情報！ first appeared",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "39531edcc8ec0a12",
       "title": "M!LK吉田仁人の“ポンパドール”ヘアが「新鮮」と話題！メガネをかけ頭からブランケットをすっぽりかぶる姿に「ビジュが限界突破しててやばい」「メロさにドキドキ」「スタイリングが天才」",
@@ -83,29 +119,6 @@
       ]
     },
     {
-      "id": "bc9ab154fce00b11",
-      "title": "EBiDAN × HIGHLIGHTコラボ企画、第二弾出演アーティストにBUDDiiS・FUMINORIが登場。「Yes! 東京」をフリースタイルのダンスパフォーマンスで一発撮り披露",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1086331",
-      "publishedAt": "2026-09-01T03:00:00.000Z",
-      "summary": "YouTubeチャンネル「THE FIRST TAKE」が送る「HIGHLIGHT」とスターダストプロモーションに所属する男性アーティスト集団・EBiDANのコラボレーション企画より、第二弾出演者が解禁された。 「HIGHLIGHT」は、YouTubeチャンネル「THE FIRST TAKE」が送るダンス・楽器演奏など様々なジャンルにフォーカスを当て、「TH",
-      "groups": [
-        "EBiDAN",
-        "BUDDiiS"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "FUMINORI",
-          "group": "BUDDiiS",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "9e7c98058a47b05c",
       "title": "M!LK塩崎太智「一番くじ ONLINE」新CM撮影で大好きな『トイ・ストーリー』の商品をほしがる「本当にほしくなっちゃいました！」",
       "sourceName": "THE FIRST TIMES",
@@ -122,28 +135,6 @@
       "memberMatches": [
         {
           "name": "塩﨑太智",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "08dc4b34f0e51b95",
-      "title": "M!LK吉田仁人の“窓越し横顔”が美しい！ジャケットやリボンタイ、デニムなど多彩なコーデで雰囲気一変「前髪あるー！」「爆イケ」「微笑みメロすぎ」「表情のギャップも魅力的」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000874003/",
-      "publishedAt": "2026-09-01T02:32:47.000Z",
-      "summary": "『smart』の公式SNSで、『smart』10月号の表紙を飾る吉田仁人（M!LK）の撮影メイキングが公開...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "吉田仁人",
           "group": "M!LK",
           "status": "active"
         }
@@ -170,21 +161,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "b3e3c0c7fa6430dc",
-      "title": "EBiDAN所属・BUDDiiS、愛を超えて全存在を大肯定するメジャー2ndシングル「無限大LOVE!!!」発売決定",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000873916/",
-      "publishedAt": "2026-09-01T01:06:06.000Z",
-      "summary": "令和に誕生した新進気鋭の9人組ダンスボーカルグループBUDDiiS（読み：バディーズ）が、11月18...",
-      "groups": [
-        "EBiDAN",
-        "BUDDiiS"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "14f98e46b0642791",
@@ -347,28 +323,6 @@
       "memberMatches": [
         {
           "name": "塩﨑太智",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "de8aaaf7bc0e5ad1",
-      "title": "吉田仁人（M!LK）が登場。「FINEBOYS+plus OYASUMI vol.2」表紙公開",
-      "sourceName": "タワーレコード ニュース",
-      "sourceUrl": "https://tower.jp/feeds/article/news",
-      "articleUrl": "https://tower.jp/article/news/2026/08/26/tgb008",
-      "publishedAt": "2026-08-26T12:00:00.000Z",
-      "summary": "",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "吉田仁人",
           "group": "M!LK",
           "status": "active"
         }
@@ -2239,20 +2193,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "bd298419212668ee",
-      "title": "「SUPER★DRAGON DRA FES 2026」開催決定！",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news10878/",
-      "publishedAt": "2026-04-19T10:59:35.000Z",
-      "summary": "「SUPER★DRAGON DRA FES 2026」 ＜公演詳細＞ 【東京】Zepp Haneda （TOKYO） 2026年9月24日(木) 【大阪】Zepp Osaka Bayside 2026年9月27日(日) […] The post 「SUPER★DRAGON DRA FES 2026」開催決定！ first appeared on SUPER★",
-      "groups": [
-        "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
     }
   ]
 }

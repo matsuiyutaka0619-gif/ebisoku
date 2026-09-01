@@ -1,26 +1,30 @@
 {
-  "updatedAt": "2026-09-01T05:07:21.738Z",
+  "updatedAt": "2026-09-01T11:38:57.069Z",
   "totals": {
-    "all": 131,
-    "today": 10,
-    "week": 19
+    "all": 128,
+    "today": 9,
+    "week": 17
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 14
+      "count": 12
     },
     {
       "name": "EBiDAN",
-      "count": 5
-    },
-    {
-      "name": "BUDDiiS",
       "count": 3
     },
     {
       "name": "SUPER★DRAGON",
-      "count": 2
+      "count": 3
+    },
+    {
+      "name": "BUDDiiS",
+      "count": 1
+    },
+    {
+      "name": "原因は自分にある。",
+      "count": 1
     }
   ],
   "memberRanking": [
@@ -30,11 +34,11 @@
     },
     {
       "name": "吉田仁人",
-      "count": 5
+      "count": 3
     },
     {
       "name": "FUMINORI",
-      "count": 2
+      "count": 1
     },
     {
       "name": "佐野勇斗",
@@ -47,28 +51,24 @@
     {
       "name": "曽野舜太",
       "count": 1
+    },
+    {
+      "name": "武藤潤",
+      "count": 1
     }
   ],
   "sourceRanking": [
     {
       "name": "THE FIRST TIMES",
-      "count": 7
+      "count": 5
+    },
+    {
+      "name": "SUPER★DRAGON 公式NEWS",
+      "count": 3
     },
     {
       "name": "マイナビニュース 芸能",
       "count": 3
-    },
-    {
-      "name": "SUPER★DRAGON 公式NEWS",
-      "count": 2
-    },
-    {
-      "name": "タワーレコード ニュース",
-      "count": 2
-    },
-    {
-      "name": "BARKS",
-      "count": 1
     },
     {
       "name": "Bezzy",
@@ -79,16 +79,151 @@
       "count": 1
     },
     {
+      "name": "タワーレコード ニュース",
+      "count": 1
+    },
+    {
       "name": "マイナビニュース エンタメ",
       "count": 1
     },
     {
       "name": "マイナビニュース テレビ",
       "count": 1
+    },
+    {
+      "name": "リアルサウンド 映画部",
+      "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
+    "原因は自分にある。": [
+      {
+        "id": "32afb9a399ee7a38",
+        "title": "『ふったらどしゃぶり』シーズン2放送決定 伊藤あさひ×原因は自分にある。武藤潤が続投",
+        "sourceName": "リアルサウンド 映画部",
+        "sourceUrl": "https://realsound.jp/movie/feed",
+        "articleUrl": "https://realsound.jp/movie/2026/09/post-2508342.html",
+        "publishedAt": "2026-09-01T09:00:52.000Z",
+        "summary": "伊藤あさひと武藤潤（原因は自分にある。）がW主演を務める連続ドラマ『ふったらどしゃぶり』の続編となる『ふったらどしゃぶり メロウレイン』が、11月5日よりMBSドラマ特区枠で放送されることが決定した。 本作は、一穂ミ",
+        "groups": [
+          "原因は自分にある。"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "武藤潤",
+            "group": "原因は自分にある。",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "15fb9ee4d3775ce2",
+        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/07/89645/",
+        "publishedAt": "2026-07-24T12:00:00.000Z",
+        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
+        "groups": [
+          "原因は自分にある。",
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "SUPER★DRAGON": [
+      {
+        "id": "0472097ee2768398",
+        "title": "「SUPER★DRAGON DRA FES 2026 追加公演」最新チケット情報！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11603/",
+        "publishedAt": "2026-09-01T09:00:32.000Z",
+        "summary": "本日9月1日(火)18:00より『+KIRARI』会員先行が受付開始。 会場で皆さんとお会いできることを楽しみにしております！ ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願いと注意事項】 http […] The post 「SUPER★DRAGON DRA FES 2026 追加公演」最新チケット情報！ first appeared",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "7277b3cf409678c0",
+        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』 最新チケット情報",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11600/",
+        "publishedAt": "2026-08-31T09:30:16.000Z",
+        "summary": "本日8月31日(月)18:00よりEBiDAN先行受付開始！ 皆さんとお会いできることを楽しみにしております！ 第６回EBiDAN大運動会『スポーツマンヒップ！』 【千葉】LaLa arena […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』 最新チケット情報 first appeared on SUPER★DRAGON .",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "529e06a874764faf",
+        "title": "『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット、『EBiDAN 15th Anniversaryオフィシャルグッズ』＆『恵比寿学園男子部 校内スナップ』通販決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11580/",
+        "publishedAt": "2026-08-27T09:15:19.000Z",
+        "summary": "『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット、『EBiDAN 15th Anniversaryオフィシャルグッズ』＆『恵比寿学園男子部 校内スナップ』通販 […] The post 『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット、",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "a02364c0b1bd5a80",
+        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』開催決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11576/",
+        "publishedAt": "2026-08-23T03:00:22.000Z",
+        "summary": "EBiDAN大運動会『スポーツマンヒップ！』6回目の開催が決定！ 第6回は入所順でのグループ対抗戦！！ スポーツの秋…あの日の同期が、今日だけの夢のチームとなるEBiDAN大運動会を、是非一緒に見届けましょう […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』開催決定！ first appeared on SUPER★DRAGON ",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "ab97f608347cc9bf",
+        "title": "SUPER★DRAGON「DRA FES 2026」オフィシャルグッズ、ミニ生写真セット 事前通販のお知らせ",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11568/",
+        "publishedAt": "2026-08-19T08:00:32.000Z",
+        "summary": "2026年9月24日(木)東京、9月27日(日)大阪にて開催される、 SUPER★DRAGON「DRA FES 2026」公演に先駆けて、スタダ便にてオフィシャルグッズ、ミニ生写真セットの事前通販が決定いたしました！ 龍 […] The post SUPER★DRAGON「DRA FES 2026」オフィシャルグッズ、ミニ生写真セット 事前通販のお知らせ f",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
     "M!LK": [
       {
         "id": "39531edcc8ec0a12",
@@ -171,13 +306,13 @@
         ]
       },
       {
-        "id": "08dc4b34f0e51b95",
-        "title": "M!LK吉田仁人の“窓越し横顔”が美しい！ジャケットやリボンタイ、デニムなど多彩なコーデで雰囲気一変「前髪あるー！」「爆イケ」「微笑みメロすぎ」「表情のギャップも魅力的」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000874003/",
-        "publishedAt": "2026-09-01T02:32:47.000Z",
-        "summary": "『smart』の公式SNSで、『smart』10月号の表紙を飾る吉田仁人（M!LK）の撮影メイキングが公開...",
+        "id": "98bb5c67c4842eca",
+        "title": "M!LK吉田仁人、メンバーに十何年「チェスト」と言い続けるも…「誰も意味を聞いてこない」",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20260901-4897658/",
+        "publishedAt": "2026-09-01T02:00:00.000Z",
+        "summary": "「十何年と言い続けているのに、誰も意味を聞いてこないんです(笑)」――M!LKの吉田仁人が、13日に放送されるテレビ西日本・フジテレビ系バラエティ特番『方言だけでニッポンどこメシ?』(16:05～)に出演。“薩摩大使”を務める地元・鹿児島県の方言を紹介し、M!LKメンバーに覚えてほしい言葉も明かす。",
         "groups": [
           "M!LK"
         ],
@@ -217,167 +352,6 @@
           }
         ]
       },
-      {
-        "id": "bc9ab154fce00b11",
-        "title": "EBiDAN × HIGHLIGHTコラボ企画、第二弾出演アーティストにBUDDiiS・FUMINORIが登場。「Yes! 東京」をフリースタイルのダンスパフォーマンスで一発撮り披露",
-        "sourceName": "BARKS",
-        "sourceUrl": "https://www.barks.jp/feed/",
-        "articleUrl": "https://barks.jp/news/1086331",
-        "publishedAt": "2026-09-01T03:00:00.000Z",
-        "summary": "YouTubeチャンネル「THE FIRST TAKE」が送る「HIGHLIGHT」とスターダストプロモーションに所属する男性アーティスト集団・EBiDANのコラボレーション企画より、第二弾出演者が解禁された。 「HIGHLIGHT」は、YouTubeチャンネル「THE FIRST TAKE」が送るダンス・楽器演奏など様々なジャンルにフォーカスを当て、「TH",
-        "groups": [
-          "EBiDAN",
-          "BUDDiiS"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "FUMINORI",
-            "group": "BUDDiiS",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "b3e3c0c7fa6430dc",
-        "title": "EBiDAN所属・BUDDiiS、愛を超えて全存在を大肯定するメジャー2ndシングル「無限大LOVE!!!」発売決定",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000873916/",
-        "publishedAt": "2026-09-01T01:06:06.000Z",
-        "summary": "令和に誕生した新進気鋭の9人組ダンスボーカルグループBUDDiiS（読み：バディーズ）が、11月18...",
-        "groups": [
-          "EBiDAN",
-          "BUDDiiS"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "7277b3cf409678c0",
-        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』 最新チケット情報",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11600/",
-        "publishedAt": "2026-08-31T09:30:16.000Z",
-        "summary": "本日8月31日(月)18:00よりEBiDAN先行受付開始！ 皆さんとお会いできることを楽しみにしております！ 第６回EBiDAN大運動会『スポーツマンヒップ！』 【千葉】LaLa arena […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』 最新チケット情報 first appeared on SUPER★DRAGON .",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "529e06a874764faf",
-        "title": "『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット、『EBiDAN 15th Anniversaryオフィシャルグッズ』＆『恵比寿学園男子部 校内スナップ』通販決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11580/",
-        "publishedAt": "2026-08-27T09:15:19.000Z",
-        "summary": "『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット、『EBiDAN 15th Anniversaryオフィシャルグッズ』＆『恵比寿学園男子部 校内スナップ』通販 […] The post 『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット、",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "BUDDiiS": [
-      {
-        "id": "0f6072b4767fdf35",
-        "title": "EBiDAN×HIGHLIGHTコラボ第2弾に“奇跡の31歳”BUDDiiS・FUMINORIが登場！一発撮りダンスを披露",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000873955/",
-        "publishedAt": "2026-09-01T03:00:49.000Z",
-        "summary": "15周年を迎えたスターダストプロモーションに所属する男性アーティスト集団・EBiDANと『THE FI...",
-        "groups": [
-          "EBiDAN",
-          "BUDDiiS"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "FUMINORI",
-            "group": "BUDDiiS",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "bc9ab154fce00b11",
-        "title": "EBiDAN × HIGHLIGHTコラボ企画、第二弾出演アーティストにBUDDiiS・FUMINORIが登場。「Yes! 東京」をフリースタイルのダンスパフォーマンスで一発撮り披露",
-        "sourceName": "BARKS",
-        "sourceUrl": "https://www.barks.jp/feed/",
-        "articleUrl": "https://barks.jp/news/1086331",
-        "publishedAt": "2026-09-01T03:00:00.000Z",
-        "summary": "YouTubeチャンネル「THE FIRST TAKE」が送る「HIGHLIGHT」とスターダストプロモーションに所属する男性アーティスト集団・EBiDANのコラボレーション企画より、第二弾出演者が解禁された。 「HIGHLIGHT」は、YouTubeチャンネル「THE FIRST TAKE」が送るダンス・楽器演奏など様々なジャンルにフォーカスを当て、「TH",
-        "groups": [
-          "EBiDAN",
-          "BUDDiiS"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "FUMINORI",
-            "group": "BUDDiiS",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "b3e3c0c7fa6430dc",
-        "title": "EBiDAN所属・BUDDiiS、愛を超えて全存在を大肯定するメジャー2ndシングル「無限大LOVE!!!」発売決定",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000873916/",
-        "publishedAt": "2026-09-01T01:06:06.000Z",
-        "summary": "令和に誕生した新進気鋭の9人組ダンスボーカルグループBUDDiiS（読み：バディーズ）が、11月18...",
-        "groups": [
-          "EBiDAN",
-          "BUDDiiS"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "15fb9ee4d3775ce2",
-        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/07/89645/",
-        "publishedAt": "2026-07-24T12:00:00.000Z",
-        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
-        "groups": [
-          "原因は自分にある。",
-          "BUDDiiS"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "SHOOT",
-            "group": "BUDDiiS",
-            "status": "active"
-          }
-        ]
-      }
-    ],
-    "SUPER★DRAGON": [
       {
         "id": "7277b3cf409678c0",
         "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』 最新チケット情報",
@@ -424,35 +398,45 @@
         "memberMatches": []
       },
       {
-        "id": "ab97f608347cc9bf",
-        "title": "SUPER★DRAGON「DRA FES 2026」オフィシャルグッズ、ミニ生写真セット 事前通販のお知らせ",
+        "id": "91a2a4d301121007",
+        "title": "【SUPERSTAR EBiDAN】 「EBiDAN THE LIVE 2026 15th Anniversary」開催記念！ゲーム内イベント実施",
         "sourceName": "SUPER★DRAGON 公式NEWS",
         "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11568/",
-        "publishedAt": "2026-08-19T08:00:32.000Z",
-        "summary": "2026年9月24日(木)東京、9月27日(日)大阪にて開催される、 SUPER★DRAGON「DRA FES 2026」公演に先駆けて、スタダ便にてオフィシャルグッズ、ミニ生写真セットの事前通販が決定いたしました！ 龍 […] The post SUPER★DRAGON「DRA FES 2026」オフィシャルグッズ、ミニ生写真セット 事前通販のお知らせ f",
+        "articleUrl": "https://super-dragon.jp/news/news11560/",
+        "publishedAt": "2026-08-12T08:00:18.000Z",
+        "summary": "EBiDAN公式リズムゲーム『SUPERSTAR EBiDAN』では、 「EBiDAN THE LIVE 2026 15th Anniversary」の開催を記念して、期間限定のゲーム内イベントを実施いたします！ ここで […] The post 【SUPERSTAR EBiDAN】 「EBiDAN THE LIVE 2026 15th Anniversar",
         "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "9d2289f2fe4ea4b6",
-        "title": "「SUPER★DRAGON DRA FES 2026 追加公演」最新チケット情報",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11564/",
-        "publishedAt": "2026-08-18T09:00:46.000Z",
-        "summary": "本日8月18日(火)18:00よりオフィシャルファンクラブ『AREA SD』会員2次先行が受付開始。 会場で皆さんとお会いできることを楽しみにしております！ ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴 […] The post 「SUPER★DRAGON DRA FES 2026 追加公演」最新チケット情報 first appeared ",
-        "groups": [
+          "EBiDAN",
           "SUPER★DRAGON"
         ],
         "statuses": [],
         "memberMatches": []
       }
     ],
-    "原因は自分にある。": [
+    "BUDDiiS": [
+      {
+        "id": "0f6072b4767fdf35",
+        "title": "EBiDAN×HIGHLIGHTコラボ第2弾に“奇跡の31歳”BUDDiiS・FUMINORIが登場！一発撮りダンスを披露",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000873955/",
+        "publishedAt": "2026-09-01T03:00:49.000Z",
+        "summary": "15周年を迎えたスターダストプロモーションに所属する男性アーティスト集団・EBiDANと『THE FI...",
+        "groups": [
+          "EBiDAN",
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "FUMINORI",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
+      },
       {
         "id": "15fb9ee4d3775ce2",
         "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
