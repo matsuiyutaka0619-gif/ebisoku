@@ -1,78 +1,209 @@
 {
-  "updatedAt": "2026-08-31T22:50:17.050Z",
+  "updatedAt": "2026-09-01T05:07:21.736Z",
   "articles": [
     {
-      "id": "b46612ddf86ce650",
-      "title": "BUDDiiS、“ヒーロー”がテーマのメジャー2ndシングル「無限大LOVE!!!」リリース決定＆新アー写公開",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1086266",
-      "publishedAt": "2026-08-31T12:00:00.000Z",
-      "summary": "BUDDiiSが、2026年11月18日にメジャー2ndシングル「無限大LOVE!!!」をリリースすることを発表した。 本作は、愛より大きな肯定をあなたに届ける“ヒーロー”をテーマに制作。ポジティブソング「無限大LOVE!!!」をはじめ、多様なジャンルの楽曲を詰め込んだメジャー2ndシングルになるとのことだ。 また、新アーティスト写真も公開された。こちらもヒ",
-      "groups": [
-        "BUDDiiS"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "66fe3c1fb6ea56ca",
-      "title": "SixTONES、次回『CDTVライブ！ライブ！』で新曲「マイオンリー」を歌唱！EBiDAN、AKB48、T.M.Revolutionはおかわりライブ",
+      "id": "39531edcc8ec0a12",
+      "title": "M!LK吉田仁人の“ポンパドール”ヘアが「新鮮」と話題！メガネをかけ頭からブランケットをすっぽりかぶる姿に「ビジュが限界突破しててやばい」「メロさにドキドキ」「スタイリングが天才」",
       "sourceName": "THE FIRST TIMES",
       "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000873736/",
-      "publishedAt": "2026-08-31T11:55:45.000Z",
-      "summary": "9月7日19時から放送のTBS『CDTVライブ！ライブ！』の出演者、歌唱楽曲が発表された。 ■出演ア...",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000874148/",
+      "publishedAt": "2026-09-01T05:00:53.000Z",
+      "summary": "M!LKの吉田仁人が表紙を飾る『FINEBOYS+plus OYASUMI vol.2』が8月31日に発売。『FINEBOYS』の...",
       "groups": [
-        "EBiDAN"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "dd2a6f2d94286769",
-      "title": "Lienel、メジャー2ndシングル「愛のダバダ」のアー写＆通常盤アートワーク公開。“とめどなく溢れる愛”をテーマにした情熱的なビジュアルに",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1086220",
-      "publishedAt": "2026-08-31T11:00:00.000Z",
-      "summary": "Lienelが、2026年10月21日にリリースするメジャー2ndシングル「愛のダバダ」のアーティスト写真と通常盤アートワークを公開した。 真紅の衣装を身に纏った6人が、バラを口に咥えた横顔や一輪のバラを差し出す姿など、さまざまな表情やポージングで「愛のダバダ」の世界観を表現。ソロビジュアルでは、メンバーそれぞれの個性と魅力を引き出しながら、6人それぞれの「",
-      "groups": [
-        "M!LK",
-        "Lienel"
+        "M!LK"
       ],
       "statuses": [
         "active"
       ],
       "memberMatches": [
         {
-          "name": "芳賀柊斗",
-          "group": "Lienel",
+          "name": "吉田仁人",
+          "group": "M!LK",
           "status": "active"
-        },
+        }
+      ]
+    },
+    {
+      "id": "43c9c51a3750a1d1",
+      "title": "M!LKとTOMORROW X TOGETHERが“滅ポーズ”！10人並んだ華やかオフショットに「最強5人組アイドルの夢コラボ」「イケメン過多で滅」「画面割れるほどビジュイイじゃん」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000873895/",
+      "publishedAt": "2026-09-01T03:54:40.000Z",
+      "summary": "M!LKとTOMORROW X TOGETHER（トゥモロー・バイ・トゥギャザー）が、テレビ朝日系『ミュージッ...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "0a5a0c7977531b46",
+      "title": "M!LK塩﨑太智が黒幕に吸い込まれ4人で救出する爆笑の“友情パレード”ダンス披露！「かくれんぼしちゃってる（笑）」「見守る4人がメロい」「吉田さんのテンションが高い神回」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000873945/",
+      "publishedAt": "2026-09-01T03:42:23.000Z",
+      "summary": "M!LK公式TikTokで、メンバー5人全員による「You!Joy!Parade!」ダンス動画が公開された。 ■“プ...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
         {
-          "name": "近藤駿太",
-          "group": "Lienel",
+          "name": "塩﨑太智",
+          "group": "M!LK",
           "status": "active"
-        },
+        }
+      ]
+    },
+    {
+      "id": "0f6072b4767fdf35",
+      "title": "EBiDAN×HIGHLIGHTコラボ第2弾に“奇跡の31歳”BUDDiiS・FUMINORIが登場！一発撮りダンスを披露",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000873955/",
+      "publishedAt": "2026-09-01T03:00:49.000Z",
+      "summary": "15周年を迎えたスターダストプロモーションに所属する男性アーティスト集団・EBiDANと『THE FI...",
+      "groups": [
+        "EBiDAN",
+        "BUDDiiS"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
         {
-          "name": "高岡ミロ",
-          "group": "Lienel",
+          "name": "FUMINORI",
+          "group": "BUDDiiS",
           "status": "active"
-        },
+        }
+      ]
+    },
+    {
+      "id": "bc9ab154fce00b11",
+      "title": "EBiDAN × HIGHLIGHTコラボ企画、第二弾出演アーティストにBUDDiiS・FUMINORIが登場。「Yes! 東京」をフリースタイルのダンスパフォーマンスで一発撮り披露",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1086331",
+      "publishedAt": "2026-09-01T03:00:00.000Z",
+      "summary": "YouTubeチャンネル「THE FIRST TAKE」が送る「HIGHLIGHT」とスターダストプロモーションに所属する男性アーティスト集団・EBiDANのコラボレーション企画より、第二弾出演者が解禁された。 「HIGHLIGHT」は、YouTubeチャンネル「THE FIRST TAKE」が送るダンス・楽器演奏など様々なジャンルにフォーカスを当て、「TH",
+      "groups": [
+        "EBiDAN",
+        "BUDDiiS"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
         {
-          "name": "森田璃空",
-          "group": "Lienel",
+          "name": "FUMINORI",
+          "group": "BUDDiiS",
           "status": "active"
-        },
+        }
+      ]
+    },
+    {
+      "id": "9e7c98058a47b05c",
+      "title": "M!LK塩崎太智「一番くじ ONLINE」新CM撮影で大好きな『トイ・ストーリー』の商品をほしがる「本当にほしくなっちゃいました！」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000874043/",
+      "publishedAt": "2026-09-01T02:55:37.000Z",
+      "summary": "M!LKの塩崎太智（※「崎」は、たつさきが正式表記）が出演する、「一番くじ ONLINE」新CM「一番...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
         {
-          "name": "武田創世",
-          "group": "Lienel",
+          "name": "塩﨑太智",
+          "group": "M!LK",
           "status": "active"
-        },
+        }
+      ]
+    },
+    {
+      "id": "08dc4b34f0e51b95",
+      "title": "M!LK吉田仁人の“窓越し横顔”が美しい！ジャケットやリボンタイ、デニムなど多彩なコーデで雰囲気一変「前髪あるー！」「爆イケ」「微笑みメロすぎ」「表情のギャップも魅力的」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000874003/",
+      "publishedAt": "2026-09-01T02:32:47.000Z",
+      "summary": "『smart』の公式SNSで、『smart』10月号の表紙を飾る吉田仁人（M!LK）の撮影メイキングが公開...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
         {
-          "name": "高桑真之",
-          "group": "Lienel",
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "98bb5c67c4842eca",
+      "title": "M!LK吉田仁人、メンバーに十何年「チェスト」と言い続けるも…「誰も意味を聞いてこない」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260901-4897658/",
+      "publishedAt": "2026-09-01T02:00:00.000Z",
+      "summary": "「十何年と言い続けているのに、誰も意味を聞いてこないんです(笑)」――M!LKの吉田仁人が、13日に放送されるテレビ西日本・フジテレビ系バラエティ特番『方言だけでニッポンどこメシ?』(16:05～)に出演。“薩摩大使”を務める地元・鹿児島県の方言を紹介し、M!LKメンバーに覚えてほしい言葉も明かす。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "b3e3c0c7fa6430dc",
+      "title": "EBiDAN所属・BUDDiiS、愛を超えて全存在を大肯定するメジャー2ndシングル「無限大LOVE!!!」発売決定",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000873916/",
+      "publishedAt": "2026-09-01T01:06:06.000Z",
+      "summary": "令和に誕生した新進気鋭の9人組ダンスボーカルグループBUDDiiS（読み：バディーズ）が、11月18...",
+      "groups": [
+        "EBiDAN",
+        "BUDDiiS"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "14f98e46b0642791",
+      "title": "塩﨑太智『一番くじ』新TVCMに初出演！グラスの水がこぼれるほどガタガタと震えから元気良さまで",
+      "sourceName": "Edge Line",
+      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/204379",
+      "publishedAt": "2026-09-01T01:00:29.000Z",
+      "summary": "アイドルグループ『M!LK』塩﨑太智が9月7日より全国放送となる株式会社 BANDAI SPIRITS ロト・イノベーション事業部の展開するキャラクターくじ『一番くじ』の新TVCM『一番くじ ONLINE 塩﨑太智がみ...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "塩﨑太智",
+          "group": "M!LK",
           "status": "active"
         }
       ]
@@ -105,28 +236,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "072542d6d85f8ac7",
-      "title": "M!LK山中柔太朗が“ノリノリ”でカメラに接近＆思わず笑顔になる4人！ロング丈の衣装で踊る5人に「テンション高い柔ちゃん最高」「みんなニコニコでかわいい」「さのその何してるの？w」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000873583/",
-      "publishedAt": "2026-08-31T06:41:13.000Z",
-      "summary": "M!LKの公式TikTokが更新。5人がカラフルな衣装で「You!Joy!Parade!」を踊る姿が公開された。 ■...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "山中柔太朗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "9bd202ff9447600b",
