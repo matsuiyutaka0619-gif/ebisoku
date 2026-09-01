@@ -1,22 +1,22 @@
 {
-  "updatedAt": "2026-09-01T11:38:57.069Z",
+  "updatedAt": "2026-09-01T16:40:13.739Z",
   "totals": {
-    "all": 128,
-    "today": 9,
-    "week": 17
+    "all": 126,
+    "today": 0,
+    "week": 15
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 12
-    },
-    {
-      "name": "EBiDAN",
-      "count": 3
+      "count": 10
     },
     {
       "name": "SUPER★DRAGON",
       "count": 3
+    },
+    {
+      "name": "EBiDAN",
+      "count": 2
     },
     {
       "name": "BUDDiiS",
@@ -30,18 +30,18 @@
   "memberRanking": [
     {
       "name": "塩﨑太智",
-      "count": 7
+      "count": 4
     },
     {
       "name": "吉田仁人",
       "count": 3
     },
     {
-      "name": "FUMINORI",
-      "count": 1
+      "name": "佐野勇斗",
+      "count": 2
     },
     {
-      "name": "佐野勇斗",
+      "name": "FUMINORI",
       "count": 1
     },
     {
@@ -59,16 +59,20 @@
   ],
   "sourceRanking": [
     {
-      "name": "THE FIRST TIMES",
-      "count": 5
-    },
-    {
       "name": "SUPER★DRAGON 公式NEWS",
       "count": 3
     },
     {
-      "name": "マイナビニュース 芸能",
+      "name": "THE FIRST TIMES",
       "count": 3
+    },
+    {
+      "name": "マイナビニュース 芸能",
+      "count": 2
+    },
+    {
+      "name": "リアルサウンド 映画部",
+      "count": 2
     },
     {
       "name": "Bezzy",
@@ -89,14 +93,166 @@
     {
       "name": "マイナビニュース テレビ",
       "count": 1
-    },
-    {
-      "name": "リアルサウンド 映画部",
-      "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
+    "M!LK": [
+      {
+        "id": "679ca947d2148bfd",
+        "title": "『君の好きは無敵』佐野勇斗が“王子様”から“野獣”へ 振り幅で際立つ“好き”の強さ",
+        "sourceName": "リアルサウンド 映画部",
+        "sourceUrl": "https://realsound.jp/movie/feed",
+        "articleUrl": "https://realsound.jp/movie/2026/09/post-2509755.html",
+        "publishedAt": "2026-09-01T14:10:28.000Z",
+        "summary": "王子様が野獣に戻るまで、そう時間はかからなかった。 キャラクターデザイナーを引退する祖母・門戸鞠子（白石加代子）から贈られた「好きを貫き、大事なものは自分の手で守り抜け」という言葉に背中を押され、杏奈（松本若菜）にプ",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "39531edcc8ec0a12",
+        "title": "M!LK吉田仁人の“ポンパドール”ヘアが「新鮮」と話題！メガネをかけ頭からブランケットをすっぽりかぶる姿に「ビジュが限界突破しててやばい」「メロさにドキドキ」「スタイリングが天才」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000874148/",
+        "publishedAt": "2026-09-01T05:00:53.000Z",
+        "summary": "M!LKの吉田仁人が表紙を飾る『FINEBOYS+plus OYASUMI vol.2』が8月31日に発売。『FINEBOYS』の...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "43c9c51a3750a1d1",
+        "title": "M!LKとTOMORROW X TOGETHERが“滅ポーズ”！10人並んだ華やかオフショットに「最強5人組アイドルの夢コラボ」「イケメン過多で滅」「画面割れるほどビジュイイじゃん」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000873895/",
+        "publishedAt": "2026-09-01T03:54:40.000Z",
+        "summary": "M!LKとTOMORROW X TOGETHER（トゥモロー・バイ・トゥギャザー）が、テレビ朝日系『ミュージッ...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "98bb5c67c4842eca",
+        "title": "M!LK吉田仁人、メンバーに十何年「チェスト」と言い続けるも…「誰も意味を聞いてこない」",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20260901-4897658/",
+        "publishedAt": "2026-09-01T02:00:00.000Z",
+        "summary": "「十何年と言い続けているのに、誰も意味を聞いてこないんです(笑)」――M!LKの吉田仁人が、13日に放送されるテレビ西日本・フジテレビ系バラエティ特番『方言だけでニッポンどこメシ?』(16:05～)に出演。“薩摩大使”を務める地元・鹿児島県の方言を紹介し、M!LKメンバーに覚えてほしい言葉も明かす。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "14f98e46b0642791",
+        "title": "塩﨑太智『一番くじ』新TVCMに初出演！グラスの水がこぼれるほどガタガタと震えから元気良さまで",
+        "sourceName": "Edge Line",
+        "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+        "articleUrl": "https://www.edgeline-tokyo.com/entertainment/204379",
+        "publishedAt": "2026-09-01T01:00:29.000Z",
+        "summary": "アイドルグループ『M!LK』塩﨑太智が9月7日より全国放送となる株式会社 BANDAI SPIRITS ロト・イノベーション事業部の展開するキャラクターくじ『一番くじ』の新TVCM『一番くじ ONLINE 塩﨑太智がみ...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "BUDDiiS": [
+      {
+        "id": "389c19864696a930",
+        "title": "FUMINORI (BUDDiiS) – Yes! 東京 [BUDDiiS FUMINORI ver.] -HIGHLIGHT Remix- / HIGHLIGHT",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/highlight/0000874533/",
+        "publishedAt": "2026-09-01T13:00:53.000Z",
+        "summary": "「HIGHLIGHT」は、一発撮りで多様な才能の“個の輝き”を鮮明に切り取る新シリーズ。BUDDiiSより...",
+        "groups": [
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "FUMINORI",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "15fb9ee4d3775ce2",
+        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/07/89645/",
+        "publishedAt": "2026-07-24T12:00:00.000Z",
+        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
+        "groups": [
+          "原因は自分にある。",
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
+      }
+    ],
     "原因は自分にある。": [
       {
         "id": "32afb9a399ee7a38",
@@ -224,134 +380,7 @@
         "memberMatches": []
       }
     ],
-    "M!LK": [
-      {
-        "id": "39531edcc8ec0a12",
-        "title": "M!LK吉田仁人の“ポンパドール”ヘアが「新鮮」と話題！メガネをかけ頭からブランケットをすっぽりかぶる姿に「ビジュが限界突破しててやばい」「メロさにドキドキ」「スタイリングが天才」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000874148/",
-        "publishedAt": "2026-09-01T05:00:53.000Z",
-        "summary": "M!LKの吉田仁人が表紙を飾る『FINEBOYS+plus OYASUMI vol.2』が8月31日に発売。『FINEBOYS』の...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "43c9c51a3750a1d1",
-        "title": "M!LKとTOMORROW X TOGETHERが“滅ポーズ”！10人並んだ華やかオフショットに「最強5人組アイドルの夢コラボ」「イケメン過多で滅」「画面割れるほどビジュイイじゃん」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000873895/",
-        "publishedAt": "2026-09-01T03:54:40.000Z",
-        "summary": "M!LKとTOMORROW X TOGETHER（トゥモロー・バイ・トゥギャザー）が、テレビ朝日系『ミュージッ...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "0a5a0c7977531b46",
-        "title": "M!LK塩﨑太智が黒幕に吸い込まれ4人で救出する爆笑の“友情パレード”ダンス披露！「かくれんぼしちゃってる（笑）」「見守る4人がメロい」「吉田さんのテンションが高い神回」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000873945/",
-        "publishedAt": "2026-09-01T03:42:23.000Z",
-        "summary": "M!LK公式TikTokで、メンバー5人全員による「You!Joy!Parade!」ダンス動画が公開された。 ■“プ...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "9e7c98058a47b05c",
-        "title": "M!LK塩崎太智「一番くじ ONLINE」新CM撮影で大好きな『トイ・ストーリー』の商品をほしがる「本当にほしくなっちゃいました！」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000874043/",
-        "publishedAt": "2026-09-01T02:55:37.000Z",
-        "summary": "M!LKの塩崎太智（※「崎」は、たつさきが正式表記）が出演する、「一番くじ ONLINE」新CM「一番...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "98bb5c67c4842eca",
-        "title": "M!LK吉田仁人、メンバーに十何年「チェスト」と言い続けるも…「誰も意味を聞いてこない」",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20260901-4897658/",
-        "publishedAt": "2026-09-01T02:00:00.000Z",
-        "summary": "「十何年と言い続けているのに、誰も意味を聞いてこないんです(笑)」――M!LKの吉田仁人が、13日に放送されるテレビ西日本・フジテレビ系バラエティ特番『方言だけでニッポンどこメシ?』(16:05～)に出演。“薩摩大使”を務める地元・鹿児島県の方言を紹介し、M!LKメンバーに覚えてほしい言葉も明かす。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      }
-    ],
     "EBiDAN": [
-      {
-        "id": "0f6072b4767fdf35",
-        "title": "EBiDAN×HIGHLIGHTコラボ第2弾に“奇跡の31歳”BUDDiiS・FUMINORIが登場！一発撮りダンスを披露",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000873955/",
-        "publishedAt": "2026-09-01T03:00:49.000Z",
-        "summary": "15周年を迎えたスターダストプロモーションに所属する男性アーティスト集団・EBiDANと『THE FI...",
-        "groups": [
-          "EBiDAN",
-          "BUDDiiS"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "FUMINORI",
-            "group": "BUDDiiS",
-            "status": "active"
-          }
-        ]
-      },
       {
         "id": "7277b3cf409678c0",
         "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』 最新チケット情報",
@@ -411,59 +440,21 @@
         ],
         "statuses": [],
         "memberMatches": []
-      }
-    ],
-    "BUDDiiS": [
-      {
-        "id": "0f6072b4767fdf35",
-        "title": "EBiDAN×HIGHLIGHTコラボ第2弾に“奇跡の31歳”BUDDiiS・FUMINORIが登場！一発撮りダンスを披露",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000873955/",
-        "publishedAt": "2026-09-01T03:00:49.000Z",
-        "summary": "15周年を迎えたスターダストプロモーションに所属する男性アーティスト集団・EBiDANと『THE FI...",
-        "groups": [
-          "EBiDAN",
-          "BUDDiiS"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "FUMINORI",
-            "group": "BUDDiiS",
-            "status": "active"
-          }
-        ]
       },
       {
-        "id": "15fb9ee4d3775ce2",
-        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/07/89645/",
-        "publishedAt": "2026-07-24T12:00:00.000Z",
-        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
+        "id": "1ad5810b4c9a0a8b",
+        "title": "本日8月11日(火・祝)発売、 EBiDAN15周年記念シングル「Yes! 東京」のを公開！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11555/",
+        "publishedAt": "2026-08-11T08:30:18.000Z",
+        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して、本日8月11日(火・祝)にリリースされたシングル「Yes! 東京」のMaking Lyric Videoを公開！ 本日公開された映像は、4日間に渡って撮影されたMu […] The post 本日8月11日(火・祝)発売、 EBiDAN15周年記念シングル「Yes! 東京」の を公開！ first ap",
         "groups": [
-          "原因は自分にある。",
-          "BUDDiiS"
+          "EBiDAN",
+          "SUPER★DRAGON"
         ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "SHOOT",
-            "group": "BUDDiiS",
-            "status": "active"
-          }
-        ]
+        "statuses": [],
+        "memberMatches": []
       }
     ],
     "超特急": [
