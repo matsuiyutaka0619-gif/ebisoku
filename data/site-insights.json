@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-01T16:40:13.739Z",
+  "updatedAt": "2026-09-01T21:02:05.028Z",
   "totals": {
-    "all": 126,
+    "all": 125,
     "today": 0,
-    "week": 15
+    "week": 14
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 10
+      "count": 9
     },
     {
       "name": "SUPER★DRAGON",
@@ -64,7 +64,7 @@
     },
     {
       "name": "THE FIRST TIMES",
-      "count": 3
+      "count": 2
     },
     {
       "name": "マイナビニュース 芸能",
@@ -143,20 +143,6 @@
         ]
       },
       {
-        "id": "43c9c51a3750a1d1",
-        "title": "M!LKとTOMORROW X TOGETHERが“滅ポーズ”！10人並んだ華やかオフショットに「最強5人組アイドルの夢コラボ」「イケメン過多で滅」「画面割れるほどビジュイイじゃん」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000873895/",
-        "publishedAt": "2026-09-01T03:54:40.000Z",
-        "summary": "M!LKとTOMORROW X TOGETHER（トゥモロー・バイ・トゥギャザー）が、テレビ朝日系『ミュージッ...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
         "id": "98bb5c67c4842eca",
         "title": "M!LK吉田仁人、メンバーに十何年「チェスト」と言い続けるも…「誰も意味を聞いてこない」",
         "sourceName": "マイナビニュース エンタメ",
@@ -199,6 +185,20 @@
             "status": "active"
           }
         ]
+      },
+      {
+        "id": "0737bfd30535fad0",
+        "title": "M!LK、9月16日リリースの1stミニ・アルバム『LOVE ENG!NE』収録曲公開。リード曲“時空超えてユニバース”先行配信決定",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/08/31/tg008",
+        "publishedAt": "2026-08-31T10:45:05.000Z",
+        "summary": "",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
       }
     ],
     "BUDDiiS": [
