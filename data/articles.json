@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-09-02T11:17:54.935Z",
+  "updatedAt": "2026-09-02T16:34:26.610Z",
   "articles": [
+    {
+      "id": "47f16c975ff422cd",
+      "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news11607/",
+      "publishedAt": "2026-09-02T12:34:24.000Z",
+      "summary": "平素より株式会社SDR所属アーティストへの温かいご声援を賜り、誠にありがとうございます。 DISH//、EBiDAN（超特急、M!LK、SUPER★DRAGON、Sakurashimeji、ONE N’ ON […] The post グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ first appeared on SUPER★DRAGO",
+      "groups": [
+        "EBiDAN",
+        "超特急",
+        "M!LK",
+        "SUPER★DRAGON",
+        "Sakurashimeji"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "7008f568c0920641",
       "title": "「すごく苦手で…」「実はずっと…」M!LK塩崎太智、25年間ずっと“勘違い”していたこと",
@@ -2077,28 +2095,6 @@
       "articleUrl": "https://super-dragon.jp/news/news10891/",
       "publishedAt": "2026-04-28T09:59:36.000Z",
       "summary": "本日、2026年4月28日(火)に22歳を迎えた柴崎楽の誕生日を記念して、 バースデーPHOTO SET&プロデュースグッズの販売が決定しました！ 今年のプロデュースグッズは、手書きイラストが刺繍されたヘアバンド […] The post 【バースデーグッズ】柴崎楽22歳 バースデーPHOTO SET＆プロデュースグッズ スタダ便受注販売決定！ first ",
-      "groups": [
-        "SUPER★DRAGON"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "柴崎楽",
-          "group": "SUPER★DRAGON",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "3a18d6b40a9c6dae",
-      "title": "「RAKU 22nd BIRTHDAY SCRATCH」開催決定！！",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news10888/",
-      "publishedAt": "2026-04-27T11:59:35.000Z",
-      "summary": "柴崎楽 22歳の誕生日を記念した「RAKU 22nd BIRTHDAY SCRATCH」開催が決定いたしました！ ぜひアクセスしてみてください！！ ▼柴崎楽［楽の世界］ https://fanicon.net/fanco […] The post 「RAKU 22nd BIRTHDAY SCRATCH」開催決定！！ first appeared on SUP",
       "groups": [
         "SUPER★DRAGON"
       ],
