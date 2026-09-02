@@ -1,47 +1,104 @@
 {
-  "updatedAt": "2026-09-02T04:33:03.474Z",
+  "updatedAt": "2026-09-02T11:17:54.935Z",
   "articles": [
     {
-      "id": "62b5dc3c861fa545",
-      "title": "【独占写真有】BUDDiiS・FUMINORI「“アイドル”としてEBiDANや自分を誇りに思っている」“FUMINORIワールド”を貫いた『HIGHLIGHT』",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/column/0000873869/",
-      "publishedAt": "2026-09-02T03:00:21.000Z",
-      "summary": "『THE FIRST TAKE』から派生したコンテンツ『HIGHLIGHT』。今回登場するのは、BUDDiiSのリーダ...",
+      "id": "7008f568c0920641",
+      "title": "「すごく苦手で…」「実はずっと…」M!LK塩崎太智、25年間ずっと“勘違い”していたこと",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260902-4901000/",
+      "publishedAt": "2026-09-02T11:00:00.000Z",
+      "summary": "アイドルグループ・M!LKの塩崎太智(崎はたつさき)が出演する、BANDAI SPIRITS・一番くじの新CM「一番くじONLINE 塩﨑太智がみんなとスマホでペリペリ」編が、7日から全国で順次放映される。",
       "groups": [
-        "EBiDAN",
-        "BUDDiiS"
+        "M!LK"
       ],
       "statuses": [
         "active"
       ],
       "memberMatches": [
         {
-          "name": "FUMINORI",
-          "group": "BUDDiiS",
+          "name": "塩﨑太智",
+          "group": "M!LK",
           "status": "active"
         }
       ]
     },
     {
-      "id": "389c19864696a930",
-      "title": "FUMINORI (BUDDiiS) – Yes! 東京 [BUDDiiS FUMINORI ver.] -HIGHLIGHT Remix- / HIGHLIGHT",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/highlight/0000874533/",
-      "publishedAt": "2026-09-01T13:00:53.000Z",
-      "summary": "「HIGHLIGHT」は、一発撮りで多様な才能の“個の輝き”を鮮明に切り取る新シリーズ。BUDDiiSより...",
+      "id": "fa3b5b73821e757f",
+      "title": "「心温まりました」「お兄ちゃんのために…」M!LK曽野舜太と妹の“兄妹愛”にファン感動 気象予報士試験の受験を終えて周囲への感謝も",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260902-4905413/",
+      "publishedAt": "2026-09-02T10:00:00.000Z",
+      "summary": "「ええやつや……」M!LKの曽野舜太が、自身のYouTubeチャンネル「I'm 曽野舜太」を更新。気象予報士試験当日の様子を公開し、妹から贈られた手紙や、受験を通して感じた周囲への感謝を語った。",
       "groups": [
-        "BUDDiiS"
+        "M!LK"
       ],
       "statuses": [
         "active"
       ],
       "memberMatches": [
         {
-          "name": "FUMINORI",
-          "group": "BUDDiiS",
+          "name": "曽野舜太",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "82bf8ba42e8d53f0",
+      "title": "M!LK5人が“王子様すぎる”きらびやか衣装＆凛々しい表情で横一列に並ぶ！「好きすぎて滅！」“3億回再生突破”記念ビジュアルに「とんでもない数字」「ビジュ良すぎて目が幸せ」など反響殺到",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000874914/",
+      "publishedAt": "2026-09-02T05:58:30.000Z",
+      "summary": "M!LKの楽曲「好きすぎて滅！」の累計ストリーミング再生数が3億回を突破。M!LKの公式SNSで記念...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "b37494af2c81f510",
+      "title": "M!LK塩﨑太智のむちゃぶりお題にメンバーが大困惑！大げさなジェスチャーで表現する大喜利大会に「嘘泣き舜ちゃんかわいい」「大ちゃん一生懸命テーマ考えてる（笑）」「戸惑う4人が面白い」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000874572/",
+      "publishedAt": "2026-09-02T05:05:38.000Z",
+      "summary": "M!LK公式TikTokで、メンバーが「爆裂愛してる」の“ば・く・れ・つ”にのせて4文字で大喜利する...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "塩﨑太智",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "dc4f5ae8df756a91",
+      "title": "M!LK吉田仁人がニッコニコでK-POPダンス披露！TOMORROW X TOGETHERとのコラボに「笑顔かわいい」「吉田さんダンスうますぎ」「M!LKと違う雰囲気の振りが新鮮」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000874646/",
+      "publishedAt": "2026-09-02T04:57:42.000Z",
+      "summary": "TOMORROW X TOGETHER（トゥモロー・バイ・トゥギャザー）公式TikTokに、M!LKの吉田仁人が登場...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
           "status": "active"
         }
       ]
@@ -225,28 +282,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "11f21b68eb550b5d",
-      "title": "「ダメですよ!」「皆さん…」M!LK塩崎太智、報道陣にまさかの“呼びかけ” 全力ジェスチャー&ダンス披露",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260826-4871396/",
-      "publishedAt": "2026-08-26T14:00:00.000Z",
-      "summary": "M!LKの塩崎太智(※崎はたつさき)が26日、都内で行われたマクドナルドの新商品発表イベントに、＝LOVEの佐々木舞香とともに登壇。新商品の試食を懸けたジェスチャーゲームに挑戦し、会場を盛り上げた。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "塩﨑太智",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "a02364c0b1bd5a80",
