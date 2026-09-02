@@ -1,30 +1,26 @@
 {
-  "updatedAt": "2026-09-01T21:02:05.028Z",
+  "updatedAt": "2026-09-02T04:33:03.477Z",
   "totals": {
-    "all": 125,
-    "today": 0,
-    "week": 14
+    "all": 122,
+    "today": 1,
+    "week": 12
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 9
+      "count": 7
+    },
+    {
+      "name": "EBiDAN",
+      "count": 3
     },
     {
       "name": "SUPER★DRAGON",
       "count": 3
     },
     {
-      "name": "EBiDAN",
-      "count": 2
-    },
-    {
       "name": "BUDDiiS",
-      "count": 1
-    },
-    {
-      "name": "原因は自分にある。",
-      "count": 1
+      "count": 2
     }
   ],
   "memberRanking": [
@@ -33,15 +29,15 @@
       "count": 4
     },
     {
-      "name": "吉田仁人",
-      "count": 3
-    },
-    {
-      "name": "佐野勇斗",
+      "name": "FUMINORI",
       "count": 2
     },
     {
-      "name": "FUMINORI",
+      "name": "吉田仁人",
+      "count": 2
+    },
+    {
+      "name": "佐野勇斗",
       "count": 1
     },
     {
@@ -50,10 +46,6 @@
     },
     {
       "name": "曽野舜太",
-      "count": 1
-    },
-    {
-      "name": "武藤潤",
       "count": 1
     }
   ],
@@ -67,11 +59,11 @@
       "count": 2
     },
     {
-      "name": "マイナビニュース 芸能",
+      "name": "マイナビニュース テレビ",
       "count": 2
     },
     {
-      "name": "リアルサウンド 映画部",
+      "name": "マイナビニュース 芸能",
       "count": 2
     },
     {
@@ -85,123 +77,119 @@
     {
       "name": "タワーレコード ニュース",
       "count": 1
-    },
-    {
-      "name": "マイナビニュース エンタメ",
-      "count": 1
-    },
-    {
-      "name": "マイナビニュース テレビ",
-      "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
-    "M!LK": [
+    "EBiDAN": [
       {
-        "id": "679ca947d2148bfd",
-        "title": "『君の好きは無敵』佐野勇斗が“王子様”から“野獣”へ 振り幅で際立つ“好き”の強さ",
-        "sourceName": "リアルサウンド 映画部",
-        "sourceUrl": "https://realsound.jp/movie/feed",
-        "articleUrl": "https://realsound.jp/movie/2026/09/post-2509755.html",
-        "publishedAt": "2026-09-01T14:10:28.000Z",
-        "summary": "王子様が野獣に戻るまで、そう時間はかからなかった。 キャラクターデザイナーを引退する祖母・門戸鞠子（白石加代子）から贈られた「好きを貫き、大事なものは自分の手で守り抜け」という言葉に背中を押され、杏奈（松本若菜）にプ",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "39531edcc8ec0a12",
-        "title": "M!LK吉田仁人の“ポンパドール”ヘアが「新鮮」と話題！メガネをかけ頭からブランケットをすっぽりかぶる姿に「ビジュが限界突破しててやばい」「メロさにドキドキ」「スタイリングが天才」",
+        "id": "62b5dc3c861fa545",
+        "title": "【独占写真有】BUDDiiS・FUMINORI「“アイドル”としてEBiDANや自分を誇りに思っている」“FUMINORIワールド”を貫いた『HIGHLIGHT』",
         "sourceName": "THE FIRST TIMES",
         "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000874148/",
-        "publishedAt": "2026-09-01T05:00:53.000Z",
-        "summary": "M!LKの吉田仁人が表紙を飾る『FINEBOYS+plus OYASUMI vol.2』が8月31日に発売。『FINEBOYS』の...",
+        "articleUrl": "https://www.thefirsttimes.jp/column/0000873869/",
+        "publishedAt": "2026-09-02T03:00:21.000Z",
+        "summary": "『THE FIRST TAKE』から派生したコンテンツ『HIGHLIGHT』。今回登場するのは、BUDDiiSのリーダ...",
         "groups": [
-          "M!LK"
+          "EBiDAN",
+          "BUDDiiS"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "吉田仁人",
-            "group": "M!LK",
+            "name": "FUMINORI",
+            "group": "BUDDiiS",
             "status": "active"
           }
         ]
       },
       {
-        "id": "98bb5c67c4842eca",
-        "title": "M!LK吉田仁人、メンバーに十何年「チェスト」と言い続けるも…「誰も意味を聞いてこない」",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20260901-4897658/",
-        "publishedAt": "2026-09-01T02:00:00.000Z",
-        "summary": "「十何年と言い続けているのに、誰も意味を聞いてこないんです(笑)」――M!LKの吉田仁人が、13日に放送されるテレビ西日本・フジテレビ系バラエティ特番『方言だけでニッポンどこメシ?』(16:05～)に出演。“薩摩大使”を務める地元・鹿児島県の方言を紹介し、M!LKメンバーに覚えてほしい言葉も明かす。",
+        "id": "7277b3cf409678c0",
+        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』 最新チケット情報",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11600/",
+        "publishedAt": "2026-08-31T09:30:16.000Z",
+        "summary": "本日8月31日(月)18:00よりEBiDAN先行受付開始！ 皆さんとお会いできることを楽しみにしております！ 第６回EBiDAN大運動会『スポーツマンヒップ！』 【千葉】LaLa arena […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』 最新チケット情報 first appeared on SUPER★DRAGON .",
         "groups": [
-          "M!LK"
+          "EBiDAN",
+          "SUPER★DRAGON"
         ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
+        "statuses": [],
+        "memberMatches": []
       },
       {
-        "id": "14f98e46b0642791",
-        "title": "塩﨑太智『一番くじ』新TVCMに初出演！グラスの水がこぼれるほどガタガタと震えから元気良さまで",
-        "sourceName": "Edge Line",
-        "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-        "articleUrl": "https://www.edgeline-tokyo.com/entertainment/204379",
-        "publishedAt": "2026-09-01T01:00:29.000Z",
-        "summary": "アイドルグループ『M!LK』塩﨑太智が9月7日より全国放送となる株式会社 BANDAI SPIRITS ロト・イノベーション事業部の展開するキャラクターくじ『一番くじ』の新TVCM『一番くじ ONLINE 塩﨑太智がみ...",
+        "id": "529e06a874764faf",
+        "title": "『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット、『EBiDAN 15th Anniversaryオフィシャルグッズ』＆『恵比寿学園男子部 校内スナップ』通販決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11580/",
+        "publishedAt": "2026-08-27T09:15:19.000Z",
+        "summary": "『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット、『EBiDAN 15th Anniversaryオフィシャルグッズ』＆『恵比寿学園男子部 校内スナップ』通販 […] The post 『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット、",
         "groups": [
-          "M!LK"
+          "EBiDAN",
+          "SUPER★DRAGON"
         ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
+        "statuses": [],
+        "memberMatches": []
       },
       {
-        "id": "0737bfd30535fad0",
-        "title": "M!LK、9月16日リリースの1stミニ・アルバム『LOVE ENG!NE』収録曲公開。リード曲“時空超えてユニバース”先行配信決定",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/08/31/tg008",
-        "publishedAt": "2026-08-31T10:45:05.000Z",
-        "summary": "",
+        "id": "a02364c0b1bd5a80",
+        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』開催決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11576/",
+        "publishedAt": "2026-08-23T03:00:22.000Z",
+        "summary": "EBiDAN大運動会『スポーツマンヒップ！』6回目の開催が決定！ 第6回は入所順でのグループ対抗戦！！ スポーツの秋…あの日の同期が、今日だけの夢のチームとなるEBiDAN大運動会を、是非一緒に見届けましょう […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』開催決定！ first appeared on SUPER★DRAGON ",
         "groups": [
-          "M!LK"
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "91a2a4d301121007",
+        "title": "【SUPERSTAR EBiDAN】 「EBiDAN THE LIVE 2026 15th Anniversary」開催記念！ゲーム内イベント実施",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11560/",
+        "publishedAt": "2026-08-12T08:00:18.000Z",
+        "summary": "EBiDAN公式リズムゲーム『SUPERSTAR EBiDAN』では、 「EBiDAN THE LIVE 2026 15th Anniversary」の開催を記念して、期間限定のゲーム内イベントを実施いたします！ ここで […] The post 【SUPERSTAR EBiDAN】 「EBiDAN THE LIVE 2026 15th Anniversar",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
         ],
         "statuses": [],
         "memberMatches": []
       }
     ],
     "BUDDiiS": [
+      {
+        "id": "62b5dc3c861fa545",
+        "title": "【独占写真有】BUDDiiS・FUMINORI「“アイドル”としてEBiDANや自分を誇りに思っている」“FUMINORIワールド”を貫いた『HIGHLIGHT』",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/column/0000873869/",
+        "publishedAt": "2026-09-02T03:00:21.000Z",
+        "summary": "『THE FIRST TAKE』から派生したコンテンツ『HIGHLIGHT』。今回登場するのは、BUDDiiSのリーダ...",
+        "groups": [
+          "EBiDAN",
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "FUMINORI",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
+      },
       {
         "id": "389c19864696a930",
         "title": "FUMINORI (BUDDiiS) – Yes! 東京 [BUDDiiS FUMINORI ver.] -HIGHLIGHT Remix- / HIGHLIGHT",
@@ -220,58 +208,6 @@
           {
             "name": "FUMINORI",
             "group": "BUDDiiS",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "15fb9ee4d3775ce2",
-        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/07/89645/",
-        "publishedAt": "2026-07-24T12:00:00.000Z",
-        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
-        "groups": [
-          "原因は自分にある。",
-          "BUDDiiS"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "SHOOT",
-            "group": "BUDDiiS",
-            "status": "active"
-          }
-        ]
-      }
-    ],
-    "原因は自分にある。": [
-      {
-        "id": "32afb9a399ee7a38",
-        "title": "『ふったらどしゃぶり』シーズン2放送決定 伊藤あさひ×原因は自分にある。武藤潤が続投",
-        "sourceName": "リアルサウンド 映画部",
-        "sourceUrl": "https://realsound.jp/movie/feed",
-        "articleUrl": "https://realsound.jp/movie/2026/09/post-2508342.html",
-        "publishedAt": "2026-09-01T09:00:52.000Z",
-        "summary": "伊藤あさひと武藤潤（原因は自分にある。）がW主演を務める連続ドラマ『ふったらどしゃぶり』の続編となる『ふったらどしゃぶり メロウレイン』が、11月5日よりMBSドラマ特区枠で放送されることが決定した。 本作は、一穂ミ",
-        "groups": [
-          "原因は自分にある。"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "武藤潤",
-            "group": "原因は自分にある。",
             "status": "active"
           }
         ]
@@ -380,81 +316,158 @@
         "memberMatches": []
       }
     ],
-    "EBiDAN": [
+    "M!LK": [
       {
-        "id": "7277b3cf409678c0",
-        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』 最新チケット情報",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11600/",
-        "publishedAt": "2026-08-31T09:30:16.000Z",
-        "summary": "本日8月31日(月)18:00よりEBiDAN先行受付開始！ 皆さんとお会いできることを楽しみにしております！ 第６回EBiDAN大運動会『スポーツマンヒップ！』 【千葉】LaLa arena […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』 最新チケット情報 first appeared on SUPER★DRAGON .",
+        "id": "98bb5c67c4842eca",
+        "title": "M!LK吉田仁人、メンバーに十何年「チェスト」と言い続けるも…「誰も意味を聞いてこない」",
+        "sourceName": "マイナビニュース テレビ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
+        "articleUrl": "https://news.mynavi.jp/article/20260901-4897658/",
+        "publishedAt": "2026-09-01T02:00:00.000Z",
+        "summary": "「十何年と言い続けているのに、誰も意味を聞いてこないんです(笑)」――M!LKの吉田仁人が、13日に放送されるテレビ西日本・フジテレビ系バラエティ特番『方言だけでニッポンどこメシ?』(16:05～)に出演。“薩摩大使”を務める地元・鹿児島県の方言を紹介し、M!LKメンバーに覚えてほしい言葉も明かす。",
         "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "14f98e46b0642791",
+        "title": "塩﨑太智『一番くじ』新TVCMに初出演！グラスの水がこぼれるほどガタガタと震えから元気良さまで",
+        "sourceName": "Edge Line",
+        "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+        "articleUrl": "https://www.edgeline-tokyo.com/entertainment/204379",
+        "publishedAt": "2026-09-01T01:00:29.000Z",
+        "summary": "アイドルグループ『M!LK』塩﨑太智が9月7日より全国放送となる株式会社 BANDAI SPIRITS ロト・イノベーション事業部の展開するキャラクターくじ『一番くじ』の新TVCM『一番くじ ONLINE 塩﨑太智がみ...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "0737bfd30535fad0",
+        "title": "M!LK、9月16日リリースの1stミニ・アルバム『LOVE ENG!NE』収録曲公開。リード曲“時空超えてユニバース”先行配信決定",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/08/31/tg008",
+        "publishedAt": "2026-08-31T10:45:05.000Z",
+        "summary": "",
+        "groups": [
+          "M!LK"
         ],
         "statuses": [],
         "memberMatches": []
       },
       {
-        "id": "529e06a874764faf",
-        "title": "『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット、『EBiDAN 15th Anniversaryオフィシャルグッズ』＆『恵比寿学園男子部 校内スナップ』通販決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11580/",
-        "publishedAt": "2026-08-27T09:15:19.000Z",
-        "summary": "『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット、『EBiDAN 15th Anniversaryオフィシャルグッズ』＆『恵比寿学園男子部 校内スナップ』通販 […] The post 『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット、",
+        "id": "9bd202ff9447600b",
+        "title": "M!LK塩崎太智「歴史に残るめざましじゃんけんを」『めざましテレビ』9月エンタメプレゼンター、メンバーには未報告",
+        "sourceName": "マイナビニュース テレビ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
+        "articleUrl": "https://news.mynavi.jp/article/20260831-4885999/",
+        "publishedAt": "2026-08-30T22:00:00.000Z",
+        "summary": "「歴史に残るめざましじゃんけんをしたいと思います(笑)」――。フジテレビ系情報番組『めざましテレビ』(毎週月～金曜5:25～)に、M!LKの塩崎太智が9月のマンスリーエンタメプレゼンターとして出演する(※生出演は9日・17日・29日を予定)。念願だったという大役に「めちゃくちゃうれしすぎて滅!」と喜びながら、メンバーにはまだ就任を伝えていないことも明かした。",
         "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
+          "M!LK"
         ],
-        "statuses": [],
-        "memberMatches": []
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
       },
       {
-        "id": "a02364c0b1bd5a80",
-        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』開催決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11576/",
-        "publishedAt": "2026-08-23T03:00:22.000Z",
-        "summary": "EBiDAN大運動会『スポーツマンヒップ！』6回目の開催が決定！ 第6回は入所順でのグループ対抗戦！！ スポーツの秋…あの日の同期が、今日だけの夢のチームとなるEBiDAN大運動会を、是非一緒に見届けましょう […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』開催決定！ first appeared on SUPER★DRAGON ",
+        "id": "5a8eb9a06c1c63b3",
+        "title": "日曜トライアル 第40回 「5人の時間を…」「楽しすぎて…」M!LKの個人YouTubeを見ていて感じたこと それぞれが口にするグループの“絆”",
+        "sourceName": "マイナビニュース 芸能",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
+        "articleUrl": "https://news.mynavi.jp/article/sunday_trial-40/",
+        "publishedAt": "2026-08-30T10:00:00.000Z",
+        "summary": "「イイじゃん」が大ヒットし、昨年末には『第76回NHK紅白歌合戦』への初出場を果たした5人組ダンスボーカルグループ・M!LK。結成から10年以上を経て、グループとして大きな飛躍を遂げる一方、最近では佐野勇斗に続き山中柔太朗、曽野舜太がそれぞれ個人YouTubeチャンネルを開設し、塩崎太智と吉田仁人も『じんだいチャンネル』を約4年半ぶりに復活させるなど、You",
         "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
+          "M!LK"
         ],
-        "statuses": [],
-        "memberMatches": []
-      },
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "原因は自分にある。": [
       {
-        "id": "91a2a4d301121007",
-        "title": "【SUPERSTAR EBiDAN】 「EBiDAN THE LIVE 2026 15th Anniversary」開催記念！ゲーム内イベント実施",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11560/",
-        "publishedAt": "2026-08-12T08:00:18.000Z",
-        "summary": "EBiDAN公式リズムゲーム『SUPERSTAR EBiDAN』では、 「EBiDAN THE LIVE 2026 15th Anniversary」の開催を記念して、期間限定のゲーム内イベントを実施いたします！ ここで […] The post 【SUPERSTAR EBiDAN】 「EBiDAN THE LIVE 2026 15th Anniversar",
+        "id": "15fb9ee4d3775ce2",
+        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/07/89645/",
+        "publishedAt": "2026-07-24T12:00:00.000Z",
+        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
         "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
+          "原因は自分にある。",
+          "BUDDiiS"
         ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "1ad5810b4c9a0a8b",
-        "title": "本日8月11日(火・祝)発売、 EBiDAN15周年記念シングル「Yes! 東京」のを公開！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11555/",
-        "publishedAt": "2026-08-11T08:30:18.000Z",
-        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して、本日8月11日(火・祝)にリリースされたシングル「Yes! 東京」のMaking Lyric Videoを公開！ 本日公開された映像は、4日間に渡って撮影されたMu […] The post 本日8月11日(火・祝)発売、 EBiDAN15周年記念シングル「Yes! 東京」の を公開！ first ap",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
+        "statuses": [
+          "active"
         ],
-        "statuses": [],
-        "memberMatches": []
+        "memberMatches": [
+          {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
       }
     ],
     "超特急": [
