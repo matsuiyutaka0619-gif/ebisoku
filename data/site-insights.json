@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-02T16:34:26.612Z",
+  "updatedAt": "2026-09-02T21:02:44.182Z",
   "totals": {
-    "all": 124,
-    "today": 0,
-    "week": 15
+    "all": 126,
+    "today": 4,
+    "week": 17
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 12
+      "count": 14
     },
     {
       "name": "SUPER★DRAGON",
@@ -29,12 +29,16 @@
   ],
   "memberRanking": [
     {
-      "name": "塩﨑太智",
+      "name": "山中柔太朗",
       "count": 5
     },
     {
+      "name": "塩﨑太智",
+      "count": 4
+    },
+    {
       "name": "吉田仁人",
-      "count": 3
+      "count": 2
     },
     {
       "name": "曽野舜太",
@@ -42,10 +46,6 @@
     },
     {
       "name": "佐野勇斗",
-      "count": 1
-    },
-    {
-      "name": "山中柔太朗",
       "count": 1
     }
   ],
@@ -55,11 +55,11 @@
       "count": 4
     },
     {
-      "name": "THE FIRST TIMES",
+      "name": "マイナビニュース エンタメ",
       "count": 3
     },
     {
-      "name": "マイナビニュース エンタメ",
+      "name": "THE FIRST TIMES",
       "count": 2
     },
     {
@@ -75,16 +75,132 @@
       "count": 1
     },
     {
+      "name": "ENCOUNT",
+      "count": 1
+    },
+    {
       "name": "タワーレコード ニュース",
       "count": 1
     },
     {
       "name": "マイナビニュース 芸能",
       "count": 1
+    },
+    {
+      "name": "リアルサウンド 映画部",
+      "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
+    "M!LK": [
+      {
+        "id": "38afdbe90bac692c",
+        "title": "山中柔太朗がGP帯連ドラ初レギュラー 『いろはの恋は時代をかける』で小学校の教師役に",
+        "sourceName": "リアルサウンド 映画部",
+        "sourceUrl": "https://realsound.jp/movie/feed",
+        "articleUrl": "https://realsound.jp/movie/2026/09/post-2510886.html",
+        "publishedAt": "2026-09-02T20:00:25.000Z",
+        "summary": "上白石萌音が主演を務める10月期のTBS火曜ドラマ『いろはの恋は時代をかける』に、山中柔太朗が出演することが決定した。 本作は、令和の小学校教師の身体に江戸娘の魂がタイムスリップしたことから始まる、300年の時を超え",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "1f049702b8eb8d30",
+        "title": "山中柔太朗、上白石萌音×向井康二が送る時代を越えるロマンティックコメディ『いろはの恋は時代（とき）をかける』に出演決定",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000875124/",
+        "publishedAt": "2026-09-02T20:00:15.000Z",
+        "summary": "山中柔太朗が、TBSで10月から放送される火曜ドラマ『いろはの恋は時代（とき）をかける』（毎...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "3ff3bda26f6d639a",
+        "title": "M!LK・山中柔太朗がGP帯連ドラ初レギュラー決定 - 上白石萌音主演『いろはの恋は時代をかける』時代を越えるロマンティックコメディ",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20260903-4906357/",
+        "publishedAt": "2026-09-02T20:00:00.000Z",
+        "summary": "M!LKの山中柔太朗が、10月からスタートするTBS系火曜ドラマ『いろはの恋は時代(とき)をかける』(毎週火曜22:00～)に出演することが発表された。山中にとってGP(ゴールデン・プライム)帯連続ドラマへのレギュラー出演は初となる。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "6160cfac652d1bb2",
+        "title": "山中柔太朗、GP帯連ドラ初レギュラー 上白石萌音主演作で熱血＆メンタル強い新米教師役に",
+        "sourceName": "ENCOUNT",
+        "sourceUrl": "https://encount.press/feed/",
+        "articleUrl": "https://encount.press/archives/1059196/",
+        "publishedAt": "2026-09-02T20:00:00.000Z",
+        "summary": "山中柔太朗が、10月にスタートするTBS系連続ドラマ『いろはの恋は時代をかける』（火曜午後10時）に出演することが、3日に発表された。山中がGP帯の連続ドラマにレギュラー出演するのは初となる。上白石萌音主演のロマンティッ […]",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "47f16c975ff422cd",
+        "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11607/",
+        "publishedAt": "2026-09-02T12:34:24.000Z",
+        "summary": "平素より株式会社SDR所属アーティストへの温かいご声援を賜り、誠にありがとうございます。 DISH//、EBiDAN（超特急、M!LK、SUPER★DRAGON、Sakurashimeji、ONE N’ ON […] The post グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ first appeared on SUPER★DRAGO",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK",
+          "SUPER★DRAGON",
+          "Sakurashimeji"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
     "EBiDAN": [
       {
         "id": "47f16c975ff422cd",
@@ -222,106 +338,6 @@
         ],
         "statuses": [],
         "memberMatches": []
-      }
-    ],
-    "M!LK": [
-      {
-        "id": "47f16c975ff422cd",
-        "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11607/",
-        "publishedAt": "2026-09-02T12:34:24.000Z",
-        "summary": "平素より株式会社SDR所属アーティストへの温かいご声援を賜り、誠にありがとうございます。 DISH//、EBiDAN（超特急、M!LK、SUPER★DRAGON、Sakurashimeji、ONE N’ ON […] The post グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ first appeared on SUPER★DRAGO",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK",
-          "SUPER★DRAGON",
-          "Sakurashimeji"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "7008f568c0920641",
-        "title": "「すごく苦手で…」「実はずっと…」M!LK塩崎太智、25年間ずっと“勘違い”していたこと",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20260902-4901000/",
-        "publishedAt": "2026-09-02T11:00:00.000Z",
-        "summary": "アイドルグループ・M!LKの塩崎太智(崎はたつさき)が出演する、BANDAI SPIRITS・一番くじの新CM「一番くじONLINE 塩﨑太智がみんなとスマホでペリペリ」編が、7日から全国で順次放映される。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "fa3b5b73821e757f",
-        "title": "「心温まりました」「お兄ちゃんのために…」M!LK曽野舜太と妹の“兄妹愛”にファン感動 気象予報士試験の受験を終えて周囲への感謝も",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20260902-4905413/",
-        "publishedAt": "2026-09-02T10:00:00.000Z",
-        "summary": "「ええやつや……」M!LKの曽野舜太が、自身のYouTubeチャンネル「I'm 曽野舜太」を更新。気象予報士試験当日の様子を公開し、妹から贈られた手紙や、受験を通して感じた周囲への感謝を語った。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "82bf8ba42e8d53f0",
-        "title": "M!LK5人が“王子様すぎる”きらびやか衣装＆凛々しい表情で横一列に並ぶ！「好きすぎて滅！」“3億回再生突破”記念ビジュアルに「とんでもない数字」「ビジュ良すぎて目が幸せ」など反響殺到",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000874914/",
-        "publishedAt": "2026-09-02T05:58:30.000Z",
-        "summary": "M!LKの楽曲「好きすぎて滅！」の累計ストリーミング再生数が3億回を突破。M!LKの公式SNSで記念...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "b37494af2c81f510",
-        "title": "M!LK塩﨑太智のむちゃぶりお題にメンバーが大困惑！大げさなジェスチャーで表現する大喜利大会に「嘘泣き舜ちゃんかわいい」「大ちゃん一生懸命テーマ考えてる（笑）」「戸惑う4人が面白い」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000874572/",
-        "publishedAt": "2026-09-02T05:05:38.000Z",
-        "summary": "M!LK公式TikTokで、メンバーが「爆裂愛してる」の“ば・く・れ・つ”にのせて4文字で大喜利する...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
       }
     ],
     "SUPER★DRAGON": [
