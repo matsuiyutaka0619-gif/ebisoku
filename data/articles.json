@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-02T21:02:44.180Z",
+  "updatedAt": "2026-09-03T04:33:18.820Z",
   "articles": [
     {
-      "id": "38afdbe90bac692c",
-      "title": "山中柔太朗がGP帯連ドラ初レギュラー 『いろはの恋は時代をかける』で小学校の教師役に",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/09/post-2510886.html",
-      "publishedAt": "2026-09-02T20:00:25.000Z",
-      "summary": "上白石萌音が主演を務める10月期のTBS火曜ドラマ『いろはの恋は時代をかける』に、山中柔太朗が出演することが決定した。 本作は、令和の小学校教師の身体に江戸娘の魂がタイムスリップしたことから始まる、300年の時を超え",
+      "id": "5fd7346b5fdcbbc7",
+      "title": "M!LK吉田仁人＆塩﨑太智の“遊び心全開”コーデがかわいすぎる！牛のかぶりもの＆もふもふ手足に「トムジェリみたい」「世界観がどタイプ」「額に入れて飾りたい」カラフルなベレー帽×メガネ姿も",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000875381/",
+      "publishedAt": "2026-09-03T03:44:17.000Z",
+      "summary": "M!LKの吉田仁人と塩崎太智（「崎」はたつさきが正式表記）のスタイリングを手がけたスタイリス...",
       "groups": [
         "M!LK"
       ],
@@ -17,11 +17,30 @@
       ],
       "memberMatches": [
         {
-          "name": "山中柔太朗",
+          "name": "塩﨑太智",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "吉田仁人",
           "group": "M!LK",
           "status": "active"
         }
       ]
+    },
+    {
+      "id": "467c436cba5d31b0",
+      "title": "EBiDANが大事にしてきた“自分らしさ”とは一体何なのか？ 15年の歴史の先で結実した2026年の大きな飛躍",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/09/post-2510833.html",
+      "publishedAt": "2026-09-03T03:15:20.000Z",
+      "summary": "EBiDAN（恵比寿学園男子部）による、年に一度の大集結ライブ『EBiDAN THE LIVE 2026 15th Anniversary』（『エビライ』）が、8月13日から16日に国立代々木競技場 第一体育館にて開催。初の4DAYS公演より「2学期」となる、8月14日公演の模様をレポートする。",
+      "groups": [
+        "EBiDAN"
+      ],
+      "statuses": [],
+      "memberMatches": []
     },
     {
       "id": "1f049702b8eb8d30",
@@ -68,28 +87,6 @@
       ]
     },
     {
-      "id": "6160cfac652d1bb2",
-      "title": "山中柔太朗、GP帯連ドラ初レギュラー 上白石萌音主演作で熱血＆メンタル強い新米教師役に",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1059196/",
-      "publishedAt": "2026-09-02T20:00:00.000Z",
-      "summary": "山中柔太朗が、10月にスタートするTBS系連続ドラマ『いろはの恋は時代をかける』（火曜午後10時）に出演することが、3日に発表された。山中がGP帯の連続ドラマにレギュラー出演するのは初となる。上白石萌音主演のロマンティッ […]",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "山中柔太朗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "47f16c975ff422cd",
       "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
       "sourceName": "SUPER★DRAGON 公式NEWS",
@@ -110,8 +107,8 @@
     {
       "id": "7008f568c0920641",
       "title": "「すごく苦手で…」「実はずっと…」M!LK塩崎太智、25年間ずっと“勘違い”していたこと",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260902-4901000/",
       "publishedAt": "2026-09-02T11:00:00.000Z",
       "summary": "アイドルグループ・M!LKの塩崎太智(崎はたつさき)が出演する、BANDAI SPIRITS・一番くじの新CM「一番くじONLINE 塩﨑太智がみんなとスマホでペリペリ」編が、7日から全国で順次放映される。",
@@ -128,42 +125,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "fa3b5b73821e757f",
-      "title": "「心温まりました」「お兄ちゃんのために…」M!LK曽野舜太と妹の“兄妹愛”にファン感動 気象予報士試験の受験を終えて周囲への感謝も",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-      "articleUrl": "https://news.mynavi.jp/article/20260902-4905413/",
-      "publishedAt": "2026-09-02T10:00:00.000Z",
-      "summary": "「ええやつや……」M!LKの曽野舜太が、自身のYouTubeチャンネル「I'm 曽野舜太」を更新。気象予報士試験当日の様子を公開し、妹から贈られた手紙や、受験を通して感じた周囲への感謝を語った。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "曽野舜太",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "82bf8ba42e8d53f0",
-      "title": "M!LK5人が“王子様すぎる”きらびやか衣装＆凛々しい表情で横一列に並ぶ！「好きすぎて滅！」“3億回再生突破”記念ビジュアルに「とんでもない数字」「ビジュ良すぎて目が幸せ」など反響殺到",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000874914/",
-      "publishedAt": "2026-09-02T05:58:30.000Z",
-      "summary": "M!LKの楽曲「好きすぎて滅！」の累計ストリーミング再生数が3億回を突破。M!LKの公式SNSで記念...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "0472097ee2768398",
@@ -196,28 +157,6 @@
       "memberMatches": [
         {
           "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "14f98e46b0642791",
-      "title": "塩﨑太智『一番くじ』新TVCMに初出演！グラスの水がこぼれるほどガタガタと震えから元気良さまで",
-      "sourceName": "Edge Line",
-      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/204379",
-      "publishedAt": "2026-09-01T01:00:29.000Z",
-      "summary": "アイドルグループ『M!LK』塩﨑太智が9月7日より全国放送となる株式会社 BANDAI SPIRITS ロト・イノベーション事業部の展開するキャラクターくじ『一番くじ』の新TVCM『一番くじ ONLINE 塩﨑太智がみ...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "塩﨑太智",
           "group": "M!LK",
           "status": "active"
         }

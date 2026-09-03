@@ -1,22 +1,22 @@
 {
-  "updatedAt": "2026-09-02T21:02:44.182Z",
+  "updatedAt": "2026-09-03T04:33:18.822Z",
   "totals": {
-    "all": 126,
+    "all": 123,
     "today": 4,
-    "week": 17
+    "week": 14
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 14
+      "count": 10
+    },
+    {
+      "name": "EBiDAN",
+      "count": 4
     },
     {
       "name": "SUPER★DRAGON",
       "count": 4
-    },
-    {
-      "name": "EBiDAN",
-      "count": 3
     },
     {
       "name": "Sakurashimeji",
@@ -29,23 +29,23 @@
   ],
   "memberRanking": [
     {
-      "name": "山中柔太朗",
-      "count": 5
-    },
-    {
       "name": "塩﨑太智",
       "count": 4
     },
     {
       "name": "吉田仁人",
-      "count": 2
+      "count": 3
     },
     {
-      "name": "曽野舜太",
-      "count": 2
+      "name": "山中柔太朗",
+      "count": 3
     },
     {
       "name": "佐野勇斗",
+      "count": 1
+    },
+    {
+      "name": "曽野舜太",
       "count": 1
     }
   ],
@@ -53,10 +53,6 @@
     {
       "name": "SUPER★DRAGON 公式NEWS",
       "count": 4
-    },
-    {
-      "name": "マイナビニュース エンタメ",
-      "count": 3
     },
     {
       "name": "THE FIRST TIMES",
@@ -67,15 +63,11 @@
       "count": 2
     },
     {
+      "name": "マイナビニュース 芸能",
+      "count": 2
+    },
+    {
       "name": "Bezzy",
-      "count": 1
-    },
-    {
-      "name": "Edge Line",
-      "count": 1
-    },
-    {
-      "name": "ENCOUNT",
       "count": 1
     },
     {
@@ -83,11 +75,11 @@
       "count": 1
     },
     {
-      "name": "マイナビニュース 芸能",
+      "name": "マイナビニュース エンタメ",
       "count": 1
     },
     {
-      "name": "リアルサウンド 映画部",
+      "name": "リアルサウンド 音楽",
       "count": 1
     }
   ],
@@ -95,13 +87,13 @@
   "recentByGroup": {
     "M!LK": [
       {
-        "id": "38afdbe90bac692c",
-        "title": "山中柔太朗がGP帯連ドラ初レギュラー 『いろはの恋は時代をかける』で小学校の教師役に",
-        "sourceName": "リアルサウンド 映画部",
-        "sourceUrl": "https://realsound.jp/movie/feed",
-        "articleUrl": "https://realsound.jp/movie/2026/09/post-2510886.html",
-        "publishedAt": "2026-09-02T20:00:25.000Z",
-        "summary": "上白石萌音が主演を務める10月期のTBS火曜ドラマ『いろはの恋は時代をかける』に、山中柔太朗が出演することが決定した。 本作は、令和の小学校教師の身体に江戸娘の魂がタイムスリップしたことから始まる、300年の時を超え",
+        "id": "5fd7346b5fdcbbc7",
+        "title": "M!LK吉田仁人＆塩﨑太智の“遊び心全開”コーデがかわいすぎる！牛のかぶりもの＆もふもふ手足に「トムジェリみたい」「世界観がどタイプ」「額に入れて飾りたい」カラフルなベレー帽×メガネ姿も",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000875381/",
+        "publishedAt": "2026-09-03T03:44:17.000Z",
+        "summary": "M!LKの吉田仁人と塩崎太智（「崎」はたつさきが正式表記）のスタイリングを手がけたスタイリス...",
         "groups": [
           "M!LK"
         ],
@@ -110,7 +102,12 @@
         ],
         "memberMatches": [
           {
-            "name": "山中柔太朗",
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "吉田仁人",
             "group": "M!LK",
             "status": "active"
           }
@@ -161,28 +158,6 @@
         ]
       },
       {
-        "id": "6160cfac652d1bb2",
-        "title": "山中柔太朗、GP帯連ドラ初レギュラー 上白石萌音主演作で熱血＆メンタル強い新米教師役に",
-        "sourceName": "ENCOUNT",
-        "sourceUrl": "https://encount.press/feed/",
-        "articleUrl": "https://encount.press/archives/1059196/",
-        "publishedAt": "2026-09-02T20:00:00.000Z",
-        "summary": "山中柔太朗が、10月にスタートするTBS系連続ドラマ『いろはの恋は時代をかける』（火曜午後10時）に出演することが、3日に発表された。山中がGP帯の連続ドラマにレギュラー出演するのは初となる。上白石萌音主演のロマンティッ […]",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
         "id": "47f16c975ff422cd",
         "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
         "sourceName": "SUPER★DRAGON 公式NEWS",
@@ -199,9 +174,45 @@
         ],
         "statuses": [],
         "memberMatches": []
+      },
+      {
+        "id": "7008f568c0920641",
+        "title": "「すごく苦手で…」「実はずっと…」M!LK塩崎太智、25年間ずっと“勘違い”していたこと",
+        "sourceName": "マイナビニュース 芸能",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
+        "articleUrl": "https://news.mynavi.jp/article/20260902-4901000/",
+        "publishedAt": "2026-09-02T11:00:00.000Z",
+        "summary": "アイドルグループ・M!LKの塩崎太智(崎はたつさき)が出演する、BANDAI SPIRITS・一番くじの新CM「一番くじONLINE 塩﨑太智がみんなとスマホでペリペリ」編が、7日から全国で順次放映される。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
       }
     ],
     "EBiDAN": [
+      {
+        "id": "467c436cba5d31b0",
+        "title": "EBiDANが大事にしてきた“自分らしさ”とは一体何なのか？ 15年の歴史の先で結実した2026年の大きな飛躍",
+        "sourceName": "リアルサウンド 音楽",
+        "sourceUrl": "https://realsound.jp/music/feed",
+        "articleUrl": "https://realsound.jp/2026/09/post-2510833.html",
+        "publishedAt": "2026-09-03T03:15:20.000Z",
+        "summary": "EBiDAN（恵比寿学園男子部）による、年に一度の大集結ライブ『EBiDAN THE LIVE 2026 15th Anniversary』（『エビライ』）が、8月13日から16日に国立代々木競技場 第一体育館にて開催。初の4DAYS公演より「2学期」となる、8月14日公演の模様をレポートする。",
+        "groups": [
+          "EBiDAN"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
       {
         "id": "47f16c975ff422cd",
         "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
@@ -258,21 +269,6 @@
         "articleUrl": "https://super-dragon.jp/news/news11576/",
         "publishedAt": "2026-08-23T03:00:22.000Z",
         "summary": "EBiDAN大運動会『スポーツマンヒップ！』6回目の開催が決定！ 第6回は入所順でのグループ対抗戦！！ スポーツの秋…あの日の同期が、今日だけの夢のチームとなるEBiDAN大運動会を、是非一緒に見届けましょう […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』開催決定！ first appeared on SUPER★DRAGON ",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "91a2a4d301121007",
-        "title": "【SUPERSTAR EBiDAN】 「EBiDAN THE LIVE 2026 15th Anniversary」開催記念！ゲーム内イベント実施",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11560/",
-        "publishedAt": "2026-08-12T08:00:18.000Z",
-        "summary": "EBiDAN公式リズムゲーム『SUPERSTAR EBiDAN』では、 「EBiDAN THE LIVE 2026 15th Anniversary」の開催を記念して、期間限定のゲーム内イベントを実施いたします！ ここで […] The post 【SUPERSTAR EBiDAN】 「EBiDAN THE LIVE 2026 15th Anniversar",
         "groups": [
           "EBiDAN",
           "SUPER★DRAGON"
