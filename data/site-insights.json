@@ -1,30 +1,14 @@
 {
-  "updatedAt": "2026-09-03T11:13:56.644Z",
+  "updatedAt": "2026-09-03T16:25:51.571Z",
   "totals": {
-    "all": 123,
-    "today": 4,
-    "week": 13
+    "all": 15,
+    "today": 0,
+    "week": 10
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 11
-    },
-    {
-      "name": "SUPER★DRAGON",
-      "count": 3
-    },
-    {
-      "name": "EBiDAN",
-      "count": 2
-    },
-    {
-      "name": "Sakurashimeji",
-      "count": 1
-    },
-    {
-      "name": "超特急",
-      "count": 1
+      "count": 10
     }
   ],
   "memberRanking": [
@@ -34,7 +18,7 @@
     },
     {
       "name": "曽野舜太",
-      "count": 3
+      "count": 4
     },
     {
       "name": "吉田仁人",
@@ -51,24 +35,16 @@
   ],
   "sourceRanking": [
     {
-      "name": "SUPER★DRAGON 公式NEWS",
-      "count": 3
-    },
-    {
       "name": "THE FIRST TIMES",
       "count": 3
     },
     {
       "name": "マイナビニュース テレビ",
-      "count": 2
+      "count": 3
     },
     {
       "name": "マイナビニュース 芸能",
       "count": 2
-    },
-    {
-      "name": "Bezzy",
-      "count": 1
     },
     {
       "name": "タワーレコード ニュース",
@@ -82,6 +58,28 @@
   "topics": [],
   "recentByGroup": {
     "M!LK": [
+      {
+        "id": "6a03e3cabd18d8a6",
+        "title": "「言葉で形容しきれないくらい圧巻」M!LK曽野舜太、清塚信也の演奏に感激 『クラシックTV』初登場でラヴェルの魅力に迫る",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20260903-4911482/",
+        "publishedAt": "2026-09-03T12:00:00.000Z",
+        "summary": "アイドルグループ・M!LKの曽野舜太が、10日放送のNHK Eテレ『クラシックTV』(毎週木曜21:00～21:29)に出演する。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
       {
         "id": "f91e98b89d37d7cf",
         "title": "M!LK曽野舜太、NHK Eテレ『クラシックTV』に初登場！「ラヴェルのヒストリーに驚きでした」",
@@ -153,8 +151,8 @@
       {
         "id": "3ff3bda26f6d639a",
         "title": "M!LK・山中柔太朗がGP帯連ドラ初レギュラー決定 - 上白石萌音主演『いろはの恋は時代をかける』時代を越えるロマンティックコメディ",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "sourceName": "マイナビニュース テレビ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
         "articleUrl": "https://news.mynavi.jp/article/20260903-4906357/",
         "publishedAt": "2026-09-02T20:00:00.000Z",
         "summary": "M!LKの山中柔太朗が、10月からスタートするTBS系火曜ドラマ『いろはの恋は時代(とき)をかける』(毎週火曜22:00～)に出演することが発表された。山中にとってGP(ゴールデン・プライム)帯連続ドラマへのレギュラー出演は初となる。",
@@ -168,322 +166,6 @@
           {
             "name": "山中柔太朗",
             "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "47f16c975ff422cd",
-        "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11607/",
-        "publishedAt": "2026-09-02T12:34:24.000Z",
-        "summary": "平素より株式会社SDR所属アーティストへの温かいご声援を賜り、誠にありがとうございます。 DISH//、EBiDAN（超特急、M!LK、SUPER★DRAGON、Sakurashimeji、ONE N’ ON […] The post グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ first appeared on SUPER★DRAGO",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK",
-          "SUPER★DRAGON",
-          "Sakurashimeji"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "EBiDAN": [
-      {
-        "id": "47f16c975ff422cd",
-        "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11607/",
-        "publishedAt": "2026-09-02T12:34:24.000Z",
-        "summary": "平素より株式会社SDR所属アーティストへの温かいご声援を賜り、誠にありがとうございます。 DISH//、EBiDAN（超特急、M!LK、SUPER★DRAGON、Sakurashimeji、ONE N’ ON […] The post グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ first appeared on SUPER★DRAGO",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK",
-          "SUPER★DRAGON",
-          "Sakurashimeji"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "7277b3cf409678c0",
-        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』 最新チケット情報",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11600/",
-        "publishedAt": "2026-08-31T09:30:16.000Z",
-        "summary": "本日8月31日(月)18:00よりEBiDAN先行受付開始！ 皆さんとお会いできることを楽しみにしております！ 第６回EBiDAN大運動会『スポーツマンヒップ！』 【千葉】LaLa arena […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』 最新チケット情報 first appeared on SUPER★DRAGON .",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "529e06a874764faf",
-        "title": "『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット、『EBiDAN 15th Anniversaryオフィシャルグッズ』＆『恵比寿学園男子部 校内スナップ』通販決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11580/",
-        "publishedAt": "2026-08-27T09:15:19.000Z",
-        "summary": "『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット、『EBiDAN 15th Anniversaryオフィシャルグッズ』＆『恵比寿学園男子部 校内スナップ』通販 […] The post 『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット、",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "a02364c0b1bd5a80",
-        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』開催決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11576/",
-        "publishedAt": "2026-08-23T03:00:22.000Z",
-        "summary": "EBiDAN大運動会『スポーツマンヒップ！』6回目の開催が決定！ 第6回は入所順でのグループ対抗戦！！ スポーツの秋…あの日の同期が、今日だけの夢のチームとなるEBiDAN大運動会を、是非一緒に見届けましょう […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』開催決定！ first appeared on SUPER★DRAGON ",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "91a2a4d301121007",
-        "title": "【SUPERSTAR EBiDAN】 「EBiDAN THE LIVE 2026 15th Anniversary」開催記念！ゲーム内イベント実施",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11560/",
-        "publishedAt": "2026-08-12T08:00:18.000Z",
-        "summary": "EBiDAN公式リズムゲーム『SUPERSTAR EBiDAN』では、 「EBiDAN THE LIVE 2026 15th Anniversary」の開催を記念して、期間限定のゲーム内イベントを実施いたします！ ここで […] The post 【SUPERSTAR EBiDAN】 「EBiDAN THE LIVE 2026 15th Anniversar",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "超特急": [
-      {
-        "id": "47f16c975ff422cd",
-        "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11607/",
-        "publishedAt": "2026-09-02T12:34:24.000Z",
-        "summary": "平素より株式会社SDR所属アーティストへの温かいご声援を賜り、誠にありがとうございます。 DISH//、EBiDAN（超特急、M!LK、SUPER★DRAGON、Sakurashimeji、ONE N’ ON […] The post グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ first appeared on SUPER★DRAGO",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK",
-          "SUPER★DRAGON",
-          "Sakurashimeji"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "397a635043a0e0e2",
-        "title": "映画『ワンダンス』新キャストにGirls2山口綺羅、MAZZEL・RAN、TSUKKI、超特急・髙松アロハ",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/07/89594/",
-        "publishedAt": "2026-07-22T09:00:00.000Z",
-        "summary": "11月27日(金)に公開されるJO（&TEAM）初主演映画『ワンダンス』の新キャストとして山口綺羅（Girls2）、RAN（MAZZEL）、現役DリーガーのTSUKKI、髙松アロハ（超特急）が出演することが発表された。 原作は単行本累計発行部数110万部を突破し「月刊アフタヌーン」（講談社）で連載中の珈琲による同名漫画。ダンサーからも熱く支持され、昨年放送さ",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "アロハ",
-            "group": "超特急",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "382225983e9781d4",
-        "title": "8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 7月2日からの先行配信リリースに合わせて デジタルキャンペーンが追加決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11354/",
-        "publishedAt": "2026-07-01T06:00:22.000Z",
-        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して8月11日(火・祝)にリリースされる「Yes! 東京」が、いよいよ7月2日（木）より先行配信リリースとなります。超特急、M!LK、SUPER★DRAGON、Sakur […] The post 8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 7月2日からの先行配信リリースに合わせて デ",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "SUPER★DRAGON": [
-      {
-        "id": "47f16c975ff422cd",
-        "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11607/",
-        "publishedAt": "2026-09-02T12:34:24.000Z",
-        "summary": "平素より株式会社SDR所属アーティストへの温かいご声援を賜り、誠にありがとうございます。 DISH//、EBiDAN（超特急、M!LK、SUPER★DRAGON、Sakurashimeji、ONE N’ ON […] The post グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ first appeared on SUPER★DRAGO",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK",
-          "SUPER★DRAGON",
-          "Sakurashimeji"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "0472097ee2768398",
-        "title": "「SUPER★DRAGON DRA FES 2026 追加公演」最新チケット情報！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11603/",
-        "publishedAt": "2026-09-01T09:00:32.000Z",
-        "summary": "本日9月1日(火)18:00より『+KIRARI』会員先行が受付開始。 会場で皆さんとお会いできることを楽しみにしております！ ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願いと注意事項】 http […] The post 「SUPER★DRAGON DRA FES 2026 追加公演」最新チケット情報！ first appeared",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "7277b3cf409678c0",
-        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』 最新チケット情報",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11600/",
-        "publishedAt": "2026-08-31T09:30:16.000Z",
-        "summary": "本日8月31日(月)18:00よりEBiDAN先行受付開始！ 皆さんとお会いできることを楽しみにしております！ 第６回EBiDAN大運動会『スポーツマンヒップ！』 【千葉】LaLa arena […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』 最新チケット情報 first appeared on SUPER★DRAGON .",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "529e06a874764faf",
-        "title": "『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット、『EBiDAN 15th Anniversaryオフィシャルグッズ』＆『恵比寿学園男子部 校内スナップ』通販決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11580/",
-        "publishedAt": "2026-08-27T09:15:19.000Z",
-        "summary": "『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット、『EBiDAN 15th Anniversaryオフィシャルグッズ』＆『恵比寿学園男子部 校内スナップ』通販 […] The post 『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット、",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "a02364c0b1bd5a80",
-        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』開催決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11576/",
-        "publishedAt": "2026-08-23T03:00:22.000Z",
-        "summary": "EBiDAN大運動会『スポーツマンヒップ！』6回目の開催が決定！ 第6回は入所順でのグループ対抗戦！！ スポーツの秋…あの日の同期が、今日だけの夢のチームとなるEBiDAN大運動会を、是非一緒に見届けましょう […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』開催決定！ first appeared on SUPER★DRAGON ",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "Sakurashimeji": [
-      {
-        "id": "47f16c975ff422cd",
-        "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11607/",
-        "publishedAt": "2026-09-02T12:34:24.000Z",
-        "summary": "平素より株式会社SDR所属アーティストへの温かいご声援を賜り、誠にありがとうございます。 DISH//、EBiDAN（超特急、M!LK、SUPER★DRAGON、Sakurashimeji、ONE N’ ON […] The post グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ first appeared on SUPER★DRAGO",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK",
-          "SUPER★DRAGON",
-          "Sakurashimeji"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "原因は自分にある。": [
-      {
-        "id": "15fb9ee4d3775ce2",
-        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/07/89645/",
-        "publishedAt": "2026-07-24T12:00:00.000Z",
-        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
-        "groups": [
-          "原因は自分にある。",
-          "BUDDiiS"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "SHOOT",
-            "group": "BUDDiiS",
-            "status": "active"
-          }
-        ]
-      }
-    ],
-    "BUDDiiS": [
-      {
-        "id": "15fb9ee4d3775ce2",
-        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/07/89645/",
-        "publishedAt": "2026-07-24T12:00:00.000Z",
-        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
-        "groups": [
-          "原因は自分にある。",
-          "BUDDiiS"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "SHOOT",
-            "group": "BUDDiiS",
             "status": "active"
           }
         ]
