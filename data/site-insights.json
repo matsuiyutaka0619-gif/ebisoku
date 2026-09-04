@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-09-04T11:17:22.340Z",
+  "updatedAt": "2026-09-04T16:21:15.646Z",
   "totals": {
     "all": 123,
-    "today": 4,
+    "today": 0,
     "week": 13
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 10
+      "count": 9
     },
     {
       "name": "SUPER★DRAGON",
-      "count": 3
+      "count": 4
     },
     {
       "name": "EBiDAN",
@@ -29,19 +29,19 @@
   ],
   "memberRanking": [
     {
-      "name": "吉田仁人",
-      "count": 4
-    },
-    {
       "name": "塩﨑太智",
       "count": 3
     },
     {
-      "name": "山中柔太朗",
-      "count": 2
+      "name": "吉田仁人",
+      "count": 3
     },
     {
       "name": "曽野舜太",
+      "count": 3
+    },
+    {
+      "name": "山中柔太朗",
       "count": 2
     },
     {
@@ -52,7 +52,7 @@
   "sourceRanking": [
     {
       "name": "SUPER★DRAGON 公式NEWS",
-      "count": 3
+      "count": 4
     },
     {
       "name": "THE FIRST TIMES",
@@ -71,17 +71,113 @@
       "count": 2
     },
     {
-      "name": "Bezzy",
-      "count": 1
-    },
-    {
-      "name": "Edge Line",
+      "name": "タワーレコード ニュース",
       "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
+    "SUPER★DRAGON": [
+      {
+        "id": "2736a98779085227",
+        "title": "【重要】弊社所属アーティストに関する権利保護方針",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11611/",
+        "publishedAt": "2026-09-04T12:00:30.000Z",
+        "summary": "いつも弊社所属アーティストを温かく応援いただき、誠にありがとうございます。 弊社は、所属アーティストが安心して創作・芸能活動に専念できる環境を維持し、同時にファンの皆様が健全に応援活動を楽しめる場を守るため、以下の通り権 […] The post 【重要】弊社所属アーティストに関する権利保護方針 first appeared on SUPER★DRAGON ",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "47f16c975ff422cd",
+        "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11607/",
+        "publishedAt": "2026-09-02T12:34:24.000Z",
+        "summary": "平素より株式会社SDR所属アーティストへの温かいご声援を賜り、誠にありがとうございます。 DISH//、EBiDAN（超特急、M!LK、SUPER★DRAGON、Sakurashimeji、ONE N’ ON […] The post グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ first appeared on SUPER★DRAGO",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK",
+          "SUPER★DRAGON",
+          "Sakurashimeji"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "0472097ee2768398",
+        "title": "「SUPER★DRAGON DRA FES 2026 追加公演」最新チケット情報！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11603/",
+        "publishedAt": "2026-09-01T09:00:32.000Z",
+        "summary": "本日9月1日(火)18:00より『+KIRARI』会員先行が受付開始。 会場で皆さんとお会いできることを楽しみにしております！ ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願いと注意事項】 http […] The post 「SUPER★DRAGON DRA FES 2026 追加公演」最新チケット情報！ first appeared",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "7277b3cf409678c0",
+        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』 最新チケット情報",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11600/",
+        "publishedAt": "2026-08-31T09:30:16.000Z",
+        "summary": "本日8月31日(月)18:00よりEBiDAN先行受付開始！ 皆さんとお会いできることを楽しみにしております！ 第６回EBiDAN大運動会『スポーツマンヒップ！』 【千葉】LaLa arena […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』 最新チケット情報 first appeared on SUPER★DRAGON .",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "529e06a874764faf",
+        "title": "『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット、『EBiDAN 15th Anniversaryオフィシャルグッズ』＆『恵比寿学園男子部 校内スナップ』通販決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11580/",
+        "publishedAt": "2026-08-27T09:15:19.000Z",
+        "summary": "『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット、『EBiDAN 15th Anniversaryオフィシャルグッズ』＆『恵比寿学園男子部 校内スナップ』通販 […] The post 『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット、",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
     "M!LK": [
+      {
+        "id": "1b8e62c1bcfed0a2",
+        "title": "9月10日放送のNHK Eテレ「クラシックTV」、曽野舜太（M!LK）初登場。「曽野舜太と巡る！ラヴェルのカラフルワールド」オンエア",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/09/04/tg007",
+        "publishedAt": "2026-09-04T11:30:00.000Z",
+        "summary": "",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
       {
         "id": "3534501705f4144a",
         "title": "「オタクは泣いています」「アイドル側がこんな風に…」M!LK吉田仁人&塩崎太智が語った“心配”にファン感動",
@@ -131,28 +227,6 @@
         "articleUrl": "https://www.thefirsttimes.jp/news/0000876232/",
         "publishedAt": "2026-09-04T06:35:07.000Z",
         "summary": "文化放送『M!LK 吉田仁人のレコメン！』の公式SNSで、9月3日放送回のオフショットが続々と公開...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "e9eefa8fb6ef5d8d",
-        "title": "M!LK・吉田仁人 前回が大反響から2027年2月『RECOFES.2027 in 東京国際フォーラム ホールA』開催へ",
-        "sourceName": "Edge Line",
-        "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-        "articleUrl": "https://www.edgeline-tokyo.com/entertainment/204570",
-        "publishedAt": "2026-09-03T14:00:04.000Z",
-        "summary": "ラジオ番組『レコメン！』（文化放送、月～木・午後10時～）のライブフェスイベント第2弾となる『RECOFES.2027 in 東京国際フォーラム ホールA』が2027年2月23日に東京国際フォーラム ホールAで開催予定...",
         "groups": [
           "M!LK"
         ],
@@ -335,85 +409,6 @@
         "articleUrl": "https://super-dragon.jp/news/news11560/",
         "publishedAt": "2026-08-12T08:00:18.000Z",
         "summary": "EBiDAN公式リズムゲーム『SUPERSTAR EBiDAN』では、 「EBiDAN THE LIVE 2026 15th Anniversary」の開催を記念して、期間限定のゲーム内イベントを実施いたします！ ここで […] The post 【SUPERSTAR EBiDAN】 「EBiDAN THE LIVE 2026 15th Anniversar",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "SUPER★DRAGON": [
-      {
-        "id": "47f16c975ff422cd",
-        "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11607/",
-        "publishedAt": "2026-09-02T12:34:24.000Z",
-        "summary": "平素より株式会社SDR所属アーティストへの温かいご声援を賜り、誠にありがとうございます。 DISH//、EBiDAN（超特急、M!LK、SUPER★DRAGON、Sakurashimeji、ONE N’ ON […] The post グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ first appeared on SUPER★DRAGO",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK",
-          "SUPER★DRAGON",
-          "Sakurashimeji"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "0472097ee2768398",
-        "title": "「SUPER★DRAGON DRA FES 2026 追加公演」最新チケット情報！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11603/",
-        "publishedAt": "2026-09-01T09:00:32.000Z",
-        "summary": "本日9月1日(火)18:00より『+KIRARI』会員先行が受付開始。 会場で皆さんとお会いできることを楽しみにしております！ ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願いと注意事項】 http […] The post 「SUPER★DRAGON DRA FES 2026 追加公演」最新チケット情報！ first appeared",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "7277b3cf409678c0",
-        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』 最新チケット情報",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11600/",
-        "publishedAt": "2026-08-31T09:30:16.000Z",
-        "summary": "本日8月31日(月)18:00よりEBiDAN先行受付開始！ 皆さんとお会いできることを楽しみにしております！ 第６回EBiDAN大運動会『スポーツマンヒップ！』 【千葉】LaLa arena […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』 最新チケット情報 first appeared on SUPER★DRAGON .",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "529e06a874764faf",
-        "title": "『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット、『EBiDAN 15th Anniversaryオフィシャルグッズ』＆『恵比寿学園男子部 校内スナップ』通販決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11580/",
-        "publishedAt": "2026-08-27T09:15:19.000Z",
-        "summary": "『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット、『EBiDAN 15th Anniversaryオフィシャルグッズ』＆『恵比寿学園男子部 校内スナップ』通販 […] The post 『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット、",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "a02364c0b1bd5a80",
-        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』開催決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11576/",
-        "publishedAt": "2026-08-23T03:00:22.000Z",
-        "summary": "EBiDAN大運動会『スポーツマンヒップ！』6回目の開催が決定！ 第6回は入所順でのグループ対抗戦！！ スポーツの秋…あの日の同期が、今日だけの夢のチームとなるEBiDAN大運動会を、是非一緒に見届けましょう […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』開催決定！ first appeared on SUPER★DRAGON ",
         "groups": [
           "EBiDAN",
           "SUPER★DRAGON"

@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-09-04T11:17:22.338Z",
+  "updatedAt": "2026-09-04T16:21:15.644Z",
   "articles": [
+    {
+      "id": "2736a98779085227",
+      "title": "【重要】弊社所属アーティストに関する権利保護方針",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news11611/",
+      "publishedAt": "2026-09-04T12:00:30.000Z",
+      "summary": "いつも弊社所属アーティストを温かく応援いただき、誠にありがとうございます。 弊社は、所属アーティストが安心して創作・芸能活動に専念できる環境を維持し、同時にファンの皆様が健全に応援活動を楽しめる場を守るため、以下の通り権 […] The post 【重要】弊社所属アーティストに関する権利保護方針 first appeared on SUPER★DRAGON ",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "1b8e62c1bcfed0a2",
+      "title": "9月10日放送のNHK Eテレ「クラシックTV」、曽野舜太（M!LK）初登場。「曽野舜太と巡る！ラヴェルのカラフルワールド」オンエア",
+      "sourceName": "タワーレコード ニュース",
+      "sourceUrl": "https://tower.jp/feeds/article/news",
+      "articleUrl": "https://tower.jp/article/news/2026/09/04/tg007",
+      "publishedAt": "2026-09-04T11:30:00.000Z",
+      "summary": "",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "曽野舜太",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "3534501705f4144a",
       "title": "「オタクは泣いています」「アイドル側がこんな風に…」M!LK吉田仁人&塩崎太智が語った“心配”にファン感動",
@@ -64,28 +100,6 @@
       "articleUrl": "https://www.thefirsttimes.jp/news/0000876232/",
       "publishedAt": "2026-09-04T06:35:07.000Z",
       "summary": "文化放送『M!LK 吉田仁人のレコメン！』の公式SNSで、9月3日放送回のオフショットが続々と公開...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "e9eefa8fb6ef5d8d",
-      "title": "M!LK・吉田仁人 前回が大反響から2027年2月『RECOFES.2027 in 東京国際フォーラム ホールA』開催へ",
-      "sourceName": "Edge Line",
-      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/204570",
-      "publishedAt": "2026-09-03T14:00:04.000Z",
-      "summary": "ラジオ番組『レコメン！』（文化放送、月～木・午後10時～）のライブフェスイベント第2弾となる『RECOFES.2027 in 東京国際フォーラム ホールA』が2027年2月23日に東京国際フォーラム ホールAで開催予定...",
       "groups": [
         "M!LK"
       ],
@@ -2069,28 +2083,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "d8ebe107a8b2f4bd",
-      "title": "【バースデーグッズ】柴崎楽22歳 バースデーPHOTO SET＆プロデュースグッズ スタダ便受注販売決定！",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news10891/",
-      "publishedAt": "2026-04-28T09:59:36.000Z",
-      "summary": "本日、2026年4月28日(火)に22歳を迎えた柴崎楽の誕生日を記念して、 バースデーPHOTO SET&プロデュースグッズの販売が決定しました！ 今年のプロデュースグッズは、手書きイラストが刺繍されたヘアバンド […] The post 【バースデーグッズ】柴崎楽22歳 バースデーPHOTO SET＆プロデュースグッズ スタダ便受注販売決定！ first ",
-      "groups": [
-        "SUPER★DRAGON"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "柴崎楽",
-          "group": "SUPER★DRAGON",
-          "status": "active"
-        }
-      ]
     }
   ]
 }
