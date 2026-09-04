@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-03T21:01:49.229Z",
+  "updatedAt": "2026-09-04T04:32:25.466Z",
   "totals": {
     "all": 126,
-    "today": 1,
+    "today": 5,
     "week": 16
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 14
+      "count": 12
     },
     {
       "name": "SUPER★DRAGON",
@@ -16,6 +16,10 @@
     },
     {
       "name": "EBiDAN",
+      "count": 2
+    },
+    {
+      "name": "原因は自分にある。",
       "count": 2
     },
     {
@@ -37,15 +41,19 @@
       "count": 4
     },
     {
-      "name": "曽野舜太",
-      "count": 4
-    },
-    {
       "name": "佐野勇斗",
-      "count": 3
+      "count": 2
     },
     {
       "name": "山中柔太朗",
+      "count": 2
+    },
+    {
+      "name": "曽野舜太",
+      "count": 2
+    },
+    {
+      "name": "杢代和人",
       "count": 2
     }
   ],
@@ -55,12 +63,12 @@
       "count": 3
     },
     {
-      "name": "THE FIRST TIMES",
+      "name": "マイナビニュース テレビ",
       "count": 3
     },
     {
-      "name": "マイナビニュース テレビ",
-      "count": 3
+      "name": "THE FIRST TIMES",
+      "count": 2
     },
     {
       "name": "マイナビニュース 芸能",
@@ -75,11 +83,15 @@
       "count": 1
     },
     {
+      "name": "ENCOUNT",
+      "count": 1
+    },
+    {
       "name": "タワーレコード ニュース",
       "count": 1
     },
     {
-      "name": "マイナビニュース エンタメ",
+      "name": "リアルサウンド 映画部",
       "count": 1
     },
     {
@@ -89,7 +101,125 @@
   ],
   "topics": [],
   "recentByGroup": {
+    "原因は自分にある。": [
+      {
+        "id": "e3ff4ef363ce7a84",
+        "title": "平祐奈×山口紗弥加×杢代和人が福島・山形へ 『物産展の女3』9月23日・30日に放送へ",
+        "sourceName": "リアルサウンド 映画部",
+        "sourceUrl": "https://realsound.jp/movie/feed",
+        "articleUrl": "https://realsound.jp/movie/2026/09/post-2512421.html",
+        "publishedAt": "2026-09-04T03:00:23.000Z",
+        "summary": "平祐奈と山口紗弥加がW主演を務め 、杢代和人が共演するドラマ『物産展の女〜北塩原村・磐梯町・米沢市編〜』が、9月23日と9月30日の2週にわたりテレ東ほかで放送されることが決定した。 桑野一弘による同名小説を実写化す",
+        "groups": [
+          "原因は自分にある。"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "杢代和人",
+            "group": "原因は自分にある。",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "215bc2142582ae12",
+        "title": "平祐奈＆山口紗弥加W主演『物産展の女』第3弾放送 続投の杢代和人も歓喜「言い続けていたら…」",
+        "sourceName": "ENCOUNT",
+        "sourceUrl": "https://encount.press/feed/",
+        "articleUrl": "https://encount.press/archives/1059677/",
+        "publishedAt": "2026-09-04T03:00:00.000Z",
+        "summary": "俳優の平祐奈と山口紗弥加がダブル主演を務める、テレビ東京系ドラマ『物産展の女～北塩原村・磐梯町・米沢市編～』（全2話）が23日と30日の深夜に放送されることが、4日に発表された。今回がシリーズ第3弾で、共演の杢代和人も続 […]",
+        "groups": [
+          "原因は自分にある。"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "杢代和人",
+            "group": "原因は自分にある。",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "15fb9ee4d3775ce2",
+        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/07/89645/",
+        "publishedAt": "2026-07-24T12:00:00.000Z",
+        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
+        "groups": [
+          "原因は自分にある。",
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
+      }
+    ],
     "M!LK": [
+      {
+        "id": "c1d4e57d4f4e5b61",
+        "title": "M!LK5人が“エアロピクルス”ダンス！白制服で塩﨑太智をセンターに軽快ステップ「塩さんノリノリでかわいい」「吉田さん乙女すぎない？」「吉田さんだけ内股であまりにアイドルすぎる」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000876024/",
+        "publishedAt": "2026-09-04T02:57:42.000Z",
+        "summary": "M!LKの公式TikTokが更新。メンバー5人がノリノリでダンスを披露し、注目を集めている。 ■M!LK...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "4ea1f20f51ea4431",
+        "title": "M!LK塩﨑太智、“伝説の家政婦”志麻さんの新居改装プロジェクトでやる気満々の大活躍",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000875862/",
+        "publishedAt": "2026-09-04T01:30:36.000Z",
+        "summary": "9月4日の日本テレビ系『沸騰ワード10』は19時から放送の2時間スペシャル。“伝説の家政婦”志麻...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
       {
         "id": "3a53e4faff431cfd",
         "title": "M!LK 佐野勇斗、吉田仁人とのMV撮影の裏側公開 ヘビをかわいがる姿に「メロい」「誰もが蛇になりたいと思った瞬間」",
@@ -142,8 +272,8 @@
       {
         "id": "6a03e3cabd18d8a6",
         "title": "「言葉で形容しきれないくらい圧巻」M!LK曽野舜太、清塚信也の演奏に感激 『クラシックTV』初登場でラヴェルの魅力に迫る",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "sourceName": "マイナビニュース テレビ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
         "articleUrl": "https://news.mynavi.jp/article/20260903-4911482/",
         "publishedAt": "2026-09-03T12:00:00.000Z",
         "summary": "アイドルグループ・M!LKの曽野舜太が、10日放送のNHK Eテレ『クラシックTV』(毎週木曜21:00～21:29)に出演する。",
@@ -160,42 +290,6 @@
             "status": "active"
           }
         ]
-      },
-      {
-        "id": "f91e98b89d37d7cf",
-        "title": "M!LK曽野舜太、NHK Eテレ『クラシックTV』に初登場！「ラヴェルのヒストリーに驚きでした」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000875623/",
-        "publishedAt": "2026-09-03T07:12:59.000Z",
-        "summary": "『クラシックTV「曽野舜太と巡る！ラヴェルのカラフルワールド」』が、9月10日21時よりNHK Eテ...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "b55658b6aeadc2ce",
-        "title": "M!LK新曲匂わせムービー公開！「好きすぎて滅！」や「爆裂愛してる」に続き“愛”をテーマに描く3部作完結曲に「振り向きアディオスかっこよすぎ」「新衣装かわいい」「これは神曲確定」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000875307/",
-        "publishedAt": "2026-09-03T05:45:16.000Z",
-        "summary": "M!LK公式Xで、1stミニアルバム『LOVE ENG!NE』（9月16日リリース）のリード曲「時空超えてユニ...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
       }
     ],
     "EBiDAN": [
@@ -434,36 +528,6 @@
         ],
         "statuses": [],
         "memberMatches": []
-      }
-    ],
-    "原因は自分にある。": [
-      {
-        "id": "15fb9ee4d3775ce2",
-        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/07/89645/",
-        "publishedAt": "2026-07-24T12:00:00.000Z",
-        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
-        "groups": [
-          "原因は自分にある。",
-          "BUDDiiS"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "SHOOT",
-            "group": "BUDDiiS",
-            "status": "active"
-          }
-        ]
       }
     ],
     "BUDDiiS": [
