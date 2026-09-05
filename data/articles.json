@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-09-04T20:45:19.365Z",
+  "updatedAt": "2026-09-05T04:28:22.989Z",
   "articles": [
+    {
+      "id": "b33979ea01f17e40",
+      "title": "M!LKの爽やかショットを厳選！制服風衣装や浴衣姿、5人の弾ける笑顔にも注目",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000874601/",
+      "publishedAt": "2026-09-05T04:00:09.000Z",
+      "summary": "明るく親しみやすいキャラクターと、個性豊かな魅力で人気を集めるM!LK。本稿では、見ているだ...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "e0b5345692dfb863",
+      "title": "M!LK佐野勇斗のプライベート“爆イケ”ショットを厳選！ブラックコーデやセットアップなど着こなしにも注目",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000874633/",
+      "publishedAt": "2026-09-05T03:00:52.000Z",
+      "summary": "M!LKのメンバーで、俳優としても幅広く活躍する佐野勇斗。ステージや作品で見せる姿とはまた違...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "2736a98779085227",
       "title": "【重要】弊社所属アーティストに関する権利保護方針",
@@ -38,33 +74,6 @@
       ]
     },
     {
-      "id": "3534501705f4144a",
-      "title": "「オタクは泣いています」「アイドル側がこんな風に…」M!LK吉田仁人&塩崎太智が語った“心配”にファン感動",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-      "articleUrl": "https://news.mynavi.jp/article/20260904-4906250/",
-      "publishedAt": "2026-09-04T10:00:00.000Z",
-      "summary": "「“寝れてる? 大丈夫? ”っていう心配を……」アイドルグループ・M!LKの塩崎太智(※崎はたつさき)と吉田仁人が、応援してくれるファンへの思いを明かした――。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "塩﨑太智",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "d65c3b0b020b4627",
       "title": "Vaundy、超特急、IMP.、Saucy Dogら出演『バズリズム LIVE 2026』フルラインナップ確定",
       "sourceName": "THE FIRST TIMES",
@@ -81,8 +90,8 @@
     {
       "id": "7906af0d10d6bfa5",
       "title": "『M!LKの爆裂ミッション』第2弾決定 1,300件超応募、世界トレンド1位の反響受け再びGP帯へ",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
       "articleUrl": "https://news.mynavi.jp/article/20260904-4915397/",
       "publishedAt": "2026-09-04T07:01:20.000Z",
       "summary": "世界トレンド1位の反響を受け、早くも第2弾――。TBSの10月改編説明会が4日、東京・赤坂の同局で行われ、M!LKの冠バラエティ特番『M!LKの爆裂ミッション』が、10月6日(22:00～22:57)に放送されることが発表された。",
