@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-05T10:34:45.833Z",
+  "updatedAt": "2026-09-05T15:13:47.064Z",
   "totals": {
-    "all": 123,
-    "today": 3,
-    "week": 13
+    "all": 124,
+    "today": 0,
+    "week": 14
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 10
+      "count": 11
     },
     {
       "name": "SUPER★DRAGON",
@@ -33,12 +33,12 @@
       "count": 4
     },
     {
-      "name": "山中柔太朗",
+      "name": "塩﨑太智",
       "count": 3
     },
     {
-      "name": "塩﨑太智",
-      "count": 2
+      "name": "山中柔太朗",
+      "count": 3
     },
     {
       "name": "佐野勇斗",
@@ -55,12 +55,12 @@
       "count": 4
     },
     {
-      "name": "マイナビニュース テレビ",
+      "name": "THE FIRST TIMES",
       "count": 3
     },
     {
-      "name": "THE FIRST TIMES",
-      "count": 2
+      "name": "マイナビニュース テレビ",
+      "count": 3
     },
     {
       "name": "マイナビニュース 芸能",
@@ -78,6 +78,28 @@
   "topics": [],
   "recentByGroup": {
     "M!LK": [
+      {
+        "id": "73df01c8dcf3315d",
+        "title": "M!LK塩﨑太智「しおざきわんだーらんど」MV1,000万回再生突破！グループ12曲目の記録突破に「み！るきーずの皆さまのおかげ」と感謝",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000876655/",
+        "publishedAt": "2026-09-05T10:47:32.000Z",
+        "summary": "M!LK公式Xにて、メンバーの塩﨑太智が歌う「しおざきわんだーらんど」のMV再生数が1,000万回を...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
       {
         "id": "5c2e153ed2f620ab",
         "title": "「ほんとに運命」「運営に爆裂感謝」グループ加入8周年記念日の“同期”2Sにファン歓喜 M!LKの中で一番ギャップを感じるメンバーは「“国宝級”みたいな…」",
@@ -162,20 +184,6 @@
             "status": "active"
           }
         ]
-      },
-      {
-        "id": "7906af0d10d6bfa5",
-        "title": "『M!LKの爆裂ミッション』第2弾決定 1,300件超応募、世界トレンド1位の反響受け再びGP帯へ",
-        "sourceName": "マイナビニュース テレビ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-        "articleUrl": "https://news.mynavi.jp/article/20260904-4915397/",
-        "publishedAt": "2026-09-04T07:01:20.000Z",
-        "summary": "世界トレンド1位の反響を受け、早くも第2弾――。TBSの10月改編説明会が4日、東京・赤坂の同局で行われ、M!LKの冠バラエティ特番『M!LKの爆裂ミッション』が、10月6日(22:00～22:57)に放送されることが発表された。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
       }
     ],
     "SUPER★DRAGON": [

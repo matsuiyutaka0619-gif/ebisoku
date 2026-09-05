@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-09-05T10:34:45.832Z",
+  "updatedAt": "2026-09-05T15:13:47.062Z",
   "articles": [
+    {
+      "id": "73df01c8dcf3315d",
+      "title": "M!LK塩﨑太智「しおざきわんだーらんど」MV1,000万回再生突破！グループ12曲目の記録突破に「み！るきーずの皆さまのおかげ」と感謝",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000876655/",
+      "publishedAt": "2026-09-05T10:47:32.000Z",
+      "summary": "M!LK公式Xにて、メンバーの塩﨑太智が歌う「しおざきわんだーらんど」のMV再生数が1,000万回を...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "塩﨑太智",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "5c2e153ed2f620ab",
       "title": "「ほんとに運命」「運営に爆裂感謝」グループ加入8周年記念日の“同期”2Sにファン歓喜 M!LKの中で一番ギャップを感じるメンバーは「“国宝級”みたいな…」",
