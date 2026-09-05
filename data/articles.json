@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-09-05T04:28:22.989Z",
+  "updatedAt": "2026-09-05T10:34:45.832Z",
   "articles": [
+    {
+      "id": "5c2e153ed2f620ab",
+      "title": "「ほんとに運命」「運営に爆裂感謝」グループ加入8周年記念日の“同期”2Sにファン歓喜 M!LKの中で一番ギャップを感じるメンバーは「“国宝級”みたいな…」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260905-4906320/",
+      "publishedAt": "2026-09-05T10:00:00.000Z",
+      "summary": "「俺らって世間からどう思われてるんだろう?」アイドルグループ・M!LKの山中柔太朗と曽野舜太が、メンバーのギャップについて語った――。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "曽野舜太",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "b33979ea01f17e40",
       "title": "M!LKの爽やかショットを厳選！制服風衣装や浴衣姿、5人の弾ける笑顔にも注目",
@@ -74,20 +101,6 @@
       ]
     },
     {
-      "id": "d65c3b0b020b4627",
-      "title": "Vaundy、超特急、IMP.、Saucy Dogら出演『バズリズム LIVE 2026』フルラインナップ確定",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000875998/",
-      "publishedAt": "2026-09-04T09:00:22.000Z",
-      "summary": "11月6日から8日にかけて、神奈川・横浜アリーナにて開催される『バズリズム LIVE 2026』のフル...",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
       "id": "7906af0d10d6bfa5",
       "title": "『M!LKの爆裂ミッション』第2弾決定 1,300件超応募、世界トレンド1位の反響受け再びGP帯へ",
       "sourceName": "マイナビニュース テレビ",
@@ -100,28 +113,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "ce979b001bcb42e5",
-      "title": "M!LK吉田仁人が頬杖アップから弾ける笑顔まで多彩な表情を披露！「綺麗なお顔」「メロすぎ」「おめめキラキラ」“トップスイン”コーデにも「ウエスト細！」「腰の位置バグってる」「腕ぷにぷにでかわいい」と反響",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000876232/",
-      "publishedAt": "2026-09-04T06:35:07.000Z",
-      "summary": "文化放送『M!LK 吉田仁人のレコメン！』の公式SNSで、9月3日放送回のオフショットが続々と公開...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "6a03e3cabd18d8a6",

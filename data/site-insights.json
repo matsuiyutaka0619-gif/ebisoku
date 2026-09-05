@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-05T04:28:22.992Z",
+  "updatedAt": "2026-09-05T10:34:45.833Z",
   "totals": {
-    "all": 124,
-    "today": 2,
-    "week": 14
+    "all": 123,
+    "today": 3,
+    "week": 13
   },
   "groupRanking": [
     {
@@ -19,17 +19,21 @@
       "count": 2
     },
     {
-      "name": "超特急",
-      "count": 2
+      "name": "Sakurashimeji",
+      "count": 1
     },
     {
-      "name": "Sakurashimeji",
+      "name": "超特急",
       "count": 1
     }
   ],
   "memberRanking": [
     {
       "name": "曽野舜太",
+      "count": 4
+    },
+    {
+      "name": "山中柔太朗",
       "count": 3
     },
     {
@@ -37,16 +41,12 @@
       "count": 2
     },
     {
-      "name": "吉田仁人",
-      "count": 2
-    },
-    {
       "name": "佐野勇斗",
       "count": 2
     },
     {
-      "name": "山中柔太朗",
-      "count": 2
+      "name": "吉田仁人",
+      "count": 1
     }
   ],
   "sourceRanking": [
@@ -55,12 +55,12 @@
       "count": 4
     },
     {
-      "name": "THE FIRST TIMES",
-      "count": 4
-    },
-    {
       "name": "マイナビニュース テレビ",
       "count": 3
+    },
+    {
+      "name": "THE FIRST TIMES",
+      "count": 2
     },
     {
       "name": "マイナビニュース 芸能",
@@ -69,11 +69,42 @@
     {
       "name": "タワーレコード ニュース",
       "count": 1
+    },
+    {
+      "name": "マイナビニュース エンタメ",
+      "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
     "M!LK": [
+      {
+        "id": "5c2e153ed2f620ab",
+        "title": "「ほんとに運命」「運営に爆裂感謝」グループ加入8周年記念日の“同期”2Sにファン歓喜 M!LKの中で一番ギャップを感じるメンバーは「“国宝級”みたいな…」",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20260905-4906320/",
+        "publishedAt": "2026-09-05T10:00:00.000Z",
+        "summary": "「俺らって世間からどう思われてるんだろう?」アイドルグループ・M!LKの山中柔太朗と曽野舜太が、メンバーのギャップについて語った――。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
       {
         "id": "b33979ea01f17e40",
         "title": "M!LKの爽やかショットを厳選！制服風衣装や浴衣姿、5人の弾ける笑顔にも注目",
@@ -145,28 +176,6 @@
         ],
         "statuses": [],
         "memberMatches": []
-      },
-      {
-        "id": "ce979b001bcb42e5",
-        "title": "M!LK吉田仁人が頬杖アップから弾ける笑顔まで多彩な表情を披露！「綺麗なお顔」「メロすぎ」「おめめキラキラ」“トップスイン”コーデにも「ウエスト細！」「腰の位置バグってる」「腕ぷにぷにでかわいい」と反響",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000876232/",
-        "publishedAt": "2026-09-04T06:35:07.000Z",
-        "summary": "文化放送『M!LK 吉田仁人のレコメン！』の公式SNSで、9月3日放送回のオフショットが続々と公開...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
       }
     ],
     "SUPER★DRAGON": [
@@ -247,79 +256,6 @@
         "memberMatches": []
       }
     ],
-    "超特急": [
-      {
-        "id": "d65c3b0b020b4627",
-        "title": "Vaundy、超特急、IMP.、Saucy Dogら出演『バズリズム LIVE 2026』フルラインナップ確定",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000875998/",
-        "publishedAt": "2026-09-04T09:00:22.000Z",
-        "summary": "11月6日から8日にかけて、神奈川・横浜アリーナにて開催される『バズリズム LIVE 2026』のフル...",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "47f16c975ff422cd",
-        "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11607/",
-        "publishedAt": "2026-09-02T12:34:24.000Z",
-        "summary": "平素より株式会社SDR所属アーティストへの温かいご声援を賜り、誠にありがとうございます。 DISH//、EBiDAN（超特急、M!LK、SUPER★DRAGON、Sakurashimeji、ONE N’ ON […] The post グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ first appeared on SUPER★DRAGO",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK",
-          "SUPER★DRAGON",
-          "Sakurashimeji"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "397a635043a0e0e2",
-        "title": "映画『ワンダンス』新キャストにGirls2山口綺羅、MAZZEL・RAN、TSUKKI、超特急・髙松アロハ",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/07/89594/",
-        "publishedAt": "2026-07-22T09:00:00.000Z",
-        "summary": "11月27日(金)に公開されるJO（&TEAM）初主演映画『ワンダンス』の新キャストとして山口綺羅（Girls2）、RAN（MAZZEL）、現役DリーガーのTSUKKI、髙松アロハ（超特急）が出演することが発表された。 原作は単行本累計発行部数110万部を突破し「月刊アフタヌーン」（講談社）で連載中の珈琲による同名漫画。ダンサーからも熱く支持され、昨年放送さ",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "アロハ",
-            "group": "超特急",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "382225983e9781d4",
-        "title": "8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 7月2日からの先行配信リリースに合わせて デジタルキャンペーンが追加決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11354/",
-        "publishedAt": "2026-07-01T06:00:22.000Z",
-        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して8月11日(火・祝)にリリースされる「Yes! 東京」が、いよいよ7月2日（木）より先行配信リリースとなります。超特急、M!LK、SUPER★DRAGON、Sakur […] The post 8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 7月2日からの先行配信リリースに合わせて デ",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
     "EBiDAN": [
       {
         "id": "47f16c975ff422cd",
@@ -394,6 +330,65 @@
         "summary": "EBiDAN公式リズムゲーム『SUPERSTAR EBiDAN』では、 「EBiDAN THE LIVE 2026 15th Anniversary」の開催を記念して、期間限定のゲーム内イベントを実施いたします！ ここで […] The post 【SUPERSTAR EBiDAN】 「EBiDAN THE LIVE 2026 15th Anniversar",
         "groups": [
           "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
+    "超特急": [
+      {
+        "id": "47f16c975ff422cd",
+        "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11607/",
+        "publishedAt": "2026-09-02T12:34:24.000Z",
+        "summary": "平素より株式会社SDR所属アーティストへの温かいご声援を賜り、誠にありがとうございます。 DISH//、EBiDAN（超特急、M!LK、SUPER★DRAGON、Sakurashimeji、ONE N’ ON […] The post グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ first appeared on SUPER★DRAGO",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK",
+          "SUPER★DRAGON",
+          "Sakurashimeji"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "397a635043a0e0e2",
+        "title": "映画『ワンダンス』新キャストにGirls2山口綺羅、MAZZEL・RAN、TSUKKI、超特急・髙松アロハ",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/07/89594/",
+        "publishedAt": "2026-07-22T09:00:00.000Z",
+        "summary": "11月27日(金)に公開されるJO（&TEAM）初主演映画『ワンダンス』の新キャストとして山口綺羅（Girls2）、RAN（MAZZEL）、現役DリーガーのTSUKKI、髙松アロハ（超特急）が出演することが発表された。 原作は単行本累計発行部数110万部を突破し「月刊アフタヌーン」（講談社）で連載中の珈琲による同名漫画。ダンサーからも熱く支持され、昨年放送さ",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "アロハ",
+            "group": "超特急",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "382225983e9781d4",
+        "title": "8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 7月2日からの先行配信リリースに合わせて デジタルキャンペーンが追加決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11354/",
+        "publishedAt": "2026-07-01T06:00:22.000Z",
+        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して8月11日(火・祝)にリリースされる「Yes! 東京」が、いよいよ7月2日（木）より先行配信リリースとなります。超特急、M!LK、SUPER★DRAGON、Sakur […] The post 8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 7月2日からの先行配信リリースに合わせて デ",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK",
           "SUPER★DRAGON"
         ],
         "statuses": [],
