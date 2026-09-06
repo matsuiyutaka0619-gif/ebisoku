@@ -1,6 +1,34 @@
 {
-  "updatedAt": "2026-09-05T20:20:15.750Z",
+  "updatedAt": "2026-09-06T04:38:12.096Z",
   "articles": [
+    {
+      "id": "e98b3ab6a0c2188c",
+      "title": "M!LK5人のメガネ＆サングラス姿が“爆裂ビジュ”すぎる！目黒蓮とのサングラスショットや知的な表情、色気漂う姿まで",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000874650/",
+      "publishedAt": "2026-09-06T04:00:25.000Z",
+      "summary": "人気爆裂中のM!LK。歌やダンスはもちろん、個性豊かな5人のビジュアルにも熱い視線が注がれて...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "a68082a1c7ea9a7b",
+      "title": "「SUPER★DRAGON DRA FES 2026」9月公演 追加販売情報",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news11613/",
+      "publishedAt": "2026-09-06T03:00:08.000Z",
+      "summary": "SOLD OUTとなっておりました「SUPER★DRAGON DRA FES 2026」9月24日(木)東京公演、9月27日(日)大阪公演につきまして、 機材席の一部開放に伴い、若干数ではございますが、追加販売が決定いた […] The post 「SUPER★DRAGON DRA FES 2026」9月公演 追加販売情報 first appeared on",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "73df01c8dcf3315d",
       "title": "M!LK塩﨑太智「しおざきわんだーらんど」MV1,000万回再生突破！グループ12曲目の記録突破に「み！るきーずの皆さまのおかげ」と感謝",
@@ -18,69 +46,6 @@
       "memberMatches": [
         {
           "name": "塩﨑太智",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "5c2e153ed2f620ab",
-      "title": "「ほんとに運命」「運営に爆裂感謝」グループ加入8周年記念日の“同期”2Sにファン歓喜 M!LKの中で一番ギャップを感じるメンバーは「“国宝級”みたいな…」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-      "articleUrl": "https://news.mynavi.jp/article/20260905-4906320/",
-      "publishedAt": "2026-09-05T10:00:00.000Z",
-      "summary": "「俺らって世間からどう思われてるんだろう?」アイドルグループ・M!LKの山中柔太朗と曽野舜太が、メンバーのギャップについて語った――。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "曽野舜太",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "山中柔太朗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "b33979ea01f17e40",
-      "title": "M!LKの爽やかショットを厳選！制服風衣装や浴衣姿、5人の弾ける笑顔にも注目",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000874601/",
-      "publishedAt": "2026-09-05T04:00:09.000Z",
-      "summary": "明るく親しみやすいキャラクターと、個性豊かな魅力で人気を集めるM!LK。本稿では、見ているだ...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "e0b5345692dfb863",
-      "title": "M!LK佐野勇斗のプライベート“爆イケ”ショットを厳選！ブラックコーデやセットアップなど着こなしにも注目",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000874633/",
-      "publishedAt": "2026-09-05T03:00:52.000Z",
-      "summary": "M!LKのメンバーで、俳優としても幅広く活躍する佐野勇斗。ステージや作品で見せる姿とはまた違...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
           "group": "M!LK",
           "status": "active"
         }
@@ -2086,20 +2051,6 @@
       "articleUrl": "https://super-dragon.jp/news/news10916/",
       "publishedAt": "2026-05-01T08:59:23.000Z",
       "summary": "5月9日(土)開催SUPER★DRAGON LIVE TOUR 2026「Studio」福岡公演につきまして、ご都合によりご来場が難しくなったお客様を対象に、本日5月1日(金)18:00よりチケットトレードを実施いたしま […] The post SUPER★DRAGON LIVE TOUR 2026「Studio」チケットトレード情報 first appe",
-      "groups": [
-        "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "b81d7633d680dba1",
-      "title": "SUPER★DRAGON Major 6th Single「Call Me Asap / NUMBER」リリースイベント・特典会開催！（※5月29日更新）",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news10904/",
-      "publishedAt": "2026-04-30T10:59:42.000Z",
-      "summary": "2026年7月15日(水)、SUPER★DRAGONメジャー6枚目となるシングル「Call Me Asap / NUMBER」の発売を記念し、リリースイベント・特典会が決定いたしました！ SUPER★DRAGONと一緒に […] The post SUPER★DRAGON Major 6th Single「Call Me Asap / NUMBER」リリース",
       "groups": [
         "SUPER★DRAGON"
       ],

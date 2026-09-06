@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-09-05T20:20:15.752Z",
+  "updatedAt": "2026-09-06T04:38:12.099Z",
   "totals": {
-    "all": 124,
-    "today": 0,
-    "week": 14
+    "all": 122,
+    "today": 2,
+    "week": 13
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 11
+      "count": 9
     },
     {
       "name": "SUPER★DRAGON",
-      "count": 4
+      "count": 5
     },
     {
       "name": "EBiDAN",
@@ -29,38 +29,38 @@
   ],
   "memberRanking": [
     {
-      "name": "曽野舜太",
-      "count": 4
-    },
-    {
       "name": "塩﨑太智",
       "count": 3
     },
     {
-      "name": "山中柔太朗",
+      "name": "曽野舜太",
       "count": 3
     },
     {
-      "name": "佐野勇斗",
+      "name": "山中柔太朗",
       "count": 2
     },
     {
       "name": "吉田仁人",
+      "count": 1
+    },
+    {
+      "name": "佐野勇斗",
       "count": 1
     }
   ],
   "sourceRanking": [
     {
       "name": "SUPER★DRAGON 公式NEWS",
-      "count": 4
-    },
-    {
-      "name": "THE FIRST TIMES",
-      "count": 3
+      "count": 5
     },
     {
       "name": "マイナビニュース テレビ",
       "count": 3
+    },
+    {
+      "name": "THE FIRST TIMES",
+      "count": 2
     },
     {
       "name": "マイナビニュース 芸能",
@@ -69,15 +69,25 @@
     {
       "name": "タワーレコード ニュース",
       "count": 1
-    },
-    {
-      "name": "マイナビニュース エンタメ",
-      "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
     "M!LK": [
+      {
+        "id": "e98b3ab6a0c2188c",
+        "title": "M!LK5人のメガネ＆サングラス姿が“爆裂ビジュ”すぎる！目黒蓮とのサングラスショットや知的な表情、色気漂う姿まで",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000874650/",
+        "publishedAt": "2026-09-06T04:00:25.000Z",
+        "summary": "人気爆裂中のM!LK。歌やダンスはもちろん、個性豊かな5人のビジュアルにも熱い視線が注がれて...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
       {
         "id": "73df01c8dcf3315d",
         "title": "M!LK塩﨑太智「しおざきわんだーらんど」MV1,000万回再生突破！グループ12曲目の記録突破に「み！るきーずの皆さまのおかげ」と感謝",
@@ -95,69 +105,6 @@
         "memberMatches": [
           {
             "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "5c2e153ed2f620ab",
-        "title": "「ほんとに運命」「運営に爆裂感謝」グループ加入8周年記念日の“同期”2Sにファン歓喜 M!LKの中で一番ギャップを感じるメンバーは「“国宝級”みたいな…」",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20260905-4906320/",
-        "publishedAt": "2026-09-05T10:00:00.000Z",
-        "summary": "「俺らって世間からどう思われてるんだろう?」アイドルグループ・M!LKの山中柔太朗と曽野舜太が、メンバーのギャップについて語った――。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "b33979ea01f17e40",
-        "title": "M!LKの爽やかショットを厳選！制服風衣装や浴衣姿、5人の弾ける笑顔にも注目",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000874601/",
-        "publishedAt": "2026-09-05T04:00:09.000Z",
-        "summary": "明るく親しみやすいキャラクターと、個性豊かな魅力で人気を集めるM!LK。本稿では、見ているだ...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "e0b5345692dfb863",
-        "title": "M!LK佐野勇斗のプライベート“爆イケ”ショットを厳選！ブラックコーデやセットアップなど着こなしにも注目",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000874633/",
-        "publishedAt": "2026-09-05T03:00:52.000Z",
-        "summary": "M!LKのメンバーで、俳優としても幅広く活躍する佐野勇斗。ステージや作品で見せる姿とはまた違...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
             "group": "M!LK",
             "status": "active"
           }
@@ -184,9 +131,59 @@
             "status": "active"
           }
         ]
+      },
+      {
+        "id": "7906af0d10d6bfa5",
+        "title": "『M!LKの爆裂ミッション』第2弾決定 1,300件超応募、世界トレンド1位の反響受け再びGP帯へ",
+        "sourceName": "マイナビニュース テレビ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
+        "articleUrl": "https://news.mynavi.jp/article/20260904-4915397/",
+        "publishedAt": "2026-09-04T07:01:20.000Z",
+        "summary": "世界トレンド1位の反響を受け、早くも第2弾――。TBSの10月改編説明会が4日、東京・赤坂の同局で行われ、M!LKの冠バラエティ特番『M!LKの爆裂ミッション』が、10月6日(22:00～22:57)に放送されることが発表された。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "6a03e3cabd18d8a6",
+        "title": "「言葉で形容しきれないくらい圧巻」M!LK曽野舜太、清塚信也の演奏に感激 『クラシックTV』初登場でラヴェルの魅力に迫る",
+        "sourceName": "マイナビニュース テレビ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
+        "articleUrl": "https://news.mynavi.jp/article/20260903-4911482/",
+        "publishedAt": "2026-09-03T12:00:00.000Z",
+        "summary": "アイドルグループ・M!LKの曽野舜太が、10日放送のNHK Eテレ『クラシックTV』(毎週木曜21:00～21:29)に出演する。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
       }
     ],
     "SUPER★DRAGON": [
+      {
+        "id": "a68082a1c7ea9a7b",
+        "title": "「SUPER★DRAGON DRA FES 2026」9月公演 追加販売情報",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11613/",
+        "publishedAt": "2026-09-06T03:00:08.000Z",
+        "summary": "SOLD OUTとなっておりました「SUPER★DRAGON DRA FES 2026」9月24日(木)東京公演、9月27日(日)大阪公演につきまして、 機材席の一部開放に伴い、若干数ではございますが、追加販売が決定いた […] The post 「SUPER★DRAGON DRA FES 2026」9月公演 追加販売情報 first appeared on",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
       {
         "id": "2736a98779085227",
         "title": "【重要】弊社所属アーティストに関する権利保護方針",
@@ -241,21 +238,6 @@
         "articleUrl": "https://super-dragon.jp/news/news11600/",
         "publishedAt": "2026-08-31T09:30:16.000Z",
         "summary": "本日8月31日(月)18:00よりEBiDAN先行受付開始！ 皆さんとお会いできることを楽しみにしております！ 第６回EBiDAN大運動会『スポーツマンヒップ！』 【千葉】LaLa arena […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』 最新チケット情報 first appeared on SUPER★DRAGON .",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "529e06a874764faf",
-        "title": "『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット、『EBiDAN 15th Anniversaryオフィシャルグッズ』＆『恵比寿学園男子部 校内スナップ』通販決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11580/",
-        "publishedAt": "2026-08-27T09:15:19.000Z",
-        "summary": "『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット、『EBiDAN 15th Anniversaryオフィシャルグッズ』＆『恵比寿学園男子部 校内スナップ』通販 […] The post 『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット、",
         "groups": [
           "EBiDAN",
           "SUPER★DRAGON"
