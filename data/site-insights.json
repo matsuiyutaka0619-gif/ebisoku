@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-06T04:38:12.099Z",
+  "updatedAt": "2026-09-06T10:55:54.047Z",
   "totals": {
     "all": 122,
-    "today": 2,
-    "week": 13
+    "today": 4,
+    "week": 12
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 9
+      "count": 7
     },
     {
       "name": "SUPER★DRAGON",
@@ -23,6 +23,10 @@
       "count": 1
     },
     {
+      "name": "原因は自分にある。",
+      "count": 1
+    },
+    {
       "name": "超特急",
       "count": 1
     }
@@ -30,22 +34,14 @@
   "memberRanking": [
     {
       "name": "塩﨑太智",
-      "count": 3
-    },
-    {
-      "name": "曽野舜太",
-      "count": 3
-    },
-    {
-      "name": "山中柔太朗",
       "count": 2
     },
     {
-      "name": "吉田仁人",
-      "count": 1
+      "name": "曽野舜太",
+      "count": 2
     },
     {
-      "name": "佐野勇斗",
+      "name": "小泉光咲",
       "count": 1
     }
   ],
@@ -55,47 +51,89 @@
       "count": 5
     },
     {
-      "name": "マイナビニュース テレビ",
-      "count": 3
-    },
-    {
       "name": "THE FIRST TIMES",
       "count": 2
     },
     {
-      "name": "マイナビニュース 芸能",
+      "name": "マイナビニュース テレビ",
       "count": 2
     },
     {
+      "name": "WWSチャンネル",
+      "count": 1
+    },
+    {
       "name": "タワーレコード ニュース",
+      "count": 1
+    },
+    {
+      "name": "マイナビニュース 芸能",
       "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
-    "M!LK": [
+    "原因は自分にある。": [
       {
-        "id": "e98b3ab6a0c2188c",
-        "title": "M!LK5人のメガネ＆サングラス姿が“爆裂ビジュ”すぎる！目黒蓮とのサングラスショットや知的な表情、色気漂う姿まで",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000874650/",
-        "publishedAt": "2026-09-06T04:00:25.000Z",
-        "summary": "人気爆裂中のM!LK。歌やダンスはもちろん、個性豊かな5人のビジュアルにも熱い視線が注がれて...",
+        "id": "3bc19feb6c4a238f",
+        "title": "小泉光咲（原因は自分にある。）・四坂亮翔 W主演 『陽キャ集団にいる芹沢は、俺の前だと様子がおかしい』 「バンコク日本博2026」現場レポート＆本人コメント到着",
+        "sourceName": "WWSチャンネル",
+        "sourceUrl": "https://www.wws-channel.com/feed",
+        "articleUrl": "https://www.wws-channel.com/tv/665702.html",
+        "publishedAt": "2026-09-06T08:00:03.000Z",
+        "summary": "読売テレビ・ドラマDiVE枠にて放送中のドラマ『陽キャ集団にいる芹沢は、俺の前だと様子がおかしい』（毎週月曜 深夜1時29分）のW主演を務める小泉光咲（原因は自分にある。）と四坂亮翔が、8月28日（金）、タイ・バンコクで開催された「バンコク日本博2026」に出演した。「 ... The post 小泉光咲（原因は自分にある。）・四坂亮翔 W主演 『陽キャ集団",
         "groups": [
-          "M!LK"
+          "原因は自分にある。"
         ],
-        "statuses": [],
-        "memberMatches": []
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          }
+        ]
       },
       {
-        "id": "73df01c8dcf3315d",
-        "title": "M!LK塩﨑太智「しおざきわんだーらんど」MV1,000万回再生突破！グループ12曲目の記録突破に「み！るきーずの皆さまのおかげ」と感謝",
+        "id": "15fb9ee4d3775ce2",
+        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/07/89645/",
+        "publishedAt": "2026-07-24T12:00:00.000Z",
+        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
+        "groups": [
+          "原因は自分にある。",
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "M!LK": [
+      {
+        "id": "39dfcabab8242b56",
+        "title": "塩崎太智がTOMORROW X TOGETHERと驚きのコラボ！「合成かと思ったら本物だった笑」「一瞬脳がバグった」「カオスすぎる笑」「これは笑った」「ナイスなバランス」ツッコミ続々",
         "sourceName": "THE FIRST TIMES",
         "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000876655/",
-        "publishedAt": "2026-09-05T10:47:32.000Z",
-        "summary": "M!LK公式Xにて、メンバーの塩﨑太智が歌う「しおざきわんだーらんど」のMV再生数が1,000万回を...",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000876793/",
+        "publishedAt": "2026-09-06T05:36:25.000Z",
+        "summary": "M!LKの塩崎太智（※「さき」はたつさきが正式表記）が、自身のXで5人組ボーイズグループTOMORRO...",
         "groups": [
           "M!LK"
         ],
@@ -109,6 +147,20 @@
             "status": "active"
           }
         ]
+      },
+      {
+        "id": "e98b3ab6a0c2188c",
+        "title": "M!LK5人のメガネ＆サングラス姿が“爆裂ビジュ”すぎる！目黒蓮とのサングラスショットや知的な表情、色気漂う姿まで",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000874650/",
+        "publishedAt": "2026-09-06T04:00:25.000Z",
+        "summary": "人気爆裂中のM!LK。歌やダンスはもちろん、個性豊かな5人のビジュアルにも熱い視線が注がれて...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
       },
       {
         "id": "1b8e62c1bcfed0a2",
@@ -403,36 +455,6 @@
         ],
         "statuses": [],
         "memberMatches": []
-      }
-    ],
-    "原因は自分にある。": [
-      {
-        "id": "15fb9ee4d3775ce2",
-        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/07/89645/",
-        "publishedAt": "2026-07-24T12:00:00.000Z",
-        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
-        "groups": [
-          "原因は自分にある。",
-          "BUDDiiS"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "SHOOT",
-            "group": "BUDDiiS",
-            "status": "active"
-          }
-        ]
       }
     ],
     "BUDDiiS": [
