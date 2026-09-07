@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-09-07T12:31:47.922Z",
+  "updatedAt": "2026-09-07T21:30:54.208Z",
   "articles": [
+    {
+      "id": "910eef986a19c384",
+      "title": "King & Prince『So Honey EP』がオリコン週間アルバムランキングで通算9作目の1位！シングルはEBiDAN「Yes! 東京」が首位返り咲き",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000877656/",
+      "publishedAt": "2026-09-07T19:00:03.000Z",
+      "summary": "9月14日付オリコンCDランキング（集計期間：2026年8月31日～9月6日）が発表された。 ■週間シン...",
+      "groups": [
+        "EBiDAN"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "5846806161d1c577",
       "title": "ミセス大森元貴「ｵﾚが火10、、、、、、、？」と困惑！？向井康二＆M!LK山中柔太朗＆上白石萌音との豪華共演に歓喜の声続々",
@@ -76,42 +90,6 @@
       "memberMatches": [
         {
           "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "6800985b49704afb",
-      "title": "M!LK新曲ティザー5人分が出揃い！幻想世界で5人5様の華やかビジュアル披露「ちょっと待ってカッコよすぎ」「これがメロいの極みか」「ウインクは反則すぎる」「仁人さんの大人の余裕を感じる」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000877257/",
-      "publishedAt": "2026-09-07T04:50:43.000Z",
-      "summary": "M!LKの新曲「時空超えてユニバース」が9月7日に先行配信された。同曲は、9月16日にリリースさ...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "d61d0103145619cd",
-      "title": "M!LK吉田仁人が“書道”の腕前を披露！真剣な表情で筆を走らせる姿＆力強い作品に「達筆！」「左手でこんなに上手に筆使えるのすごい」「所作も素敵」の声",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000877272/",
-      "publishedAt": "2026-09-07T03:57:25.000Z",
-      "summary": "『限界突破！やってM!LK』シーズン2（TBS系）の公式SNSが更新。吉田仁人（M!LK）が書道に挑戦...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "吉田仁人",
           "group": "M!LK",
           "status": "active"
         }
