@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-07T04:40:36.380Z",
+  "updatedAt": "2026-09-07T12:31:47.925Z",
   "totals": {
-    "all": 123,
-    "today": 4,
-    "week": 13
+    "all": 124,
+    "today": 6,
+    "week": 14
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 7
+      "count": 9
     },
     {
       "name": "SUPER★DRAGON",
@@ -16,7 +16,7 @@
     },
     {
       "name": "EBiDAN",
-      "count": 3
+      "count": 1
     },
     {
       "name": "Sakurashimeji",
@@ -33,10 +33,6 @@
   ],
   "memberRanking": [
     {
-      "name": "佐野勇斗",
-      "count": 2
-    },
-    {
       "name": "塩﨑太智",
       "count": 1
     },
@@ -45,11 +41,23 @@
       "count": 1
     },
     {
+      "name": "佐野勇斗",
+      "count": 1
+    },
+    {
+      "name": "山中柔太朗",
+      "count": 1
+    },
+    {
       "name": "小泉光咲",
       "count": 1
     },
     {
       "name": "曽野舜太",
+      "count": 1
+    },
+    {
+      "name": "飯島颯",
       "count": 1
     }
   ],
@@ -60,7 +68,7 @@
     },
     {
       "name": "THE FIRST TIMES",
-      "count": 4
+      "count": 5
     },
     {
       "name": "WWSチャンネル",
@@ -83,6 +91,78 @@
   "recentByGroup": {
     "M!LK": [
       {
+        "id": "5846806161d1c577",
+        "title": "ミセス大森元貴「ｵﾚが火10、、、、、、、？」と困惑！？向井康二＆M!LK山中柔太朗＆上白石萌音との豪華共演に歓喜の声続々",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000877464/",
+        "publishedAt": "2026-09-07T09:01:41.000Z",
+        "summary": "2026年10月スタートの、上白石萌音主演TBS系火曜ドラマ『いろはの恋は時代（とき）をかける』...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "ee14f6015ab7ab28",
+        "title": "M!LK5人が“密着”して横一列！肩に手を添えて連なる仲良しショットに「キュッとしてるのかわいすぎる」「仁人くんがいちばん大きい」「前髪下ろし塩さんビジュが良すぎる」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000877343/",
+        "publishedAt": "2026-09-07T06:38:20.000Z",
+        "summary": "M!LKの冠バラエティ番組『M!LKの爆裂ミッション』（TBS系）第2弾の放送が決定。番組公式SNSとM...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "4a008661686df0b2",
+        "title": "M!LK佐野勇斗の重力を無視したかのような“芸術的な寝癖”に反響！「ボリュームすごっ」「トリミングを受けてるトイプードルみたい」「なぜそうなったw」「佐野さんの何とも言えないお顔が好き」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000877410/",
+        "publishedAt": "2026-09-07T05:44:16.000Z",
+        "summary": "ドラマ『君の好きは無敵』（TBS系）の公式SNSが更新。佐野勇斗（M!LK）と松本若菜の撮影オフシ...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "6800985b49704afb",
+        "title": "M!LK新曲ティザー5人分が出揃い！幻想世界で5人5様の華やかビジュアル披露「ちょっと待ってカッコよすぎ」「これがメロいの極みか」「ウインクは反則すぎる」「仁人さんの大人の余裕を感じる」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000877257/",
+        "publishedAt": "2026-09-07T04:50:43.000Z",
+        "summary": "M!LKの新曲「時空超えてユニバース」が9月7日に先行配信された。同曲は、9月16日にリリースさ...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
         "id": "d61d0103145619cd",
         "title": "M!LK吉田仁人が“書道”の腕前を披露！真剣な表情で筆を走らせる姿＆力強い作品に「達筆！」「左手でこんなに上手に筆使えるのすごい」「所作も素敵」の声",
         "sourceName": "THE FIRST TIMES",
@@ -103,103 +183,145 @@
             "status": "active"
           }
         ]
-      },
+      }
+    ],
+    "SUPER★DRAGON": [
       {
-        "id": "0c18c9f207adc733",
-        "title": "M!LK5人がド派手“トロピカル衣装”でリレーダンス！次々カメラに接近＆佐野勇斗を囲んでポーズも「かわいすぎる」「笑顔が眩しい」「上目遣いやばい」「ふわふわファーがわんちゃんみたい」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000877127/",
-        "publishedAt": "2026-09-07T03:00:21.000Z",
-        "summary": "M!LK公式TikTokにて、“トロピカル衣装”の「アイドルパワー」リレーダンスが公開された。 ■佐野...",
+        "id": "5fe29a70c717c000",
+        "title": "【飯島颯】星新一生誕 100 年記念朗読劇「星新一が描いた未来」出演決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11615/",
+        "publishedAt": "2026-09-07T09:00:41.000Z",
+        "summary": "星新一生誕100年記念朗読劇「星新一が描いた未来」 【開催日時】 2026年9月30日(水) ～ 10月7日(水) ※颯はプログラム A・B に出演 【会場】 IMM THEATER （東京都文京区後楽1丁目3-53） […] The post 【飯島颯】星新一生誕 100 年記念朗読劇「星新一が描いた未来」出演決定！ first appeared on S",
         "groups": [
-          "M!LK"
+          "SUPER★DRAGON"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "佐野勇斗",
-            "group": "M!LK",
+            "name": "飯島颯",
+            "group": "SUPER★DRAGON",
             "status": "active"
           }
         ]
       },
       {
-        "id": "c7778a3946941ee3",
-        "title": "M!LK佐野勇斗が“圧巻のコレクション”に囲まれ満面の笑み！部屋を埋め尽くす『トイ・ストーリー』グッズに「想像以上でびっくり！」「量がすごい」「ガチファンなの伝わってくる」「幸せそう」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000877142/",
-        "publishedAt": "2026-09-07T01:42:47.000Z",
-        "summary": "M!LKの佐野勇斗が自身のInstagramを更新。大好きな『トイ・ストーリー』グッズに囲まれたショ...",
+        "id": "a68082a1c7ea9a7b",
+        "title": "「SUPER★DRAGON DRA FES 2026」9月公演 追加販売情報",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11613/",
+        "publishedAt": "2026-09-06T03:00:08.000Z",
+        "summary": "SOLD OUTとなっておりました「SUPER★DRAGON DRA FES 2026」9月24日(木)東京公演、9月27日(日)大阪公演につきまして、 機材席の一部開放に伴い、若干数ではございますが、追加販売が決定いた […] The post 「SUPER★DRAGON DRA FES 2026」9月公演 追加販売情報 first appeared on",
         "groups": [
-          "M!LK"
+          "SUPER★DRAGON"
         ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
+        "statuses": [],
+        "memberMatches": []
       },
       {
-        "id": "1b8e62c1bcfed0a2",
-        "title": "9月10日放送のNHK Eテレ「クラシックTV」、曽野舜太（M!LK）初登場。「曽野舜太と巡る！ラヴェルのカラフルワールド」オンエア",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/09/04/tg007",
-        "publishedAt": "2026-09-04T11:30:00.000Z",
-        "summary": "",
+        "id": "2736a98779085227",
+        "title": "【重要】弊社所属アーティストに関する権利保護方針",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11611/",
+        "publishedAt": "2026-09-04T12:00:30.000Z",
+        "summary": "いつも弊社所属アーティストを温かく応援いただき、誠にありがとうございます。 弊社は、所属アーティストが安心して創作・芸能活動に専念できる環境を維持し、同時にファンの皆様が健全に応援活動を楽しめる場を守るため、以下の通り権 […] The post 【重要】弊社所属アーティストに関する権利保護方針 first appeared on SUPER★DRAGON ",
         "groups": [
-          "M!LK"
+          "SUPER★DRAGON"
         ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
+        "statuses": [],
+        "memberMatches": []
       },
       {
-        "id": "7906af0d10d6bfa5",
-        "title": "『M!LKの爆裂ミッション』第2弾決定 1,300件超応募、世界トレンド1位の反響受け再びGP帯へ",
-        "sourceName": "マイナビニュース テレビ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-        "articleUrl": "https://news.mynavi.jp/article/20260904-4915397/",
-        "publishedAt": "2026-09-04T07:01:20.000Z",
-        "summary": "世界トレンド1位の反響を受け、早くも第2弾――。TBSの10月改編説明会が4日、東京・赤坂の同局で行われ、M!LKの冠バラエティ特番『M!LKの爆裂ミッション』が、10月6日(22:00～22:57)に放送されることが発表された。",
+        "id": "47f16c975ff422cd",
+        "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11607/",
+        "publishedAt": "2026-09-02T12:34:24.000Z",
+        "summary": "平素より株式会社SDR所属アーティストへの温かいご声援を賜り、誠にありがとうございます。 DISH//、EBiDAN（超特急、M!LK、SUPER★DRAGON、Sakurashimeji、ONE N’ ON […] The post グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ first appeared on SUPER★DRAGO",
         "groups": [
-          "M!LK"
+          "EBiDAN",
+          "超特急",
+          "M!LK",
+          "SUPER★DRAGON",
+          "Sakurashimeji"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "0472097ee2768398",
+        "title": "「SUPER★DRAGON DRA FES 2026 追加公演」最新チケット情報！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11603/",
+        "publishedAt": "2026-09-01T09:00:32.000Z",
+        "summary": "本日9月1日(火)18:00より『+KIRARI』会員先行が受付開始。 会場で皆さんとお会いできることを楽しみにしております！ ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願いと注意事項】 http […] The post 「SUPER★DRAGON DRA FES 2026 追加公演」最新チケット情報！ first appeared",
+        "groups": [
+          "SUPER★DRAGON"
         ],
         "statuses": [],
         "memberMatches": []
       }
     ],
-    "EBiDAN": [
+    "原因は自分にある。": [
       {
-        "id": "975bc6ce801ef0ea",
-        "title": "【今夜放送『CDTVライブ！ライブ！』出演者＆歌唱曲】 SixTONESが新曲「マイオンリー」を歌唱！EBiDAN、AKB48、T.M.Revolutionはおかわりライブ",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000877275/",
-        "publishedAt": "2026-09-07T03:43:11.000Z",
-        "summary": "9月7日19時から放送のTBS『CDTVライブ！ライブ！』の出演者、歌唱楽曲が発表された。 ■出演ア...",
+        "id": "3bc19feb6c4a238f",
+        "title": "小泉光咲（原因は自分にある。）・四坂亮翔 W主演 『陽キャ集団にいる芹沢は、俺の前だと様子がおかしい』 「バンコク日本博2026」現場レポート＆本人コメント到着",
+        "sourceName": "WWSチャンネル",
+        "sourceUrl": "https://www.wws-channel.com/feed",
+        "articleUrl": "https://www.wws-channel.com/tv/665702.html",
+        "publishedAt": "2026-09-06T08:00:03.000Z",
+        "summary": "読売テレビ・ドラマDiVE枠にて放送中のドラマ『陽キャ集団にいる芹沢は、俺の前だと様子がおかしい』（毎週月曜 深夜1時29分）のW主演を務める小泉光咲（原因は自分にある。）と四坂亮翔が、8月28日（金）、タイ・バンコクで開催された「バンコク日本博2026」に出演した。「 ... The post 小泉光咲（原因は自分にある。）・四坂亮翔 W主演 『陽キャ集団",
         "groups": [
-          "EBiDAN"
+          "原因は自分にある。"
         ],
-        "statuses": [],
-        "memberMatches": []
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          }
+        ]
       },
+      {
+        "id": "15fb9ee4d3775ce2",
+        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/07/89645/",
+        "publishedAt": "2026-07-24T12:00:00.000Z",
+        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
+        "groups": [
+          "原因は自分にある。",
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "EBiDAN": [
       {
         "id": "47f16c975ff422cd",
         "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
@@ -262,129 +384,15 @@
         ],
         "statuses": [],
         "memberMatches": []
-      }
-    ],
-    "原因は自分にある。": [
-      {
-        "id": "3bc19feb6c4a238f",
-        "title": "小泉光咲（原因は自分にある。）・四坂亮翔 W主演 『陽キャ集団にいる芹沢は、俺の前だと様子がおかしい』 「バンコク日本博2026」現場レポート＆本人コメント到着",
-        "sourceName": "WWSチャンネル",
-        "sourceUrl": "https://www.wws-channel.com/feed",
-        "articleUrl": "https://www.wws-channel.com/tv/665702.html",
-        "publishedAt": "2026-09-06T08:00:03.000Z",
-        "summary": "読売テレビ・ドラマDiVE枠にて放送中のドラマ『陽キャ集団にいる芹沢は、俺の前だと様子がおかしい』（毎週月曜 深夜1時29分）のW主演を務める小泉光咲（原因は自分にある。）と四坂亮翔が、8月28日（金）、タイ・バンコクで開催された「バンコク日本博2026」に出演した。「 ... The post 小泉光咲（原因は自分にある。）・四坂亮翔 W主演 『陽キャ集団",
-        "groups": [
-          "原因は自分にある。"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          }
-        ]
       },
       {
-        "id": "15fb9ee4d3775ce2",
-        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/07/89645/",
-        "publishedAt": "2026-07-24T12:00:00.000Z",
-        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
-        "groups": [
-          "原因は自分にある。",
-          "BUDDiiS"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "SHOOT",
-            "group": "BUDDiiS",
-            "status": "active"
-          }
-        ]
-      }
-    ],
-    "SUPER★DRAGON": [
-      {
-        "id": "a68082a1c7ea9a7b",
-        "title": "「SUPER★DRAGON DRA FES 2026」9月公演 追加販売情報",
+        "id": "91a2a4d301121007",
+        "title": "【SUPERSTAR EBiDAN】 「EBiDAN THE LIVE 2026 15th Anniversary」開催記念！ゲーム内イベント実施",
         "sourceName": "SUPER★DRAGON 公式NEWS",
         "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11613/",
-        "publishedAt": "2026-09-06T03:00:08.000Z",
-        "summary": "SOLD OUTとなっておりました「SUPER★DRAGON DRA FES 2026」9月24日(木)東京公演、9月27日(日)大阪公演につきまして、 機材席の一部開放に伴い、若干数ではございますが、追加販売が決定いた […] The post 「SUPER★DRAGON DRA FES 2026」9月公演 追加販売情報 first appeared on",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "2736a98779085227",
-        "title": "【重要】弊社所属アーティストに関する権利保護方針",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11611/",
-        "publishedAt": "2026-09-04T12:00:30.000Z",
-        "summary": "いつも弊社所属アーティストを温かく応援いただき、誠にありがとうございます。 弊社は、所属アーティストが安心して創作・芸能活動に専念できる環境を維持し、同時にファンの皆様が健全に応援活動を楽しめる場を守るため、以下の通り権 […] The post 【重要】弊社所属アーティストに関する権利保護方針 first appeared on SUPER★DRAGON ",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "47f16c975ff422cd",
-        "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11607/",
-        "publishedAt": "2026-09-02T12:34:24.000Z",
-        "summary": "平素より株式会社SDR所属アーティストへの温かいご声援を賜り、誠にありがとうございます。 DISH//、EBiDAN（超特急、M!LK、SUPER★DRAGON、Sakurashimeji、ONE N’ ON […] The post グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ first appeared on SUPER★DRAGO",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK",
-          "SUPER★DRAGON",
-          "Sakurashimeji"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "0472097ee2768398",
-        "title": "「SUPER★DRAGON DRA FES 2026 追加公演」最新チケット情報！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11603/",
-        "publishedAt": "2026-09-01T09:00:32.000Z",
-        "summary": "本日9月1日(火)18:00より『+KIRARI』会員先行が受付開始。 会場で皆さんとお会いできることを楽しみにしております！ ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願いと注意事項】 http […] The post 「SUPER★DRAGON DRA FES 2026 追加公演」最新チケット情報！ first appeared",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "7277b3cf409678c0",
-        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』 最新チケット情報",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11600/",
-        "publishedAt": "2026-08-31T09:30:16.000Z",
-        "summary": "本日8月31日(月)18:00よりEBiDAN先行受付開始！ 皆さんとお会いできることを楽しみにしております！ 第６回EBiDAN大運動会『スポーツマンヒップ！』 【千葉】LaLa arena […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』 最新チケット情報 first appeared on SUPER★DRAGON .",
+        "articleUrl": "https://super-dragon.jp/news/news11560/",
+        "publishedAt": "2026-08-12T08:00:18.000Z",
+        "summary": "EBiDAN公式リズムゲーム『SUPERSTAR EBiDAN』では、 「EBiDAN THE LIVE 2026 15th Anniversary」の開催を記念して、期間限定のゲーム内イベントを実施いたします！ ここで […] The post 【SUPERSTAR EBiDAN】 「EBiDAN THE LIVE 2026 15th Anniversar",
         "groups": [
           "EBiDAN",
           "SUPER★DRAGON"
