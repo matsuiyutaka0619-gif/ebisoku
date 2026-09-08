@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-08T11:18:19.172Z",
+  "updatedAt": "2026-09-08T16:37:50.595Z",
   "totals": {
-    "all": 121,
-    "today": 5,
-    "week": 11
+    "all": 123,
+    "today": 0,
+    "week": 13
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 7
+      "count": 9
     },
     {
       "name": "SUPER★DRAGON",
@@ -37,6 +37,10 @@
       "count": 2
     },
     {
+      "name": "佐野勇斗",
+      "count": 2
+    },
+    {
       "name": "山中柔太朗",
       "count": 2
     },
@@ -46,10 +50,6 @@
     },
     {
       "name": "吉田仁人",
-      "count": 1
-    },
-    {
-      "name": "佐野勇斗",
       "count": 1
     },
     {
@@ -75,57 +75,43 @@
       "count": 2
     },
     {
+      "name": "Bezzy",
+      "count": 1
+    },
+    {
       "name": "マイナビニュース 芸能",
+      "count": 1
+    },
+    {
+      "name": "リアルサウンド 映画部",
       "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
-    "BUDDiiS": [
+    "M!LK": [
       {
-        "id": "adaf6f72015c594a",
-        "title": "こたに、新曲「いれもの」が10月アニメ『貸した魔力は【リボ払い】で強制徴収』ED主題歌に",
-        "sourceName": "BARKS",
-        "sourceUrl": "https://www.barks.jp/feed/",
-        "articleUrl": "https://barks.jp/news/1087354",
-        "publishedAt": "2026-09-08T10:00:59.000Z",
-        "summary": "シンガーソングライター・こたにの新曲「いれもの」が、10月3日（土）よりテレビ朝日系全国24局ネットにて放送スタートとなる、TVアニメ『貸した魔力は【リボ払い】で強制徴収』エンディング主題歌に決定、10月4日（日）に配信リリースされることが発表された。 名誉伝説のボーカリストとしても知られるこたにだが、本楽曲「いれもの」はこたにソロ楽曲として初のアニメタイア",
+        "id": "d1818d4d252146fa",
+        "title": "『君の好きは無敵』最終回直前に描かれた愛の危うさ “好き”は本当に無敵だったのか",
+        "sourceName": "リアルサウンド 映画部",
+        "sourceUrl": "https://realsound.jp/movie/feed",
+        "articleUrl": "https://realsound.jp/movie/2026/09/post-2516706.html",
+        "publishedAt": "2026-09-08T14:10:47.000Z",
+        "summary": "松本若菜と佐野勇斗が共演する『君の好きは無敵』（TBS系）が、9月15日に最終回を迎える。セミファイナルとなる第9話は、これまで疑うことなく受け入れてきた「好きは無敵」というタイトルを、改めて見つめ直す回となった。",
         "groups": [
-          "BUDDiiS"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "15fb9ee4d3775ce2",
-        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/07/89645/",
-        "publishedAt": "2026-07-24T12:00:00.000Z",
-        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
-        "groups": [
-          "原因は自分にある。",
-          "BUDDiiS"
+          "M!LK"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "SHOOT",
-            "group": "BUDDiiS",
+            "name": "佐野勇斗",
+            "group": "M!LK",
             "status": "active"
           }
         ]
-      }
-    ],
-    "M!LK": [
+      },
       {
         "id": "2663aa19c63dac15",
         "title": "M!LK、1stミニアルバムから「時空超えてユニバース」先行配信スタート。新ビジュアル公開",
@@ -183,6 +169,20 @@
         "memberMatches": []
       },
       {
+        "id": "976120bc3101651a",
+        "title": "M!LKが“ユニバース”を背負う新アー写公開、1stミニアルバムリード曲は早くもチャート席巻中",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/09/91880/",
+        "publishedAt": "2026-09-08T09:00:00.000Z",
+        "summary": "5人組ダンスボーカルグループ・M!LKが、9月16日(水)に控えるミニアルバム『LOVE ENG!NE』リリースに先駆けて最新アーティスト写真を公開した。 M!LKにとって初ミニアルバムとなる本作からは、リード曲「時空超えてユニバース」（ときこえてゆにばーす）の先行配信が9月7日(月)にスタート。配信開始直後からXのトレンドで「#ときユニ」が1位を獲得したほ",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
         "id": "af38c3076da2dde1",
         "title": "大森元貴（Mrs. GREEN APPLE）、上白石萌音・向井康二・山中柔太朗出演のTBSドラマ「いろはの恋は時代をかける」出演決定。役どころは初回放送で明らかに",
         "sourceName": "タワーレコード ニュース",
@@ -203,39 +203,47 @@
             "status": "active"
           }
         ]
-      },
+      }
+    ],
+    "BUDDiiS": [
       {
-        "id": "441b40a88823d221",
-        "title": "M!LK5人が“新曲ダンス初披露”！ロングコートやショートパンツ×ロングブーツ姿でハートポーズも「超かっこいい」「みんなスタイル良いから何着ても王子様」「振り付け最高」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000877951/",
-        "publishedAt": "2026-09-08T03:34:30.000Z",
-        "summary": "M!LKの公式SNSが更新。9月7日に先行配信された「時空超えてユニバース」に合わせて、5人がダン...",
+        "id": "adaf6f72015c594a",
+        "title": "こたに、新曲「いれもの」が10月アニメ『貸した魔力は【リボ払い】で強制徴収』ED主題歌に",
+        "sourceName": "BARKS",
+        "sourceUrl": "https://www.barks.jp/feed/",
+        "articleUrl": "https://barks.jp/news/1087354",
+        "publishedAt": "2026-09-08T10:00:59.000Z",
+        "summary": "シンガーソングライター・こたにの新曲「いれもの」が、10月3日（土）よりテレビ朝日系全国24局ネットにて放送スタートとなる、TVアニメ『貸した魔力は【リボ払い】で強制徴収』エンディング主題歌に決定、10月4日（日）に配信リリースされることが発表された。 名誉伝説のボーカリストとしても知られるこたにだが、本楽曲「いれもの」はこたにソロ楽曲として初のアニメタイア",
         "groups": [
-          "M!LK"
+          "BUDDiiS"
         ],
         "statuses": [],
         "memberMatches": []
       },
       {
-        "id": "1b8e62c1bcfed0a2",
-        "title": "9月10日放送のNHK Eテレ「クラシックTV」、曽野舜太（M!LK）初登場。「曽野舜太と巡る！ラヴェルのカラフルワールド」オンエア",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/09/04/tg007",
-        "publishedAt": "2026-09-04T11:30:00.000Z",
-        "summary": "",
+        "id": "15fb9ee4d3775ce2",
+        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/07/89645/",
+        "publishedAt": "2026-07-24T12:00:00.000Z",
+        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
         "groups": [
-          "M!LK"
+          "原因は自分にある。",
+          "BUDDiiS"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "曽野舜太",
-            "group": "M!LK",
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
             "status": "active"
           }
         ]

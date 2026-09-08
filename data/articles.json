@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-09-08T11:18:19.170Z",
+  "updatedAt": "2026-09-08T16:37:50.594Z",
   "articles": [
+    {
+      "id": "d1818d4d252146fa",
+      "title": "『君の好きは無敵』最終回直前に描かれた愛の危うさ “好き”は本当に無敵だったのか",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/09/post-2516706.html",
+      "publishedAt": "2026-09-08T14:10:47.000Z",
+      "summary": "松本若菜と佐野勇斗が共演する『君の好きは無敵』（TBS系）が、9月15日に最終回を迎える。セミファイナルとなる第9話は、これまで疑うことなく受け入れてきた「好きは無敵」というタイトルを、改めて見つめ直す回となった。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "adaf6f72015c594a",
       "title": "こたに、新曲「いれもの」が10月アニメ『貸した魔力は【リボ払い】で強制徴収』ED主題歌に",
@@ -65,6 +87,20 @@
       "articleUrl": "https://www.thefirsttimes.jp/news/0000878255/",
       "publishedAt": "2026-09-08T09:00:24.000Z",
       "summary": "M!LKが、9月16日リリースのミニアルバム『LOVE ENG!NE』より、リード曲「時空超えてユニバース...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "976120bc3101651a",
+      "title": "M!LKが“ユニバース”を背負う新アー写公開、1stミニアルバムリード曲は早くもチャート席巻中",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/09/91880/",
+      "publishedAt": "2026-09-08T09:00:00.000Z",
+      "summary": "5人組ダンスボーカルグループ・M!LKが、9月16日(水)に控えるミニアルバム『LOVE ENG!NE』リリースに先駆けて最新アーティスト写真を公開した。 M!LKにとって初ミニアルバムとなる本作からは、リード曲「時空超えてユニバース」（ときこえてゆにばーす）の先行配信が9月7日(月)にスタート。配信開始直後からXのトレンドで「#ときユニ」が1位を獲得したほ",
       "groups": [
         "M!LK"
       ],
