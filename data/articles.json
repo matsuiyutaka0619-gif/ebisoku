@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-09-07T21:30:54.208Z",
+  "updatedAt": "2026-09-08T04:35:04.293Z",
   "articles": [
+    {
+      "id": "441b40a88823d221",
+      "title": "M!LK5人が“新曲ダンス初披露”！ロングコートやショートパンツ×ロングブーツ姿でハートポーズも「超かっこいい」「みんなスタイル良いから何着ても王子様」「振り付け最高」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000877951/",
+      "publishedAt": "2026-09-08T03:34:30.000Z",
+      "summary": "M!LKの公式SNSが更新。9月7日に先行配信された「時空超えてユニバース」に合わせて、5人がダン...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "7ecea130503c7f72",
+      "title": "福士蒼汰主演『ハイド＆シーク』に葉山奨之、志賀李玖ら出演 “裏の顔”を持つ人物相関図も",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/09/post-2515574.html",
+      "publishedAt": "2026-09-08T03:00:20.000Z",
+      "summary": "10月4日より日本テレビ系で放送がスタートする福士蒼汰主演の新日曜ドラマ『ハイド＆シーク 0秒前の彼女』の追加キャストとして、葉山奨之、志賀李玖、勝村政信、松尾諭、袴田吉彦、山崎裕太、櫻井淳子、藤﨑ゆみあの出演が発表さ",
+      "groups": [
+        "ICEx"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "志賀李玖",
+          "group": "ICEx",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "910eef986a19c384",
       "title": "King & Prince『So Honey EP』がオリコン週間アルバムランキングで通算9作目の1位！シングルはEBiDAN「Yes! 東京」が首位返り咲き",
@@ -14,28 +50,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "5846806161d1c577",
-      "title": "ミセス大森元貴「ｵﾚが火10、、、、、、、？」と困惑！？向井康二＆M!LK山中柔太朗＆上白石萌音との豪華共演に歓喜の声続々",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000877464/",
-      "publishedAt": "2026-09-07T09:01:41.000Z",
-      "summary": "2026年10月スタートの、上白石萌音主演TBS系火曜ドラマ『いろはの恋は時代（とき）をかける』...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "山中柔太朗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "5fe29a70c717c000",
@@ -55,64 +69,6 @@
         {
           "name": "飯島颯",
           "group": "SUPER★DRAGON",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "ee14f6015ab7ab28",
-      "title": "M!LK5人が“密着”して横一列！肩に手を添えて連なる仲良しショットに「キュッとしてるのかわいすぎる」「仁人くんがいちばん大きい」「前髪下ろし塩さんビジュが良すぎる」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000877343/",
-      "publishedAt": "2026-09-07T06:38:20.000Z",
-      "summary": "M!LKの冠バラエティ番組『M!LKの爆裂ミッション』（TBS系）第2弾の放送が決定。番組公式SNSとM...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "4a008661686df0b2",
-      "title": "M!LK佐野勇斗の重力を無視したかのような“芸術的な寝癖”に反響！「ボリュームすごっ」「トリミングを受けてるトイプードルみたい」「なぜそうなったw」「佐野さんの何とも言えないお顔が好き」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000877410/",
-      "publishedAt": "2026-09-07T05:44:16.000Z",
-      "summary": "ドラマ『君の好きは無敵』（TBS系）の公式SNSが更新。佐野勇斗（M!LK）と松本若菜の撮影オフシ...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "3bc19feb6c4a238f",
-      "title": "小泉光咲（原因は自分にある。）・四坂亮翔 W主演 『陽キャ集団にいる芹沢は、俺の前だと様子がおかしい』 「バンコク日本博2026」現場レポート＆本人コメント到着",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/tv/665702.html",
-      "publishedAt": "2026-09-06T08:00:03.000Z",
-      "summary": "読売テレビ・ドラマDiVE枠にて放送中のドラマ『陽キャ集団にいる芹沢は、俺の前だと様子がおかしい』（毎週月曜 深夜1時29分）のW主演を務める小泉光咲（原因は自分にある。）と四坂亮翔が、8月28日（金）、タイ・バンコクで開催された「バンコク日本博2026」に出演した。「 ... The post 小泉光咲（原因は自分にある。）・四坂亮翔 W主演 『陽キャ集団",
-      "groups": [
-        "原因は自分にある。"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "小泉光咲",
-          "group": "原因は自分にある。",
           "status": "active"
         }
       ]
@@ -166,20 +122,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "7906af0d10d6bfa5",
-      "title": "『M!LKの爆裂ミッション』第2弾決定 1,300件超応募、世界トレンド1位の反響受け再びGP帯へ",
-      "sourceName": "マイナビニュース テレビ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-      "articleUrl": "https://news.mynavi.jp/article/20260904-4915397/",
-      "publishedAt": "2026-09-04T07:01:20.000Z",
-      "summary": "世界トレンド1位の反響を受け、早くも第2弾――。TBSの10月改編説明会が4日、東京・赤坂の同局で行われ、M!LKの冠バラエティ特番『M!LKの爆裂ミッション』が、10月6日(22:00～22:57)に放送されることが発表された。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "47f16c975ff422cd",
@@ -249,48 +191,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "5a8eb9a06c1c63b3",
-      "title": "日曜トライアル 第40回 「5人の時間を…」「楽しすぎて…」M!LKの個人YouTubeを見ていて感じたこと それぞれが口にするグループの“絆”",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/sunday_trial-40/",
-      "publishedAt": "2026-08-30T10:00:00.000Z",
-      "summary": "「イイじゃん」が大ヒットし、昨年末には『第76回NHK紅白歌合戦』への初出場を果たした5人組ダンスボーカルグループ・M!LK。結成から10年以上を経て、グループとして大きな飛躍を遂げる一方、最近では佐野勇斗に続き山中柔太朗、曽野舜太がそれぞれ個人YouTubeチャンネルを開設し、塩崎太智と吉田仁人も『じんだいチャンネル』を約4年半ぶりに復活させるなど、You",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "塩﨑太智",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "曽野舜太",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "山中柔太朗",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "bbd8056d67a448a4",
