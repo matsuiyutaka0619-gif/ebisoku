@@ -1,6 +1,98 @@
 {
-  "updatedAt": "2026-09-08T04:35:04.293Z",
+  "updatedAt": "2026-09-08T11:18:19.170Z",
   "articles": [
+    {
+      "id": "adaf6f72015c594a",
+      "title": "こたに、新曲「いれもの」が10月アニメ『貸した魔力は【リボ払い】で強制徴収』ED主題歌に",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1087354",
+      "publishedAt": "2026-09-08T10:00:59.000Z",
+      "summary": "シンガーソングライター・こたにの新曲「いれもの」が、10月3日（土）よりテレビ朝日系全国24局ネットにて放送スタートとなる、TVアニメ『貸した魔力は【リボ払い】で強制徴収』エンディング主題歌に決定、10月4日（日）に配信リリースされることが発表された。 名誉伝説のボーカリストとしても知られるこたにだが、本楽曲「いれもの」はこたにソロ楽曲として初のアニメタイア",
+      "groups": [
+        "BUDDiiS"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "2663aa19c63dac15",
+      "title": "M!LK、1stミニアルバムから「時空超えてユニバース」先行配信スタート。新ビジュアル公開",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1087324",
+      "publishedAt": "2026-09-08T09:00:54.000Z",
+      "summary": "M!LKが、9月16日(水)リリースのミニアルバム『LOVE ENG!NE』より、リード曲「時空超えてユニバース」の先行配信を9月7日(月)にスタート。さらに本日8日に新アーティスト写真が公開された。 新曲「時空超えてユニバース」は配信開始直後からXのトレンドで「＃ときユニ」が1位を獲得したほか、iTunesトップソング・レコチョク、music.jp、mor",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "塩﨑太智",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "曽野舜太",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "78dd4d64bcad4d78",
+      "title": "M!LK、ミニアルバム『LOVE ENG!NE』リード曲「時空超えてユニバース」先行配信スタート＆最新アーティスト写真公開",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000878255/",
+      "publishedAt": "2026-09-08T09:00:24.000Z",
+      "summary": "M!LKが、9月16日リリースのミニアルバム『LOVE ENG!NE』より、リード曲「時空超えてユニバース...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "af38c3076da2dde1",
+      "title": "大森元貴（Mrs. GREEN APPLE）、上白石萌音・向井康二・山中柔太朗出演のTBSドラマ「いろはの恋は時代をかける」出演決定。役どころは初回放送で明らかに",
+      "sourceName": "タワーレコード ニュース",
+      "sourceUrl": "https://tower.jp/feeds/article/news",
+      "articleUrl": "https://tower.jp/article/news/2026/09/08/tg006",
+      "publishedAt": "2026-09-08T08:20:00.000Z",
+      "summary": "",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "441b40a88823d221",
       "title": "M!LK5人が“新曲ダンス初披露”！ロングコートやショートパンツ×ロングブーツ姿でハートポーズも「超かっこいい」「みんなスタイル良いから何着ても王子様」「振り付け最高」",
@@ -11,42 +103,6 @@
       "summary": "M!LKの公式SNSが更新。9月7日に先行配信された「時空超えてユニバース」に合わせて、5人がダン...",
       "groups": [
         "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "7ecea130503c7f72",
-      "title": "福士蒼汰主演『ハイド＆シーク』に葉山奨之、志賀李玖ら出演 “裏の顔”を持つ人物相関図も",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/09/post-2515574.html",
-      "publishedAt": "2026-09-08T03:00:20.000Z",
-      "summary": "10月4日より日本テレビ系で放送がスタートする福士蒼汰主演の新日曜ドラマ『ハイド＆シーク 0秒前の彼女』の追加キャストとして、葉山奨之、志賀李玖、勝村政信、松尾諭、袴田吉彦、山崎裕太、櫻井淳子、藤﨑ゆみあの出演が発表さ",
-      "groups": [
-        "ICEx"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "志賀李玖",
-          "group": "ICEx",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "910eef986a19c384",
-      "title": "King & Prince『So Honey EP』がオリコン週間アルバムランキングで通算9作目の1位！シングルはEBiDAN「Yes! 東京」が首位返り咲き",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000877656/",
-      "publishedAt": "2026-09-07T19:00:03.000Z",
-      "summary": "9月14日付オリコンCDランキング（集計期間：2026年8月31日～9月6日）が発表された。 ■週間シン...",
-      "groups": [
-        "EBiDAN"
       ],
       "statuses": [],
       "memberMatches": []
