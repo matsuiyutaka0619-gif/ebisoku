@@ -1,6 +1,152 @@
 {
-  "updatedAt": "2026-09-09T16:38:10.682Z",
+  "updatedAt": "2026-09-09T20:55:50.953Z",
   "articles": [
+    {
+      "id": "ca886b64c120fc26",
+      "title": "M!LK、空前ヒットの裏に隠された伏線回収 “壮大な愛”のさらなる最大化＝「時空超えてユニバース」",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/09/post-2517805.html",
+      "publishedAt": "2026-09-09T20:50:14.000Z",
+      "summary": "「好きすぎて滅！」「爆裂愛してる」と続いてきた、M!LKによる“愛”をテーマにした3部作の完結編にあたる楽曲「時空超えてユニバース」。同曲で描かれる愛について、また物語性を感じさせるギミックについて、解説する。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "efacddbf3f019620",
+      "title": "M!LK 吉田仁人が連続ドラマ初主演 『溺愛 ～ 実は、最強ヒーロー ～』10月30日より放送",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/09/post-2518005.html",
+      "publishedAt": "2026-09-09T20:00:26.000Z",
+      "summary": "M!LKの吉田仁人が連続ドラマ初主演を務める『溺愛 〜 実は、最強ヒーロー 〜』が、10月30日よりTOKYO MXで放送されることが決定した。 本作は、シリーズ累計3400万ダウンロードを突破し、「コミックシーモア",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "80bc8746f8740e95",
+      "title": "M!LK吉田仁人主演ドラマ『溺愛 ～ 実は、最強ヒーロー ～』放送決定！「『会社ラブコメでアクション…!?』と僕自身も驚きました」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000878803/",
+      "publishedAt": "2026-09-09T20:00:08.000Z",
+      "summary": "吉田仁人（M!LK）が主演を務めるTOKYO MXの新金曜ドラマ『溺愛 ～ 実は、最強ヒーロー ～』が...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "8c2a8a50f0733061",
+      "title": "M！LK吉田仁人が連ドラ初主演 ハイスペイケメン＆最強ヒーロー演じる",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202609090001182.html",
+      "publishedAt": "2026-09-09T20:00:00.000Z",
+      "summary": "M！LKのリーダー吉田仁人（26）が、連続ドラマ初主演を務めることが9日、分かった。10月30日からTOKYO MXで放送開始する「溺愛 ～実は、最強ヒーロー～」（金曜午後11時）で、元営業成績トップ、現在は総務部に所属する会社員藤崎真…",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "ff09317211b407b2",
+      "title": "「僕自身も驚きましたが…」M!LK吉田仁人が一途すぎる“ハイスぺ年下男子”に 連ドラ初主演作でアクションにも挑戦",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260910-4941234/",
+      "publishedAt": "2026-09-09T20:00:00.000Z",
+      "summary": "M!LKの吉田仁人が主演を務める、TOKYO MXの新金曜ドラマ『溺愛 ～ 実は、最強ヒーロー ～』(毎週金曜23:00～23:30)が、10月30日からスタートする。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "246b3633ce5881b7",
+      "title": "M!LK吉田仁人、連ドラ初主演決定 “最強ヒーロー”役で本格アクションにも挑戦",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1062805/",
+      "publishedAt": "2026-09-09T20:00:00.000Z",
+      "summary": "5人組ダンスボーカルグループ・M!LKのリーダー、吉田仁人が、10月30日からTOKYO MXで放送される連続ドラマ『溺愛 ～ 実は、最強ヒーロー ～』（金曜午後11時）で主演を務めることが10日、発表された。吉田にとっ […]",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "81c976e5c2734b7b",
+      "title": "げんじぶ 吉澤要人、莉子の恋人役で『SQUALL』出演へ 「夢を叶える機会をいただけた」",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/09/post-2517969.html",
+      "publishedAt": "2026-09-09T19:45:43.000Z",
+      "summary": "10月18日よりABCテレビで放送される莉子主演ドラマ『SQUALL』に、原因は自分にある。の吉澤要人が出演することが決定した。 日本とシンガポールの外交関係樹立60周年記念ドラマとなる本作は、日本の連続ドラマ史上初",
+      "groups": [
+        "原因は自分にある。"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "吉澤要人",
+          "group": "原因は自分にある。",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "4f50bf2ee0e893cd",
       "title": "M!LK、9月16日リリースの1stミニ・アルバム『LOVE ENG!NE』リード曲“時空超えてユニバース”先行配信。最新アーティスト写真公開",
@@ -99,20 +245,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "c19a43f2dd1d4007",
-      "title": "M!LK5人が“キレキレダンス”！片脚を勢いよく上げ＆しなやかな動きも織り交ぜた緩急あるパフォーマンスに「みんなメロすぎ」「だいちゃんニコニコでかわいい」「吉田さんのなめらかな動きに目が行く」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000878639/",
-      "publishedAt": "2026-09-09T03:26:06.000Z",
-      "summary": "M!LKの公式SNSが更新。9月16日にリリースされるMini Album『LOVE ENG!NE』のリード曲「時空超...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "b4b56f61c79f8353",

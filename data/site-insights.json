@@ -1,35 +1,39 @@
 {
-  "updatedAt": "2026-09-09T16:38:10.685Z",
+  "updatedAt": "2026-09-09T20:55:50.955Z",
   "totals": {
-    "all": 124,
-    "today": 0,
-    "week": 12
+    "all": 130,
+    "today": 7,
+    "week": 18
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 7
+      "count": 12
     },
     {
       "name": "SUPER★DRAGON",
       "count": 3
     },
     {
-      "name": "EBiDAN",
-      "count": 1
+      "name": "原因は自分にある。",
+      "count": 2
     },
     {
-      "name": "原因は自分にある。",
+      "name": "EBiDAN",
       "count": 1
     }
   ],
   "memberRanking": [
     {
+      "name": "吉田仁人",
+      "count": 6
+    },
+    {
       "name": "山中柔太朗",
       "count": 2
     },
     {
-      "name": "吉田仁人",
+      "name": "吉澤要人",
       "count": 1
     },
     {
@@ -63,7 +67,27 @@
       "count": 2
     },
     {
+      "name": "リアルサウンド 映画部",
+      "count": 2
+    },
+    {
       "name": "Bezzy",
+      "count": 1
+    },
+    {
+      "name": "ENCOUNT",
+      "count": 1
+    },
+    {
+      "name": "マイナビニュース エンタメ",
+      "count": 1
+    },
+    {
+      "name": "リアルサウンド 音楽",
+      "count": 1
+    },
+    {
+      "name": "日刊スポーツ 芸能",
       "count": 1
     }
   ],
@@ -71,13 +95,13 @@
   "recentByGroup": {
     "M!LK": [
       {
-        "id": "4f50bf2ee0e893cd",
-        "title": "M!LK、9月16日リリースの1stミニ・アルバム『LOVE ENG!NE』リード曲“時空超えてユニバース”先行配信。最新アーティスト写真公開",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/09/09/tg006",
-        "publishedAt": "2026-09-09T08:15:00.000Z",
-        "summary": "",
+        "id": "ca886b64c120fc26",
+        "title": "M!LK、空前ヒットの裏に隠された伏線回収 “壮大な愛”のさらなる最大化＝「時空超えてユニバース」",
+        "sourceName": "リアルサウンド 音楽",
+        "sourceUrl": "https://realsound.jp/music/feed",
+        "articleUrl": "https://realsound.jp/2026/09/post-2517805.html",
+        "publishedAt": "2026-09-09T20:50:14.000Z",
+        "summary": "「好きすぎて滅！」「爆裂愛してる」と続いてきた、M!LKによる“愛”をテーマにした3部作の完結編にあたる楽曲「時空超えてユニバース」。同曲で描かれる愛について、また物語性を感じさせるギミックについて、解説する。",
         "groups": [
           "M!LK"
         ],
@@ -85,13 +109,13 @@
         "memberMatches": []
       },
       {
-        "id": "e4c8595e81370bb0",
-        "title": "M!LK山中柔太朗の“ハイブランド10ルック”に反響！アンニュイな視線＆“長い脚”際立つ全身ショットに「どの瞬間もかっこよすぎる」「振り幅がすごい」「冬服ってメロさが100倍」「表情が天才」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000878795/",
-        "publishedAt": "2026-09-09T05:55:22.000Z",
-        "summary": "『GIANNA』の公式SNSが更新され、『GIANNA HOMMES 05』（9月30日）に登場するM!LKの山中柔太朗...",
+        "id": "efacddbf3f019620",
+        "title": "M!LK 吉田仁人が連続ドラマ初主演 『溺愛 ～ 実は、最強ヒーロー ～』10月30日より放送",
+        "sourceName": "リアルサウンド 映画部",
+        "sourceUrl": "https://realsound.jp/movie/feed",
+        "articleUrl": "https://realsound.jp/movie/2026/09/post-2518005.html",
+        "publishedAt": "2026-09-09T20:00:26.000Z",
+        "summary": "M!LKの吉田仁人が連続ドラマ初主演を務める『溺愛 〜 実は、最強ヒーロー 〜』が、10月30日よりTOKYO MXで放送されることが決定した。 本作は、シリーズ累計3400万ダウンロードを突破し、「コミックシーモア",
         "groups": [
           "M!LK"
         ],
@@ -99,33 +123,6 @@
           "active"
         ],
         "memberMatches": [
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "d37cb12536c16118",
-        "title": "M!LK曽野舜太＆吉田仁人が肩を寄せ“滅ポーズ”！メンカラTシャツ×デニムの仲良し2ショットに「そのじんかわいい」「吉田さん美少年すぎて発光してない？」「微笑みかけるしゅんちゃんやばい」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000878707/",
-        "publishedAt": "2026-09-09T04:25:13.000Z",
-        "summary": "M!LKの曽野舜太と吉田仁人が、9月12日放送の『笑ってコラえて！』（日本テレビ系）に出演する...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          },
           {
             "name": "吉田仁人",
             "group": "M!LK",
@@ -134,32 +131,144 @@
         ]
       },
       {
-        "id": "c19a43f2dd1d4007",
-        "title": "M!LK5人が“キレキレダンス”！片脚を勢いよく上げ＆しなやかな動きも織り交ぜた緩急あるパフォーマンスに「みんなメロすぎ」「だいちゃんニコニコでかわいい」「吉田さんのなめらかな動きに目が行く」",
+        "id": "80bc8746f8740e95",
+        "title": "M!LK吉田仁人主演ドラマ『溺愛 ～ 実は、最強ヒーロー ～』放送決定！「『会社ラブコメでアクション…!?』と僕自身も驚きました」",
         "sourceName": "THE FIRST TIMES",
         "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000878639/",
-        "publishedAt": "2026-09-09T03:26:06.000Z",
-        "summary": "M!LKの公式SNSが更新。9月16日にリリースされるMini Album『LOVE ENG!NE』のリード曲「時空超...",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000878803/",
+        "publishedAt": "2026-09-09T20:00:08.000Z",
+        "summary": "吉田仁人（M!LK）が主演を務めるTOKYO MXの新金曜ドラマ『溺愛 ～ 実は、最強ヒーロー ～』が...",
         "groups": [
           "M!LK"
         ],
-        "statuses": [],
-        "memberMatches": []
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
       },
       {
-        "id": "b4b56f61c79f8353",
-        "title": "M!LK、新曲「時空超えてユニバース」先行配信！各配信チャートで1位、新アーティスト写真も公開",
-        "sourceName": "WWSチャンネル",
-        "sourceUrl": "https://www.wws-channel.com/feed",
-        "articleUrl": "https://www.wws-channel.com/music2/666275.html",
-        "publishedAt": "2026-09-08T22:30:22.000Z",
-        "summary": "M!LKが、9月16日にリリースする「LOVE ENG!NE」より、リード曲「時空超えてユニバース」の先行配信を9月7日にスタート。あわせて、新たなグループアーティスト写真も公開された。「時空超えてユニバース」は、配信開始直後からXで「＃ときユニ」がトレンド1位を獲得し ... The post M!LK、新曲「時空超えてユニバース」先行配信！各配信チャート",
+        "id": "8c2a8a50f0733061",
+        "title": "M！LK吉田仁人が連ドラ初主演 ハイスペイケメン＆最強ヒーロー演じる",
+        "sourceName": "日刊スポーツ 芸能",
+        "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+        "articleUrl": "https://www.nikkansports.com/entertainment/news/202609090001182.html",
+        "publishedAt": "2026-09-09T20:00:00.000Z",
+        "summary": "M！LKのリーダー吉田仁人（26）が、連続ドラマ初主演を務めることが9日、分かった。10月30日からTOKYO MXで放送開始する「溺愛 ～実は、最強ヒーロー～」（金曜午後11時）で、元営業成績トップ、現在は総務部に所属する会社員藤崎真…",
         "groups": [
           "M!LK"
         ],
-        "statuses": [],
-        "memberMatches": []
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "ff09317211b407b2",
+        "title": "「僕自身も驚きましたが…」M!LK吉田仁人が一途すぎる“ハイスぺ年下男子”に 連ドラ初主演作でアクションにも挑戦",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20260910-4941234/",
+        "publishedAt": "2026-09-09T20:00:00.000Z",
+        "summary": "M!LKの吉田仁人が主演を務める、TOKYO MXの新金曜ドラマ『溺愛 ～ 実は、最強ヒーロー ～』(毎週金曜23:00～23:30)が、10月30日からスタートする。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "原因は自分にある。": [
+      {
+        "id": "81c976e5c2734b7b",
+        "title": "げんじぶ 吉澤要人、莉子の恋人役で『SQUALL』出演へ 「夢を叶える機会をいただけた」",
+        "sourceName": "リアルサウンド 映画部",
+        "sourceUrl": "https://realsound.jp/movie/feed",
+        "articleUrl": "https://realsound.jp/movie/2026/09/post-2517969.html",
+        "publishedAt": "2026-09-09T19:45:43.000Z",
+        "summary": "10月18日よりABCテレビで放送される莉子主演ドラマ『SQUALL』に、原因は自分にある。の吉澤要人が出演することが決定した。 日本とシンガポールの外交関係樹立60周年記念ドラマとなる本作は、日本の連続ドラマ史上初",
+        "groups": [
+          "原因は自分にある。"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉澤要人",
+            "group": "原因は自分にある。",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "5b8d0ef207bebb7e",
+        "title": "小泉光咲＆四坂亮翔W主演「陽キャ集団にいる芹沢は、俺の前だと様子がおかしい」第6話あらすじ公開！キス後に二人がギクシャク",
+        "sourceName": "WWSチャンネル",
+        "sourceUrl": "https://www.wws-channel.com/feed",
+        "articleUrl": "https://www.wws-channel.com/tv/666324.html",
+        "publishedAt": "2026-09-09T04:00:02.000Z",
+        "summary": "小泉光咲と四坂亮翔がW主演を務める読売テレビドラマ「陽キャ集団にいる芹沢は、俺の前だと様子がおかしい」の第6話あらすじと場面写真が公開された。同作は、椿ゆずによるBL小説を原作とした青春ボーイズラブコメディ。小泉は個人として連続ドラマ初主演、四坂は連続ドラマ初主演となる ... The post 小泉光咲＆四坂亮翔W主演「陽キャ集団にいる芹沢は、俺の前だと様",
+        "groups": [
+          "原因は自分にある。"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "15fb9ee4d3775ce2",
+        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/07/89645/",
+        "publishedAt": "2026-07-24T12:00:00.000Z",
+        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
+        "groups": [
+          "原因は自分にある。",
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
       }
     ],
     "EBiDAN": [
@@ -239,58 +348,6 @@
         ],
         "statuses": [],
         "memberMatches": []
-      }
-    ],
-    "原因は自分にある。": [
-      {
-        "id": "5b8d0ef207bebb7e",
-        "title": "小泉光咲＆四坂亮翔W主演「陽キャ集団にいる芹沢は、俺の前だと様子がおかしい」第6話あらすじ公開！キス後に二人がギクシャク",
-        "sourceName": "WWSチャンネル",
-        "sourceUrl": "https://www.wws-channel.com/feed",
-        "articleUrl": "https://www.wws-channel.com/tv/666324.html",
-        "publishedAt": "2026-09-09T04:00:02.000Z",
-        "summary": "小泉光咲と四坂亮翔がW主演を務める読売テレビドラマ「陽キャ集団にいる芹沢は、俺の前だと様子がおかしい」の第6話あらすじと場面写真が公開された。同作は、椿ゆずによるBL小説を原作とした青春ボーイズラブコメディ。小泉は個人として連続ドラマ初主演、四坂は連続ドラマ初主演となる ... The post 小泉光咲＆四坂亮翔W主演「陽キャ集団にいる芹沢は、俺の前だと様",
-        "groups": [
-          "原因は自分にある。"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "15fb9ee4d3775ce2",
-        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/07/89645/",
-        "publishedAt": "2026-07-24T12:00:00.000Z",
-        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
-        "groups": [
-          "原因は自分にある。",
-          "BUDDiiS"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "SHOOT",
-            "group": "BUDDiiS",
-            "status": "active"
-          }
-        ]
       }
     ],
     "SUPER★DRAGON": [
