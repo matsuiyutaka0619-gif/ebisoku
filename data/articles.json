@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T11:22:39.301Z",
+  "updatedAt": "2026-09-09T16:38:10.682Z",
   "articles": [
     {
       "id": "4f50bf2ee0e893cd",
@@ -213,28 +213,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "1b8e62c1bcfed0a2",
-      "title": "9月10日放送のNHK Eテレ「クラシックTV」、曽野舜太（M!LK）初登場。「曽野舜太と巡る！ラヴェルのカラフルワールド」オンエア",
-      "sourceName": "タワーレコード ニュース",
-      "sourceUrl": "https://tower.jp/feeds/article/news",
-      "articleUrl": "https://tower.jp/article/news/2026/09/04/tg007",
-      "publishedAt": "2026-09-04T11:30:00.000Z",
-      "summary": "",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "曽野舜太",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "47f16c975ff422cd",

@@ -1,43 +1,31 @@
 {
-  "updatedAt": "2026-09-09T11:22:39.303Z",
+  "updatedAt": "2026-09-09T16:38:10.685Z",
   "totals": {
-    "all": 125,
-    "today": 7,
-    "week": 14
+    "all": 124,
+    "today": 0,
+    "week": 12
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 9
+      "count": 7
     },
     {
       "name": "SUPER★DRAGON",
-      "count": 4
+      "count": 3
     },
     {
       "name": "EBiDAN",
-      "count": 2
-    },
-    {
-      "name": "Sakurashimeji",
       "count": 1
     },
     {
       "name": "原因は自分にある。",
-      "count": 1
-    },
-    {
-      "name": "超特急",
       "count": 1
     }
   ],
   "memberRanking": [
     {
       "name": "山中柔太朗",
-      "count": 2
-    },
-    {
-      "name": "曽野舜太",
       "count": 2
     },
     {
@@ -49,25 +37,29 @@
       "count": 1
     },
     {
+      "name": "曽野舜太",
+      "count": 1
+    },
+    {
       "name": "飯島颯",
       "count": 1
     }
   ],
   "sourceRanking": [
     {
-      "name": "SUPER★DRAGON 公式NEWS",
-      "count": 4
-    },
-    {
       "name": "THE FIRST TIMES",
       "count": 4
     },
     {
-      "name": "タワーレコード ニュース",
+      "name": "SUPER★DRAGON 公式NEWS",
       "count": 3
     },
     {
       "name": "WWSチャンネル",
+      "count": 2
+    },
+    {
+      "name": "タワーレコード ニュース",
       "count": 2
     },
     {
