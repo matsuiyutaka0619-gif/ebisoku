@@ -1,45 +1,73 @@
 {
-  "updatedAt": "2026-09-08T21:09:45.234Z",
+  "updatedAt": "2026-09-09T04:41:34.411Z",
   "totals": {
-    "all": 12,
-    "today": 0,
-    "week": 7
+    "all": 123,
+    "today": 5,
+    "week": 13
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 6
+      "count": 9
     },
     {
-      "name": "BUDDiiS",
+      "name": "SUPER★DRAGON",
+      "count": 4
+    },
+    {
+      "name": "EBiDAN",
+      "count": 1
+    },
+    {
+      "name": "Sakurashimeji",
+      "count": 1
+    },
+    {
+      "name": "原因は自分にある。",
+      "count": 1
+    },
+    {
+      "name": "超特急",
       "count": 1
     }
   ],
   "memberRanking": [
     {
-      "name": "塩﨑太智",
-      "count": 2
-    },
-    {
-      "name": "佐野勇斗",
-      "count": 2
-    },
-    {
-      "name": "山中柔太朗",
-      "count": 2
-    },
-    {
       "name": "曽野舜太",
       "count": 2
     },
     {
+      "name": "塩﨑太智",
+      "count": 1
+    },
+    {
       "name": "吉田仁人",
+      "count": 1
+    },
+    {
+      "name": "山中柔太朗",
+      "count": 1
+    },
+    {
+      "name": "小泉光咲",
+      "count": 1
+    },
+    {
+      "name": "飯島颯",
       "count": 1
     }
   ],
   "sourceRanking": [
     {
-      "name": "BARKS",
+      "name": "SUPER★DRAGON 公式NEWS",
+      "count": 4
+    },
+    {
+      "name": "THE FIRST TIMES",
+      "count": 2
+    },
+    {
+      "name": "WWSチャンネル",
       "count": 2
     },
     {
@@ -47,7 +75,7 @@
       "count": 2
     },
     {
-      "name": "THE FIRST TIMES",
+      "name": "Bezzy",
       "count": 1
     },
     {
@@ -55,7 +83,7 @@
       "count": 1
     },
     {
-      "name": "リアルサウンド 映画部",
+      "name": "リアルサウンド 音楽",
       "count": 1
     }
   ],
@@ -63,13 +91,13 @@
   "recentByGroup": {
     "M!LK": [
       {
-        "id": "d1818d4d252146fa",
-        "title": "『君の好きは無敵』最終回直前に描かれた愛の危うさ “好き”は本当に無敵だったのか",
-        "sourceName": "リアルサウンド 映画部",
-        "sourceUrl": "https://realsound.jp/movie/feed",
-        "articleUrl": "https://realsound.jp/movie/2026/09/post-2516706.html",
-        "publishedAt": "2026-09-08T14:10:47.000Z",
-        "summary": "松本若菜と佐野勇斗が共演する『君の好きは無敵』（TBS系）が、9月15日に最終回を迎える。セミファイナルとなる第9話は、これまで疑うことなく受け入れてきた「好きは無敵」というタイトルを、改めて見つめ直す回となった。",
+        "id": "d37cb12536c16118",
+        "title": "M!LK曽野舜太＆吉田仁人が肩を寄せ“滅ポーズ”！メンカラTシャツ×デニムの仲良し2ショットに「そのじんかわいい」「吉田さん美少年すぎて発光してない？」「微笑みかけるしゅんちゃんやばい」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000878707/",
+        "publishedAt": "2026-09-09T04:25:13.000Z",
+        "summary": "M!LKの曽野舜太と吉田仁人が、9月12日放送の『笑ってコラえて！』（日本テレビ系）に出演する...",
         "groups": [
           "M!LK"
         ],
@@ -77,45 +105,8 @@
           "active"
         ],
         "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "2663aa19c63dac15",
-        "title": "M!LK、1stミニアルバムから「時空超えてユニバース」先行配信スタート。新ビジュアル公開",
-        "sourceName": "BARKS",
-        "sourceUrl": "https://www.barks.jp/feed/",
-        "articleUrl": "https://barks.jp/news/1087324",
-        "publishedAt": "2026-09-08T09:00:54.000Z",
-        "summary": "M!LKが、9月16日(水)リリースのミニアルバム『LOVE ENG!NE』より、リード曲「時空超えてユニバース」の先行配信を9月7日(月)にスタート。さらに本日8日に新アーティスト写真が公開された。 新曲「時空超えてユニバース」は配信開始直後からXのトレンドで「＃ときユニ」が1位を獲得したほか、iTunesトップソング・レコチョク、music.jp、mor",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          },
           {
             "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "山中柔太朗",
             "group": "M!LK",
             "status": "active"
           },
@@ -127,13 +118,13 @@
         ]
       },
       {
-        "id": "78dd4d64bcad4d78",
-        "title": "M!LK、ミニアルバム『LOVE ENG!NE』リード曲「時空超えてユニバース」先行配信スタート＆最新アーティスト写真公開",
+        "id": "c19a43f2dd1d4007",
+        "title": "M!LK5人が“キレキレダンス”！片脚を勢いよく上げ＆しなやかな動きも織り交ぜた緩急あるパフォーマンスに「みんなメロすぎ」「だいちゃんニコニコでかわいい」「吉田さんのなめらかな動きに目が行く」",
         "sourceName": "THE FIRST TIMES",
         "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000878255/",
-        "publishedAt": "2026-09-08T09:00:24.000Z",
-        "summary": "M!LKが、9月16日リリースのミニアルバム『LOVE ENG!NE』より、リード曲「時空超えてユニバース...",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000878639/",
+        "publishedAt": "2026-09-09T03:26:06.000Z",
+        "summary": "M!LKの公式SNSが更新。9月16日にリリースされるMini Album『LOVE ENG!NE』のリード曲「時空超...",
         "groups": [
           "M!LK"
         ],
@@ -141,64 +132,371 @@
         "memberMatches": []
       },
       {
-        "id": "af38c3076da2dde1",
-        "title": "大森元貴（Mrs. GREEN APPLE）、上白石萌音・向井康二・山中柔太朗出演のTBSドラマ「いろはの恋は時代をかける」出演決定。役どころは初回放送で明らかに",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/09/08/tg006",
-        "publishedAt": "2026-09-08T08:20:00.000Z",
-        "summary": "",
+        "id": "9ddb650a4be7999a",
+        "title": "M!LK、1stミニアルバムリード曲「時空超えてユニバース」先行配信 新たなアーティスト写真も公開",
+        "sourceName": "リアルサウンド 音楽",
+        "sourceUrl": "https://realsound.jp/music/feed",
+        "articleUrl": "https://realsound.jp/2026/09/post-2516964.html",
+        "publishedAt": "2026-09-09T02:10:06.000Z",
+        "summary": "M!LKが、9月16日にリリースする1stミニアルバム『LOVE ENG!NE』より、リード曲「時空超えてユニバース」を9月7日に先行配信。また、新たなアーティスト写真も公開となった。 本作は、「好きすぎて滅！」「爆",
         "groups": [
           "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "b4b56f61c79f8353",
+        "title": "M!LK、新曲「時空超えてユニバース」先行配信！各配信チャートで1位、新アーティスト写真も公開",
+        "sourceName": "WWSチャンネル",
+        "sourceUrl": "https://www.wws-channel.com/feed",
+        "articleUrl": "https://www.wws-channel.com/music2/666275.html",
+        "publishedAt": "2026-09-08T22:30:22.000Z",
+        "summary": "M!LKが、9月16日にリリースする「LOVE ENG!NE」より、リード曲「時空超えてユニバース」の先行配信を9月7日にスタート。あわせて、新たなグループアーティスト写真も公開された。「時空超えてユニバース」は、配信開始直後からXで「＃ときユニ」がトレンド1位を獲得し ... The post M!LK、新曲「時空超えてユニバース」先行配信！各配信チャート",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "976120bc3101651a",
+        "title": "M!LKが“ユニバース”を背負う新アー写公開、1stミニアルバムリード曲は早くもチャート席巻中",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/09/91880/",
+        "publishedAt": "2026-09-08T09:00:00.000Z",
+        "summary": "5人組ダンスボーカルグループ・M!LKが、9月16日(水)に控えるミニアルバム『LOVE ENG!NE』リリースに先駆けて最新アーティスト写真を公開した。 M!LKにとって初ミニアルバムとなる本作からは、リード曲「時空超えてユニバース」（ときこえてゆにばーす）の先行配信が9月7日(月)にスタート。配信開始直後からXのトレンドで「#ときユニ」が1位を獲得したほ",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
+    "原因は自分にある。": [
+      {
+        "id": "5b8d0ef207bebb7e",
+        "title": "小泉光咲＆四坂亮翔W主演「陽キャ集団にいる芹沢は、俺の前だと様子がおかしい」第6話あらすじ公開！キス後に二人がギクシャク",
+        "sourceName": "WWSチャンネル",
+        "sourceUrl": "https://www.wws-channel.com/feed",
+        "articleUrl": "https://www.wws-channel.com/tv/666324.html",
+        "publishedAt": "2026-09-09T04:00:02.000Z",
+        "summary": "小泉光咲と四坂亮翔がW主演を務める読売テレビドラマ「陽キャ集団にいる芹沢は、俺の前だと様子がおかしい」の第6話あらすじと場面写真が公開された。同作は、椿ゆずによるBL小説を原作とした青春ボーイズラブコメディ。小泉は個人として連続ドラマ初主演、四坂は連続ドラマ初主演となる ... The post 小泉光咲＆四坂亮翔W主演「陽キャ集団にいる芹沢は、俺の前だと様",
+        "groups": [
+          "原因は自分にある。"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "山中柔太朗",
-            "group": "M!LK",
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
             "status": "active"
           }
         ]
       },
       {
-        "id": "1b8e62c1bcfed0a2",
-        "title": "9月10日放送のNHK Eテレ「クラシックTV」、曽野舜太（M!LK）初登場。「曽野舜太と巡る！ラヴェルのカラフルワールド」オンエア",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/09/04/tg007",
-        "publishedAt": "2026-09-04T11:30:00.000Z",
-        "summary": "",
+        "id": "15fb9ee4d3775ce2",
+        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/07/89645/",
+        "publishedAt": "2026-07-24T12:00:00.000Z",
+        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
         "groups": [
-          "M!LK"
+          "原因は自分にある。",
+          "BUDDiiS"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "曽野舜太",
-            "group": "M!LK",
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
             "status": "active"
           }
         ]
       }
     ],
-    "BUDDiiS": [
+    "SUPER★DRAGON": [
       {
-        "id": "adaf6f72015c594a",
-        "title": "こたに、新曲「いれもの」が10月アニメ『貸した魔力は【リボ払い】で強制徴収』ED主題歌に",
-        "sourceName": "BARKS",
-        "sourceUrl": "https://www.barks.jp/feed/",
-        "articleUrl": "https://barks.jp/news/1087354",
-        "publishedAt": "2026-09-08T10:00:59.000Z",
-        "summary": "シンガーソングライター・こたにの新曲「いれもの」が、10月3日（土）よりテレビ朝日系全国24局ネットにて放送スタートとなる、TVアニメ『貸した魔力は【リボ払い】で強制徴収』エンディング主題歌に決定、10月4日（日）に配信リリースされることが発表された。 名誉伝説のボーカリストとしても知られるこたにだが、本楽曲「いれもの」はこたにソロ楽曲として初のアニメタイア",
+        "id": "5fe29a70c717c000",
+        "title": "【飯島颯】星新一生誕 100 年記念朗読劇「星新一が描いた未来」出演決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11615/",
+        "publishedAt": "2026-09-07T09:00:41.000Z",
+        "summary": "星新一生誕100年記念朗読劇「星新一が描いた未来」 【開催日時】 2026年9月30日(水) ～ 10月7日(水) ※颯はプログラム A・B に出演 【会場】 IMM THEATER （東京都文京区後楽1丁目3-53） […] The post 【飯島颯】星新一生誕 100 年記念朗読劇「星新一が描いた未来」出演決定！ first appeared on S",
         "groups": [
-          "BUDDiiS"
+          "SUPER★DRAGON"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "飯島颯",
+            "group": "SUPER★DRAGON",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "a68082a1c7ea9a7b",
+        "title": "「SUPER★DRAGON DRA FES 2026」9月公演 追加販売情報",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11613/",
+        "publishedAt": "2026-09-06T03:00:08.000Z",
+        "summary": "SOLD OUTとなっておりました「SUPER★DRAGON DRA FES 2026」9月24日(木)東京公演、9月27日(日)大阪公演につきまして、 機材席の一部開放に伴い、若干数ではございますが、追加販売が決定いた […] The post 「SUPER★DRAGON DRA FES 2026」9月公演 追加販売情報 first appeared on",
+        "groups": [
+          "SUPER★DRAGON"
         ],
         "statuses": [],
         "memberMatches": []
+      },
+      {
+        "id": "2736a98779085227",
+        "title": "【重要】弊社所属アーティストに関する権利保護方針",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11611/",
+        "publishedAt": "2026-09-04T12:00:30.000Z",
+        "summary": "いつも弊社所属アーティストを温かく応援いただき、誠にありがとうございます。 弊社は、所属アーティストが安心して創作・芸能活動に専念できる環境を維持し、同時にファンの皆様が健全に応援活動を楽しめる場を守るため、以下の通り権 […] The post 【重要】弊社所属アーティストに関する権利保護方針 first appeared on SUPER★DRAGON ",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "47f16c975ff422cd",
+        "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11607/",
+        "publishedAt": "2026-09-02T12:34:24.000Z",
+        "summary": "平素より株式会社SDR所属アーティストへの温かいご声援を賜り、誠にありがとうございます。 DISH//、EBiDAN（超特急、M!LK、SUPER★DRAGON、Sakurashimeji、ONE N’ ON […] The post グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ first appeared on SUPER★DRAGO",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK",
+          "SUPER★DRAGON",
+          "Sakurashimeji"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "0472097ee2768398",
+        "title": "「SUPER★DRAGON DRA FES 2026 追加公演」最新チケット情報！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11603/",
+        "publishedAt": "2026-09-01T09:00:32.000Z",
+        "summary": "本日9月1日(火)18:00より『+KIRARI』会員先行が受付開始。 会場で皆さんとお会いできることを楽しみにしております！ ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願いと注意事項】 http […] The post 「SUPER★DRAGON DRA FES 2026 追加公演」最新チケット情報！ first appeared",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
+    "EBiDAN": [
+      {
+        "id": "47f16c975ff422cd",
+        "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11607/",
+        "publishedAt": "2026-09-02T12:34:24.000Z",
+        "summary": "平素より株式会社SDR所属アーティストへの温かいご声援を賜り、誠にありがとうございます。 DISH//、EBiDAN（超特急、M!LK、SUPER★DRAGON、Sakurashimeji、ONE N’ ON […] The post グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ first appeared on SUPER★DRAGO",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK",
+          "SUPER★DRAGON",
+          "Sakurashimeji"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "7277b3cf409678c0",
+        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』 最新チケット情報",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11600/",
+        "publishedAt": "2026-08-31T09:30:16.000Z",
+        "summary": "本日8月31日(月)18:00よりEBiDAN先行受付開始！ 皆さんとお会いできることを楽しみにしております！ 第６回EBiDAN大運動会『スポーツマンヒップ！』 【千葉】LaLa arena […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』 最新チケット情報 first appeared on SUPER★DRAGON .",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "529e06a874764faf",
+        "title": "『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット、『EBiDAN 15th Anniversaryオフィシャルグッズ』＆『恵比寿学園男子部 校内スナップ』通販決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11580/",
+        "publishedAt": "2026-08-27T09:15:19.000Z",
+        "summary": "『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット、『EBiDAN 15th Anniversaryオフィシャルグッズ』＆『恵比寿学園男子部 校内スナップ』通販 […] The post 『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット、",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "a02364c0b1bd5a80",
+        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』開催決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11576/",
+        "publishedAt": "2026-08-23T03:00:22.000Z",
+        "summary": "EBiDAN大運動会『スポーツマンヒップ！』6回目の開催が決定！ 第6回は入所順でのグループ対抗戦！！ スポーツの秋…あの日の同期が、今日だけの夢のチームとなるEBiDAN大運動会を、是非一緒に見届けましょう […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』開催決定！ first appeared on SUPER★DRAGON ",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "91a2a4d301121007",
+        "title": "【SUPERSTAR EBiDAN】 「EBiDAN THE LIVE 2026 15th Anniversary」開催記念！ゲーム内イベント実施",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11560/",
+        "publishedAt": "2026-08-12T08:00:18.000Z",
+        "summary": "EBiDAN公式リズムゲーム『SUPERSTAR EBiDAN』では、 「EBiDAN THE LIVE 2026 15th Anniversary」の開催を記念して、期間限定のゲーム内イベントを実施いたします！ ここで […] The post 【SUPERSTAR EBiDAN】 「EBiDAN THE LIVE 2026 15th Anniversar",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
+    "超特急": [
+      {
+        "id": "47f16c975ff422cd",
+        "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11607/",
+        "publishedAt": "2026-09-02T12:34:24.000Z",
+        "summary": "平素より株式会社SDR所属アーティストへの温かいご声援を賜り、誠にありがとうございます。 DISH//、EBiDAN（超特急、M!LK、SUPER★DRAGON、Sakurashimeji、ONE N’ ON […] The post グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ first appeared on SUPER★DRAGO",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK",
+          "SUPER★DRAGON",
+          "Sakurashimeji"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "397a635043a0e0e2",
+        "title": "映画『ワンダンス』新キャストにGirls2山口綺羅、MAZZEL・RAN、TSUKKI、超特急・髙松アロハ",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/07/89594/",
+        "publishedAt": "2026-07-22T09:00:00.000Z",
+        "summary": "11月27日(金)に公開されるJO（&TEAM）初主演映画『ワンダンス』の新キャストとして山口綺羅（Girls2）、RAN（MAZZEL）、現役DリーガーのTSUKKI、髙松アロハ（超特急）が出演することが発表された。 原作は単行本累計発行部数110万部を突破し「月刊アフタヌーン」（講談社）で連載中の珈琲による同名漫画。ダンサーからも熱く支持され、昨年放送さ",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "アロハ",
+            "group": "超特急",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "382225983e9781d4",
+        "title": "8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 7月2日からの先行配信リリースに合わせて デジタルキャンペーンが追加決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11354/",
+        "publishedAt": "2026-07-01T06:00:22.000Z",
+        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して8月11日(火・祝)にリリースされる「Yes! 東京」が、いよいよ7月2日（木）より先行配信リリースとなります。超特急、M!LK、SUPER★DRAGON、Sakur […] The post 8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 7月2日からの先行配信リリースに合わせて デ",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
+    "Sakurashimeji": [
+      {
+        "id": "47f16c975ff422cd",
+        "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11607/",
+        "publishedAt": "2026-09-02T12:34:24.000Z",
+        "summary": "平素より株式会社SDR所属アーティストへの温かいご声援を賜り、誠にありがとうございます。 DISH//、EBiDAN（超特急、M!LK、SUPER★DRAGON、Sakurashimeji、ONE N’ ON […] The post グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ first appeared on SUPER★DRAGO",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK",
+          "SUPER★DRAGON",
+          "Sakurashimeji"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
+    "BUDDiiS": [
+      {
+        "id": "15fb9ee4d3775ce2",
+        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/07/89645/",
+        "publishedAt": "2026-07-24T12:00:00.000Z",
+        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
+        "groups": [
+          "原因は自分にある。",
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
       }
     ]
   }
