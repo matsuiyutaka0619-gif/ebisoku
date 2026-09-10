@@ -1,28 +1,32 @@
 {
-  "updatedAt": "2026-09-10T04:42:05.653Z",
+  "updatedAt": "2026-09-10T11:19:02.561Z",
   "totals": {
-    "all": 127,
-    "today": 7,
-    "week": 15
+    "all": 128,
+    "today": 9,
+    "week": 17
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 11
+      "count": 10
     },
     {
       "name": "SUPER★DRAGON",
-      "count": 3
+      "count": 4
     },
     {
       "name": "原因は自分にある。",
+      "count": 2
+    },
+    {
+      "name": "ONE N' ONLY",
       "count": 1
     }
   ],
   "memberRanking": [
     {
       "name": "吉田仁人",
-      "count": 3
+      "count": 2
     },
     {
       "name": "佐野勇斗",
@@ -31,6 +35,10 @@
     {
       "name": "山中柔太朗",
       "count": 2
+    },
+    {
+      "name": "HAYATO",
+      "count": 1
     },
     {
       "name": "小泉光咲",
@@ -43,11 +51,15 @@
   ],
   "sourceRanking": [
     {
-      "name": "THE FIRST TIMES",
-      "count": 4
+      "name": "SUPER★DRAGON 公式NEWS",
+      "count": 3
     },
     {
-      "name": "SUPER★DRAGON 公式NEWS",
+      "name": "THE FIRST TIMES",
+      "count": 3
+    },
+    {
+      "name": "タワーレコード ニュース",
       "count": 3
     },
     {
@@ -55,25 +67,65 @@
       "count": 2
     },
     {
-      "name": "タワーレコード ニュース",
+      "name": "マイナビニュース エンタメ",
       "count": 2
     },
     {
-      "name": "マイナビニュース エンタメ",
-      "count": 2
+      "name": "BARKS",
+      "count": 1
     },
     {
       "name": "Bezzy",
       "count": 1
     },
     {
-      "name": "リアルサウンド 音楽",
+      "name": "マイナビニュース テレビ",
+      "count": 1
+    },
+    {
+      "name": "リアルサウンド 映画部",
       "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
     "M!LK": [
+      {
+        "id": "8797b22a3dc49410",
+        "title": "「しっかりヲタクで好き」「思った10倍…」M!LK佐野勇斗のコレクションにファン驚がく 新たにできた夢も明かす",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20260910-4935325/",
+        "publishedAt": "2026-09-10T10:00:00.000Z",
+        "summary": "「新たな夢でございます」M!LKの佐野勇斗が、自身のYouTubeチャンネル『佐野勇斗だぞ』を更新。自身の新たな夢を語った。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "bff2cf8134ae57a8",
+        "title": "M!LK5人が“キラキラシルバー衣装”で笑顔！「爆裂愛してる」“2億回再生突破”記念ビジュアルに「すごすぎ」「芸人さんみたいなポーズでかわいいw」「吉田さんの表情が良すぎる」「はやちゃん手が大きくて激メロ」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000879482/",
+        "publishedAt": "2026-09-10T05:40:05.000Z",
+        "summary": "M!LKの公式Xが更新。楽曲「爆裂愛してる」の累計ストリーミング再生数が2億回を突破したことを...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
       {
         "id": "8c2a47022b13d3c2",
         "title": "M!LK山中柔太朗が福原遥＆HANAコハル＆幾田りらと並ぶ姿が話題！抜群スタイルに「身長差メロすぎ」「世界に見つかっちゃう」の声",
@@ -119,28 +171,6 @@
         ]
       },
       {
-        "id": "e0360978810e3f48",
-        "title": "M!LK佐野勇斗がゴチで“大事なこと”を告白！NEWS増田貴久は「なんで今言う？」とツッコむ",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000879062/",
-        "publishedAt": "2026-09-09T22:00:22.000Z",
-        "summary": "9月10日19時から放送の『ぐるナイ2時間SP』は、「料理ハンデマッチ」と「ゴチになります」の2...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
         "id": "ad28d7509ac0b85b",
         "title": "和久田麻由子にせいやが衝撃の“サプライズプロポーズ”「青天の霹靂」 佐野勇斗は倉科カナに大失態",
         "sourceName": "マイナビニュース エンタメ",
@@ -161,23 +191,23 @@
             "status": "active"
           }
         ]
-      },
-      {
-        "id": "ca886b64c120fc26",
-        "title": "M!LK、空前ヒットの裏に隠された伏線回収 “壮大な愛”のさらなる最大化＝「時空超えてユニバース」",
-        "sourceName": "リアルサウンド 音楽",
-        "sourceUrl": "https://realsound.jp/music/feed",
-        "articleUrl": "https://realsound.jp/2026/09/post-2517805.html",
-        "publishedAt": "2026-09-09T20:50:14.000Z",
-        "summary": "「好きすぎて滅！」「爆裂愛してる」と続いてきた、M!LKによる“愛”をテーマにした3部作の完結編にあたる楽曲「時空超えてユニバース」。同曲で描かれる愛について、また物語性を感じさせるギミックについて、解説する。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
       }
     ],
     "原因は自分にある。": [
+      {
+        "id": "98a5310fc96ec288",
+        "title": "「J-POPシングル ウィークリーTOP30」発表。1位はSixTONES『Dance Forever/マイオンリー』、予約1位は原因は自分にある。『ラブリーズン』（2026年9月10日付）",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/09/10/tg001",
+        "publishedAt": "2026-09-10T10:00:00.000Z",
+        "summary": "",
+        "groups": [
+          "原因は自分にある。"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
       {
         "id": "5b8d0ef207bebb7e",
         "title": "小泉光咲＆四坂亮翔W主演「陽キャ集団にいる芹沢は、俺の前だと様子がおかしい」第6話あらすじ公開！キス後に二人がギクシャク",
@@ -230,6 +260,20 @@
       }
     ],
     "SUPER★DRAGON": [
+      {
+        "id": "7a8ac933faac8992",
+        "title": "木村柾哉、INIの5周年とリーダーとしての矜持を語る",
+        "sourceName": "BARKS",
+        "sourceUrl": "https://www.barks.jp/feed/",
+        "articleUrl": "https://barks.jp/news/1087754",
+        "publishedAt": "2026-09-10T09:02:13.000Z",
+        "summary": "ボーイズグループの生い立ちや今をパーソナルなロングインタビューで綴る“読むボーイズマガジン”こと『BOYS AND READ』の最新刊第3号が9月10日に発売された。表紙巻頭は、東阪ドームツアーを控えるINIのリーダー・木村柾哉だ。 バックダンサーや振付アシスタント、講師としてダンスに関わってきた経験を経て、サバイバルオーディション番組『PRODUCE 10",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
       {
         "id": "5fe29a70c717c000",
         "title": "【飯島颯】星新一生誕 100 年記念朗読劇「星新一が描いた未来」出演決定！",
@@ -297,20 +341,30 @@
         ],
         "statuses": [],
         "memberMatches": []
-      },
+      }
+    ],
+    "ONE N' ONLY": [
       {
-        "id": "0472097ee2768398",
-        "title": "「SUPER★DRAGON DRA FES 2026 追加公演」最新チケット情報！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11603/",
-        "publishedAt": "2026-09-01T09:00:32.000Z",
-        "summary": "本日9月1日(火)18:00より『+KIRARI』会員先行が受付開始。 会場で皆さんとお会いできることを楽しみにしております！ ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願いと注意事項】 http […] The post 「SUPER★DRAGON DRA FES 2026 追加公演」最新チケット情報！ first appeared",
+        "id": "41d28b88bdae823d",
+        "title": "『おかえり、初恋。』に高尾颯斗、朝倉あき、藤林泰也ら “高校時代”のビジュアルも",
+        "sourceName": "リアルサウンド 映画部",
+        "sourceUrl": "https://realsound.jp/movie/feed",
+        "articleUrl": "https://realsound.jp/movie/2026/09/post-2518231.html",
+        "publishedAt": "2026-09-10T09:00:54.000Z",
+        "summary": "10月8日よりMBSドラマフィル枠で放送される、樋口幸平と林芽亜里がW主演を務める『おかえり、初恋。』に、高尾颯斗、朝倉あき、藤林泰也、遠藤雄斗、濱津隆之が出演することが決定した。あわせて、ポスタービジュアル、作中の高",
         "groups": [
-          "SUPER★DRAGON"
+          "ONE N' ONLY"
         ],
-        "statuses": [],
-        "memberMatches": []
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "HAYATO",
+            "group": "ONE N' ONLY",
+            "status": "active"
+          }
+        ]
       }
     ],
     "EBiDAN": [
