@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-09-10T11:19:02.559Z",
+  "updatedAt": "2026-09-10T16:24:16.257Z",
   "articles": [
+    {
+      "id": "114ef3cae7ec4ece",
+      "title": "吉田仁人（M!LK）、待望の連続ドラマ初主演決定。新金曜ドラマ「溺愛 ～ 実は、最強ヒーロー ～」10月30日より放送",
+      "sourceName": "タワーレコード ニュース",
+      "sourceUrl": "https://tower.jp/feeds/article/news",
+      "articleUrl": "https://tower.jp/article/news/2026/09/10/tg005",
+      "publishedAt": "2026-09-10T12:10:00.000Z",
+      "summary": "",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "8797b22a3dc49410",
       "title": "「しっかりヲタクで好き」「思った10倍…」M!LK佐野勇斗のコレクションにファン驚がく 新たにできた夢も明かす",
@@ -110,32 +132,10 @@
       ]
     },
     {
-      "id": "a2a448eac1cc57e7",
-      "title": "M!LK吉田仁人がイエロー×ゴールドの“きらびやか衣装”で凛々しい表情！最新ソロアー写＆新曲ダンスに「王子様すぎる」「彦星みたい」「ビジュ更新してる」「新衣装すごい」と反響",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000879330/",
-      "publishedAt": "2026-09-10T03:04:33.000Z",
-      "summary": "M!LKの公式SNSが更新。吉田仁人の最新ソロアーティスト写真と、新曲「時空超えてユニバース」...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "ad28d7509ac0b85b",
       "title": "和久田麻由子にせいやが衝撃の“サプライズプロポーズ”「青天の霹靂」 佐野勇斗は倉科カナに大失態",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
       "articleUrl": "https://news.mynavi.jp/article/20260910-4942313/",
       "publishedAt": "2026-09-09T22:00:00.000Z",
       "summary": "「まったく自信なくって。緊張しちゃってすみません」――きょう10日に放送される日本テレビ系バラエティ番組『ぐるぐるナインティナイン』2時間SP(19:00～)に、今年3月にNHKを退局した和久田麻由子が出演。民放バラエティ初登場で「ゴチになります!27」に参戦し、大喜利の無茶ぶりや“サプライズプロポーズ”の洗礼を受ける。",
