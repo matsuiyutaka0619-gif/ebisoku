@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-09T20:55:50.955Z",
+  "updatedAt": "2026-09-10T04:42:05.653Z",
   "totals": {
-    "all": 130,
+    "all": 127,
     "today": 7,
-    "week": 18
+    "week": 15
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 12
+      "count": 11
     },
     {
       "name": "SUPER★DRAGON",
@@ -16,32 +16,24 @@
     },
     {
       "name": "原因は自分にある。",
-      "count": 2
-    },
-    {
-      "name": "EBiDAN",
       "count": 1
     }
   ],
   "memberRanking": [
     {
       "name": "吉田仁人",
-      "count": 6
+      "count": 3
+    },
+    {
+      "name": "佐野勇斗",
+      "count": 2
     },
     {
       "name": "山中柔太朗",
       "count": 2
     },
     {
-      "name": "吉澤要人",
-      "count": 1
-    },
-    {
       "name": "小泉光咲",
-      "count": 1
-    },
-    {
-      "name": "曽野舜太",
       "count": 1
     },
     {
@@ -67,7 +59,7 @@
       "count": 2
     },
     {
-      "name": "リアルサウンド 映画部",
+      "name": "マイナビニュース エンタメ",
       "count": 2
     },
     {
@@ -75,25 +67,101 @@
       "count": 1
     },
     {
-      "name": "ENCOUNT",
-      "count": 1
-    },
-    {
-      "name": "マイナビニュース エンタメ",
-      "count": 1
-    },
-    {
       "name": "リアルサウンド 音楽",
-      "count": 1
-    },
-    {
-      "name": "日刊スポーツ 芸能",
       "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
     "M!LK": [
+      {
+        "id": "8c2a47022b13d3c2",
+        "title": "M!LK山中柔太朗が福原遥＆HANAコハル＆幾田りらと並ぶ姿が話題！抜群スタイルに「身長差メロすぎ」「世界に見つかっちゃう」の声",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000879346/",
+        "publishedAt": "2026-09-10T04:35:09.000Z",
+        "summary": "M!LKの山中柔太朗が、Coach（コーチ）の2027年春夏コレクションショーに出席。HANAのKOHARU（...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "a2a448eac1cc57e7",
+        "title": "M!LK吉田仁人がイエロー×ゴールドの“きらびやか衣装”で凛々しい表情！最新ソロアー写＆新曲ダンスに「王子様すぎる」「彦星みたい」「ビジュ更新してる」「新衣装すごい」と反響",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000879330/",
+        "publishedAt": "2026-09-10T03:04:33.000Z",
+        "summary": "M!LKの公式SNSが更新。吉田仁人の最新ソロアーティスト写真と、新曲「時空超えてユニバース」...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "e0360978810e3f48",
+        "title": "M!LK佐野勇斗がゴチで“大事なこと”を告白！NEWS増田貴久は「なんで今言う？」とツッコむ",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000879062/",
+        "publishedAt": "2026-09-09T22:00:22.000Z",
+        "summary": "9月10日19時から放送の『ぐるナイ2時間SP』は、「料理ハンデマッチ」と「ゴチになります」の2...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "ad28d7509ac0b85b",
+        "title": "和久田麻由子にせいやが衝撃の“サプライズプロポーズ”「青天の霹靂」 佐野勇斗は倉科カナに大失態",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20260910-4942313/",
+        "publishedAt": "2026-09-09T22:00:00.000Z",
+        "summary": "「まったく自信なくって。緊張しちゃってすみません」――きょう10日に放送される日本テレビ系バラエティ番組『ぐるぐるナインティナイン』2時間SP(19:00～)に、今年3月にNHKを退局した和久田麻由子が出演。民放バラエティ初登場で「ゴチになります!27」に参戦し、大喜利の無茶ぶりや“サプライズプロポーズ”の洗礼を受ける。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
       {
         "id": "ca886b64c120fc26",
         "title": "M!LK、空前ヒットの裏に隠された伏線回収 “壮大な愛”のさらなる最大化＝「時空超えてユニバース」",
@@ -107,119 +175,9 @@
         ],
         "statuses": [],
         "memberMatches": []
-      },
-      {
-        "id": "efacddbf3f019620",
-        "title": "M!LK 吉田仁人が連続ドラマ初主演 『溺愛 ～ 実は、最強ヒーロー ～』10月30日より放送",
-        "sourceName": "リアルサウンド 映画部",
-        "sourceUrl": "https://realsound.jp/movie/feed",
-        "articleUrl": "https://realsound.jp/movie/2026/09/post-2518005.html",
-        "publishedAt": "2026-09-09T20:00:26.000Z",
-        "summary": "M!LKの吉田仁人が連続ドラマ初主演を務める『溺愛 〜 実は、最強ヒーロー 〜』が、10月30日よりTOKYO MXで放送されることが決定した。 本作は、シリーズ累計3400万ダウンロードを突破し、「コミックシーモア",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "80bc8746f8740e95",
-        "title": "M!LK吉田仁人主演ドラマ『溺愛 ～ 実は、最強ヒーロー ～』放送決定！「『会社ラブコメでアクション…!?』と僕自身も驚きました」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000878803/",
-        "publishedAt": "2026-09-09T20:00:08.000Z",
-        "summary": "吉田仁人（M!LK）が主演を務めるTOKYO MXの新金曜ドラマ『溺愛 ～ 実は、最強ヒーロー ～』が...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "8c2a8a50f0733061",
-        "title": "M！LK吉田仁人が連ドラ初主演 ハイスペイケメン＆最強ヒーロー演じる",
-        "sourceName": "日刊スポーツ 芸能",
-        "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-        "articleUrl": "https://www.nikkansports.com/entertainment/news/202609090001182.html",
-        "publishedAt": "2026-09-09T20:00:00.000Z",
-        "summary": "M！LKのリーダー吉田仁人（26）が、連続ドラマ初主演を務めることが9日、分かった。10月30日からTOKYO MXで放送開始する「溺愛 ～実は、最強ヒーロー～」（金曜午後11時）で、元営業成績トップ、現在は総務部に所属する会社員藤崎真…",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "ff09317211b407b2",
-        "title": "「僕自身も驚きましたが…」M!LK吉田仁人が一途すぎる“ハイスぺ年下男子”に 連ドラ初主演作でアクションにも挑戦",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20260910-4941234/",
-        "publishedAt": "2026-09-09T20:00:00.000Z",
-        "summary": "M!LKの吉田仁人が主演を務める、TOKYO MXの新金曜ドラマ『溺愛 ～ 実は、最強ヒーロー ～』(毎週金曜23:00～23:30)が、10月30日からスタートする。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
       }
     ],
     "原因は自分にある。": [
-      {
-        "id": "81c976e5c2734b7b",
-        "title": "げんじぶ 吉澤要人、莉子の恋人役で『SQUALL』出演へ 「夢を叶える機会をいただけた」",
-        "sourceName": "リアルサウンド 映画部",
-        "sourceUrl": "https://realsound.jp/movie/feed",
-        "articleUrl": "https://realsound.jp/movie/2026/09/post-2517969.html",
-        "publishedAt": "2026-09-09T19:45:43.000Z",
-        "summary": "10月18日よりABCテレビで放送される莉子主演ドラマ『SQUALL』に、原因は自分にある。の吉澤要人が出演することが決定した。 日本とシンガポールの外交関係樹立60周年記念ドラマとなる本作は、日本の連続ドラマ史上初",
-        "groups": [
-          "原因は自分にある。"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉澤要人",
-            "group": "原因は自分にある。",
-            "status": "active"
-          }
-        ]
-      },
       {
         "id": "5b8d0ef207bebb7e",
         "title": "小泉光咲＆四坂亮翔W主演「陽キャ集団にいる芹沢は、俺の前だと様子がおかしい」第6話あらすじ公開！キス後に二人がギクシャク",
@@ -269,85 +227,6 @@
             "status": "active"
           }
         ]
-      }
-    ],
-    "EBiDAN": [
-      {
-        "id": "51a29ddf19dc4e39",
-        "title": "EBiDAN「Yes! 東京」、King & Prince『So Honey EP』がオリコン週間合算ランキングで首位獲得",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000878717/",
-        "publishedAt": "2026-09-09T05:50:01.000Z",
-        "summary": "9月14日付オリコン週間音楽ランキング（集計期間：2026年8月31日～9月6日）が発表された。 ■EB...",
-        "groups": [
-          "EBiDAN"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "47f16c975ff422cd",
-        "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11607/",
-        "publishedAt": "2026-09-02T12:34:24.000Z",
-        "summary": "平素より株式会社SDR所属アーティストへの温かいご声援を賜り、誠にありがとうございます。 DISH//、EBiDAN（超特急、M!LK、SUPER★DRAGON、Sakurashimeji、ONE N’ ON […] The post グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ first appeared on SUPER★DRAGO",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK",
-          "SUPER★DRAGON",
-          "Sakurashimeji"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "7277b3cf409678c0",
-        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』 最新チケット情報",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11600/",
-        "publishedAt": "2026-08-31T09:30:16.000Z",
-        "summary": "本日8月31日(月)18:00よりEBiDAN先行受付開始！ 皆さんとお会いできることを楽しみにしております！ 第６回EBiDAN大運動会『スポーツマンヒップ！』 【千葉】LaLa arena […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』 最新チケット情報 first appeared on SUPER★DRAGON .",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "529e06a874764faf",
-        "title": "『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット、『EBiDAN 15th Anniversaryオフィシャルグッズ』＆『恵比寿学園男子部 校内スナップ』通販決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11580/",
-        "publishedAt": "2026-08-27T09:15:19.000Z",
-        "summary": "『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット、『EBiDAN 15th Anniversaryオフィシャルグッズ』＆『恵比寿学園男子部 校内スナップ』通販 […] The post 『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット、",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "a02364c0b1bd5a80",
-        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』開催決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11576/",
-        "publishedAt": "2026-08-23T03:00:22.000Z",
-        "summary": "EBiDAN大運動会『スポーツマンヒップ！』6回目の開催が決定！ 第6回は入所順でのグループ対抗戦！！ スポーツの秋…あの日の同期が、今日だけの夢のチームとなるEBiDAN大運動会を、是非一緒に見届けましょう […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』開催決定！ first appeared on SUPER★DRAGON ",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
       }
     ],
     "SUPER★DRAGON": [
@@ -428,6 +307,86 @@
         "publishedAt": "2026-09-01T09:00:32.000Z",
         "summary": "本日9月1日(火)18:00より『+KIRARI』会員先行が受付開始。 会場で皆さんとお会いできることを楽しみにしております！ ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願いと注意事項】 http […] The post 「SUPER★DRAGON DRA FES 2026 追加公演」最新チケット情報！ first appeared",
         "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
+    "EBiDAN": [
+      {
+        "id": "47f16c975ff422cd",
+        "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11607/",
+        "publishedAt": "2026-09-02T12:34:24.000Z",
+        "summary": "平素より株式会社SDR所属アーティストへの温かいご声援を賜り、誠にありがとうございます。 DISH//、EBiDAN（超特急、M!LK、SUPER★DRAGON、Sakurashimeji、ONE N’ ON […] The post グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ first appeared on SUPER★DRAGO",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK",
+          "SUPER★DRAGON",
+          "Sakurashimeji"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "7277b3cf409678c0",
+        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』 最新チケット情報",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11600/",
+        "publishedAt": "2026-08-31T09:30:16.000Z",
+        "summary": "本日8月31日(月)18:00よりEBiDAN先行受付開始！ 皆さんとお会いできることを楽しみにしております！ 第６回EBiDAN大運動会『スポーツマンヒップ！』 【千葉】LaLa arena […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』 最新チケット情報 first appeared on SUPER★DRAGON .",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "529e06a874764faf",
+        "title": "『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット、『EBiDAN 15th Anniversaryオフィシャルグッズ』＆『恵比寿学園男子部 校内スナップ』通販決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11580/",
+        "publishedAt": "2026-08-27T09:15:19.000Z",
+        "summary": "『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット、『EBiDAN 15th Anniversaryオフィシャルグッズ』＆『恵比寿学園男子部 校内スナップ』通販 […] The post 『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット、",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "a02364c0b1bd5a80",
+        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』開催決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11576/",
+        "publishedAt": "2026-08-23T03:00:22.000Z",
+        "summary": "EBiDAN大運動会『スポーツマンヒップ！』6回目の開催が決定！ 第6回は入所順でのグループ対抗戦！！ スポーツの秋…あの日の同期が、今日だけの夢のチームとなるEBiDAN大運動会を、是非一緒に見届けましょう […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』開催決定！ first appeared on SUPER★DRAGON ",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "91a2a4d301121007",
+        "title": "【SUPERSTAR EBiDAN】 「EBiDAN THE LIVE 2026 15th Anniversary」開催記念！ゲーム内イベント実施",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11560/",
+        "publishedAt": "2026-08-12T08:00:18.000Z",
+        "summary": "EBiDAN公式リズムゲーム『SUPERSTAR EBiDAN』では、 「EBiDAN THE LIVE 2026 15th Anniversary」の開催を記念して、期間限定のゲーム内イベントを実施いたします！ ここで […] The post 【SUPERSTAR EBiDAN】 「EBiDAN THE LIVE 2026 15th Anniversar",
+        "groups": [
+          "EBiDAN",
           "SUPER★DRAGON"
         ],
         "statuses": [],
