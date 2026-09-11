@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-09-11T11:20:42.232Z",
+  "updatedAt": "2026-09-11T16:28:08.083Z",
   "totals": {
-    "all": 128,
-    "today": 9,
-    "week": 19
+    "all": 127,
+    "today": 0,
+    "week": 17
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 12
-    },
-    {
-      "name": "SUPER★DRAGON",
-      "count": 4
+      "count": 11
     },
     {
       "name": "EBiDAN",
+      "count": 3
+    },
+    {
+      "name": "SUPER★DRAGON",
       "count": 3
     },
     {
@@ -37,15 +37,15 @@
       "count": 3
     },
     {
-      "name": "塩﨑太智",
-      "count": 2
-    },
-    {
       "name": "曽野舜太",
       "count": 2
     },
     {
       "name": "ユーキ",
+      "count": 1
+    },
+    {
+      "name": "塩﨑太智",
       "count": 1
     },
     {
@@ -64,11 +64,11 @@
     },
     {
       "name": "SUPER★DRAGON 公式NEWS",
-      "count": 4
+      "count": 3
     },
     {
       "name": "THE FIRST TIMES",
-      "count": 4
+      "count": 3
     },
     {
       "name": "マイナビニュース エンタメ",
