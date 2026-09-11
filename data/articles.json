@@ -1,6 +1,178 @@
 {
-  "updatedAt": "2026-09-11T04:39:56.072Z",
+  "updatedAt": "2026-09-11T11:20:42.230Z",
   "articles": [
+    {
+      "id": "db4cc1cafe626a0a",
+      "title": "「愛やったんやな」「今でも帰ると…」M!LK曽野舜太、上京して実感…両親からの“愛”に感謝",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260911-4935748/",
+      "publishedAt": "2026-09-11T10:00:00.000Z",
+      "summary": "「あれって愛やったんやな」M!LKの曽野舜太が、自身のYouTubeチャンネル『I'm 曽野舜太』を更新。“グラ”こと妹との焼肉を楽しむなかで、両親への感謝を語った。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "曽野舜太",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "0aabd7f941707d79",
+      "title": "日本レコード協会「8月度GD認定」、EBiDAN（恵比寿学園男子部）『Yes! 東京』がミリオン認定",
+      "sourceName": "タワーレコード ニュース",
+      "sourceUrl": "https://tower.jp/feeds/article/news",
+      "articleUrl": "https://tower.jp/article/news/2026/09/11/tg004",
+      "publishedAt": "2026-09-11T09:40:00.000Z",
+      "summary": "",
+      "groups": [
+        "EBiDAN"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "3b9dd080f7cd3e5f",
+      "title": "山中柔太朗、音楽ライブのチケットをイメージしたバッグでNYFWへ！M!LKでワールドツアーにも意欲",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/fashion2/666636.html",
+      "publishedAt": "2026-09-11T09:00:25.000Z",
+      "summary": "山中柔太朗が、ニューヨーク・ファッションウィークで発表されたCOACHのSpring 2027コレクションのショーに参加した。山中は、レザーの質感が印象的なバッグをコーディネートのポイントにセレクト。バッグには音楽ライブのチケットをイメージしたチャームが付いており、自身 ... The post 山中柔太朗、音楽ライブのチケットをイメージしたバッグでNYFW",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "fcb128f4e3483fc6",
+      "title": "M!LK吉田仁人＆塩﨑太智＆曽野舜太が肩を寄せて笑顔！“信号機カラー”のお揃いコーデで並ぶ姿に「かわいい」「しゅんちゃん顔小さい」「両サイドおもちすぎ」「みんな手が男らしくてメロい」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000880200/",
+      "publishedAt": "2026-09-11T07:10:16.000Z",
+      "summary": "M!LKの冠番組『限界突破！やってM!LK』シーズン2（TBS系）の公式Xで、M!LKの吉田仁人、塩崎太...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "塩﨑太智",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "曽野舜太",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "c4ba29fd2900c0db",
+      "title": "EBiDAN(恵比寿学園男子部) カップリング曲「好きだから走れ！！！！！！！」Lyric Videoを公開！",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news11623/",
+      "publishedAt": "2026-09-11T07:00:45.000Z",
+      "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念した楽曲「Yes! 東京」のストリーミング1億回再生を記念して、シングル「Yes! 東京」に収録されているカップリング曲「好きだから走れ！！！！！！！」のLyric Vi […] The post EBiDAN(恵比寿学園男子部) カップリング曲「好きだから走れ！！！！！！！」Lyric Videoを公開！ ",
+      "groups": [
+        "EBiDAN",
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "3d88a71396ebf56a",
+      "title": "EBiDAN「Yes! 東京」C/W曲「好きだから走れ！！！！！！！」リリックビデオ公開！「僕たちなりの“走る道”」（超特急ユーキ）",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000879813/",
+      "publishedAt": "2026-09-11T07:00:17.000Z",
+      "summary": "EBiDAN（恵比寿学園男子部）が、シングル「Yes! 東京」に収録されているカップリング曲「好き...",
+      "groups": [
+        "EBiDAN",
+        "超特急"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "ユーキ",
+          "group": "超特急",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "6d9ad948bddc50f3",
+      "title": "M!LK山中柔太朗『美的』SPECIAL EDITION表紙に登場！FANTASTICS木村慧人との対談も実現",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000880045/",
+      "publishedAt": "2026-09-11T06:00:10.000Z",
+      "summary": "M!LKの山中柔太朗が、9月24日発売の『美的』11月号SPECIAL EDITIONの表紙に登場することが発表...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "c05e3c61646ea38e",
+      "title": "「M!LKでも個人でも…」「いつかできたら」山中柔太朗、NYでのファッションショー参加で感じたこととは",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260911-4950597/",
+      "publishedAt": "2026-09-11T05:00:00.000Z",
+      "summary": "M!LKの山中柔太朗が、現地時間9日にアメリカ・ニューヨークで行われた「New York Fashion Week」にグローバルファッションブランド・COACHのセレブリティとして参加した。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "90abc0472aeeecfb",
       "title": "M!LK塩﨑太智が26歳バースデーに“おねむな笑顔”“打ち合わせ中のほほ笑み”“躍動感ある大ジャンプ”など続々と披露！「あえてのみそざきさん」「元気も癒しももらえる笑顔」「打ち合わせ中の目線メロすぎ」",
@@ -18,113 +190,6 @@
       "memberMatches": [
         {
           "name": "塩﨑太智",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "0b970f15b1833838",
-      "title": "M!LK吉田仁人の“至近距離”寝そべりショットに「メロ…倒れる……」「俺が好きなんでしょ？って言いそうな角度」「底なし沼すぎる」の声！塩﨑太智を思わせるポーズにも「だいちゃーじしてくれてて泣いた」と反響",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000880001/",
-      "publishedAt": "2026-09-11T03:42:42.000Z",
-      "summary": "文化放送『M!LK 吉田仁人のレコメン！』の公式Xで、9月10日放送回のオフショットが続々と公開...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "塩﨑太智",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "d0af41ce71b6c307",
-      "title": "Ado、M!LK、ポルノグラフィティ、JO1、玉置浩二・ASKA、LEE JISOO……注目新譜6作をレビュー",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/09/post-2517580.html",
-      "publishedAt": "2026-09-11T03:10:03.000Z",
-      "summary": "毎週発表される新譜の中から注目作品をレビューしていく連載「New Releases In Focus」。今回は、Ado「好きでいて」、M!LK「時空超えてユニバース」、ポルノグラフィティ「マスク・ド・カメロ」、JO1「IGNITE」、玉置浩二・ASKA「音銀河」、LEE JISOO「MISMATCH」の6作品をピックアップした。（編集部）",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "365eb77f83e50ce8",
-      "title": "観月ありさが学園を支配する理事長役に 浅香航大＆杢代和人『仮面教師』新キャスト発表",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/09/post-2519190.html",
-      "publishedAt": "2026-09-11T03:00:31.000Z",
-      "summary": "10月7日より放送される、浅香航大×杢代和人がW主演を務めるドラマ『仮面教師～妻を亡くしたその日から』に北乃きい、川島海荷、ひょうろく、袴田吉彦、財木琢磨、藤井美菜、西尾まり、観月ありさが出演することが決定した。 本",
-      "groups": [
-        "原因は自分にある。"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "杢代和人",
-          "group": "原因は自分にある。",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "18abe5795cdb95b2",
-      "title": "【レポート】幾田りら、HANA・KOHARU、福原遥、山中柔太朗、NYにてコーチのショーを語る。「すごく刺激的でした」（山中）",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/report/0000879881/",
-      "publishedAt": "2026-09-11T02:57:41.000Z",
-      "summary": "ニューヨーク発のグローバルファッションブランド、コーチが9月10日、Spring 2027コレクション...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "山中柔太朗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "82d6079e4ec7e0c8",
-      "title": "【レポート】幾田りら、HANA・KOHARU、福原遥、山中柔太朗がNYで開催されたコーチのショーに来場",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/report/0000879776/",
-      "publishedAt": "2026-09-11T00:40:46.000Z",
-      "summary": "ニューヨーク発のグローバルファッションブランド、コーチが9月10日、Spring 2027コレクション...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "山中柔太朗",
           "group": "M!LK",
           "status": "active"
         }
@@ -223,28 +288,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "5b8d0ef207bebb7e",
-      "title": "小泉光咲＆四坂亮翔W主演「陽キャ集団にいる芹沢は、俺の前だと様子がおかしい」第6話あらすじ公開！キス後に二人がギクシャク",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/tv/666324.html",
-      "publishedAt": "2026-09-09T04:00:02.000Z",
-      "summary": "小泉光咲と四坂亮翔がW主演を務める読売テレビドラマ「陽キャ集団にいる芹沢は、俺の前だと様子がおかしい」の第6話あらすじと場面写真が公開された。同作は、椿ゆずによるBL小説を原作とした青春ボーイズラブコメディ。小泉は個人として連続ドラマ初主演、四坂は連続ドラマ初主演となる ... The post 小泉光咲＆四坂亮翔W主演「陽キャ集団にいる芹沢は、俺の前だと様",
-      "groups": [
-        "原因は自分にある。"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "小泉光咲",
-          "group": "原因は自分にある。",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "976120bc3101651a",
@@ -1343,38 +1386,6 @@
       "memberMatches": []
     },
     {
-      "id": "4cd94d10eb100356",
-      "title": "M!LK連続リリース企画第三弾は塩﨑太智、らしさ満載の「しおざきわんだーらんど」7月6日配信",
-      "sourceName": "Bezzy",
-      "sourceUrl": "https://bezzy.jp/feed/",
-      "articleUrl": "https://bezzy.jp/2026/06/88387/",
-      "publishedAt": "2026-06-29T10:00:00.000Z",
-      "summary": "5人組ダンスボーカルグループ・M!LKの塩﨑太智が、新曲「しおざきわんだーらんど」を7月6日(月)に配信リリースすることが決定した。 夏に向けて5作連続リリース企画「モー烈モー進！リリースプロジェクト2026」を遂行中のM!LKは、4月に「アイドルパワー」、6月に曽野舜太・山中柔太朗によるユニット曲「真・運命」をリリース。続く第三弾となる「しおざきわんだーら",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "塩﨑太智",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "曽野舜太",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "山中柔太朗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "b3feec1b2fa80077",
       "title": "2026年8月7日(金) BSフジで25:00スタート！ ドラマ『席替えしたら、どうやら後ろの男が俺のこと好きらしい』 飯島颯 出演決定🎉 さらに、主題歌に「NPC」が決定！",
       "sourceName": "SUPER★DRAGON 公式NEWS",
@@ -2150,21 +2161,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "0996f2425745e0ec",
-      "title": "「EBiDAN THE LIVE 2026 15th Anniversary」 最新チケット情報",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news10920/",
-      "publishedAt": "2026-05-01T10:59:59.000Z",
-      "summary": "本日5月1日(金)20:00より国内在住『＋KIRARI』/ 海外在住『＋KIRARI』会員限定先行（会員＋会員）が受付開始！ 皆さんとお会いできることを楽しみにしております！ 海外在住『＋KIRARI』会員先行について […] The post 「EBiDAN THE LIVE 2026 15th Anniversary」 最新チケット情報 first a",
-      "groups": [
-        "EBiDAN",
-        "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
     }
   ]
 }
