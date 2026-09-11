@@ -1,43 +1,39 @@
 {
-  "updatedAt": "2026-09-10T20:52:32.994Z",
+  "updatedAt": "2026-09-11T04:39:56.075Z",
   "totals": {
     "all": 128,
-    "today": 0,
+    "today": 6,
     "week": 17
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 10
+      "count": 11
     },
     {
       "name": "SUPER★DRAGON",
-      "count": 4
+      "count": 3
     },
     {
       "name": "原因は自分にある。",
-      "count": 2
-    },
-    {
-      "name": "ONE N' ONLY",
-      "count": 1
+      "count": 3
     }
   ],
   "memberRanking": [
     {
       "name": "吉田仁人",
+      "count": 3
+    },
+    {
+      "name": "山中柔太朗",
+      "count": 3
+    },
+    {
+      "name": "塩﨑太智",
       "count": 2
     },
     {
       "name": "佐野勇斗",
-      "count": 2
-    },
-    {
-      "name": "山中柔太朗",
-      "count": 2
-    },
-    {
-      "name": "HAYATO",
       "count": 1
     },
     {
@@ -47,9 +43,17 @@
     {
       "name": "飯島颯",
       "count": 1
+    },
+    {
+      "name": "杢代和人",
+      "count": 1
     }
   ],
   "sourceRanking": [
+    {
+      "name": "THE FIRST TIMES",
+      "count": 4
+    },
     {
       "name": "タワーレコード ニュース",
       "count": 4
@@ -59,31 +63,23 @@
       "count": 3
     },
     {
-      "name": "THE FIRST TIMES",
-      "count": 2
-    },
-    {
-      "name": "WWSチャンネル",
-      "count": 2
-    },
-    {
       "name": "マイナビニュース テレビ",
       "count": 2
-    },
-    {
-      "name": "BARKS",
-      "count": 1
     },
     {
       "name": "Bezzy",
       "count": 1
     },
     {
-      "name": "マイナビニュース エンタメ",
+      "name": "WWSチャンネル",
       "count": 1
     },
     {
       "name": "リアルサウンド 映画部",
+      "count": 1
+    },
+    {
+      "name": "リアルサウンド 音楽",
       "count": 1
     }
   ],
@@ -91,13 +87,13 @@
   "recentByGroup": {
     "M!LK": [
       {
-        "id": "114ef3cae7ec4ece",
-        "title": "吉田仁人（M!LK）、待望の連続ドラマ初主演決定。新金曜ドラマ「溺愛 ～ 実は、最強ヒーロー ～」10月30日より放送",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/09/10/tg005",
-        "publishedAt": "2026-09-10T12:10:00.000Z",
-        "summary": "",
+        "id": "90abc0472aeeecfb",
+        "title": "M!LK塩﨑太智が26歳バースデーに“おねむな笑顔”“打ち合わせ中のほほ笑み”“躍動感ある大ジャンプ”など続々と披露！「あえてのみそざきさん」「元気も癒しももらえる笑顔」「打ち合わせ中の目線メロすぎ」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000879826/",
+        "publishedAt": "2026-09-11T04:40:08.000Z",
+        "summary": "M!LK公式Xが、塩崎太智（「崎」はたつさきが正式表記）の誕生日を祝福。塩崎の公式Xでも、豪快...",
         "groups": [
           "M!LK"
         ],
@@ -105,6 +101,33 @@
           "active"
         ],
         "memberMatches": [
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "0b970f15b1833838",
+        "title": "M!LK吉田仁人の“至近距離”寝そべりショットに「メロ…倒れる……」「俺が好きなんでしょ？って言いそうな角度」「底なし沼すぎる」の声！塩﨑太智を思わせるポーズにも「だいちゃーじしてくれてて泣いた」と反響",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000880001/",
+        "publishedAt": "2026-09-11T03:42:42.000Z",
+        "summary": "文化放送『M!LK 吉田仁人のレコメン！』の公式Xで、9月10日放送回のオフショットが続々と公開...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          },
           {
             "name": "吉田仁人",
             "group": "M!LK",
@@ -113,35 +136,13 @@
         ]
       },
       {
-        "id": "8797b22a3dc49410",
-        "title": "「しっかりヲタクで好き」「思った10倍…」M!LK佐野勇斗のコレクションにファン驚がく 新たにできた夢も明かす",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20260910-4935325/",
-        "publishedAt": "2026-09-10T10:00:00.000Z",
-        "summary": "「新たな夢でございます」M!LKの佐野勇斗が、自身のYouTubeチャンネル『佐野勇斗だぞ』を更新。自身の新たな夢を語った。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "bff2cf8134ae57a8",
-        "title": "M!LK5人が“キラキラシルバー衣装”で笑顔！「爆裂愛してる」“2億回再生突破”記念ビジュアルに「すごすぎ」「芸人さんみたいなポーズでかわいいw」「吉田さんの表情が良すぎる」「はやちゃん手が大きくて激メロ」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000879482/",
-        "publishedAt": "2026-09-10T05:40:05.000Z",
-        "summary": "M!LKの公式Xが更新。楽曲「爆裂愛してる」の累計ストリーミング再生数が2億回を突破したことを...",
+        "id": "d0af41ce71b6c307",
+        "title": "Ado、M!LK、ポルノグラフィティ、JO1、玉置浩二・ASKA、LEE JISOO……注目新譜6作をレビュー",
+        "sourceName": "リアルサウンド 音楽",
+        "sourceUrl": "https://realsound.jp/music/feed",
+        "articleUrl": "https://realsound.jp/2026/09/post-2517580.html",
+        "publishedAt": "2026-09-11T03:10:03.000Z",
+        "summary": "毎週発表される新譜の中から注目作品をレビューしていく連載「New Releases In Focus」。今回は、Ado「好きでいて」、M!LK「時空超えてユニバース」、ポルノグラフィティ「マスク・ド・カメロ」、JO1「IGNITE」、玉置浩二・ASKA「音銀河」、LEE JISOO「MISMATCH」の6作品をピックアップした。（編集部）",
         "groups": [
           "M!LK"
         ],
@@ -149,13 +150,13 @@
         "memberMatches": []
       },
       {
-        "id": "8c2a47022b13d3c2",
-        "title": "M!LK山中柔太朗が福原遥＆HANAコハル＆幾田りらと並ぶ姿が話題！抜群スタイルに「身長差メロすぎ」「世界に見つかっちゃう」の声",
+        "id": "18abe5795cdb95b2",
+        "title": "【レポート】幾田りら、HANA・KOHARU、福原遥、山中柔太朗、NYにてコーチのショーを語る。「すごく刺激的でした」（山中）",
         "sourceName": "THE FIRST TIMES",
         "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000879346/",
-        "publishedAt": "2026-09-10T04:35:09.000Z",
-        "summary": "M!LKの山中柔太朗が、Coach（コーチ）の2027年春夏コレクションショーに出席。HANAのKOHARU（...",
+        "articleUrl": "https://www.thefirsttimes.jp/report/0000879881/",
+        "publishedAt": "2026-09-11T02:57:41.000Z",
+        "summary": "ニューヨーク発のグローバルファッションブランド、コーチが9月10日、Spring 2027コレクション...",
         "groups": [
           "M!LK"
         ],
@@ -171,13 +172,13 @@
         ]
       },
       {
-        "id": "ad28d7509ac0b85b",
-        "title": "和久田麻由子にせいやが衝撃の“サプライズプロポーズ”「青天の霹靂」 佐野勇斗は倉科カナに大失態",
-        "sourceName": "マイナビニュース テレビ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-        "articleUrl": "https://news.mynavi.jp/article/20260910-4942313/",
-        "publishedAt": "2026-09-09T22:00:00.000Z",
-        "summary": "「まったく自信なくって。緊張しちゃってすみません」――きょう10日に放送される日本テレビ系バラエティ番組『ぐるぐるナインティナイン』2時間SP(19:00～)に、今年3月にNHKを退局した和久田麻由子が出演。民放バラエティ初登場で「ゴチになります!27」に参戦し、大喜利の無茶ぶりや“サプライズプロポーズ”の洗礼を受ける。",
+        "id": "82d6079e4ec7e0c8",
+        "title": "【レポート】幾田りら、HANA・KOHARU、福原遥、山中柔太朗がNYで開催されたコーチのショーに来場",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/report/0000879776/",
+        "publishedAt": "2026-09-11T00:40:46.000Z",
+        "summary": "ニューヨーク発のグローバルファッションブランド、コーチが9月10日、Spring 2027コレクション...",
         "groups": [
           "M!LK"
         ],
@@ -186,7 +187,7 @@
         ],
         "memberMatches": [
           {
-            "name": "佐野勇斗",
+            "name": "山中柔太朗",
             "group": "M!LK",
             "status": "active"
           }
@@ -194,6 +195,28 @@
       }
     ],
     "原因は自分にある。": [
+      {
+        "id": "365eb77f83e50ce8",
+        "title": "観月ありさが学園を支配する理事長役に 浅香航大＆杢代和人『仮面教師』新キャスト発表",
+        "sourceName": "リアルサウンド 映画部",
+        "sourceUrl": "https://realsound.jp/movie/feed",
+        "articleUrl": "https://realsound.jp/movie/2026/09/post-2519190.html",
+        "publishedAt": "2026-09-11T03:00:31.000Z",
+        "summary": "10月7日より放送される、浅香航大×杢代和人がW主演を務めるドラマ『仮面教師～妻を亡くしたその日から』に北乃きい、川島海荷、ひょうろく、袴田吉彦、財木琢磨、藤井美菜、西尾まり、観月ありさが出演することが決定した。 本",
+        "groups": [
+          "原因は自分にある。"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "杢代和人",
+            "group": "原因は自分にある。",
+            "status": "active"
+          }
+        ]
+      },
       {
         "id": "98a5310fc96ec288",
         "title": "「J-POPシングル ウィークリーTOP30」発表。1位はSixTONES『Dance Forever/マイオンリー』、予約1位は原因は自分にある。『ラブリーズン』（2026年9月10日付）",
@@ -261,20 +284,6 @@
     ],
     "SUPER★DRAGON": [
       {
-        "id": "7a8ac933faac8992",
-        "title": "木村柾哉、INIの5周年とリーダーとしての矜持を語る",
-        "sourceName": "BARKS",
-        "sourceUrl": "https://www.barks.jp/feed/",
-        "articleUrl": "https://barks.jp/news/1087754",
-        "publishedAt": "2026-09-10T09:02:13.000Z",
-        "summary": "ボーイズグループの生い立ちや今をパーソナルなロングインタビューで綴る“読むボーイズマガジン”こと『BOYS AND READ』の最新刊第3号が9月10日に発売された。表紙巻頭は、東阪ドームツアーを控えるINIのリーダー・木村柾哉だ。 バックダンサーや振付アシスタント、講師としてダンスに関わってきた経験を経て、サバイバルオーディション番組『PRODUCE 10",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
         "id": "5fe29a70c717c000",
         "title": "【飯島颯】星新一生誕 100 年記念朗読劇「星新一が描いた未来」出演決定！",
         "sourceName": "SUPER★DRAGON 公式NEWS",
@@ -341,30 +350,20 @@
         ],
         "statuses": [],
         "memberMatches": []
-      }
-    ],
-    "ONE N' ONLY": [
+      },
       {
-        "id": "41d28b88bdae823d",
-        "title": "『おかえり、初恋。』に高尾颯斗、朝倉あき、藤林泰也ら “高校時代”のビジュアルも",
-        "sourceName": "リアルサウンド 映画部",
-        "sourceUrl": "https://realsound.jp/movie/feed",
-        "articleUrl": "https://realsound.jp/movie/2026/09/post-2518231.html",
-        "publishedAt": "2026-09-10T09:00:54.000Z",
-        "summary": "10月8日よりMBSドラマフィル枠で放送される、樋口幸平と林芽亜里がW主演を務める『おかえり、初恋。』に、高尾颯斗、朝倉あき、藤林泰也、遠藤雄斗、濱津隆之が出演することが決定した。あわせて、ポスタービジュアル、作中の高",
+        "id": "0472097ee2768398",
+        "title": "「SUPER★DRAGON DRA FES 2026 追加公演」最新チケット情報！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11603/",
+        "publishedAt": "2026-09-01T09:00:32.000Z",
+        "summary": "本日9月1日(火)18:00より『+KIRARI』会員先行が受付開始。 会場で皆さんとお会いできることを楽しみにしております！ ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願いと注意事項】 http […] The post 「SUPER★DRAGON DRA FES 2026 追加公演」最新チケット情報！ first appeared",
         "groups": [
-          "ONE N' ONLY"
+          "SUPER★DRAGON"
         ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "HAYATO",
-            "group": "ONE N' ONLY",
-            "status": "active"
-          }
-        ]
+        "statuses": [],
+        "memberMatches": []
       }
     ],
     "EBiDAN": [
