@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-11T20:58:22.841Z",
+  "updatedAt": "2026-09-12T04:33:46.624Z",
   "totals": {
-    "all": 127,
-    "today": 0,
+    "all": 126,
+    "today": 4,
     "week": 17
   },
   "groupRanking": [
@@ -11,29 +11,29 @@
       "count": 11
     },
     {
-      "name": "EBiDAN",
-      "count": 3
-    },
-    {
       "name": "SUPER★DRAGON",
       "count": 3
     },
     {
-      "name": "原因は自分にある。",
+      "name": "EBiDAN",
+      "count": 2
+    },
+    {
+      "name": "ONE N' ONLY",
       "count": 1
     },
     {
-      "name": "超特急",
+      "name": "原因は自分にある。",
       "count": 1
     }
   ],
   "memberRanking": [
     {
-      "name": "山中柔太朗",
+      "name": "吉田仁人",
       "count": 4
     },
     {
-      "name": "吉田仁人",
+      "name": "山中柔太朗",
       "count": 3
     },
     {
@@ -41,11 +41,11 @@
       "count": 2
     },
     {
-      "name": "ユーキ",
+      "name": "HAYATO",
       "count": 1
     },
     {
-      "name": "塩﨑太智",
+      "name": "TETTA",
       "count": 1
     },
     {
@@ -68,10 +68,10 @@
     },
     {
       "name": "THE FIRST TIMES",
-      "count": 3
+      "count": 2
     },
     {
-      "name": "マイナビニュース エンタメ",
+      "name": "WWSチャンネル",
       "count": 2
     },
     {
@@ -83,7 +83,11 @@
       "count": 1
     },
     {
-      "name": "WWSチャンネル",
+      "name": "マイナビニュース エンタメ",
+      "count": 1
+    },
+    {
+      "name": "マイナビニュース 芸能",
       "count": 1
     }
   ],
@@ -91,13 +95,27 @@
   "recentByGroup": {
     "M!LK": [
       {
-        "id": "db4cc1cafe626a0a",
-        "title": "「愛やったんやな」「今でも帰ると…」M!LK曽野舜太、上京して実感…両親からの“愛”に感謝",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20260911-4935748/",
-        "publishedAt": "2026-09-11T10:00:00.000Z",
-        "summary": "「あれって愛やったんやな」M!LKの曽野舜太が、自身のYouTubeチャンネル『I'm 曽野舜太』を更新。“グラ”こと妹との焼肉を楽しむなかで、両親への感謝を語った。",
+        "id": "d2ad6754d5f8694e",
+        "title": "M!LK5人の和装姿が“眼福”すぎる！浴衣＆袴で魅せる色気漂う姿から華やかな5人ショットまでを厳選",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000878568/",
+        "publishedAt": "2026-09-12T04:00:25.000Z",
+        "summary": "ステージやMV、ドラマ、雑誌などで、さまざまな衣装を着こなすM!LK。なかでも、普段とはひと味...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "7a4311999da96b64",
+        "title": "M!LK曽野舜太＆吉田仁人『笑ってコラえて！』で「道の駅伝」へ！活サザエに「爆裂うますぎてイイじゃん！」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000880141/",
+        "publishedAt": "2026-09-11T22:00:52.000Z",
+        "summary": "M!LKのメンバーが、9月12日放送の日本テレビ『1億人の大質問!? 笑ってコラえて！』に登場。「...",
         "groups": [
           "M!LK"
         ],
@@ -107,6 +125,38 @@
         "memberMatches": [
           {
             "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "9bc2d495beed5a09",
+        "title": "「これヤバいぞ!」M!LK曽野舜太＆吉田仁人、能登半島を爆進 サザエの刺身に「爆裂うますぎてイイじゃん!」",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20260912-4952485/",
+        "publishedAt": "2026-09-11T22:00:00.000Z",
+        "summary": "「これヤバいぞ!」「爆裂うますぎてイイじゃん!」――きょう12日に放送される日本テレビ系バラエティ番組『1億人の大質問!? 笑ってコラえて!』2時間SP(19:00～)では、M!LKの曽野舜太と吉田仁人が「日本全国 道の駅伝!」に登場。能登半島で売上No.1商品を探しながら、次の道の駅を目指す。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "吉田仁人",
             "group": "M!LK",
             "status": "active"
           }
@@ -135,64 +185,10 @@
         ]
       },
       {
-        "id": "fcb128f4e3483fc6",
-        "title": "M!LK吉田仁人＆塩﨑太智＆曽野舜太が肩を寄せて笑顔！“信号機カラー”のお揃いコーデで並ぶ姿に「かわいい」「しゅんちゃん顔小さい」「両サイドおもちすぎ」「みんな手が男らしくてメロい」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000880200/",
-        "publishedAt": "2026-09-11T07:10:16.000Z",
-        "summary": "M!LKの冠番組『限界突破！やってM!LK』シーズン2（TBS系）の公式Xで、M!LKの吉田仁人、塩崎太...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "6d9ad948bddc50f3",
-        "title": "M!LK山中柔太朗『美的』SPECIAL EDITION表紙に登場！FANTASTICS木村慧人との対談も実現",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000880045/",
-        "publishedAt": "2026-09-11T06:00:10.000Z",
-        "summary": "M!LKの山中柔太朗が、9月24日発売の『美的』11月号SPECIAL EDITIONの表紙に登場することが発表...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
         "id": "c05e3c61646ea38e",
         "title": "「M!LKでも個人でも…」「いつかできたら」山中柔太朗、NYでのファッションショー参加で感じたこととは",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "sourceName": "マイナビニュース 芸能",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
         "articleUrl": "https://news.mynavi.jp/article/20260911-4950597/",
         "publishedAt": "2026-09-11T05:00:00.000Z",
         "summary": "M!LKの山中柔太朗が、現地時間9日にアメリカ・ニューヨークで行われた「New York Fashion Week」にグローバルファッションブランド・COACHのセレブリティとして参加した。",
@@ -206,6 +202,35 @@
           {
             "name": "山中柔太朗",
             "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "ONE N' ONLY": [
+      {
+        "id": "730befb38c45ff4d",
+        "title": "東京ホテイソン、トム・ブラウンみちお、ONE N' ONLY高尾颯斗・関哲汰、和田雅成が対決！「第1回バラバライド王決定戦」放送",
+        "sourceName": "WWSチャンネル",
+        "sourceUrl": "https://www.wws-channel.com/feed",
+        "articleUrl": "https://www.wws-channel.com/tv/666859.html",
+        "publishedAt": "2026-09-11T22:30:44.000Z",
+        "summary": "TOKYO MXの特別番組「バンマニ！「第1回バラバライド王決定戦」」が、9月19日19時から放送される。同番組は、バンダイ公式YouTubeチャンネルの情報番組「BANDAI MANIA!」初の地上波テレビ出張企画。新バトルトイ「バラバライド」を使い、初代王者を決める ... The post 東京ホテイソン、トム・ブラウンみちお、ONE N' ONLY高",
+        "groups": [
+          "ONE N' ONLY"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "TETTA",
+            "group": "ONE N' ONLY",
+            "status": "active"
+          },
+          {
+            "name": "HAYATO",
+            "group": "ONE N' ONLY",
             "status": "active"
           }
         ]
@@ -242,29 +267,6 @@
         "memberMatches": []
       },
       {
-        "id": "3d88a71396ebf56a",
-        "title": "EBiDAN「Yes! 東京」C/W曲「好きだから走れ！！！！！！！」リリックビデオ公開！「僕たちなりの“走る道”」（超特急ユーキ）",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000879813/",
-        "publishedAt": "2026-09-11T07:00:17.000Z",
-        "summary": "EBiDAN（恵比寿学園男子部）が、シングル「Yes! 東京」に収録されているカップリング曲「好き...",
-        "groups": [
-          "EBiDAN",
-          "超特急"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "ユーキ",
-            "group": "超特急",
-            "status": "active"
-          }
-        ]
-      },
-      {
         "id": "47f16c975ff422cd",
         "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
         "sourceName": "SUPER★DRAGON 公式NEWS",
@@ -290,6 +292,21 @@
         "articleUrl": "https://super-dragon.jp/news/news11600/",
         "publishedAt": "2026-08-31T09:30:16.000Z",
         "summary": "本日8月31日(月)18:00よりEBiDAN先行受付開始！ 皆さんとお会いできることを楽しみにしております！ 第６回EBiDAN大運動会『スポーツマンヒップ！』 【千葉】LaLa arena […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』 最新チケット情報 first appeared on SUPER★DRAGON .",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "529e06a874764faf",
+        "title": "『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット、『EBiDAN 15th Anniversaryオフィシャルグッズ』＆『恵比寿学園男子部 校内スナップ』通販決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11580/",
+        "publishedAt": "2026-08-27T09:15:19.000Z",
+        "summary": "『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット、『EBiDAN 15th Anniversaryオフィシャルグッズ』＆『恵比寿学園男子部 校内スナップ』通販 […] The post 『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット、",
         "groups": [
           "EBiDAN",
           "SUPER★DRAGON"
@@ -383,30 +400,51 @@
         "memberMatches": []
       }
     ],
-    "超特急": [
+    "原因は自分にある。": [
       {
-        "id": "3d88a71396ebf56a",
-        "title": "EBiDAN「Yes! 東京」C/W曲「好きだから走れ！！！！！！！」リリックビデオ公開！「僕たちなりの“走る道”」（超特急ユーキ）",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000879813/",
-        "publishedAt": "2026-09-11T07:00:17.000Z",
-        "summary": "EBiDAN（恵比寿学園男子部）が、シングル「Yes! 東京」に収録されているカップリング曲「好き...",
+        "id": "98a5310fc96ec288",
+        "title": "「J-POPシングル ウィークリーTOP30」発表。1位はSixTONES『Dance Forever/マイオンリー』、予約1位は原因は自分にある。『ラブリーズン』（2026年9月10日付）",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/09/10/tg001",
+        "publishedAt": "2026-09-10T10:00:00.000Z",
+        "summary": "",
         "groups": [
-          "EBiDAN",
-          "超特急"
+          "原因は自分にある。"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "15fb9ee4d3775ce2",
+        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/07/89645/",
+        "publishedAt": "2026-07-24T12:00:00.000Z",
+        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
+        "groups": [
+          "原因は自分にある。",
+          "BUDDiiS"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "ユーキ",
-            "group": "超特急",
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
             "status": "active"
           }
         ]
-      },
+      }
+    ],
+    "超特急": [
       {
         "id": "47f16c975ff422cd",
         "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
@@ -463,50 +501,6 @@
         ],
         "statuses": [],
         "memberMatches": []
-      }
-    ],
-    "原因は自分にある。": [
-      {
-        "id": "98a5310fc96ec288",
-        "title": "「J-POPシングル ウィークリーTOP30」発表。1位はSixTONES『Dance Forever/マイオンリー』、予約1位は原因は自分にある。『ラブリーズン』（2026年9月10日付）",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/09/10/tg001",
-        "publishedAt": "2026-09-10T10:00:00.000Z",
-        "summary": "",
-        "groups": [
-          "原因は自分にある。"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "15fb9ee4d3775ce2",
-        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/07/89645/",
-        "publishedAt": "2026-07-24T12:00:00.000Z",
-        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
-        "groups": [
-          "原因は自分にある。",
-          "BUDDiiS"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "SHOOT",
-            "group": "BUDDiiS",
-            "status": "active"
-          }
-        ]
       }
     ],
     "Sakurashimeji": [
