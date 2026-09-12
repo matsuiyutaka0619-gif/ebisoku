@@ -1,22 +1,22 @@
 {
-  "updatedAt": "2026-09-12T04:33:46.624Z",
+  "updatedAt": "2026-09-12T10:45:45.716Z",
   "totals": {
-    "all": 126,
-    "today": 4,
-    "week": 17
+    "all": 127,
+    "today": 6,
+    "week": 19
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 11
+      "count": 12
     },
     {
       "name": "SUPER★DRAGON",
-      "count": 3
+      "count": 4
     },
     {
       "name": "EBiDAN",
-      "count": 2
+      "count": 3
     },
     {
       "name": "ONE N' ONLY",
@@ -64,7 +64,7 @@
     },
     {
       "name": "SUPER★DRAGON 公式NEWS",
-      "count": 3
+      "count": 4
     },
     {
       "name": "THE FIRST TIMES",
@@ -72,6 +72,10 @@
     },
     {
       "name": "WWSチャンネル",
+      "count": 2
+    },
+    {
+      "name": "マイナビニュース エンタメ",
       "count": 2
     },
     {
@@ -83,10 +87,6 @@
       "count": 1
     },
     {
-      "name": "マイナビニュース エンタメ",
-      "count": 1
-    },
-    {
       "name": "マイナビニュース 芸能",
       "count": 1
     }
@@ -94,6 +94,20 @@
   "topics": [],
   "recentByGroup": {
     "M!LK": [
+      {
+        "id": "954c0c1bfdc8488a",
+        "title": "「ご家族ごと推せちゃう」「王子様たちを産んでくれてありがとう」「みんないい家庭で育ったんだろうな」M!LKメンバーの母親から寄せられた“貴重エピソード”にファン感動",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20260912-4935856/",
+        "publishedAt": "2026-09-12T10:00:00.000Z",
+        "summary": "「みんないい家庭で育ったんだろうな」アイドルグループ・M!LKが公開した“母親”からのメッセージに感動の声が上がっている――。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
       {
         "id": "d2ad6754d5f8694e",
         "title": "M!LK5人の和装姿が“眼福”すぎる！浴衣＆袴で魅せる色気漂う姿から華やかな5人ショットまでを厳選",
@@ -183,60 +197,24 @@
             "status": "active"
           }
         ]
-      },
-      {
-        "id": "c05e3c61646ea38e",
-        "title": "「M!LKでも個人でも…」「いつかできたら」山中柔太朗、NYでのファッションショー参加で感じたこととは",
-        "sourceName": "マイナビニュース 芸能",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-        "articleUrl": "https://news.mynavi.jp/article/20260911-4950597/",
-        "publishedAt": "2026-09-11T05:00:00.000Z",
-        "summary": "M!LKの山中柔太朗が、現地時間9日にアメリカ・ニューヨークで行われた「New York Fashion Week」にグローバルファッションブランド・COACHのセレブリティとして参加した。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      }
-    ],
-    "ONE N' ONLY": [
-      {
-        "id": "730befb38c45ff4d",
-        "title": "東京ホテイソン、トム・ブラウンみちお、ONE N' ONLY高尾颯斗・関哲汰、和田雅成が対決！「第1回バラバライド王決定戦」放送",
-        "sourceName": "WWSチャンネル",
-        "sourceUrl": "https://www.wws-channel.com/feed",
-        "articleUrl": "https://www.wws-channel.com/tv/666859.html",
-        "publishedAt": "2026-09-11T22:30:44.000Z",
-        "summary": "TOKYO MXの特別番組「バンマニ！「第1回バラバライド王決定戦」」が、9月19日19時から放送される。同番組は、バンダイ公式YouTubeチャンネルの情報番組「BANDAI MANIA!」初の地上波テレビ出張企画。新バトルトイ「バラバライド」を使い、初代王者を決める ... The post 東京ホテイソン、トム・ブラウンみちお、ONE N' ONLY高",
-        "groups": [
-          "ONE N' ONLY"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "TETTA",
-            "group": "ONE N' ONLY",
-            "status": "active"
-          },
-          {
-            "name": "HAYATO",
-            "group": "ONE N' ONLY",
-            "status": "active"
-          }
-        ]
       }
     ],
     "EBiDAN": [
+      {
+        "id": "59de9ad852459f17",
+        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』 最新チケット情報",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11626/",
+        "publishedAt": "2026-09-12T05:00:07.000Z",
+        "summary": "本日9月12日(土)14:00よりローソンチケット プレリクエスト先行受付開始！ 皆さんとお会いできることを楽しみにしております！ 第６回EBiDAN大運動会『スポーツマンヒップ！』 【千葉】L […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』 最新チケット情報 first appeared on SUPER★DRAGON .",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
       {
         "id": "0aabd7f941707d79",
         "title": "日本レコード協会「8月度GD認定」、EBiDAN（恵比寿学園男子部）『Yes! 東京』がミリオン認定",
@@ -298,24 +276,24 @@
         ],
         "statuses": [],
         "memberMatches": []
-      },
+      }
+    ],
+    "SUPER★DRAGON": [
       {
-        "id": "529e06a874764faf",
-        "title": "『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット、『EBiDAN 15th Anniversaryオフィシャルグッズ』＆『恵比寿学園男子部 校内スナップ』通販決定！",
+        "id": "59de9ad852459f17",
+        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』 最新チケット情報",
         "sourceName": "SUPER★DRAGON 公式NEWS",
         "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11580/",
-        "publishedAt": "2026-08-27T09:15:19.000Z",
-        "summary": "『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット、『EBiDAN 15th Anniversaryオフィシャルグッズ』＆『恵比寿学園男子部 校内スナップ』通販 […] The post 『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット、",
+        "articleUrl": "https://super-dragon.jp/news/news11626/",
+        "publishedAt": "2026-09-12T05:00:07.000Z",
+        "summary": "本日9月12日(土)14:00よりローソンチケット プレリクエスト先行受付開始！ 皆さんとお会いできることを楽しみにしております！ 第６回EBiDAN大運動会『スポーツマンヒップ！』 【千葉】L […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』 最新チケット情報 first appeared on SUPER★DRAGON .",
         "groups": [
           "EBiDAN",
           "SUPER★DRAGON"
         ],
         "statuses": [],
         "memberMatches": []
-      }
-    ],
-    "SUPER★DRAGON": [
+      },
       {
         "id": "c4ba29fd2900c0db",
         "title": "EBiDAN(恵比寿学園男子部) カップリング曲「好きだから走れ！！！！！！！」Lyric Videoを公開！",
@@ -380,24 +358,35 @@
         ],
         "statuses": [],
         "memberMatches": []
-      },
+      }
+    ],
+    "ONE N' ONLY": [
       {
-        "id": "47f16c975ff422cd",
-        "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11607/",
-        "publishedAt": "2026-09-02T12:34:24.000Z",
-        "summary": "平素より株式会社SDR所属アーティストへの温かいご声援を賜り、誠にありがとうございます。 DISH//、EBiDAN（超特急、M!LK、SUPER★DRAGON、Sakurashimeji、ONE N’ ON […] The post グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ first appeared on SUPER★DRAGO",
+        "id": "730befb38c45ff4d",
+        "title": "東京ホテイソン、トム・ブラウンみちお、ONE N' ONLY高尾颯斗・関哲汰、和田雅成が対決！「第1回バラバライド王決定戦」放送",
+        "sourceName": "WWSチャンネル",
+        "sourceUrl": "https://www.wws-channel.com/feed",
+        "articleUrl": "https://www.wws-channel.com/tv/666859.html",
+        "publishedAt": "2026-09-11T22:30:44.000Z",
+        "summary": "TOKYO MXの特別番組「バンマニ！「第1回バラバライド王決定戦」」が、9月19日19時から放送される。同番組は、バンダイ公式YouTubeチャンネルの情報番組「BANDAI MANIA!」初の地上波テレビ出張企画。新バトルトイ「バラバライド」を使い、初代王者を決める ... The post 東京ホテイソン、トム・ブラウンみちお、ONE N' ONLY高",
         "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK",
-          "SUPER★DRAGON",
-          "Sakurashimeji"
+          "ONE N' ONLY"
         ],
-        "statuses": [],
-        "memberMatches": []
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "TETTA",
+            "group": "ONE N' ONLY",
+            "status": "active"
+          },
+          {
+            "name": "HAYATO",
+            "group": "ONE N' ONLY",
+            "status": "active"
+          }
+        ]
       }
     ],
     "原因は自分にある。": [
