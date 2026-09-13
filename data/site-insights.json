@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-13T11:51:45.864Z",
+  "updatedAt": "2026-09-13T16:16:27.564Z",
   "totals": {
-    "all": 125,
-    "today": 4,
-    "week": 16
+    "all": 124,
+    "today": 0,
+    "week": 15
   },
   "groupRanking": [
     {
@@ -20,7 +20,7 @@
     },
     {
       "name": "ONE N' ONLY",
-      "count": 2
+      "count": 1
     },
     {
       "name": "原因は自分にある。",
@@ -37,15 +37,7 @@
       "count": 3
     },
     {
-      "name": "HAYATO",
-      "count": 1
-    },
-    {
       "name": "NAOYA",
-      "count": 1
-    },
-    {
-      "name": "TETTA",
       "count": 1
     },
     {
@@ -83,10 +75,6 @@
       "count": 1
     },
     {
-      "name": "WWSチャンネル",
-      "count": 1
-    },
-    {
       "name": "マイナビニュース エンタメ",
       "count": 1
     },
@@ -119,33 +107,6 @@
         "memberMatches": [
           {
             "name": "NAOYA",
-            "group": "ONE N' ONLY",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "730befb38c45ff4d",
-        "title": "東京ホテイソン、トム・ブラウンみちお、ONE N' ONLY高尾颯斗・関哲汰、和田雅成が対決！「第1回バラバライド王決定戦」放送",
-        "sourceName": "WWSチャンネル",
-        "sourceUrl": "https://www.wws-channel.com/feed",
-        "articleUrl": "https://www.wws-channel.com/tv/666859.html",
-        "publishedAt": "2026-09-11T22:30:44.000Z",
-        "summary": "TOKYO MXの特別番組「バンマニ！「第1回バラバライド王決定戦」」が、9月19日19時から放送される。同番組は、バンダイ公式YouTubeチャンネルの情報番組「BANDAI MANIA!」初の地上波テレビ出張企画。新バトルトイ「バラバライド」を使い、初代王者を決める ... The post 東京ホテイソン、トム・ブラウンみちお、ONE N' ONLY高",
-        "groups": [
-          "ONE N' ONLY"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "TETTA",
-            "group": "ONE N' ONLY",
-            "status": "active"
-          },
-          {
-            "name": "HAYATO",
             "group": "ONE N' ONLY",
             "status": "active"
           }
