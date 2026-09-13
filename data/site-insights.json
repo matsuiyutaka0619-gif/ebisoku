@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-09-13T16:16:27.564Z",
+  "updatedAt": "2026-09-13T20:49:45.815Z",
   "totals": {
-    "all": 124,
-    "today": 0,
-    "week": 15
+    "all": 128,
+    "today": 4,
+    "week": 19
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 9
+      "count": 10
     },
     {
       "name": "EBiDAN",
+      "count": 6
+    },
+    {
+      "name": "ONE N' ONLY",
       "count": 3
     },
     {
       "name": "SUPER★DRAGON",
       "count": 3
-    },
-    {
-      "name": "ONE N' ONLY",
-      "count": 1
     },
     {
       "name": "原因は自分にある。",
@@ -37,11 +37,11 @@
       "count": 3
     },
     {
-      "name": "NAOYA",
-      "count": 1
+      "name": "佐野勇斗",
+      "count": 2
     },
     {
-      "name": "佐野勇斗",
+      "name": "NAOYA",
       "count": 1
     },
     {
@@ -63,7 +63,15 @@
       "count": 3
     },
     {
+      "name": "ENCOUNT",
+      "count": 2
+    },
+    {
       "name": "THE FIRST TIMES",
+      "count": 2
+    },
+    {
+      "name": "日刊スポーツ 芸能",
       "count": 2
     },
     {
@@ -89,31 +97,29 @@
   ],
   "topics": [],
   "recentByGroup": {
-    "ONE N' ONLY": [
+    "M!LK": [
       {
-        "id": "7cd8b3c9e28160f9",
-        "title": "ONE N’ ONLY、メジャー2ndアルバム『MEGA GOLDEN』発売決定。リード曲先行配信＋新ビジュアル公開",
-        "sourceName": "BARKS",
-        "sourceUrl": "https://www.barks.jp/feed/",
-        "articleUrl": "https://barks.jp/news/1088291",
-        "publishedAt": "2026-09-13T10:00:42.000Z",
-        "summary": "ONE N’ ONLYが自身初のアリーナツアー＜LIVE TOUR 2026 「INFERNO」＞を開催。9月13日に国立代々木競技場 第一体育館にてファイナルを迎えた。本公演のアンコール後には新たな発表が行なわれ、、12月2日（水）にメジャー2ndアルバム『MEGA GOLDEN』を発売、さらに9月21日（月）にはリード曲「Golden Sun」を先行配信",
+        "id": "a0392fa3118ed843",
+        "title": "都市対抗野球であらためて感じたM!LKの大ブーム 佐野勇斗は岡崎市の象徴的存在に",
+        "sourceName": "日刊スポーツ 芸能",
+        "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+        "articleUrl": "https://www.nikkansports.com/entertainment/news/202609110001692.html",
+        "publishedAt": "2026-09-13T20:10:00.000Z",
+        "summary": "9月上旬、夏休みを取った。東京からは離れず、毎日目的地は東京ドーム。年に1度の人生最大の楽しみのひとつで、社会人野球最大の大会、都市対抗野球に毎日のように足を運んだ。 もちろん野球の試合も重要だが、社会人野球ならではの創作力を生かした応…",
         "groups": [
-          "ONE N' ONLY"
+          "M!LK"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "NAOYA",
-            "group": "ONE N' ONLY",
+            "name": "佐野勇斗",
+            "group": "M!LK",
             "status": "active"
           }
         ]
-      }
-    ],
-    "M!LK": [
+      },
       {
         "id": "f6f197005b9520df",
         "title": "「小さい時からスペシャルアイドル王子様すぎ」「本当に優しい人」M!LK山中柔太朗、母親が明かしたエピソードに反響 本人は「覚えてない!」と照れ笑い",
@@ -203,31 +209,53 @@
             "status": "active"
           }
         ]
-      },
-      {
-        "id": "c05e3c61646ea38e",
-        "title": "「M!LKでも個人でも…」「いつかできたら」山中柔太朗、NYでのファッションショー参加で感じたこととは",
-        "sourceName": "マイナビニュース 芸能",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-        "articleUrl": "https://news.mynavi.jp/article/20260911-4950597/",
-        "publishedAt": "2026-09-11T05:00:00.000Z",
-        "summary": "M!LKの山中柔太朗が、現地時間9日にアメリカ・ニューヨークで行われた「New York Fashion Week」にグローバルファッションブランド・COACHのセレブリティとして参加した。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
       }
     ],
     "EBiDAN": [
+      {
+        "id": "21993c0d2f4db896",
+        "title": "「魂の熱波師に」ONE N' ONLY初アリーナツアー完走「絶対ドームに立つから見とけよ」",
+        "sourceName": "日刊スポーツ 芸能",
+        "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+        "articleUrl": "https://www.nikkansports.com/entertainment/news/202609130001499.html",
+        "publishedAt": "2026-09-13T19:00:00.000Z",
+        "summary": "スターダストプロモーション所属の若手男性アーティスト集団、EBiDANの5人組グループ、ONE N’ ONLYが13日、東京・代々木第一体育館で初のアリーナツアー「INFERNO」最終公演を開催した。 神戸、東京で開催した全5公演を完売…",
+        "groups": [
+          "EBiDAN",
+          "ONE N' ONLY"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "a1a707c2d0d9d8fe",
+        "title": "ONE N’ONLY、自身最大規模アリーナツアーで示した“ワンエンらしさ” EBiDANの勢いをさらに加速「絶対ドームに立つから見とけよ！」",
+        "sourceName": "ENCOUNT",
+        "sourceUrl": "https://encount.press/feed/",
+        "articleUrl": "https://encount.press/archives/1064797/",
+        "publishedAt": "2026-09-13T19:00:00.000Z",
+        "summary": "5人組ダンス＆ボーカルグループのONE N’ ONLYが9月13日、東京・国立代々木競技場 第一体育館で「ONE N’ ONLY LIVE TOUR 2026 『INFERNO』」を開催した。グループ初となるアリーナツア […]",
+        "groups": [
+          "EBiDAN",
+          "ONE N' ONLY"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "3aa5f3beae309566",
+        "title": "EBiDANは「仲間でありライバル」 ONE N’ONLYが自身最大規模ツアーで得た手応えとこだわり",
+        "sourceName": "ENCOUNT",
+        "sourceUrl": "https://encount.press/feed/",
+        "articleUrl": "https://encount.press/archives/1065203/",
+        "publishedAt": "2026-09-13T19:00:00.000Z",
+        "summary": "5人組ダンス＆ボーカルグループのONE N’ONLYが13日、東京・国立代々木競技場 第一体育館で「ONE N’ ONLY LIVE TOUR 2026 『INFERNO』」を開催した。グループ初となるアリーナツアーは […]",
+        "groups": [
+          "EBiDAN"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
       {
         "id": "59de9ad852459f17",
         "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』 最新チケット情報",
@@ -256,54 +284,60 @@
         ],
         "statuses": [],
         "memberMatches": []
-      },
+      }
+    ],
+    "ONE N' ONLY": [
       {
-        "id": "c4ba29fd2900c0db",
-        "title": "EBiDAN(恵比寿学園男子部) カップリング曲「好きだから走れ！！！！！！！」Lyric Videoを公開！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11623/",
-        "publishedAt": "2026-09-11T07:00:45.000Z",
-        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念した楽曲「Yes! 東京」のストリーミング1億回再生を記念して、シングル「Yes! 東京」に収録されているカップリング曲「好きだから走れ！！！！！！！」のLyric Vi […] The post EBiDAN(恵比寿学園男子部) カップリング曲「好きだから走れ！！！！！！！」Lyric Videoを公開！ ",
+        "id": "21993c0d2f4db896",
+        "title": "「魂の熱波師に」ONE N' ONLY初アリーナツアー完走「絶対ドームに立つから見とけよ」",
+        "sourceName": "日刊スポーツ 芸能",
+        "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+        "articleUrl": "https://www.nikkansports.com/entertainment/news/202609130001499.html",
+        "publishedAt": "2026-09-13T19:00:00.000Z",
+        "summary": "スターダストプロモーション所属の若手男性アーティスト集団、EBiDANの5人組グループ、ONE N’ ONLYが13日、東京・代々木第一体育館で初のアリーナツアー「INFERNO」最終公演を開催した。 神戸、東京で開催した全5公演を完売…",
         "groups": [
           "EBiDAN",
-          "SUPER★DRAGON"
+          "ONE N' ONLY"
         ],
         "statuses": [],
         "memberMatches": []
       },
       {
-        "id": "47f16c975ff422cd",
-        "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11607/",
-        "publishedAt": "2026-09-02T12:34:24.000Z",
-        "summary": "平素より株式会社SDR所属アーティストへの温かいご声援を賜り、誠にありがとうございます。 DISH//、EBiDAN（超特急、M!LK、SUPER★DRAGON、Sakurashimeji、ONE N’ ON […] The post グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ first appeared on SUPER★DRAGO",
+        "id": "a1a707c2d0d9d8fe",
+        "title": "ONE N’ONLY、自身最大規模アリーナツアーで示した“ワンエンらしさ” EBiDANの勢いをさらに加速「絶対ドームに立つから見とけよ！」",
+        "sourceName": "ENCOUNT",
+        "sourceUrl": "https://encount.press/feed/",
+        "articleUrl": "https://encount.press/archives/1064797/",
+        "publishedAt": "2026-09-13T19:00:00.000Z",
+        "summary": "5人組ダンス＆ボーカルグループのONE N’ ONLYが9月13日、東京・国立代々木競技場 第一体育館で「ONE N’ ONLY LIVE TOUR 2026 『INFERNO』」を開催した。グループ初となるアリーナツア […]",
         "groups": [
           "EBiDAN",
-          "超特急",
-          "M!LK",
-          "SUPER★DRAGON",
-          "Sakurashimeji"
+          "ONE N' ONLY"
         ],
         "statuses": [],
         "memberMatches": []
       },
       {
-        "id": "7277b3cf409678c0",
-        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』 最新チケット情報",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11600/",
-        "publishedAt": "2026-08-31T09:30:16.000Z",
-        "summary": "本日8月31日(月)18:00よりEBiDAN先行受付開始！ 皆さんとお会いできることを楽しみにしております！ 第６回EBiDAN大運動会『スポーツマンヒップ！』 【千葉】LaLa arena […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』 最新チケット情報 first appeared on SUPER★DRAGON .",
+        "id": "7cd8b3c9e28160f9",
+        "title": "ONE N’ ONLY、メジャー2ndアルバム『MEGA GOLDEN』発売決定。リード曲先行配信＋新ビジュアル公開",
+        "sourceName": "BARKS",
+        "sourceUrl": "https://www.barks.jp/feed/",
+        "articleUrl": "https://barks.jp/news/1088291",
+        "publishedAt": "2026-09-13T10:00:42.000Z",
+        "summary": "ONE N’ ONLYが自身初のアリーナツアー＜LIVE TOUR 2026 「INFERNO」＞を開催。9月13日に国立代々木競技場 第一体育館にてファイナルを迎えた。本公演のアンコール後には新たな発表が行なわれ、、12月2日（水）にメジャー2ndアルバム『MEGA GOLDEN』を発売、さらに9月21日（月）にはリード曲「Golden Sun」を先行配信",
         "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
+          "ONE N' ONLY"
         ],
-        "statuses": [],
-        "memberMatches": []
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "NAOYA",
+            "group": "ONE N' ONLY",
+            "status": "active"
+          }
+        ]
       }
     ],
     "SUPER★DRAGON": [
