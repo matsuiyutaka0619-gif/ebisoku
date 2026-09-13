@@ -1,6 +1,64 @@
 {
-  "updatedAt": "2026-09-13T04:46:47.431Z",
+  "updatedAt": "2026-09-13T11:51:45.862Z",
   "articles": [
+    {
+      "id": "7cd8b3c9e28160f9",
+      "title": "ONE N’ ONLY、メジャー2ndアルバム『MEGA GOLDEN』発売決定。リード曲先行配信＋新ビジュアル公開",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1088291",
+      "publishedAt": "2026-09-13T10:00:42.000Z",
+      "summary": "ONE N’ ONLYが自身初のアリーナツアー＜LIVE TOUR 2026 「INFERNO」＞を開催。9月13日に国立代々木競技場 第一体育館にてファイナルを迎えた。本公演のアンコール後には新たな発表が行なわれ、、12月2日（水）にメジャー2ndアルバム『MEGA GOLDEN』を発売、さらに9月21日（月）にはリード曲「Golden Sun」を先行配信",
+      "groups": [
+        "ONE N' ONLY"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "NAOYA",
+          "group": "ONE N' ONLY",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "f6f197005b9520df",
+      "title": "「小さい時からスペシャルアイドル王子様すぎ」「本当に優しい人」M!LK山中柔太朗、母親が明かしたエピソードに反響 本人は「覚えてない!」と照れ笑い",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260913-4935904/",
+      "publishedAt": "2026-09-13T10:00:00.000Z",
+      "summary": "「“好きな子いないの? ”と聞くと……」アイドルグループ・M!LKの山中柔太朗の“母親”が、幼少期のほっこりエピソードを告白した――。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "e7a7bdbec1d56e3c",
+      "title": "M!LK5人の顔をアップにした動画に反響！「ビジュよすぎ」「顔のドアップにドキドキ」「仁ちゃんの『ん』の口かわいすぎ」の声",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000880722/",
+      "publishedAt": "2026-09-13T06:02:13.000Z",
+      "summary": "M!LK公式Xでは、メンバー全員の顔をアップにしたメッセージ動画を投稿した。 ■M!LKオフィシャ...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "2c6f9b3cb09f50ad",
       "title": "M!LK佐野勇斗＆吉田仁人“さのじん”仲良し2ショットを厳選！密着ショットや息ぴったりダンスも",
@@ -29,20 +87,6 @@
       ]
     },
     {
-      "id": "954c0c1bfdc8488a",
-      "title": "「ご家族ごと推せちゃう」「王子様たちを産んでくれてありがとう」「みんないい家庭で育ったんだろうな」M!LKメンバーの母親から寄せられた“貴重エピソード”にファン感動",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-      "articleUrl": "https://news.mynavi.jp/article/20260912-4935856/",
-      "publishedAt": "2026-09-12T10:00:00.000Z",
-      "summary": "「みんないい家庭で育ったんだろうな」アイドルグループ・M!LKが公開した“母親”からのメッセージに感動の声が上がっている――。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
       "id": "59de9ad852459f17",
       "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』 最新チケット情報",
       "sourceName": "SUPER★DRAGON 公式NEWS",
@@ -53,20 +97,6 @@
       "groups": [
         "EBiDAN",
         "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "d2ad6754d5f8694e",
-      "title": "M!LK5人の和装姿が“眼福”すぎる！浴衣＆袴で魅せる色気漂う姿から華やかな5人ショットまでを厳選",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000878568/",
-      "publishedAt": "2026-09-12T04:00:25.000Z",
-      "summary": "ステージやMV、ドラマ、雑誌などで、さまざまな衣装を着こなすM!LK。なかでも、普段とはひと味...",
-      "groups": [
-        "M!LK"
       ],
       "statuses": [],
       "memberMatches": []
@@ -211,28 +241,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "ad28d7509ac0b85b",
-      "title": "和久田麻由子にせいやが衝撃の“サプライズプロポーズ”「青天の霹靂」 佐野勇斗は倉科カナに大失態",
-      "sourceName": "マイナビニュース テレビ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-      "articleUrl": "https://news.mynavi.jp/article/20260910-4942313/",
-      "publishedAt": "2026-09-09T22:00:00.000Z",
-      "summary": "「まったく自信なくって。緊張しちゃってすみません」――きょう10日に放送される日本テレビ系バラエティ番組『ぐるぐるナインティナイン』2時間SP(19:00～)に、今年3月にNHKを退局した和久田麻由子が出演。民放バラエティ初登場で「ゴチになります!27」に参戦し、大喜利の無茶ぶりや“サプライズプロポーズ”の洗礼を受ける。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "4f50bf2ee0e893cd",
