@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-14T12:45:55.002Z",
+  "updatedAt": "2026-09-14T21:49:08.118Z",
   "totals": {
-    "all": 125,
-    "today": 6,
-    "week": 15
+    "all": 124,
+    "today": 1,
+    "week": 14
   },
   "groupRanking": [
     {
@@ -15,25 +15,21 @@
       "count": 4
     },
     {
-      "name": "原因は自分にある。",
-      "count": 3
+      "name": "SUPER★DRAGON",
+      "count": 2
     },
     {
-      "name": "SUPER★DRAGON",
+      "name": "原因は自分にある。",
       "count": 2
     }
   ],
   "memberRanking": [
     {
       "name": "曽野舜太",
-      "count": 3
+      "count": 4
     },
     {
       "name": "吉田仁人",
-      "count": 2
-    },
-    {
-      "name": "山中柔太朗",
       "count": 2
     },
     {
@@ -46,6 +42,10 @@
     },
     {
       "name": "桜木雅哉",
+      "count": 1
+    },
+    {
+      "name": "山中柔太朗",
       "count": 1
     },
     {
@@ -75,7 +75,7 @@
       "count": 2
     },
     {
-      "name": "THE FIRST TIMES",
+      "name": "マイナビニュース エンタメ",
       "count": 2
     },
     {
@@ -87,7 +87,7 @@
       "count": 1
     },
     {
-      "name": "マイナビニュース エンタメ",
+      "name": "THE FIRST TIMES",
       "count": 1
     },
     {
@@ -97,15 +97,33 @@
     {
       "name": "マイナビニュース 芸能",
       "count": 1
-    },
-    {
-      "name": "リアルサウンド 音楽",
-      "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
     "M!LK": [
+      {
+        "id": "6e1d6f9fcc04488b",
+        "title": "山口もえ、M!LK推し活に夢中「夫が要らないくらい楽しいです」 曽野舜太が大慌て",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20260915-4969463/",
+        "publishedAt": "2026-09-14T21:00:00.000Z",
+        "summary": "「夫が要らないくらい楽しいです」――きょう15日に放送される日本テレビ系バラエティ番組『踊る!さんま御殿!!』(毎週火曜20:00～)では、M!LKの曽野舜太と山口もえが出演。娘と一緒にM!LKの“推し活”を楽しんでいるという山口が、夫・爆笑問題の田中裕二を引き合いに大胆発言を繰り出し、曽野を慌てさせる。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
       {
         "id": "4f61efd2ab8286f0",
         "title": "「人間出来すぎてる」「仁ちゃんが『心がきれいすぎる』って言った意味が…」M!LK曽野舜太、街中で出会った夫婦との交流にファン感動 大学時代に初めて住んだ町を訪問",
@@ -150,28 +168,6 @@
           },
           {
             "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "6e28ed0e3ad48afe",
-        "title": "M!LK山中柔太朗が“メガネ×白Tシャツ”で寝そべる！オフ感あふれる自撮りに「たまらん」「彼氏感半端ない」「メガネめっちゃ似合ってる」「イケメンすぎる」高身長を生かした着こなしも披露",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000881405/",
-        "publishedAt": "2026-09-14T06:50:43.000Z",
-        "summary": "M!LKの山中柔太朗が自身のInstagramを更新。アメリカ・ニューヨークで撮影した写真を公開した...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "山中柔太朗",
             "group": "M!LK",
             "status": "active"
           }
@@ -227,21 +223,85 @@
         ]
       }
     ],
-    "原因は自分にある。": [
+    "EBiDAN": [
       {
-        "id": "4b2def0fde8ad6e4",
-        "title": "原因は自分にある。 5thシングル表題曲「ラブリーズン」はsyudou楽曲提供曲に ティザー公開も",
-        "sourceName": "リアルサウンド 音楽",
-        "sourceUrl": "https://realsound.jp/music/feed",
-        "articleUrl": "https://realsound.jp/2026/09/post-2522798.html",
-        "publishedAt": "2026-09-14T10:25:09.000Z",
-        "summary": "原因は自分にある。が11月11日にリリースする5thシングルの表題曲「ラブリーズン」が、syudouによる楽曲提供であることが明かされた。 本楽曲は、狂気の愛と欲望をグループ独自の世界観で表現した作品。楽曲を手がけた",
+        "id": "24a3b8eb2a9df30e",
+        "title": "EBiDAN（恵比寿学園男子部）、10月29日に東京ドームにて開催の音楽アワード「MTV VMAJ 2026」出演決定",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/09/14/tg007",
+        "publishedAt": "2026-09-14T10:10:40.000Z",
+        "summary": "",
         "groups": [
-          "原因は自分にある。"
+          "EBiDAN"
         ],
         "statuses": [],
         "memberMatches": []
       },
+      {
+        "id": "59de9ad852459f17",
+        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』 最新チケット情報",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11626/",
+        "publishedAt": "2026-09-12T05:00:07.000Z",
+        "summary": "本日9月12日(土)14:00よりローソンチケット プレリクエスト先行受付開始！ 皆さんとお会いできることを楽しみにしております！ 第６回EBiDAN大運動会『スポーツマンヒップ！』 【千葉】L […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』 最新チケット情報 first appeared on SUPER★DRAGON .",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "0aabd7f941707d79",
+        "title": "日本レコード協会「8月度GD認定」、EBiDAN（恵比寿学園男子部）『Yes! 東京』がミリオン認定",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/09/11/tg004",
+        "publishedAt": "2026-09-11T09:40:00.000Z",
+        "summary": "",
+        "groups": [
+          "EBiDAN"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "c4ba29fd2900c0db",
+        "title": "EBiDAN(恵比寿学園男子部) カップリング曲「好きだから走れ！！！！！！！」Lyric Videoを公開！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11623/",
+        "publishedAt": "2026-09-11T07:00:45.000Z",
+        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念した楽曲「Yes! 東京」のストリーミング1億回再生を記念して、シングル「Yes! 東京」に収録されているカップリング曲「好きだから走れ！！！！！！！」のLyric Vi […] The post EBiDAN(恵比寿学園男子部) カップリング曲「好きだから走れ！！！！！！！」Lyric Videoを公開！ ",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "47f16c975ff422cd",
+        "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11607/",
+        "publishedAt": "2026-09-02T12:34:24.000Z",
+        "summary": "平素より株式会社SDR所属アーティストへの温かいご声援を賜り、誠にありがとうございます。 DISH//、EBiDAN（超特急、M!LK、SUPER★DRAGON、Sakurashimeji、ONE N’ ON […] The post グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ first appeared on SUPER★DRAGO",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK",
+          "SUPER★DRAGON",
+          "Sakurashimeji"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
+    "原因は自分にある。": [
       {
         "id": "966c827c9779a0a9",
         "title": "原因は自分にある。新曲「ラブリーズン」はsyudouが楽曲提供。ティザー映像公開",
@@ -335,84 +395,6 @@
             "status": "active"
           }
         ]
-      }
-    ],
-    "EBiDAN": [
-      {
-        "id": "24a3b8eb2a9df30e",
-        "title": "EBiDAN（恵比寿学園男子部）、10月29日に東京ドームにて開催の音楽アワード「MTV VMAJ 2026」出演決定",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/09/14/tg007",
-        "publishedAt": "2026-09-14T10:10:40.000Z",
-        "summary": "",
-        "groups": [
-          "EBiDAN"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "59de9ad852459f17",
-        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』 最新チケット情報",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11626/",
-        "publishedAt": "2026-09-12T05:00:07.000Z",
-        "summary": "本日9月12日(土)14:00よりローソンチケット プレリクエスト先行受付開始！ 皆さんとお会いできることを楽しみにしております！ 第６回EBiDAN大運動会『スポーツマンヒップ！』 【千葉】L […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』 最新チケット情報 first appeared on SUPER★DRAGON .",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "0aabd7f941707d79",
-        "title": "日本レコード協会「8月度GD認定」、EBiDAN（恵比寿学園男子部）『Yes! 東京』がミリオン認定",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/09/11/tg004",
-        "publishedAt": "2026-09-11T09:40:00.000Z",
-        "summary": "",
-        "groups": [
-          "EBiDAN"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "c4ba29fd2900c0db",
-        "title": "EBiDAN(恵比寿学園男子部) カップリング曲「好きだから走れ！！！！！！！」Lyric Videoを公開！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11623/",
-        "publishedAt": "2026-09-11T07:00:45.000Z",
-        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念した楽曲「Yes! 東京」のストリーミング1億回再生を記念して、シングル「Yes! 東京」に収録されているカップリング曲「好きだから走れ！！！！！！！」のLyric Vi […] The post EBiDAN(恵比寿学園男子部) カップリング曲「好きだから走れ！！！！！！！」Lyric Videoを公開！ ",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "47f16c975ff422cd",
-        "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11607/",
-        "publishedAt": "2026-09-02T12:34:24.000Z",
-        "summary": "平素より株式会社SDR所属アーティストへの温かいご声援を賜り、誠にありがとうございます。 DISH//、EBiDAN（超特急、M!LK、SUPER★DRAGON、Sakurashimeji、ONE N’ ON […] The post グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ first appeared on SUPER★DRAGO",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK",
-          "SUPER★DRAGON",
-          "Sakurashimeji"
-        ],
-        "statuses": [],
-        "memberMatches": []
       }
     ],
     "SUPER★DRAGON": [
