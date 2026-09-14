@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-13T20:49:45.813Z",
+  "updatedAt": "2026-09-14T04:55:52.543Z",
   "articles": [
     {
-      "id": "a0392fa3118ed843",
-      "title": "都市対抗野球であらためて感じたM!LKの大ブーム 佐野勇斗は岡崎市の象徴的存在に",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202609110001692.html",
-      "publishedAt": "2026-09-13T20:10:00.000Z",
-      "summary": "9月上旬、夏休みを取った。東京からは離れず、毎日目的地は東京ドーム。年に1度の人生最大の楽しみのひとつで、社会人野球最大の大会、都市対抗野球に毎日のように足を運んだ。 もちろん野球の試合も重要だが、社会人野球ならではの創作力を生かした応…",
+      "id": "ee2a0b03fb4157c1",
+      "title": "M!LK塩﨑太智、ソロ曲「しおざきわんだーらんど」について率直な感想をコメント「ふたを開けたらあの曲で！（笑）」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000881027/",
+      "publishedAt": "2026-09-14T02:00:59.000Z",
+      "summary": "M!LKの塩崎太智（「崎」は、たつさきが正式表記）が、『SPRiNG』2026年11月号（9月24日発売）...",
       "groups": [
         "M!LK"
       ],
@@ -17,74 +17,8 @@
       ],
       "memberMatches": [
         {
-          "name": "佐野勇斗",
+          "name": "塩﨑太智",
           "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "21993c0d2f4db896",
-      "title": "「魂の熱波師に」ONE N' ONLY初アリーナツアー完走「絶対ドームに立つから見とけよ」",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202609130001499.html",
-      "publishedAt": "2026-09-13T19:00:00.000Z",
-      "summary": "スターダストプロモーション所属の若手男性アーティスト集団、EBiDANの5人組グループ、ONE N’ ONLYが13日、東京・代々木第一体育館で初のアリーナツアー「INFERNO」最終公演を開催した。 神戸、東京で開催した全5公演を完売…",
-      "groups": [
-        "EBiDAN",
-        "ONE N' ONLY"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "a1a707c2d0d9d8fe",
-      "title": "ONE N’ONLY、自身最大規模アリーナツアーで示した“ワンエンらしさ” EBiDANの勢いをさらに加速「絶対ドームに立つから見とけよ！」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1064797/",
-      "publishedAt": "2026-09-13T19:00:00.000Z",
-      "summary": "5人組ダンス＆ボーカルグループのONE N’ ONLYが9月13日、東京・国立代々木競技場 第一体育館で「ONE N’ ONLY LIVE TOUR 2026 『INFERNO』」を開催した。グループ初となるアリーナツア […]",
-      "groups": [
-        "EBiDAN",
-        "ONE N' ONLY"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "3aa5f3beae309566",
-      "title": "EBiDANは「仲間でありライバル」 ONE N’ONLYが自身最大規模ツアーで得た手応えとこだわり",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1065203/",
-      "publishedAt": "2026-09-13T19:00:00.000Z",
-      "summary": "5人組ダンス＆ボーカルグループのONE N’ONLYが13日、東京・国立代々木競技場 第一体育館で「ONE N’ ONLY LIVE TOUR 2026 『INFERNO』」を開催した。グループ初となるアリーナツアーは […]",
-      "groups": [
-        "EBiDAN"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "7cd8b3c9e28160f9",
-      "title": "ONE N’ ONLY、メジャー2ndアルバム『MEGA GOLDEN』発売決定。リード曲先行配信＋新ビジュアル公開",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1088291",
-      "publishedAt": "2026-09-13T10:00:42.000Z",
-      "summary": "ONE N’ ONLYが自身初のアリーナツアー＜LIVE TOUR 2026 「INFERNO」＞を開催。9月13日に国立代々木競技場 第一体育館にてファイナルを迎えた。本公演のアンコール後には新たな発表が行なわれ、、12月2日（水）にメジャー2ndアルバム『MEGA GOLDEN』を発売、さらに9月21日（月）にはリード曲「Golden Sun」を先行配信",
-      "groups": [
-        "ONE N' ONLY"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "NAOYA",
-          "group": "ONE N' ONLY",
           "status": "active"
         }
       ]
@@ -106,47 +40,6 @@
       "memberMatches": [
         {
           "name": "山中柔太朗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "e7a7bdbec1d56e3c",
-      "title": "M!LK5人の顔をアップにした動画に反響！「ビジュよすぎ」「顔のドアップにドキドキ」「仁ちゃんの『ん』の口かわいすぎ」の声",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000880722/",
-      "publishedAt": "2026-09-13T06:02:13.000Z",
-      "summary": "M!LK公式Xでは、メンバー全員の顔をアップにしたメッセージ動画を投稿した。 ■M!LKオフィシャ...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "2c6f9b3cb09f50ad",
-      "title": "M!LK佐野勇斗＆吉田仁人“さのじん”仲良し2ショットを厳選！密着ショットや息ぴったりダンスも",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000878519/",
-      "publishedAt": "2026-09-13T04:00:43.000Z",
-      "summary": "M!LKの結成当初からともに活動し、長年にわたってグループを支えてきた佐野勇斗と吉田仁人。ユ...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "吉田仁人",
           "group": "M!LK",
           "status": "active"
         }
@@ -308,28 +201,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "af38c3076da2dde1",
-      "title": "大森元貴（Mrs. GREEN APPLE）、上白石萌音・向井康二・山中柔太朗出演のTBSドラマ「いろはの恋は時代をかける」出演決定。役どころは初回放送で明らかに",
-      "sourceName": "タワーレコード ニュース",
-      "sourceUrl": "https://tower.jp/feeds/article/news",
-      "articleUrl": "https://tower.jp/article/news/2026/09/08/tg006",
-      "publishedAt": "2026-09-08T08:20:00.000Z",
-      "summary": "",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "山中柔太朗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "5fe29a70c717c000",
