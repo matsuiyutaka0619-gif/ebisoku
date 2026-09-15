@@ -1,14 +1,94 @@
 {
-  "updatedAt": "2026-09-14T21:49:08.116Z",
+  "updatedAt": "2026-09-15T04:53:54.786Z",
   "articles": [
     {
-      "id": "6e1d6f9fcc04488b",
-      "title": "山口もえ、M!LK推し活に夢中「夫が要らないくらい楽しいです」 曽野舜太が大慌て",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-      "articleUrl": "https://news.mynavi.jp/article/20260915-4969463/",
-      "publishedAt": "2026-09-14T21:00:00.000Z",
-      "summary": "「夫が要らないくらい楽しいです」――きょう15日に放送される日本テレビ系バラエティ番組『踊る!さんま御殿!!』(毎週火曜20:00～)では、M!LKの曽野舜太と山口もえが出演。娘と一緒にM!LKの“推し活”を楽しんでいるという山口が、夫・爆笑問題の田中裕二を引き合いに大胆発言を繰り出し、曽野を慌てさせる。",
+      "id": "685d1cc2594e3271",
+      "title": "INI、MAZZEL、BUDDiiS、FRUITS ZIPPER、NiziU……『CDTVライブ！ライブ！秋の大感謝祭2026』をライブ写真で振り返る",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/09/post-2523405.html",
+      "publishedAt": "2026-09-15T04:06:44.000Z",
+      "summary": "TBS系の音楽番組『CDTVライブ！ライブ！』によるスペシャルイベント『CDTVライブ！ライブ！秋の大感謝祭2026』が、9月11日から13日までの3日間、東京・東京ガーデンシアターで開催。DAY1はJuice=Jui",
+      "groups": [
+        "BUDDiiS"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "2ef7b4bcdf6d0dff",
+      "title": "M!LK佐野勇斗が両親に挟まれ“息子の顔”！仲良し親子ショットに「はやちゃん幸せそう」「自慢の息子すぎる」「骨格がパパとそっくり」両親は“佐野のジャケット”を着用",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000881980/",
+      "publishedAt": "2026-09-15T03:11:36.000Z",
+      "summary": "M!LKの佐野勇斗が自身のInstagramを更新。両親との親子3ショットを公開した。 ■佐野勇斗が両親...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "f8ffc8bf59ad2931",
+      "title": "松本若菜×佐野勇斗『君の好きは無敵』笑顔でクランクアップ！「最後に一言言わせていただきます。みんな好き！」（佐野）",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000881809/",
+      "publishedAt": "2026-09-15T03:00:54.000Z",
+      "summary": "9月15日に最終回を迎える、松本若菜が主演を務め、佐野勇斗が共演する火曜ドラマ『君の好きは...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "af95d95c077d717a",
+      "title": "『君の好きは無敵』松本若菜×佐野勇斗クランクアップ 「私の宝物になりました」",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/09/post-2523758.html",
+      "publishedAt": "2026-09-15T03:00:09.000Z",
+      "summary": "9月15日に最終回を迎えるTBS系火曜ドラマ『君の好きは無敵』。放送を目前に、主演の松本若菜らのクランクアップコメントが公開された。 完全オリジナルストーリーである本作は、世界に広がり続ける日本の“かわいい文化”を生",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "bbf2d17d51e12f45",
+      "title": "M!LK曽野舜太の勉強法アドバイスに、明石家さんまが思わず「イイじゃん」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000881814/",
+      "publishedAt": "2026-09-15T00:45:45.000Z",
+      "summary": "9月15日放送の『踊る！さんま御殿!!』では「インテリ軍団VS受験生のパパママ」が放送。学習院...",
       "groups": [
         "M!LK"
       ],
@@ -24,13 +104,13 @@
       ]
     },
     {
-      "id": "4f61efd2ab8286f0",
-      "title": "「人間出来すぎてる」「仁ちゃんが『心がきれいすぎる』って言った意味が…」M!LK曽野舜太、街中で出会った夫婦との交流にファン感動 大学時代に初めて住んだ町を訪問",
+      "id": "6e1d6f9fcc04488b",
+      "title": "山口もえ、M!LK推し活に夢中「夫が要らないくらい楽しいです」 曽野舜太が大慌て",
       "sourceName": "マイナビニュース エンタメ",
       "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-      "articleUrl": "https://news.mynavi.jp/article/20260914-4967226/",
-      "publishedAt": "2026-09-14T11:00:00.000Z",
-      "summary": "M!LKの曽野舜太が、自身のYouTubeチャンネル『I'm 曽野舜太』を更新。大学時代に暮らしていた東京・高田馬場を久しぶりに訪れ、古本屋の店主夫妻との心温まる交流を見せた。",
+      "articleUrl": "https://news.mynavi.jp/article/20260915-4969463/",
+      "publishedAt": "2026-09-14T21:00:00.000Z",
+      "summary": "「夫が要らないくらい楽しいです」――きょう15日に放送される日本テレビ系バラエティ番組『踊る!さんま御殿!!』(毎週火曜20:00～)では、M!LKの曽野舜太と山口もえが出演。娘と一緒にM!LKの“推し活”を楽しんでいるという山口が、夫・爆笑問題の田中裕二を引き合いに大胆発言を繰り出し、曽野を慌てさせる。",
       "groups": [
         "M!LK"
       ],
@@ -58,85 +138,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "966c827c9779a0a9",
-      "title": "原因は自分にある。新曲「ラブリーズン」はsyudouが楽曲提供。ティザー映像公開",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1088444",
-      "publishedAt": "2026-09-14T10:00:39.000Z",
-      "summary": "原因は自分にある。（通称ゲンジブ）の新曲「ラブリーズン」が、ボカロP・シンガーソングライターのsyudouによる楽曲提供であることが明かされた。 「ラブリーズン」は、狂気の愛と欲望をゲンジブ独自の世界観で表現した作品。楽曲を手掛けたsyudouは「楽曲制作中、たまたまゲンジブさんのライブ会場の近くを通ることがあり、観測者の方々が楽しそうに会場に向かって歩いて",
-      "groups": [
-        "原因は自分にある。"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "大倉空人",
-          "group": "原因は自分にある。",
-          "status": "active"
-        },
-        {
-          "name": "小泉光咲",
-          "group": "原因は自分にある。",
-          "status": "active"
-        },
-        {
-          "name": "桜木雅哉",
-          "group": "原因は自分にある。",
-          "status": "active"
-        },
-        {
-          "name": "長野凌大",
-          "group": "原因は自分にある。",
-          "status": "active"
-        },
-        {
-          "name": "武藤潤",
-          "group": "原因は自分にある。",
-          "status": "active"
-        },
-        {
-          "name": "杢代和人",
-          "group": "原因は自分にある。",
-          "status": "active"
-        },
-        {
-          "name": "吉澤要人",
-          "group": "原因は自分にある。",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "a6f3c4cb89850dbf",
-      "title": "M!LK佐野勇斗＆曽野舜太が“ピンク×赤”のド派手コーデ！肩を寄せて並ぶ2ショットに「ビジュ最強」「さのそのかわいい」「目の大きさレベチ」「ときユニポーズかわいい」と反響",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000881489/",
-      "publishedAt": "2026-09-14T07:46:22.000Z",
-      "summary": "M!LKの公式Xが更新され、佐野勇斗と曽野舜太の2ショットが公開された。 ■佐野勇斗＆曽野舜太が...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "曽野舜太",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "59de9ad852459f17",
