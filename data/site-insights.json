@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-09-15T16:58:58.447Z",
+  "updatedAt": "2026-09-15T21:20:36.057Z",
   "totals": {
     "all": 126,
-    "today": 0,
+    "today": 2,
     "week": 16
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 7
+      "count": 6
     },
     {
       "name": "EBiDAN",
-      "count": 4
+      "count": 5
     },
     {
       "name": "SUPER★DRAGON",
@@ -37,7 +37,7 @@
   ],
   "memberRanking": [
     {
-      "name": "佐野勇斗",
+      "name": "山中柔太朗",
       "count": 2
     },
     {
@@ -45,7 +45,7 @@
       "count": 1
     },
     {
-      "name": "山中柔太朗",
+      "name": "佐野勇斗",
       "count": 1
     },
     {
@@ -56,7 +56,7 @@
   "sourceRanking": [
     {
       "name": "タワーレコード ニュース",
-      "count": 5
+      "count": 4
     },
     {
       "name": "SUPER★DRAGON 公式NEWS",
@@ -64,7 +64,7 @@
     },
     {
       "name": "THE FIRST TIMES",
-      "count": 2
+      "count": 3
     },
     {
       "name": "QJWeb",
@@ -94,6 +94,28 @@
   "topics": [],
   "recentByGroup": {
     "M!LK": [
+      {
+        "id": "5d84b8edaf36d485",
+        "title": "上白石萌音×向井康二共演ドラマ『いろはの恋は時代をかける』主題歌がMISIAの新曲「さよならばっか」に決定",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000882402/",
+        "publishedAt": "2026-09-15T21:00:54.000Z",
+        "summary": "上白石萌音が主演を務め、Snow Manの向井康二、山中柔太朗、Mrs. GREEN APPLEの大森元貴らが出...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
       {
         "id": "c462f1c1cb48570e",
         "title": "「オタクより夏満喫」「小学生すぎて…」M!LK佐野勇斗、朝6時から仕事→帰宅後21時から真っ暗な山へ 多忙な中で行われた“まさかの企画”に驚きの声",
@@ -129,28 +151,6 @@
         ],
         "statuses": [],
         "memberMatches": []
-      },
-      {
-        "id": "2ef7b4bcdf6d0dff",
-        "title": "M!LK佐野勇斗が両親に挟まれ“息子の顔”！仲良し親子ショットに「はやちゃん幸せそう」「自慢の息子すぎる」「骨格がパパとそっくり」両親は“佐野のジャケット”を着用",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000881980/",
-        "publishedAt": "2026-09-15T03:11:36.000Z",
-        "summary": "M!LKの佐野勇斗が自身のInstagramを更新。両親との親子3ショットを公開した。 ■佐野勇斗が両親...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
       },
       {
         "id": "6e1d6f9fcc04488b",
@@ -195,6 +195,80 @@
             "status": "active"
           }
         ]
+      }
+    ],
+    "EBiDAN": [
+      {
+        "id": "afb511d002063c25",
+        "title": "EBiDAN「Yes! 東京」オリコン週間ストリーミングランキングで5週ぶりに1位返り咲き",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000882215/",
+        "publishedAt": "2026-09-15T19:00:06.000Z",
+        "summary": "9月21日付オリコンデジタルランキング（ストリーミング／デジタルシングル（単曲）／デジタル...",
+        "groups": [
+          "EBiDAN"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "24a3b8eb2a9df30e",
+        "title": "EBiDAN（恵比寿学園男子部）、10月29日に東京ドームにて開催の音楽アワード「MTV VMAJ 2026」出演決定",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/09/14/tg007",
+        "publishedAt": "2026-09-14T10:10:40.000Z",
+        "summary": "",
+        "groups": [
+          "EBiDAN"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "59de9ad852459f17",
+        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』 最新チケット情報",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11626/",
+        "publishedAt": "2026-09-12T05:00:07.000Z",
+        "summary": "本日9月12日(土)14:00よりローソンチケット プレリクエスト先行受付開始！ 皆さんとお会いできることを楽しみにしております！ 第６回EBiDAN大運動会『スポーツマンヒップ！』 【千葉】L […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』 最新チケット情報 first appeared on SUPER★DRAGON .",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "0aabd7f941707d79",
+        "title": "日本レコード協会「8月度GD認定」、EBiDAN（恵比寿学園男子部）『Yes! 東京』がミリオン認定",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/09/11/tg004",
+        "publishedAt": "2026-09-11T09:40:00.000Z",
+        "summary": "",
+        "groups": [
+          "EBiDAN"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "c4ba29fd2900c0db",
+        "title": "EBiDAN(恵比寿学園男子部) カップリング曲「好きだから走れ！！！！！！！」Lyric Videoを公開！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11623/",
+        "publishedAt": "2026-09-11T07:00:45.000Z",
+        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念した楽曲「Yes! 東京」のストリーミング1億回再生を記念して、シングル「Yes! 東京」に収録されているカップリング曲「好きだから走れ！！！！！！！」のLyric Vi […] The post EBiDAN(恵比寿学園男子部) カップリング曲「好きだから走れ！！！！！！！」Lyric Videoを公開！ ",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
       }
     ],
     "BUDDiiS": [
@@ -407,84 +481,6 @@
           "超特急",
           "M!LK",
           "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "EBiDAN": [
-      {
-        "id": "24a3b8eb2a9df30e",
-        "title": "EBiDAN（恵比寿学園男子部）、10月29日に東京ドームにて開催の音楽アワード「MTV VMAJ 2026」出演決定",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/09/14/tg007",
-        "publishedAt": "2026-09-14T10:10:40.000Z",
-        "summary": "",
-        "groups": [
-          "EBiDAN"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "59de9ad852459f17",
-        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』 最新チケット情報",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11626/",
-        "publishedAt": "2026-09-12T05:00:07.000Z",
-        "summary": "本日9月12日(土)14:00よりローソンチケット プレリクエスト先行受付開始！ 皆さんとお会いできることを楽しみにしております！ 第６回EBiDAN大運動会『スポーツマンヒップ！』 【千葉】L […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』 最新チケット情報 first appeared on SUPER★DRAGON .",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "0aabd7f941707d79",
-        "title": "日本レコード協会「8月度GD認定」、EBiDAN（恵比寿学園男子部）『Yes! 東京』がミリオン認定",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/09/11/tg004",
-        "publishedAt": "2026-09-11T09:40:00.000Z",
-        "summary": "",
-        "groups": [
-          "EBiDAN"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "c4ba29fd2900c0db",
-        "title": "EBiDAN(恵比寿学園男子部) カップリング曲「好きだから走れ！！！！！！！」Lyric Videoを公開！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11623/",
-        "publishedAt": "2026-09-11T07:00:45.000Z",
-        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念した楽曲「Yes! 東京」のストリーミング1億回再生を記念して、シングル「Yes! 東京」に収録されているカップリング曲「好きだから走れ！！！！！！！」のLyric Vi […] The post EBiDAN(恵比寿学園男子部) カップリング曲「好きだから走れ！！！！！！！」Lyric Videoを公開！ ",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "47f16c975ff422cd",
-        "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11607/",
-        "publishedAt": "2026-09-02T12:34:24.000Z",
-        "summary": "平素より株式会社SDR所属アーティストへの温かいご声援を賜り、誠にありがとうございます。 DISH//、EBiDAN（超特急、M!LK、SUPER★DRAGON、Sakurashimeji、ONE N’ ON […] The post グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ first appeared on SUPER★DRAGO",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK",
-          "SUPER★DRAGON",
-          "Sakurashimeji"
         ],
         "statuses": [],
         "memberMatches": []

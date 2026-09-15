@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-09-15T16:58:58.445Z",
+  "updatedAt": "2026-09-15T21:20:36.055Z",
   "articles": [
+    {
+      "id": "5d84b8edaf36d485",
+      "title": "上白石萌音×向井康二共演ドラマ『いろはの恋は時代をかける』主題歌がMISIAの新曲「さよならばっか」に決定",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000882402/",
+      "publishedAt": "2026-09-15T21:00:54.000Z",
+      "summary": "上白石萌音が主演を務め、Snow Manの向井康二、山中柔太朗、Mrs. GREEN APPLEの大森元貴らが出...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "afb511d002063c25",
+      "title": "EBiDAN「Yes! 東京」オリコン週間ストリーミングランキングで5週ぶりに1位返り咲き",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000882215/",
+      "publishedAt": "2026-09-15T19:00:06.000Z",
+      "summary": "9月21日付オリコンデジタルランキング（ストリーミング／デジタルシングル（単曲）／デジタル...",
+      "groups": [
+        "EBiDAN"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "c462f1c1cb48570e",
       "title": "「オタクより夏満喫」「小学生すぎて…」M!LK佐野勇斗、朝6時から仕事→帰宅後21時から真っ暗な山へ 多忙な中で行われた“まさかの企画”に驚きの声",
@@ -92,28 +128,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "2ef7b4bcdf6d0dff",
-      "title": "M!LK佐野勇斗が両親に挟まれ“息子の顔”！仲良し親子ショットに「はやちゃん幸せそう」「自慢の息子すぎる」「骨格がパパとそっくり」両親は“佐野のジャケット”を着用",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000881980/",
-      "publishedAt": "2026-09-15T03:11:36.000Z",
-      "summary": "M!LKの佐野勇斗が自身のInstagramを更新。両親との親子3ショットを公開した。 ■佐野勇斗が両親...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "6e1d6f9fcc04488b",
@@ -249,20 +263,6 @@
       "summary": "",
       "groups": [
         "原因は自分にある。"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "4f50bf2ee0e893cd",
-      "title": "M!LK、9月16日リリースの1stミニ・アルバム『LOVE ENG!NE』リード曲“時空超えてユニバース”先行配信。最新アーティスト写真公開",
-      "sourceName": "タワーレコード ニュース",
-      "sourceUrl": "https://tower.jp/feeds/article/news",
-      "articleUrl": "https://tower.jp/article/news/2026/09/09/tg006",
-      "publishedAt": "2026-09-09T08:15:00.000Z",
-      "summary": "",
-      "groups": [
-        "M!LK"
       ],
       "statuses": [],
       "memberMatches": []
