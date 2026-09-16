@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-15T21:20:36.057Z",
+  "updatedAt": "2026-09-16T04:49:02.485Z",
   "totals": {
     "all": 126,
-    "today": 2,
+    "today": 5,
     "week": 16
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 6
+      "count": 7
     },
     {
       "name": "EBiDAN",
@@ -29,41 +29,37 @@
     {
       "name": "原因は自分にある。",
       "count": 1
-    },
-    {
-      "name": "超特急",
-      "count": 1
     }
   ],
   "memberRanking": [
     {
       "name": "山中柔太朗",
-      "count": 2
+      "count": 3
     },
     {
       "name": "吉田仁人",
-      "count": 1
+      "count": 2
+    },
+    {
+      "name": "曽野舜太",
+      "count": 2
     },
     {
       "name": "佐野勇斗",
       "count": 1
-    },
-    {
-      "name": "曽野舜太",
-      "count": 1
     }
   ],
   "sourceRanking": [
+    {
+      "name": "THE FIRST TIMES",
+      "count": 4
+    },
     {
       "name": "タワーレコード ニュース",
       "count": 4
     },
     {
       "name": "SUPER★DRAGON 公式NEWS",
-      "count": 3
-    },
-    {
-      "name": "THE FIRST TIMES",
       "count": 3
     },
     {
@@ -85,15 +81,79 @@
     {
       "name": "マイナビニュース 芸能",
       "count": 1
-    },
-    {
-      "name": "リアルサウンド 音楽",
-      "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
     "M!LK": [
+      {
+        "id": "910263d5a4d3908d",
+        "title": "M!LK佐野勇斗が前髪上げたポンパヘア姿に「かっこよすぎて沼」の声、松本若菜と笑顔で寄り添う2ショットに「君好きロス」続出",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000882448/",
+        "publishedAt": "2026-09-16T03:06:25.000Z",
+        "summary": "M!LKの佐野勇斗がInstagramを更新。9月15日に最終回を迎えたドラマ『君の好きは無敵』（TBS系...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "93667d7b868d4b70",
+        "title": "テレビ解説者・木村隆志のヨミトキ 第128回 なぜモナキと“おかっぱおヨネ”は愛されるのか 早くも「紅白間違いなし」の声、異例ブレイクの背景",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/yomitoki-128/",
+        "publishedAt": "2026-09-16T02:00:00.000Z",
+        "summary": "今年最も活躍したアイドルと言えばM!LKで間違いない一方で、デビューからの初速では「歴代最速」と言われているのがモナキ。なぜ短期間でこれほどのブレイクとなったのか。彼らは業界内でどのように評価されているのか。テレビ解説者の木村隆志が掘り下げていく。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "1d2da5e82a7242ea",
+        "title": "M!LK吉田仁人に光が差し込む幻想的な1枚に「ビジュ大優勝」「横顔が綺麗すぎる」の声！山中柔太朗は曽野舜太を激写「舜ちゃんの寝顔かわいい」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000882561/",
+        "publishedAt": "2026-09-16T01:45:51.000Z",
+        "summary": "M!LKの吉田仁人と山中柔太朗がそれぞれ自身のInstagramを更新。新曲「時空超えてユニバース」...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
       {
         "id": "5d84b8edaf36d485",
         "title": "上白石萌音×向井康二共演ドラマ『いろはの恋は時代をかける』主題歌がMISIAの新曲「さよならばっか」に決定",
@@ -117,42 +177,6 @@
         ]
       },
       {
-        "id": "c462f1c1cb48570e",
-        "title": "「オタクより夏満喫」「小学生すぎて…」M!LK佐野勇斗、朝6時から仕事→帰宅後21時から真っ暗な山へ 多忙な中で行われた“まさかの企画”に驚きの声",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20260915-4967690/",
-        "publishedAt": "2026-09-15T11:00:00.000Z",
-        "summary": "M!LKの佐野勇斗が、自身のYouTubeチャンネル『佐野勇斗だぞ』を更新。カブトムシ捕りに挑戦するなか、子どもの頃の思い出や実家について語った。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "cae8455c07b3b809",
-        "title": "M!LK5人が“オールホワイトコーデ”披露！膝をつく佐野＆吉田、その後ろで肩を組む塩﨑＆山中＆曽野が笑顔で並び「めっちゃいい写真」「家族写真すぎる」「仁人くんのママ感間違いない」「さのじん夫婦感ある」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000882143/",
-        "publishedAt": "2026-09-15T05:42:42.000Z",
-        "summary": "タワーレコードの公式SNSが更新され、M!LKのポスタービジュアルが公開された。 ■M!LKが爽やか...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
         "id": "6e1d6f9fcc04488b",
         "title": "山口もえ、M!LK推し活に夢中「夫が要らないくらい楽しいです」 曽野舜太が大慌て",
         "sourceName": "マイナビニュース テレビ",
@@ -169,28 +193,6 @@
         "memberMatches": [
           {
             "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "c05e3c61646ea38e",
-        "title": "「M!LKでも個人でも…」「いつかできたら」山中柔太朗、NYでのファッションショー参加で感じたこととは",
-        "sourceName": "マイナビニュース 芸能",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-        "articleUrl": "https://news.mynavi.jp/article/20260911-4950597/",
-        "publishedAt": "2026-09-11T05:00:00.000Z",
-        "summary": "M!LKの山中柔太朗が、現地時間9日にアメリカ・ニューヨークで行われた「New York Fashion Week」にグローバルファッションブランド・COACHのセレブリティとして参加した。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "山中柔太朗",
             "group": "M!LK",
             "status": "active"
           }
@@ -413,21 +415,51 @@
         "memberMatches": []
       }
     ],
-    "超特急": [
+    "原因は自分にある。": [
       {
-        "id": "7cc6ee8db674c32c",
-        "title": "INI、超特急、Da-iCE……控えるキャリア初の東京ドーム公演 加熱する男性グループシーンの今",
-        "sourceName": "リアルサウンド 音楽",
-        "sourceUrl": "https://realsound.jp/music/feed",
-        "articleUrl": "https://realsound.jp/2026/09/post-2522169.html",
-        "publishedAt": "2026-09-15T09:00:12.000Z",
-        "summary": "INI、超特急、Da-iCEら、キャリア初の東京ドームを控えるグループについて紹介する。",
+        "id": "98a5310fc96ec288",
+        "title": "「J-POPシングル ウィークリーTOP30」発表。1位はSixTONES『Dance Forever/マイオンリー』、予約1位は原因は自分にある。『ラブリーズン』（2026年9月10日付）",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/09/10/tg001",
+        "publishedAt": "2026-09-10T10:00:00.000Z",
+        "summary": "",
         "groups": [
-          "超特急"
+          "原因は自分にある。"
         ],
         "statuses": [],
         "memberMatches": []
       },
+      {
+        "id": "15fb9ee4d3775ce2",
+        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/07/89645/",
+        "publishedAt": "2026-07-24T12:00:00.000Z",
+        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
+        "groups": [
+          "原因は自分にある。",
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "超特急": [
       {
         "id": "47f16c975ff422cd",
         "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
@@ -484,50 +516,6 @@
         ],
         "statuses": [],
         "memberMatches": []
-      }
-    ],
-    "原因は自分にある。": [
-      {
-        "id": "98a5310fc96ec288",
-        "title": "「J-POPシングル ウィークリーTOP30」発表。1位はSixTONES『Dance Forever/マイオンリー』、予約1位は原因は自分にある。『ラブリーズン』（2026年9月10日付）",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/09/10/tg001",
-        "publishedAt": "2026-09-10T10:00:00.000Z",
-        "summary": "",
-        "groups": [
-          "原因は自分にある。"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "15fb9ee4d3775ce2",
-        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/07/89645/",
-        "publishedAt": "2026-07-24T12:00:00.000Z",
-        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
-        "groups": [
-          "原因は自分にある。",
-          "BUDDiiS"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "SHOOT",
-            "group": "BUDDiiS",
-            "status": "active"
-          }
-        ]
       }
     ],
     "Sakurashimeji": [

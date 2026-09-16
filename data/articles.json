@@ -1,6 +1,74 @@
 {
-  "updatedAt": "2026-09-15T21:20:36.055Z",
+  "updatedAt": "2026-09-16T04:49:02.482Z",
   "articles": [
+    {
+      "id": "910263d5a4d3908d",
+      "title": "M!LK佐野勇斗が前髪上げたポンパヘア姿に「かっこよすぎて沼」の声、松本若菜と笑顔で寄り添う2ショットに「君好きロス」続出",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000882448/",
+      "publishedAt": "2026-09-16T03:06:25.000Z",
+      "summary": "M!LKの佐野勇斗がInstagramを更新。9月15日に最終回を迎えたドラマ『君の好きは無敵』（TBS系...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "93667d7b868d4b70",
+      "title": "テレビ解説者・木村隆志のヨミトキ 第128回 なぜモナキと“おかっぱおヨネ”は愛されるのか 早くも「紅白間違いなし」の声、異例ブレイクの背景",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/yomitoki-128/",
+      "publishedAt": "2026-09-16T02:00:00.000Z",
+      "summary": "今年最も活躍したアイドルと言えばM!LKで間違いない一方で、デビューからの初速では「歴代最速」と言われているのがモナキ。なぜ短期間でこれほどのブレイクとなったのか。彼らは業界内でどのように評価されているのか。テレビ解説者の木村隆志が掘り下げていく。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "1d2da5e82a7242ea",
+      "title": "M!LK吉田仁人に光が差し込む幻想的な1枚に「ビジュ大優勝」「横顔が綺麗すぎる」の声！山中柔太朗は曽野舜太を激写「舜ちゃんの寝顔かわいい」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000882561/",
+      "publishedAt": "2026-09-16T01:45:51.000Z",
+      "summary": "M!LKの吉田仁人と山中柔太朗がそれぞれ自身のInstagramを更新。新曲「時空超えてユニバース」...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "曽野舜太",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "5d84b8edaf36d485",
       "title": "上白石萌音×向井康二共演ドラマ『いろはの恋は時代をかける』主題歌がMISIAの新曲「さよならばっか」に決定",
@@ -36,28 +104,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "c462f1c1cb48570e",
-      "title": "「オタクより夏満喫」「小学生すぎて…」M!LK佐野勇斗、朝6時から仕事→帰宅後21時から真っ暗な山へ 多忙な中で行われた“まさかの企画”に驚きの声",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-      "articleUrl": "https://news.mynavi.jp/article/20260915-4967690/",
-      "publishedAt": "2026-09-15T11:00:00.000Z",
-      "summary": "M!LKの佐野勇斗が、自身のYouTubeチャンネル『佐野勇斗だぞ』を更新。カブトムシ捕りに挑戦するなか、子どもの頃の思い出や実家について語った。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "44abf9c2f9fb9d53",
@@ -97,34 +143,6 @@
       "summary": "「SUPER★DRAGON DRA FES 2026」9月24日(木)東京公演、9月27日(日)大阪公演のチケットトレード実施が決定しました。 本日9月15日(火)18:00より開始いたします。 チケットの出品をご希望の […] The post 「SUPER★DRAGON DRA FES 2026」9月公演 チケットトレード情報 first appeare",
       "groups": [
         "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "7cc6ee8db674c32c",
-      "title": "INI、超特急、Da-iCE……控えるキャリア初の東京ドーム公演 加熱する男性グループシーンの今",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/09/post-2522169.html",
-      "publishedAt": "2026-09-15T09:00:12.000Z",
-      "summary": "INI、超特急、Da-iCEら、キャリア初の東京ドームを控えるグループについて紹介する。",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "cae8455c07b3b809",
-      "title": "M!LK5人が“オールホワイトコーデ”披露！膝をつく佐野＆吉田、その後ろで肩を組む塩﨑＆山中＆曽野が笑顔で並び「めっちゃいい写真」「家族写真すぎる」「仁人くんのママ感間違いない」「さのじん夫婦感ある」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000882143/",
-      "publishedAt": "2026-09-15T05:42:42.000Z",
-      "summary": "タワーレコードの公式SNSが更新され、M!LKのポスタービジュアルが公開された。 ■M!LKが爽やか...",
-      "groups": [
-        "M!LK"
       ],
       "statuses": [],
       "memberMatches": []
