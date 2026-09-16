@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-09-16T11:33:16.711Z",
+  "updatedAt": "2026-09-16T16:55:31.706Z",
   "articles": [
+    {
+      "id": "eb6edf6bfe227abf",
+      "title": "M!LK、最新アルバム「LOVE ENG!NE」発売初日に72.5万枚 過去最高売り上げ",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202609160001546.html",
+      "publishedAt": "2026-09-16T11:30:41.000Z",
+      "summary": "5人組アイドルグループ、M!LKが16日に発売した初のミニアルバム「LOVE ENG!NE」が、初日売り上げ72．5万枚を記録し、オリコンデイリーアルバムランキングで1位に輝いた（オリコン調べ）。 同作は人気曲「アイドルパワー」を含む全…",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "cc761a7ce3b31aca",
       "title": "「感謝しかない」「強すぎw」「布面積少なすぎて…」M!LK塩崎太智の“普段通りすぎる”スタイルにファンから反響",
@@ -79,28 +93,6 @@
       "memberMatches": []
     },
     {
-      "id": "292357cc7ecf90ef",
-      "title": "MISIA、新曲「さよならばっか」がTBS系火曜ドラマ『いろはの恋は時代(とき)をかける』主題歌に。作詞作曲は川谷絵音",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1088692",
-      "publishedAt": "2026-09-16T05:57:47.000Z",
-      "summary": "MISIAの新曲「さよならばっか」が、2026年10月スタートのTBS系火曜ドラマ『いろはの恋は時代(とき)をかける』の主題歌を担当することが決定した。TBSドラマの主題歌担当は2018年放送の火曜ドラマ『義母と娘のブルース』の主題歌「アイノカタチ」以来約8年ぶりとなる。 ドラマ『いろはの恋は時代をかける』の主題歌となる「さよならばっか」は、移ろいゆく季節の",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "山中柔太朗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "37f14e4985bd7ced",
       "title": "M!LKメンバーの顔がどんどん“増量”!? 1人→3人→5人に増えていくシュールな動画に「イケメンが増えていく」「塩さんの写真が卒アル感ある」「舜ちゃんお口開いててかわいい」と反響",
       "sourceName": "THE FIRST TIMES",
@@ -113,28 +105,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "910263d5a4d3908d",
-      "title": "M!LK佐野勇斗が前髪上げたポンパヘア姿に「かっこよすぎて沼」の声、松本若菜と笑顔で寄り添う2ショットに「君好きロス」続出",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000882448/",
-      "publishedAt": "2026-09-16T03:06:25.000Z",
-      "summary": "M!LKの佐野勇斗がInstagramを更新。9月15日に最終回を迎えたドラマ『君の好きは無敵』（TBS系...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "93667d7b868d4b70",

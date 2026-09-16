@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-16T11:33:16.712Z",
+  "updatedAt": "2026-09-16T16:55:31.726Z",
   "totals": {
-    "all": 16,
-    "today": 8,
-    "week": 12
+    "all": 15,
+    "today": 0,
+    "week": 11
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 10
+      "count": 9
     },
     {
       "name": "EBiDAN",
@@ -25,15 +25,11 @@
       "count": 2
     },
     {
-      "name": "山中柔太朗",
-      "count": 2
-    },
-    {
       "name": "塩﨑太智",
       "count": 1
     },
     {
-      "name": "佐野勇斗",
+      "name": "山中柔太朗",
       "count": 1
     },
     {
@@ -44,7 +40,7 @@
   "sourceRanking": [
     {
       "name": "THE FIRST TIMES",
-      "count": 4
+      "count": 3
     },
     {
       "name": "タワーレコード ニュース",
@@ -53,10 +49,6 @@
     {
       "name": "マイナビニュース エンタメ",
       "count": 2
-    },
-    {
-      "name": "BARKS",
-      "count": 1
     },
     {
       "name": "QJWeb",
@@ -69,11 +61,29 @@
     {
       "name": "マイナビニュース 芸能",
       "count": 1
+    },
+    {
+      "name": "日刊スポーツ 芸能",
+      "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
     "M!LK": [
+      {
+        "id": "eb6edf6bfe227abf",
+        "title": "M!LK、最新アルバム「LOVE ENG!NE」発売初日に72.5万枚 過去最高売り上げ",
+        "sourceName": "日刊スポーツ 芸能",
+        "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+        "articleUrl": "https://www.nikkansports.com/entertainment/news/202609160001546.html",
+        "publishedAt": "2026-09-16T11:30:41.000Z",
+        "summary": "5人組アイドルグループ、M!LKが16日に発売した初のミニアルバム「LOVE ENG!NE」が、初日売り上げ72．5万枚を記録し、オリコンデイリーアルバムランキングで1位に輝いた（オリコン調べ）。 同作は人気曲「アイドルパワー」を含む全…",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
       {
         "id": "cc761a7ce3b31aca",
         "title": "「感謝しかない」「強すぎw」「布面積少なすぎて…」M!LK塩崎太智の“普段通りすぎる”スタイルにファンから反響",
@@ -150,28 +160,6 @@
         ],
         "statuses": [],
         "memberMatches": []
-      },
-      {
-        "id": "292357cc7ecf90ef",
-        "title": "MISIA、新曲「さよならばっか」がTBS系火曜ドラマ『いろはの恋は時代(とき)をかける』主題歌に。作詞作曲は川谷絵音",
-        "sourceName": "BARKS",
-        "sourceUrl": "https://www.barks.jp/feed/",
-        "articleUrl": "https://barks.jp/news/1088692",
-        "publishedAt": "2026-09-16T05:57:47.000Z",
-        "summary": "MISIAの新曲「さよならばっか」が、2026年10月スタートのTBS系火曜ドラマ『いろはの恋は時代(とき)をかける』の主題歌を担当することが決定した。TBSドラマの主題歌担当は2018年放送の火曜ドラマ『義母と娘のブルース』の主題歌「アイノカタチ」以来約8年ぶりとなる。 ドラマ『いろはの恋は時代をかける』の主題歌となる「さよならばっか」は、移ろいゆく季節の",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
       }
     ],
     "ONE N' ONLY": [
