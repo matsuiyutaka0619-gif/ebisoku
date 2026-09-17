@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-16T21:17:50.601Z",
+  "updatedAt": "2026-09-17T04:52:08.505Z",
   "totals": {
     "all": 123,
-    "today": 0,
+    "today": 3,
     "week": 14
   },
   "groupRanking": [
@@ -30,10 +30,6 @@
   "memberRanking": [
     {
       "name": "吉田仁人",
-      "count": 2
-    },
-    {
-      "name": "塩﨑太智",
       "count": 1
     },
     {
@@ -52,7 +48,7 @@
     },
     {
       "name": "THE FIRST TIMES",
-      "count": 2
+      "count": 3
     },
     {
       "name": "タワーレコード ニュース",
@@ -71,10 +67,6 @@
       "count": 1
     },
     {
-      "name": "マイナビニュース エンタメ",
-      "count": 1
-    },
-    {
       "name": "マイナビニュース 芸能",
       "count": 1
     }
@@ -83,13 +75,13 @@
   "recentByGroup": {
     "M!LK": [
       {
-        "id": "cc761a7ce3b31aca",
-        "title": "「感謝しかない」「強すぎw」「布面積少なすぎて…」M!LK塩崎太智の“普段通りすぎる”スタイルにファンから反響",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20260916-4978491/",
-        "publishedAt": "2026-09-16T10:30:00.000Z",
-        "summary": "「アイドルの男性2人でアフタヌーンティーってだけで可愛い」アイドルグループ・M!LKの塩崎太智(※崎はたつさき)と吉田仁人がアフタヌーンティーを楽しむ様子を公開し、ファンから多数の反響が寄せられている――。",
+        "id": "6a54e86a53b47995",
+        "title": "M!LK吉田仁人と若槻千夏（160cm）の並びに「ちゃんと身長差あってメロい」「こんなに背が高いんだ」「体格差に萌える」「骨格が漢で最高」と反響",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000883478/",
+        "publishedAt": "2026-09-17T04:05:33.000Z",
+        "summary": "『若槻千夏のうるさい心理テスト』（テレビ朝日）の公式Xが更新。若槻千夏とM!LKの吉田仁人の2...",
         "groups": [
           "M!LK"
         ],
@@ -98,11 +90,6 @@
         ],
         "memberMatches": [
           {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
             "name": "吉田仁人",
             "group": "M!LK",
             "status": "active"
@@ -110,13 +97,13 @@
         ]
       },
       {
-        "id": "1dcf220d4c0a45c4",
-        "title": "M!LK5人のポーズ違い“初出しショット”2枚公開！スタイル際立つロング丈衣装で横一列に並び「本当にかっこよくて最高」「みんな素敵な笑顔すぎる」「画面が眩しい」「とってもいい写真」",
+        "id": "f6b58a336b9eb645",
+        "title": "M!LK5人がニコニコで“めざましくん”を手にする姿に「かわいい」の声！それぞれの持ち方にも注目集まる「YJ手のひらに座らせてあげてて紳士がすぎる」",
         "sourceName": "THE FIRST TIMES",
         "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000882973/",
-        "publishedAt": "2026-09-16T08:03:06.000Z",
-        "summary": "M!LK公式Xが更新され、「時空超えてユニバース」のMVが公開から2日で1000万回再生を突破したこ...",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000883299/",
+        "publishedAt": "2026-09-17T02:58:47.000Z",
+        "summary": "M!LKが9月17日に放送された『めざましテレビ』に出演。5人並んだオフショットが公開された。 ■...",
         "groups": [
           "M!LK"
         ],
@@ -124,26 +111,18 @@
         "memberMatches": []
       },
       {
-        "id": "60c64dee17654cbe",
-        "title": "M!LK吉田仁人の“目元どアップ”がインパクト抜群！センター分けからのぞくキリッとした視線に「目力えぐい」「目が綺麗すぎる」「眉毛が凛々しくてすき」「需要しかない」",
+        "id": "f8febfd7ac1c0624",
+        "title": "【レポート】M!LK『LOVE ENG!NE』発売記念イベントで観客で埋まったアリーナを見て「これ、リリイベだよね!?」",
         "sourceName": "THE FIRST TIMES",
         "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000882901/",
-        "publishedAt": "2026-09-16T06:45:43.000Z",
-        "summary": "M!LKの公式Xが更新。メンバーの出身地エリアを含む鉄道路線で掲出されている、1stミニアルバム...",
+        "articleUrl": "https://www.thefirsttimes.jp/report/0000883219/",
+        "publishedAt": "2026-09-17T00:40:34.000Z",
+        "summary": "M!LKが、9月16日、ミニアルバム『LOVE ENG!NE』の発売日記念スペシャルイベントを有明アリーナ...",
         "groups": [
           "M!LK"
         ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
+        "statuses": [],
+        "memberMatches": []
       },
       {
         "id": "ffa7778b425b3f3c",
