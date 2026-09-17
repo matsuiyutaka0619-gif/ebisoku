@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-17T16:59:40.863Z",
+  "updatedAt": "2026-09-17T21:21:48.799Z",
   "totals": {
-    "all": 123,
-    "today": 0,
-    "week": 15
+    "all": 125,
+    "today": 3,
+    "week": 18
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 8
+      "count": 9
     },
     {
       "name": "SUPER★DRAGON",
@@ -19,17 +19,25 @@
       "count": 3
     },
     {
-      "name": "ONE N' ONLY",
-      "count": 1
+      "name": "原因は自分にある。",
+      "count": 3
     },
     {
-      "name": "原因は自分にある。",
+      "name": "ONE N' ONLY",
       "count": 1
     }
   ],
   "memberRanking": [
     {
+      "name": "吉澤要人",
+      "count": 2
+    },
+    {
       "name": "塩﨑太智",
+      "count": 1
+    },
+    {
+      "name": "佐野勇斗",
       "count": 1
     },
     {
@@ -51,6 +59,10 @@
       "count": 3
     },
     {
+      "name": "マイナビニュース エンタメ",
+      "count": 2
+    },
+    {
       "name": "マイナビニュース テレビ",
       "count": 2
     },
@@ -67,17 +79,43 @@
       "count": 1
     },
     {
-      "name": "マイナビニュース エンタメ",
+      "name": "マイナビニュース 芸能",
       "count": 1
     },
     {
-      "name": "マイナビニュース 芸能",
+      "name": "リアルサウンド 映画部",
+      "count": 1
+    },
+    {
+      "name": "リアルサウンド 音楽",
       "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
     "M!LK": [
+      {
+        "id": "f3d615ae3f83ac41",
+        "title": "M!LK 佐野勇斗、大興奮のカブトムシ捕り 少年のような姿に「喜び方が小学生すぎてかわいい」「サバイバル力高くて惚れる」",
+        "sourceName": "リアルサウンド 音楽",
+        "sourceUrl": "https://realsound.jp/music/feed",
+        "articleUrl": "https://realsound.jp/2026/09/post-2527019.html",
+        "publishedAt": "2026-09-17T20:50:56.000Z",
+        "summary": "M!LKの佐野勇斗が自身のYouTubeを更新。夏休み企画としてカブトムシ探しロケを行い、少年のような姿に注目が集まっている。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
       {
         "id": "49edc5506ca31eb4",
         "title": "「これ、リリイベだよね!?」「ライブみたい」M!LK、アリーナを埋め尽くす9,000人のファンを前に全4曲披露 塩崎太智がメンバーに詰め寄られるハプニングも",
@@ -141,23 +179,53 @@
         ],
         "statuses": [],
         "memberMatches": []
-      },
-      {
-        "id": "ffa7778b425b3f3c",
-        "title": "9月18日放送「ミュージックステーション」、あいみょん、上白石萌音、THE SPELLBOUND × BOOM BOOM SATELLITES、中島健人、M!LK、渡辺美里出演",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/09/16/tg003",
-        "publishedAt": "2026-09-16T06:30:00.000Z",
-        "summary": "",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
       }
     ],
     "原因は自分にある。": [
+      {
+        "id": "282442a6a429a8a8",
+        "title": "グレン・ヨン、『SQUALL』で日本の連ドラ初出演 莉子、吉澤要人とのキービジュアルも",
+        "sourceName": "リアルサウンド 映画部",
+        "sourceUrl": "https://realsound.jp/movie/feed",
+        "articleUrl": "https://realsound.jp/movie/2026/09/post-2527777.html",
+        "publishedAt": "2026-09-17T19:45:48.000Z",
+        "summary": "10月18日よりABCテレビで放送される莉子主演ドラマ『SQUALL』に、シンガポールの俳優グレン・ヨンが出演することが決定した。 日本とシンガポールの外交関係樹立60周年記念ドラマとなる本作は、日本の連続ドラマ史上",
+        "groups": [
+          "原因は自分にある。"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉澤要人",
+            "group": "原因は自分にある。",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "d4485df047964c09",
+        "title": "4年間の記憶を失った女性が、異国の地で出会った男性に懐かしさを――莉子主演『SQUALL』FOD独占配信",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20260918-4985086/",
+        "publishedAt": "2026-09-17T19:45:00.000Z",
+        "summary": "4年間の記憶を失った女性が、異国の地で出会った男性になぜか懐かしさを覚える――莉子が主演するABCテレビのドラマ『SQUALL』(10月18日スタート、毎週日曜24:10～)が、同日24:40からFODで独占配信される。吉澤要人(原因は自分にある。)、グレン・ヨンとともに、全話シンガポールロケで国境と時を越えるラブストーリーを描く。",
+        "groups": [
+          "原因は自分にある。"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉澤要人",
+            "group": "原因は自分にある。",
+            "status": "active"
+          }
+        ]
+      },
       {
         "id": "24efcee45fb52301",
         "title": "「J-POPシングル ウィークリーTOP30」発表。1位はINI『ANTHEM』、予約1位は原因は自分にある。『ラブリーズン』（2026年9月17日付）",
