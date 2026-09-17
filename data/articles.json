@@ -1,14 +1,107 @@
 {
-  "updatedAt": "2026-09-17T04:52:08.502Z",
+  "updatedAt": "2026-09-17T11:40:51.528Z",
   "articles": [
     {
-      "id": "6a54e86a53b47995",
-      "title": "M!LK吉田仁人と若槻千夏（160cm）の並びに「ちゃんと身長差あってメロい」「こんなに背が高いんだ」「体格差に萌える」「骨格が漢で最高」と反響",
+      "id": "49edc5506ca31eb4",
+      "title": "「これ、リリイベだよね!?」「ライブみたい」M!LK、アリーナを埋め尽くす9,000人のファンを前に全4曲披露 塩崎太智がメンバーに詰め寄られるハプニングも",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260917-4982497/",
+      "publishedAt": "2026-09-17T10:00:00.000Z",
+      "summary": "5人組ダンスボーカルグループ・M!LKが16日、東京・有明アリーナでミニアルバム『LOVE ENG!NE』の発売日記念スペシャルイベントを開催。約9,000人のファンを前にパフォーマンスを披露した。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "塩﨑太智",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "24efcee45fb52301",
+      "title": "「J-POPシングル ウィークリーTOP30」発表。1位はINI『ANTHEM』、予約1位は原因は自分にある。『ラブリーズン』（2026年9月17日付）",
+      "sourceName": "タワーレコード ニュース",
+      "sourceUrl": "https://tower.jp/feeds/article/news",
+      "articleUrl": "https://tower.jp/article/news/2026/09/17/tg003",
+      "publishedAt": "2026-09-17T10:00:00.000Z",
+      "summary": "",
+      "groups": [
+        "原因は自分にある。"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "7263f9f483254692",
+      "title": "『Venue101 EXTRA』が2週連続でオンエア！WEEK1には新しい学校のリーダーズ、ONEW、Da-iCE、M!LKが登場",
       "sourceName": "THE FIRST TIMES",
       "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000883478/",
-      "publishedAt": "2026-09-17T04:05:33.000Z",
-      "summary": "『若槻千夏のうるさい心理テスト』（テレビ朝日）の公式Xが更新。若槻千夏とM!LKの吉田仁人の2...",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000883875/",
+      "publishedAt": "2026-09-17T09:36:15.000Z",
+      "summary": "9月26日、10月3日放送のNHK総合『Venue101』では、『Venue101 EXTRA』と題して東京・NHKホール...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "99b68b462a287606",
+      "title": "M!LK、1stミニ・アルバム『LOVE ENG!NE』リリース。発売記念スペシャル・イベントを東京 有明アリーナにて開催",
+      "sourceName": "タワーレコード ニュース",
+      "sourceUrl": "https://tower.jp/feeds/article/news",
+      "articleUrl": "https://tower.jp/article/news/2026/09/17/tg002",
+      "publishedAt": "2026-09-17T09:20:00.000Z",
+      "summary": "",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "fa239d7d930d4ff5",
+      "title": "M!LK、Mini Album「LOVE ENG!NE」リリース！発売記念スペシャルイベント開催！初日にして今年度最高初週売上を記録！",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/music2/668013.html",
+      "publishedAt": "2026-09-17T08:30:51.000Z",
+      "summary": "5人組ダンスボーカルグループ・M!LKが、ミニアルバム「LOVE ENG!NE」の発売日記念スペシャルイベントを有明アリーナにて開催した。イベントでは、愛こそが未来へ進むための原動力になるという想いを込めたリード曲「時空超えてユニバース」を含む4曲をパフォーマンス。来場 ... The post M!LK、Mini Album「LOVE ENG!NE」リリー",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "0d6f12771cde1aed",
+      "title": "「SUPER★DRAGON DRA FES 2026」 【9/24(木)東京・9/27(日)大阪】オフィシャルグッズ、ミニ生写真セット 会場販売のお知らせ",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news11635/",
+      "publishedAt": "2026-09-17T07:00:15.000Z",
+      "summary": "東京、大阪公演会場より、「会場別ラメアクリルキーホルダー」、ミニ生写真セット「第9弾」、「第10弾」が新登場！ さらに、該当公演のチケットをお持ちの方を対象に、事前にグッズの注文リスト作成が可能な〈EBiDANアプリ(G […] The post 「SUPER★DRAGON DRA FES 2026」 【9/24(木)東京・9/27(日)大阪】オフィシャルグ",
+      "groups": [
+        "EBiDAN",
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "16099887f07e9d99",
+      "title": "M!LK5人がケーキを囲んで肩組み！“絆感じる”1枚に「5人の笑顔が大好き」「多幸感やばい」「だいちゃん髪切ってかわいさ倍増」イベントオフショット続々、吉田仁人の鏡越し自撮りにも反響",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000883583/",
+      "publishedAt": "2026-09-17T05:20:21.000Z",
+      "summary": "M!LKが9月16日、ミニアルバム『LOVE ENG!NE』の発売日記念スペシャルイベントを有明アリーナに...",
       "groups": [
         "M!LK"
       ],
@@ -22,34 +115,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "f6b58a336b9eb645",
-      "title": "M!LK5人がニコニコで“めざましくん”を手にする姿に「かわいい」の声！それぞれの持ち方にも注目集まる「YJ手のひらに座らせてあげてて紳士がすぎる」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000883299/",
-      "publishedAt": "2026-09-17T02:58:47.000Z",
-      "summary": "M!LKが9月17日に放送された『めざましテレビ』に出演。5人並んだオフショットが公開された。 ■...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "f8febfd7ac1c0624",
-      "title": "【レポート】M!LK『LOVE ENG!NE』発売記念イベントで観客で埋まったアリーナを見て「これ、リリイベだよね!?」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/report/0000883219/",
-      "publishedAt": "2026-09-17T00:40:34.000Z",
-      "summary": "M!LKが、9月16日、ミニアルバム『LOVE ENG!NE』の発売日記念スペシャルイベントを有明アリーナ...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "de5aabee4ecd82b3",
@@ -156,20 +221,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "24a3b8eb2a9df30e",
-      "title": "EBiDAN（恵比寿学園男子部）、10月29日に東京ドームにて開催の音楽アワード「MTV VMAJ 2026」出演決定",
-      "sourceName": "タワーレコード ニュース",
-      "sourceUrl": "https://tower.jp/feeds/article/news",
-      "articleUrl": "https://tower.jp/article/news/2026/09/14/tg007",
-      "publishedAt": "2026-09-14T10:10:40.000Z",
-      "summary": "",
-      "groups": [
-        "EBiDAN"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "59de9ad852459f17",
@@ -1960,20 +2011,6 @@
       "articleUrl": "https://super-dragon.jp/news/news10954/",
       "publishedAt": "2026-05-14T09:59:04.000Z",
       "summary": "SUPER★DRAGON LIVE TOUR 2026 「Studio」オフィシャルグッズ、ミニ生写真セットの事後通販が決定しました！ 残りわずかな商品もございますので、この機会をお見逃しなく！！ 【販売期 […] The post SUPER★DRAGON LIVE TOUR 2026 「Studio」オフィシャルグッズ、ミニ生写真セット 事後通販決定！ ",
-      "groups": [
-        "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "140b16750f49e7c3",
-      "title": "「SUPER★DRAGON DRA FES 2026」開催決定！",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news10949/",
-      "publishedAt": "2026-05-11T08:59:54.000Z",
-      "summary": "本日5月11日(月)18:00よりオフィシャルファンクラブ『AREA SD』会員先行が受付開始。 会場で皆さんとお会いできることを楽しみにしております！ 【チケットの販売に伴うお願いと注意事項】 ※重要：お申込み前に必ず […] The post 「SUPER★DRAGON DRA FES 2026」開催決定！ first appeared on SUPER",
       "groups": [
         "SUPER★DRAGON"
       ],
