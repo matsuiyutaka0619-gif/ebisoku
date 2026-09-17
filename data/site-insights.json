@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-17T11:40:51.530Z",
+  "updatedAt": "2026-09-17T16:59:40.863Z",
   "totals": {
-    "all": 125,
-    "today": 7,
-    "week": 17
+    "all": 123,
+    "today": 0,
+    "week": 15
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 9
+      "count": 8
     },
     {
       "name": "SUPER★DRAGON",
@@ -17,10 +17,6 @@
     {
       "name": "EBiDAN",
       "count": 3
-    },
-    {
-      "name": "BUDDiiS",
-      "count": 1
     },
     {
       "name": "ONE N' ONLY",
@@ -34,10 +30,6 @@
   "memberRanking": [
     {
       "name": "塩﨑太智",
-      "count": 1
-    },
-    {
-      "name": "吉田仁人",
       "count": 1
     },
     {
@@ -59,19 +51,19 @@
       "count": 3
     },
     {
-      "name": "THE FIRST TIMES",
-      "count": 2
-    },
-    {
-      "name": "WWSチャンネル",
-      "count": 2
-    },
-    {
       "name": "マイナビニュース テレビ",
       "count": 2
     },
     {
       "name": "QJWeb",
+      "count": 1
+    },
+    {
+      "name": "THE FIRST TIMES",
+      "count": 1
+    },
+    {
+      "name": "WWSチャンネル",
       "count": 1
     },
     {
@@ -151,26 +143,18 @@
         "memberMatches": []
       },
       {
-        "id": "16099887f07e9d99",
-        "title": "M!LK5人がケーキを囲んで肩組み！“絆感じる”1枚に「5人の笑顔が大好き」「多幸感やばい」「だいちゃん髪切ってかわいさ倍増」イベントオフショット続々、吉田仁人の鏡越し自撮りにも反響",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000883583/",
-        "publishedAt": "2026-09-17T05:20:21.000Z",
-        "summary": "M!LKが9月16日、ミニアルバム『LOVE ENG!NE』の発売日記念スペシャルイベントを有明アリーナに...",
+        "id": "ffa7778b425b3f3c",
+        "title": "9月18日放送「ミュージックステーション」、あいみょん、上白石萌音、THE SPELLBOUND × BOOM BOOM SATELLITES、中島健人、M!LK、渡辺美里出演",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/09/16/tg003",
+        "publishedAt": "2026-09-16T06:30:00.000Z",
+        "summary": "",
         "groups": [
           "M!LK"
         ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
+        "statuses": [],
+        "memberMatches": []
       }
     ],
     "原因は自分にある。": [
@@ -372,50 +356,6 @@
         "memberMatches": []
       }
     ],
-    "BUDDiiS": [
-      {
-        "id": "44abf9c2f9fb9d53",
-        "title": "「CDTVライブ！ライブ！秋の大感謝祭2026」3DAYS完走！9組が豪華コラボ＆サプライズ連発",
-        "sourceName": "WWSチャンネル",
-        "sourceUrl": "https://www.wws-channel.com/feed",
-        "articleUrl": "https://www.wws-channel.com/music2/667553.html",
-        "publishedAt": "2026-09-15T10:00:53.000Z",
-        "summary": "「CDTVライブ！ライブ！秋の大感謝祭2026」が9月11日から13日までの3日間、東京ガーデンシアターで開催され、Juice=Juice、NiziU、FRUITS ZIPPER、INI、IMP.、GENERATIONS、BUDDiiS、MAZZEL、LIL LEAGU ... The post 「CDTVライブ！ライブ！秋の大感謝祭2026」3DAYS完走",
-        "groups": [
-          "BUDDiiS"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "15fb9ee4d3775ce2",
-        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/07/89645/",
-        "publishedAt": "2026-07-24T12:00:00.000Z",
-        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
-        "groups": [
-          "原因は自分にある。",
-          "BUDDiiS"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "SHOOT",
-            "group": "BUDDiiS",
-            "status": "active"
-          }
-        ]
-      }
-    ],
     "ONE N' ONLY": [
       {
         "id": "abf0cc2d5208609a",
@@ -509,6 +449,36 @@
         ],
         "statuses": [],
         "memberMatches": []
+      }
+    ],
+    "BUDDiiS": [
+      {
+        "id": "15fb9ee4d3775ce2",
+        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/07/89645/",
+        "publishedAt": "2026-07-24T12:00:00.000Z",
+        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
+        "groups": [
+          "原因は自分にある。",
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
       }
     ]
   }
