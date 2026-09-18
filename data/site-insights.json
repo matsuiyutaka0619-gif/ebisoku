@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T16:23:51.728Z",
+  "updatedAt": "2026-09-18T20:54:13.778Z",
   "totals": {
     "all": 129,
     "today": 0,
@@ -203,58 +203,6 @@
         "memberMatches": []
       }
     ],
-    "BUDDiiS": [
-      {
-        "id": "b3ce11dd19aceceb",
-        "title": "BUDDiiS、メジャー2ndシングル「無限大LOVE!!!」ジャケット写真＆収録内容を公開。メンバー・KEVINが制作した楽曲収録も",
-        "sourceName": "BARKS",
-        "sourceUrl": "https://www.barks.jp/feed/",
-        "articleUrl": "https://barks.jp/news/1089159",
-        "publishedAt": "2026-09-18T11:00:00.000Z",
-        "summary": "BUDDiiSが、2026年11月18日に発売するメジャー2ndシングル「無限大LOVE!!!」のジャケット写真と収録曲詳細を解禁した。 初回生産限定盤は、惑星や星のステッカーを顔に貼ったメンバーがおどけた顔やラフな表情を見せているのが特徴的で、宇宙がモチーフのアートトイが散りばめられたポップな世界観に。 通常盤Type-Aは、メンバーみんなが寄り合う姿に「",
-        "groups": [
-          "BUDDiiS"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "KEVIN",
-            "group": "BUDDiiS",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "15fb9ee4d3775ce2",
-        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/07/89645/",
-        "publishedAt": "2026-07-24T12:00:00.000Z",
-        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
-        "groups": [
-          "原因は自分にある。",
-          "BUDDiiS"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "SHOOT",
-            "group": "BUDDiiS",
-            "status": "active"
-          }
-        ]
-      }
-    ],
     "EBiDAN": [
       {
         "id": "66d38cb329e72974",
@@ -346,6 +294,58 @@
         ],
         "statuses": [],
         "memberMatches": []
+      }
+    ],
+    "BUDDiiS": [
+      {
+        "id": "b3ce11dd19aceceb",
+        "title": "BUDDiiS、メジャー2ndシングル「無限大LOVE!!!」ジャケット写真＆収録内容を公開。メンバー・KEVINが制作した楽曲収録も",
+        "sourceName": "BARKS",
+        "sourceUrl": "https://www.barks.jp/feed/",
+        "articleUrl": "https://barks.jp/news/1089159",
+        "publishedAt": "2026-09-18T11:00:00.000Z",
+        "summary": "BUDDiiSが、2026年11月18日に発売するメジャー2ndシングル「無限大LOVE!!!」のジャケット写真と収録曲詳細を解禁した。 初回生産限定盤は、惑星や星のステッカーを顔に貼ったメンバーがおどけた顔やラフな表情を見せているのが特徴的で、宇宙がモチーフのアートトイが散りばめられたポップな世界観に。 通常盤Type-Aは、メンバーみんなが寄り合う姿に「",
+        "groups": [
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "KEVIN",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "15fb9ee4d3775ce2",
+        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/07/89645/",
+        "publishedAt": "2026-07-24T12:00:00.000Z",
+        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
+        "groups": [
+          "原因は自分にある。",
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
       }
     ],
     "M!LK": [
