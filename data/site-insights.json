@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-17T21:21:48.799Z",
+  "updatedAt": "2026-09-18T04:43:12.194Z",
   "totals": {
-    "all": 125,
-    "today": 3,
-    "week": 18
+    "all": 126,
+    "today": 6,
+    "week": 19
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 9
+      "count": 11
     },
     {
       "name": "SUPER★DRAGON",
@@ -20,7 +20,7 @@
     },
     {
       "name": "原因は自分にある。",
-      "count": 3
+      "count": 2
     },
     {
       "name": "ONE N' ONLY",
@@ -29,23 +29,23 @@
   ],
   "memberRanking": [
     {
-      "name": "吉澤要人",
-      "count": 2
+      "name": "山中柔太朗",
+      "count": 4
+    },
+    {
+      "name": "曽野舜太",
+      "count": 3
     },
     {
       "name": "塩﨑太智",
       "count": 1
     },
     {
-      "name": "佐野勇斗",
+      "name": "吉田仁人",
       "count": 1
     },
     {
-      "name": "山中柔太朗",
-      "count": 1
-    },
-    {
-      "name": "曽野舜太",
+      "name": "吉澤要人",
       "count": 1
     }
   ],
@@ -55,15 +55,19 @@
       "count": 5
     },
     {
+      "name": "THE FIRST TIMES",
+      "count": 3
+    },
+    {
       "name": "タワーレコード ニュース",
       "count": 3
     },
     {
-      "name": "マイナビニュース エンタメ",
+      "name": "マイナビニュース テレビ",
       "count": 2
     },
     {
-      "name": "マイナビニュース テレビ",
+      "name": "マイナビニュース 芸能",
       "count": 2
     },
     {
@@ -71,19 +75,11 @@
       "count": 1
     },
     {
-      "name": "THE FIRST TIMES",
-      "count": 1
-    },
-    {
       "name": "WWSチャンネル",
       "count": 1
     },
     {
-      "name": "マイナビニュース 芸能",
-      "count": 1
-    },
-    {
-      "name": "リアルサウンド 映画部",
+      "name": "マイナビニュース エンタメ",
       "count": 1
     },
     {
@@ -95,115 +91,119 @@
   "recentByGroup": {
     "M!LK": [
       {
-        "id": "f3d615ae3f83ac41",
-        "title": "M!LK 佐野勇斗、大興奮のカブトムシ捕り 少年のような姿に「喜び方が小学生すぎてかわいい」「サバイバル力高くて惚れる」",
-        "sourceName": "リアルサウンド 音楽",
-        "sourceUrl": "https://realsound.jp/music/feed",
-        "articleUrl": "https://realsound.jp/2026/09/post-2527019.html",
-        "publishedAt": "2026-09-17T20:50:56.000Z",
-        "summary": "M!LKの佐野勇斗が自身のYouTubeを更新。夏休み企画としてカブトムシ探しロケを行い、少年のような姿に注目が集まっている。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "49edc5506ca31eb4",
-        "title": "「これ、リリイベだよね!?」「ライブみたい」M!LK、アリーナを埋め尽くす9,000人のファンを前に全4曲披露 塩崎太智がメンバーに詰め寄られるハプニングも",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20260917-4982497/",
-        "publishedAt": "2026-09-17T10:00:00.000Z",
-        "summary": "5人組ダンスボーカルグループ・M!LKが16日、東京・有明アリーナでミニアルバム『LOVE ENG!NE』の発売日記念スペシャルイベントを開催。約9,000人のファンを前にパフォーマンスを披露した。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "7263f9f483254692",
-        "title": "『Venue101 EXTRA』が2週連続でオンエア！WEEK1には新しい学校のリーダーズ、ONEW、Da-iCE、M!LKが登場",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000883875/",
-        "publishedAt": "2026-09-17T09:36:15.000Z",
-        "summary": "9月26日、10月3日放送のNHK総合『Venue101』では、『Venue101 EXTRA』と題して東京・NHKホール...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "99b68b462a287606",
-        "title": "M!LK、1stミニ・アルバム『LOVE ENG!NE』リリース。発売記念スペシャル・イベントを東京 有明アリーナにて開催",
+        "id": "9167d35f87358191",
+        "title": "山中柔太朗×曽野舜太（M!LK）、「BAILA（バイラ） 2026年11月号」特別版表紙に登場",
         "sourceName": "タワーレコード ニュース",
         "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/09/17/tg002",
-        "publishedAt": "2026-09-17T09:20:00.000Z",
+        "articleUrl": "https://tower.jp/article/news/2026/09/18/tgb003",
+        "publishedAt": "2026-09-18T04:00:00.000Z",
         "summary": "",
         "groups": [
           "M!LK"
         ],
-        "statuses": [],
-        "memberMatches": []
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
       },
       {
-        "id": "fa239d7d930d4ff5",
-        "title": "M!LK、Mini Album「LOVE ENG!NE」リリース！発売記念スペシャルイベント開催！初日にして今年度最高初週売上を記録！",
-        "sourceName": "WWSチャンネル",
-        "sourceUrl": "https://www.wws-channel.com/feed",
-        "articleUrl": "https://www.wws-channel.com/music2/668013.html",
-        "publishedAt": "2026-09-17T08:30:51.000Z",
-        "summary": "5人組ダンスボーカルグループ・M!LKが、ミニアルバム「LOVE ENG!NE」の発売日記念スペシャルイベントを有明アリーナにて開催した。イベントでは、愛こそが未来へ進むための原動力になるという想いを込めたリード曲「時空超えてユニバース」を含む4曲をパフォーマンス。来場 ... The post M!LK、Mini Album「LOVE ENG!NE」リリー",
+        "id": "2c3516fc1da0f352",
+        "title": "M!LK山中柔太朗が“細身パンツ”で長い脚際立つ！レザージャケットまとう秋コーデに「いつもと違う雰囲気で一段とかっこいい」アイナ・ジ・エンド（162cm）との“身長差”が目を引く2ショットも",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000884379/",
+        "publishedAt": "2026-09-18T03:56:55.000Z",
+        "summary": "M!LKの山中柔太朗が伊勢丹新宿店で開催中の「ミュウミュウ」のポップアップストア「Miu Miu Vi...",
         "groups": [
           "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "原因は自分にある。": [
-      {
-        "id": "282442a6a429a8a8",
-        "title": "グレン・ヨン、『SQUALL』で日本の連ドラ初出演 莉子、吉澤要人とのキービジュアルも",
-        "sourceName": "リアルサウンド 映画部",
-        "sourceUrl": "https://realsound.jp/movie/feed",
-        "articleUrl": "https://realsound.jp/movie/2026/09/post-2527777.html",
-        "publishedAt": "2026-09-17T19:45:48.000Z",
-        "summary": "10月18日よりABCテレビで放送される莉子主演ドラマ『SQUALL』に、シンガポールの俳優グレン・ヨンが出演することが決定した。 日本とシンガポールの外交関係樹立60周年記念ドラマとなる本作は、日本の連続ドラマ史上",
-        "groups": [
-          "原因は自分にある。"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "吉澤要人",
-            "group": "原因は自分にある。",
+            "name": "山中柔太朗",
+            "group": "M!LK",
             "status": "active"
           }
         ]
       },
+      {
+        "id": "d77ec2f0bec3e015",
+        "title": "LE SSERAFIM、M!LK、Aぇ! group、HOKUTO & 鈴木愛理、The BONEZ、Penthouse……注目新譜6作をレビュー",
+        "sourceName": "リアルサウンド 音楽",
+        "sourceUrl": "https://realsound.jp/music/feed",
+        "articleUrl": "https://realsound.jp/2026/09/post-2525434.html",
+        "publishedAt": "2026-09-18T03:10:25.000Z",
+        "summary": "毎週発表される新譜の中から注目作品をレビューしていく連載「New Releases In Focus」。今回は、LE SSERAFIM「Made My Night」、M!LK「僕のすべては君のもの」、Aぇ! group「Emotion」、HOKUTO & 鈴木愛理「ゾンビ・イン・ラブ」、The BONEZ「IMAGINATION」、Penthouse「道化師",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "09fe6fdf9bafa413",
+        "title": "M!LK吉田仁人の“虚無顔”に「どういう感情？」「証明写真すぎる」「顔強」の声！ギターに手を添えた微笑みショットも披露し「綺麗な二重だなぁ…」「あまりにも恋」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000884333/",
+        "publishedAt": "2026-09-18T02:53:40.000Z",
+        "summary": "文化放送『M!LK 吉田仁人のレコメン！』の公式Xで、9月17日放送回のオフショットが続々と公開...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "78b0658a6c32c86a",
+        "title": "M!LK山中柔太朗と曽野舜太が妄想トーク。「もし双子だったら」「どっちが兄なのか」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000884073/",
+        "publishedAt": "2026-09-18T01:00:52.000Z",
+        "summary": "M!LKの山中柔太朗と曽野舜太が『BAILA』11月号特別版（9月28日発売）の表紙に登場する。 ■テー...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "原因は自分にある。": [
       {
         "id": "d4485df047964c09",
         "title": "4年間の記憶を失った女性が、異国の地で出会った男性に懐かしさを――莉子主演『SQUALL』FOD独占配信",
