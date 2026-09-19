@@ -1,16 +1,72 @@
 {
-  "updatedAt": "2026-09-18T20:54:13.775Z",
+  "updatedAt": "2026-09-19T04:37:02.281Z",
   "articles": [
     {
-      "id": "be916e8634b5c637",
-      "title": "超特急、「ガチ夢中！(feat. 8号車)」リリース 結成15周年を“ファン＝8号車”と迎えた一曲に",
+      "id": "9a018c8ba9591502",
+      "title": "M!LK旋風の中心にある5人の変わらぬ姿 9000人集結＆同接24万人を記録した『LOVE ENG!NE』スペシャルイベント",
       "sourceName": "リアルサウンド 音楽",
       "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/09/post-2528603.html",
-      "publishedAt": "2026-09-18T11:00:57.000Z",
-      "summary": "超特急が、「ガチ夢中！(feat. 8号車)」を9月19日13時に配信リリースする。 本楽曲は、今年5月にリリースされた「ガチ夢中！」を、ファンである8号車の声とともに新たな音源として再構築したもの。超特急にとって初",
+      "articleUrl": "https://realsound.jp/2026/09/post-2525792.html",
+      "publishedAt": "2026-09-19T03:00:27.000Z",
+      "summary": "M!LKが9月16日、東京・有明アリーナでミニアルバム『LOVE ENG!NE』発売日記念スペシャルイベントを開催した。本稿では、9000人＆同接24万人を笑顔にした『LOVE ENG!NE』スペシャルイベント",
       "groups": [
-        "超特急"
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "5b71b2f6a918efb2",
+      "title": "M!LK『LOVE ENG!NE パワーステーション』2日間開催！所属レーベル掲載許可のQRコードも",
+      "sourceName": "Edge Line",
+      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/205480",
+      "publishedAt": "2026-09-19T02:12:25.000Z",
+      "summary": "佐野勇斗、吉田仁人、塩﨑太智、山中柔太朗、曽野舜太によるダンスボーカルグループ『M!LK』が9月16日に発売したMini Album『LOVE ENG!NE』。その世界観を体感できるイベント『LOVE ENG!NE パ...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "塩﨑太智",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "曽野舜太",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "5dca4d9b4d749857",
+      "title": "M!LK5人、横顔まで“ビジュ最強”美貌際立つショットを厳選！ステージでの凛々しい姿からプライベートショットまで",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000881016/",
+      "publishedAt": "2026-09-19T01:00:39.000Z",
+      "summary": "M!LKの魅力を引き立てるのは、正面からのビジュアルだけではない。ふとした瞬間に見せる横顔か...",
+      "groups": [
+        "M!LK"
       ],
       "statuses": [],
       "memberMatches": []
@@ -38,56 +94,6 @@
       ]
     },
     {
-      "id": "66d38cb329e72974",
-      "title": "超特急、ファンの熱いコールを収録した「ガチ夢中！(feat. 8号車)」配信リリース決定",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1089120",
-      "publishedAt": "2026-09-18T11:00:00.000Z",
-      "summary": "超特急が、「ガチ夢中！(feat. 8号車)」を2026年9月19日13時に配信リリースすることを発表した。 本楽曲は、2026年5月にリリースした話題曲「ガチ夢中！」にファンである8号車の声を収録した作品である。「ガチ夢中！」は、“好き”という気持ちを原動力に、夢中になって何かに挑むすべての人へ向け、超特急が持ち前の熱量とポジティブなメッセージを届ける楽曲",
-      "groups": [
-        "EBiDAN",
-        "超特急"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "リョウガ",
-          "group": "超特急",
-          "status": "active"
-        },
-        {
-          "name": "ハル",
-          "group": "超特急",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "b3ce11dd19aceceb",
-      "title": "BUDDiiS、メジャー2ndシングル「無限大LOVE!!!」ジャケット写真＆収録内容を公開。メンバー・KEVINが制作した楽曲収録も",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1089159",
-      "publishedAt": "2026-09-18T11:00:00.000Z",
-      "summary": "BUDDiiSが、2026年11月18日に発売するメジャー2ndシングル「無限大LOVE!!!」のジャケット写真と収録曲詳細を解禁した。 初回生産限定盤は、惑星や星のステッカーを顔に貼ったメンバーがおどけた顔やラフな表情を見せているのが特徴的で、宇宙がモチーフのアートトイが散りばめられたポップな世界観に。 通常盤Type-Aは、メンバーみんなが寄り合う姿に「",
-      "groups": [
-        "BUDDiiS"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "KEVIN",
-          "group": "BUDDiiS",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "d9b3b17d6152e03f",
       "title": "M!LKミニアルバム『LOVE ENG!NE』発売記念！東京スカイツリーで“発電アトラクション”開催",
       "sourceName": "THE FIRST TIMES",
@@ -97,20 +103,6 @@
       "summary": "M!LKが、9月16日にミニアルバム『LOVE ENG!NE』をリリース。これを記念し、9月19日・20日の2日...",
       "groups": [
         "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "58dc120be2681fa3",
-      "title": "＜a-nation 2026＞、オールラインナップを発表。オープニングアクト・PARK STAGE含む総勢39組が出演決定",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1089152",
-      "publishedAt": "2026-09-18T09:09:51.000Z",
-      "summary": "2026年10月3日・4日に開催する＜a-nation 2026＞の、全出演者が発表された。 オープニングアクト、PARK STAGE含む総勢39組が出演することが決定した＜a-nation＞は、今年で22回目を迎える。今回は初の秋開催となり、東京・お台場へと会場を移して開催予定だ。 以下が出演者のライナップだ。 ◆ ◆ ◆ 【10月3日（土）】EXILE ",
-      "groups": [
-        "超特急"
       ],
       "statuses": [],
       "memberMatches": []
@@ -150,20 +142,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "660bdd995fc151c5",
-      "title": "新浜レオンがM!LK5人の並んだポスターと“滅ポーズ”で記念撮影！「M!LK愛がすごい」「もうみ！るきーずですね」「日本を照らすM!LKとレオンさん」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000884041/",
-      "publishedAt": "2026-09-18T05:35:05.000Z",
-      "summary": "新浜レオンが自身の公式XでM!LKとの“集合ショット”を公開し、話題を呼んでいる。 ■新浜レオン...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "9167d35f87358191",
@@ -258,20 +236,6 @@
       "articleUrl": "https://tower.jp/article/news/2026/09/17/tg002",
       "publishedAt": "2026-09-17T09:20:00.000Z",
       "summary": "",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "fa239d7d930d4ff5",
-      "title": "M!LK、Mini Album「LOVE ENG!NE」リリース！発売記念スペシャルイベント開催！初日にして今年度最高初週売上を記録！",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/music2/668013.html",
-      "publishedAt": "2026-09-17T08:30:51.000Z",
-      "summary": "5人組ダンスボーカルグループ・M!LKが、ミニアルバム「LOVE ENG!NE」の発売日記念スペシャルイベントを有明アリーナにて開催した。イベントでは、愛こそが未来へ進むための原動力になるという想いを込めたリード曲「時空超えてユニバース」を含む4曲をパフォーマンス。来場 ... The post M!LK、Mini Album「LOVE ENG!NE」リリー",
       "groups": [
         "M!LK"
       ],

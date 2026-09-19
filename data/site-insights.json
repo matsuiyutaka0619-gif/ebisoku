@@ -1,59 +1,55 @@
 {
-  "updatedAt": "2026-09-18T20:54:13.778Z",
+  "updatedAt": "2026-09-19T04:37:02.283Z",
   "totals": {
-    "all": 129,
-    "today": 0,
-    "week": 21
+    "all": 126,
+    "today": 3,
+    "week": 18
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 8
+      "count": 9
     },
     {
       "name": "SUPER★DRAGON",
       "count": 5
     },
     {
-      "name": "超特急",
-      "count": 4
-    },
-    {
       "name": "EBiDAN",
-      "count": 3
+      "count": 2
     },
     {
       "name": "原因は自分にある。",
       "count": 2
     },
     {
-      "name": "BUDDiiS",
+      "name": "ONE N' ONLY",
       "count": 1
     },
     {
-      "name": "ONE N' ONLY",
+      "name": "超特急",
       "count": 1
     }
   ],
   "memberRanking": [
     {
-      "name": "ハル",
-      "count": 2
-    },
-    {
       "name": "山中柔太朗",
-      "count": 2
-    },
-    {
-      "name": "KEVIN",
-      "count": 1
-    },
-    {
-      "name": "リョウガ",
-      "count": 1
+      "count": 3
     },
     {
       "name": "塩﨑太智",
+      "count": 2
+    },
+    {
+      "name": "曽野舜太",
+      "count": 2
+    },
+    {
+      "name": "ハル",
+      "count": 1
+    },
+    {
+      "name": "吉田仁人",
       "count": 1
     },
     {
@@ -61,7 +57,7 @@
       "count": 1
     },
     {
-      "name": "曽野舜太",
+      "name": "佐野勇斗",
       "count": 1
     }
   ],
@@ -75,10 +71,6 @@
       "count": 4
     },
     {
-      "name": "BARKS",
-      "count": 3
-    },
-    {
       "name": "タワーレコード ニュース",
       "count": 3
     },
@@ -87,11 +79,11 @@
       "count": 2
     },
     {
-      "name": "QJWeb",
+      "name": "Edge Line",
       "count": 1
     },
     {
-      "name": "WWSチャンネル",
+      "name": "QJWeb",
       "count": 1
     },
     {
@@ -105,250 +97,77 @@
   ],
   "topics": [],
   "recentByGroup": {
-    "超特急": [
+    "M!LK": [
       {
-        "id": "be916e8634b5c637",
-        "title": "超特急、「ガチ夢中！(feat. 8号車)」リリース 結成15周年を“ファン＝8号車”と迎えた一曲に",
+        "id": "9a018c8ba9591502",
+        "title": "M!LK旋風の中心にある5人の変わらぬ姿 9000人集結＆同接24万人を記録した『LOVE ENG!NE』スペシャルイベント",
         "sourceName": "リアルサウンド 音楽",
         "sourceUrl": "https://realsound.jp/music/feed",
-        "articleUrl": "https://realsound.jp/2026/09/post-2528603.html",
-        "publishedAt": "2026-09-18T11:00:57.000Z",
-        "summary": "超特急が、「ガチ夢中！(feat. 8号車)」を9月19日13時に配信リリースする。 本楽曲は、今年5月にリリースされた「ガチ夢中！」を、ファンである8号車の声とともに新たな音源として再構築したもの。超特急にとって初",
+        "articleUrl": "https://realsound.jp/2026/09/post-2525792.html",
+        "publishedAt": "2026-09-19T03:00:27.000Z",
+        "summary": "M!LKが9月16日、東京・有明アリーナでミニアルバム『LOVE ENG!NE』発売日記念スペシャルイベントを開催した。本稿では、9000人＆同接24万人を笑顔にした『LOVE ENG!NE』スペシャルイベント",
         "groups": [
-          "超特急"
+          "M!LK"
         ],
         "statuses": [],
         "memberMatches": []
       },
       {
-        "id": "9dc442478ab44b46",
-        "title": "超特急初の“feat.8号車”楽曲「ガチ夢中！(feat.8号車)」リリース決定！「素敵な8号車の声を形に残すことができて幸せ」（ハル）",
+        "id": "5b71b2f6a918efb2",
+        "title": "M!LK『LOVE ENG!NE パワーステーション』2日間開催！所属レーベル掲載許可のQRコードも",
+        "sourceName": "Edge Line",
+        "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+        "articleUrl": "https://www.edgeline-tokyo.com/entertainment/205480",
+        "publishedAt": "2026-09-19T02:12:25.000Z",
+        "summary": "佐野勇斗、吉田仁人、塩﨑太智、山中柔太朗、曽野舜太によるダンスボーカルグループ『M!LK』が9月16日に発売したMini Album『LOVE ENG!NE』。その世界観を体感できるイベント『LOVE ENG!NE パ...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "5dca4d9b4d749857",
+        "title": "M!LK5人、横顔まで“ビジュ最強”美貌際立つショットを厳選！ステージでの凛々しい姿からプライベートショットまで",
         "sourceName": "THE FIRST TIMES",
         "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000884612/",
-        "publishedAt": "2026-09-18T11:00:40.000Z",
-        "summary": "超特急が、ファンである8号車とのコラボレーション楽曲「ガチ夢中！(feat.8号車)」を9月19日13...",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000881016/",
+        "publishedAt": "2026-09-19T01:00:39.000Z",
+        "summary": "M!LKの魅力を引き立てるのは、正面からのビジュアルだけではない。ふとした瞬間に見せる横顔か...",
         "groups": [
-          "超特急"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "ハル",
-            "group": "超特急",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "66d38cb329e72974",
-        "title": "超特急、ファンの熱いコールを収録した「ガチ夢中！(feat. 8号車)」配信リリース決定",
-        "sourceName": "BARKS",
-        "sourceUrl": "https://www.barks.jp/feed/",
-        "articleUrl": "https://barks.jp/news/1089120",
-        "publishedAt": "2026-09-18T11:00:00.000Z",
-        "summary": "超特急が、「ガチ夢中！(feat. 8号車)」を2026年9月19日13時に配信リリースすることを発表した。 本楽曲は、2026年5月にリリースした話題曲「ガチ夢中！」にファンである8号車の声を収録した作品である。「ガチ夢中！」は、“好き”という気持ちを原動力に、夢中になって何かに挑むすべての人へ向け、超特急が持ち前の熱量とポジティブなメッセージを届ける楽曲",
-        "groups": [
-          "EBiDAN",
-          "超特急"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "リョウガ",
-            "group": "超特急",
-            "status": "active"
-          },
-          {
-            "name": "ハル",
-            "group": "超特急",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "58dc120be2681fa3",
-        "title": "＜a-nation 2026＞、オールラインナップを発表。オープニングアクト・PARK STAGE含む総勢39組が出演決定",
-        "sourceName": "BARKS",
-        "sourceUrl": "https://www.barks.jp/feed/",
-        "articleUrl": "https://barks.jp/news/1089152",
-        "publishedAt": "2026-09-18T09:09:51.000Z",
-        "summary": "2026年10月3日・4日に開催する＜a-nation 2026＞の、全出演者が発表された。 オープニングアクト、PARK STAGE含む総勢39組が出演することが決定した＜a-nation＞は、今年で22回目を迎える。今回は初の秋開催となり、東京・お台場へと会場を移して開催予定だ。 以下が出演者のライナップだ。 ◆ ◆ ◆ 【10月3日（土）】EXILE ",
-        "groups": [
-          "超特急"
+          "M!LK"
         ],
         "statuses": [],
         "memberMatches": []
       },
-      {
-        "id": "47f16c975ff422cd",
-        "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11607/",
-        "publishedAt": "2026-09-02T12:34:24.000Z",
-        "summary": "平素より株式会社SDR所属アーティストへの温かいご声援を賜り、誠にありがとうございます。 DISH//、EBiDAN（超特急、M!LK、SUPER★DRAGON、Sakurashimeji、ONE N’ ON […] The post グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ first appeared on SUPER★DRAGO",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK",
-          "SUPER★DRAGON",
-          "Sakurashimeji"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "EBiDAN": [
-      {
-        "id": "66d38cb329e72974",
-        "title": "超特急、ファンの熱いコールを収録した「ガチ夢中！(feat. 8号車)」配信リリース決定",
-        "sourceName": "BARKS",
-        "sourceUrl": "https://www.barks.jp/feed/",
-        "articleUrl": "https://barks.jp/news/1089120",
-        "publishedAt": "2026-09-18T11:00:00.000Z",
-        "summary": "超特急が、「ガチ夢中！(feat. 8号車)」を2026年9月19日13時に配信リリースすることを発表した。 本楽曲は、2026年5月にリリースした話題曲「ガチ夢中！」にファンである8号車の声を収録した作品である。「ガチ夢中！」は、“好き”という気持ちを原動力に、夢中になって何かに挑むすべての人へ向け、超特急が持ち前の熱量とポジティブなメッセージを届ける楽曲",
-        "groups": [
-          "EBiDAN",
-          "超特急"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "リョウガ",
-            "group": "超特急",
-            "status": "active"
-          },
-          {
-            "name": "ハル",
-            "group": "超特急",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "0d6f12771cde1aed",
-        "title": "「SUPER★DRAGON DRA FES 2026」 【9/24(木)東京・9/27(日)大阪】オフィシャルグッズ、ミニ生写真セット 会場販売のお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11635/",
-        "publishedAt": "2026-09-17T07:00:15.000Z",
-        "summary": "東京、大阪公演会場より、「会場別ラメアクリルキーホルダー」、ミニ生写真セット「第9弾」、「第10弾」が新登場！ さらに、該当公演のチケットをお持ちの方を対象に、事前にグッズの注文リスト作成が可能な〈EBiDANアプリ(G […] The post 「SUPER★DRAGON DRA FES 2026」 【9/24(木)東京・9/27(日)大阪】オフィシャルグ",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "59de9ad852459f17",
-        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』 最新チケット情報",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11626/",
-        "publishedAt": "2026-09-12T05:00:07.000Z",
-        "summary": "本日9月12日(土)14:00よりローソンチケット プレリクエスト先行受付開始！ 皆さんとお会いできることを楽しみにしております！ 第６回EBiDAN大運動会『スポーツマンヒップ！』 【千葉】L […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』 最新チケット情報 first appeared on SUPER★DRAGON .",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "c4ba29fd2900c0db",
-        "title": "EBiDAN(恵比寿学園男子部) カップリング曲「好きだから走れ！！！！！！！」Lyric Videoを公開！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11623/",
-        "publishedAt": "2026-09-11T07:00:45.000Z",
-        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念した楽曲「Yes! 東京」のストリーミング1億回再生を記念して、シングル「Yes! 東京」に収録されているカップリング曲「好きだから走れ！！！！！！！」のLyric Vi […] The post EBiDAN(恵比寿学園男子部) カップリング曲「好きだから走れ！！！！！！！」Lyric Videoを公開！ ",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "47f16c975ff422cd",
-        "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11607/",
-        "publishedAt": "2026-09-02T12:34:24.000Z",
-        "summary": "平素より株式会社SDR所属アーティストへの温かいご声援を賜り、誠にありがとうございます。 DISH//、EBiDAN（超特急、M!LK、SUPER★DRAGON、Sakurashimeji、ONE N’ ON […] The post グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ first appeared on SUPER★DRAGO",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK",
-          "SUPER★DRAGON",
-          "Sakurashimeji"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "BUDDiiS": [
-      {
-        "id": "b3ce11dd19aceceb",
-        "title": "BUDDiiS、メジャー2ndシングル「無限大LOVE!!!」ジャケット写真＆収録内容を公開。メンバー・KEVINが制作した楽曲収録も",
-        "sourceName": "BARKS",
-        "sourceUrl": "https://www.barks.jp/feed/",
-        "articleUrl": "https://barks.jp/news/1089159",
-        "publishedAt": "2026-09-18T11:00:00.000Z",
-        "summary": "BUDDiiSが、2026年11月18日に発売するメジャー2ndシングル「無限大LOVE!!!」のジャケット写真と収録曲詳細を解禁した。 初回生産限定盤は、惑星や星のステッカーを顔に貼ったメンバーがおどけた顔やラフな表情を見せているのが特徴的で、宇宙がモチーフのアートトイが散りばめられたポップな世界観に。 通常盤Type-Aは、メンバーみんなが寄り合う姿に「",
-        "groups": [
-          "BUDDiiS"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "KEVIN",
-            "group": "BUDDiiS",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "15fb9ee4d3775ce2",
-        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/07/89645/",
-        "publishedAt": "2026-07-24T12:00:00.000Z",
-        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
-        "groups": [
-          "原因は自分にある。",
-          "BUDDiiS"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "SHOOT",
-            "group": "BUDDiiS",
-            "status": "active"
-          }
-        ]
-      }
-    ],
-    "M!LK": [
       {
         "id": "d9b3b17d6152e03f",
         "title": "M!LKミニアルバム『LOVE ENG!NE』発売記念！東京スカイツリーで“発電アトラクション”開催",
@@ -384,69 +203,87 @@
             "status": "active"
           }
         ]
-      },
+      }
+    ],
+    "超特急": [
       {
-        "id": "660bdd995fc151c5",
-        "title": "新浜レオンがM!LK5人の並んだポスターと“滅ポーズ”で記念撮影！「M!LK愛がすごい」「もうみ！るきーずですね」「日本を照らすM!LKとレオンさん」",
+        "id": "9dc442478ab44b46",
+        "title": "超特急初の“feat.8号車”楽曲「ガチ夢中！(feat.8号車)」リリース決定！「素敵な8号車の声を形に残すことができて幸せ」（ハル）",
         "sourceName": "THE FIRST TIMES",
         "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000884041/",
-        "publishedAt": "2026-09-18T05:35:05.000Z",
-        "summary": "新浜レオンが自身の公式XでM!LKとの“集合ショット”を公開し、話題を呼んでいる。 ■新浜レオン...",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000884612/",
+        "publishedAt": "2026-09-18T11:00:40.000Z",
+        "summary": "超特急が、ファンである8号車とのコラボレーション楽曲「ガチ夢中！(feat.8号車)」を9月19日13...",
         "groups": [
-          "M!LK"
+          "超特急"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "ハル",
+            "group": "超特急",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "47f16c975ff422cd",
+        "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11607/",
+        "publishedAt": "2026-09-02T12:34:24.000Z",
+        "summary": "平素より株式会社SDR所属アーティストへの温かいご声援を賜り、誠にありがとうございます。 DISH//、EBiDAN（超特急、M!LK、SUPER★DRAGON、Sakurashimeji、ONE N’ ON […] The post グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ first appeared on SUPER★DRAGO",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK",
+          "SUPER★DRAGON",
+          "Sakurashimeji"
         ],
         "statuses": [],
         "memberMatches": []
       },
       {
-        "id": "9167d35f87358191",
-        "title": "山中柔太朗×曽野舜太（M!LK）、「BAILA（バイラ） 2026年11月号」特別版表紙に登場",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/09/18/tgb003",
-        "publishedAt": "2026-09-18T04:00:00.000Z",
-        "summary": "",
+        "id": "397a635043a0e0e2",
+        "title": "映画『ワンダンス』新キャストにGirls2山口綺羅、MAZZEL・RAN、TSUKKI、超特急・髙松アロハ",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/07/89594/",
+        "publishedAt": "2026-07-22T09:00:00.000Z",
+        "summary": "11月27日(金)に公開されるJO（&TEAM）初主演映画『ワンダンス』の新キャストとして山口綺羅（Girls2）、RAN（MAZZEL）、現役DリーガーのTSUKKI、髙松アロハ（超特急）が出演することが発表された。 原作は単行本累計発行部数110万部を突破し「月刊アフタヌーン」（講談社）で連載中の珈琲による同名漫画。ダンサーからも熱く支持され、昨年放送さ",
         "groups": [
-          "M!LK"
+          "超特急"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
+            "name": "アロハ",
+            "group": "超特急",
             "status": "active"
           }
         ]
       },
       {
-        "id": "49edc5506ca31eb4",
-        "title": "「これ、リリイベだよね!?」「ライブみたい」M!LK、アリーナを埋め尽くす9,000人のファンを前に全4曲披露 塩崎太智がメンバーに詰め寄られるハプニングも",
-        "sourceName": "マイナビニュース 芸能",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-        "articleUrl": "https://news.mynavi.jp/article/20260917-4982497/",
-        "publishedAt": "2026-09-17T10:00:00.000Z",
-        "summary": "5人組ダンスボーカルグループ・M!LKが16日、東京・有明アリーナでミニアルバム『LOVE ENG!NE』の発売日記念スペシャルイベントを開催。約9,000人のファンを前にパフォーマンスを披露した。",
+        "id": "382225983e9781d4",
+        "title": "8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 7月2日からの先行配信リリースに合わせて デジタルキャンペーンが追加決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11354/",
+        "publishedAt": "2026-07-01T06:00:22.000Z",
+        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して8月11日(火・祝)にリリースされる「Yes! 東京」が、いよいよ7月2日（木）より先行配信リリースとなります。超特急、M!LK、SUPER★DRAGON、Sakur […] The post 8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 7月2日からの先行配信リリースに合わせて デ",
         "groups": [
-          "M!LK"
+          "EBiDAN",
+          "超特急",
+          "M!LK",
+          "SUPER★DRAGON"
         ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
+        "statuses": [],
+        "memberMatches": []
       }
     ],
     "SUPER★DRAGON": [
@@ -589,6 +426,86 @@
         ]
       }
     ],
+    "EBiDAN": [
+      {
+        "id": "0d6f12771cde1aed",
+        "title": "「SUPER★DRAGON DRA FES 2026」 【9/24(木)東京・9/27(日)大阪】オフィシャルグッズ、ミニ生写真セット 会場販売のお知らせ",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11635/",
+        "publishedAt": "2026-09-17T07:00:15.000Z",
+        "summary": "東京、大阪公演会場より、「会場別ラメアクリルキーホルダー」、ミニ生写真セット「第9弾」、「第10弾」が新登場！ さらに、該当公演のチケットをお持ちの方を対象に、事前にグッズの注文リスト作成が可能な〈EBiDANアプリ(G […] The post 「SUPER★DRAGON DRA FES 2026」 【9/24(木)東京・9/27(日)大阪】オフィシャルグ",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "59de9ad852459f17",
+        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』 最新チケット情報",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11626/",
+        "publishedAt": "2026-09-12T05:00:07.000Z",
+        "summary": "本日9月12日(土)14:00よりローソンチケット プレリクエスト先行受付開始！ 皆さんとお会いできることを楽しみにしております！ 第６回EBiDAN大運動会『スポーツマンヒップ！』 【千葉】L […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』 最新チケット情報 first appeared on SUPER★DRAGON .",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "c4ba29fd2900c0db",
+        "title": "EBiDAN(恵比寿学園男子部) カップリング曲「好きだから走れ！！！！！！！」Lyric Videoを公開！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11623/",
+        "publishedAt": "2026-09-11T07:00:45.000Z",
+        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念した楽曲「Yes! 東京」のストリーミング1億回再生を記念して、シングル「Yes! 東京」に収録されているカップリング曲「好きだから走れ！！！！！！！」のLyric Vi […] The post EBiDAN(恵比寿学園男子部) カップリング曲「好きだから走れ！！！！！！！」Lyric Videoを公開！ ",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "47f16c975ff422cd",
+        "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11607/",
+        "publishedAt": "2026-09-02T12:34:24.000Z",
+        "summary": "平素より株式会社SDR所属アーティストへの温かいご声援を賜り、誠にありがとうございます。 DISH//、EBiDAN（超特急、M!LK、SUPER★DRAGON、Sakurashimeji、ONE N’ ON […] The post グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ first appeared on SUPER★DRAGO",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK",
+          "SUPER★DRAGON",
+          "Sakurashimeji"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "7277b3cf409678c0",
+        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』 最新チケット情報",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11600/",
+        "publishedAt": "2026-08-31T09:30:16.000Z",
+        "summary": "本日8月31日(月)18:00よりEBiDAN先行受付開始！ 皆さんとお会いできることを楽しみにしております！ 第６回EBiDAN大運動会『スポーツマンヒップ！』 【千葉】LaLa arena […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』 最新チケット情報 first appeared on SUPER★DRAGON .",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
     "ONE N' ONLY": [
       {
         "id": "abf0cc2d5208609a",
@@ -623,6 +540,36 @@
         ],
         "statuses": [],
         "memberMatches": []
+      }
+    ],
+    "BUDDiiS": [
+      {
+        "id": "15fb9ee4d3775ce2",
+        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/07/89645/",
+        "publishedAt": "2026-07-24T12:00:00.000Z",
+        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
+        "groups": [
+          "原因は自分にある。",
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
       }
     ]
   }
