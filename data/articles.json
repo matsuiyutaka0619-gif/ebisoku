@@ -1,6 +1,70 @@
 {
-  "updatedAt": "2026-09-19T20:39:46.984Z",
+  "updatedAt": "2026-09-20T04:53:29.153Z",
   "articles": [
+    {
+      "id": "6e8ea1fd5513e5f5",
+      "title": "SUPER★DRAGON DRA FES 2026 +KIRARIブース実施のお知らせ！",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news11654/",
+      "publishedAt": "2026-09-20T03:30:38.000Z",
+      "summary": "「SUPER★DRAGON DRA FES 2026」9月24日(木)東京公演、9月27日(日)大阪公演にて+KIRARIブースの実施が決定いたしました！ ▼+KIRARIブース実施内容 ★12ヶ月プラン限定来場者プレゼ […] The post SUPER★DRAGON DRA FES 2026 +KIRARIブース実施のお知らせ！ first appea",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "70d0377384b222c4",
+      "title": "「SUPER★DRAGON DRA FES 2026 SCRATCH」開催のお知らせ",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news11649/",
+      "publishedAt": "2026-09-20T03:00:26.000Z",
+      "summary": "「SUPER★DRAGON DRA FES 2026」の開催を記念して、9月24日(木)東京公演、9月27日(日)大阪公演当日に「SUPER★DRAGON DRA FES 2026 SCRATCH」の開催が決定しました！ […] The post 「SUPER★DRAGON DRA FES 2026 SCRATCH」開催のお知らせ first appeare",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "98d56a3bd9a2fa50",
+      "title": "M!LK5人の無邪気なショットを厳選！無防備な寝転び姿からプライベート感溢れる姿まで",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000881048/",
+      "publishedAt": "2026-09-20T02:00:11.000Z",
+      "summary": "ステージで見せる姿とはひと味違う、M!LKメンバーのプライベート感溢れるショットに注目。イル...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "b62c41423fec0423",
+      "title": "M!LK吉田仁人、連ドラ初主演作「溺愛」PR動画公開！本格アクションの練習風景も",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/tv/668665.html",
+      "publishedAt": "2026-09-19T22:00:31.000Z",
+      "summary": "M!LKの吉田仁人が主演を務める新金曜ドラマ「溺愛 ～ 実は、最強ヒーロー ～」が、10月30日よりTOKYO MXで放送される。このほどTVerの番組ページが開設され、限定PR動画が公開された。本作は、シリーズ累計3400万ダウンロードを突破した一城れもん、海咲ねむる ... The post M!LK吉田仁人、連ドラ初主演作「溺愛」PR動画公開！本格アク",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "6f9fe14356119a9a",
       "title": "M!LK吉田仁人が超ワイドデニム＆背番号“369”で豪快ノーバン投球「初の東京ドームは圧巻でした。いつか5人で！」",
@@ -36,50 +100,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "ab5f55f3efc5371a",
-      "title": "圧倒的な美しさ！M!LK佐野勇斗の無造作ヘアでカメラを見つめる爆イケショットに「本当にきれいなお顔」「どの角度からでもビジュ良すぎ」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000885050/",
-      "publishedAt": "2026-09-19T08:40:11.000Z",
-      "summary": "『Ray』2026年9月号特別版の表紙をつとめた、M!LKの佐野勇斗。その9月号が大好評だったことを...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "40c76681bcc890a1",
-      "title": "吉田仁人（M!LK）主演ドラマ『溺愛 ～ 実は、最強ヒーロー ～』TVer限定のPR動画公開！メイキングや貴重なスペシャルコメントも",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000884898/",
-      "publishedAt": "2026-09-19T08:00:12.000Z",
-      "summary": "吉田仁人（M!LK）が主演を務める新金曜ドラマ『溺愛 〜 実は、最強ヒーロー 〜』を、TOKYO MX...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "b8b6de13c2a73535",
@@ -164,20 +184,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "5dca4d9b4d749857",
-      "title": "M!LK5人、横顔まで“ビジュ最強”美貌際立つショットを厳選！ステージでの凛々しい姿からプライベートショットまで",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000881016/",
-      "publishedAt": "2026-09-19T01:00:39.000Z",
-      "summary": "M!LKの魅力を引き立てるのは、正面からのビジュアルだけではない。ふとした瞬間に見せる横顔か...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "3243f7a914d7a30a",
@@ -317,20 +323,6 @@
       "summary": "「SUPER★DRAGON DRA FES 2026」9月24日(木)東京公演、9月27日(日)大阪公演につきまして、 2F後方立見の追加販売が決定いたしました。 9月17日(木)19:00より〈先着〉にて販売開始！ 会 […] The post 「SUPER★DRAGON DRA FES 2026」9月公演 追加販売情報 first appeared on",
       "groups": [
         "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "93667d7b868d4b70",
-      "title": "テレビ解説者・木村隆志のヨミトキ 第128回 なぜモナキと“おかっぱおヨネ”は愛されるのか 早くも「紅白間違いなし」の声、異例ブレイクの背景",
-      "sourceName": "マイナビニュース テレビ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-      "articleUrl": "https://news.mynavi.jp/article/yomitoki-128/",
-      "publishedAt": "2026-09-16T02:00:00.000Z",
-      "summary": "今年最も活躍したアイドルと言えばM!LKで間違いない一方で、デビューからの初速では「歴代最速」と言われているのがモナキ。なぜ短期間でこれほどのブレイクとなったのか。彼らは業界内でどのように評価されているのか。テレビ解説者の木村隆志が掘り下げていく。",
-      "groups": [
-        "M!LK"
       ],
       "statuses": [],
       "memberMatches": []
@@ -2079,35 +2071,6 @@
       "articleUrl": "https://super-dragon.jp/news/news10989/",
       "publishedAt": "2026-05-20T11:00:16.000Z",
       "summary": "7月15日発売のMajor 6th Single 『Call Me Asap / NUMBER』より、新曲「Call Me Asap」を6月8日に先行配信リリースすることが決定！ あわせて、同楽曲がTVアニメ『神の雫』第 […] The post SUPER★DRAGON 新曲「Call Me Asap」がTVアニメ『神の雫』第2クールオープニングテーマに決",
-      "groups": [
-        "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "24012f60543f6331",
-      "title": "EBiDAN15周年記念シングル「Yes! 東京」発売記念リリースイベント『Yes! 飛び出せ! 僕らの移動教室』開催決定！",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news10969/",
-      "publishedAt": "2026-05-15T07:00:34.000Z",
-      "summary": "2026年8月11日(火・祝)に発売のEBiDAN15周年記念シングル「Yes! 東京」のリリースイベント『Yes! 飛び出せ! 僕らの移動教室』の開催が決定いたしました。 15周年の特別な節目を、皆さまと一緒に最高に盛 […] The post EBiDAN15周年記念シングル「Yes! 東京」発売記念リリースイベント『Yes! 飛び出せ! 僕らの移動教室",
-      "groups": [
-        "EBiDAN",
-        "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "53b96b1754a45768",
-      "title": "SUPER★DRAGON LIVE TOUR 2026 「Studio」オフィシャルグッズ、ミニ生写真セット 事後通販決定！",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news10954/",
-      "publishedAt": "2026-05-14T09:59:04.000Z",
-      "summary": "SUPER★DRAGON LIVE TOUR 2026 「Studio」オフィシャルグッズ、ミニ生写真セットの事後通販が決定しました！ 残りわずかな商品もございますので、この機会をお見逃しなく！！ 【販売期 […] The post SUPER★DRAGON LIVE TOUR 2026 「Studio」オフィシャルグッズ、ミニ生写真セット 事後通販決定！ ",
       "groups": [
         "SUPER★DRAGON"
       ],

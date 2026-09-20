@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-09-19T20:39:46.987Z",
+  "updatedAt": "2026-09-20T04:53:29.155Z",
   "totals": {
-    "all": 126,
-    "today": 0,
+    "all": 124,
+    "today": 4,
     "week": 18
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 11
+      "count": 9
     },
     {
       "name": "SUPER★DRAGON",
-      "count": 4
+      "count": 6
     },
     {
       "name": "原因は自分にある。",
@@ -37,10 +37,6 @@
       "count": 3
     },
     {
-      "name": "佐野勇斗",
-      "count": 3
-    },
-    {
       "name": "山中柔太朗",
       "count": 3
     },
@@ -49,18 +45,22 @@
       "count": 3
     },
     {
+      "name": "佐野勇斗",
+      "count": 2
+    },
+    {
       "name": "吉澤要人",
       "count": 1
     }
   ],
   "sourceRanking": [
     {
-      "name": "THE FIRST TIMES",
-      "count": 5
+      "name": "SUPER★DRAGON 公式NEWS",
+      "count": 6
     },
     {
-      "name": "SUPER★DRAGON 公式NEWS",
-      "count": 4
+      "name": "THE FIRST TIMES",
+      "count": 3
     },
     {
       "name": "タワーレコード ニュース",
@@ -71,11 +71,15 @@
       "count": 2
     },
     {
-      "name": "マイナビニュース テレビ",
-      "count": 2
+      "name": "QJWeb",
+      "count": 1
     },
     {
-      "name": "QJWeb",
+      "name": "WWSチャンネル",
+      "count": 1
+    },
+    {
+      "name": "マイナビニュース テレビ",
       "count": 1
     },
     {
@@ -85,131 +89,35 @@
   ],
   "topics": [],
   "recentByGroup": {
-    "M!LK": [
+    "SUPER★DRAGON": [
       {
-        "id": "6f9fe14356119a9a",
-        "title": "M!LK吉田仁人が超ワイドデニム＆背番号“369”で豪快ノーバン投球「初の東京ドームは圧巻でした。いつか5人で！」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000885248/",
-        "publishedAt": "2026-09-19T12:54:00.000Z",
-        "summary": "M!LKの吉田仁人が自身のInstagramを更新し、9月19日に東京ドームで行われた巨人対中日戦「日テ...",
+        "id": "6e8ea1fd5513e5f5",
+        "title": "SUPER★DRAGON DRA FES 2026 +KIRARIブース実施のお知らせ！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11654/",
+        "publishedAt": "2026-09-20T03:30:38.000Z",
+        "summary": "「SUPER★DRAGON DRA FES 2026」9月24日(木)東京公演、9月27日(日)大阪公演にて+KIRARIブースの実施が決定いたしました！ ▼+KIRARIブース実施内容 ★12ヶ月プラン限定来場者プレゼ […] The post SUPER★DRAGON DRA FES 2026 +KIRARIブース実施のお知らせ！ first appea",
         "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "75a7c04320ae4408",
-        "title": "M!LK「ときユニ」衣装の『Mステ』オフショット公開＆トレンド1位を報告！「初披露パフォーマンス最高」「かっこよくてテンション上がった」「元気もらえた」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000885165/",
-        "publishedAt": "2026-09-19T09:31:10.000Z",
-        "summary": "M!LK公式SNSにて『ミュージックステーション』のオフショットが公開された。M!LKは、9月18日の...",
-        "groups": [
-          "M!LK"
+          "SUPER★DRAGON"
         ],
         "statuses": [],
         "memberMatches": []
       },
       {
-        "id": "ab5f55f3efc5371a",
-        "title": "圧倒的な美しさ！M!LK佐野勇斗の無造作ヘアでカメラを見つめる爆イケショットに「本当にきれいなお顔」「どの角度からでもビジュ良すぎ」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000885050/",
-        "publishedAt": "2026-09-19T08:40:11.000Z",
-        "summary": "『Ray』2026年9月号特別版の表紙をつとめた、M!LKの佐野勇斗。その9月号が大好評だったことを...",
+        "id": "70d0377384b222c4",
+        "title": "「SUPER★DRAGON DRA FES 2026 SCRATCH」開催のお知らせ",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11649/",
+        "publishedAt": "2026-09-20T03:00:26.000Z",
+        "summary": "「SUPER★DRAGON DRA FES 2026」の開催を記念して、9月24日(木)東京公演、9月27日(日)大阪公演当日に「SUPER★DRAGON DRA FES 2026 SCRATCH」の開催が決定しました！ […] The post 「SUPER★DRAGON DRA FES 2026 SCRATCH」開催のお知らせ first appeare",
         "groups": [
-          "M!LK"
+          "SUPER★DRAGON"
         ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
+        "statuses": [],
+        "memberMatches": []
       },
-      {
-        "id": "40c76681bcc890a1",
-        "title": "吉田仁人（M!LK）主演ドラマ『溺愛 ～ 実は、最強ヒーロー ～』TVer限定のPR動画公開！メイキングや貴重なスペシャルコメントも",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000884898/",
-        "publishedAt": "2026-09-19T08:00:12.000Z",
-        "summary": "吉田仁人（M!LK）が主演を務める新金曜ドラマ『溺愛 〜 実は、最強ヒーロー 〜』を、TOKYO MX...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "b8b6de13c2a73535",
-        "title": "「LOVE ENG!NE パワーステーション」自転車漕いでM!LK特製ステッカーなど抽選で！クリアポーチも公開",
-        "sourceName": "Edge Line",
-        "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-        "articleUrl": "https://www.edgeline-tokyo.com/entertainment/205474",
-        "publishedAt": "2026-09-19T04:38:43.000Z",
-        "summary": "佐野勇斗、吉田仁人、塩﨑太智、山中柔太朗、曽野舜太によるダンスボーカルグループ『M!LK』が9月16日に発売したMini Album『LOVE ENG!NE』。その世界観を体感できるイベント『LOVE ENG!NE パ...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      }
-    ],
-    "SUPER★DRAGON": [
       {
         "id": "3243f7a914d7a30a",
         "title": "「SUPER★DRAGON DRA FES 2026 追加公演」最新チケット情報",
@@ -252,35 +160,122 @@
         ],
         "statuses": [],
         "memberMatches": []
-      },
+      }
+    ],
+    "M!LK": [
       {
-        "id": "cf6308803ceecc3b",
-        "title": "「SUPER★DRAGON DRA FES 2026」9月公演 チケットトレード情報",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11628/",
-        "publishedAt": "2026-09-15T09:00:34.000Z",
-        "summary": "「SUPER★DRAGON DRA FES 2026」9月24日(木)東京公演、9月27日(日)大阪公演のチケットトレード実施が決定しました。 本日9月15日(火)18:00より開始いたします。 チケットの出品をご希望の […] The post 「SUPER★DRAGON DRA FES 2026」9月公演 チケットトレード情報 first appeare",
+        "id": "98d56a3bd9a2fa50",
+        "title": "M!LK5人の無邪気なショットを厳選！無防備な寝転び姿からプライベート感溢れる姿まで",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000881048/",
+        "publishedAt": "2026-09-20T02:00:11.000Z",
+        "summary": "ステージで見せる姿とはひと味違う、M!LKメンバーのプライベート感溢れるショットに注目。イル...",
         "groups": [
-          "SUPER★DRAGON"
+          "M!LK"
         ],
         "statuses": [],
         "memberMatches": []
       },
       {
-        "id": "59de9ad852459f17",
-        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』 最新チケット情報",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11626/",
-        "publishedAt": "2026-09-12T05:00:07.000Z",
-        "summary": "本日9月12日(土)14:00よりローソンチケット プレリクエスト先行受付開始！ 皆さんとお会いできることを楽しみにしております！ 第６回EBiDAN大運動会『スポーツマンヒップ！』 【千葉】L […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』 最新チケット情報 first appeared on SUPER★DRAGON .",
+        "id": "b62c41423fec0423",
+        "title": "M!LK吉田仁人、連ドラ初主演作「溺愛」PR動画公開！本格アクションの練習風景も",
+        "sourceName": "WWSチャンネル",
+        "sourceUrl": "https://www.wws-channel.com/feed",
+        "articleUrl": "https://www.wws-channel.com/tv/668665.html",
+        "publishedAt": "2026-09-19T22:00:31.000Z",
+        "summary": "M!LKの吉田仁人が主演を務める新金曜ドラマ「溺愛 ～ 実は、最強ヒーロー ～」が、10月30日よりTOKYO MXで放送される。このほどTVerの番組ページが開設され、限定PR動画が公開された。本作は、シリーズ累計3400万ダウンロードを突破した一城れもん、海咲ねむる ... The post M!LK吉田仁人、連ドラ初主演作「溺愛」PR動画公開！本格アク",
         "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "6f9fe14356119a9a",
+        "title": "M!LK吉田仁人が超ワイドデニム＆背番号“369”で豪快ノーバン投球「初の東京ドームは圧巻でした。いつか5人で！」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000885248/",
+        "publishedAt": "2026-09-19T12:54:00.000Z",
+        "summary": "M!LKの吉田仁人が自身のInstagramを更新し、9月19日に東京ドームで行われた巨人対中日戦「日テ...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "75a7c04320ae4408",
+        "title": "M!LK「ときユニ」衣装の『Mステ』オフショット公開＆トレンド1位を報告！「初披露パフォーマンス最高」「かっこよくてテンション上がった」「元気もらえた」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000885165/",
+        "publishedAt": "2026-09-19T09:31:10.000Z",
+        "summary": "M!LK公式SNSにて『ミュージックステーション』のオフショットが公開された。M!LKは、9月18日の...",
+        "groups": [
+          "M!LK"
         ],
         "statuses": [],
         "memberMatches": []
+      },
+      {
+        "id": "b8b6de13c2a73535",
+        "title": "「LOVE ENG!NE パワーステーション」自転車漕いでM!LK特製ステッカーなど抽選で！クリアポーチも公開",
+        "sourceName": "Edge Line",
+        "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+        "articleUrl": "https://www.edgeline-tokyo.com/entertainment/205474",
+        "publishedAt": "2026-09-19T04:38:43.000Z",
+        "summary": "佐野勇斗、吉田仁人、塩﨑太智、山中柔太朗、曽野舜太によるダンスボーカルグループ『M!LK』が9月16日に発売したMini Album『LOVE ENG!NE』。その世界観を体感できるイベント『LOVE ENG!NE パ...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
       }
     ],
     "原因は自分にある。": [
