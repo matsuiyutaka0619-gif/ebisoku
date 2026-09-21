@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-20T20:48:39.442Z",
+  "updatedAt": "2026-09-21T04:55:18.185Z",
   "totals": {
     "all": 120,
-    "today": 0,
+    "today": 1,
     "week": 14
   },
   "groupRanking": [
@@ -12,7 +12,7 @@
     },
     {
       "name": "M!LK",
-      "count": 4
+      "count": 5
     },
     {
       "name": "原因は自分にある。",
@@ -25,13 +25,13 @@
     {
       "name": "ONE N' ONLY",
       "count": 1
-    },
-    {
-      "name": "Sakurashimeji",
-      "count": 1
     }
   ],
   "memberRanking": [
+    {
+      "name": "曽野舜太",
+      "count": 2
+    },
     {
       "name": "塩﨑太智",
       "count": 1
@@ -45,19 +45,11 @@
       "count": 1
     },
     {
+      "name": "佐野勇斗",
+      "count": 1
+    },
+    {
       "name": "山中柔太朗",
-      "count": 1
-    },
-    {
-      "name": "曽野舜太",
-      "count": 1
-    },
-    {
-      "name": "田中雅功",
-      "count": 1
-    },
-    {
-      "name": "髙田彪我",
       "count": 1
     }
   ],
@@ -93,127 +85,34 @@
   ],
   "topics": [],
   "recentByGroup": {
-    "Sakurashimeji": [
+    "M!LK": [
       {
-        "id": "552496363543b267",
-        "title": "【ライブレポート】Sakurashimeji、雨が降りしきるなか約2,500人の前でフリーライブ開催",
+        "id": "22a9e91b51b1d4a8",
+        "title": "M!LK曽野舜太「雨のロッキン！楽しすぎて滅！」佐野勇斗「ずっと憧れていたこの景色！！」『ROCK IN JAPAN FESTIVAL 2026』初出演で圧巻のパフォーマンス",
         "sourceName": "THE FIRST TIMES",
         "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/report/0000885385/",
-        "publishedAt": "2026-09-20T07:00:10.000Z",
-        "summary": "ギターデュオ・田中雅功と高田彪我（高の正式表記ははしごだか）からなるSakurashimejiが9月19...",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000885788/",
+        "publishedAt": "2026-09-21T04:25:34.000Z",
+        "summary": "9月20日に千葉市蘇我スポーツ公園で開催された『ROCK IN JAPAN FESTIVAL 2026』に初出演を果た...",
         "groups": [
-          "Sakurashimeji"
+          "M!LK"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "田中雅功",
-            "group": "Sakurashimeji",
+            "name": "佐野勇斗",
+            "group": "M!LK",
             "status": "active"
           },
           {
-            "name": "髙田彪我",
-            "group": "Sakurashimeji",
+            "name": "曽野舜太",
+            "group": "M!LK",
             "status": "active"
           }
         ]
       },
-      {
-        "id": "47f16c975ff422cd",
-        "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11607/",
-        "publishedAt": "2026-09-02T12:34:24.000Z",
-        "summary": "平素より株式会社SDR所属アーティストへの温かいご声援を賜り、誠にありがとうございます。 DISH//、EBiDAN（超特急、M!LK、SUPER★DRAGON、Sakurashimeji、ONE N’ ON […] The post グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ first appeared on SUPER★DRAGO",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK",
-          "SUPER★DRAGON",
-          "Sakurashimeji"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "SUPER★DRAGON": [
-      {
-        "id": "6e8ea1fd5513e5f5",
-        "title": "SUPER★DRAGON DRA FES 2026 +KIRARIブース実施のお知らせ！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11654/",
-        "publishedAt": "2026-09-20T03:30:38.000Z",
-        "summary": "「SUPER★DRAGON DRA FES 2026」9月24日(木)東京公演、9月27日(日)大阪公演にて+KIRARIブースの実施が決定いたしました！ ▼+KIRARIブース実施内容 ★12ヶ月プラン限定来場者プレゼ […] The post SUPER★DRAGON DRA FES 2026 +KIRARIブース実施のお知らせ！ first appea",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "70d0377384b222c4",
-        "title": "「SUPER★DRAGON DRA FES 2026 SCRATCH」開催のお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11649/",
-        "publishedAt": "2026-09-20T03:00:26.000Z",
-        "summary": "「SUPER★DRAGON DRA FES 2026」の開催を記念して、9月24日(木)東京公演、9月27日(日)大阪公演当日に「SUPER★DRAGON DRA FES 2026 SCRATCH」の開催が決定しました！ […] The post 「SUPER★DRAGON DRA FES 2026 SCRATCH」開催のお知らせ first appeare",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "3243f7a914d7a30a",
-        "title": "「SUPER★DRAGON DRA FES 2026 追加公演」最新チケット情報",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11647/",
-        "publishedAt": "2026-09-18T09:00:56.000Z",
-        "summary": "本日9月18日(金)18:00より、ローソンチケットにてプレリクエスト先行〈抽選〉受付開始。 会場で皆さんとお会いできることを楽しみにしております！ ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願い […] The post 「SUPER★DRAGON DRA FES 2026 追加公演」最新チケット情報 first appeared ",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "0d6f12771cde1aed",
-        "title": "「SUPER★DRAGON DRA FES 2026」 【9/24(木)東京・9/27(日)大阪】オフィシャルグッズ、ミニ生写真セット 会場販売のお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11635/",
-        "publishedAt": "2026-09-17T07:00:15.000Z",
-        "summary": "東京、大阪公演会場より、「会場別ラメアクリルキーホルダー」、ミニ生写真セット「第9弾」、「第10弾」が新登場！ さらに、該当公演のチケットをお持ちの方を対象に、事前にグッズの注文リスト作成が可能な〈EBiDANアプリ(G […] The post 「SUPER★DRAGON DRA FES 2026」 【9/24(木)東京・9/27(日)大阪】オフィシャルグ",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "de5aabee4ecd82b3",
-        "title": "「SUPER★DRAGON DRA FES 2026」9月公演 追加販売情報",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11630/",
-        "publishedAt": "2026-09-16T10:00:46.000Z",
-        "summary": "「SUPER★DRAGON DRA FES 2026」9月24日(木)東京公演、9月27日(日)大阪公演につきまして、 2F後方立見の追加販売が決定いたしました。 9月17日(木)19:00より〈先着〉にて販売開始！ 会 […] The post 「SUPER★DRAGON DRA FES 2026」9月公演 追加販売情報 first appeared on",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "M!LK": [
       {
         "id": "b62c41423fec0423",
         "title": "M!LK吉田仁人、連ドラ初主演作「溺愛」PR動画公開！本格アクションの練習風景も",
@@ -298,17 +197,76 @@
         ],
         "statuses": [],
         "memberMatches": []
+      }
+    ],
+    "SUPER★DRAGON": [
+      {
+        "id": "6e8ea1fd5513e5f5",
+        "title": "SUPER★DRAGON DRA FES 2026 +KIRARIブース実施のお知らせ！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11654/",
+        "publishedAt": "2026-09-20T03:30:38.000Z",
+        "summary": "「SUPER★DRAGON DRA FES 2026」9月24日(木)東京公演、9月27日(日)大阪公演にて+KIRARIブースの実施が決定いたしました！ ▼+KIRARIブース実施内容 ★12ヶ月プラン限定来場者プレゼ […] The post SUPER★DRAGON DRA FES 2026 +KIRARIブース実施のお知らせ！ first appea",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
       },
       {
-        "id": "976120bc3101651a",
-        "title": "M!LKが“ユニバース”を背負う新アー写公開、1stミニアルバムリード曲は早くもチャート席巻中",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/09/91880/",
-        "publishedAt": "2026-09-08T09:00:00.000Z",
-        "summary": "5人組ダンスボーカルグループ・M!LKが、9月16日(水)に控えるミニアルバム『LOVE ENG!NE』リリースに先駆けて最新アーティスト写真を公開した。 M!LKにとって初ミニアルバムとなる本作からは、リード曲「時空超えてユニバース」（ときこえてゆにばーす）の先行配信が9月7日(月)にスタート。配信開始直後からXのトレンドで「#ときユニ」が1位を獲得したほ",
+        "id": "70d0377384b222c4",
+        "title": "「SUPER★DRAGON DRA FES 2026 SCRATCH」開催のお知らせ",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11649/",
+        "publishedAt": "2026-09-20T03:00:26.000Z",
+        "summary": "「SUPER★DRAGON DRA FES 2026」の開催を記念して、9月24日(木)東京公演、9月27日(日)大阪公演当日に「SUPER★DRAGON DRA FES 2026 SCRATCH」の開催が決定しました！ […] The post 「SUPER★DRAGON DRA FES 2026 SCRATCH」開催のお知らせ first appeare",
         "groups": [
-          "M!LK"
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "3243f7a914d7a30a",
+        "title": "「SUPER★DRAGON DRA FES 2026 追加公演」最新チケット情報",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11647/",
+        "publishedAt": "2026-09-18T09:00:56.000Z",
+        "summary": "本日9月18日(金)18:00より、ローソンチケットにてプレリクエスト先行〈抽選〉受付開始。 会場で皆さんとお会いできることを楽しみにしております！ ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願い […] The post 「SUPER★DRAGON DRA FES 2026 追加公演」最新チケット情報 first appeared ",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "0d6f12771cde1aed",
+        "title": "「SUPER★DRAGON DRA FES 2026」 【9/24(木)東京・9/27(日)大阪】オフィシャルグッズ、ミニ生写真セット 会場販売のお知らせ",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11635/",
+        "publishedAt": "2026-09-17T07:00:15.000Z",
+        "summary": "東京、大阪公演会場より、「会場別ラメアクリルキーホルダー」、ミニ生写真セット「第9弾」、「第10弾」が新登場！ さらに、該当公演のチケットをお持ちの方を対象に、事前にグッズの注文リスト作成が可能な〈EBiDANアプリ(G […] The post 「SUPER★DRAGON DRA FES 2026」 【9/24(木)東京・9/27(日)大阪】オフィシャルグ",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "de5aabee4ecd82b3",
+        "title": "「SUPER★DRAGON DRA FES 2026」9月公演 追加販売情報",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11630/",
+        "publishedAt": "2026-09-16T10:00:46.000Z",
+        "summary": "「SUPER★DRAGON DRA FES 2026」9月24日(木)東京公演、9月27日(日)大阪公演につきまして、 2F後方立見の追加販売が決定いたしました。 9月17日(木)19:00より〈先着〉にて販売開始！ 会 […] The post 「SUPER★DRAGON DRA FES 2026」9月公演 追加販売情報 first appeared on",
+        "groups": [
+          "SUPER★DRAGON"
         ],
         "statuses": [],
         "memberMatches": []
@@ -530,6 +488,26 @@
           "超特急",
           "M!LK",
           "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
+    "Sakurashimeji": [
+      {
+        "id": "47f16c975ff422cd",
+        "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11607/",
+        "publishedAt": "2026-09-02T12:34:24.000Z",
+        "summary": "平素より株式会社SDR所属アーティストへの温かいご声援を賜り、誠にありがとうございます。 DISH//、EBiDAN（超特急、M!LK、SUPER★DRAGON、Sakurashimeji、ONE N’ ON […] The post グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ first appeared on SUPER★DRAGO",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK",
+          "SUPER★DRAGON",
+          "Sakurashimeji"
         ],
         "statuses": [],
         "memberMatches": []
