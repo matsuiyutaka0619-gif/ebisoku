@@ -1,32 +1,19 @@
 {
-  "updatedAt": "2026-09-21T12:47:31.479Z",
+  "updatedAt": "2026-09-21T21:58:53.655Z",
   "articles": [
     {
-      "id": "22a9e91b51b1d4a8",
-      "title": "M!LK曽野舜太「雨のロッキン！楽しすぎて滅！」佐野勇斗「ずっと憧れていたこの景色！！」『ROCK IN JAPAN FESTIVAL 2026』初出演で圧巻のパフォーマンス",
+      "id": "30bb5d22c25cd470",
+      "title": "M!LKアルバム『LOVE ENG!NE』初週売上91.6万枚で初登場1位！INIは史上5組目の記録達成【オリコン週間音楽ランキング】",
       "sourceName": "THE FIRST TIMES",
       "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000885788/",
-      "publishedAt": "2026-09-21T04:25:34.000Z",
-      "summary": "9月20日に千葉市蘇我スポーツ公園で開催された『ROCK IN JAPAN FESTIVAL 2026』に初出演を果た...",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000886064/",
+      "publishedAt": "2026-09-21T19:00:55.000Z",
+      "summary": "2026年9月28日付オリコン週間音楽ランキング（集計期間：2026年9月14日～9月20日）が発表され...",
       "groups": [
         "M!LK"
       ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "曽野舜太",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
+      "statuses": [],
+      "memberMatches": []
     },
     {
       "id": "6e8ea1fd5513e5f5",
@@ -194,20 +181,6 @@
       "summary": "「SUPER★DRAGON DRA FES 2026」9月24日(木)東京公演、9月27日(日)大阪公演につきまして、 2F後方立見の追加販売が決定いたしました。 9月17日(木)19:00より〈先着〉にて販売開始！ 会 […] The post 「SUPER★DRAGON DRA FES 2026」9月公演 追加販売情報 first appeared on",
       "groups": [
         "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "abf0cc2d5208609a",
-      "title": "ONE N’ ONLYがファンとともに起こす魂の熱波。初参戦ライターが圧倒された『INFERNO』ツアー",
-      "sourceName": "QJWeb",
-      "sourceUrl": "https://qjweb.jp/feed/",
-      "articleUrl": "https://qjweb.jp/column/165175/",
-      "publishedAt": "2026-09-15T10:00:00.000Z",
-      "summary": "5人組ダンス＆ボーカルユニット「ONE N’ ONLY（ワンエンオンリー）」が、自身初となるアリーナツアー『LIVE TOUR 2026「INFERNO」』を2都市5公演で開催。 本稿では9月13日に開催された国立代々木競技場 第一体育館での公演の模様を、ONE N’ ONLYのライブ初参加のライタ.. 投稿 ONE N’ ONLYがファンとともに起こす魂の",
-      "groups": [
-        "ONE N' ONLY"
       ],
       "statuses": [],
       "memberMatches": []

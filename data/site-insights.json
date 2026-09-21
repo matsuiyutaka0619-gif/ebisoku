@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-21T12:47:31.481Z",
+  "updatedAt": "2026-09-21T21:58:53.658Z",
   "totals": {
-    "all": 119,
+    "all": 118,
     "today": 1,
-    "week": 13
+    "week": 12
   },
   "groupRanking": [
     {
@@ -21,17 +21,9 @@
     {
       "name": "EBiDAN",
       "count": 1
-    },
-    {
-      "name": "ONE N' ONLY",
-      "count": 1
     }
   ],
   "memberRanking": [
-    {
-      "name": "曽野舜太",
-      "count": 2
-    },
     {
       "name": "塩﨑太智",
       "count": 1
@@ -41,11 +33,11 @@
       "count": 1
     },
     {
-      "name": "佐野勇斗",
+      "name": "山中柔太朗",
       "count": 1
     },
     {
-      "name": "山中柔太朗",
+      "name": "曽野舜太",
       "count": 1
     }
   ],
@@ -57,10 +49,6 @@
     {
       "name": "タワーレコード ニュース",
       "count": 3
-    },
-    {
-      "name": "QJWeb",
-      "count": 1
     },
     {
       "name": "THE FIRST TIMES",
@@ -79,31 +67,18 @@
   "recentByGroup": {
     "M!LK": [
       {
-        "id": "22a9e91b51b1d4a8",
-        "title": "M!LK曽野舜太「雨のロッキン！楽しすぎて滅！」佐野勇斗「ずっと憧れていたこの景色！！」『ROCK IN JAPAN FESTIVAL 2026』初出演で圧巻のパフォーマンス",
+        "id": "30bb5d22c25cd470",
+        "title": "M!LKアルバム『LOVE ENG!NE』初週売上91.6万枚で初登場1位！INIは史上5組目の記録達成【オリコン週間音楽ランキング】",
         "sourceName": "THE FIRST TIMES",
         "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000885788/",
-        "publishedAt": "2026-09-21T04:25:34.000Z",
-        "summary": "9月20日に千葉市蘇我スポーツ公園で開催された『ROCK IN JAPAN FESTIVAL 2026』に初出演を果た...",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000886064/",
+        "publishedAt": "2026-09-21T19:00:55.000Z",
+        "summary": "2026年9月28日付オリコン週間音楽ランキング（集計期間：2026年9月14日～9月20日）が発表され...",
         "groups": [
           "M!LK"
         ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
+        "statuses": [],
+        "memberMatches": []
       },
       {
         "id": "9167d35f87358191",
@@ -397,22 +372,6 @@
         "groups": [
           "EBiDAN",
           "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "ONE N' ONLY": [
-      {
-        "id": "abf0cc2d5208609a",
-        "title": "ONE N’ ONLYがファンとともに起こす魂の熱波。初参戦ライターが圧倒された『INFERNO』ツアー",
-        "sourceName": "QJWeb",
-        "sourceUrl": "https://qjweb.jp/feed/",
-        "articleUrl": "https://qjweb.jp/column/165175/",
-        "publishedAt": "2026-09-15T10:00:00.000Z",
-        "summary": "5人組ダンス＆ボーカルユニット「ONE N’ ONLY（ワンエンオンリー）」が、自身初となるアリーナツアー『LIVE TOUR 2026「INFERNO」』を2都市5公演で開催。 本稿では9月13日に開催された国立代々木競技場 第一体育館での公演の模様を、ONE N’ ONLYのライブ初参加のライタ.. 投稿 ONE N’ ONLYがファンとともに起こす魂の",
-        "groups": [
-          "ONE N' ONLY"
         ],
         "statuses": [],
         "memberMatches": []
