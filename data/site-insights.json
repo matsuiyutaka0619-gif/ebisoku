@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-21T04:55:18.185Z",
+  "updatedAt": "2026-09-21T12:47:31.481Z",
   "totals": {
-    "all": 120,
+    "all": 119,
     "today": 1,
-    "week": 14
+    "week": 13
   },
   "groupRanking": [
     {
@@ -12,7 +12,7 @@
     },
     {
       "name": "M!LK",
-      "count": 5
+      "count": 4
     },
     {
       "name": "原因は自分にある。",
@@ -34,10 +34,6 @@
     },
     {
       "name": "塩﨑太智",
-      "count": 1
-    },
-    {
-      "name": "吉田仁人",
       "count": 1
     },
     {
@@ -68,10 +64,6 @@
     },
     {
       "name": "THE FIRST TIMES",
-      "count": 1
-    },
-    {
-      "name": "WWSチャンネル",
       "count": 1
     },
     {
@@ -108,28 +100,6 @@
           },
           {
             "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "b62c41423fec0423",
-        "title": "M!LK吉田仁人、連ドラ初主演作「溺愛」PR動画公開！本格アクションの練習風景も",
-        "sourceName": "WWSチャンネル",
-        "sourceUrl": "https://www.wws-channel.com/feed",
-        "articleUrl": "https://www.wws-channel.com/tv/668665.html",
-        "publishedAt": "2026-09-19T22:00:31.000Z",
-        "summary": "M!LKの吉田仁人が主演を務める新金曜ドラマ「溺愛 ～ 実は、最強ヒーロー ～」が、10月30日よりTOKYO MXで放送される。このほどTVerの番組ページが開設され、限定PR動画が公開された。本作は、シリーズ累計3400万ダウンロードを突破した一城れもん、海咲ねむる ... The post M!LK吉田仁人、連ドラ初主演作「溺愛」PR動画公開！本格アク",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
             "group": "M!LK",
             "status": "active"
           }
@@ -192,6 +162,20 @@
         "articleUrl": "https://tower.jp/article/news/2026/09/17/tg002",
         "publishedAt": "2026-09-17T09:20:00.000Z",
         "summary": "",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "976120bc3101651a",
+        "title": "M!LKが“ユニバース”を背負う新アー写公開、1stミニアルバムリード曲は早くもチャート席巻中",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/09/91880/",
+        "publishedAt": "2026-09-08T09:00:00.000Z",
+        "summary": "5人組ダンスボーカルグループ・M!LKが、9月16日(水)に控えるミニアルバム『LOVE ENG!NE』リリースに先駆けて最新アーティスト写真を公開した。 M!LKにとって初ミニアルバムとなる本作からは、リード曲「時空超えてユニバース」（ときこえてゆにばーす）の先行配信が9月7日(月)にスタート。配信開始直後からXのトレンドで「#ときユニ」が1位を獲得したほ",
         "groups": [
           "M!LK"
         ],
