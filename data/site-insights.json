@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-22T04:55:22.173Z",
+  "updatedAt": "2026-09-22T11:37:49.211Z",
   "totals": {
     "all": 120,
-    "today": 2,
-    "week": 14
+    "today": 3,
+    "week": 13
   },
   "groupRanking": [
     {
       "name": "SUPER★DRAGON",
-      "count": 6
+      "count": 5
     },
     {
       "name": "M!LK",
@@ -23,11 +23,11 @@
       "count": 2
     },
     {
-      "name": "ICEx",
+      "name": "BUDDiiS",
       "count": 1
     },
     {
-      "name": "ONE N' ONLY",
+      "name": "ICEx",
       "count": 1
     }
   ],
@@ -52,7 +52,7 @@
   "sourceRanking": [
     {
       "name": "SUPER★DRAGON 公式NEWS",
-      "count": 6
+      "count": 5
     },
     {
       "name": "タワーレコード ニュース",
@@ -60,11 +60,7 @@
     },
     {
       "name": "BARKS",
-      "count": 1
-    },
-    {
-      "name": "QJWeb",
-      "count": 1
+      "count": 2
     },
     {
       "name": "THE FIRST TIMES",
@@ -81,6 +77,50 @@
   ],
   "topics": [],
   "recentByGroup": {
+    "BUDDiiS": [
+      {
+        "id": "3e25a546297e5352",
+        "title": "BUDDiiS、ミニライブにてメジャー2ndシングル「無限大LOVE!!!」を初披露。「無限大LOVE!!! (short ver. )」が各SNSにて配信も",
+        "sourceName": "BARKS",
+        "sourceUrl": "https://www.barks.jp/feed/",
+        "articleUrl": "https://barks.jp/news/1090569",
+        "publishedAt": "2026-09-22T06:00:00.000Z",
+        "summary": "BUDDiiSが、2026年11月18日に発売するメジャー2ndシングル「無限大LOVE!!!」のリリースイベントをスタートし、イベントで行われたミニライブにて「無限大LOVE!!!」のパフォーマンスを初披露した。 本ライブでは、1曲目に今年7月にリリースし話題を呼んだ「キミは都市伝説」、2曲目に大人の色気を纏った情熱的なナンバー「more rain」を披露",
+        "groups": [
+          "BUDDiiS"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "15fb9ee4d3775ce2",
+        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/07/89645/",
+        "publishedAt": "2026-07-24T12:00:00.000Z",
+        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
+        "groups": [
+          "原因は自分にある。",
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
+      }
+    ],
     "EBiDAN": [
       {
         "id": "0fa019f0e775c4b9",
@@ -410,22 +450,6 @@
         ]
       }
     ],
-    "ONE N' ONLY": [
-      {
-        "id": "abf0cc2d5208609a",
-        "title": "ONE N’ ONLYがファンとともに起こす魂の熱波。初参戦ライターが圧倒された『INFERNO』ツアー",
-        "sourceName": "QJWeb",
-        "sourceUrl": "https://qjweb.jp/feed/",
-        "articleUrl": "https://qjweb.jp/column/165175/",
-        "publishedAt": "2026-09-15T10:00:00.000Z",
-        "summary": "5人組ダンス＆ボーカルユニット「ONE N’ ONLY（ワンエンオンリー）」が、自身初となるアリーナツアー『LIVE TOUR 2026「INFERNO」』を2都市5公演で開催。 本稿では9月13日に開催された国立代々木競技場 第一体育館での公演の模様を、ONE N’ ONLYのライブ初参加のライタ.. 投稿 ONE N’ ONLYがファンとともに起こす魂の",
-        "groups": [
-          "ONE N' ONLY"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
     "超特急": [
       {
         "id": "47f16c975ff422cd",
@@ -503,36 +527,6 @@
         ],
         "statuses": [],
         "memberMatches": []
-      }
-    ],
-    "BUDDiiS": [
-      {
-        "id": "15fb9ee4d3775ce2",
-        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/07/89645/",
-        "publishedAt": "2026-07-24T12:00:00.000Z",
-        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
-        "groups": [
-          "原因は自分にある。",
-          "BUDDiiS"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "SHOOT",
-            "group": "BUDDiiS",
-            "status": "active"
-          }
-        ]
       }
     ]
   }
