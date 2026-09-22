@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-09-22T11:37:49.211Z",
+  "updatedAt": "2026-09-22T16:57:13.319Z",
   "totals": {
-    "all": 120,
-    "today": 3,
-    "week": 13
+    "all": 121,
+    "today": 1,
+    "week": 14
   },
   "groupRanking": [
     {
-      "name": "SUPER★DRAGON",
+      "name": "M!LK",
       "count": 5
     },
     {
-      "name": "M!LK",
-      "count": 4
+      "name": "SUPER★DRAGON",
+      "count": 5
     },
     {
       "name": "EBiDAN",
@@ -64,7 +64,7 @@
     },
     {
       "name": "THE FIRST TIMES",
-      "count": 1
+      "count": 2
     },
     {
       "name": "マイナビニュース テレビ",
@@ -77,6 +77,99 @@
   ],
   "topics": [],
   "recentByGroup": {
+    "M!LK": [
+      {
+        "id": "6256b02d3fdf6334",
+        "title": "M!LKがTVアニメ『超巡！超条先輩』オープニングテーマに決定！楽曲使用の第2弾メインPVも解禁",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000886338/",
+        "publishedAt": "2026-09-22T15:00:45.000Z",
+        "summary": "10月6日放送スタートのTVアニメ『超巡！超条先輩』のオープニングテーマが、M!LKの新曲「ザッ...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "30bb5d22c25cd470",
+        "title": "M!LKアルバム『LOVE ENG!NE』初週売上91.6万枚で初登場1位！INIは史上5組目の記録達成【オリコン週間音楽ランキング】",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000886064/",
+        "publishedAt": "2026-09-21T19:00:55.000Z",
+        "summary": "2026年9月28日付オリコン週間音楽ランキング（集計期間：2026年9月14日～9月20日）が発表され...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "9167d35f87358191",
+        "title": "山中柔太朗×曽野舜太（M!LK）、「BAILA（バイラ） 2026年11月号」特別版表紙に登場",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/09/18/tgb003",
+        "publishedAt": "2026-09-18T04:00:00.000Z",
+        "summary": "",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "49edc5506ca31eb4",
+        "title": "「これ、リリイベだよね!?」「ライブみたい」M!LK、アリーナを埋め尽くす9,000人のファンを前に全4曲披露 塩崎太智がメンバーに詰め寄られるハプニングも",
+        "sourceName": "マイナビニュース 芸能",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
+        "articleUrl": "https://news.mynavi.jp/article/20260917-4982497/",
+        "publishedAt": "2026-09-17T10:00:00.000Z",
+        "summary": "5人組ダンスボーカルグループ・M!LKが16日、東京・有明アリーナでミニアルバム『LOVE ENG!NE』の発売日記念スペシャルイベントを開催。約9,000人のファンを前にパフォーマンスを披露した。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "99b68b462a287606",
+        "title": "M!LK、1stミニ・アルバム『LOVE ENG!NE』リリース。発売記念スペシャル・イベントを東京 有明アリーナにて開催",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/09/17/tg002",
+        "publishedAt": "2026-09-17T09:20:00.000Z",
+        "summary": "",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
     "BUDDiiS": [
       {
         "id": "3e25a546297e5352",
@@ -213,99 +306,6 @@
         "groups": [
           "EBiDAN",
           "ICEx"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "M!LK": [
-      {
-        "id": "30bb5d22c25cd470",
-        "title": "M!LKアルバム『LOVE ENG!NE』初週売上91.6万枚で初登場1位！INIは史上5組目の記録達成【オリコン週間音楽ランキング】",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000886064/",
-        "publishedAt": "2026-09-21T19:00:55.000Z",
-        "summary": "2026年9月28日付オリコン週間音楽ランキング（集計期間：2026年9月14日～9月20日）が発表され...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "9167d35f87358191",
-        "title": "山中柔太朗×曽野舜太（M!LK）、「BAILA（バイラ） 2026年11月号」特別版表紙に登場",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/09/18/tgb003",
-        "publishedAt": "2026-09-18T04:00:00.000Z",
-        "summary": "",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "49edc5506ca31eb4",
-        "title": "「これ、リリイベだよね!?」「ライブみたい」M!LK、アリーナを埋め尽くす9,000人のファンを前に全4曲披露 塩崎太智がメンバーに詰め寄られるハプニングも",
-        "sourceName": "マイナビニュース 芸能",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-        "articleUrl": "https://news.mynavi.jp/article/20260917-4982497/",
-        "publishedAt": "2026-09-17T10:00:00.000Z",
-        "summary": "5人組ダンスボーカルグループ・M!LKが16日、東京・有明アリーナでミニアルバム『LOVE ENG!NE』の発売日記念スペシャルイベントを開催。約9,000人のファンを前にパフォーマンスを披露した。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "99b68b462a287606",
-        "title": "M!LK、1stミニ・アルバム『LOVE ENG!NE』リリース。発売記念スペシャル・イベントを東京 有明アリーナにて開催",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/09/17/tg002",
-        "publishedAt": "2026-09-17T09:20:00.000Z",
-        "summary": "",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "976120bc3101651a",
-        "title": "M!LKが“ユニバース”を背負う新アー写公開、1stミニアルバムリード曲は早くもチャート席巻中",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/09/91880/",
-        "publishedAt": "2026-09-08T09:00:00.000Z",
-        "summary": "5人組ダンスボーカルグループ・M!LKが、9月16日(水)に控えるミニアルバム『LOVE ENG!NE』リリースに先駆けて最新アーティスト写真を公開した。 M!LKにとって初ミニアルバムとなる本作からは、リード曲「時空超えてユニバース」（ときこえてゆにばーす）の先行配信が9月7日(月)にスタート。配信開始直後からXのトレンドで「#ときユニ」が1位を獲得したほ",
-        "groups": [
-          "M!LK"
         ],
         "statuses": [],
         "memberMatches": []
