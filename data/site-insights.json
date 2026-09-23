@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-23T11:35:40.193Z",
+  "updatedAt": "2026-09-23T16:57:41.031Z",
   "totals": {
-    "all": 118,
-    "today": 1,
-    "week": 10
+    "all": 117,
+    "today": 0,
+    "week": 9
   },
   "groupRanking": [
     {
@@ -15,21 +15,17 @@
       "count": 4
     },
     {
-      "name": "原因は自分にある。",
-      "count": 2
+      "name": "EBiDAN",
+      "count": 1
     },
     {
-      "name": "EBiDAN",
+      "name": "原因は自分にある。",
       "count": 1
     }
   ],
   "memberRanking": [
     {
       "name": "塩﨑太智",
-      "count": 1
-    },
-    {
-      "name": "吉澤要人",
       "count": 1
     },
     {
@@ -52,10 +48,6 @@
     },
     {
       "name": "THE FIRST TIMES",
-      "count": 1
-    },
-    {
-      "name": "マイナビニュース テレビ",
       "count": 1
     },
     {
@@ -232,28 +224,6 @@
       }
     ],
     "原因は自分にある。": [
-      {
-        "id": "d4485df047964c09",
-        "title": "4年間の記憶を失った女性が、異国の地で出会った男性に懐かしさを――莉子主演『SQUALL』FOD独占配信",
-        "sourceName": "マイナビニュース テレビ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-        "articleUrl": "https://news.mynavi.jp/article/20260918-4985086/",
-        "publishedAt": "2026-09-17T19:45:00.000Z",
-        "summary": "4年間の記憶を失った女性が、異国の地で出会った男性になぜか懐かしさを覚える――莉子が主演するABCテレビのドラマ『SQUALL』(10月18日スタート、毎週日曜24:10～)が、同日24:40からFODで独占配信される。吉澤要人(原因は自分にある。)、グレン・ヨンとともに、全話シンガポールロケで国境と時を越えるラブストーリーを描く。",
-        "groups": [
-          "原因は自分にある。"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉澤要人",
-            "group": "原因は自分にある。",
-            "status": "active"
-          }
-        ]
-      },
       {
         "id": "24efcee45fb52301",
         "title": "「J-POPシングル ウィークリーTOP30」発表。1位はINI『ANTHEM』、予約1位は原因は自分にある。『ラブリーズン』（2026年9月17日付）",
