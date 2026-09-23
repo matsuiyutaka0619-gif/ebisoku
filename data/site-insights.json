@@ -1,34 +1,26 @@
 {
-  "updatedAt": "2026-09-22T21:18:21.058Z",
+  "updatedAt": "2026-09-23T04:44:37.914Z",
   "totals": {
-    "all": 122,
+    "all": 119,
     "today": 2,
-    "week": 15
+    "week": 12
   },
   "groupRanking": [
-    {
-      "name": "M!LK",
-      "count": 5
-    },
     {
       "name": "SUPER★DRAGON",
       "count": 5
     },
     {
+      "name": "M!LK",
+      "count": 4
+    },
+    {
       "name": "EBiDAN",
-      "count": 3
+      "count": 2
     },
     {
       "name": "原因は自分にある。",
       "count": 2
-    },
-    {
-      "name": "BUDDiiS",
-      "count": 1
-    },
-    {
-      "name": "ICEx",
-      "count": 1
     }
   ],
   "memberRanking": [
@@ -55,15 +47,11 @@
       "count": 5
     },
     {
-      "name": "THE FIRST TIMES",
-      "count": 3
-    },
-    {
       "name": "タワーレコード ニュース",
       "count": 3
     },
     {
-      "name": "BARKS",
+      "name": "THE FIRST TIMES",
       "count": 2
     },
     {
@@ -88,21 +76,6 @@
         "summary": "2026年9月28日付オリコン週間音楽ランキング（集計期間：9月14日～9月20日）より、デジタルラ...",
         "groups": [
           "EBiDAN"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "0fa019f0e775c4b9",
-        "title": "【ライブレポート】西川貴教、＜イナズマロック フェス＞から新たな形で生まれ変わった＜FEST. INAZUMA＞開催「また＜イナズマ＞で会おうぜ！」",
-        "sourceName": "BARKS",
-        "sourceUrl": "https://www.barks.jp/feed/",
-        "articleUrl": "https://barks.jp/news/1090374",
-        "publishedAt": "2026-09-22T04:41:26.000Z",
-        "summary": "滋賀県下最大の音楽イベント＜FEST. INAZUMA（読み：フェスト イナズマ）＞が、2026年9月19日・20日・21日の3日間、滋賀県草津市にある烏丸半島芝生広場で開催された。 ◆2DAYライブレポート◆3DAYライブレポート◆出演パフォーマー 写真 ＜イナズマ＞は滋賀県出身の西川貴教が発起人となり、地域振興や琵琶湖の水質保全をテーマに掲げ、2009年",
-        "groups": [
-          "EBiDAN",
-          "ICEx"
         ],
         "statuses": [],
         "memberMatches": []
@@ -151,6 +124,24 @@
         ],
         "statuses": [],
         "memberMatches": []
+      },
+      {
+        "id": "47f16c975ff422cd",
+        "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11607/",
+        "publishedAt": "2026-09-02T12:34:24.000Z",
+        "summary": "平素より株式会社SDR所属アーティストへの温かいご声援を賜り、誠にありがとうございます。 DISH//、EBiDAN（超特急、M!LK、SUPER★DRAGON、Sakurashimeji、ONE N’ ON […] The post グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ first appeared on SUPER★DRAGO",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK",
+          "SUPER★DRAGON",
+          "Sakurashimeji"
+        ],
+        "statuses": [],
+        "memberMatches": []
       }
     ],
     "M!LK": [
@@ -162,20 +153,6 @@
         "articleUrl": "https://www.thefirsttimes.jp/news/0000886338/",
         "publishedAt": "2026-09-22T15:00:45.000Z",
         "summary": "10月6日放送スタートのTVアニメ『超巡！超条先輩』のオープニングテーマが、M!LKの新曲「ザッ...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "30bb5d22c25cd470",
-        "title": "M!LKアルバム『LOVE ENG!NE』初週売上91.6万枚で初登場1位！INIは史上5組目の記録達成【オリコン週間音楽ランキング】",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000886064/",
-        "publishedAt": "2026-09-21T19:00:55.000Z",
-        "summary": "2026年9月28日付オリコン週間音楽ランキング（集計期間：2026年9月14日～9月20日）が発表され...",
         "groups": [
           "M!LK"
         ],
@@ -244,64 +221,17 @@
         ],
         "statuses": [],
         "memberMatches": []
-      }
-    ],
-    "BUDDiiS": [
-      {
-        "id": "3e25a546297e5352",
-        "title": "BUDDiiS、ミニライブにてメジャー2ndシングル「無限大LOVE!!!」を初披露。「無限大LOVE!!! (short ver. )」が各SNSにて配信も",
-        "sourceName": "BARKS",
-        "sourceUrl": "https://www.barks.jp/feed/",
-        "articleUrl": "https://barks.jp/news/1090569",
-        "publishedAt": "2026-09-22T06:00:00.000Z",
-        "summary": "BUDDiiSが、2026年11月18日に発売するメジャー2ndシングル「無限大LOVE!!!」のリリースイベントをスタートし、イベントで行われたミニライブにて「無限大LOVE!!!」のパフォーマンスを初披露した。 本ライブでは、1曲目に今年7月にリリースし話題を呼んだ「キミは都市伝説」、2曲目に大人の色気を纏った情熱的なナンバー「more rain」を披露",
-        "groups": [
-          "BUDDiiS"
-        ],
-        "statuses": [],
-        "memberMatches": []
       },
       {
-        "id": "15fb9ee4d3775ce2",
-        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
+        "id": "976120bc3101651a",
+        "title": "M!LKが“ユニバース”を背負う新アー写公開、1stミニアルバムリード曲は早くもチャート席巻中",
         "sourceName": "Bezzy",
         "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/07/89645/",
-        "publishedAt": "2026-07-24T12:00:00.000Z",
-        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
+        "articleUrl": "https://bezzy.jp/2026/09/91880/",
+        "publishedAt": "2026-09-08T09:00:00.000Z",
+        "summary": "5人組ダンスボーカルグループ・M!LKが、9月16日(水)に控えるミニアルバム『LOVE ENG!NE』リリースに先駆けて最新アーティスト写真を公開した。 M!LKにとって初ミニアルバムとなる本作からは、リード曲「時空超えてユニバース」（ときこえてゆにばーす）の先行配信が9月7日(月)にスタート。配信開始直後からXのトレンドで「#ときユニ」が1位を獲得したほ",
         "groups": [
-          "原因は自分にある。",
-          "BUDDiiS"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "SHOOT",
-            "group": "BUDDiiS",
-            "status": "active"
-          }
-        ]
-      }
-    ],
-    "ICEx": [
-      {
-        "id": "0fa019f0e775c4b9",
-        "title": "【ライブレポート】西川貴教、＜イナズマロック フェス＞から新たな形で生まれ変わった＜FEST. INAZUMA＞開催「また＜イナズマ＞で会おうぜ！」",
-        "sourceName": "BARKS",
-        "sourceUrl": "https://www.barks.jp/feed/",
-        "articleUrl": "https://barks.jp/news/1090374",
-        "publishedAt": "2026-09-22T04:41:26.000Z",
-        "summary": "滋賀県下最大の音楽イベント＜FEST. INAZUMA（読み：フェスト イナズマ）＞が、2026年9月19日・20日・21日の3日間、滋賀県草津市にある烏丸半島芝生広場で開催された。 ◆2DAYライブレポート◆3DAYライブレポート◆出演パフォーマー 写真 ＜イナズマ＞は滋賀県出身の西川貴教が発起人となり、地域振興や琵琶湖の水質保全をテーマに掲げ、2009年",
-        "groups": [
-          "EBiDAN",
-          "ICEx"
+          "M!LK"
         ],
         "statuses": [],
         "memberMatches": []
@@ -523,6 +453,36 @@
         ],
         "statuses": [],
         "memberMatches": []
+      }
+    ],
+    "BUDDiiS": [
+      {
+        "id": "15fb9ee4d3775ce2",
+        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/07/89645/",
+        "publishedAt": "2026-07-24T12:00:00.000Z",
+        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
+        "groups": [
+          "原因は自分にある。",
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
       }
     ]
   }
