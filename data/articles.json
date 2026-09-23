@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-09-23T16:57:41.029Z",
+  "updatedAt": "2026-09-23T21:29:49.646Z",
   "articles": [
+    {
+      "id": "9d93ce84f9809117",
+      "title": "嵐も歩んだ国民的グループへの道？ 吉田仁人、山中柔太朗、塩﨑太智……M!LKメンバーの相次ぐドラマ出演が示す“サイン”",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/09/post-2531807.html",
+      "publishedAt": "2026-09-23T20:50:06.000Z",
+      "summary": "今秋クールドラマで、吉田仁人が『溺愛 〜 実は、最強ヒーロー 〜』（TOKYO MXほか）、山中柔太朗が『いろはの恋は時代をかける』（TBS系）、塩﨑太智が『もうパパ！』（ABCテレビ／テレビ朝日系）に出演。M!LK旋風の最中でのドラマ起用と、過去の嵐の事例を振り返り、今のグループの勢いを考える。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "塩﨑太智",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "5608e9ad53abc643",
       "title": "INI「ANTHEM (You Know What To Do)」、M!LK『LOVE ENG!NE』がオリコン週間合算ランキングで首位獲得",
