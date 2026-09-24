@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-24T17:10:29.374Z",
+  "updatedAt": "2026-09-24T21:30:54.089Z",
   "totals": {
-    "all": 116,
-    "today": 0,
-    "week": 9
+    "all": 117,
+    "today": 1,
+    "week": 10
   },
   "groupRanking": [
     {
@@ -12,7 +12,7 @@
     },
     {
       "name": "M!LK",
-      "count": 3
+      "count": 4
     },
     {
       "name": "超特急",
@@ -22,10 +22,14 @@
   "memberRanking": [
     {
       "name": "吉田仁人",
-      "count": 1
+      "count": 2
     },
     {
       "name": "佐野勇斗",
+      "count": 2
+    },
+    {
+      "name": "塩﨑太智",
       "count": 1
     },
     {
@@ -49,10 +53,138 @@
     {
       "name": "タワーレコード ニュース",
       "count": 1
+    },
+    {
+      "name": "リアルサウンド 音楽",
+      "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
+    "M!LK": [
+      {
+        "id": "9b2d8905aa3f6bc0",
+        "title": "M!LK 吉田仁人＆塩﨑太智が観葉植物を購入 佐野勇斗へのサプライズプレゼントに「尊い」「メンバー愛にあふれたいい回」",
+        "sourceName": "リアルサウンド 音楽",
+        "sourceUrl": "https://realsound.jp/music/feed",
+        "articleUrl": "https://realsound.jp/2026/09/post-2532929.html",
+        "publishedAt": "2026-09-24T20:50:47.000Z",
+        "summary": "M!LKの吉田仁人と塩﨑太智がYouTubeを更新。塩﨑が自身の26歳の誕生日プレゼントとして観葉植物を購入するため、吉田とともに園芸専門店「オザキフラワーパーク」を訪れる様子を公開した。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "724ef88f2212df68",
+        "title": "『Venue101 EXTRA』WEEK1の見どころ公開！M!LKのお絵かきグランプリに爆笑＆Da-iCEらがアツいライブを披露",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000887762/",
+        "publishedAt": "2026-09-24T10:35:19.000Z",
+        "summary": "NHK総合『Venue101』（9月26日23時より放送）では、『Venue101 EXTRA』と題して東京・NHKホー...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "9db5fb9bf6114574",
+        "title": "M!LK佐野勇斗に吉田仁人が吹っ飛ばされる!? 笑い止まらぬじゃれあいダンスに「さのじんワチャワチャ愛しい」「はやちゃん強すぎる（笑）」「仁ちゃん乙女に見える」と反響",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000887110/",
+        "publishedAt": "2026-09-24T04:31:03.000Z",
+        "summary": "M!LKの公式SNSで、佐野勇斗と吉田仁人が「時空超えてユニバース」をダンスする動画が公開され...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "9167d35f87358191",
+        "title": "山中柔太朗×曽野舜太（M!LK）、「BAILA（バイラ） 2026年11月号」特別版表紙に登場",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/09/18/tgb003",
+        "publishedAt": "2026-09-18T04:00:00.000Z",
+        "summary": "",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "49edc5506ca31eb4",
+        "title": "「これ、リリイベだよね!?」「ライブみたい」M!LK、アリーナを埋め尽くす9,000人のファンを前に全4曲披露 塩崎太智がメンバーに詰め寄られるハプニングも",
+        "sourceName": "マイナビニュース 芸能",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
+        "articleUrl": "https://news.mynavi.jp/article/20260917-4982497/",
+        "publishedAt": "2026-09-17T10:00:00.000Z",
+        "summary": "5人組ダンスボーカルグループ・M!LKが16日、東京・有明アリーナでミニアルバム『LOVE ENG!NE』の発売日記念スペシャルイベントを開催。約9,000人のファンを前にパフォーマンスを披露した。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      }
+    ],
     "超特急": [
       {
         "id": "f3b9c54edf7e9fd5",
@@ -193,112 +325,6 @@
         "summary": "本日9月18日(金)18:00より、ローソンチケットにてプレリクエスト先行〈抽選〉受付開始。 会場で皆さんとお会いできることを楽しみにしております！ ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願い […] The post 「SUPER★DRAGON DRA FES 2026 追加公演」最新チケット情報 first appeared ",
         "groups": [
           "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "M!LK": [
-      {
-        "id": "724ef88f2212df68",
-        "title": "『Venue101 EXTRA』WEEK1の見どころ公開！M!LKのお絵かきグランプリに爆笑＆Da-iCEらがアツいライブを披露",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000887762/",
-        "publishedAt": "2026-09-24T10:35:19.000Z",
-        "summary": "NHK総合『Venue101』（9月26日23時より放送）では、『Venue101 EXTRA』と題して東京・NHKホー...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "9db5fb9bf6114574",
-        "title": "M!LK佐野勇斗に吉田仁人が吹っ飛ばされる!? 笑い止まらぬじゃれあいダンスに「さのじんワチャワチャ愛しい」「はやちゃん強すぎる（笑）」「仁ちゃん乙女に見える」と反響",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000887110/",
-        "publishedAt": "2026-09-24T04:31:03.000Z",
-        "summary": "M!LKの公式SNSで、佐野勇斗と吉田仁人が「時空超えてユニバース」をダンスする動画が公開され...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "9167d35f87358191",
-        "title": "山中柔太朗×曽野舜太（M!LK）、「BAILA（バイラ） 2026年11月号」特別版表紙に登場",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/09/18/tgb003",
-        "publishedAt": "2026-09-18T04:00:00.000Z",
-        "summary": "",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "49edc5506ca31eb4",
-        "title": "「これ、リリイベだよね!?」「ライブみたい」M!LK、アリーナを埋め尽くす9,000人のファンを前に全4曲披露 塩崎太智がメンバーに詰め寄られるハプニングも",
-        "sourceName": "マイナビニュース 芸能",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-        "articleUrl": "https://news.mynavi.jp/article/20260917-4982497/",
-        "publishedAt": "2026-09-17T10:00:00.000Z",
-        "summary": "5人組ダンスボーカルグループ・M!LKが16日、東京・有明アリーナでミニアルバム『LOVE ENG!NE』の発売日記念スペシャルイベントを開催。約9,000人のファンを前にパフォーマンスを披露した。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "976120bc3101651a",
-        "title": "M!LKが“ユニバース”を背負う新アー写公開、1stミニアルバムリード曲は早くもチャート席巻中",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/09/91880/",
-        "publishedAt": "2026-09-08T09:00:00.000Z",
-        "summary": "5人組ダンスボーカルグループ・M!LKが、9月16日(水)に控えるミニアルバム『LOVE ENG!NE』リリースに先駆けて最新アーティスト写真を公開した。 M!LKにとって初ミニアルバムとなる本作からは、リード曲「時空超えてユニバース」（ときこえてゆにばーす）の先行配信が9月7日(月)にスタート。配信開始直後からXのトレンドで「#ときユニ」が1位を獲得したほ",
-        "groups": [
-          "M!LK"
         ],
         "statuses": [],
         "memberMatches": []

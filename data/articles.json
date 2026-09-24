@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-09-24T17:10:29.372Z",
+  "updatedAt": "2026-09-24T21:30:54.087Z",
   "articles": [
+    {
+      "id": "9b2d8905aa3f6bc0",
+      "title": "M!LK 吉田仁人＆塩﨑太智が観葉植物を購入 佐野勇斗へのサプライズプレゼントに「尊い」「メンバー愛にあふれたいい回」",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/09/post-2532929.html",
+      "publishedAt": "2026-09-24T20:50:47.000Z",
+      "summary": "M!LKの吉田仁人と塩﨑太智がYouTubeを更新。塩﨑が自身の26歳の誕生日プレゼントとして観葉植物を購入するため、吉田とともに園芸専門店「オザキフラワーパーク」を訪れる様子を公開した。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "塩﨑太智",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "f3b9c54edf7e9fd5",
       "title": "村上信五（SUPER EIGHT）、松尾太陽（超特急）らが『秘密のケンミンSHOW 極』で「大阪南北全然ちゃう問題」を大激論",
