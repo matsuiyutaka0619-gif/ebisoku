@@ -1,6 +1,142 @@
 {
-  "updatedAt": "2026-09-23T21:29:49.646Z",
+  "updatedAt": "2026-09-24T04:49:59.669Z",
   "articles": [
+    {
+      "id": "9db5fb9bf6114574",
+      "title": "M!LK佐野勇斗に吉田仁人が吹っ飛ばされる!? 笑い止まらぬじゃれあいダンスに「さのじんワチャワチャ愛しい」「はやちゃん強すぎる（笑）」「仁ちゃん乙女に見える」と反響",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000887110/",
+      "publishedAt": "2026-09-24T04:31:03.000Z",
+      "summary": "M!LKの公式SNSで、佐野勇斗と吉田仁人が「時空超えてユニバース」をダンスする動画が公開され...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "1afe15fef791669b",
+      "title": "ONE N’ ONLY草川直弥、事務所の後輩・知念英和とBL作品で共演「すごくかわいらしいお顔」",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1070651/",
+      "publishedAt": "2026-09-24T03:20:49.000Z",
+      "summary": "ONE N’ ONLYの草川直弥、俳優の知念英和が24日、ダブル主演を務めるドラマ『青と碧』（10月5日からBS朝日ほかにて放送、Lemino見放題独占配信）の制作発表に登壇。人気BLを実写ドラマ化した本作の […]",
+      "groups": [
+        "ONE N' ONLY"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "NAOYA",
+          "group": "ONE N' ONLY",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "42af104abf60ac44",
+      "title": "【ライブレポート】ICEx、青春の煌めきと胸に秘めた熱さを体現したツアー＜”FRESHest!!”＞完遂。「COOLerのみんなのおかげで最高の思い出になりました」",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1090793",
+      "publishedAt": "2026-09-24T03:00:00.000Z",
+      "summary": "ICExが、2026年9月23日に＜ICEx Fourth Concert Tour 2026 ”FRESHest!!”＞ツアーファイナルを東京国際フォーラム ホールAで迎えた。なお、グループ史上最大規模となるツアーファイナルにして、チケットは全席ソールドアウトとなったため、CSテレ朝チャンネルでの独占生中継も行われた。 “全ての愛を愛す”をコンセプトに20",
+      "groups": [
+        "EBiDAN",
+        "超特急",
+        "M!LK",
+        "ICEx"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "マサヒロ",
+          "group": "超特急",
+          "status": "active"
+        },
+        {
+          "name": "志賀李玖",
+          "group": "ICEx",
+          "status": "active"
+        },
+        {
+          "name": "中村旺太郎",
+          "group": "ICEx",
+          "status": "active"
+        },
+        {
+          "name": "阿久根温世",
+          "group": "ICEx",
+          "status": "active"
+        },
+        {
+          "name": "千田波空斗",
+          "group": "ICEx",
+          "status": "active"
+        },
+        {
+          "name": "筒井俊旭",
+          "group": "ICEx",
+          "status": "active"
+        },
+        {
+          "name": "山本龍人",
+          "group": "ICEx",
+          "status": "active"
+        },
+        {
+          "name": "竹野世梛",
+          "group": "ICEx",
+          "status": "active"
+        },
+        {
+          "name": "八神遼介",
+          "group": "ICEx",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "398e294458728382",
+      "title": "M!LKが“私服姿”で自撮り！5人そろった仲良しショットに「いい写真」「ビジュ良すぎてだいすき」「尊い」「季節感がバラバラ笑」と反響",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000887163/",
+      "publishedAt": "2026-09-24T01:59:46.000Z",
+      "summary": "M!LKの佐野勇斗が自身のXを更新。M!LKのミニアルバム『LOVE ENG!NE』がミリオンを達成したこと...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "9d93ce84f9809117",
       "title": "嵐も歩んだ国民的グループへの道？ 吉田仁人、山中柔太朗、塩﨑太智……M!LKメンバーの相次ぐドラマ出演が示す“サイン”",
@@ -32,20 +168,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "5608e9ad53abc643",
-      "title": "INI「ANTHEM (You Know What To Do)」、M!LK『LOVE ENG!NE』がオリコン週間合算ランキングで首位獲得",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000886587/",
-      "publishedAt": "2026-09-23T06:15:11.000Z",
-      "summary": "9月28日付オリコン週間音楽ランキング（集計期間：2026年9月14日～9月20日）が発表。INIの「AN...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "6e8ea1fd5513e5f5",
