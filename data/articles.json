@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-09-24T11:45:14.675Z",
+  "updatedAt": "2026-09-24T17:10:29.372Z",
   "articles": [
+    {
+      "id": "f3b9c54edf7e9fd5",
+      "title": "村上信五（SUPER EIGHT）、松尾太陽（超特急）らが『秘密のケンミンSHOW 極』で「大阪南北全然ちゃう問題」を大激論",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000887468/",
+      "publishedAt": "2026-09-24T13:00:06.000Z",
+      "summary": "村上信五（SUPER EIGHT）、松尾太陽（超特急）らが、10月1日放送の読売テレビ・日本テレビ系『...",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "b8642925dcf59156",
       "title": "SUPER★DRAGON LIVE TOUR 2027「house」 チケットの販売に伴うお願いと注意事項",
@@ -44,42 +58,6 @@
       "memberMatches": []
     },
     {
-      "id": "ca4d5cbca9692283",
-      "title": "氣志團、千葉・幕張メッセ開催の＜氣志團万博2026＞タイムテーブル発表",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1090893",
-      "publishedAt": "2026-09-24T09:00:00.000Z",
-      "summary": "氣志團が、2026年11月7日・8日に千葉・幕張メッセにて開催する＜サントリー オールフリー presents 氣志團万博2026 ～房総爆音リゾート～＞のタイムテーブルを公開した。 ＜氣志團万博＞のオフィシャルHP最終先行受付（先着）は、9月30日23時59分まで受付中なので是非チェックしてほしい。 ◆ ◆ ◆ ◾️11月7日（土）※五十音順 秋山竜次（ロ",
-      "groups": [
-        "Lienel"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "c245a9ae4736ab94",
-      "title": "SUPER★DRAGON 池田彪馬、ソロ名義 Hyoma Ikedaの1stミニアルバム収録曲公開 「-Sea-」先行配信も",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/09/post-2532234.html",
-      "publishedAt": "2026-09-24T04:59:30.000Z",
-      "summary": "SUPER★DRAGONの池田彪馬によるソロプロジェクト Hyoma Ikedaの1stミニアルバム『Effect』の収録楽曲全6曲が公開された。 10月21日にリリースされる同作は、Hyoma Ikeda名義での記",
-      "groups": [
-        "SUPER★DRAGON"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "池田彪馬",
-          "group": "SUPER★DRAGON",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "9db5fb9bf6114574",
       "title": "M!LK佐野勇斗に吉田仁人が吹っ飛ばされる!? 笑い止まらぬじゃれあいダンスに「さのじんワチャワチャ愛しい」「はやちゃん強すぎる（笑）」「仁ちゃん乙女に見える」と反響",
       "sourceName": "THE FIRST TIMES",
@@ -101,28 +79,6 @@
         },
         {
           "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "398e294458728382",
-      "title": "M!LKが“私服姿”で自撮り！5人そろった仲良しショットに「いい写真」「ビジュ良すぎてだいすき」「尊い」「季節感がバラバラ笑」と反響",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000887163/",
-      "publishedAt": "2026-09-24T01:59:46.000Z",
-      "summary": "M!LKの佐野勇斗が自身のXを更新。M!LKのミニアルバム『LOVE ENG!NE』がミリオンを達成したこと...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
           "group": "M!LK",
           "status": "active"
         }

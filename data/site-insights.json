@@ -1,31 +1,31 @@
 {
-  "updatedAt": "2026-09-24T11:45:14.677Z",
+  "updatedAt": "2026-09-24T17:10:29.374Z",
   "totals": {
-    "all": 118,
-    "today": 7,
-    "week": 11
+    "all": 116,
+    "today": 0,
+    "week": 9
   },
   "groupRanking": [
     {
       "name": "SUPER★DRAGON",
-      "count": 6
+      "count": 5
     },
     {
       "name": "M!LK",
-      "count": 4
+      "count": 3
     },
     {
-      "name": "Lienel",
+      "name": "超特急",
       "count": 1
     }
   ],
   "memberRanking": [
     {
-      "name": "佐野勇斗",
-      "count": 2
+      "name": "吉田仁人",
+      "count": 1
     },
     {
-      "name": "吉田仁人",
+      "name": "佐野勇斗",
       "count": 1
     },
     {
@@ -34,10 +34,6 @@
     },
     {
       "name": "曽野舜太",
-      "count": 1
-    },
-    {
-      "name": "池田彪馬",
       "count": 1
     }
   ],
@@ -51,20 +47,85 @@
       "count": 3
     },
     {
-      "name": "BARKS",
-      "count": 1
-    },
-    {
       "name": "タワーレコード ニュース",
-      "count": 1
-    },
-    {
-      "name": "リアルサウンド 音楽",
       "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
+    "超特急": [
+      {
+        "id": "f3b9c54edf7e9fd5",
+        "title": "村上信五（SUPER EIGHT）、松尾太陽（超特急）らが『秘密のケンミンSHOW 極』で「大阪南北全然ちゃう問題」を大激論",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000887468/",
+        "publishedAt": "2026-09-24T13:00:06.000Z",
+        "summary": "村上信五（SUPER EIGHT）、松尾太陽（超特急）らが、10月1日放送の読売テレビ・日本テレビ系『...",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "47f16c975ff422cd",
+        "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11607/",
+        "publishedAt": "2026-09-02T12:34:24.000Z",
+        "summary": "平素より株式会社SDR所属アーティストへの温かいご声援を賜り、誠にありがとうございます。 DISH//、EBiDAN（超特急、M!LK、SUPER★DRAGON、Sakurashimeji、ONE N’ ON […] The post グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ first appeared on SUPER★DRAGO",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK",
+          "SUPER★DRAGON",
+          "Sakurashimeji"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "397a635043a0e0e2",
+        "title": "映画『ワンダンス』新キャストにGirls2山口綺羅、MAZZEL・RAN、TSUKKI、超特急・髙松アロハ",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/07/89594/",
+        "publishedAt": "2026-07-22T09:00:00.000Z",
+        "summary": "11月27日(金)に公開されるJO（&TEAM）初主演映画『ワンダンス』の新キャストとして山口綺羅（Girls2）、RAN（MAZZEL）、現役DリーガーのTSUKKI、髙松アロハ（超特急）が出演することが発表された。 原作は単行本累計発行部数110万部を突破し「月刊アフタヌーン」（講談社）で連載中の珈琲による同名漫画。ダンサーからも熱く支持され、昨年放送さ",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "アロハ",
+            "group": "超特急",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "382225983e9781d4",
+        "title": "8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 7月2日からの先行配信リリースに合わせて デジタルキャンペーンが追加決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11354/",
+        "publishedAt": "2026-07-01T06:00:22.000Z",
+        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して8月11日(火・祝)にリリースされる「Yes! 東京」が、いよいよ7月2日（木）より先行配信リリースとなります。超特急、M!LK、SUPER★DRAGON、Sakur […] The post 8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 7月2日からの先行配信リリースに合わせて デ",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
     "SUPER★DRAGON": [
       {
         "id": "b8642925dcf59156",
@@ -95,28 +156,6 @@
         "memberMatches": []
       },
       {
-        "id": "c245a9ae4736ab94",
-        "title": "SUPER★DRAGON 池田彪馬、ソロ名義 Hyoma Ikedaの1stミニアルバム収録曲公開 「-Sea-」先行配信も",
-        "sourceName": "リアルサウンド 音楽",
-        "sourceUrl": "https://realsound.jp/music/feed",
-        "articleUrl": "https://realsound.jp/2026/09/post-2532234.html",
-        "publishedAt": "2026-09-24T04:59:30.000Z",
-        "summary": "SUPER★DRAGONの池田彪馬によるソロプロジェクト Hyoma Ikedaの1stミニアルバム『Effect』の収録楽曲全6曲が公開された。 10月21日にリリースされる同作は、Hyoma Ikeda名義での記",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "池田彪馬",
-            "group": "SUPER★DRAGON",
-            "status": "active"
-          }
-        ]
-      },
-      {
         "id": "6e8ea1fd5513e5f5",
         "title": "SUPER★DRAGON DRA FES 2026 +KIRARIブース実施のお知らせ！",
         "sourceName": "SUPER★DRAGON 公式NEWS",
@@ -138,6 +177,20 @@
         "articleUrl": "https://super-dragon.jp/news/news11649/",
         "publishedAt": "2026-09-20T03:00:26.000Z",
         "summary": "「SUPER★DRAGON DRA FES 2026」の開催を記念して、9月24日(木)東京公演、9月27日(日)大阪公演当日に「SUPER★DRAGON DRA FES 2026 SCRATCH」の開催が決定しました！ […] The post 「SUPER★DRAGON DRA FES 2026 SCRATCH」開催のお知らせ first appeare",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "3243f7a914d7a30a",
+        "title": "「SUPER★DRAGON DRA FES 2026 追加公演」最新チケット情報",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11647/",
+        "publishedAt": "2026-09-18T09:00:56.000Z",
+        "summary": "本日9月18日(金)18:00より、ローソンチケットにてプレリクエスト先行〈抽選〉受付開始。 会場で皆さんとお会いできることを楽しみにしております！ ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願い […] The post 「SUPER★DRAGON DRA FES 2026 追加公演」最新チケット情報 first appeared ",
         "groups": [
           "SUPER★DRAGON"
         ],
@@ -182,28 +235,6 @@
           },
           {
             "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "398e294458728382",
-        "title": "M!LKが“私服姿”で自撮り！5人そろった仲良しショットに「いい写真」「ビジュ良すぎてだいすき」「尊い」「季節感がバラバラ笑」と反響",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000887163/",
-        "publishedAt": "2026-09-24T01:59:46.000Z",
-        "summary": "M!LKの佐野勇斗が自身のXを更新。M!LKのミニアルバム『LOVE ENG!NE』がミリオンを達成したこと...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
             "group": "M!LK",
             "status": "active"
           }
@@ -257,19 +288,17 @@
             "status": "active"
           }
         ]
-      }
-    ],
-    "Lienel": [
+      },
       {
-        "id": "ca4d5cbca9692283",
-        "title": "氣志團、千葉・幕張メッセ開催の＜氣志團万博2026＞タイムテーブル発表",
-        "sourceName": "BARKS",
-        "sourceUrl": "https://www.barks.jp/feed/",
-        "articleUrl": "https://barks.jp/news/1090893",
-        "publishedAt": "2026-09-24T09:00:00.000Z",
-        "summary": "氣志團が、2026年11月7日・8日に千葉・幕張メッセにて開催する＜サントリー オールフリー presents 氣志團万博2026 ～房総爆音リゾート～＞のタイムテーブルを公開した。 ＜氣志團万博＞のオフィシャルHP最終先行受付（先着）は、9月30日23時59分まで受付中なので是非チェックしてほしい。 ◆ ◆ ◆ ◾️11月7日（土）※五十音順 秋山竜次（ロ",
+        "id": "976120bc3101651a",
+        "title": "M!LKが“ユニバース”を背負う新アー写公開、1stミニアルバムリード曲は早くもチャート席巻中",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/09/91880/",
+        "publishedAt": "2026-09-08T09:00:00.000Z",
+        "summary": "5人組ダンスボーカルグループ・M!LKが、9月16日(水)に控えるミニアルバム『LOVE ENG!NE』リリースに先駆けて最新アーティスト写真を公開した。 M!LKにとって初ミニアルバムとなる本作からは、リード曲「時空超えてユニバース」（ときこえてゆにばーす）の先行配信が9月7日(月)にスタート。配信開始直後からXのトレンドで「#ときユニ」が1位を獲得したほ",
         "groups": [
-          "Lienel"
+          "M!LK"
         ],
         "statuses": [],
         "memberMatches": []
@@ -349,65 +378,6 @@
         "summary": "本日8月31日(月)18:00よりEBiDAN先行受付開始！ 皆さんとお会いできることを楽しみにしております！ 第６回EBiDAN大運動会『スポーツマンヒップ！』 【千葉】LaLa arena […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』 最新チケット情報 first appeared on SUPER★DRAGON .",
         "groups": [
           "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "超特急": [
-      {
-        "id": "47f16c975ff422cd",
-        "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11607/",
-        "publishedAt": "2026-09-02T12:34:24.000Z",
-        "summary": "平素より株式会社SDR所属アーティストへの温かいご声援を賜り、誠にありがとうございます。 DISH//、EBiDAN（超特急、M!LK、SUPER★DRAGON、Sakurashimeji、ONE N’ ON […] The post グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ first appeared on SUPER★DRAGO",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK",
-          "SUPER★DRAGON",
-          "Sakurashimeji"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "397a635043a0e0e2",
-        "title": "映画『ワンダンス』新キャストにGirls2山口綺羅、MAZZEL・RAN、TSUKKI、超特急・髙松アロハ",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/07/89594/",
-        "publishedAt": "2026-07-22T09:00:00.000Z",
-        "summary": "11月27日(金)に公開されるJO（&TEAM）初主演映画『ワンダンス』の新キャストとして山口綺羅（Girls2）、RAN（MAZZEL）、現役DリーガーのTSUKKI、髙松アロハ（超特急）が出演することが発表された。 原作は単行本累計発行部数110万部を突破し「月刊アフタヌーン」（講談社）で連載中の珈琲による同名漫画。ダンサーからも熱く支持され、昨年放送さ",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "アロハ",
-            "group": "超特急",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "382225983e9781d4",
-        "title": "8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 7月2日からの先行配信リリースに合わせて デジタルキャンペーンが追加決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11354/",
-        "publishedAt": "2026-07-01T06:00:22.000Z",
-        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して8月11日(火・祝)にリリースされる「Yes! 東京」が、いよいよ7月2日（木）より先行配信リリースとなります。超特急、M!LK、SUPER★DRAGON、Sakur […] The post 8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 7月2日からの先行配信リリースに合わせて デ",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK",
           "SUPER★DRAGON"
         ],
         "statuses": [],
