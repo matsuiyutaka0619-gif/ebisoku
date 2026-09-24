@@ -1,105 +1,61 @@
 {
-  "updatedAt": "2026-09-24T04:49:59.672Z",
+  "updatedAt": "2026-09-24T11:45:14.677Z",
   "totals": {
-    "all": 121,
-    "today": 5,
-    "week": 13
+    "all": 118,
+    "today": 7,
+    "week": 11
   },
   "groupRanking": [
     {
-      "name": "M!LK",
-      "count": 7
+      "name": "SUPER★DRAGON",
+      "count": 6
     },
     {
-      "name": "SUPER★DRAGON",
+      "name": "M!LK",
       "count": 4
     },
     {
-      "name": "EBiDAN",
-      "count": 2
-    },
-    {
-      "name": "ICEx",
-      "count": 1
-    },
-    {
-      "name": "ONE N' ONLY",
-      "count": 1
-    },
-    {
-      "name": "原因は自分にある。",
-      "count": 1
-    },
-    {
-      "name": "超特急",
+      "name": "Lienel",
       "count": 1
     }
   ],
   "memberRanking": [
     {
-      "name": "塩﨑太智",
-      "count": 2
-    },
-    {
-      "name": "吉田仁人",
-      "count": 2
-    },
-    {
       "name": "佐野勇斗",
       "count": 2
     },
     {
+      "name": "吉田仁人",
+      "count": 1
+    },
+    {
       "name": "山中柔太朗",
-      "count": 2
-    },
-    {
-      "name": "NAOYA",
       "count": 1
     },
     {
-      "name": "マサヒロ",
+      "name": "曽野舜太",
       "count": 1
     },
     {
-      "name": "阿久根温世",
-      "count": 1
-    },
-    {
-      "name": "山本龍人",
-      "count": 1
-    },
-    {
-      "name": "志賀李玖",
-      "count": 1
-    },
-    {
-      "name": "千田波空斗",
+      "name": "池田彪馬",
       "count": 1
     }
   ],
   "sourceRanking": [
     {
       "name": "SUPER★DRAGON 公式NEWS",
-      "count": 4
-    },
-    {
-      "name": "タワーレコード ニュース",
-      "count": 3
+      "count": 5
     },
     {
       "name": "THE FIRST TIMES",
-      "count": 2
+      "count": 3
     },
     {
       "name": "BARKS",
       "count": 1
     },
     {
-      "name": "ENCOUNT",
-      "count": 1
-    },
-    {
-      "name": "マイナビニュース 芸能",
+      "name": "タワーレコード ニュース",
       "count": 1
     },
     {
@@ -109,7 +65,101 @@
   ],
   "topics": [],
   "recentByGroup": {
+    "SUPER★DRAGON": [
+      {
+        "id": "b8642925dcf59156",
+        "title": "SUPER★DRAGON LIVE TOUR 2027「house」 チケットの販売に伴うお願いと注意事項",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11659/",
+        "publishedAt": "2026-09-24T11:30:11.000Z",
+        "summary": "皆様に安心して公演をお楽しみいただくために、下記のご案内を必ずご確認のうえ、 お申込み、ご来場いただきますようお願い申しあげます。 ●チケットの譲渡や転売を含む不正行為は、いかなる場合も禁止いたします。正規販売以外でのチ […] The post SUPER★DRAGON LIVE TOUR 2027「house」 チケットの販売に伴うお願いと注意事項 fi",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "9633b2d8993f9cc8",
+        "title": "SUPER★DRAGON LIVE TOUR 2027「house」開催決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11657/",
+        "publishedAt": "2026-09-24T11:29:09.000Z",
+        "summary": "SUPER★DRAGON LIVE TOUR 2027「house」の開催が決定！ 本日9月24日(木)よりオフィシャルファンクラブ『AREA SD』会員先行が受付開始。 会場で皆さんとお会いできることを楽しみにしており […] The post SUPER★DRAGON LIVE TOUR 2027「house」開催決定！ first appeared o",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "c245a9ae4736ab94",
+        "title": "SUPER★DRAGON 池田彪馬、ソロ名義 Hyoma Ikedaの1stミニアルバム収録曲公開 「-Sea-」先行配信も",
+        "sourceName": "リアルサウンド 音楽",
+        "sourceUrl": "https://realsound.jp/music/feed",
+        "articleUrl": "https://realsound.jp/2026/09/post-2532234.html",
+        "publishedAt": "2026-09-24T04:59:30.000Z",
+        "summary": "SUPER★DRAGONの池田彪馬によるソロプロジェクト Hyoma Ikedaの1stミニアルバム『Effect』の収録楽曲全6曲が公開された。 10月21日にリリースされる同作は、Hyoma Ikeda名義での記",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "池田彪馬",
+            "group": "SUPER★DRAGON",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "6e8ea1fd5513e5f5",
+        "title": "SUPER★DRAGON DRA FES 2026 +KIRARIブース実施のお知らせ！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11654/",
+        "publishedAt": "2026-09-20T03:30:38.000Z",
+        "summary": "「SUPER★DRAGON DRA FES 2026」9月24日(木)東京公演、9月27日(日)大阪公演にて+KIRARIブースの実施が決定いたしました！ ▼+KIRARIブース実施内容 ★12ヶ月プラン限定来場者プレゼ […] The post SUPER★DRAGON DRA FES 2026 +KIRARIブース実施のお知らせ！ first appea",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "70d0377384b222c4",
+        "title": "「SUPER★DRAGON DRA FES 2026 SCRATCH」開催のお知らせ",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11649/",
+        "publishedAt": "2026-09-20T03:00:26.000Z",
+        "summary": "「SUPER★DRAGON DRA FES 2026」の開催を記念して、9月24日(木)東京公演、9月27日(日)大阪公演当日に「SUPER★DRAGON DRA FES 2026 SCRATCH」の開催が決定しました！ […] The post 「SUPER★DRAGON DRA FES 2026 SCRATCH」開催のお知らせ first appeare",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
     "M!LK": [
+      {
+        "id": "724ef88f2212df68",
+        "title": "『Venue101 EXTRA』WEEK1の見どころ公開！M!LKのお絵かきグランプリに爆笑＆Da-iCEらがアツいライブを披露",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000887762/",
+        "publishedAt": "2026-09-24T10:35:19.000Z",
+        "summary": "NHK総合『Venue101』（9月26日23時より放送）では、『Venue101 EXTRA』と題して東京・NHKホー...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
       {
         "id": "9db5fb9bf6114574",
         "title": "M!LK佐野勇斗に吉田仁人が吹っ飛ばされる!? 笑い止まらぬじゃれあいダンスに「さのじんワチャワチャ愛しい」「はやちゃん強すぎる（笑）」「仁ちゃん乙女に見える」と反響",
@@ -138,71 +188,6 @@
         ]
       },
       {
-        "id": "42af104abf60ac44",
-        "title": "【ライブレポート】ICEx、青春の煌めきと胸に秘めた熱さを体現したツアー＜”FRESHest!!”＞完遂。「COOLerのみんなのおかげで最高の思い出になりました」",
-        "sourceName": "BARKS",
-        "sourceUrl": "https://www.barks.jp/feed/",
-        "articleUrl": "https://barks.jp/news/1090793",
-        "publishedAt": "2026-09-24T03:00:00.000Z",
-        "summary": "ICExが、2026年9月23日に＜ICEx Fourth Concert Tour 2026 ”FRESHest!!”＞ツアーファイナルを東京国際フォーラム ホールAで迎えた。なお、グループ史上最大規模となるツアーファイナルにして、チケットは全席ソールドアウトとなったため、CSテレ朝チャンネルでの独占生中継も行われた。 “全ての愛を愛す”をコンセプトに20",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK",
-          "ICEx"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "マサヒロ",
-            "group": "超特急",
-            "status": "active"
-          },
-          {
-            "name": "志賀李玖",
-            "group": "ICEx",
-            "status": "active"
-          },
-          {
-            "name": "中村旺太郎",
-            "group": "ICEx",
-            "status": "active"
-          },
-          {
-            "name": "阿久根温世",
-            "group": "ICEx",
-            "status": "active"
-          },
-          {
-            "name": "千田波空斗",
-            "group": "ICEx",
-            "status": "active"
-          },
-          {
-            "name": "筒井俊旭",
-            "group": "ICEx",
-            "status": "active"
-          },
-          {
-            "name": "山本龍人",
-            "group": "ICEx",
-            "status": "active"
-          },
-          {
-            "name": "竹野世梛",
-            "group": "ICEx",
-            "status": "active"
-          },
-          {
-            "name": "八神遼介",
-            "group": "ICEx",
-            "status": "active"
-          }
-        ]
-      },
-      {
         "id": "398e294458728382",
         "title": "M!LKが“私服姿”で自撮り！5人そろった仲良しショットに「いい写真」「ビジュ良すぎてだいすき」「尊い」「季節感がバラバラ笑」と反響",
         "sourceName": "THE FIRST TIMES",
@@ -219,38 +204,6 @@
         "memberMatches": [
           {
             "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "9d93ce84f9809117",
-        "title": "嵐も歩んだ国民的グループへの道？ 吉田仁人、山中柔太朗、塩﨑太智……M!LKメンバーの相次ぐドラマ出演が示す“サイン”",
-        "sourceName": "リアルサウンド 音楽",
-        "sourceUrl": "https://realsound.jp/music/feed",
-        "articleUrl": "https://realsound.jp/2026/09/post-2531807.html",
-        "publishedAt": "2026-09-23T20:50:06.000Z",
-        "summary": "今秋クールドラマで、吉田仁人が『溺愛 〜 実は、最強ヒーロー 〜』（TOKYO MXほか）、山中柔太朗が『いろはの恋は時代をかける』（TBS系）、塩﨑太智が『もうパパ！』（ABCテレビ／テレビ朝日系）に出演。M!LK旋風の最中でのドラマ起用と、過去の嵐の事例を振り返り、今のグループの勢いを考える。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "吉田仁人",
             "group": "M!LK",
             "status": "active"
           }
@@ -282,98 +235,47 @@
             "status": "active"
           }
         ]
-      }
-    ],
-    "ONE N' ONLY": [
+      },
       {
-        "id": "1afe15fef791669b",
-        "title": "ONE N’ ONLY草川直弥、事務所の後輩・知念英和とBL作品で共演「すごくかわいらしいお顔」",
-        "sourceName": "ENCOUNT",
-        "sourceUrl": "https://encount.press/feed/",
-        "articleUrl": "https://encount.press/archives/1070651/",
-        "publishedAt": "2026-09-24T03:20:49.000Z",
-        "summary": "ONE N’ ONLYの草川直弥、俳優の知念英和が24日、ダブル主演を務めるドラマ『青と碧』（10月5日からBS朝日ほかにて放送、Lemino見放題独占配信）の制作発表に登壇。人気BLを実写ドラマ化した本作の […]",
+        "id": "49edc5506ca31eb4",
+        "title": "「これ、リリイベだよね!?」「ライブみたい」M!LK、アリーナを埋め尽くす9,000人のファンを前に全4曲披露 塩崎太智がメンバーに詰め寄られるハプニングも",
+        "sourceName": "マイナビニュース 芸能",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
+        "articleUrl": "https://news.mynavi.jp/article/20260917-4982497/",
+        "publishedAt": "2026-09-17T10:00:00.000Z",
+        "summary": "5人組ダンスボーカルグループ・M!LKが16日、東京・有明アリーナでミニアルバム『LOVE ENG!NE』の発売日記念スペシャルイベントを開催。約9,000人のファンを前にパフォーマンスを披露した。",
         "groups": [
-          "ONE N' ONLY"
+          "M!LK"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "NAOYA",
-            "group": "ONE N' ONLY",
+            "name": "塩﨑太智",
+            "group": "M!LK",
             "status": "active"
           }
         ]
+      }
+    ],
+    "Lienel": [
+      {
+        "id": "ca4d5cbca9692283",
+        "title": "氣志團、千葉・幕張メッセ開催の＜氣志團万博2026＞タイムテーブル発表",
+        "sourceName": "BARKS",
+        "sourceUrl": "https://www.barks.jp/feed/",
+        "articleUrl": "https://barks.jp/news/1090893",
+        "publishedAt": "2026-09-24T09:00:00.000Z",
+        "summary": "氣志團が、2026年11月7日・8日に千葉・幕張メッセにて開催する＜サントリー オールフリー presents 氣志團万博2026 ～房総爆音リゾート～＞のタイムテーブルを公開した。 ＜氣志團万博＞のオフィシャルHP最終先行受付（先着）は、9月30日23時59分まで受付中なので是非チェックしてほしい。 ◆ ◆ ◆ ◾️11月7日（土）※五十音順 秋山竜次（ロ",
+        "groups": [
+          "Lienel"
+        ],
+        "statuses": [],
+        "memberMatches": []
       }
     ],
     "EBiDAN": [
-      {
-        "id": "42af104abf60ac44",
-        "title": "【ライブレポート】ICEx、青春の煌めきと胸に秘めた熱さを体現したツアー＜”FRESHest!!”＞完遂。「COOLerのみんなのおかげで最高の思い出になりました」",
-        "sourceName": "BARKS",
-        "sourceUrl": "https://www.barks.jp/feed/",
-        "articleUrl": "https://barks.jp/news/1090793",
-        "publishedAt": "2026-09-24T03:00:00.000Z",
-        "summary": "ICExが、2026年9月23日に＜ICEx Fourth Concert Tour 2026 ”FRESHest!!”＞ツアーファイナルを東京国際フォーラム ホールAで迎えた。なお、グループ史上最大規模となるツアーファイナルにして、チケットは全席ソールドアウトとなったため、CSテレ朝チャンネルでの独占生中継も行われた。 “全ての愛を愛す”をコンセプトに20",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK",
-          "ICEx"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "マサヒロ",
-            "group": "超特急",
-            "status": "active"
-          },
-          {
-            "name": "志賀李玖",
-            "group": "ICEx",
-            "status": "active"
-          },
-          {
-            "name": "中村旺太郎",
-            "group": "ICEx",
-            "status": "active"
-          },
-          {
-            "name": "阿久根温世",
-            "group": "ICEx",
-            "status": "active"
-          },
-          {
-            "name": "千田波空斗",
-            "group": "ICEx",
-            "status": "active"
-          },
-          {
-            "name": "筒井俊旭",
-            "group": "ICEx",
-            "status": "active"
-          },
-          {
-            "name": "山本龍人",
-            "group": "ICEx",
-            "status": "active"
-          },
-          {
-            "name": "竹野世梛",
-            "group": "ICEx",
-            "status": "active"
-          },
-          {
-            "name": "八神遼介",
-            "group": "ICEx",
-            "status": "active"
-          }
-        ]
-      },
       {
         "id": "0d6f12771cde1aed",
         "title": "「SUPER★DRAGON DRA FES 2026」 【9/24(木)東京・9/27(日)大阪】オフィシャルグッズ、ミニ生写真セット 会場販売のお知らせ",
@@ -436,74 +338,24 @@
         ],
         "statuses": [],
         "memberMatches": []
+      },
+      {
+        "id": "7277b3cf409678c0",
+        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』 最新チケット情報",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11600/",
+        "publishedAt": "2026-08-31T09:30:16.000Z",
+        "summary": "本日8月31日(月)18:00よりEBiDAN先行受付開始！ 皆さんとお会いできることを楽しみにしております！ 第６回EBiDAN大運動会『スポーツマンヒップ！』 【千葉】LaLa arena […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』 最新チケット情報 first appeared on SUPER★DRAGON .",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
       }
     ],
     "超特急": [
-      {
-        "id": "42af104abf60ac44",
-        "title": "【ライブレポート】ICEx、青春の煌めきと胸に秘めた熱さを体現したツアー＜”FRESHest!!”＞完遂。「COOLerのみんなのおかげで最高の思い出になりました」",
-        "sourceName": "BARKS",
-        "sourceUrl": "https://www.barks.jp/feed/",
-        "articleUrl": "https://barks.jp/news/1090793",
-        "publishedAt": "2026-09-24T03:00:00.000Z",
-        "summary": "ICExが、2026年9月23日に＜ICEx Fourth Concert Tour 2026 ”FRESHest!!”＞ツアーファイナルを東京国際フォーラム ホールAで迎えた。なお、グループ史上最大規模となるツアーファイナルにして、チケットは全席ソールドアウトとなったため、CSテレ朝チャンネルでの独占生中継も行われた。 “全ての愛を愛す”をコンセプトに20",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK",
-          "ICEx"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "マサヒロ",
-            "group": "超特急",
-            "status": "active"
-          },
-          {
-            "name": "志賀李玖",
-            "group": "ICEx",
-            "status": "active"
-          },
-          {
-            "name": "中村旺太郎",
-            "group": "ICEx",
-            "status": "active"
-          },
-          {
-            "name": "阿久根温世",
-            "group": "ICEx",
-            "status": "active"
-          },
-          {
-            "name": "千田波空斗",
-            "group": "ICEx",
-            "status": "active"
-          },
-          {
-            "name": "筒井俊旭",
-            "group": "ICEx",
-            "status": "active"
-          },
-          {
-            "name": "山本龍人",
-            "group": "ICEx",
-            "status": "active"
-          },
-          {
-            "name": "竹野世梛",
-            "group": "ICEx",
-            "status": "active"
-          },
-          {
-            "name": "八神遼介",
-            "group": "ICEx",
-            "status": "active"
-          }
-        ]
-      },
       {
         "id": "47f16c975ff422cd",
         "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
@@ -562,161 +414,27 @@
         "memberMatches": []
       }
     ],
-    "ICEx": [
+    "Sakurashimeji": [
       {
-        "id": "42af104abf60ac44",
-        "title": "【ライブレポート】ICEx、青春の煌めきと胸に秘めた熱さを体現したツアー＜”FRESHest!!”＞完遂。「COOLerのみんなのおかげで最高の思い出になりました」",
-        "sourceName": "BARKS",
-        "sourceUrl": "https://www.barks.jp/feed/",
-        "articleUrl": "https://barks.jp/news/1090793",
-        "publishedAt": "2026-09-24T03:00:00.000Z",
-        "summary": "ICExが、2026年9月23日に＜ICEx Fourth Concert Tour 2026 ”FRESHest!!”＞ツアーファイナルを東京国際フォーラム ホールAで迎えた。なお、グループ史上最大規模となるツアーファイナルにして、チケットは全席ソールドアウトとなったため、CSテレ朝チャンネルでの独占生中継も行われた。 “全ての愛を愛す”をコンセプトに20",
+        "id": "47f16c975ff422cd",
+        "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11607/",
+        "publishedAt": "2026-09-02T12:34:24.000Z",
+        "summary": "平素より株式会社SDR所属アーティストへの温かいご声援を賜り、誠にありがとうございます。 DISH//、EBiDAN（超特急、M!LK、SUPER★DRAGON、Sakurashimeji、ONE N’ ON […] The post グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ first appeared on SUPER★DRAGO",
         "groups": [
           "EBiDAN",
           "超特急",
           "M!LK",
-          "ICEx"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "マサヒロ",
-            "group": "超特急",
-            "status": "active"
-          },
-          {
-            "name": "志賀李玖",
-            "group": "ICEx",
-            "status": "active"
-          },
-          {
-            "name": "中村旺太郎",
-            "group": "ICEx",
-            "status": "active"
-          },
-          {
-            "name": "阿久根温世",
-            "group": "ICEx",
-            "status": "active"
-          },
-          {
-            "name": "千田波空斗",
-            "group": "ICEx",
-            "status": "active"
-          },
-          {
-            "name": "筒井俊旭",
-            "group": "ICEx",
-            "status": "active"
-          },
-          {
-            "name": "山本龍人",
-            "group": "ICEx",
-            "status": "active"
-          },
-          {
-            "name": "竹野世梛",
-            "group": "ICEx",
-            "status": "active"
-          },
-          {
-            "name": "八神遼介",
-            "group": "ICEx",
-            "status": "active"
-          }
-        ]
-      }
-    ],
-    "SUPER★DRAGON": [
-      {
-        "id": "6e8ea1fd5513e5f5",
-        "title": "SUPER★DRAGON DRA FES 2026 +KIRARIブース実施のお知らせ！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11654/",
-        "publishedAt": "2026-09-20T03:30:38.000Z",
-        "summary": "「SUPER★DRAGON DRA FES 2026」9月24日(木)東京公演、9月27日(日)大阪公演にて+KIRARIブースの実施が決定いたしました！ ▼+KIRARIブース実施内容 ★12ヶ月プラン限定来場者プレゼ […] The post SUPER★DRAGON DRA FES 2026 +KIRARIブース実施のお知らせ！ first appea",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "70d0377384b222c4",
-        "title": "「SUPER★DRAGON DRA FES 2026 SCRATCH」開催のお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11649/",
-        "publishedAt": "2026-09-20T03:00:26.000Z",
-        "summary": "「SUPER★DRAGON DRA FES 2026」の開催を記念して、9月24日(木)東京公演、9月27日(日)大阪公演当日に「SUPER★DRAGON DRA FES 2026 SCRATCH」の開催が決定しました！ […] The post 「SUPER★DRAGON DRA FES 2026 SCRATCH」開催のお知らせ first appeare",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "3243f7a914d7a30a",
-        "title": "「SUPER★DRAGON DRA FES 2026 追加公演」最新チケット情報",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11647/",
-        "publishedAt": "2026-09-18T09:00:56.000Z",
-        "summary": "本日9月18日(金)18:00より、ローソンチケットにてプレリクエスト先行〈抽選〉受付開始。 会場で皆さんとお会いできることを楽しみにしております！ ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願い […] The post 「SUPER★DRAGON DRA FES 2026 追加公演」最新チケット情報 first appeared ",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "0d6f12771cde1aed",
-        "title": "「SUPER★DRAGON DRA FES 2026」 【9/24(木)東京・9/27(日)大阪】オフィシャルグッズ、ミニ生写真セット 会場販売のお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11635/",
-        "publishedAt": "2026-09-17T07:00:15.000Z",
-        "summary": "東京、大阪公演会場より、「会場別ラメアクリルキーホルダー」、ミニ生写真セット「第9弾」、「第10弾」が新登場！ さらに、該当公演のチケットをお持ちの方を対象に、事前にグッズの注文リスト作成が可能な〈EBiDANアプリ(G […] The post 「SUPER★DRAGON DRA FES 2026」 【9/24(木)東京・9/27(日)大阪】オフィシャルグ",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "de5aabee4ecd82b3",
-        "title": "「SUPER★DRAGON DRA FES 2026」9月公演 追加販売情報",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11630/",
-        "publishedAt": "2026-09-16T10:00:46.000Z",
-        "summary": "「SUPER★DRAGON DRA FES 2026」9月24日(木)東京公演、9月27日(日)大阪公演につきまして、 2F後方立見の追加販売が決定いたしました。 9月17日(木)19:00より〈先着〉にて販売開始！ 会 […] The post 「SUPER★DRAGON DRA FES 2026」9月公演 追加販売情報 first appeared on",
-        "groups": [
-          "SUPER★DRAGON"
+          "SUPER★DRAGON",
+          "Sakurashimeji"
         ],
         "statuses": [],
         "memberMatches": []
       }
     ],
     "原因は自分にある。": [
-      {
-        "id": "24efcee45fb52301",
-        "title": "「J-POPシングル ウィークリーTOP30」発表。1位はINI『ANTHEM』、予約1位は原因は自分にある。『ラブリーズン』（2026年9月17日付）",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/09/17/tg003",
-        "publishedAt": "2026-09-17T10:00:00.000Z",
-        "summary": "",
-        "groups": [
-          "原因は自分にある。"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
       {
         "id": "15fb9ee4d3775ce2",
         "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
@@ -744,26 +462,6 @@
             "status": "active"
           }
         ]
-      }
-    ],
-    "Sakurashimeji": [
-      {
-        "id": "47f16c975ff422cd",
-        "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11607/",
-        "publishedAt": "2026-09-02T12:34:24.000Z",
-        "summary": "平素より株式会社SDR所属アーティストへの温かいご声援を賜り、誠にありがとうございます。 DISH//、EBiDAN（超特急、M!LK、SUPER★DRAGON、Sakurashimeji、ONE N’ ON […] The post グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ first appeared on SUPER★DRAGO",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK",
-          "SUPER★DRAGON",
-          "Sakurashimeji"
-        ],
-        "statuses": [],
-        "memberMatches": []
       }
     ],
     "BUDDiiS": [
