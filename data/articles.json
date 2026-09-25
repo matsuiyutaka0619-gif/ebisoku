@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-25T04:56:58.465Z",
+  "updatedAt": "2026-09-25T11:50:28.909Z",
   "articles": [
     {
-      "id": "abf5e8bfc20a39fc",
-      "title": "M!LK吉田仁人がこちらに向かって“投げキス”！直後に照れ笑いも「ちゅって音がする！」「心臓バクバク」「最後の笑顔がまた好き」「激メロ」と大反響",
+      "id": "0c1b9a27e1a1270b",
+      "title": "『M!LKの爆裂ミッション』第2弾放送決定！「皆さんの心をかなり揺さぶるような放送になるのでは」（吉田仁人）",
       "sourceName": "THE FIRST TIMES",
       "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000888125/",
-      "publishedAt": "2026-09-25T04:34:32.000Z",
-      "summary": "文化放送『M!LK 吉田仁人のレコメン！』の公式Xで、9月24日放送回のオフショットが続々と公開...",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000888303/",
+      "publishedAt": "2026-09-25T11:00:06.000Z",
+      "summary": "M!LKの冠バラエティ番組『M!LKの爆裂ミッション』第2弾が10月6日に放送される。 ■「ラスボスの...",
       "groups": [
         "M!LK"
       ],
@@ -24,13 +24,13 @@
       ]
     },
     {
-      "id": "84a0f080d9af81a1",
-      "title": "M!LK塩﨑太智『新しいカギ』の「名曲大好き！土八先生」に初参戦「頑張り滅！」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000887912/",
-      "publishedAt": "2026-09-25T04:00:08.000Z",
-      "summary": "M!LKの塩崎太智（※「崎」は、たつさきが正式表記）が、助っ人ゲストとして9月26日18時30分より...",
+      "id": "afe604bde52104c0",
+      "title": "「M！LKの爆裂ミッション」第2弾はクレーンゲームで材料集めカレー作り 超高難易度台に緊迫",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202609250001259.html",
+      "publishedAt": "2026-09-25T11:00:00.000Z",
+      "summary": "5人組ダンスボーカルグループ、M！LKの冠番組「M！LKの爆裂ミッション」第2弾が10月6日午後10時から、TBS系で放送される。 世の中で話題になっているものにメンバーが全力で挑むバラエティー特番。佐野勇斗（28）は、7月7日に放送さ…",
       "groups": [
         "M!LK"
       ],
@@ -39,22 +39,49 @@
       ],
       "memberMatches": [
         {
-          "name": "塩﨑太智",
+          "name": "佐野勇斗",
           "group": "M!LK",
           "status": "active"
         }
       ]
     },
     {
-      "id": "4847b3f748d83dbb",
-      "title": "吉田仁人（M!LK）主演ドラマ『溺愛』追加キャスト解禁！ヒロインに桃月なしこ、クズ界のラスボスに池田彪馬（SUPER★DRAGON）が決定",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000888025/",
-      "publishedAt": "2026-09-25T02:55:32.000Z",
-      "summary": "吉田仁人（M!LK）が主演を務める新金曜ドラマ『溺愛 ～ 実は、最強ヒーロー ～』の追加キャス...",
+      "id": "50c446da2c851e3f",
+      "title": "M!LK、“ザッツ！超常”が10月6日放送開始のTVアニメ「超巡！超条先輩」OPテーマに決定。楽曲使用第2弾メインPV公開",
+      "sourceName": "タワーレコード ニュース",
+      "sourceUrl": "https://tower.jp/feeds/article/news",
+      "articleUrl": "https://tower.jp/article/news/2026/09/25/tg005",
+      "publishedAt": "2026-09-25T11:00:00.000Z",
+      "summary": "",
       "groups": [
-        "M!LK",
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "57a86f8522a27163",
+      "title": "ICEx、新曲「LOVEだね」ライブ映像を最速公開。ハロウィンイベント開催決定も",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1091167",
+      "publishedAt": "2026-09-25T10:00:00.000Z",
+      "summary": "ICExが、本日配信された新曲「LOVEだね」のライブ映像を今夜21時に公開する。 今回公開されるのは、全国ツアー＜ICEx Fourth Concert Tour 2026 ”FRESHest!!”＞東京公演でのパフォーマンスだ。9月23日に東京国際フォーラム ホールAで行われたばかりの映像となっており、会場の熱狂をいち早く体験できる。 さらに、10月31",
+      "groups": [
+        "ICEx"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "f2ba5a9ce903cd75",
+      "title": "文化放送『SUPER★DRAGON 伊藤壮吾 壮都高速鉄道株主総会』放送決定！",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news11690/",
+      "publishedAt": "2026-09-25T08:00:26.000Z",
+      "summary": "SUPER★DRAGONの伊藤壮吾がパーソナリティを務める特別番組『SUPER★DRAGON 伊藤壮吾 壮都高速鉄道株主総会』を 文化放送にて10月6日（火）午後7時00分より放送が決定しました！ 最近注目の鉄道ニュース […] The post 文化放送『SUPER★DRAGON 伊藤壮吾 壮都高速鉄道株主総会』放送決定！ first appeared o",
+      "groups": [
         "SUPER★DRAGON"
       ],
       "statuses": [
@@ -62,16 +89,26 @@
       ],
       "memberMatches": [
         {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "池田彪馬",
+          "name": "伊藤壮吾",
           "group": "SUPER★DRAGON",
           "status": "active"
         }
       ]
+    },
+    {
+      "id": "2d0b458420c3f95a",
+      "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ 〈事前購入・会場受取〉実施のお知らせ",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news11683/",
+      "publishedAt": "2026-09-25T07:00:46.000Z",
+      "summary": "第6回EBiDAN大運動会『スポーツマンヒップ！』の会場にて、 該当公演のチケットをお持ちの方を対象に、会場で受け取り可能なオフィシャルグッズの〈事前購入〉を実施いたします。 ※こちらの販売は、公演前にご自宅等にお届けの […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ 〈事前購入・会場受取〉実施のお知らせ fi",
+      "groups": [
+        "EBiDAN",
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
     },
     {
       "id": "9342725a8a7d7dbb",
@@ -94,20 +131,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "f3b9c54edf7e9fd5",
-      "title": "村上信五（SUPER EIGHT）、松尾太陽（超特急）らが『秘密のケンミンSHOW 極』で「大阪南北全然ちゃう問題」を大激論",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000887468/",
-      "publishedAt": "2026-09-24T13:00:06.000Z",
-      "summary": "村上信五（SUPER EIGHT）、松尾太陽（超特急）らが、10月1日放送の読売テレビ・日本テレビ系『...",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "b8642925dcf59156",
@@ -1870,35 +1893,6 @@
       "publishedAt": "2026-05-28T10:59:32.000Z",
       "summary": "2026年7月15日(水)発売 Major 6th Single「Call Me Asap / NUMBER」 [CD収録内容] ※全形態収録内容共通 M1.「Call Me Asap」 M2.「NUMBER」 M3.「 […] The post Major 6th Single「Call Me Asap / NUMBER」 封入トレカ/ショップ別先着予約特",
       "groups": [
-        "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "2dee0059b1ab70aa",
-      "title": "Major 6th Single「Call Me Asap / NUMBER」6月27日(土)開催リリースイベント＠UNITEDLAB（福岡）参加方法・特典会内容についてのご案内",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news11031/",
-      "publishedAt": "2026-05-26T11:00:23.000Z",
-      "summary": "6月27日(土)UNITEDLABにて開催するリリースイベントの詳細をご案内致します。 必ず最後まで全てお読み頂き、会場にいらした皆様がイベントを楽しめるよう、ファンの皆様同士でルールとマナーの厳守をお願い致します。 リ […] The post Major 6th Single「Call Me Asap / NUMBER」6月27日(土)開催リリースイベン",
-      "groups": [
-        "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "62e991f7d06e12f0",
-      "title": "8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 全15形態のジャケット写真、封入特典のトレカ絵柄を一部公開！",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news11012/",
-      "publishedAt": "2026-05-22T08:00:33.000Z",
-      "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して、8月11日(火・祝)にリリースするシングル「Yes! 東京」のジャケット写真を公開！ 今作は通常盤、グループ盤、15周年盤の計15形態での発売となり、その中でも通常 […] The post 8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 全15形態のジャケット写真、封入特典のトレカ",
-      "groups": [
-        "EBiDAN",
         "SUPER★DRAGON"
       ],
       "statuses": [],
