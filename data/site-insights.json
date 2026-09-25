@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-25T11:50:29.040Z",
+  "updatedAt": "2026-09-25T17:10:51.850Z",
   "totals": {
-    "all": 116,
-    "today": 7,
-    "week": 11
+    "all": 114,
+    "today": 0,
+    "week": 9
   },
   "groupRanking": [
     {
@@ -12,14 +12,10 @@
     },
     {
       "name": "M!LK",
-      "count": 3
+      "count": 2
     },
     {
       "name": "EBiDAN",
-      "count": 1
-    },
-    {
-      "name": "ICEx",
       "count": 1
     }
   ],
@@ -33,10 +29,6 @@
       "count": 1
     },
     {
-      "name": "佐野勇斗",
-      "count": 1
-    },
-    {
       "name": "池田彪馬",
       "count": 1
     }
@@ -47,19 +39,11 @@
       "count": 7
     },
     {
-      "name": "BARKS",
-      "count": 1
-    },
-    {
       "name": "THE FIRST TIMES",
       "count": 1
     },
     {
       "name": "タワーレコード ニュース",
-      "count": 1
-    },
-    {
-      "name": "日刊スポーツ 芸能",
       "count": 1
     }
   ],
@@ -83,28 +67,6 @@
         "memberMatches": [
           {
             "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "afe604bde52104c0",
-        "title": "「M！LKの爆裂ミッション」第2弾はクレーンゲームで材料集めカレー作り 超高難易度台に緊迫",
-        "sourceName": "日刊スポーツ 芸能",
-        "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-        "articleUrl": "https://www.nikkansports.com/entertainment/news/202609250001259.html",
-        "publishedAt": "2026-09-25T11:00:00.000Z",
-        "summary": "5人組ダンスボーカルグループ、M！LKの冠番組「M！LKの爆裂ミッション」第2弾が10月6日午後10時から、TBS系で放送される。 世の中で話題になっているものにメンバーが全力で挑むバラエティー特番。佐野勇斗（28）は、7月7日に放送さ…",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
             "group": "M!LK",
             "status": "active"
           }
@@ -172,19 +134,17 @@
             "status": "active"
           }
         ]
-      }
-    ],
-    "ICEx": [
+      },
       {
-        "id": "57a86f8522a27163",
-        "title": "ICEx、新曲「LOVEだね」ライブ映像を最速公開。ハロウィンイベント開催決定も",
-        "sourceName": "BARKS",
-        "sourceUrl": "https://www.barks.jp/feed/",
-        "articleUrl": "https://barks.jp/news/1091167",
-        "publishedAt": "2026-09-25T10:00:00.000Z",
-        "summary": "ICExが、本日配信された新曲「LOVEだね」のライブ映像を今夜21時に公開する。 今回公開されるのは、全国ツアー＜ICEx Fourth Concert Tour 2026 ”FRESHest!!”＞東京公演でのパフォーマンスだ。9月23日に東京国際フォーラム ホールAで行われたばかりの映像となっており、会場の熱狂をいち早く体験できる。 さらに、10月31",
+        "id": "976120bc3101651a",
+        "title": "M!LKが“ユニバース”を背負う新アー写公開、1stミニアルバムリード曲は早くもチャート席巻中",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/09/91880/",
+        "publishedAt": "2026-09-08T09:00:00.000Z",
+        "summary": "5人組ダンスボーカルグループ・M!LKが、9月16日(水)に控えるミニアルバム『LOVE ENG!NE』リリースに先駆けて最新アーティスト写真を公開した。 M!LKにとって初ミニアルバムとなる本作からは、リード曲「時空超えてユニバース」（ときこえてゆにばーす）の先行配信が9月7日(月)にスタート。配信開始直後からXのトレンドで「#ときユニ」が1位を獲得したほ",
         "groups": [
-          "ICEx"
+          "M!LK"
         ],
         "statuses": [],
         "memberMatches": []

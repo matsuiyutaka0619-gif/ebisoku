@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T11:50:28.909Z",
+  "updatedAt": "2026-09-25T17:10:51.848Z",
   "articles": [
     {
       "id": "0c1b9a27e1a1270b",
@@ -24,28 +24,6 @@
       ]
     },
     {
-      "id": "afe604bde52104c0",
-      "title": "「M！LKの爆裂ミッション」第2弾はクレーンゲームで材料集めカレー作り 超高難易度台に緊迫",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202609250001259.html",
-      "publishedAt": "2026-09-25T11:00:00.000Z",
-      "summary": "5人組ダンスボーカルグループ、M！LKの冠番組「M！LKの爆裂ミッション」第2弾が10月6日午後10時から、TBS系で放送される。 世の中で話題になっているものにメンバーが全力で挑むバラエティー特番。佐野勇斗（28）は、7月7日に放送さ…",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "50c446da2c851e3f",
       "title": "M!LK、“ザッツ！超常”が10月6日放送開始のTVアニメ「超巡！超条先輩」OPテーマに決定。楽曲使用第2弾メインPV公開",
       "sourceName": "タワーレコード ニュース",
@@ -55,20 +33,6 @@
       "summary": "",
       "groups": [
         "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "57a86f8522a27163",
-      "title": "ICEx、新曲「LOVEだね」ライブ映像を最速公開。ハロウィンイベント開催決定も",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1091167",
-      "publishedAt": "2026-09-25T10:00:00.000Z",
-      "summary": "ICExが、本日配信された新曲「LOVEだね」のライブ映像を今夜21時に公開する。 今回公開されるのは、全国ツアー＜ICEx Fourth Concert Tour 2026 ”FRESHest!!”＞東京公演でのパフォーマンスだ。9月23日に東京国際フォーラム ホールAで行われたばかりの映像となっており、会場の熱狂をいち早く体験できる。 さらに、10月31",
-      "groups": [
-        "ICEx"
       ],
       "statuses": [],
       "memberMatches": []
