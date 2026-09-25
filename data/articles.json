@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-24T21:30:54.087Z",
+  "updatedAt": "2026-09-25T04:56:58.465Z",
   "articles": [
     {
-      "id": "9b2d8905aa3f6bc0",
-      "title": "M!LK 吉田仁人＆塩﨑太智が観葉植物を購入 佐野勇斗へのサプライズプレゼントに「尊い」「メンバー愛にあふれたいい回」",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/09/post-2532929.html",
-      "publishedAt": "2026-09-24T20:50:47.000Z",
-      "summary": "M!LKの吉田仁人と塩﨑太智がYouTubeを更新。塩﨑が自身の26歳の誕生日プレゼントとして観葉植物を購入するため、吉田とともに園芸専門店「オザキフラワーパーク」を訪れる様子を公開した。",
+      "id": "abf5e8bfc20a39fc",
+      "title": "M!LK吉田仁人がこちらに向かって“投げキス”！直後に照れ笑いも「ちゅって音がする！」「心臓バクバク」「最後の笑顔がまた好き」「激メロ」と大反響",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000888125/",
+      "publishedAt": "2026-09-25T04:34:32.000Z",
+      "summary": "文化放送『M!LK 吉田仁人のレコメン！』の公式Xで、9月24日放送回のオフショットが続々と公開...",
       "groups": [
         "M!LK"
       ],
@@ -17,18 +17,80 @@
       ],
       "memberMatches": [
         {
-          "name": "佐野勇斗",
+          "name": "吉田仁人",
           "group": "M!LK",
           "status": "active"
-        },
+        }
+      ]
+    },
+    {
+      "id": "84a0f080d9af81a1",
+      "title": "M!LK塩﨑太智『新しいカギ』の「名曲大好き！土八先生」に初参戦「頑張り滅！」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000887912/",
+      "publishedAt": "2026-09-25T04:00:08.000Z",
+      "summary": "M!LKの塩崎太智（※「崎」は、たつさきが正式表記）が、助っ人ゲストとして9月26日18時30分より...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
         {
           "name": "塩﨑太智",
           "group": "M!LK",
           "status": "active"
-        },
+        }
+      ]
+    },
+    {
+      "id": "4847b3f748d83dbb",
+      "title": "吉田仁人（M!LK）主演ドラマ『溺愛』追加キャスト解禁！ヒロインに桃月なしこ、クズ界のラスボスに池田彪馬（SUPER★DRAGON）が決定",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000888025/",
+      "publishedAt": "2026-09-25T02:55:32.000Z",
+      "summary": "吉田仁人（M!LK）が主演を務める新金曜ドラマ『溺愛 ～ 実は、最強ヒーロー ～』の追加キャス...",
+      "groups": [
+        "M!LK",
+        "SUPER★DRAGON"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
         {
           "name": "吉田仁人",
           "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "池田彪馬",
+          "group": "SUPER★DRAGON",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "9342725a8a7d7dbb",
+      "title": "【池田彪馬】TOKYO MX金曜ドラマ『溺愛 ～ 実は、最強ヒーロー ～』出演決定！",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news11675/",
+      "publishedAt": "2026-09-24T22:00:56.000Z",
+      "summary": "10月30日(金)23:00〜放送スタート TOKYO MX金曜ドラマ『溺愛 ～ 実は、最強ヒーロー ～』に 池田彪馬がクズ界のラスボス・相川樹役として出演決定！ お楽しみに！ ◆番組概要 ※下記内容は都合 […] The post 【池田彪馬】TOKYO MX金曜ドラマ『溺愛 ～ 実は、最強ヒーロー ～』出演決定！ first appeared on SU",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "池田彪馬",
+          "group": "SUPER★DRAGON",
           "status": "active"
         }
       ]
@@ -74,47 +136,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "724ef88f2212df68",
-      "title": "『Venue101 EXTRA』WEEK1の見どころ公開！M!LKのお絵かきグランプリに爆笑＆Da-iCEらがアツいライブを披露",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000887762/",
-      "publishedAt": "2026-09-24T10:35:19.000Z",
-      "summary": "NHK総合『Venue101』（9月26日23時より放送）では、『Venue101 EXTRA』と題して東京・NHKホー...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "9db5fb9bf6114574",
-      "title": "M!LK佐野勇斗に吉田仁人が吹っ飛ばされる!? 笑い止まらぬじゃれあいダンスに「さのじんワチャワチャ愛しい」「はやちゃん強すぎる（笑）」「仁ちゃん乙女に見える」と反響",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000887110/",
-      "publishedAt": "2026-09-24T04:31:03.000Z",
-      "summary": "M!LKの公式SNSで、佐野勇斗と吉田仁人が「時空超えてユニバース」をダンスする動画が公開され...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "6e8ea1fd5513e5f5",
@@ -1068,38 +1089,6 @@
       "memberMatches": []
     },
     {
-      "id": "5e43c6ca0d90cfeb",
-      "title": "M!LK連続リリース企画第四弾、夏のキラーチューン「You!Joy!Parade!」7月17日配信決定",
-      "sourceName": "Bezzy",
-      "sourceUrl": "https://bezzy.jp/feed/",
-      "articleUrl": "https://bezzy.jp/2026/07/89182/",
-      "publishedAt": "2026-07-13T09:00:00.000Z",
-      "summary": "5人組ダンスボーカルグループ・M!LKが、 5ヵ月連続リリース企画「モー烈モー進！リリースプロジェクト2026」第四弾新曲「You!Joy!Parade!」を7月17日(金)に配信リリースすることを発表した。 第一弾楽曲「アイドルパワー」を皮切りにスタートした「モー烈モー進！リリースプロジェクト2026」では、これまで曽野舜太と山中柔太朗によるユニット楽曲「",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "塩﨑太智",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "曽野舜太",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "山中柔太朗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "12e4b8a3fb9cf709",
       "title": "EBiDAN公式Stationheadアカウント開設＆リスニングパーティー開催が決定！",
       "sourceName": "SUPER★DRAGON 公式NEWS",
@@ -1910,20 +1899,6 @@
       "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して、8月11日(火・祝)にリリースするシングル「Yes! 東京」のジャケット写真を公開！ 今作は通常盤、グループ盤、15周年盤の計15形態での発売となり、その中でも通常 […] The post 8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 全15形態のジャケット写真、封入特典のトレカ",
       "groups": [
         "EBiDAN",
-        "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "6a4f4b776bc3a136",
-      "title": "Major 6th Single「Call Me Asap / NUMBER」楽天ブックスにてオンライン予約抽選会開催！",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news11007/",
-      "publishedAt": "2026-05-21T09:00:42.000Z",
-      "summary": "SUPER★DRAGON Major 6th Single「Call Me Asap / NUMBER」発売を記念してラッキードローの実施が決定いたしました！ 対象商品を楽天ブックスにて期間中にご購入いただいた方の中から […] The post Major 6th Single「Call Me Asap / NUMBER」楽天ブックスにてオンライン予約抽選",
-      "groups": [
         "SUPER★DRAGON"
       ],
       "statuses": [],

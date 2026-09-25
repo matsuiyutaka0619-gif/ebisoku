@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-09-24T21:30:54.089Z",
+  "updatedAt": "2026-09-25T04:56:58.467Z",
   "totals": {
-    "all": 117,
-    "today": 1,
+    "all": 116,
+    "today": 4,
     "week": 10
   },
   "groupRanking": [
     {
       "name": "SUPER★DRAGON",
-      "count": 5
+      "count": 7
     },
     {
       "name": "M!LK",
-      "count": 4
+      "count": 3
     },
     {
       "name": "超特急",
@@ -25,51 +25,35 @@
       "count": 2
     },
     {
-      "name": "佐野勇斗",
+      "name": "池田彪馬",
       "count": 2
     },
     {
       "name": "塩﨑太智",
-      "count": 1
-    },
-    {
-      "name": "山中柔太朗",
-      "count": 1
-    },
-    {
-      "name": "曽野舜太",
       "count": 1
     }
   ],
   "sourceRanking": [
     {
       "name": "SUPER★DRAGON 公式NEWS",
-      "count": 5
+      "count": 6
     },
     {
       "name": "THE FIRST TIMES",
-      "count": 3
-    },
-    {
-      "name": "タワーレコード ニュース",
-      "count": 1
-    },
-    {
-      "name": "リアルサウンド 音楽",
-      "count": 1
+      "count": 4
     }
   ],
   "topics": [],
   "recentByGroup": {
     "M!LK": [
       {
-        "id": "9b2d8905aa3f6bc0",
-        "title": "M!LK 吉田仁人＆塩﨑太智が観葉植物を購入 佐野勇斗へのサプライズプレゼントに「尊い」「メンバー愛にあふれたいい回」",
-        "sourceName": "リアルサウンド 音楽",
-        "sourceUrl": "https://realsound.jp/music/feed",
-        "articleUrl": "https://realsound.jp/2026/09/post-2532929.html",
-        "publishedAt": "2026-09-24T20:50:47.000Z",
-        "summary": "M!LKの吉田仁人と塩﨑太智がYouTubeを更新。塩﨑が自身の26歳の誕生日プレゼントとして観葉植物を購入するため、吉田とともに園芸専門店「オザキフラワーパーク」を訪れる様子を公開した。",
+        "id": "abf5e8bfc20a39fc",
+        "title": "M!LK吉田仁人がこちらに向かって“投げキス”！直後に照れ笑いも「ちゅって音がする！」「心臓バクバク」「最後の笑顔がまた好き」「激メロ」と大反響",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000888125/",
+        "publishedAt": "2026-09-25T04:34:32.000Z",
+        "summary": "文化放送『M!LK 吉田仁人のレコメン！』の公式Xで、9月24日放送回のオフショットが続々と公開...",
         "groups": [
           "M!LK"
         ],
@@ -77,16 +61,6 @@
           "active"
         ],
         "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          },
           {
             "name": "吉田仁人",
             "group": "M!LK",
@@ -95,27 +69,13 @@
         ]
       },
       {
-        "id": "724ef88f2212df68",
-        "title": "『Venue101 EXTRA』WEEK1の見どころ公開！M!LKのお絵かきグランプリに爆笑＆Da-iCEらがアツいライブを披露",
+        "id": "84a0f080d9af81a1",
+        "title": "M!LK塩﨑太智『新しいカギ』の「名曲大好き！土八先生」に初参戦「頑張り滅！」",
         "sourceName": "THE FIRST TIMES",
         "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000887762/",
-        "publishedAt": "2026-09-24T10:35:19.000Z",
-        "summary": "NHK総合『Venue101』（9月26日23時より放送）では、『Venue101 EXTRA』と題して東京・NHKホー...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "9db5fb9bf6114574",
-        "title": "M!LK佐野勇斗に吉田仁人が吹っ飛ばされる!? 笑い止まらぬじゃれあいダンスに「さのじんワチャワチャ愛しい」「はやちゃん強すぎる（笑）」「仁ちゃん乙女に見える」と反響",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000887110/",
-        "publishedAt": "2026-09-24T04:31:03.000Z",
-        "summary": "M!LKの公式SNSで、佐野勇斗と吉田仁人が「時空超えてユニバース」をダンスする動画が公開され...",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000887912/",
+        "publishedAt": "2026-09-25T04:00:08.000Z",
+        "summary": "M!LKの塩崎太智（※「崎」は、たつさきが正式表記）が、助っ人ゲストとして9月26日18時30分より...",
         "groups": [
           "M!LK"
         ],
@@ -124,13 +84,36 @@
         ],
         "memberMatches": [
           {
-            "name": "佐野勇斗",
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "4847b3f748d83dbb",
+        "title": "吉田仁人（M!LK）主演ドラマ『溺愛』追加キャスト解禁！ヒロインに桃月なしこ、クズ界のラスボスに池田彪馬（SUPER★DRAGON）が決定",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000888025/",
+        "publishedAt": "2026-09-25T02:55:32.000Z",
+        "summary": "吉田仁人（M!LK）が主演を務める新金曜ドラマ『溺愛 ～ 実は、最強ヒーロー ～』の追加キャス...",
+        "groups": [
+          "M!LK",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉田仁人",
             "group": "M!LK",
             "status": "active"
           },
           {
-            "name": "吉田仁人",
-            "group": "M!LK",
+            "name": "池田彪馬",
+            "group": "SUPER★DRAGON",
             "status": "active"
           }
         ]
@@ -183,6 +166,100 @@
             "status": "active"
           }
         ]
+      }
+    ],
+    "SUPER★DRAGON": [
+      {
+        "id": "4847b3f748d83dbb",
+        "title": "吉田仁人（M!LK）主演ドラマ『溺愛』追加キャスト解禁！ヒロインに桃月なしこ、クズ界のラスボスに池田彪馬（SUPER★DRAGON）が決定",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000888025/",
+        "publishedAt": "2026-09-25T02:55:32.000Z",
+        "summary": "吉田仁人（M!LK）が主演を務める新金曜ドラマ『溺愛 ～ 実は、最強ヒーロー ～』の追加キャス...",
+        "groups": [
+          "M!LK",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "池田彪馬",
+            "group": "SUPER★DRAGON",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "9342725a8a7d7dbb",
+        "title": "【池田彪馬】TOKYO MX金曜ドラマ『溺愛 ～ 実は、最強ヒーロー ～』出演決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11675/",
+        "publishedAt": "2026-09-24T22:00:56.000Z",
+        "summary": "10月30日(金)23:00〜放送スタート TOKYO MX金曜ドラマ『溺愛 ～ 実は、最強ヒーロー ～』に 池田彪馬がクズ界のラスボス・相川樹役として出演決定！ お楽しみに！ ◆番組概要 ※下記内容は都合 […] The post 【池田彪馬】TOKYO MX金曜ドラマ『溺愛 ～ 実は、最強ヒーロー ～』出演決定！ first appeared on SU",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "池田彪馬",
+            "group": "SUPER★DRAGON",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "b8642925dcf59156",
+        "title": "SUPER★DRAGON LIVE TOUR 2027「house」 チケットの販売に伴うお願いと注意事項",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11659/",
+        "publishedAt": "2026-09-24T11:30:11.000Z",
+        "summary": "皆様に安心して公演をお楽しみいただくために、下記のご案内を必ずご確認のうえ、 お申込み、ご来場いただきますようお願い申しあげます。 ●チケットの譲渡や転売を含む不正行為は、いかなる場合も禁止いたします。正規販売以外でのチ […] The post SUPER★DRAGON LIVE TOUR 2027「house」 チケットの販売に伴うお願いと注意事項 fi",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "9633b2d8993f9cc8",
+        "title": "SUPER★DRAGON LIVE TOUR 2027「house」開催決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11657/",
+        "publishedAt": "2026-09-24T11:29:09.000Z",
+        "summary": "SUPER★DRAGON LIVE TOUR 2027「house」の開催が決定！ 本日9月24日(木)よりオフィシャルファンクラブ『AREA SD』会員先行が受付開始。 会場で皆さんとお会いできることを楽しみにしており […] The post SUPER★DRAGON LIVE TOUR 2027「house」開催決定！ first appeared o",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "6e8ea1fd5513e5f5",
+        "title": "SUPER★DRAGON DRA FES 2026 +KIRARIブース実施のお知らせ！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11654/",
+        "publishedAt": "2026-09-20T03:30:38.000Z",
+        "summary": "「SUPER★DRAGON DRA FES 2026」9月24日(木)東京公演、9月27日(日)大阪公演にて+KIRARIブースの実施が決定いたしました！ ▼+KIRARIブース実施内容 ★12ヶ月プラン限定来場者プレゼ […] The post SUPER★DRAGON DRA FES 2026 +KIRARIブース実施のお知らせ！ first appea",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
       }
     ],
     "超特急": [
@@ -252,78 +329,6 @@
           "EBiDAN",
           "超特急",
           "M!LK",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "SUPER★DRAGON": [
-      {
-        "id": "b8642925dcf59156",
-        "title": "SUPER★DRAGON LIVE TOUR 2027「house」 チケットの販売に伴うお願いと注意事項",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11659/",
-        "publishedAt": "2026-09-24T11:30:11.000Z",
-        "summary": "皆様に安心して公演をお楽しみいただくために、下記のご案内を必ずご確認のうえ、 お申込み、ご来場いただきますようお願い申しあげます。 ●チケットの譲渡や転売を含む不正行為は、いかなる場合も禁止いたします。正規販売以外でのチ […] The post SUPER★DRAGON LIVE TOUR 2027「house」 チケットの販売に伴うお願いと注意事項 fi",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "9633b2d8993f9cc8",
-        "title": "SUPER★DRAGON LIVE TOUR 2027「house」開催決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11657/",
-        "publishedAt": "2026-09-24T11:29:09.000Z",
-        "summary": "SUPER★DRAGON LIVE TOUR 2027「house」の開催が決定！ 本日9月24日(木)よりオフィシャルファンクラブ『AREA SD』会員先行が受付開始。 会場で皆さんとお会いできることを楽しみにしており […] The post SUPER★DRAGON LIVE TOUR 2027「house」開催決定！ first appeared o",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "6e8ea1fd5513e5f5",
-        "title": "SUPER★DRAGON DRA FES 2026 +KIRARIブース実施のお知らせ！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11654/",
-        "publishedAt": "2026-09-20T03:30:38.000Z",
-        "summary": "「SUPER★DRAGON DRA FES 2026」9月24日(木)東京公演、9月27日(日)大阪公演にて+KIRARIブースの実施が決定いたしました！ ▼+KIRARIブース実施内容 ★12ヶ月プラン限定来場者プレゼ […] The post SUPER★DRAGON DRA FES 2026 +KIRARIブース実施のお知らせ！ first appea",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "70d0377384b222c4",
-        "title": "「SUPER★DRAGON DRA FES 2026 SCRATCH」開催のお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11649/",
-        "publishedAt": "2026-09-20T03:00:26.000Z",
-        "summary": "「SUPER★DRAGON DRA FES 2026」の開催を記念して、9月24日(木)東京公演、9月27日(日)大阪公演当日に「SUPER★DRAGON DRA FES 2026 SCRATCH」の開催が決定しました！ […] The post 「SUPER★DRAGON DRA FES 2026 SCRATCH」開催のお知らせ first appeare",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "3243f7a914d7a30a",
-        "title": "「SUPER★DRAGON DRA FES 2026 追加公演」最新チケット情報",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11647/",
-        "publishedAt": "2026-09-18T09:00:56.000Z",
-        "summary": "本日9月18日(金)18:00より、ローソンチケットにてプレリクエスト先行〈抽選〉受付開始。 会場で皆さんとお会いできることを楽しみにしております！ ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願い […] The post 「SUPER★DRAGON DRA FES 2026 追加公演」最新チケット情報 first appeared ",
-        "groups": [
           "SUPER★DRAGON"
         ],
         "statuses": [],
