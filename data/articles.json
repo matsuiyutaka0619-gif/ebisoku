@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-09-26T11:24:21.115Z",
+  "updatedAt": "2026-09-26T16:23:09.483Z",
   "articles": [
+    {
+      "id": "de22168026dfe9a1",
+      "title": "【ガルアワ】板野友美、生見愛瑠、藤田ニコル、本田紗来、乃木坂46メンバーら続々ランウェー歩く",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202609260002281.html",
+      "publishedAt": "2026-09-26T13:31:50.000Z",
+      "summary": "板野友美や生見愛瑠、大友花恋、遠藤さくらら乃木坂46メンバー、藤田ニコル、小川史記、川口葵、武尊、長浜広奈、坂井仁香、松本麗世、管田愛貴、本田紗来らモデルや歌手らが、次々とランウェーを歩き、会場を盛り上げた。",
+      "groups": [
+        "BUDDiiS"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "FUMINORI",
+          "group": "BUDDiiS",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "061edf9a6941432a",
+      "title": "【ガルアワ】ONE N' ONLY、汗だくパフォーマンスで会場熱狂 ２年ぶり出演で４曲披露",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202609260002116.html",
+      "publishedAt": "2026-09-26T12:22:35.000Z",
+      "summary": "5人組ダンスボーカルグループ、ONE N’ ONLYが、ライブパフォーマンスを行った。 イベント開始から5時間以上が経過した午後8時すぎに登場。12月にリリースする新アルバムに収録する「Golden Sun」や、「FUEGO」「EVOL…",
+      "groups": [
+        "ONE N' ONLY"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "6532bda557ae1c0c",
       "title": "M!LK塩﨑太智とTOMORROW X TOGETHERが激しすぎる“滅！”ダンス披露「本家と張るほど過激ｗ」「ヒュニンカイの勢いすごい」「混ぜたら危険な組み合わせ（笑）」",

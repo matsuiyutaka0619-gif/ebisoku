@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-26T11:24:21.118Z",
+  "updatedAt": "2026-09-26T16:23:09.485Z",
   "totals": {
-    "all": 120,
-    "today": 8,
-    "week": 16
+    "all": 122,
+    "today": 0,
+    "week": 18
   },
   "groupRanking": [
     {
@@ -15,7 +15,15 @@
       "count": 8
     },
     {
+      "name": "BUDDiiS",
+      "count": 1
+    },
+    {
       "name": "EBiDAN",
+      "count": 1
+    },
+    {
+      "name": "ONE N' ONLY",
       "count": 1
     }
   ],
@@ -27,6 +35,10 @@
     {
       "name": "池田彪馬",
       "count": 2
+    },
+    {
+      "name": "FUMINORI",
+      "count": 1
     },
     {
       "name": "伊藤壮吾",
@@ -51,6 +63,10 @@
       "count": 5
     },
     {
+      "name": "日刊スポーツ 芸能",
+      "count": 2
+    },
+    {
       "name": "WWSチャンネル",
       "count": 1
     },
@@ -69,6 +85,74 @@
   ],
   "topics": [],
   "recentByGroup": {
+    "BUDDiiS": [
+      {
+        "id": "de22168026dfe9a1",
+        "title": "【ガルアワ】板野友美、生見愛瑠、藤田ニコル、本田紗来、乃木坂46メンバーら続々ランウェー歩く",
+        "sourceName": "日刊スポーツ 芸能",
+        "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+        "articleUrl": "https://www.nikkansports.com/entertainment/news/202609260002281.html",
+        "publishedAt": "2026-09-26T13:31:50.000Z",
+        "summary": "板野友美や生見愛瑠、大友花恋、遠藤さくらら乃木坂46メンバー、藤田ニコル、小川史記、川口葵、武尊、長浜広奈、坂井仁香、松本麗世、管田愛貴、本田紗来らモデルや歌手らが、次々とランウェーを歩き、会場を盛り上げた。",
+        "groups": [
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "FUMINORI",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "15fb9ee4d3775ce2",
+        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/07/89645/",
+        "publishedAt": "2026-07-24T12:00:00.000Z",
+        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
+        "groups": [
+          "原因は自分にある。",
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "ONE N' ONLY": [
+      {
+        "id": "061edf9a6941432a",
+        "title": "【ガルアワ】ONE N' ONLY、汗だくパフォーマンスで会場熱狂 ２年ぶり出演で４曲披露",
+        "sourceName": "日刊スポーツ 芸能",
+        "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+        "articleUrl": "https://www.nikkansports.com/entertainment/news/202609260002116.html",
+        "publishedAt": "2026-09-26T12:22:35.000Z",
+        "summary": "5人組ダンスボーカルグループ、ONE N’ ONLYが、ライブパフォーマンスを行った。 イベント開始から5時間以上が経過した午後8時すぎに登場。12月にリリースする新アルバムに収録する「Golden Sun」や、「FUEGO」「EVOL…",
+        "groups": [
+          "ONE N' ONLY"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
     "M!LK": [
       {
         "id": "6532bda557ae1c0c",
@@ -420,36 +504,6 @@
       }
     ],
     "原因は自分にある。": [
-      {
-        "id": "15fb9ee4d3775ce2",
-        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/07/89645/",
-        "publishedAt": "2026-07-24T12:00:00.000Z",
-        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
-        "groups": [
-          "原因は自分にある。",
-          "BUDDiiS"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "SHOOT",
-            "group": "BUDDiiS",
-            "status": "active"
-          }
-        ]
-      }
-    ],
-    "BUDDiiS": [
       {
         "id": "15fb9ee4d3775ce2",
         "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
