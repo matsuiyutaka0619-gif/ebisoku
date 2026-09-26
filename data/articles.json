@@ -1,6 +1,70 @@
 {
-  "updatedAt": "2026-09-26T04:57:30.991Z",
+  "updatedAt": "2026-09-26T11:24:21.115Z",
   "articles": [
+    {
+      "id": "6532bda557ae1c0c",
+      "title": "M!LK塩﨑太智とTOMORROW X TOGETHERが激しすぎる“滅！”ダンス披露「本家と張るほど過激ｗ」「ヒュニンカイの勢いすごい」「混ぜたら危険な組み合わせ（笑）」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000888803/",
+      "publishedAt": "2026-09-26T07:59:21.000Z",
+      "summary": "M!LK公式SNSにて、塩崎太智（「崎」はたつさきが正式表記）を筆頭に、TOMORROW X TOGETHERのBE...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "塩﨑太智",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "ee3ee23b1e321ff6",
+      "title": "M!LKがお茶の間で肩を寄せ合いお揃いポーズで並んだオフショット！シックなカラーの衣装姿に「大人っぽくてかっこいい」「最終回さみしい」「復活待ってます」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000888778/",
+      "publishedAt": "2026-09-26T06:35:25.000Z",
+      "summary": "M!LK公式SNSにて、冠番組のTBS『限界突破！やってM!LK』シーズン2の最終回ショットが公開され...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "a9e3617193093671",
+      "title": "M!LK、日本テレビで冠番組2本の放送決定 タイトルは『M!LKに言ってみ？』『ザッツ M!LK』",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/09/post-2535138.html",
+      "publishedAt": "2026-09-26T06:24:06.000Z",
+      "summary": "M!LKの冠番組『M!LKに言ってみ？』『ザッツ M!LK』が、10月5日、27日に日本テレビにて放送される。 10月5日に放送される『M!LKに言ってみ？』は、番組に寄せられた“お悩み”に、M!LKのメンバーが本気",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "4c09b04c1560121d",
+      "title": "M!LKがコーデュロイにデニムやブラウンと秋色ジャケットで並んだ集合ショット公開！「今日もビジュがいい」「衣装おしゃれ」「脚の長さ際立ってる」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000888762/",
+      "publishedAt": "2026-09-26T06:01:55.000Z",
+      "summary": "TBS『M!LKの爆裂ミッション』公式SNSにて、M!LKの集合ショットが公開された。『M!LKの爆裂ミッ...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "e2c6bfca32974973",
       "title": "M!LK、冠番組2番組が放送決定！「張ってみんなを楽しませますので、ぜひみんなも頑張って楽しんでください！」（佐野勇斗）",
@@ -91,28 +155,6 @@
         {
           "name": "池田彪馬",
           "group": "SUPER★DRAGON",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "0c1b9a27e1a1270b",
-      "title": "『M!LKの爆裂ミッション』第2弾放送決定！「皆さんの心をかなり揺さぶるような放送になるのでは」（吉田仁人）",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000888303/",
-      "publishedAt": "2026-09-25T11:00:06.000Z",
-      "summary": "M!LKの冠バラエティ番組『M!LKの爆裂ミッション』第2弾が10月6日に放送される。 ■「ラスボスの...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
           "status": "active"
         }
       ]
@@ -282,28 +324,6 @@
         },
         {
           "name": "山中柔太朗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "49edc5506ca31eb4",
-      "title": "「これ、リリイベだよね!?」「ライブみたい」M!LK、アリーナを埋め尽くす9,000人のファンを前に全4曲披露 塩崎太智がメンバーに詰め寄られるハプニングも",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260917-4982497/",
-      "publishedAt": "2026-09-17T10:00:00.000Z",
-      "summary": "5人組ダンスボーカルグループ・M!LKが16日、東京・有明アリーナでミニアルバム『LOVE ENG!NE』の発売日記念スペシャルイベントを開催。約9,000人のファンを前にパフォーマンスを披露した。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "塩﨑太智",
           "group": "M!LK",
           "status": "active"
         }
