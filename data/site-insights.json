@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-09-25T21:34:50.042Z",
+  "updatedAt": "2026-09-26T04:57:30.994Z",
   "totals": {
-    "all": 114,
-    "today": 0,
-    "week": 9
+    "all": 118,
+    "today": 4,
+    "week": 13
   },
   "groupRanking": [
     {
       "name": "SUPER★DRAGON",
-      "count": 7
+      "count": 8
     },
     {
       "name": "M!LK",
-      "count": 2
+      "count": 6
     },
     {
       "name": "EBiDAN",
@@ -21,15 +21,19 @@
   ],
   "memberRanking": [
     {
-      "name": "伊藤壮吾",
-      "count": 1
+      "name": "佐野勇斗",
+      "count": 3
     },
     {
       "name": "吉田仁人",
-      "count": 1
+      "count": 2
     },
     {
       "name": "池田彪馬",
+      "count": 2
+    },
+    {
+      "name": "伊藤壮吾",
       "count": 1
     }
   ],
@@ -40,16 +44,118 @@
     },
     {
       "name": "THE FIRST TIMES",
+      "count": 3
+    },
+    {
+      "name": "WWSチャンネル",
       "count": 1
     },
     {
       "name": "タワーレコード ニュース",
+      "count": 1
+    },
+    {
+      "name": "マイナビニュース エンタメ",
       "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
     "M!LK": [
+      {
+        "id": "e2c6bfca32974973",
+        "title": "M!LK、冠番組2番組が放送決定！「張ってみんなを楽しませますので、ぜひみんなも頑張って楽しんでください！」（佐野勇斗）",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000888681/",
+        "publishedAt": "2026-09-26T03:04:46.000Z",
+        "summary": "M!LKの冠番組2番組が、10月5日と10月27日に日本テレビで放送。音楽活動のみならず、ドラマやバ...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "ca9d7b1bc30c255d",
+        "title": "佐野勇斗の「みんなも頑張って楽しんでください!」に総ツッコミ M!LK、日テレ初冠番組決定! しかも10月に2本",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20260926-5027474/",
+        "publishedAt": "2026-09-26T03:00:00.000Z",
+        "summary": "5人組ダンスボーカルグループ・M!LKの冠番組『M!LKに言ってみ?』が10月5日(23:59～)、『ザッツ M!LK』が同27日(23:59～)に日本テレビで放送される。同局で初めての冠番組に、佐野勇斗は早くも「レギュラー化したいです!!」と意欲を見せた。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "44f899d1f994d229",
+        "title": "目黒蓮＆佐野勇斗の“眼福”ショットを厳選！弾ける笑顔や密着までカッコ良さ詰まった“最強バディ”の魅力",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000886343/",
+        "publishedAt": "2026-09-26T02:00:29.000Z",
+        "summary": "連続ドラマから、劇場版『トリリオンゲーム』で最強バディを演じた目黒蓮と佐野勇斗。作品で息...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "743ece249d9c9b02",
+        "title": "M!LK吉田仁人主演『溺愛』、ヒロイン役に桃月なしこ！SUPER★DRAGON池田彪馬はモラハラ彼氏役",
+        "sourceName": "WWSチャンネル",
+        "sourceUrl": "https://www.wws-channel.com/feed",
+        "articleUrl": "https://www.wws-channel.com/tv/669970.html",
+        "publishedAt": "2026-09-26T00:30:28.000Z",
+        "summary": "M!LKの吉田仁人が主演を務める新金曜ドラマ『溺愛 ～ 実は、最強ヒーロー ～』が、10月30日よりTOKYO MXで放送される。このたび、追加キャストとして桃月なしこ、SUPER★DRAGONの池田彪馬の出演が決定した。本作は、シリーズ累計3400万ダウンロードを突破 ... The post M!LK吉田仁人主演『溺愛』、ヒロイン役に桃月なしこ！SUPE",
+        "groups": [
+          "M!LK",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "池田彪馬",
+            "group": "SUPER★DRAGON",
+            "status": "active"
+          }
+        ]
+      },
       {
         "id": "0c1b9a27e1a1270b",
         "title": "『M!LKの爆裂ミッション』第2弾放送決定！「皆さんの心をかなり揺さぶるような放送になるのでは」（吉田仁人）",
@@ -71,86 +177,37 @@
             "status": "active"
           }
         ]
-      },
+      }
+    ],
+    "SUPER★DRAGON": [
       {
-        "id": "50c446da2c851e3f",
-        "title": "M!LK、“ザッツ！超常”が10月6日放送開始のTVアニメ「超巡！超条先輩」OPテーマに決定。楽曲使用第2弾メインPV公開",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/09/25/tg005",
-        "publishedAt": "2026-09-25T11:00:00.000Z",
-        "summary": "",
+        "id": "743ece249d9c9b02",
+        "title": "M!LK吉田仁人主演『溺愛』、ヒロイン役に桃月なしこ！SUPER★DRAGON池田彪馬はモラハラ彼氏役",
+        "sourceName": "WWSチャンネル",
+        "sourceUrl": "https://www.wws-channel.com/feed",
+        "articleUrl": "https://www.wws-channel.com/tv/669970.html",
+        "publishedAt": "2026-09-26T00:30:28.000Z",
+        "summary": "M!LKの吉田仁人が主演を務める新金曜ドラマ『溺愛 ～ 実は、最強ヒーロー ～』が、10月30日よりTOKYO MXで放送される。このたび、追加キャストとして桃月なしこ、SUPER★DRAGONの池田彪馬の出演が決定した。本作は、シリーズ累計3400万ダウンロードを突破 ... The post M!LK吉田仁人主演『溺愛』、ヒロイン役に桃月なしこ！SUPE",
         "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "9167d35f87358191",
-        "title": "山中柔太朗×曽野舜太（M!LK）、「BAILA（バイラ） 2026年11月号」特別版表紙に登場",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/09/18/tgb003",
-        "publishedAt": "2026-09-18T04:00:00.000Z",
-        "summary": "",
-        "groups": [
-          "M!LK"
+          "M!LK",
+          "SUPER★DRAGON"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "曽野舜太",
+            "name": "吉田仁人",
             "group": "M!LK",
             "status": "active"
           },
           {
-            "name": "山中柔太朗",
-            "group": "M!LK",
+            "name": "池田彪馬",
+            "group": "SUPER★DRAGON",
             "status": "active"
           }
         ]
       },
-      {
-        "id": "49edc5506ca31eb4",
-        "title": "「これ、リリイベだよね!?」「ライブみたい」M!LK、アリーナを埋め尽くす9,000人のファンを前に全4曲披露 塩崎太智がメンバーに詰め寄られるハプニングも",
-        "sourceName": "マイナビニュース 芸能",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-        "articleUrl": "https://news.mynavi.jp/article/20260917-4982497/",
-        "publishedAt": "2026-09-17T10:00:00.000Z",
-        "summary": "5人組ダンスボーカルグループ・M!LKが16日、東京・有明アリーナでミニアルバム『LOVE ENG!NE』の発売日記念スペシャルイベントを開催。約9,000人のファンを前にパフォーマンスを披露した。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "976120bc3101651a",
-        "title": "M!LKが“ユニバース”を背負う新アー写公開、1stミニアルバムリード曲は早くもチャート席巻中",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/09/91880/",
-        "publishedAt": "2026-09-08T09:00:00.000Z",
-        "summary": "5人組ダンスボーカルグループ・M!LKが、9月16日(水)に控えるミニアルバム『LOVE ENG!NE』リリースに先駆けて最新アーティスト写真を公開した。 M!LKにとって初ミニアルバムとなる本作からは、リード曲「時空超えてユニバース」（ときこえてゆにばーす）の先行配信が9月7日(月)にスタート。配信開始直後からXのトレンドで「#ときユニ」が1位を獲得したほ",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "SUPER★DRAGON": [
       {
         "id": "f2ba5a9ce903cd75",
         "title": "文化放送『SUPER★DRAGON 伊藤壮吾 壮都高速鉄道株主総会』放送決定！",
@@ -218,20 +275,6 @@
         "articleUrl": "https://super-dragon.jp/news/news11659/",
         "publishedAt": "2026-09-24T11:30:11.000Z",
         "summary": "皆様に安心して公演をお楽しみいただくために、下記のご案内を必ずご確認のうえ、 お申込み、ご来場いただきますようお願い申しあげます。 ●チケットの譲渡や転売を含む不正行為は、いかなる場合も禁止いたします。正規販売以外でのチ […] The post SUPER★DRAGON LIVE TOUR 2027「house」 チケットの販売に伴うお願いと注意事項 fi",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "9633b2d8993f9cc8",
-        "title": "SUPER★DRAGON LIVE TOUR 2027「house」開催決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11657/",
-        "publishedAt": "2026-09-24T11:29:09.000Z",
-        "summary": "SUPER★DRAGON LIVE TOUR 2027「house」の開催が決定！ 本日9月24日(木)よりオフィシャルファンクラブ『AREA SD』会員先行が受付開始。 会場で皆さんとお会いできることを楽しみにしており […] The post SUPER★DRAGON LIVE TOUR 2027「house」開催決定！ first appeared o",
         "groups": [
           "SUPER★DRAGON"
         ],
