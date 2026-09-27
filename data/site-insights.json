@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-09-27T12:01:40.647Z",
+  "updatedAt": "2026-09-27T16:57:57.984Z",
   "totals": {
-    "all": 118,
-    "today": 5,
-    "week": 13
+    "all": 117,
+    "today": 0,
+    "week": 12
   },
   "groupRanking": [
     {
       "name": "SUPER★DRAGON",
-      "count": 8
+      "count": 7
     },
     {
       "name": "M!LK",
-      "count": 4
+      "count": 3
     },
     {
       "name": "原因は自分にある。",
@@ -25,15 +25,7 @@
   ],
   "memberRanking": [
     {
-      "name": "吉田仁人",
-      "count": 2
-    },
-    {
       "name": "佐野勇斗",
-      "count": 2
-    },
-    {
-      "name": "池田彪馬",
       "count": 2
     },
     {
@@ -45,7 +37,15 @@
       "count": 1
     },
     {
+      "name": "吉田仁人",
+      "count": 1
+    },
+    {
       "name": "山中柔太朗",
+      "count": 1
+    },
+    {
+      "name": "池田彪馬",
       "count": 1
     },
     {
@@ -68,10 +68,6 @@
     },
     {
       "name": "BARKS",
-      "count": 1
-    },
-    {
-      "name": "WWSチャンネル",
       "count": 1
     },
     {
@@ -119,34 +115,6 @@
         "memberMatches": []
       },
       {
-        "id": "743ece249d9c9b02",
-        "title": "M!LK吉田仁人主演『溺愛』、ヒロイン役に桃月なしこ！SUPER★DRAGON池田彪馬はモラハラ彼氏役",
-        "sourceName": "WWSチャンネル",
-        "sourceUrl": "https://www.wws-channel.com/feed",
-        "articleUrl": "https://www.wws-channel.com/tv/669970.html",
-        "publishedAt": "2026-09-26T00:30:28.000Z",
-        "summary": "M!LKの吉田仁人が主演を務める新金曜ドラマ『溺愛 ～ 実は、最強ヒーロー ～』が、10月30日よりTOKYO MXで放送される。このたび、追加キャストとして桃月なしこ、SUPER★DRAGONの池田彪馬の出演が決定した。本作は、シリーズ累計3400万ダウンロードを突破 ... The post M!LK吉田仁人主演『溺愛』、ヒロイン役に桃月なしこ！SUPE",
-        "groups": [
-          "M!LK",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "池田彪馬",
-            "group": "SUPER★DRAGON",
-            "status": "active"
-          }
-        ]
-      },
-      {
         "id": "f2ba5a9ce903cd75",
         "title": "文化放送『SUPER★DRAGON 伊藤壮吾 壮都高速鉄道株主総会』放送決定！",
         "sourceName": "SUPER★DRAGON 公式NEWS",
@@ -182,6 +150,28 @@
         ],
         "statuses": [],
         "memberMatches": []
+      },
+      {
+        "id": "9342725a8a7d7dbb",
+        "title": "【池田彪馬】TOKYO MX金曜ドラマ『溺愛 ～ 実は、最強ヒーロー ～』出演決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11675/",
+        "publishedAt": "2026-09-24T22:00:56.000Z",
+        "summary": "10月30日(金)23:00〜放送スタート TOKYO MX金曜ドラマ『溺愛 ～ 実は、最強ヒーロー ～』に 池田彪馬がクズ界のラスボス・相川樹役として出演決定！ お楽しみに！ ◆番組概要 ※下記内容は都合 […] The post 【池田彪馬】TOKYO MX金曜ドラマ『溺愛 ～ 実は、最強ヒーロー ～』出演決定！ first appeared on SU",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "池田彪馬",
+            "group": "SUPER★DRAGON",
+            "status": "active"
+          }
+        ]
       }
     ],
     "M!LK": [
@@ -245,34 +235,6 @@
         ]
       },
       {
-        "id": "743ece249d9c9b02",
-        "title": "M!LK吉田仁人主演『溺愛』、ヒロイン役に桃月なしこ！SUPER★DRAGON池田彪馬はモラハラ彼氏役",
-        "sourceName": "WWSチャンネル",
-        "sourceUrl": "https://www.wws-channel.com/feed",
-        "articleUrl": "https://www.wws-channel.com/tv/669970.html",
-        "publishedAt": "2026-09-26T00:30:28.000Z",
-        "summary": "M!LKの吉田仁人が主演を務める新金曜ドラマ『溺愛 ～ 実は、最強ヒーロー ～』が、10月30日よりTOKYO MXで放送される。このたび、追加キャストとして桃月なしこ、SUPER★DRAGONの池田彪馬の出演が決定した。本作は、シリーズ累計3400万ダウンロードを突破 ... The post M!LK吉田仁人主演『溺愛』、ヒロイン役に桃月なしこ！SUPE",
-        "groups": [
-          "M!LK",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "池田彪馬",
-            "group": "SUPER★DRAGON",
-            "status": "active"
-          }
-        ]
-      },
-      {
         "id": "50c446da2c851e3f",
         "title": "M!LK、“ザッツ！超常”が10月6日放送開始のTVアニメ「超巡！超条先輩」OPテーマに決定。楽曲使用第2弾メインPV公開",
         "sourceName": "タワーレコード ニュース",
@@ -312,6 +274,20 @@
             "status": "active"
           }
         ]
+      },
+      {
+        "id": "976120bc3101651a",
+        "title": "M!LKが“ユニバース”を背負う新アー写公開、1stミニアルバムリード曲は早くもチャート席巻中",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/09/91880/",
+        "publishedAt": "2026-09-08T09:00:00.000Z",
+        "summary": "5人組ダンスボーカルグループ・M!LKが、9月16日(水)に控えるミニアルバム『LOVE ENG!NE』リリースに先駆けて最新アーティスト写真を公開した。 M!LKにとって初ミニアルバムとなる本作からは、リード曲「時空超えてユニバース」（ときこえてゆにばーす）の先行配信が9月7日(月)にスタート。配信開始直後からXのトレンドで「#ときユニ」が1位を獲得したほ",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
       }
     ],
     "原因は自分にある。": [

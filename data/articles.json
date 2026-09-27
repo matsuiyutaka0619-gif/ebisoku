@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T12:01:40.645Z",
+  "updatedAt": "2026-09-27T16:57:57.982Z",
   "articles": [
     {
       "id": "f3c5eea3041c5601",
@@ -128,34 +128,6 @@
         {
           "name": "佐野勇斗",
           "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "743ece249d9c9b02",
-      "title": "M!LK吉田仁人主演『溺愛』、ヒロイン役に桃月なしこ！SUPER★DRAGON池田彪馬はモラハラ彼氏役",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/tv/669970.html",
-      "publishedAt": "2026-09-26T00:30:28.000Z",
-      "summary": "M!LKの吉田仁人が主演を務める新金曜ドラマ『溺愛 ～ 実は、最強ヒーロー ～』が、10月30日よりTOKYO MXで放送される。このたび、追加キャストとして桃月なしこ、SUPER★DRAGONの池田彪馬の出演が決定した。本作は、シリーズ累計3400万ダウンロードを突破 ... The post M!LK吉田仁人主演『溺愛』、ヒロイン役に桃月なしこ！SUPE",
-      "groups": [
-        "M!LK",
-        "SUPER★DRAGON"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "池田彪馬",
-          "group": "SUPER★DRAGON",
           "status": "active"
         }
       ]
