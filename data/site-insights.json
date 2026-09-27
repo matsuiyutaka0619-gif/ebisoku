@@ -1,32 +1,36 @@
 {
-  "updatedAt": "2026-09-27T05:18:01.719Z",
+  "updatedAt": "2026-09-27T12:01:40.647Z",
   "totals": {
-    "all": 120,
-    "today": 1,
-    "week": 14
+    "all": 118,
+    "today": 5,
+    "week": 13
   },
   "groupRanking": [
     {
-      "name": "M!LK",
+      "name": "SUPER★DRAGON",
       "count": 8
     },
     {
-      "name": "SUPER★DRAGON",
-      "count": 6
-    },
-    {
-      "name": "EBiDAN",
-      "count": 1
+      "name": "M!LK",
+      "count": 4
     },
     {
       "name": "原因は自分にある。",
+      "count": 2
+    },
+    {
+      "name": "EBiDAN",
       "count": 1
     }
   ],
   "memberRanking": [
     {
+      "name": "吉田仁人",
+      "count": 2
+    },
+    {
       "name": "佐野勇斗",
-      "count": 3
+      "count": 2
     },
     {
       "name": "池田彪馬",
@@ -41,7 +45,11 @@
       "count": 1
     },
     {
-      "name": "吉田仁人",
+      "name": "山中柔太朗",
+      "count": 1
+    },
+    {
+      "name": "武藤潤",
       "count": 1
     },
     {
@@ -52,15 +60,15 @@
   "sourceRanking": [
     {
       "name": "SUPER★DRAGON 公式NEWS",
-      "count": 5
-    },
-    {
-      "name": "THE FIRST TIMES",
-      "count": 5
+      "count": 6
     },
     {
       "name": "マイナビニュース エンタメ",
       "count": 2
+    },
+    {
+      "name": "BARKS",
+      "count": 1
     },
     {
       "name": "WWSチャンネル",
@@ -69,159 +77,47 @@
     {
       "name": "タワーレコード ニュース",
       "count": 1
+    },
+    {
+      "name": "マイナビニュース テレビ",
+      "count": 1
+    },
+    {
+      "name": "リアルサウンド 映画部",
+      "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
-    "原因は自分にある。": [
-      {
-        "id": "a5bb2eec932491d1",
-        "title": "杢代和人、オールホワイト&黒縁メガネ姿でのウインクにファン歓喜 16回目のTGC出演「緊張は…」",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20260927-5029480/",
-        "publishedAt": "2026-09-27T01:00:00.000Z",
-        "summary": "ダンスボーカルユニット「原因は自分にある。」の杢代和人が19日、横浜アリーナで行われた「第43回 マイナビ 東京ガールズコレクション 2026 AUTUMN/WINTER」(TGC)に出演した。",
-        "groups": [
-          "原因は自分にある。"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "杢代和人",
-            "group": "原因は自分にある。",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "15fb9ee4d3775ce2",
-        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/07/89645/",
-        "publishedAt": "2026-07-24T12:00:00.000Z",
-        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
-        "groups": [
-          "原因は自分にある。",
-          "BUDDiiS"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "SHOOT",
-            "group": "BUDDiiS",
-            "status": "active"
-          }
-        ]
-      }
-    ],
-    "M!LK": [
-      {
-        "id": "6532bda557ae1c0c",
-        "title": "M!LK塩﨑太智とTOMORROW X TOGETHERが激しすぎる“滅！”ダンス披露「本家と張るほど過激ｗ」「ヒュニンカイの勢いすごい」「混ぜたら危険な組み合わせ（笑）」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000888803/",
-        "publishedAt": "2026-09-26T07:59:21.000Z",
-        "summary": "M!LK公式SNSにて、塩崎太智（「崎」はたつさきが正式表記）を筆頭に、TOMORROW X TOGETHERのBE...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "ee3ee23b1e321ff6",
-        "title": "M!LKがお茶の間で肩を寄せ合いお揃いポーズで並んだオフショット！シックなカラーの衣装姿に「大人っぽくてかっこいい」「最終回さみしい」「復活待ってます」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000888778/",
-        "publishedAt": "2026-09-26T06:35:25.000Z",
-        "summary": "M!LK公式SNSにて、冠番組のTBS『限界突破！やってM!LK』シーズン2の最終回ショットが公開され...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "4c09b04c1560121d",
-        "title": "M!LKがコーデュロイにデニムやブラウンと秋色ジャケットで並んだ集合ショット公開！「今日もビジュがいい」「衣装おしゃれ」「脚の長さ際立ってる」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000888762/",
-        "publishedAt": "2026-09-26T06:01:55.000Z",
-        "summary": "TBS『M!LKの爆裂ミッション』公式SNSにて、M!LKの集合ショットが公開された。『M!LKの爆裂ミッ...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "e2c6bfca32974973",
-        "title": "M!LK、冠番組2番組が放送決定！「張ってみんなを楽しませますので、ぜひみんなも頑張って楽しんでください！」（佐野勇斗）",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000888681/",
-        "publishedAt": "2026-09-26T03:04:46.000Z",
-        "summary": "M!LKの冠番組2番組が、10月5日と10月27日に日本テレビで放送。音楽活動のみならず、ドラマやバ...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "ca9d7b1bc30c255d",
-        "title": "佐野勇斗の「みんなも頑張って楽しんでください!」に総ツッコミ M!LK、日テレ初冠番組決定! しかも10月に2本",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20260926-5027474/",
-        "publishedAt": "2026-09-26T03:00:00.000Z",
-        "summary": "5人組ダンスボーカルグループ・M!LKの冠番組『M!LKに言ってみ?』が10月5日(23:59～)、『ザッツ M!LK』が同27日(23:59～)に日本テレビで放送される。同局で初めての冠番組に、佐野勇斗は早くも「レギュラー化したいです!!」と意欲を見せた。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      }
-    ],
     "SUPER★DRAGON": [
+      {
+        "id": "f3c5eea3041c5601",
+        "title": "SUPER★DRAGON、メジャー2ndアルバム『STAR』発売決定。新ビジュアルは”Family”を表現",
+        "sourceName": "BARKS",
+        "sourceUrl": "https://www.barks.jp/feed/",
+        "articleUrl": "https://barks.jp/news/1091471",
+        "publishedAt": "2026-09-27T12:00:53.000Z",
+        "summary": "SUPER★DRAGONが、12月9日にメジャー2ndアルバム『STAR』を発売することが決定した。 今回の発表は結成11周年の記念日である9月27日にZepp Osaka Baysideで開催された＜DRA FES 2026＞大阪公演内で告知され、超満員となった会場のファンから大きな喜びの声が上がった。 アルバムの初回限定盤には、SUPER★DRAGON ",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "af949395801bb0f2",
+        "title": "SUPER★DRAGON Major 2nd Album「STAR」2026年12月9日（水）発売決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11696/",
+        "publishedAt": "2026-09-27T11:59:46.000Z",
+        "summary": "SUPER★DRAGON Major 2nd Album「STAR」 2026年12月9日（水）発売 ■初回限定盤（CD+Blu-ray） [価格] ￥9,350 (税込) [品番] PCCA-06573 [仕様] 三方 […] The post SUPER★DRAGON Major 2nd Album「STAR」2026年12月9日（水）発売決定！ fir",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
       {
         "id": "743ece249d9c9b02",
         "title": "M!LK吉田仁人主演『溺愛』、ヒロイン役に桃月なしこ！SUPER★DRAGON池田彪馬はモラハラ彼氏役",
@@ -286,22 +182,89 @@
         ],
         "statuses": [],
         "memberMatches": []
+      }
+    ],
+    "M!LK": [
+      {
+        "id": "fc6309e3e1f4a091",
+        "title": "日曜トライアル 第44回 10月は冠特番&ドラマ出演ラッシュ――M!LK、地上波でも高まる存在感 メンバー個人の躍進も目立つ",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/sunday_trial-44/",
+        "publishedAt": "2026-09-27T10:00:00.000Z",
+        "summary": "「イイじゃん」「好きすぎて滅!」「爆裂愛してる」などのヒットをきっかけに大きな飛躍を遂げた5人組ダンスボーカルグループ・M!LK。2025年末には『第76回NHK紅白歌合戦』への初出場も果たし、その勢いは2026年に入っても加速している。そんなM!LKが、10月に地上波で存在感を発揮しそうだ。グループとしてはGP帯冠バラエティ特番の第2弾が放送されるほか、塩",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
       },
       {
-        "id": "9342725a8a7d7dbb",
-        "title": "【池田彪馬】TOKYO MX金曜ドラマ『溺愛 ～ 実は、最強ヒーロー ～』出演決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11675/",
-        "publishedAt": "2026-09-24T22:00:56.000Z",
-        "summary": "10月30日(金)23:00〜放送スタート TOKYO MX金曜ドラマ『溺愛 ～ 実は、最強ヒーロー ～』に 池田彪馬がクズ界のラスボス・相川樹役として出演決定！ お楽しみに！ ◆番組概要 ※下記内容は都合 […] The post 【池田彪馬】TOKYO MX金曜ドラマ『溺愛 ～ 実は、最強ヒーロー ～』出演決定！ first appeared on SU",
+        "id": "ca9d7b1bc30c255d",
+        "title": "佐野勇斗の「みんなも頑張って楽しんでください!」に総ツッコミ M!LK、日テレ初冠番組決定! しかも10月に2本",
+        "sourceName": "マイナビニュース テレビ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
+        "articleUrl": "https://news.mynavi.jp/article/20260926-5027474/",
+        "publishedAt": "2026-09-26T03:00:00.000Z",
+        "summary": "5人組ダンスボーカルグループ・M!LKの冠番組『M!LKに言ってみ?』が10月5日(23:59～)、『ザッツ M!LK』が同27日(23:59～)に日本テレビで放送される。同局で初めての冠番組に、佐野勇斗は早くも「レギュラー化したいです!!」と意欲を見せた。",
         "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "743ece249d9c9b02",
+        "title": "M!LK吉田仁人主演『溺愛』、ヒロイン役に桃月なしこ！SUPER★DRAGON池田彪馬はモラハラ彼氏役",
+        "sourceName": "WWSチャンネル",
+        "sourceUrl": "https://www.wws-channel.com/feed",
+        "articleUrl": "https://www.wws-channel.com/tv/669970.html",
+        "publishedAt": "2026-09-26T00:30:28.000Z",
+        "summary": "M!LKの吉田仁人が主演を務める新金曜ドラマ『溺愛 ～ 実は、最強ヒーロー ～』が、10月30日よりTOKYO MXで放送される。このたび、追加キャストとして桃月なしこ、SUPER★DRAGONの池田彪馬の出演が決定した。本作は、シリーズ累計3400万ダウンロードを突破 ... The post M!LK吉田仁人主演『溺愛』、ヒロイン役に桃月なしこ！SUPE",
+        "groups": [
+          "M!LK",
           "SUPER★DRAGON"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          },
           {
             "name": "池田彪馬",
             "group": "SUPER★DRAGON",
@@ -310,18 +273,119 @@
         ]
       },
       {
-        "id": "b8642925dcf59156",
-        "title": "SUPER★DRAGON LIVE TOUR 2027「house」 チケットの販売に伴うお願いと注意事項",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11659/",
-        "publishedAt": "2026-09-24T11:30:11.000Z",
-        "summary": "皆様に安心して公演をお楽しみいただくために、下記のご案内を必ずご確認のうえ、 お申込み、ご来場いただきますようお願い申しあげます。 ●チケットの譲渡や転売を含む不正行為は、いかなる場合も禁止いたします。正規販売以外でのチ […] The post SUPER★DRAGON LIVE TOUR 2027「house」 チケットの販売に伴うお願いと注意事項 fi",
+        "id": "50c446da2c851e3f",
+        "title": "M!LK、“ザッツ！超常”が10月6日放送開始のTVアニメ「超巡！超条先輩」OPテーマに決定。楽曲使用第2弾メインPV公開",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/09/25/tg005",
+        "publishedAt": "2026-09-25T11:00:00.000Z",
+        "summary": "",
         "groups": [
-          "SUPER★DRAGON"
+          "M!LK"
         ],
         "statuses": [],
         "memberMatches": []
+      },
+      {
+        "id": "9167d35f87358191",
+        "title": "山中柔太朗×曽野舜太（M!LK）、「BAILA（バイラ） 2026年11月号」特別版表紙に登場",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/09/18/tgb003",
+        "publishedAt": "2026-09-18T04:00:00.000Z",
+        "summary": "",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "原因は自分にある。": [
+      {
+        "id": "64bd3e60cf5b0467",
+        "title": "『ふったらどしゃぶり』続編に中村ゆりから出演 伊藤あさひ×武藤潤のポスター2種類も",
+        "sourceName": "リアルサウンド 映画部",
+        "sourceUrl": "https://realsound.jp/movie/feed",
+        "articleUrl": "https://realsound.jp/movie/2026/09/post-2535671.html",
+        "publishedAt": "2026-09-27T09:00:11.000Z",
+        "summary": "11月5日よりMBSドラマ特区枠で放送がスタートする、伊藤あさひと武藤潤（原因は自分にある。）のW主演ドラマ『ふったらどしゃぶり メロウトレイン』のポスタービジュアル2種が公開され、新たに水野真紀、和田雅成、中村ゆりか",
+        "groups": [
+          "原因は自分にある。"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "武藤潤",
+            "group": "原因は自分にある。",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "a5bb2eec932491d1",
+        "title": "杢代和人、オールホワイト&黒縁メガネ姿でのウインクにファン歓喜 16回目のTGC出演「緊張は…」",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20260927-5029480/",
+        "publishedAt": "2026-09-27T01:00:00.000Z",
+        "summary": "ダンスボーカルユニット「原因は自分にある。」の杢代和人が19日、横浜アリーナで行われた「第43回 マイナビ 東京ガールズコレクション 2026 AUTUMN/WINTER」(TGC)に出演した。",
+        "groups": [
+          "原因は自分にある。"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "杢代和人",
+            "group": "原因は自分にある。",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "15fb9ee4d3775ce2",
+        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/07/89645/",
+        "publishedAt": "2026-07-24T12:00:00.000Z",
+        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
+        "groups": [
+          "原因は自分にある。",
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
       }
     ],
     "EBiDAN": [
