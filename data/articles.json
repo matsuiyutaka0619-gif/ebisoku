@@ -1,17 +1,30 @@
 {
-  "updatedAt": "2026-09-27T21:20:43.639Z",
+  "updatedAt": "2026-09-28T05:23:49.114Z",
   "articles": [
     {
-      "id": "a73275ced3080ebb",
-      "title": "ONE N' ONLYが語るEBiDANの勢いの要因「団結力が段違いに増している」「仲間でありライバル」",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202609250001695.html",
-      "publishedAt": "2026-09-27T20:10:00.000Z",
-      "summary": "スターダストプロモーション所属の若手男性アーティスト集団、EBiDANの5人組グループ、ONE N' ONLY（ワンエンオンリー）が東京・代々木第一体育館で開催した初のアリーナツアー「INFERNO」最終公演を取材する機会に恵まれた。 …",
+      "id": "aeeec0531196f595",
+      "title": "NHK『うたコン』新浜レオン、超特急らが元気が出る歌で故郷にエール！モーニング娘。’26による「LOVEマシーン」も",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000889441/",
+      "publishedAt": "2026-09-28T04:00:33.000Z",
+      "summary": "9月29日放送のNHK『うたコン』では、元気が出る歌を特集。出演者がそれぞれの故郷に歌でエール...",
       "groups": [
-        "EBiDAN",
-        "ONE N' ONLY"
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "2eceadefbab9326f",
+      "title": "M!LK5人が“全員で肩組み”！おそろいTシャツでぎゅっと寄り添い「みんないい顔してる」「吉田さんのポーズかわいすぎ」「さのじんの体格差メロ」「3080デコ出しかっこいい」と反響",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000889414/",
+      "publishedAt": "2026-09-28T03:11:01.000Z",
+      "summary": "M!LKの公式Xが更新され、アリーナツアー福岡公演2日目のオフショットが公開された。 ■肩を組ん...",
+      "groups": [
+        "M!LK"
       ],
       "statuses": [],
       "memberMatches": []
@@ -47,8 +60,8 @@
     {
       "id": "fc6309e3e1f4a091",
       "title": "日曜トライアル 第44回 10月は冠特番&ドラマ出演ラッシュ――M!LK、地上波でも高まる存在感 メンバー個人の躍進も目立つ",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/sunday_trial-44/",
       "publishedAt": "2026-09-27T10:00:00.000Z",
       "summary": "「イイじゃん」「好きすぎて滅!」「爆裂愛してる」などのヒットをきっかけに大きな飛躍を遂げた5人組ダンスボーカルグループ・M!LK。2025年末には『第76回NHK紅白歌合戦』への初出場も果たし、その勢いは2026年に入っても加速している。そんなM!LKが、10月に地上波で存在感を発揮しそうだ。グループとしてはGP帯冠バラエティ特番の第2弾が放送されるほか、塩",
@@ -82,32 +95,10 @@
       ]
     },
     {
-      "id": "64bd3e60cf5b0467",
-      "title": "『ふったらどしゃぶり』続編に中村ゆりから出演 伊藤あさひ×武藤潤のポスター2種類も",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/09/post-2535671.html",
-      "publishedAt": "2026-09-27T09:00:11.000Z",
-      "summary": "11月5日よりMBSドラマ特区枠で放送がスタートする、伊藤あさひと武藤潤（原因は自分にある。）のW主演ドラマ『ふったらどしゃぶり メロウトレイン』のポスタービジュアル2種が公開され、新たに水野真紀、和田雅成、中村ゆりか",
-      "groups": [
-        "原因は自分にある。"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "武藤潤",
-          "group": "原因は自分にある。",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "a5bb2eec932491d1",
       "title": "杢代和人、オールホワイト&黒縁メガネ姿でのウインクにファン歓喜 16回目のTGC出演「緊張は…」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260927-5029480/",
       "publishedAt": "2026-09-27T01:00:00.000Z",
       "summary": "ダンスボーカルユニット「原因は自分にある。」の杢代和人が19日、横浜アリーナで行われた「第43回 マイナビ 東京ガールズコレクション 2026 AUTUMN/WINTER」(TGC)に出演した。",
