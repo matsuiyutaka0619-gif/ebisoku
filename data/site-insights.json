@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-09-29T05:43:33.381Z",
+  "updatedAt": "2026-09-29T12:51:50.274Z",
   "totals": {
-    "all": 117,
-    "today": 3,
-    "week": 13
+    "all": 120,
+    "today": 6,
+    "week": 16
   },
   "groupRanking": [
     {
-      "name": "SUPER★DRAGON",
+      "name": "M!LK",
       "count": 6
     },
     {
-      "name": "M!LK",
-      "count": 5
+      "name": "SUPER★DRAGON",
+      "count": 6
     },
     {
       "name": "EBiDAN",
@@ -20,13 +20,17 @@
     },
     {
       "name": "原因は自分にある。",
+      "count": 2
+    },
+    {
+      "name": "超特急",
       "count": 1
     }
   ],
   "memberRanking": [
     {
       "name": "吉田仁人",
-      "count": 2
+      "count": 3
     },
     {
       "name": "佐野勇斗",
@@ -34,6 +38,10 @@
     },
     {
       "name": "山中柔太朗",
+      "count": 2
+    },
+    {
+      "name": "杢代和人",
       "count": 2
     },
     {
@@ -45,11 +53,19 @@
       "count": 1
     },
     {
-      "name": "池田彪馬",
+      "name": "吉澤要人",
       "count": 1
     },
     {
-      "name": "杢代和人",
+      "name": "桜木雅哉",
+      "count": 1
+    },
+    {
+      "name": "小泉光咲",
+      "count": 1
+    },
+    {
+      "name": "曽野舜太",
       "count": 1
     }
   ],
@@ -60,14 +76,22 @@
     },
     {
       "name": "THE FIRST TIMES",
-      "count": 3
+      "count": 4
     },
     {
       "name": "マイナビニュース 芸能",
       "count": 2
     },
     {
+      "name": "BARKS",
+      "count": 1
+    },
+    {
       "name": "タワーレコード ニュース",
+      "count": 1
+    },
+    {
+      "name": "マイナビニュース エンタメ",
       "count": 1
     },
     {
@@ -78,6 +102,55 @@
   "topics": [],
   "recentByGroup": {
     "M!LK": [
+      {
+        "id": "02beb33126c18fa3",
+        "title": "3年前に夫と死別…「色のない日々」だった68歳女性、M!LKとの出会いで変化 “人生初”のファンレターに吉田仁人が感激「こんなにしっかり…」",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20260929-5046905/",
+        "publishedAt": "2026-09-29T10:30:00.000Z",
+        "summary": "「人生ではじめてファンレターを書いています」――。24日に放送された文化放送のラジオ番組『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)で、アイドルグループ・M!LKの吉田仁人が、68歳の女性から届いた“ファンレター”に大感激した。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "d8930c8c2b477c4c",
+        "title": "M!LK山中柔太朗＆曽野舜太が顔をぴったりくっつける！“同僚・双子・ルームメイト”の3変化に「やわしゅん双子すぎる」「ハグしてるの尊い」「無加工でこんなにかっこいいってすごい」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000890276/",
+        "publishedAt": "2026-09-29T05:57:19.000Z",
+        "summary": "『BAILA』の公式SNSが更新され、『BAILA』11月号特別版の表紙を飾るM!LKの山中柔太朗と曽野舜...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
       {
         "id": "1621847dbd741d23",
         "title": "M!LK吉田仁人のドアップ上目遣いにファン悶絶！TXTボムギュ＆テヒョンとの「ば・く・れ・つ」コラボに「全員イケメンすぎ」「相性よすぎ」と大反響",
@@ -95,28 +168,6 @@
         "memberMatches": [
           {
             "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "f8aa467363239eb9",
-        "title": "M!LK山中柔太朗がゆるふわヘアでイメージ激変！アンニュイな表情＆ポーズに「過去イチきた」「全然雰囲気違う」「美しすぎる」と反響",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000889951/",
-        "publishedAt": "2026-09-29T03:05:58.000Z",
-        "summary": "M!LKの山中柔太朗が登場する、メンズハイファッションマガジン『GIANNA HOMMES 05』（9月30日...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "山中柔太朗",
             "group": "M!LK",
             "status": "active"
           }
@@ -180,17 +231,180 @@
             "status": "active"
           }
         ]
+      }
+    ],
+    "原因は自分にある。": [
+      {
+        "id": "70dd92c0ca41842e",
+        "title": "原因は自分にある。、5thシングルリリース記念に1万人規模のフリーライブ開催決定",
+        "sourceName": "BARKS",
+        "sourceUrl": "https://www.barks.jp/feed/",
+        "articleUrl": "https://barks.jp/news/1091904",
+        "publishedAt": "2026-09-29T10:00:00.000Z",
+        "summary": "原因は自分にある。（以下、ゲンジブ）が、ニューシングル「ラブリーズン」の発売を記念して、2026年11月11日にフリーライブの開催を発表した。 ゲンジブにとって初のフリーライブとなる本公演は、約1万人規模を予定しており、場所は神奈川・横浜赤レンガ倉庫 赤レンガパーク特設会場にて行われる。 応募受付はFC先行受付、各メンバー『＋KIRARI』会員限定先行受付な",
+        "groups": [
+          "原因は自分にある。"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "大倉空人",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "桜木雅哉",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "長野凌大",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "武藤潤",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "杢代和人",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "吉澤要人",
+            "group": "原因は自分にある。",
+            "status": "active"
+          }
+        ]
       },
       {
-        "id": "50c446da2c851e3f",
-        "title": "M!LK、“ザッツ！超常”が10月6日放送開始のTVアニメ「超巡！超条先輩」OPテーマに決定。楽曲使用第2弾メインPV公開",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/09/25/tg005",
-        "publishedAt": "2026-09-25T11:00:00.000Z",
-        "summary": "",
+        "id": "a5bb2eec932491d1",
+        "title": "杢代和人、オールホワイト&黒縁メガネ姿でのウインクにファン歓喜 16回目のTGC出演「緊張は…」",
+        "sourceName": "マイナビニュース 芸能",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
+        "articleUrl": "https://news.mynavi.jp/article/20260927-5029480/",
+        "publishedAt": "2026-09-27T01:00:00.000Z",
+        "summary": "ダンスボーカルユニット「原因は自分にある。」の杢代和人が19日、横浜アリーナで行われた「第43回 マイナビ 東京ガールズコレクション 2026 AUTUMN/WINTER」(TGC)に出演した。",
         "groups": [
-          "M!LK"
+          "原因は自分にある。"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "杢代和人",
+            "group": "原因は自分にある。",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "15fb9ee4d3775ce2",
+        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/07/89645/",
+        "publishedAt": "2026-07-24T12:00:00.000Z",
+        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
+        "groups": [
+          "原因は自分にある。",
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "超特急": [
+      {
+        "id": "11a043d69f439b40",
+        "title": "超特急、上映イベント『東京ドーム公演記念 乗車準備会 僕たちは、超特急です!!!!!!!!!』3面スクリーンの迫力！「SCREENX予告編」完成",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000889981/",
+        "publishedAt": "2026-09-29T08:00:35.000Z",
+        "summary": "超特急の4回限りの特別な全国映画館上映イベント『東京ドーム公演記念 乗車準備会 僕たちは、...",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "47f16c975ff422cd",
+        "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11607/",
+        "publishedAt": "2026-09-02T12:34:24.000Z",
+        "summary": "平素より株式会社SDR所属アーティストへの温かいご声援を賜り、誠にありがとうございます。 DISH//、EBiDAN（超特急、M!LK、SUPER★DRAGON、Sakurashimeji、ONE N’ ON […] The post グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ first appeared on SUPER★DRAGO",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK",
+          "SUPER★DRAGON",
+          "Sakurashimeji"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "397a635043a0e0e2",
+        "title": "映画『ワンダンス』新キャストにGirls2山口綺羅、MAZZEL・RAN、TSUKKI、超特急・髙松アロハ",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/07/89594/",
+        "publishedAt": "2026-07-22T09:00:00.000Z",
+        "summary": "11月27日(金)に公開されるJO（&TEAM）初主演映画『ワンダンス』の新キャストとして山口綺羅（Girls2）、RAN（MAZZEL）、現役DリーガーのTSUKKI、髙松アロハ（超特急）が出演することが発表された。 原作は単行本累計発行部数110万部を突破し「月刊アフタヌーン」（講談社）で連載中の珈琲による同名漫画。ダンサーからも熱く支持され、昨年放送さ",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "アロハ",
+            "group": "超特急",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "382225983e9781d4",
+        "title": "8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 7月2日からの先行配信リリースに合わせて デジタルキャンペーンが追加決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11354/",
+        "publishedAt": "2026-07-01T06:00:22.000Z",
+        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して8月11日(火・祝)にリリースされる「Yes! 東京」が、いよいよ7月2日（木）より先行配信リリースとなります。超特急、M!LK、SUPER★DRAGON、Sakur […] The post 8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 7月2日からの先行配信リリースに合わせて デ",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK",
+          "SUPER★DRAGON"
         ],
         "statuses": [],
         "memberMatches": []
@@ -355,117 +569,6 @@
         "publishedAt": "2026-09-24T11:30:11.000Z",
         "summary": "皆様に安心して公演をお楽しみいただくために、下記のご案内を必ずご確認のうえ、 お申込み、ご来場いただきますようお願い申しあげます。 ●チケットの譲渡や転売を含む不正行為は、いかなる場合も禁止いたします。正規販売以外でのチ […] The post SUPER★DRAGON LIVE TOUR 2027「house」 チケットの販売に伴うお願いと注意事項 fi",
         "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "原因は自分にある。": [
-      {
-        "id": "a5bb2eec932491d1",
-        "title": "杢代和人、オールホワイト&黒縁メガネ姿でのウインクにファン歓喜 16回目のTGC出演「緊張は…」",
-        "sourceName": "マイナビニュース 芸能",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-        "articleUrl": "https://news.mynavi.jp/article/20260927-5029480/",
-        "publishedAt": "2026-09-27T01:00:00.000Z",
-        "summary": "ダンスボーカルユニット「原因は自分にある。」の杢代和人が19日、横浜アリーナで行われた「第43回 マイナビ 東京ガールズコレクション 2026 AUTUMN/WINTER」(TGC)に出演した。",
-        "groups": [
-          "原因は自分にある。"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "杢代和人",
-            "group": "原因は自分にある。",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "15fb9ee4d3775ce2",
-        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/07/89645/",
-        "publishedAt": "2026-07-24T12:00:00.000Z",
-        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
-        "groups": [
-          "原因は自分にある。",
-          "BUDDiiS"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "SHOOT",
-            "group": "BUDDiiS",
-            "status": "active"
-          }
-        ]
-      }
-    ],
-    "超特急": [
-      {
-        "id": "47f16c975ff422cd",
-        "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11607/",
-        "publishedAt": "2026-09-02T12:34:24.000Z",
-        "summary": "平素より株式会社SDR所属アーティストへの温かいご声援を賜り、誠にありがとうございます。 DISH//、EBiDAN（超特急、M!LK、SUPER★DRAGON、Sakurashimeji、ONE N’ ON […] The post グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ first appeared on SUPER★DRAGO",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK",
-          "SUPER★DRAGON",
-          "Sakurashimeji"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "397a635043a0e0e2",
-        "title": "映画『ワンダンス』新キャストにGirls2山口綺羅、MAZZEL・RAN、TSUKKI、超特急・髙松アロハ",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/07/89594/",
-        "publishedAt": "2026-07-22T09:00:00.000Z",
-        "summary": "11月27日(金)に公開されるJO（&TEAM）初主演映画『ワンダンス』の新キャストとして山口綺羅（Girls2）、RAN（MAZZEL）、現役DリーガーのTSUKKI、髙松アロハ（超特急）が出演することが発表された。 原作は単行本累計発行部数110万部を突破し「月刊アフタヌーン」（講談社）で連載中の珈琲による同名漫画。ダンサーからも熱く支持され、昨年放送さ",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "アロハ",
-            "group": "超特急",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "382225983e9781d4",
-        "title": "8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 7月2日からの先行配信リリースに合わせて デジタルキャンペーンが追加決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11354/",
-        "publishedAt": "2026-07-01T06:00:22.000Z",
-        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して8月11日(火・祝)にリリースされる「Yes! 東京」が、いよいよ7月2日（木）より先行配信リリースとなります。超特急、M!LK、SUPER★DRAGON、Sakur […] The post 8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 7月2日からの先行配信リリースに合わせて デ",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK",
           "SUPER★DRAGON"
         ],
         "statuses": [],

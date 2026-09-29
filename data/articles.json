@@ -1,6 +1,121 @@
 {
-  "updatedAt": "2026-09-29T05:43:33.378Z",
+  "updatedAt": "2026-09-29T12:51:50.272Z",
   "articles": [
+    {
+      "id": "02beb33126c18fa3",
+      "title": "3年前に夫と死別…「色のない日々」だった68歳女性、M!LKとの出会いで変化 “人生初”のファンレターに吉田仁人が感激「こんなにしっかり…」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260929-5046905/",
+      "publishedAt": "2026-09-29T10:30:00.000Z",
+      "summary": "「人生ではじめてファンレターを書いています」――。24日に放送された文化放送のラジオ番組『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)で、アイドルグループ・M!LKの吉田仁人が、68歳の女性から届いた“ファンレター”に大感激した。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "70dd92c0ca41842e",
+      "title": "原因は自分にある。、5thシングルリリース記念に1万人規模のフリーライブ開催決定",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1091904",
+      "publishedAt": "2026-09-29T10:00:00.000Z",
+      "summary": "原因は自分にある。（以下、ゲンジブ）が、ニューシングル「ラブリーズン」の発売を記念して、2026年11月11日にフリーライブの開催を発表した。 ゲンジブにとって初のフリーライブとなる本公演は、約1万人規模を予定しており、場所は神奈川・横浜赤レンガ倉庫 赤レンガパーク特設会場にて行われる。 応募受付はFC先行受付、各メンバー『＋KIRARI』会員限定先行受付な",
+      "groups": [
+        "原因は自分にある。"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "大倉空人",
+          "group": "原因は自分にある。",
+          "status": "active"
+        },
+        {
+          "name": "小泉光咲",
+          "group": "原因は自分にある。",
+          "status": "active"
+        },
+        {
+          "name": "桜木雅哉",
+          "group": "原因は自分にある。",
+          "status": "active"
+        },
+        {
+          "name": "長野凌大",
+          "group": "原因は自分にある。",
+          "status": "active"
+        },
+        {
+          "name": "武藤潤",
+          "group": "原因は自分にある。",
+          "status": "active"
+        },
+        {
+          "name": "杢代和人",
+          "group": "原因は自分にある。",
+          "status": "active"
+        },
+        {
+          "name": "吉澤要人",
+          "group": "原因は自分にある。",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "11a043d69f439b40",
+      "title": "超特急、上映イベント『東京ドーム公演記念 乗車準備会 僕たちは、超特急です!!!!!!!!!』3面スクリーンの迫力！「SCREENX予告編」完成",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000889981/",
+      "publishedAt": "2026-09-29T08:00:35.000Z",
+      "summary": "超特急の4回限りの特別な全国映画館上映イベント『東京ドーム公演記念 乗車準備会 僕たちは、...",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "d8930c8c2b477c4c",
+      "title": "M!LK山中柔太朗＆曽野舜太が顔をぴったりくっつける！“同僚・双子・ルームメイト”の3変化に「やわしゅん双子すぎる」「ハグしてるの尊い」「無加工でこんなにかっこいいってすごい」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000890276/",
+      "publishedAt": "2026-09-29T05:57:19.000Z",
+      "summary": "『BAILA』の公式SNSが更新され、『BAILA』11月号特別版の表紙を飾るM!LKの山中柔太朗と曽野舜...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "曽野舜太",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "1621847dbd741d23",
       "title": "M!LK吉田仁人のドアップ上目遣いにファン悶絶！TXTボムギュ＆テヒョンとの「ば・く・れ・つ」コラボに「全員イケメンすぎ」「相性よすぎ」と大反響",
@@ -36,28 +151,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "f8aa467363239eb9",
-      "title": "M!LK山中柔太朗がゆるふわヘアでイメージ激変！アンニュイな表情＆ポーズに「過去イチきた」「全然雰囲気違う」「美しすぎる」と反響",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000889951/",
-      "publishedAt": "2026-09-29T03:05:58.000Z",
-      "summary": "M!LKの山中柔太朗が登場する、メンズハイファッションマガジン『GIANNA HOMMES 05』（9月30日...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "山中柔太朗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "af949395801bb0f2",
