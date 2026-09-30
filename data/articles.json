@@ -1,6 +1,71 @@
 {
-  "updatedAt": "2026-09-30T05:31:52.484Z",
+  "updatedAt": "2026-09-30T12:34:09.792Z",
   "articles": [
+    {
+      "id": "c0eb496f0731db5a",
+      "title": "超特急にあらたなトンチキソングが誕生！“干支”がテーマの新曲「エトランス・フィーバー」リリース決定",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000891058/",
+      "publishedAt": "2026-09-30T10:33:34.000Z",
+      "summary": "超特急が、24thシングル「エトランス・フィーバー」を12月16日にリリースすることが決定。表題...",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "5bfbda4cb4c3a5ab",
+      "title": "M!LK 佐野勇斗＆なにわ男子 高橋恭平がプライベートでサウナへ オフの姿に「すっぴんビジュよすぎ」「汗だくでもイケメン」",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/09/post-2539191.html",
+      "publishedAt": "2026-09-30T10:30:32.000Z",
+      "summary": "佐野勇斗（M!LK）と高橋恭平（なにわ男子）がそれぞれ自身のInstagramを更新。サウナに行ったことを報告している。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "471946451d042b7e",
+      "title": "超特急の新曲テーマは“ユーロビート×干支”、24thシングル『エトランス・フィーバー』12月発売",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/09/92770/",
+      "publishedAt": "2026-09-30T10:00:00.000Z",
+      "summary": "9人組メインダンサー＆バックボーカルグループ・超特急が、24枚目のシングル『エトランス・フィーバー』を12月16日(水)にリリース。表題曲「エトランス・フィーバー」を10月12日(月)0時より先行配信することが発表された。 11月に待望の東京ドーム2Days公演を控える超特急の次作は、ユーロビート×干支という意外な組み合わせから生まれた新たなトンチキソング。",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "c3f2ab77ac244808",
+      "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』SOLD OUT！",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news11716/",
+      "publishedAt": "2026-09-30T06:00:07.000Z",
+      "summary": "第6回EBiDAN大運動会『スポーツマンヒップ！』のチケットが好評につき完売いたしました！ たくさんのご応募ありがとうございました！ 第6回EBiDAN大運動会『スポーツマンヒップ！』 THANK YOU SOLD OU […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』SOLD OUT！ first appeared on SUP",
+      "groups": [
+        "EBiDAN",
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "e313a35c71cbb448",
       "title": "M!LK塩﨑太智が霜降り明星せいや（163cm）と並び“すらりとしたスタイル”際立つ！「だいちゃんめっちゃ大きく見える」「隠れスタイルお化けだよね」「身長差マジ参考になります！」の声",
@@ -18,28 +83,6 @@
       "memberMatches": [
         {
           "name": "塩﨑太智",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "94bcaa23d0c3c172",
-      "title": "なにわ高橋恭平とM!LK佐野勇斗がサウナで“汗ダクダク”2ショット！「すっぴんメロい」「サウナハット姿かわいい」「はやきょへ顔面が強すぎる」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000890554/",
-      "publishedAt": "2026-09-30T01:45:16.000Z",
-      "summary": "なにわ男子の高橋恭平がInstagramで、M!LKの佐野勇斗との2ショットを公開。また佐野もInstagra...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
           "group": "M!LK",
           "status": "active"
         }
@@ -139,20 +182,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "50c446da2c851e3f",
-      "title": "M!LK、“ザッツ！超常”が10月6日放送開始のTVアニメ「超巡！超条先輩」OPテーマに決定。楽曲使用第2弾メインPV公開",
-      "sourceName": "タワーレコード ニュース",
-      "sourceUrl": "https://tower.jp/feeds/article/news",
-      "articleUrl": "https://tower.jp/article/news/2026/09/25/tg005",
-      "publishedAt": "2026-09-25T11:00:00.000Z",
-      "summary": "",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "f2ba5a9ce903cd75",
@@ -1897,20 +1926,6 @@
       "summary": "2026年8月11日(火・祝)に発売のEBiDAN15周年記念シングル「Yes! 東京」のリリースイベント『Yes! 飛び出せ! 僕らの移動教室』の最終日の詳細が決定いたしました。 移動教室は12限目をもちまして終了とな […] The post 【7/27(月)更新】EBiDAN15周年記念シングル「Yes! 東京」発売記念リリースイベント『Yes! 飛び",
       "groups": [
         "EBiDAN",
-        "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "ff583d9b7747afc8",
-      "title": "【+KIRARI】「SUPER★DRAGON May SCRATCH 2026」開催のお知らせ！",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news11062/",
-      "publishedAt": "2026-05-28T11:59:45.000Z",
-      "summary": "5月29日(金)21:00より「SUPER★DRAGON May SCRATCH 2026」の開催が決定しました！ +KIRARI完全撮り下ろしのビジュアルです！ 【開催期間】 5月29日(金)21:00〜5月31日(日 […] The post 【+KIRARI】「SUPER★DRAGON May SCRATCH 2026」開催のお知らせ！ first a",
-      "groups": [
         "SUPER★DRAGON"
       ],
       "statuses": [],
