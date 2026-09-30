@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-09-30T12:34:09.792Z",
+  "updatedAt": "2026-09-30T22:15:25.369Z",
   "articles": [
+    {
+      "id": "80c2e72a7b8fb472",
+      "title": "テレビ解説者・木村隆志のヨミトキ 第129回 『有吉の壁』レギュラー放送終了――視聴者と業界人の両方から愛された理由と、寂しい決断に至った背景とは",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/yomitoki-129/",
+      "publishedAt": "2026-09-30T20:00:00.000Z",
+      "summary": "今年最も活躍したアイドルと言えばM!LKで間違いない一方で、デビューからの初速では「歴代最速」と言われているのがモナキ。なぜ短期間でこれほどのブレイクとなったのか。彼らは業界内でどのように評価されているのか。テレビ解説者の木村隆志が掘り下げていく。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "c0eb496f0731db5a",
       "title": "超特急にあらたなトンチキソングが誕生！“干支”がテーマの新曲「エトランス・フィーバー」リリース決定",
