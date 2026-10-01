@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-01T13:13:32.472Z",
+  "updatedAt": "2026-10-01T22:41:02.319Z",
   "totals": {
     "all": 118,
-    "today": 4,
-    "week": 13
+    "today": 0,
+    "week": 12
   },
   "groupRanking": [
     {
@@ -12,7 +12,7 @@
     },
     {
       "name": "SUPER★DRAGON",
-      "count": 5
+      "count": 4
     },
     {
       "name": "EBiDAN",
@@ -49,10 +49,6 @@
       "count": 1
     },
     {
-      "name": "池田彪馬",
-      "count": 1
-    },
-    {
       "name": "杢代和人",
       "count": 1
     }
@@ -60,7 +56,7 @@
   "sourceRanking": [
     {
       "name": "SUPER★DRAGON 公式NEWS",
-      "count": 5
+      "count": 4
     },
     {
       "name": "マイナビニュース テレビ",
