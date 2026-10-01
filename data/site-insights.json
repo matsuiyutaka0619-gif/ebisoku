@@ -1,36 +1,40 @@
 {
-  "updatedAt": "2026-10-01T05:52:28.919Z",
+  "updatedAt": "2026-10-01T13:13:32.472Z",
   "totals": {
-    "all": 117,
-    "today": 2,
-    "week": 14
+    "all": 118,
+    "today": 4,
+    "week": 13
   },
   "groupRanking": [
     {
-      "name": "SUPER★DRAGON",
-      "count": 7
+      "name": "M!LK",
+      "count": 5
     },
     {
-      "name": "M!LK",
-      "count": 4
+      "name": "SUPER★DRAGON",
+      "count": 5
     },
     {
       "name": "EBiDAN",
       "count": 2
     },
     {
-      "name": "超特急",
+      "name": "原因は自分にある。",
       "count": 2
     },
     {
-      "name": "原因は自分にある。",
+      "name": "超特急",
       "count": 1
     }
   ],
   "memberRanking": [
     {
+      "name": "吉田仁人",
+      "count": 2
+    },
+    {
       "name": "佐野勇斗",
-      "count": 3
+      "count": 2
     },
     {
       "name": "伊藤壮吾",
@@ -38,10 +42,6 @@
     },
     {
       "name": "塩﨑太智",
-      "count": 1
-    },
-    {
-      "name": "吉田仁人",
       "count": 1
     },
     {
@@ -60,14 +60,14 @@
   "sourceRanking": [
     {
       "name": "SUPER★DRAGON 公式NEWS",
-      "count": 7
+      "count": 5
     },
     {
-      "name": "マイナビニュース 芸能",
+      "name": "マイナビニュース テレビ",
       "count": 2
     },
     {
-      "name": "リアルサウンド 音楽",
+      "name": "マイナビニュース 芸能",
       "count": 2
     },
     {
@@ -75,31 +75,198 @@
       "count": 1
     },
     {
-      "name": "マイナビニュース エンタメ",
+      "name": "THE FIRST TIMES",
       "count": 1
     },
     {
-      "name": "マイナビニュース テレビ",
+      "name": "タワーレコード ニュース",
+      "count": 1
+    },
+    {
+      "name": "マイナビニュース エンタメ",
       "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
-    "超特急": [
+    "M!LK": [
       {
-        "id": "40e01b44b386311d",
-        "title": "超特急、“干支”テーマの24thシングル『エトランス・フィーバー』リリース 表題曲先行配信も",
-        "sourceName": "リアルサウンド 音楽",
-        "sourceUrl": "https://realsound.jp/music/feed",
-        "articleUrl": "https://realsound.jp/2026/10/post-2539356.html",
-        "publishedAt": "2026-10-01T02:52:04.000Z",
-        "summary": "超特急が、24thシングル『エトランス・フィーバー』を12月16日にリリース。また、表題曲を10月12日に先行配信リリースする。 本作の表題曲は、“ユーロビート×干支”という組み合わせから生まれた、新たなトンチキソン",
+        "id": "d283a91fc1b99795",
+        "title": "自由すぎるM!LKが大暴走！NHK『Venue101 EXTRA』WEEK2見どころ公開",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000891727/",
+        "publishedAt": "2026-10-01T10:40:35.000Z",
+        "summary": "10月3日23時より、NHK総合にて『Venue101 EXTRA』(WEEK2) がオンエア。このたび、Ayumu Imazu...",
         "groups": [
-          "超特急"
+          "M!LK"
         ],
         "statuses": [],
         "memberMatches": []
       },
+      {
+        "id": "23d09f1b008c79cd",
+        "title": "「どういうこと!? って…」「担当カラー黄色のヤツが…」M!LK吉田仁人、髪色を“変えられない”葛藤明かす",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20261001-5046786/",
+        "publishedAt": "2026-10-01T10:00:00.000Z",
+        "summary": "「青髪とかやりたい」――。アイドルグループ・M!LKの吉田仁人が24日、文化放送のラジオ番組『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)に出演。“派手髪”への願望を語った。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "80c2e72a7b8fb472",
+        "title": "テレビ解説者・木村隆志のヨミトキ 第129回 『有吉の壁』レギュラー放送終了――視聴者と業界人の両方から愛された理由と、寂しい決断に至った背景とは",
+        "sourceName": "マイナビニュース テレビ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
+        "articleUrl": "https://news.mynavi.jp/article/yomitoki-129/",
+        "publishedAt": "2026-09-30T20:00:00.000Z",
+        "summary": "今年最も活躍したアイドルと言えばM!LKで間違いない一方で、デビューからの初速では「歴代最速」と言われているのがモナキ。なぜ短期間でこれほどのブレイクとなったのか。彼らは業界内でどのように評価されているのか。テレビ解説者の木村隆志が掘り下げていく。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "fc6309e3e1f4a091",
+        "title": "日曜トライアル 第44回 10月は冠特番&ドラマ出演ラッシュ――M!LK、地上波でも高まる存在感 メンバー個人の躍進も目立つ",
+        "sourceName": "マイナビニュース 芸能",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
+        "articleUrl": "https://news.mynavi.jp/article/sunday_trial-44/",
+        "publishedAt": "2026-09-27T10:00:00.000Z",
+        "summary": "「イイじゃん」「好きすぎて滅!」「爆裂愛してる」などのヒットをきっかけに大きな飛躍を遂げた5人組ダンスボーカルグループ・M!LK。2025年末には『第76回NHK紅白歌合戦』への初出場も果たし、その勢いは2026年に入っても加速している。そんなM!LKが、10月に地上波で存在感を発揮しそうだ。グループとしてはGP帯冠バラエティ特番の第2弾が放送されるほか、塩",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "ca9d7b1bc30c255d",
+        "title": "佐野勇斗の「みんなも頑張って楽しんでください!」に総ツッコミ M!LK、日テレ初冠番組決定! しかも10月に2本",
+        "sourceName": "マイナビニュース テレビ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
+        "articleUrl": "https://news.mynavi.jp/article/20260926-5027474/",
+        "publishedAt": "2026-09-26T03:00:00.000Z",
+        "summary": "5人組ダンスボーカルグループ・M!LKの冠番組『M!LKに言ってみ?』が10月5日(23:59～)、『ザッツ M!LK』が同27日(23:59～)に日本テレビで放送される。同局で初めての冠番組に、佐野勇斗は早くも「レギュラー化したいです!!」と意欲を見せた。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "原因は自分にある。": [
+      {
+        "id": "652537b51923f86b",
+        "title": "「J-POPシングル ウィークリーTOP30」発表。1位はCANDY TUNE『総意♡So Free / スペシャル感謝祭』、予約1位は原因は自分にある。『ラブリーズン』（2026年10月1日付）",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/10/01/tg002",
+        "publishedAt": "2026-10-01T10:00:00.000Z",
+        "summary": "",
+        "groups": [
+          "原因は自分にある。"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "a5bb2eec932491d1",
+        "title": "杢代和人、オールホワイト&黒縁メガネ姿でのウインクにファン歓喜 16回目のTGC出演「緊張は…」",
+        "sourceName": "マイナビニュース 芸能",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
+        "articleUrl": "https://news.mynavi.jp/article/20260927-5029480/",
+        "publishedAt": "2026-09-27T01:00:00.000Z",
+        "summary": "ダンスボーカルユニット「原因は自分にある。」の杢代和人が19日、横浜アリーナで行われた「第43回 マイナビ 東京ガールズコレクション 2026 AUTUMN/WINTER」(TGC)に出演した。",
+        "groups": [
+          "原因は自分にある。"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "杢代和人",
+            "group": "原因は自分にある。",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "15fb9ee4d3775ce2",
+        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/07/89645/",
+        "publishedAt": "2026-07-24T12:00:00.000Z",
+        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
+        "groups": [
+          "原因は自分にある。",
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "超特急": [
       {
         "id": "471946451d042b7e",
         "title": "超特急の新曲テーマは“ユーロビート×干支”、24thシングル『エトランス・フィーバー』12月発売",
@@ -167,117 +334,6 @@
           "超特急",
           "M!LK",
           "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "M!LK": [
-      {
-        "id": "80c2e72a7b8fb472",
-        "title": "テレビ解説者・木村隆志のヨミトキ 第129回 『有吉の壁』レギュラー放送終了――視聴者と業界人の両方から愛された理由と、寂しい決断に至った背景とは",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/yomitoki-129/",
-        "publishedAt": "2026-09-30T20:00:00.000Z",
-        "summary": "今年最も活躍したアイドルと言えばM!LKで間違いない一方で、デビューからの初速では「歴代最速」と言われているのがモナキ。なぜ短期間でこれほどのブレイクとなったのか。彼らは業界内でどのように評価されているのか。テレビ解説者の木村隆志が掘り下げていく。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "5bfbda4cb4c3a5ab",
-        "title": "M!LK 佐野勇斗＆なにわ男子 高橋恭平がプライベートでサウナへ オフの姿に「すっぴんビジュよすぎ」「汗だくでもイケメン」",
-        "sourceName": "リアルサウンド 音楽",
-        "sourceUrl": "https://realsound.jp/music/feed",
-        "articleUrl": "https://realsound.jp/2026/09/post-2539191.html",
-        "publishedAt": "2026-09-30T10:30:32.000Z",
-        "summary": "佐野勇斗（M!LK）と高橋恭平（なにわ男子）がそれぞれ自身のInstagramを更新。サウナに行ったことを報告している。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "fc6309e3e1f4a091",
-        "title": "日曜トライアル 第44回 10月は冠特番&ドラマ出演ラッシュ――M!LK、地上波でも高まる存在感 メンバー個人の躍進も目立つ",
-        "sourceName": "マイナビニュース 芸能",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-        "articleUrl": "https://news.mynavi.jp/article/sunday_trial-44/",
-        "publishedAt": "2026-09-27T10:00:00.000Z",
-        "summary": "「イイじゃん」「好きすぎて滅!」「爆裂愛してる」などのヒットをきっかけに大きな飛躍を遂げた5人組ダンスボーカルグループ・M!LK。2025年末には『第76回NHK紅白歌合戦』への初出場も果たし、その勢いは2026年に入っても加速している。そんなM!LKが、10月に地上波で存在感を発揮しそうだ。グループとしてはGP帯冠バラエティ特番の第2弾が放送されるほか、塩",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "ca9d7b1bc30c255d",
-        "title": "佐野勇斗の「みんなも頑張って楽しんでください!」に総ツッコミ M!LK、日テレ初冠番組決定! しかも10月に2本",
-        "sourceName": "マイナビニュース テレビ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-        "articleUrl": "https://news.mynavi.jp/article/20260926-5027474/",
-        "publishedAt": "2026-09-26T03:00:00.000Z",
-        "summary": "5人組ダンスボーカルグループ・M!LKの冠番組『M!LKに言ってみ?』が10月5日(23:59～)、『ザッツ M!LK』が同27日(23:59～)に日本テレビで放送される。同局で初めての冠番組に、佐野勇斗は早くも「レギュラー化したいです!!」と意欲を見せた。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "976120bc3101651a",
-        "title": "M!LKが“ユニバース”を背負う新アー写公開、1stミニアルバムリード曲は早くもチャート席巻中",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/09/91880/",
-        "publishedAt": "2026-09-08T09:00:00.000Z",
-        "summary": "5人組ダンスボーカルグループ・M!LKが、9月16日(水)に控えるミニアルバム『LOVE ENG!NE』リリースに先駆けて最新アーティスト写真を公開した。 M!LKにとって初ミニアルバムとなる本作からは、リード曲「時空超えてユニバース」（ときこえてゆにばーす）の先行配信が9月7日(月)にスタート。配信開始直後からXのトレンドで「#ときユニ」が1位を獲得したほ",
-        "groups": [
-          "M!LK"
         ],
         "statuses": [],
         "memberMatches": []
@@ -445,58 +501,6 @@
           {
             "name": "池田彪馬",
             "group": "SUPER★DRAGON",
-            "status": "active"
-          }
-        ]
-      }
-    ],
-    "原因は自分にある。": [
-      {
-        "id": "a5bb2eec932491d1",
-        "title": "杢代和人、オールホワイト&黒縁メガネ姿でのウインクにファン歓喜 16回目のTGC出演「緊張は…」",
-        "sourceName": "マイナビニュース 芸能",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-        "articleUrl": "https://news.mynavi.jp/article/20260927-5029480/",
-        "publishedAt": "2026-09-27T01:00:00.000Z",
-        "summary": "ダンスボーカルユニット「原因は自分にある。」の杢代和人が19日、横浜アリーナで行われた「第43回 マイナビ 東京ガールズコレクション 2026 AUTUMN/WINTER」(TGC)に出演した。",
-        "groups": [
-          "原因は自分にある。"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "杢代和人",
-            "group": "原因は自分にある。",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "15fb9ee4d3775ce2",
-        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/07/89645/",
-        "publishedAt": "2026-07-24T12:00:00.000Z",
-        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
-        "groups": [
-          "原因は自分にある。",
-          "BUDDiiS"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "SHOOT",
-            "group": "BUDDiiS",
             "status": "active"
           }
         ]

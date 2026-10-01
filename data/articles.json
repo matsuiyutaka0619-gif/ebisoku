@@ -1,28 +1,14 @@
 {
-  "updatedAt": "2026-10-01T05:52:28.914Z",
+  "updatedAt": "2026-10-01T13:13:32.469Z",
   "articles": [
     {
-      "id": "40e01b44b386311d",
-      "title": "超特急、“干支”テーマの24thシングル『エトランス・フィーバー』リリース 表題曲先行配信も",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/10/post-2539356.html",
-      "publishedAt": "2026-10-01T02:52:04.000Z",
-      "summary": "超特急が、24thシングル『エトランス・フィーバー』を12月16日にリリース。また、表題曲を10月12日に先行配信リリースする。 本作の表題曲は、“ユーロビート×干支”という組み合わせから生まれた、新たなトンチキソン",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "80c2e72a7b8fb472",
-      "title": "テレビ解説者・木村隆志のヨミトキ 第129回 『有吉の壁』レギュラー放送終了――視聴者と業界人の両方から愛された理由と、寂しい決断に至った背景とは",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-      "articleUrl": "https://news.mynavi.jp/article/yomitoki-129/",
-      "publishedAt": "2026-09-30T20:00:00.000Z",
-      "summary": "今年最も活躍したアイドルと言えばM!LKで間違いない一方で、デビューからの初速では「歴代最速」と言われているのがモナキ。なぜ短期間でこれほどのブレイクとなったのか。彼らは業界内でどのように評価されているのか。テレビ解説者の木村隆志が掘り下げていく。",
+      "id": "d283a91fc1b99795",
+      "title": "自由すぎるM!LKが大暴走！NHK『Venue101 EXTRA』WEEK2見どころ公開",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000891727/",
+      "publishedAt": "2026-10-01T10:40:35.000Z",
+      "summary": "10月3日23時より、NHK総合にて『Venue101 EXTRA』(WEEK2) がオンエア。このたび、Ayumu Imazu...",
       "groups": [
         "M!LK"
       ],
@@ -30,13 +16,13 @@
       "memberMatches": []
     },
     {
-      "id": "5bfbda4cb4c3a5ab",
-      "title": "M!LK 佐野勇斗＆なにわ男子 高橋恭平がプライベートでサウナへ オフの姿に「すっぴんビジュよすぎ」「汗だくでもイケメン」",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/09/post-2539191.html",
-      "publishedAt": "2026-09-30T10:30:32.000Z",
-      "summary": "佐野勇斗（M!LK）と高橋恭平（なにわ男子）がそれぞれ自身のInstagramを更新。サウナに行ったことを報告している。",
+      "id": "23d09f1b008c79cd",
+      "title": "「どういうこと!? って…」「担当カラー黄色のヤツが…」M!LK吉田仁人、髪色を“変えられない”葛藤明かす",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261001-5046786/",
+      "publishedAt": "2026-10-01T10:00:00.000Z",
+      "summary": "「青髪とかやりたい」――。アイドルグループ・M!LKの吉田仁人が24日、文化放送のラジオ番組『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)に出演。“派手髪”への願望を語った。",
       "groups": [
         "M!LK"
       ],
@@ -45,11 +31,39 @@
       ],
       "memberMatches": [
         {
-          "name": "佐野勇斗",
+          "name": "吉田仁人",
           "group": "M!LK",
           "status": "active"
         }
       ]
+    },
+    {
+      "id": "652537b51923f86b",
+      "title": "「J-POPシングル ウィークリーTOP30」発表。1位はCANDY TUNE『総意♡So Free / スペシャル感謝祭』、予約1位は原因は自分にある。『ラブリーズン』（2026年10月1日付）",
+      "sourceName": "タワーレコード ニュース",
+      "sourceUrl": "https://tower.jp/feeds/article/news",
+      "articleUrl": "https://tower.jp/article/news/2026/10/01/tg002",
+      "publishedAt": "2026-10-01T10:00:00.000Z",
+      "summary": "",
+      "groups": [
+        "原因は自分にある。"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "80c2e72a7b8fb472",
+      "title": "テレビ解説者・木村隆志のヨミトキ 第129回 『有吉の壁』レギュラー放送終了――視聴者と業界人の両方から愛された理由と、寂しい決断に至った背景とは",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
+      "articleUrl": "https://news.mynavi.jp/article/yomitoki-129/",
+      "publishedAt": "2026-09-30T20:00:00.000Z",
+      "summary": "今年最も活躍したアイドルと言えばM!LKで間違いない一方で、デビューからの初速では「歴代最速」と言われているのがモナキ。なぜ短期間でこれほどのブレイクとなったのか。彼らは業界内でどのように評価されているのか。テレビ解説者の木村隆志が掘り下げていく。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
     },
     {
       "id": "471946451d042b7e",
