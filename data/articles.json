@@ -1,36 +1,42 @@
 {
-  "updatedAt": "2026-10-02T05:36:32.983Z",
+  "updatedAt": "2026-10-02T12:33:54.623Z",
   "articles": [
     {
-      "id": "d73576d03bad8bc8",
-      "title": "M!LK山中柔太朗が“ふんわりヘア”で秋ファッション×秋メイク！長身際立つウエストマークのロングコート姿も披露し「ビジュ爆裂」「完璧に着こなしてる」「秋色の柔太朗くんも美しい」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000892232/",
-      "publishedAt": "2026-10-02T05:06:17.000Z",
-      "summary": "『sweet』の公式Instagramが更新され、11月号の表紙を飾るM!LKの山中柔太朗の動画が公開された...",
+      "id": "3214fb52e317dd78",
+      "title": "「J-POPアルバム 9月度マンスリーTOP30」発表。1位はM!LK『LOVE ENG!NE』",
+      "sourceName": "タワーレコード ニュース",
+      "sourceUrl": "https://tower.jp/feeds/article/news",
+      "articleUrl": "https://tower.jp/article/news/2026/10/02/tg004",
+      "publishedAt": "2026-10-02T10:00:00.000Z",
+      "summary": "",
       "groups": [
         "M!LK"
       ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "山中柔太朗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
+      "statuses": [],
+      "memberMatches": []
     },
     {
-      "id": "4889f02a5841f32e",
-      "title": "M!LK曽野舜太＆吉田仁人が顔を近づけて見つめ合う！至近距離のドアップやウインク＆指ハートも披露「顔面強すぎ」「2人とも顔ちっさ」「マスク越しでもわかる美形」曽野も「仁ちゃん横顔綺麗すぎ」と絶賛",
+      "id": "bc95dc5649650f8f",
+      "title": "あのちゃんの「Yes! 東京」ダンスが「キレキレすぎて誰かと思った」「手足の長さもすごい映えてる」「かっこよすぎてリスペクト」と絶賛の嵐",
       "sourceName": "THE FIRST TIMES",
       "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000892098/",
-      "publishedAt": "2026-10-02T03:36:37.000Z",
-      "summary": "「E-line MASK（イーラインマスク）」の公式Instagramが更新され、イメージキャラクターに就任...",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000892513/",
+      "publishedAt": "2026-10-02T09:59:24.000Z",
+      "summary": "あの（ano）公式SNSにて、EBiDANの「Yes! 東京」ダンスを踊る動画が公開された。 ■ノリノリで...",
+      "groups": [
+        "EBiDAN"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "94cc6bd16dc327b8",
+      "title": "曽野舜太＆吉田仁人（M!LK）、「E-line MASK」新イメージ・キャラクターに就任。WEB CM公開",
+      "sourceName": "タワーレコード ニュース",
+      "sourceUrl": "https://tower.jp/feeds/article/news",
+      "articleUrl": "https://tower.jp/article/news/2026/10/02/tg002",
+      "publishedAt": "2026-10-02T09:30:00.000Z",
+      "summary": "",
       "groups": [
         "M!LK"
       ],
@@ -45,6 +51,137 @@
         },
         {
           "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "c46847b3da224bc7",
+      "title": "吉田仁人主演『溺愛 ～ 実は、最強ヒーロー ～』キービジュアル公開 西原亜希ら新キャストも",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/10/post-2541761.html",
+      "publishedAt": "2026-10-02T09:00:58.000Z",
+      "summary": "10月30日よりTOKYO MXで放送がスタートするM!LKの吉田仁人主演ドラマ『溺愛 〜 実は、最強ヒーロー 〜』のキービジュアルが公開され、追加キャストとして新たに西原亜希、日比茉鈴、野口チ優の出演が発表された。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "25cb4e66ded86f60",
+      "title": "吉田仁人（M!LK）主演ドラマ『溺愛』ドラマの世界観が凝縮されたキービジュアル解禁！さらなる追加キャストも発表",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000892279/",
+      "publishedAt": "2026-10-02T09:00:37.000Z",
+      "summary": "吉田仁人（M!LK）が主演を務める、TOKYO MXで10月30日より放送の新金曜ドラマ『溺愛 ～ 実は...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "2a4dddd6b9e52a72",
+      "title": "SUPER★DRAGON DRA FES 2026 追加公演 SOLD OUT！",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news11724/",
+      "publishedAt": "2026-10-02T09:00:24.000Z",
+      "summary": "SUPER★DRAGON DRA FES 2026追加公演のチケットが好評につき完売いたしました！ たくさんのお申込みありがとうございました！ SUPER★DRAGON DRA FES 2026〈追加公演〉 THANK […] The post SUPER★DRAGON DRA FES 2026 追加公演 SOLD OUT！ first appeared o",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "10b5e590c402522b",
+      "title": "M!LK吉田仁人の“見上げる横顔”に注目！鼻筋＆フェイスライン際立つオフショットに「おめめキラキラすぎる」「美しい角度で最高」緑黄色社会・長屋晴子との2ショットにも「美男美女で画面眩しすぎる」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000892347/",
+      "publishedAt": "2026-10-02T07:08:56.000Z",
+      "summary": "文化放送『M!LK 吉田仁人のレコメン！』の公式Xが更新され、10月1日放送回のオフショットが公...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "72d88a3410706483",
+      "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』追加出演者のお知らせ/チケットトレード情報",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news11722/",
+      "publishedAt": "2026-10-02T07:00:30.000Z",
+      "summary": "第6回EBiDAN大運動会『スポーツマンヒップ！』につきまして、ICEx志賀李玖・阿久根温世の追加出演が決定いたしました！ また、10月7日(水) 18:00よりチケットトレードの実施が決定いたしました。 チケットをお持 […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』追加出演者のお知らせ/チケットトレード情報 first app",
+      "groups": [
+        "EBiDAN",
+        "SUPER★DRAGON",
+        "ICEx"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "志賀李玖",
+          "group": "ICEx",
+          "status": "active"
+        },
+        {
+          "name": "阿久根温世",
+          "group": "ICEx",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "a2dd5b71157947d4",
+      "title": "M!LK塩﨑太智のふわもこ帽子×きゅるるん笑顔に反響！「可愛さハンパない」「クマのぬいぐるみみたい」、“じんだい”エピソードも披露",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000892230/",
+      "publishedAt": "2026-10-02T06:26:34.000Z",
+      "summary": "ファッション誌『mini』の公式SNSで、M!LKの塩崎太智（「崎」はたつさきが正式表記）が表紙を...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "塩﨑太智",
           "group": "M!LK",
           "status": "active"
         }
@@ -105,28 +242,6 @@
       ]
     },
     {
-      "id": "195d66b542e598f2",
-      "title": "中島健人、上白石萌音、M!LK山中柔太朗、KEY TO LIT猪狩蒼弥『超タッグ祭』で“ウソの演技”クイズの出題者に",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000891882/",
-      "publishedAt": "2026-10-02T00:52:09.000Z",
-      "summary": "中島健人、上白石萌音、M!LK・山中柔太朗、KEY TO LIT・猪狩蒼弥らが、TBSにて10月9日20時55分...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "山中柔太朗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "30c2b053ac090f8d",
       "title": "M!LK、JOYSOUNDで本人歌唱MV配信 オリジナルマイク＆タンバリン当たるキャンペーンも",
       "sourceName": "マイナビニュース エンタメ",
@@ -134,20 +249,6 @@
       "articleUrl": "https://news.mynavi.jp/article/20261002-5059354/",
       "publishedAt": "2026-10-01T23:00:00.000Z",
       "summary": "5人組ダンスボーカルグループ・M!LKとJOYSOUNDのコラボレーションが、1日からスタートした。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "d283a91fc1b99795",
-      "title": "自由すぎるM!LKが大暴走！NHK『Venue101 EXTRA』WEEK2見どころ公開",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000891727/",
-      "publishedAt": "2026-10-01T10:40:35.000Z",
-      "summary": "10月3日23時より、NHK総合にて『Venue101 EXTRA』(WEEK2) がオンエア。このたび、Ayumu Imazu...",
       "groups": [
         "M!LK"
       ],
@@ -1969,34 +2070,6 @@
       "articleUrl": "https://super-dragon.jp/news/news11106/",
       "publishedAt": "2026-05-30T11:59:36.000Z",
       "summary": "①『「Call Me Asap / NUMBER」発売記念！ SUPER★DRAGON タワーレコード抽選会』が全国のタワーレコードSUPER応援店（10店舗）にて実施決定！ SUPER応援店舗にてSUPER★DRAGO […] The post Major 6th Single「Call Me Asap / NUMBER」 タワーレコードキャンペーン決定！",
-      "groups": [
-        "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "fcba0d69850272ef",
-      "title": "Major 6th Single「Call Me Asap / NUMBER」 HMVキャンペーン決定！",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news11097/",
-      "publishedAt": "2026-05-30T10:59:45.000Z",
-      "summary": "①『「Call Me Asap / NUMBER」発売記念！ SUPER★DRAGON HMV抽選会』が全国のHMV6店舗で実施決定！ 下記対象店舗にて対象商品のCDご購入額3,300円（税込）ごとに1回、トレカ、缶バッ […] The post Major 6th Single「Call Me Asap / NUMBER」 HMVキャンペーン決定！ fir",
-      "groups": [
-        "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "8e39471816774487",
-      "title": "「SUPER★DRAGON DRA FES 2026」最新チケット情報",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news11090/",
-      "publishedAt": "2026-05-30T04:59:05.000Z",
-      "summary": "本日5月30日(土)14:00より『+KIRARI』会員先行が受付開始。 会場で皆さんとお会いできることを楽しみにしております！ ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願いと注意事項】 htt […] The post 「SUPER★DRAGON DRA FES 2026」最新チケット情報 first appeared on SU",
       "groups": [
         "SUPER★DRAGON"
       ],
