@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-02T12:33:54.625Z",
+  "updatedAt": "2026-10-02T22:13:47.157Z",
   "totals": {
-    "all": 123,
-    "today": 12,
-    "week": 19
+    "all": 122,
+    "today": 0,
+    "week": 18
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 9
+      "count": 8
     },
     {
       "name": "SUPER★DRAGON",
@@ -37,10 +37,6 @@
       "count": 5
     },
     {
-      "name": "塩﨑太智",
-      "count": 2
-    },
-    {
       "name": "タクヤ",
       "count": 1
     },
@@ -50,6 +46,10 @@
     },
     {
       "name": "伊藤壮吾",
+      "count": 1
+    },
+    {
+      "name": "塩﨑太智",
       "count": 1
     },
     {
@@ -80,23 +80,19 @@
     },
     {
       "name": "THE FIRST TIMES",
-      "count": 4
+      "count": 3
     },
     {
       "name": "タワーレコード ニュース",
       "count": 3
     },
     {
+      "name": "マイナビニュース 芸能",
+      "count": 3
+    },
+    {
       "name": "Bezzy",
       "count": 2
-    },
-    {
-      "name": "マイナビニュース 芸能",
-      "count": 2
-    },
-    {
-      "name": "マイナビニュース エンタメ",
-      "count": 1
     },
     {
       "name": "マイナビニュース テレビ",
