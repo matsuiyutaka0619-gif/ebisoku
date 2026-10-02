@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-01T22:41:02.319Z",
+  "updatedAt": "2026-10-02T05:36:32.994Z",
   "totals": {
-    "all": 118,
-    "today": 0,
-    "week": 12
+    "all": 120,
+    "today": 6,
+    "week": 16
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 5
+      "count": 7
     },
     {
       "name": "SUPER★DRAGON",
-      "count": 4
+      "count": 5
     },
     {
       "name": "EBiDAN",
@@ -24,20 +24,24 @@
     },
     {
       "name": "超特急",
-      "count": 1
+      "count": 2
     }
   ],
   "memberRanking": [
+    {
+      "name": "山中柔太朗",
+      "count": 3
+    },
+    {
+      "name": "伊藤壮吾",
+      "count": 2
+    },
     {
       "name": "吉田仁人",
       "count": 2
     },
     {
-      "name": "佐野勇斗",
-      "count": 2
-    },
-    {
-      "name": "伊藤壮吾",
+      "name": "タクヤ",
       "count": 1
     },
     {
@@ -45,7 +49,19 @@
       "count": 1
     },
     {
-      "name": "山中柔太朗",
+      "name": "佐野勇斗",
+      "count": 1
+    },
+    {
+      "name": "柴崎楽",
+      "count": 1
+    },
+    {
+      "name": "曽野舜太",
+      "count": 1
+    },
+    {
+      "name": "飯島颯",
       "count": 1
     },
     {
@@ -56,23 +72,19 @@
   "sourceRanking": [
     {
       "name": "SUPER★DRAGON 公式NEWS",
+      "count": 5
+    },
+    {
+      "name": "THE FIRST TIMES",
       "count": 4
     },
     {
-      "name": "マイナビニュース テレビ",
+      "name": "Bezzy",
       "count": 2
     },
     {
       "name": "マイナビニュース 芸能",
       "count": 2
-    },
-    {
-      "name": "Bezzy",
-      "count": 1
-    },
-    {
-      "name": "THE FIRST TIMES",
-      "count": 1
     },
     {
       "name": "タワーレコード ニュース",
@@ -81,11 +93,100 @@
     {
       "name": "マイナビニュース エンタメ",
       "count": 1
+    },
+    {
+      "name": "マイナビニュース テレビ",
+      "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
     "M!LK": [
+      {
+        "id": "d73576d03bad8bc8",
+        "title": "M!LK山中柔太朗が“ふんわりヘア”で秋ファッション×秋メイク！長身際立つウエストマークのロングコート姿も披露し「ビジュ爆裂」「完璧に着こなしてる」「秋色の柔太朗くんも美しい」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000892232/",
+        "publishedAt": "2026-10-02T05:06:17.000Z",
+        "summary": "『sweet』の公式Instagramが更新され、11月号の表紙を飾るM!LKの山中柔太朗の動画が公開された...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "4889f02a5841f32e",
+        "title": "M!LK曽野舜太＆吉田仁人が顔を近づけて見つめ合う！至近距離のドアップやウインク＆指ハートも披露「顔面強すぎ」「2人とも顔ちっさ」「マスク越しでもわかる美形」曽野も「仁ちゃん横顔綺麗すぎ」と絶賛",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000892098/",
+        "publishedAt": "2026-10-02T03:36:37.000Z",
+        "summary": "「E-line MASK（イーラインマスク）」の公式Instagramが更新され、イメージキャラクターに就任...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "195d66b542e598f2",
+        "title": "中島健人、上白石萌音、M!LK山中柔太朗、KEY TO LIT猪狩蒼弥『超タッグ祭』で“ウソの演技”クイズの出題者に",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000891882/",
+        "publishedAt": "2026-10-02T00:52:09.000Z",
+        "summary": "中島健人、上白石萌音、M!LK・山中柔太朗、KEY TO LIT・猪狩蒼弥らが、TBSにて10月9日20時55分...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "30c2b053ac090f8d",
+        "title": "M!LK、JOYSOUNDで本人歌唱MV配信 オリジナルマイク＆タンバリン当たるキャンペーンも",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20261002-5059354/",
+        "publishedAt": "2026-10-01T23:00:00.000Z",
+        "summary": "5人組ダンスボーカルグループ・M!LKとJOYSOUNDのコラボレーションが、1日からスタートした。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
       {
         "id": "d283a91fc1b99795",
         "title": "自由すぎるM!LKが大暴走！NHK『Venue101 EXTRA』WEEK2見どころ公開",
@@ -99,170 +200,131 @@
         ],
         "statuses": [],
         "memberMatches": []
-      },
-      {
-        "id": "23d09f1b008c79cd",
-        "title": "「どういうこと!? って…」「担当カラー黄色のヤツが…」M!LK吉田仁人、髪色を“変えられない”葛藤明かす",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20261001-5046786/",
-        "publishedAt": "2026-10-01T10:00:00.000Z",
-        "summary": "「青髪とかやりたい」――。アイドルグループ・M!LKの吉田仁人が24日、文化放送のラジオ番組『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)に出演。“派手髪”への願望を語った。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "80c2e72a7b8fb472",
-        "title": "テレビ解説者・木村隆志のヨミトキ 第129回 『有吉の壁』レギュラー放送終了――視聴者と業界人の両方から愛された理由と、寂しい決断に至った背景とは",
-        "sourceName": "マイナビニュース テレビ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-        "articleUrl": "https://news.mynavi.jp/article/yomitoki-129/",
-        "publishedAt": "2026-09-30T20:00:00.000Z",
-        "summary": "今年最も活躍したアイドルと言えばM!LKで間違いない一方で、デビューからの初速では「歴代最速」と言われているのがモナキ。なぜ短期間でこれほどのブレイクとなったのか。彼らは業界内でどのように評価されているのか。テレビ解説者の木村隆志が掘り下げていく。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "fc6309e3e1f4a091",
-        "title": "日曜トライアル 第44回 10月は冠特番&ドラマ出演ラッシュ――M!LK、地上波でも高まる存在感 メンバー個人の躍進も目立つ",
-        "sourceName": "マイナビニュース 芸能",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-        "articleUrl": "https://news.mynavi.jp/article/sunday_trial-44/",
-        "publishedAt": "2026-09-27T10:00:00.000Z",
-        "summary": "「イイじゃん」「好きすぎて滅!」「爆裂愛してる」などのヒットをきっかけに大きな飛躍を遂げた5人組ダンスボーカルグループ・M!LK。2025年末には『第76回NHK紅白歌合戦』への初出場も果たし、その勢いは2026年に入っても加速している。そんなM!LKが、10月に地上波で存在感を発揮しそうだ。グループとしてはGP帯冠バラエティ特番の第2弾が放送されるほか、塩",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "ca9d7b1bc30c255d",
-        "title": "佐野勇斗の「みんなも頑張って楽しんでください!」に総ツッコミ M!LK、日テレ初冠番組決定! しかも10月に2本",
-        "sourceName": "マイナビニュース テレビ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-        "articleUrl": "https://news.mynavi.jp/article/20260926-5027474/",
-        "publishedAt": "2026-09-26T03:00:00.000Z",
-        "summary": "5人組ダンスボーカルグループ・M!LKの冠番組『M!LKに言ってみ?』が10月5日(23:59～)、『ザッツ M!LK』が同27日(23:59～)に日本テレビで放送される。同局で初めての冠番組に、佐野勇斗は早くも「レギュラー化したいです!!」と意欲を見せた。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
       }
     ],
-    "原因は自分にある。": [
+    "SUPER★DRAGON": [
       {
-        "id": "652537b51923f86b",
-        "title": "「J-POPシングル ウィークリーTOP30」発表。1位はCANDY TUNE『総意♡So Free / スペシャル感謝祭』、予約1位は原因は自分にある。『ラブリーズン』（2026年10月1日付）",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/10/01/tg002",
-        "publishedAt": "2026-10-01T10:00:00.000Z",
-        "summary": "",
+        "id": "eb36ed6a4013f8d7",
+        "title": "飯島颯 出演 舞台「えぶりでいホスト」回替わりゲスト〈姫〉として伊藤壮吾・柴崎楽 出演決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11718/",
+        "publishedAt": "2026-10-02T03:00:11.000Z",
+        "summary": "飯島颯出演の舞台「えぶりでいホスト」に回替わりゲスト〈姫〉として、 伊藤壮吾・柴崎楽 出演決定いたしました！ 【出演回】 伊藤壮吾：11/10(火)19:30〜 柴崎楽：11/13(金)19:30～ 一般発売 2026年 […] The post 飯島颯 出演 舞台「えぶりでいホスト」回替わりゲスト〈姫〉として伊藤壮吾・柴崎楽 出演決定！ first app",
         "groups": [
-          "原因は自分にある。"
+          "SUPER★DRAGON"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "飯島颯",
+            "group": "SUPER★DRAGON",
+            "status": "active"
+          },
+          {
+            "name": "伊藤壮吾",
+            "group": "SUPER★DRAGON",
+            "status": "active"
+          },
+          {
+            "name": "柴崎楽",
+            "group": "SUPER★DRAGON",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "c3f2ab77ac244808",
+        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』SOLD OUT！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11716/",
+        "publishedAt": "2026-09-30T06:00:07.000Z",
+        "summary": "第6回EBiDAN大運動会『スポーツマンヒップ！』のチケットが好評につき完売いたしました！ たくさんのご応募ありがとうございました！ 第6回EBiDAN大運動会『スポーツマンヒップ！』 THANK YOU SOLD OU […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』SOLD OUT！ first appeared on SUP",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
         ],
         "statuses": [],
         "memberMatches": []
       },
       {
-        "id": "a5bb2eec932491d1",
-        "title": "杢代和人、オールホワイト&黒縁メガネ姿でのウインクにファン歓喜 16回目のTGC出演「緊張は…」",
-        "sourceName": "マイナビニュース 芸能",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-        "articleUrl": "https://news.mynavi.jp/article/20260927-5029480/",
-        "publishedAt": "2026-09-27T01:00:00.000Z",
-        "summary": "ダンスボーカルユニット「原因は自分にある。」の杢代和人が19日、横浜アリーナで行われた「第43回 マイナビ 東京ガールズコレクション 2026 AUTUMN/WINTER」(TGC)に出演した。",
+        "id": "af949395801bb0f2",
+        "title": "SUPER★DRAGON Major 2nd Album「STAR」2026年12月9日（水）発売決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11696/",
+        "publishedAt": "2026-09-27T11:59:46.000Z",
+        "summary": "SUPER★DRAGON Major 2nd Album「STAR」 2026年12月9日（水）発売 ■初回限定盤（CD+Blu-ray） [価格] ￥9,350 (税込) [品番] PCCA-06573 [仕様] 三方 […] The post SUPER★DRAGON Major 2nd Album「STAR」2026年12月9日（水）発売決定！ fir",
         "groups": [
-          "原因は自分にある。"
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "f2ba5a9ce903cd75",
+        "title": "文化放送『SUPER★DRAGON 伊藤壮吾 壮都高速鉄道株主総会』放送決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11690/",
+        "publishedAt": "2026-09-25T08:00:26.000Z",
+        "summary": "SUPER★DRAGONの伊藤壮吾がパーソナリティを務める特別番組『SUPER★DRAGON 伊藤壮吾 壮都高速鉄道株主総会』を 文化放送にて10月6日（火）午後7時00分より放送が決定しました！ 最近注目の鉄道ニュース […] The post 文化放送『SUPER★DRAGON 伊藤壮吾 壮都高速鉄道株主総会』放送決定！ first appeared o",
+        "groups": [
+          "SUPER★DRAGON"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "杢代和人",
-            "group": "原因は自分にある。",
+            "name": "伊藤壮吾",
+            "group": "SUPER★DRAGON",
             "status": "active"
           }
         ]
       },
       {
-        "id": "15fb9ee4d3775ce2",
-        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/07/89645/",
-        "publishedAt": "2026-07-24T12:00:00.000Z",
-        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
+        "id": "2d0b458420c3f95a",
+        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ 〈事前購入・会場受取〉実施のお知らせ",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11683/",
+        "publishedAt": "2026-09-25T07:00:46.000Z",
+        "summary": "第6回EBiDAN大運動会『スポーツマンヒップ！』の会場にて、 該当公演のチケットをお持ちの方を対象に、会場で受け取り可能なオフィシャルグッズの〈事前購入〉を実施いたします。 ※こちらの販売は、公演前にご自宅等にお届けの […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ 〈事前購入・会場受取〉実施のお知らせ fi",
         "groups": [
-          "原因は自分にある。",
-          "BUDDiiS"
+          "EBiDAN",
+          "SUPER★DRAGON"
         ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "SHOOT",
-            "group": "BUDDiiS",
-            "status": "active"
-          }
-        ]
+        "statuses": [],
+        "memberMatches": []
       }
     ],
     "超特急": [
+      {
+        "id": "6a1d840f53f5771f",
+        "title": "高橋大輔×草川拓弥が演劇舞台初挑戦でW主演、固く結ばれたバディ演じる『ウルフムーン』上演決定",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/10/92796/",
+        "publishedAt": "2026-10-02T03:00:00.000Z",
+        "summary": "高橋大輔と草川拓弥がダブル主演を務める舞台『ウルフムーン』ー狼月に昇るーが2027年1月より東京と大阪で上演されることが決定した。 本作で演出を担うのは、数々の舞台に出演し俳優として培った現場感覚を生かしながら、演出家としても実績を重ねる福士誠治。脚本は、映画『かぐや姫の物語』やミュージカル『梨泰院クラス』『四月は君の嘘』、映画『てっぺんの向こうにあなたがい",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "タクヤ",
+            "group": "超特急",
+            "status": "active"
+          }
+        ]
+      },
       {
         "id": "471946451d042b7e",
         "title": "超特急の新曲テーマは“ユーロビート×干支”、24thシングル『エトランス・フィーバー』12月発売",
@@ -333,6 +395,72 @@
         ],
         "statuses": [],
         "memberMatches": []
+      }
+    ],
+    "原因は自分にある。": [
+      {
+        "id": "652537b51923f86b",
+        "title": "「J-POPシングル ウィークリーTOP30」発表。1位はCANDY TUNE『総意♡So Free / スペシャル感謝祭』、予約1位は原因は自分にある。『ラブリーズン』（2026年10月1日付）",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/10/01/tg002",
+        "publishedAt": "2026-10-01T10:00:00.000Z",
+        "summary": "",
+        "groups": [
+          "原因は自分にある。"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "a5bb2eec932491d1",
+        "title": "杢代和人、オールホワイト&黒縁メガネ姿でのウインクにファン歓喜 16回目のTGC出演「緊張は…」",
+        "sourceName": "マイナビニュース 芸能",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
+        "articleUrl": "https://news.mynavi.jp/article/20260927-5029480/",
+        "publishedAt": "2026-09-27T01:00:00.000Z",
+        "summary": "ダンスボーカルユニット「原因は自分にある。」の杢代和人が19日、横浜アリーナで行われた「第43回 マイナビ 東京ガールズコレクション 2026 AUTUMN/WINTER」(TGC)に出演した。",
+        "groups": [
+          "原因は自分にある。"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "杢代和人",
+            "group": "原因は自分にある。",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "15fb9ee4d3775ce2",
+        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/07/89645/",
+        "publishedAt": "2026-07-24T12:00:00.000Z",
+        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
+        "groups": [
+          "原因は自分にある。",
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
       }
     ],
     "EBiDAN": [
@@ -410,96 +538,6 @@
         ],
         "statuses": [],
         "memberMatches": []
-      }
-    ],
-    "SUPER★DRAGON": [
-      {
-        "id": "c3f2ab77ac244808",
-        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』SOLD OUT！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11716/",
-        "publishedAt": "2026-09-30T06:00:07.000Z",
-        "summary": "第6回EBiDAN大運動会『スポーツマンヒップ！』のチケットが好評につき完売いたしました！ たくさんのご応募ありがとうございました！ 第6回EBiDAN大運動会『スポーツマンヒップ！』 THANK YOU SOLD OU […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』SOLD OUT！ first appeared on SUP",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "af949395801bb0f2",
-        "title": "SUPER★DRAGON Major 2nd Album「STAR」2026年12月9日（水）発売決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11696/",
-        "publishedAt": "2026-09-27T11:59:46.000Z",
-        "summary": "SUPER★DRAGON Major 2nd Album「STAR」 2026年12月9日（水）発売 ■初回限定盤（CD+Blu-ray） [価格] ￥9,350 (税込) [品番] PCCA-06573 [仕様] 三方 […] The post SUPER★DRAGON Major 2nd Album「STAR」2026年12月9日（水）発売決定！ fir",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "f2ba5a9ce903cd75",
-        "title": "文化放送『SUPER★DRAGON 伊藤壮吾 壮都高速鉄道株主総会』放送決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11690/",
-        "publishedAt": "2026-09-25T08:00:26.000Z",
-        "summary": "SUPER★DRAGONの伊藤壮吾がパーソナリティを務める特別番組『SUPER★DRAGON 伊藤壮吾 壮都高速鉄道株主総会』を 文化放送にて10月6日（火）午後7時00分より放送が決定しました！ 最近注目の鉄道ニュース […] The post 文化放送『SUPER★DRAGON 伊藤壮吾 壮都高速鉄道株主総会』放送決定！ first appeared o",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "伊藤壮吾",
-            "group": "SUPER★DRAGON",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "2d0b458420c3f95a",
-        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ 〈事前購入・会場受取〉実施のお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11683/",
-        "publishedAt": "2026-09-25T07:00:46.000Z",
-        "summary": "第6回EBiDAN大運動会『スポーツマンヒップ！』の会場にて、 該当公演のチケットをお持ちの方を対象に、会場で受け取り可能なオフィシャルグッズの〈事前購入〉を実施いたします。 ※こちらの販売は、公演前にご自宅等にお届けの […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ 〈事前購入・会場受取〉実施のお知らせ fi",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "9342725a8a7d7dbb",
-        "title": "【池田彪馬】TOKYO MX金曜ドラマ『溺愛 ～ 実は、最強ヒーロー ～』出演決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11675/",
-        "publishedAt": "2026-09-24T22:00:56.000Z",
-        "summary": "10月30日(金)23:00〜放送スタート TOKYO MX金曜ドラマ『溺愛 ～ 実は、最強ヒーロー ～』に 池田彪馬がクズ界のラスボス・相川樹役として出演決定！ お楽しみに！ ◆番組概要 ※下記内容は都合 […] The post 【池田彪馬】TOKYO MX金曜ドラマ『溺愛 ～ 実は、最強ヒーロー ～』出演決定！ first appeared on SU",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "池田彪馬",
-            "group": "SUPER★DRAGON",
-            "status": "active"
-          }
-        ]
       }
     ],
     "Sakurashimeji": [
