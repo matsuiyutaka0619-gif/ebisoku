@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-03T11:39:07.990Z",
+  "updatedAt": "2026-10-03T16:17:17.398Z",
   "totals": {
-    "all": 122,
-    "today": 4,
-    "week": 18
+    "all": 123,
+    "today": 0,
+    "week": 19
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 8
+      "count": 9
     },
     {
       "name": "SUPER★DRAGON",
@@ -38,7 +38,7 @@
   "memberRanking": [
     {
       "name": "吉田仁人",
-      "count": 3
+      "count": 4
     },
     {
       "name": "タクヤ",
@@ -99,6 +99,10 @@
       "count": 2
     },
     {
+      "name": "WWSチャンネル",
+      "count": 1
+    },
+    {
       "name": "マイナビニュース エンタメ",
       "count": 1
     },
@@ -114,6 +118,28 @@
   "topics": [],
   "recentByGroup": {
     "M!LK": [
+      {
+        "id": "26a6494c3efd1eda",
+        "title": "吉田仁人主演ドラマ『溺愛 ～ 実は、最強ヒーロー ～』キービジュアル解禁！西原亜希、日比茉鈴、野口チ優の出演も決定",
+        "sourceName": "WWSチャンネル",
+        "sourceUrl": "https://www.wws-channel.com/feed",
+        "articleUrl": "https://www.wws-channel.com/tv/671841.html",
+        "publishedAt": "2026-10-03T12:30:55.000Z",
+        "summary": "M!LKの吉田仁人が主演を務めるTOKYO MXの新金曜ドラマ『溺愛 ～ 実は、最強ヒーロー ～』が10月30日より放送される。このたび、ドラマの世界観を凝縮したキービジュアルと、西原亜希、日比茉鈴、野口チ優の追加出演が発表された。本作は、シリーズ累計3400万ダウンロ ... The post 吉田仁人主演ドラマ『溺愛 ～ 実は、最強ヒーロー ～』キービジ",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
       {
         "id": "d914f113a015dc83",
         "title": "M!LK、＝LOVE、Juice=Juice……“バズのその先”へ突き進む快進撃 実力者たちの止まらぬ勢い 3組に共通する点とは？",
@@ -177,33 +203,6 @@
         ],
         "statuses": [],
         "memberMatches": []
-      },
-      {
-        "id": "94cc6bd16dc327b8",
-        "title": "曽野舜太＆吉田仁人（M!LK）、「E-line MASK」新イメージ・キャラクターに就任。WEB CM公開",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/10/02/tg002",
-        "publishedAt": "2026-10-02T09:30:00.000Z",
-        "summary": "",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
       }
     ],
     "BUDDiiS": [
