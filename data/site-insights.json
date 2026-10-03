@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-02T22:13:47.157Z",
+  "updatedAt": "2026-10-03T05:18:11.677Z",
   "totals": {
     "all": 122,
-    "today": 0,
+    "today": 1,
     "week": 18
   },
   "groupRanking": [
@@ -34,7 +34,7 @@
   "memberRanking": [
     {
       "name": "吉田仁人",
-      "count": 5
+      "count": 4
     },
     {
       "name": "タクヤ",
@@ -107,6 +107,20 @@
   "recentByGroup": {
     "M!LK": [
       {
+        "id": "4798d1d7f761b02a",
+        "title": "M!LK5人の寝顔も“イケメンで滅！”無防備なすやすや姿＆ベッドでまどろむ姿にキュン",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000889507/",
+        "publishedAt": "2026-10-03T01:00:16.000Z",
+        "summary": "M!LK5人の寝顔＆おやすみショットをピックアップ。撮影の合間や移動中に眠り込む様子をはじめ...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
         "id": "3214fb52e317dd78",
         "title": "「J-POPアルバム 9月度マンスリーTOP30」発表。1位はM!LK『LOVE ENG!NE』",
         "sourceName": "タワーレコード ニュース",
@@ -177,28 +191,6 @@
         "articleUrl": "https://www.thefirsttimes.jp/news/0000892279/",
         "publishedAt": "2026-10-02T09:00:37.000Z",
         "summary": "吉田仁人（M!LK）が主演を務める、TOKYO MXで10月30日より放送の新金曜ドラマ『溺愛 ～ 実は...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "10b5e590c402522b",
-        "title": "M!LK吉田仁人の“見上げる横顔”に注目！鼻筋＆フェイスライン際立つオフショットに「おめめキラキラすぎる」「美しい角度で最高」緑黄色社会・長屋晴子との2ショットにも「美男美女で画面眩しすぎる」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000892347/",
-        "publishedAt": "2026-10-02T07:08:56.000Z",
-        "summary": "文化放送『M!LK 吉田仁人のレコメン！』の公式Xが更新され、10月1日放送回のオフショットが公...",
         "groups": [
           "M!LK"
         ],
