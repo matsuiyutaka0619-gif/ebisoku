@@ -1,21 +1,25 @@
 {
-  "updatedAt": "2026-10-04T05:51:47.106Z",
+  "updatedAt": "2026-10-04T12:21:05.593Z",
   "totals": {
-    "all": 122,
-    "today": 2,
-    "week": 17
+    "all": 125,
+    "today": 6,
+    "week": 18
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 8
+      "count": 9
     },
     {
       "name": "SUPER★DRAGON",
-      "count": 5
+      "count": 4
     },
     {
       "name": "EBiDAN",
+      "count": 2
+    },
+    {
+      "name": "原因は自分にある。",
       "count": 2
     },
     {
@@ -23,15 +27,11 @@
       "count": 2
     },
     {
-      "name": "BUDDiiS",
-      "count": 1
-    },
-    {
       "name": "ICEx",
       "count": 1
     },
     {
-      "name": "原因は自分にある。",
+      "name": "ONE N' ONLY",
       "count": 1
     }
   ],
@@ -41,12 +41,12 @@
       "count": 3
     },
     {
-      "name": "佐野勇斗",
+      "name": "山中柔太朗",
       "count": 2
     },
     {
-      "name": "山中柔太朗",
-      "count": 2
+      "name": "TETTA",
+      "count": 1
     },
     {
       "name": "タクヤ",
@@ -61,7 +61,11 @@
       "count": 1
     },
     {
-      "name": "塩﨑太智",
+      "name": "吉澤要人",
+      "count": 1
+    },
+    {
+      "name": "佐野勇斗",
       "count": 1
     },
     {
@@ -71,20 +75,12 @@
     {
       "name": "柴崎楽",
       "count": 1
-    },
-    {
-      "name": "曽野舜太",
-      "count": 1
     }
   ],
   "sourceRanking": [
     {
       "name": "SUPER★DRAGON 公式NEWS",
-      "count": 5
-    },
-    {
-      "name": "THE FIRST TIMES",
-      "count": 3
+      "count": 4
     },
     {
       "name": "タワーレコード ニュース",
@@ -95,7 +91,11 @@
       "count": 2
     },
     {
-      "name": "マイナビニュース 芸能",
+      "name": "THE FIRST TIMES",
+      "count": 2
+    },
+    {
+      "name": "マイナビニュース エンタメ",
       "count": 2
     },
     {
@@ -105,11 +105,67 @@
     {
       "name": "マイナビニュース テレビ",
       "count": 1
+    },
+    {
+      "name": "マイナビニュース 芸能",
+      "count": 1
+    },
+    {
+      "name": "リアルサウンド 音楽",
+      "count": 1
+    },
+    {
+      "name": "日刊スポーツ 芸能",
+      "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
     "M!LK": [
+      {
+        "id": "a350861aee50a04d",
+        "title": "日曜トライアル 第45回 M!LK山中柔太朗「叶えたことが特に嬉しかった」、JO1川西拓実「とても光栄」、齋藤飛鳥「びっくりしすぎてちょっと笑ってしまった」…第一線で活躍する7組が語った“初めて”の喜びと覚悟",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/sunday_trial-45/",
+        "publishedAt": "2026-10-04T11:00:00.000Z",
+        "summary": "第一線で活躍する人々にも、まだ経験したことのない“初めて”がある。JO1・川西拓実はGP帯連ドラ初出演、M!LK・山中柔太朗は目標にしていたGP帯連続ドラマ初レギュラー、齊藤なぎさは連ドラ初主演へ。このほかにも9月には、俳優・タレントらの新たな挑戦など、様々な“初めて”が発表された。今回は、9月にマイナビニュースの「テレビ」カテゴリで掲載した記事の中から、7",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "1d2c1607e7785fba",
+        "title": "「毎週木曜日は、家事をすべて終わらせ、部屋にこもり、パジャマでスタンバイ」55歳主婦リスナーがM!LK吉田仁人のラジオと“共通点”を感じた伝説的番組とは?「当時を思い出した」",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20261004-5047156/",
+        "publishedAt": "2026-10-04T10:00:00.000Z",
+        "summary": "「あれ? この毒舌は……」55歳の主婦リスナーが、アイドルグループ・M!LKの吉田仁人とビートたけしの“共通点”に気づき――。9月24日に放送された文化放送のラジオ番組『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)で、リスナーに称賛された吉田が、「うれしい」と喜びをあらわにした。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
       {
         "id": "c9a94719587e66a4",
         "title": "M!LK 5人の楽屋＆バックステージショットを厳選！ダンスやメンバー密着の仲良し5ショットも",
@@ -172,63 +228,90 @@
             "status": "active"
           }
         ]
-      },
+      }
+    ],
+    "ONE N' ONLY": [
       {
-        "id": "3214fb52e317dd78",
-        "title": "「J-POPアルバム 9月度マンスリーTOP30」発表。1位はM!LK『LOVE ENG!NE』",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/10/02/tg004",
-        "publishedAt": "2026-10-02T10:00:00.000Z",
-        "summary": "",
+        "id": "a66bf5211385a0fe",
+        "title": "ONE N' ONLY「半端なくうれしい」初a－nationで７曲「夢追いかければかなう」TETTA",
+        "sourceName": "日刊スポーツ 芸能",
+        "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+        "articleUrl": "https://www.nikkansports.com/entertainment/news/202610040001570.html",
+        "publishedAt": "2026-10-04T10:37:30.000Z",
+        "summary": "5人組ダンスボーカルグループ、ONE N’ ONLYが4日、東京・お台場で開催されたエイベックス主催の音楽フェス「a－nation 2026」2日目公演に出演した。 a－nation初出演で、TETTA（28）は「11年前、2015年に…",
         "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "94cc6bd16dc327b8",
-        "title": "曽野舜太＆吉田仁人（M!LK）、「E-line MASK」新イメージ・キャラクターに就任。WEB CM公開",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/10/02/tg002",
-        "publishedAt": "2026-10-02T09:30:00.000Z",
-        "summary": "",
-        "groups": [
-          "M!LK"
+          "ONE N' ONLY"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
+            "name": "TETTA",
+            "group": "ONE N' ONLY",
             "status": "active"
           }
         ]
       }
     ],
-    "BUDDiiS": [
+    "原因は自分にある。": [
       {
-        "id": "f6e1cfff7672915c",
-        "title": "BUDDiiS、TVアニメ『貸した魔力は【リボ払い】で強制徴収』OP主題歌をSNSのみで配信開始",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000892683/",
-        "publishedAt": "2026-10-03T06:00:25.000Z",
-        "summary": "BUDDiiSが、11月18日に発売するメジャー2ndシングル「無限大LOVE!!!」に収録されている新曲「...",
+        "id": "02b2cb5d0eeadffa",
+        "title": "ベリーグッドマン、新曲が莉子主演＆吉澤要人出演ドラマ『SQUALL』主題歌に起用 配信リリースも",
+        "sourceName": "リアルサウンド 音楽",
+        "sourceUrl": "https://realsound.jp/music/feed",
+        "articleUrl": "https://realsound.jp/2026/10/post-2543140.html",
+        "publishedAt": "2026-10-04T07:00:39.000Z",
+        "summary": "ベリーグッドマンの新曲「Squall」が、10月18日より放送開始となる日本、シンガポール外交関係樹立60周年記念ドラマ『SQUALL』（ABCテレビ）の主題歌に決定。また、同曲が10月16日に配信リリースされる。",
         "groups": [
-          "BUDDiiS"
+          "原因は自分にある。"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉澤要人",
+            "group": "原因は自分にある。",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "652537b51923f86b",
+        "title": "「J-POPシングル ウィークリーTOP30」発表。1位はCANDY TUNE『総意♡So Free / スペシャル感謝祭』、予約1位は原因は自分にある。『ラブリーズン』（2026年10月1日付）",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/10/01/tg002",
+        "publishedAt": "2026-10-01T10:00:00.000Z",
+        "summary": "",
+        "groups": [
+          "原因は自分にある。"
         ],
         "statuses": [],
         "memberMatches": []
+      },
+      {
+        "id": "a5bb2eec932491d1",
+        "title": "杢代和人、オールホワイト&黒縁メガネ姿でのウインクにファン歓喜 16回目のTGC出演「緊張は…」",
+        "sourceName": "マイナビニュース 芸能",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
+        "articleUrl": "https://news.mynavi.jp/article/20260927-5029480/",
+        "publishedAt": "2026-09-27T01:00:00.000Z",
+        "summary": "ダンスボーカルユニット「原因は自分にある。」の杢代和人が19日、横浜アリーナで行われた「第43回 マイナビ 東京ガールズコレクション 2026 AUTUMN/WINTER」(TGC)に出演した。",
+        "groups": [
+          "原因は自分にある。"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "杢代和人",
+            "group": "原因は自分にある。",
+            "status": "active"
+          }
+        ]
       },
       {
         "id": "15fb9ee4d3775ce2",
@@ -582,43 +665,27 @@
         "memberMatches": []
       }
     ],
-    "原因は自分にある。": [
+    "Sakurashimeji": [
       {
-        "id": "652537b51923f86b",
-        "title": "「J-POPシングル ウィークリーTOP30」発表。1位はCANDY TUNE『総意♡So Free / スペシャル感謝祭』、予約1位は原因は自分にある。『ラブリーズン』（2026年10月1日付）",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/10/01/tg002",
-        "publishedAt": "2026-10-01T10:00:00.000Z",
-        "summary": "",
+        "id": "47f16c975ff422cd",
+        "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11607/",
+        "publishedAt": "2026-09-02T12:34:24.000Z",
+        "summary": "平素より株式会社SDR所属アーティストへの温かいご声援を賜り、誠にありがとうございます。 DISH//、EBiDAN（超特急、M!LK、SUPER★DRAGON、Sakurashimeji、ONE N’ ON […] The post グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ first appeared on SUPER★DRAGO",
         "groups": [
-          "原因は自分にある。"
+          "EBiDAN",
+          "超特急",
+          "M!LK",
+          "SUPER★DRAGON",
+          "Sakurashimeji"
         ],
         "statuses": [],
         "memberMatches": []
-      },
-      {
-        "id": "a5bb2eec932491d1",
-        "title": "杢代和人、オールホワイト&黒縁メガネ姿でのウインクにファン歓喜 16回目のTGC出演「緊張は…」",
-        "sourceName": "マイナビニュース 芸能",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-        "articleUrl": "https://news.mynavi.jp/article/20260927-5029480/",
-        "publishedAt": "2026-09-27T01:00:00.000Z",
-        "summary": "ダンスボーカルユニット「原因は自分にある。」の杢代和人が19日、横浜アリーナで行われた「第43回 マイナビ 東京ガールズコレクション 2026 AUTUMN/WINTER」(TGC)に出演した。",
-        "groups": [
-          "原因は自分にある。"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "杢代和人",
-            "group": "原因は自分にある。",
-            "status": "active"
-          }
-        ]
-      },
+      }
+    ],
+    "BUDDiiS": [
       {
         "id": "15fb9ee4d3775ce2",
         "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
@@ -646,26 +713,6 @@
             "status": "active"
           }
         ]
-      }
-    ],
-    "Sakurashimeji": [
-      {
-        "id": "47f16c975ff422cd",
-        "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11607/",
-        "publishedAt": "2026-09-02T12:34:24.000Z",
-        "summary": "平素より株式会社SDR所属アーティストへの温かいご声援を賜り、誠にありがとうございます。 DISH//、EBiDAN（超特急、M!LK、SUPER★DRAGON、Sakurashimeji、ONE N’ ON […] The post グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ first appeared on SUPER★DRAGO",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK",
-          "SUPER★DRAGON",
-          "Sakurashimeji"
-        ],
-        "statuses": [],
-        "memberMatches": []
       }
     ]
   }

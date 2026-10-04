@@ -1,6 +1,94 @@
 {
-  "updatedAt": "2026-10-04T05:51:47.104Z",
+  "updatedAt": "2026-10-04T12:21:05.591Z",
   "articles": [
+    {
+      "id": "a350861aee50a04d",
+      "title": "日曜トライアル 第45回 M!LK山中柔太朗「叶えたことが特に嬉しかった」、JO1川西拓実「とても光栄」、齋藤飛鳥「びっくりしすぎてちょっと笑ってしまった」…第一線で活躍する7組が語った“初めて”の喜びと覚悟",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/sunday_trial-45/",
+      "publishedAt": "2026-10-04T11:00:00.000Z",
+      "summary": "第一線で活躍する人々にも、まだ経験したことのない“初めて”がある。JO1・川西拓実はGP帯連ドラ初出演、M!LK・山中柔太朗は目標にしていたGP帯連続ドラマ初レギュラー、齊藤なぎさは連ドラ初主演へ。このほかにも9月には、俳優・タレントらの新たな挑戦など、様々な“初めて”が発表された。今回は、9月にマイナビニュースの「テレビ」カテゴリで掲載した記事の中から、7",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "a66bf5211385a0fe",
+      "title": "ONE N' ONLY「半端なくうれしい」初a－nationで７曲「夢追いかければかなう」TETTA",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202610040001570.html",
+      "publishedAt": "2026-10-04T10:37:30.000Z",
+      "summary": "5人組ダンスボーカルグループ、ONE N’ ONLYが4日、東京・お台場で開催されたエイベックス主催の音楽フェス「a－nation 2026」2日目公演に出演した。 a－nation初出演で、TETTA（28）は「11年前、2015年に…",
+      "groups": [
+        "ONE N' ONLY"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "TETTA",
+          "group": "ONE N' ONLY",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "1d2c1607e7785fba",
+      "title": "「毎週木曜日は、家事をすべて終わらせ、部屋にこもり、パジャマでスタンバイ」55歳主婦リスナーがM!LK吉田仁人のラジオと“共通点”を感じた伝説的番組とは?「当時を思い出した」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261004-5047156/",
+      "publishedAt": "2026-10-04T10:00:00.000Z",
+      "summary": "「あれ? この毒舌は……」55歳の主婦リスナーが、アイドルグループ・M!LKの吉田仁人とビートたけしの“共通点”に気づき――。9月24日に放送された文化放送のラジオ番組『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)で、リスナーに称賛された吉田が、「うれしい」と喜びをあらわにした。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "02b2cb5d0eeadffa",
+      "title": "ベリーグッドマン、新曲が莉子主演＆吉澤要人出演ドラマ『SQUALL』主題歌に起用 配信リリースも",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/10/post-2543140.html",
+      "publishedAt": "2026-10-04T07:00:39.000Z",
+      "summary": "ベリーグッドマンの新曲「Squall」が、10月18日より放送開始となる日本、シンガポール外交関係樹立60周年記念ドラマ『SQUALL』（ABCテレビ）の主題歌に決定。また、同曲が10月16日に配信リリースされる。",
+      "groups": [
+        "原因は自分にある。"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "吉澤要人",
+          "group": "原因は自分にある。",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "c9a94719587e66a4",
       "title": "M!LK 5人の楽屋＆バックステージショットを厳選！ダンスやメンバー密着の仲良し5ショットも",
@@ -63,20 +151,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "f6e1cfff7672915c",
-      "title": "BUDDiiS、TVアニメ『貸した魔力は【リボ払い】で強制徴収』OP主題歌をSNSのみで配信開始",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000892683/",
-      "publishedAt": "2026-10-03T06:00:25.000Z",
-      "summary": "BUDDiiSが、11月18日に発売するメジャー2ndシングル「無限大LOVE!!!」に収録されている新曲「...",
-      "groups": [
-        "BUDDiiS"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "3214fb52e317dd78",
