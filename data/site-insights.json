@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-04T12:21:05.593Z",
+  "updatedAt": "2026-10-04T21:24:31.461Z",
   "totals": {
-    "all": 125,
-    "today": 6,
-    "week": 18
+    "all": 122,
+    "today": 1,
+    "week": 16
   },
   "groupRanking": [
     {
@@ -19,10 +19,6 @@
       "count": 2
     },
     {
-      "name": "原因は自分にある。",
-      "count": 2
-    },
-    {
       "name": "超特急",
       "count": 2
     },
@@ -31,7 +27,7 @@
       "count": 1
     },
     {
-      "name": "ONE N' ONLY",
+      "name": "原因は自分にある。",
       "count": 1
     }
   ],
@@ -39,14 +35,6 @@
     {
       "name": "吉田仁人",
       "count": 3
-    },
-    {
-      "name": "山中柔太朗",
-      "count": 2
-    },
-    {
-      "name": "TETTA",
-      "count": 1
     },
     {
       "name": "タクヤ",
@@ -61,11 +49,7 @@
       "count": 1
     },
     {
-      "name": "吉澤要人",
-      "count": 1
-    },
-    {
-      "name": "佐野勇斗",
+      "name": "山中柔太朗",
       "count": 1
     },
     {
@@ -74,6 +58,14 @@
     },
     {
       "name": "柴崎楽",
+      "count": 1
+    },
+    {
+      "name": "曽野舜太",
+      "count": 1
+    },
+    {
+      "name": "飯島颯",
       "count": 1
     }
   ],
@@ -91,12 +83,16 @@
       "count": 2
     },
     {
-      "name": "THE FIRST TIMES",
+      "name": "マイナビニュース エンタメ",
       "count": 2
     },
     {
-      "name": "マイナビニュース エンタメ",
-      "count": 2
+      "name": "Edge Line",
+      "count": 1
+    },
+    {
+      "name": "THE FIRST TIMES",
+      "count": 1
     },
     {
       "name": "WWSチャンネル",
@@ -109,19 +105,25 @@
     {
       "name": "マイナビニュース 芸能",
       "count": 1
-    },
-    {
-      "name": "リアルサウンド 音楽",
-      "count": 1
-    },
-    {
-      "name": "日刊スポーツ 芸能",
-      "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
     "M!LK": [
+      {
+        "id": "990cc825d9f6b1b2",
+        "title": "「午後の紅茶 TEA LATTE ボトル プレゼントキャンペーン」開催！ティーラテボトルとボトルチャームプレゼントへ",
+        "sourceName": "Edge Line",
+        "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+        "articleUrl": "https://www.edgeline-tokyo.com/food/206502",
+        "publishedAt": "2026-10-04T19:00:28.000Z",
+        "summary": "キリンビバレッジ株式会社が10月6日より紅茶飲料ブランド『キリン 午後の紅茶』から『キリン 午後の紅茶 TEA LATTE with ESPRESSO / TEA LATTE CREAM & MILK』の2品...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
       {
         "id": "a350861aee50a04d",
         "title": "日曜トライアル 第45回 M!LK山中柔太朗「叶えたことが特に嬉しかった」、JO1川西拓実「とても光栄」、齋藤飛鳥「びっくりしすぎてちょっと笑ってしまった」…第一線で活躍する7組が語った“初めて”の喜びと覚悟",
@@ -181,33 +183,6 @@
         "memberMatches": []
       },
       {
-        "id": "90ffef5293daea20",
-        "title": "M!LK佐野勇斗＆山中柔太朗の“3080（さんぱち）”コンビが最強！美麗2ショットから息ぴったりダンスまで",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000890913/",
-        "publishedAt": "2026-10-04T00:00:18.000Z",
-        "summary": "M!LKの“3080（さんぱち）”コンビこと佐野勇斗＆山中柔太朗の2ショットをピックアップ。雑誌の...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
         "id": "26a6494c3efd1eda",
         "title": "吉田仁人主演ドラマ『溺愛 ～ 実は、最強ヒーロー ～』キービジュアル解禁！西原亜希、日比茉鈴、野口チ優の出演も決定",
         "sourceName": "WWSチャンネル",
@@ -225,118 +200,6 @@
           {
             "name": "吉田仁人",
             "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      }
-    ],
-    "ONE N' ONLY": [
-      {
-        "id": "a66bf5211385a0fe",
-        "title": "ONE N' ONLY「半端なくうれしい」初a－nationで７曲「夢追いかければかなう」TETTA",
-        "sourceName": "日刊スポーツ 芸能",
-        "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-        "articleUrl": "https://www.nikkansports.com/entertainment/news/202610040001570.html",
-        "publishedAt": "2026-10-04T10:37:30.000Z",
-        "summary": "5人組ダンスボーカルグループ、ONE N’ ONLYが4日、東京・お台場で開催されたエイベックス主催の音楽フェス「a－nation 2026」2日目公演に出演した。 a－nation初出演で、TETTA（28）は「11年前、2015年に…",
-        "groups": [
-          "ONE N' ONLY"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "TETTA",
-            "group": "ONE N' ONLY",
-            "status": "active"
-          }
-        ]
-      }
-    ],
-    "原因は自分にある。": [
-      {
-        "id": "02b2cb5d0eeadffa",
-        "title": "ベリーグッドマン、新曲が莉子主演＆吉澤要人出演ドラマ『SQUALL』主題歌に起用 配信リリースも",
-        "sourceName": "リアルサウンド 音楽",
-        "sourceUrl": "https://realsound.jp/music/feed",
-        "articleUrl": "https://realsound.jp/2026/10/post-2543140.html",
-        "publishedAt": "2026-10-04T07:00:39.000Z",
-        "summary": "ベリーグッドマンの新曲「Squall」が、10月18日より放送開始となる日本、シンガポール外交関係樹立60周年記念ドラマ『SQUALL』（ABCテレビ）の主題歌に決定。また、同曲が10月16日に配信リリースされる。",
-        "groups": [
-          "原因は自分にある。"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉澤要人",
-            "group": "原因は自分にある。",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "652537b51923f86b",
-        "title": "「J-POPシングル ウィークリーTOP30」発表。1位はCANDY TUNE『総意♡So Free / スペシャル感謝祭』、予約1位は原因は自分にある。『ラブリーズン』（2026年10月1日付）",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/10/01/tg002",
-        "publishedAt": "2026-10-01T10:00:00.000Z",
-        "summary": "",
-        "groups": [
-          "原因は自分にある。"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "a5bb2eec932491d1",
-        "title": "杢代和人、オールホワイト&黒縁メガネ姿でのウインクにファン歓喜 16回目のTGC出演「緊張は…」",
-        "sourceName": "マイナビニュース 芸能",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-        "articleUrl": "https://news.mynavi.jp/article/20260927-5029480/",
-        "publishedAt": "2026-09-27T01:00:00.000Z",
-        "summary": "ダンスボーカルユニット「原因は自分にある。」の杢代和人が19日、横浜アリーナで行われた「第43回 マイナビ 東京ガールズコレクション 2026 AUTUMN/WINTER」(TGC)に出演した。",
-        "groups": [
-          "原因は自分にある。"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "杢代和人",
-            "group": "原因は自分にある。",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "15fb9ee4d3775ce2",
-        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/07/89645/",
-        "publishedAt": "2026-07-24T12:00:00.000Z",
-        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
-        "groups": [
-          "原因は自分にある。",
-          "BUDDiiS"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "SHOOT",
-            "group": "BUDDiiS",
             "status": "active"
           }
         ]
@@ -663,6 +526,50 @@
         ],
         "statuses": [],
         "memberMatches": []
+      }
+    ],
+    "原因は自分にある。": [
+      {
+        "id": "652537b51923f86b",
+        "title": "「J-POPシングル ウィークリーTOP30」発表。1位はCANDY TUNE『総意♡So Free / スペシャル感謝祭』、予約1位は原因は自分にある。『ラブリーズン』（2026年10月1日付）",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/10/01/tg002",
+        "publishedAt": "2026-10-01T10:00:00.000Z",
+        "summary": "",
+        "groups": [
+          "原因は自分にある。"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "15fb9ee4d3775ce2",
+        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/07/89645/",
+        "publishedAt": "2026-07-24T12:00:00.000Z",
+        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
+        "groups": [
+          "原因は自分にある。",
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
       }
     ],
     "Sakurashimeji": [
