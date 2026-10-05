@@ -1,14 +1,50 @@
 {
-  "updatedAt": "2026-10-05T05:39:00.599Z",
+  "updatedAt": "2026-10-05T14:37:03.196Z",
   "articles": [
     {
-      "id": "b4cfb41f823d7f84",
-      "title": "M!LK山中柔太朗のストリート感あふれる私服ショットに「美しすぎる」「目がメロい」と反響！“おそろいキャップ”にも注目",
+      "id": "97fecfc480b1757a",
+      "title": "樋口幸平、トークイベントでコテコテの関西弁 共演者もびっくり「ギャップでした」",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1076974/",
+      "publishedAt": "2026-10-05T11:17:28.000Z",
+      "summary": "俳優の樋口幸平、林芽亜里がダブル主演を務めるMBSほかドラマフィル『おかえり、初恋。』の第1話先行試写＆完成披露トークイベントが行われ、共演のONE N’ ONLYのリーダー・高尾颯斗らとともに出席した。トーク中には、兵 […]",
+      "groups": [
+        "ONE N' ONLY"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "HAYATO",
+          "group": "ONE N' ONLY",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "dbd323c3bccccdcb",
+      "title": "Sakurashimeji、2027年5月よりZepp含む全国7カ所まわるツアー開催 ファンクラブ会員先行受付中",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/10/post-2543928.html",
+      "publishedAt": "2026-10-05T09:34:46.000Z",
+      "summary": "Sakurashimejiが、全国ツアー『Sakurashimeji ZeppTour+ 2027』を2027年5月より開催する。 本情報は、10月4日にセブンパークアリオ柏にて行われたフリーライブにて発表されたもの",
+      "groups": [
+        "Sakurashimeji"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "3605f1fbb321dec1",
+      "title": "M!LK山中柔太朗『sweet』表紙＆巻頭特集にソロ初登場！甘さや柔らかさだけではない一面をアピール",
       "sourceName": "THE FIRST TIMES",
       "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000893477/",
-      "publishedAt": "2026-10-05T03:56:41.000Z",
-      "summary": "M!LKの山中柔太朗が自身のInstagramを更新。ラフな私服ショットを投稿し、ファンの注目を集め...",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000893679/",
+      "publishedAt": "2026-10-05T09:00:57.000Z",
+      "summary": "M!LKの山中柔太朗が『sweet』11月号（10月9日発売）の表紙＆巻頭特集に単独初登場。ソロで飾る...",
       "groups": [
         "M!LK"
       ],
@@ -24,6 +60,35 @@
       ]
     },
     {
+      "id": "94c92d7cfc6687b9",
+      "title": "【今夜放送『CDTVライブ！ライブ！』出演者＆歌唱曲】Snow Man、M!LK、MAZZEL × STARGLOWらが登場",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000893881/",
+      "publishedAt": "2026-10-05T07:48:57.000Z",
+      "summary": "10月5日19時からTBSで2時間にわたって生放送される『CDTVライブ！ライブ！』の出演アーティス...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "a2361a4ff60972aa",
+      "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ 会場販売＆整理券配布のお知らせ",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news11726/",
+      "publishedAt": "2026-10-05T07:00:49.000Z",
+      "summary": "第6回EBiDAN大運動会『スポーツマンヒップ！』LaLa arena TOKYO-BAY公演の会場販売が決定しました！ ※オフィシャルグッズの販売は、【キャッシュレス決済のみ】の取り扱いとなります。現金はご利用いただけ […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ 会場販売＆整理券配布のお知らせ first",
+      "groups": [
+        "EBiDAN",
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
       "id": "f29fd8bb568ab87b",
       "title": "Sakurashimeji、ホールツアー全公演SOLD OUT！初のZeppツアー開催決定",
       "sourceName": "WWSチャンネル",
@@ -33,20 +98,6 @@
       "summary": "ギターデュオ・Sakurashimejiが、2027年に初となるZeppツアー『Sakurashimeji ZeppTour+ 2027』を開催することを発表した。現在開催予定の『Sakurashimeji Hall Tour 2027「soup」』は、追加公演となる東 ... The post Sakurashimeji、ホールツアー全公演SOLD OUT",
       "groups": [
         "Sakurashimeji"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "07dc123d20ba09fa",
-      "title": "M!LK5人が依頼人のお悩みを全力で解決！ 日テレ初冠番組『M!LKに言ってみ？』いよいよ放送",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000893083/",
-      "publishedAt": "2026-10-04T22:00:09.000Z",
-      "summary": "全国の依頼人から寄せられたお悩みを、M!LKの5人が全力で解決する、M!LKの日テレ初冠番組『M!L...",
-      "groups": [
-        "M!LK"
       ],
       "statuses": [],
       "memberMatches": []
@@ -2041,20 +2092,6 @@
       "articleUrl": "https://super-dragon.jp/news/news11113/",
       "publishedAt": "2026-06-01T10:59:19.000Z",
       "summary": "【場所】 タワーレコード渋谷店 B1F CUTUP STUDIO 【開催日時】 渋谷店：2026年7月14日(火) 集合場所：タワーレコード渋谷店 1F階段前 18:40 集合 19:00 開始 メンバー全 […] The post Major 6th Single「Call Me Asap / NUMBER」発売記念インストアイベント開催決定！ first",
-      "groups": [
-        "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "eac14a584cd08147",
-      "title": "Major 6th Single「Call Me Asap / NUMBER」 タワーレコードキャンペーン決定！",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news11106/",
-      "publishedAt": "2026-05-30T11:59:36.000Z",
-      "summary": "①『「Call Me Asap / NUMBER」発売記念！ SUPER★DRAGON タワーレコード抽選会』が全国のタワーレコードSUPER応援店（10店舗）にて実施決定！ SUPER応援店舗にてSUPER★DRAGO […] The post Major 6th Single「Call Me Asap / NUMBER」 タワーレコードキャンペーン決定！",
       "groups": [
         "SUPER★DRAGON"
       ],
