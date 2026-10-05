@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-04T21:24:31.461Z",
+  "updatedAt": "2026-10-05T05:39:00.603Z",
   "totals": {
     "all": 122,
-    "today": 1,
+    "today": 5,
     "week": 16
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 9
+      "count": 8
     },
     {
       "name": "SUPER★DRAGON",
@@ -27,14 +27,26 @@
       "count": 1
     },
     {
+      "name": "Sakurashimeji",
+      "count": 1
+    },
+    {
       "name": "原因は自分にある。",
       "count": 1
     }
   ],
   "memberRanking": [
     {
-      "name": "吉田仁人",
+      "name": "山中柔太朗",
       "count": 3
+    },
+    {
+      "name": "吉田仁人",
+      "count": 2
+    },
+    {
+      "name": "曽野舜太",
+      "count": 2
     },
     {
       "name": "タクヤ",
@@ -49,7 +61,7 @@
       "count": 1
     },
     {
-      "name": "山中柔太朗",
+      "name": "塩﨑太智",
       "count": 1
     },
     {
@@ -58,10 +70,6 @@
     },
     {
       "name": "柴崎楽",
-      "count": 1
-    },
-    {
-      "name": "曽野舜太",
       "count": 1
     },
     {
@@ -83,7 +91,11 @@
       "count": 2
     },
     {
-      "name": "マイナビニュース エンタメ",
+      "name": "THE FIRST TIMES",
+      "count": 2
+    },
+    {
+      "name": "マイナビニュース 芸能",
       "count": 2
     },
     {
@@ -91,25 +103,90 @@
       "count": 1
     },
     {
-      "name": "THE FIRST TIMES",
-      "count": 1
-    },
-    {
       "name": "WWSチャンネル",
       "count": 1
     },
     {
-      "name": "マイナビニュース テレビ",
-      "count": 1
-    },
-    {
-      "name": "マイナビニュース 芸能",
+      "name": "マイナビニュース エンタメ",
       "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
     "M!LK": [
+      {
+        "id": "b4cfb41f823d7f84",
+        "title": "M!LK山中柔太朗のストリート感あふれる私服ショットに「美しすぎる」「目がメロい」と反響！“おそろいキャップ”にも注目",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000893477/",
+        "publishedAt": "2026-10-05T03:56:41.000Z",
+        "summary": "M!LKの山中柔太朗が自身のInstagramを更新。ラフな私服ショットを投稿し、ファンの注目を集め...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "07dc123d20ba09fa",
+        "title": "M!LK5人が依頼人のお悩みを全力で解決！ 日テレ初冠番組『M!LKに言ってみ？』いよいよ放送",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000893083/",
+        "publishedAt": "2026-10-04T22:00:09.000Z",
+        "summary": "全国の依頼人から寄せられたお悩みを、M!LKの5人が全力で解決する、M!LKの日テレ初冠番組『M!L...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "c32bf91123c657cb",
+        "title": "泳げない塩崎太智＆山中柔太朗、67歳男性の「50m泳ぎたい」に挑む 曽野舜太＆吉田仁人は“M!LK史上最も過酷なロケ”へ",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20261005-5074397/",
+        "publishedAt": "2026-10-04T22:00:00.000Z",
+        "summary": "「こんなおっさんのために…」――きょう5日に放送される日本テレビ系バラエティ特番『M!LKに言ってみ?』(23:59～)では、M!LKの5人が全国の依頼人から寄せられた悩みを全力で解決。泳げない塩崎太智と山中柔太朗は「50メートルをかっこよく泳ぎ切りたい」という67歳男性と猛特訓し、曽野舜太と吉田仁人には“M!LK史上最も過酷なロケ”が待ち受ける。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
       {
         "id": "990cc825d9f6b1b2",
         "title": "「午後の紅茶 TEA LATTE ボトル プレゼントキャンペーン」開催！ティーラテボトルとボトルチャームプレゼントへ",
@@ -127,8 +204,8 @@
       {
         "id": "a350861aee50a04d",
         "title": "日曜トライアル 第45回 M!LK山中柔太朗「叶えたことが特に嬉しかった」、JO1川西拓実「とても光栄」、齋藤飛鳥「びっくりしすぎてちょっと笑ってしまった」…第一線で活躍する7組が語った“初めて”の喜びと覚悟",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "sourceName": "マイナビニュース 芸能",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
         "articleUrl": "https://news.mynavi.jp/article/sunday_trial-45/",
         "publishedAt": "2026-10-04T11:00:00.000Z",
         "summary": "第一線で活躍する人々にも、まだ経験したことのない“初めて”がある。JO1・川西拓実はGP帯連ドラ初出演、M!LK・山中柔太朗は目標にしていたGP帯連続ドラマ初レギュラー、齊藤なぎさは連ドラ初主演へ。このほかにも9月には、俳優・タレントらの新たな挑戦など、様々な“初めて”が発表された。今回は、9月にマイナビニュースの「テレビ」カテゴリで掲載した記事の中から、7",
@@ -145,64 +222,40 @@
             "status": "active"
           }
         ]
-      },
+      }
+    ],
+    "Sakurashimeji": [
       {
-        "id": "1d2c1607e7785fba",
-        "title": "「毎週木曜日は、家事をすべて終わらせ、部屋にこもり、パジャマでスタンバイ」55歳主婦リスナーがM!LK吉田仁人のラジオと“共通点”を感じた伝説的番組とは?「当時を思い出した」",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20261004-5047156/",
-        "publishedAt": "2026-10-04T10:00:00.000Z",
-        "summary": "「あれ? この毒舌は……」55歳の主婦リスナーが、アイドルグループ・M!LKの吉田仁人とビートたけしの“共通点”に気づき――。9月24日に放送された文化放送のラジオ番組『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)で、リスナーに称賛された吉田が、「うれしい」と喜びをあらわにした。",
+        "id": "f29fd8bb568ab87b",
+        "title": "Sakurashimeji、ホールツアー全公演SOLD OUT！初のZeppツアー開催決定",
+        "sourceName": "WWSチャンネル",
+        "sourceUrl": "https://www.wws-channel.com/feed",
+        "articleUrl": "https://www.wws-channel.com/music2/672040.html",
+        "publishedAt": "2026-10-04T22:00:55.000Z",
+        "summary": "ギターデュオ・Sakurashimejiが、2027年に初となるZeppツアー『Sakurashimeji ZeppTour+ 2027』を開催することを発表した。現在開催予定の『Sakurashimeji Hall Tour 2027「soup」』は、追加公演となる東 ... The post Sakurashimeji、ホールツアー全公演SOLD OUT",
         "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "c9a94719587e66a4",
-        "title": "M!LK 5人の楽屋＆バックステージショットを厳選！ダンスやメンバー密着の仲良し5ショットも",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000890932/",
-        "publishedAt": "2026-10-04T02:00:30.000Z",
-        "summary": "M!LKのライブ・ドラマ撮影・番組出演時などで撮られたバックステージショットをピックアップ。...",
-        "groups": [
-          "M!LK"
+          "Sakurashimeji"
         ],
         "statuses": [],
         "memberMatches": []
       },
       {
-        "id": "26a6494c3efd1eda",
-        "title": "吉田仁人主演ドラマ『溺愛 ～ 実は、最強ヒーロー ～』キービジュアル解禁！西原亜希、日比茉鈴、野口チ優の出演も決定",
-        "sourceName": "WWSチャンネル",
-        "sourceUrl": "https://www.wws-channel.com/feed",
-        "articleUrl": "https://www.wws-channel.com/tv/671841.html",
-        "publishedAt": "2026-10-03T12:30:55.000Z",
-        "summary": "M!LKの吉田仁人が主演を務めるTOKYO MXの新金曜ドラマ『溺愛 ～ 実は、最強ヒーロー ～』が10月30日より放送される。このたび、ドラマの世界観を凝縮したキービジュアルと、西原亜希、日比茉鈴、野口チ優の追加出演が発表された。本作は、シリーズ累計3400万ダウンロ ... The post 吉田仁人主演ドラマ『溺愛 ～ 実は、最強ヒーロー ～』キービジ",
+        "id": "47f16c975ff422cd",
+        "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11607/",
+        "publishedAt": "2026-09-02T12:34:24.000Z",
+        "summary": "平素より株式会社SDR所属アーティストへの温かいご声援を賜り、誠にありがとうございます。 DISH//、EBiDAN（超特急、M!LK、SUPER★DRAGON、Sakurashimeji、ONE N’ ON […] The post グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ first appeared on SUPER★DRAGO",
         "groups": [
-          "M!LK"
+          "EBiDAN",
+          "超特急",
+          "M!LK",
+          "SUPER★DRAGON",
+          "Sakurashimeji"
         ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
+        "statuses": [],
+        "memberMatches": []
       }
     ],
     "SUPER★DRAGON": [
@@ -570,26 +623,6 @@
             "status": "active"
           }
         ]
-      }
-    ],
-    "Sakurashimeji": [
-      {
-        "id": "47f16c975ff422cd",
-        "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11607/",
-        "publishedAt": "2026-09-02T12:34:24.000Z",
-        "summary": "平素より株式会社SDR所属アーティストへの温かいご声援を賜り、誠にありがとうございます。 DISH//、EBiDAN（超特急、M!LK、SUPER★DRAGON、Sakurashimeji、ONE N’ ON […] The post グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ first appeared on SUPER★DRAGO",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK",
-          "SUPER★DRAGON",
-          "Sakurashimeji"
-        ],
-        "statuses": [],
-        "memberMatches": []
       }
     ],
     "BUDDiiS": [
