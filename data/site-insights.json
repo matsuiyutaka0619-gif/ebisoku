@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-06T00:02:49.243Z",
+  "updatedAt": "2026-10-06T06:19:56.859Z",
   "totals": {
-    "all": 124,
-    "today": 2,
-    "week": 19
+    "all": 123,
+    "today": 4,
+    "week": 18
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 9
+      "count": 7
     },
     {
       "name": "SUPER★DRAGON",
@@ -19,8 +19,8 @@
       "count": 3
     },
     {
-      "name": "Sakurashimeji",
-      "count": 2
+      "name": "原因は自分にある。",
+      "count": 3
     },
     {
       "name": "超特急",
@@ -31,25 +31,25 @@
       "count": 1
     },
     {
-      "name": "原因は自分にある。",
+      "name": "Sakurashimeji",
       "count": 1
     }
   ],
   "memberRanking": [
     {
-      "name": "山中柔太朗",
+      "name": "吉田仁人",
       "count": 3
     },
     {
-      "name": "吉田仁人",
-      "count": 2
-    },
-    {
-      "name": "佐野勇斗",
+      "name": "山中柔太朗",
       "count": 2
     },
     {
       "name": "曽野舜太",
+      "count": 2
+    },
+    {
+      "name": "杢代和人",
       "count": 2
     },
     {
@@ -69,11 +69,11 @@
       "count": 1
     },
     {
-      "name": "志賀李玖",
+      "name": "佐野勇斗",
       "count": 1
     },
     {
-      "name": "柴崎楽",
+      "name": "志賀李玖",
       "count": 1
     }
   ],
@@ -81,10 +81,6 @@
     {
       "name": "SUPER★DRAGON 公式NEWS",
       "count": 5
-    },
-    {
-      "name": "THE FIRST TIMES",
-      "count": 3
     },
     {
       "name": "タワーレコード ニュース",
@@ -95,12 +91,16 @@
       "count": 2
     },
     {
+      "name": "ENCOUNT",
+      "count": 2
+    },
+    {
       "name": "マイナビニュース 芸能",
       "count": 2
     },
     {
-      "name": "リアルサウンド 音楽",
-      "count": 2
+      "name": "THE FIRST TIMES",
+      "count": 1
     },
     {
       "name": "WWSチャンネル",
@@ -109,11 +109,125 @@
     {
       "name": "マイナビニュース テレビ",
       "count": 1
+    },
+    {
+      "name": "リアルサウンド 音楽",
+      "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
+    "原因は自分にある。": [
+      {
+        "id": "6c4b96f9ea8c5834",
+        "title": "観月ありさ、息子役・ひょうろくに強めの蹴り すねや顔面も…本人「最高でした」",
+        "sourceName": "ENCOUNT",
+        "sourceUrl": "https://encount.press/feed/",
+        "articleUrl": "https://encount.press/archives/1077660/",
+        "publishedAt": "2026-10-06T03:31:41.000Z",
+        "summary": "俳優の観月ありさが6日、都内で行われた中京テレビ・日本テレビ系連続ドラマ『仮面教師～妻を亡くしたその日から』（7日スタート、水曜深夜0時24分）の制作発表記者会見に、ダブル主演の浅香航大と杢代和人、北乃きい、ひょうろくと […]",
+        "groups": [
+          "原因は自分にある。"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "杢代和人",
+            "group": "原因は自分にある。",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "71748e964fa5ccbb",
+        "title": "ひょうろく、観月ありさの息子役に「ラッキー」 “似てない”と自虐も意欲「今後の人生ないな」",
+        "sourceName": "ENCOUNT",
+        "sourceUrl": "https://encount.press/feed/",
+        "articleUrl": "https://encount.press/archives/1077614/",
+        "publishedAt": "2026-10-06T02:55:33.000Z",
+        "summary": "お笑い芸人のひょうろくが6日、都内で行われた中京テレビ・日本テレビ系連続ドラマ『仮面教師～妻を亡くしたその日から』（7日スタート、水曜深夜0時24分）の制作発表記者会見に、ダブル主演の浅香航大と杢代和人、北乃きい、観月あ […]",
+        "groups": [
+          "原因は自分にある。"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "杢代和人",
+            "group": "原因は自分にある。",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "652537b51923f86b",
+        "title": "「J-POPシングル ウィークリーTOP30」発表。1位はCANDY TUNE『総意♡So Free / スペシャル感謝祭』、予約1位は原因は自分にある。『ラブリーズン』（2026年10月1日付）",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/10/01/tg002",
+        "publishedAt": "2026-10-01T10:00:00.000Z",
+        "summary": "",
+        "groups": [
+          "原因は自分にある。"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "15fb9ee4d3775ce2",
+        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/07/89645/",
+        "publishedAt": "2026-07-24T12:00:00.000Z",
+        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
+        "groups": [
+          "原因は自分にある。",
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
+      }
+    ],
     "M!LK": [
+      {
+        "id": "5e66c9c2bb2f3f1d",
+        "title": "M!LK吉田仁人とBALLISTIK BOYZ松井利樹が肩を寄せてダブルピース！“同じダンスチーム出身”の2ショットに「レアすぎる」「激アツ」「推しと推し」「ふたりともかわいい」の声",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000894372/",
+        "publishedAt": "2026-10-06T03:24:30.000Z",
+        "summary": "『Venue101』（NHK）の公式Xが更新され、M!LKの吉田仁人とBALLISTIK BOYZの松井利樹の2ショッ...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
       {
         "id": "697b8424845277a9",
         "title": "M!LK 佐野勇斗、リベンジ誓う“始球式”の1日を公開 特訓を重ねる姿に「変わらず謙虚で努力家」「あまりにも少年で可愛い」",
@@ -135,64 +249,6 @@
             "status": "active"
           }
         ]
-      },
-      {
-        "id": "f7446ce48ae2c6b6",
-        "title": "M!LK佐野勇斗「明治 生のとき」イメージキャラクターに就任！うっとりした表情で「…尊い」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000893556/",
-        "publishedAt": "2026-10-05T19:00:46.000Z",
-        "summary": "M!LKの佐野勇斗が「明治 生のとき」の新イメージキャラクターに就任。新TVCMとなる生のとき『...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "3605f1fbb321dec1",
-        "title": "M!LK山中柔太朗『sweet』表紙＆巻頭特集にソロ初登場！甘さや柔らかさだけではない一面をアピール",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000893679/",
-        "publishedAt": "2026-10-05T09:00:57.000Z",
-        "summary": "M!LKの山中柔太朗が『sweet』11月号（10月9日発売）の表紙＆巻頭特集に単独初登場。ソロで飾る...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "94c92d7cfc6687b9",
-        "title": "【今夜放送『CDTVライブ！ライブ！』出演者＆歌唱曲】Snow Man、M!LK、MAZZEL × STARGLOWらが登場",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000893881/",
-        "publishedAt": "2026-10-05T07:48:57.000Z",
-        "summary": "10月5日19時からTBSで2時間にわたって生放送される『CDTVライブ！ライブ！』の出演アーティス...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
       },
       {
         "id": "c32bf91123c657cb",
@@ -230,51 +286,39 @@
             "status": "active"
           }
         ]
-      }
-    ],
-    "Sakurashimeji": [
-      {
-        "id": "dbd323c3bccccdcb",
-        "title": "Sakurashimeji、2027年5月よりZepp含む全国7カ所まわるツアー開催 ファンクラブ会員先行受付中",
-        "sourceName": "リアルサウンド 音楽",
-        "sourceUrl": "https://realsound.jp/music/feed",
-        "articleUrl": "https://realsound.jp/2026/10/post-2543928.html",
-        "publishedAt": "2026-10-05T09:34:46.000Z",
-        "summary": "Sakurashimejiが、全国ツアー『Sakurashimeji ZeppTour+ 2027』を2027年5月より開催する。 本情報は、10月4日にセブンパークアリオ柏にて行われたフリーライブにて発表されたもの",
-        "groups": [
-          "Sakurashimeji"
-        ],
-        "statuses": [],
-        "memberMatches": []
       },
       {
-        "id": "f29fd8bb568ab87b",
-        "title": "Sakurashimeji、ホールツアー全公演SOLD OUT！初のZeppツアー開催決定",
-        "sourceName": "WWSチャンネル",
-        "sourceUrl": "https://www.wws-channel.com/feed",
-        "articleUrl": "https://www.wws-channel.com/music2/672040.html",
-        "publishedAt": "2026-10-04T22:00:55.000Z",
-        "summary": "ギターデュオ・Sakurashimejiが、2027年に初となるZeppツアー『Sakurashimeji ZeppTour+ 2027』を開催することを発表した。現在開催予定の『Sakurashimeji Hall Tour 2027「soup」』は、追加公演となる東 ... The post Sakurashimeji、ホールツアー全公演SOLD OUT",
+        "id": "a350861aee50a04d",
+        "title": "日曜トライアル 第45回 M!LK山中柔太朗「叶えたことが特に嬉しかった」、JO1川西拓実「とても光栄」、齋藤飛鳥「びっくりしすぎてちょっと笑ってしまった」…第一線で活躍する7組が語った“初めて”の喜びと覚悟",
+        "sourceName": "マイナビニュース 芸能",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
+        "articleUrl": "https://news.mynavi.jp/article/sunday_trial-45/",
+        "publishedAt": "2026-10-04T11:00:00.000Z",
+        "summary": "第一線で活躍する人々にも、まだ経験したことのない“初めて”がある。JO1・川西拓実はGP帯連ドラ初出演、M!LK・山中柔太朗は目標にしていたGP帯連続ドラマ初レギュラー、齊藤なぎさは連ドラ初主演へ。このほかにも9月には、俳優・タレントらの新たな挑戦など、様々な“初めて”が発表された。今回は、9月にマイナビニュースの「テレビ」カテゴリで掲載した記事の中から、7",
         "groups": [
-          "Sakurashimeji"
+          "M!LK"
         ],
-        "statuses": [],
-        "memberMatches": []
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
       },
       {
-        "id": "47f16c975ff422cd",
-        "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11607/",
-        "publishedAt": "2026-09-02T12:34:24.000Z",
-        "summary": "平素より株式会社SDR所属アーティストへの温かいご声援を賜り、誠にありがとうございます。 DISH//、EBiDAN（超特急、M!LK、SUPER★DRAGON、Sakurashimeji、ONE N’ ON […] The post グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ first appeared on SUPER★DRAGO",
+        "id": "3214fb52e317dd78",
+        "title": "「J-POPアルバム 9月度マンスリーTOP30」発表。1位はM!LK『LOVE ENG!NE』",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/10/02/tg004",
+        "publishedAt": "2026-10-02T10:00:00.000Z",
+        "summary": "",
         "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK",
-          "SUPER★DRAGON",
-          "Sakurashimeji"
+          "M!LK"
         ],
         "statuses": [],
         "memberMatches": []
@@ -478,6 +522,40 @@
         "memberMatches": []
       }
     ],
+    "Sakurashimeji": [
+      {
+        "id": "f29fd8bb568ab87b",
+        "title": "Sakurashimeji、ホールツアー全公演SOLD OUT！初のZeppツアー開催決定",
+        "sourceName": "WWSチャンネル",
+        "sourceUrl": "https://www.wws-channel.com/feed",
+        "articleUrl": "https://www.wws-channel.com/music2/672040.html",
+        "publishedAt": "2026-10-04T22:00:55.000Z",
+        "summary": "ギターデュオ・Sakurashimejiが、2027年に初となるZeppツアー『Sakurashimeji ZeppTour+ 2027』を開催することを発表した。現在開催予定の『Sakurashimeji Hall Tour 2027「soup」』は、追加公演となる東 ... The post Sakurashimeji、ホールツアー全公演SOLD OUT",
+        "groups": [
+          "Sakurashimeji"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "47f16c975ff422cd",
+        "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11607/",
+        "publishedAt": "2026-09-02T12:34:24.000Z",
+        "summary": "平素より株式会社SDR所属アーティストへの温かいご声援を賜り、誠にありがとうございます。 DISH//、EBiDAN（超特急、M!LK、SUPER★DRAGON、Sakurashimeji、ONE N’ ON […] The post グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ first appeared on SUPER★DRAGO",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK",
+          "SUPER★DRAGON",
+          "Sakurashimeji"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
     "ICEx": [
       {
         "id": "72d88a3410706483",
@@ -602,50 +680,6 @@
         ],
         "statuses": [],
         "memberMatches": []
-      }
-    ],
-    "原因は自分にある。": [
-      {
-        "id": "652537b51923f86b",
-        "title": "「J-POPシングル ウィークリーTOP30」発表。1位はCANDY TUNE『総意♡So Free / スペシャル感謝祭』、予約1位は原因は自分にある。『ラブリーズン』（2026年10月1日付）",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/10/01/tg002",
-        "publishedAt": "2026-10-01T10:00:00.000Z",
-        "summary": "",
-        "groups": [
-          "原因は自分にある。"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "15fb9ee4d3775ce2",
-        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/07/89645/",
-        "publishedAt": "2026-07-24T12:00:00.000Z",
-        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
-        "groups": [
-          "原因は自分にある。",
-          "BUDDiiS"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "SHOOT",
-            "group": "BUDDiiS",
-            "status": "active"
-          }
-        ]
       }
     ],
     "BUDDiiS": [
