@@ -1,24 +1,46 @@
 {
-  "updatedAt": "2026-10-05T14:37:03.196Z",
+  "updatedAt": "2026-10-06T00:02:49.240Z",
   "articles": [
     {
-      "id": "97fecfc480b1757a",
-      "title": "樋口幸平、トークイベントでコテコテの関西弁 共演者もびっくり「ギャップでした」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1076974/",
-      "publishedAt": "2026-10-05T11:17:28.000Z",
-      "summary": "俳優の樋口幸平、林芽亜里がダブル主演を務めるMBSほかドラマフィル『おかえり、初恋。』の第1話先行試写＆完成披露トークイベントが行われ、共演のONE N’ ONLYのリーダー・高尾颯斗らとともに出席した。トーク中には、兵 […]",
+      "id": "697b8424845277a9",
+      "title": "M!LK 佐野勇斗、リベンジ誓う“始球式”の1日を公開 特訓を重ねる姿に「変わらず謙虚で努力家」「あまりにも少年で可愛い」",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/10/post-2543804.html",
+      "publishedAt": "2026-10-05T20:50:35.000Z",
+      "summary": "M!LKの佐野勇斗が、自身のYouTubeチャンネルに「【大暴投】始球式」を10月3日に更新。6月5日にバンテリンドーム ナゴヤで開催された中日ドラゴンズ対埼玉西武ライオンズ戦の始球式の裏側を公開している。",
       "groups": [
-        "ONE N' ONLY"
+        "M!LK"
       ],
       "statuses": [
         "active"
       ],
       "memberMatches": [
         {
-          "name": "HAYATO",
-          "group": "ONE N' ONLY",
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "f7446ce48ae2c6b6",
+      "title": "M!LK佐野勇斗「明治 生のとき」イメージキャラクターに就任！うっとりした表情で「…尊い」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000893556/",
+      "publishedAt": "2026-10-05T19:00:46.000Z",
+      "summary": "M!LKの佐野勇斗が「明治 生のとき」の新イメージキャラクターに就任。新TVCMとなる生のとき『...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
           "status": "active"
         }
       ]
@@ -105,8 +127,8 @@
     {
       "id": "c32bf91123c657cb",
       "title": "泳げない塩崎太智＆山中柔太朗、67歳男性の「50m泳ぎたい」に挑む 曽野舜太＆吉田仁人は“M!LK史上最も過酷なロケ”へ",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
       "articleUrl": "https://news.mynavi.jp/article/20261005-5074397/",
       "publishedAt": "2026-10-04T22:00:00.000Z",
       "summary": "「こんなおっさんのために…」――きょう5日に放送される日本テレビ系バラエティ特番『M!LKに言ってみ?』(23:59～)では、M!LKの5人が全国の依頼人から寄せられた悩みを全力で解決。泳げない塩崎太智と山中柔太朗は「50メートルをかっこよく泳ぎ切りたい」という67歳男性と猛特訓し、曽野舜太と吉田仁人には“M!LK史上最も過酷なロケ”が待ち受ける。",
@@ -138,20 +160,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "990cc825d9f6b1b2",
-      "title": "「午後の紅茶 TEA LATTE ボトル プレゼントキャンペーン」開催！ティーラテボトルとボトルチャームプレゼントへ",
-      "sourceName": "Edge Line",
-      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-      "articleUrl": "https://www.edgeline-tokyo.com/food/206502",
-      "publishedAt": "2026-10-04T19:00:28.000Z",
-      "summary": "キリンビバレッジ株式会社が10月6日より紅茶飲料ブランド『キリン 午後の紅茶』から『キリン 午後の紅茶 TEA LATTE with ESPRESSO / TEA LATTE CREAM & MILK』の2品...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "a350861aee50a04d",
