@@ -1,30 +1,26 @@
 {
-  "updatedAt": "2026-10-06T06:19:56.859Z",
+  "updatedAt": "2026-10-06T18:21:44.726Z",
   "totals": {
-    "all": 123,
-    "today": 4,
-    "week": 18
+    "all": 131,
+    "today": 0,
+    "week": 29
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 7
+      "count": 16
     },
     {
       "name": "SUPER★DRAGON",
-      "count": 5
+      "count": 7
     },
     {
       "name": "EBiDAN",
-      "count": 3
-    },
-    {
-      "name": "原因は自分にある。",
-      "count": 3
+      "count": 4
     },
     {
       "name": "超特急",
-      "count": 2
+      "count": 4
     },
     {
       "name": "ICEx",
@@ -33,24 +29,44 @@
     {
       "name": "Sakurashimeji",
       "count": 1
+    },
+    {
+      "name": "原因は自分にある。",
+      "count": 1
     }
   ],
   "memberRanking": [
     {
       "name": "吉田仁人",
+      "count": 4
+    },
+    {
+      "name": "塩﨑太智",
       "count": 3
     },
     {
       "name": "山中柔太朗",
-      "count": 2
+      "count": 3
     },
     {
       "name": "曽野舜太",
+      "count": 3
+    },
+    {
+      "name": "佐野勇斗",
       "count": 2
     },
     {
-      "name": "杢代和人",
-      "count": 2
+      "name": "ジャン海渡",
+      "count": 1
+    },
+    {
+      "name": "シューヤ",
+      "count": 1
+    },
+    {
+      "name": "タカシ",
+      "count": 1
     },
     {
       "name": "タクヤ",
@@ -59,161 +75,75 @@
     {
       "name": "阿久根温世",
       "count": 1
-    },
-    {
-      "name": "伊藤壮吾",
-      "count": 1
-    },
-    {
-      "name": "塩﨑太智",
-      "count": 1
-    },
-    {
-      "name": "佐野勇斗",
-      "count": 1
-    },
-    {
-      "name": "志賀李玖",
-      "count": 1
     }
   ],
   "sourceRanking": [
     {
       "name": "SUPER★DRAGON 公式NEWS",
-      "count": 5
+      "count": 6
     },
     {
       "name": "タワーレコード ニュース",
-      "count": 3
+      "count": 5
     },
     {
       "name": "Bezzy",
-      "count": 2
+      "count": 3
     },
     {
-      "name": "ENCOUNT",
-      "count": 2
+      "name": "THE FIRST TIMES",
+      "count": 3
+    },
+    {
+      "name": "WWSチャンネル",
+      "count": 3
     },
     {
       "name": "マイナビニュース 芸能",
       "count": 2
     },
     {
-      "name": "THE FIRST TIMES",
-      "count": 1
-    },
-    {
-      "name": "WWSチャンネル",
-      "count": 1
-    },
-    {
-      "name": "マイナビニュース テレビ",
-      "count": 1
-    },
-    {
       "name": "リアルサウンド 音楽",
+      "count": 2
+    },
+    {
+      "name": "BARKS",
+      "count": 1
+    },
+    {
+      "name": "ENCOUNT",
+      "count": 1
+    },
+    {
+      "name": "マイナビニュース エンタメ",
       "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
-    "原因は自分にある。": [
+    "M!LK": [
       {
-        "id": "6c4b96f9ea8c5834",
-        "title": "観月ありさ、息子役・ひょうろくに強めの蹴り すねや顔面も…本人「最高でした」",
-        "sourceName": "ENCOUNT",
-        "sourceUrl": "https://encount.press/feed/",
-        "articleUrl": "https://encount.press/archives/1077660/",
-        "publishedAt": "2026-10-06T03:31:41.000Z",
-        "summary": "俳優の観月ありさが6日、都内で行われた中京テレビ・日本テレビ系連続ドラマ『仮面教師～妻を亡くしたその日から』（7日スタート、水曜深夜0時24分）の制作発表記者会見に、ダブル主演の浅香航大と杢代和人、北乃きい、ひょうろくと […]",
+        "id": "b7124dc7287517c1",
+        "title": "M!LK、冠バラエティ『M!LKの爆裂ミッション』レギュラー化決定 特番内でサプライズ発表",
+        "sourceName": "リアルサウンド 音楽",
+        "sourceUrl": "https://realsound.jp/music/feed",
+        "articleUrl": "https://realsound.jp/2026/10/post-2545092.html",
+        "publishedAt": "2026-10-06T13:55:50.000Z",
+        "summary": "M!LKの冠バラエティ番組『M!LKの爆裂ミッション』（TBS）が、10月24日14時よりレギュラー番組として放送される。 本番組は、いま世の中で話題になっているもの、言われてみれば結果が気になるものに“爆裂ミッショ",
         "groups": [
-          "原因は自分にある。"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "杢代和人",
-            "group": "原因は自分にある。",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "71748e964fa5ccbb",
-        "title": "ひょうろく、観月ありさの息子役に「ラッキー」 “似てない”と自虐も意欲「今後の人生ないな」",
-        "sourceName": "ENCOUNT",
-        "sourceUrl": "https://encount.press/feed/",
-        "articleUrl": "https://encount.press/archives/1077614/",
-        "publishedAt": "2026-10-06T02:55:33.000Z",
-        "summary": "お笑い芸人のひょうろくが6日、都内で行われた中京テレビ・日本テレビ系連続ドラマ『仮面教師～妻を亡くしたその日から』（7日スタート、水曜深夜0時24分）の制作発表記者会見に、ダブル主演の浅香航大と杢代和人、北乃きい、観月あ […]",
-        "groups": [
-          "原因は自分にある。"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "杢代和人",
-            "group": "原因は自分にある。",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "652537b51923f86b",
-        "title": "「J-POPシングル ウィークリーTOP30」発表。1位はCANDY TUNE『総意♡So Free / スペシャル感謝祭』、予約1位は原因は自分にある。『ラブリーズン』（2026年10月1日付）",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/10/01/tg002",
-        "publishedAt": "2026-10-01T10:00:00.000Z",
-        "summary": "",
-        "groups": [
-          "原因は自分にある。"
+          "M!LK"
         ],
         "statuses": [],
         "memberMatches": []
       },
       {
-        "id": "15fb9ee4d3775ce2",
-        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/07/89645/",
-        "publishedAt": "2026-07-24T12:00:00.000Z",
-        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
-        "groups": [
-          "原因は自分にある。",
-          "BUDDiiS"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "SHOOT",
-            "group": "BUDDiiS",
-            "status": "active"
-          }
-        ]
-      }
-    ],
-    "M!LK": [
-      {
-        "id": "5e66c9c2bb2f3f1d",
-        "title": "M!LK吉田仁人とBALLISTIK BOYZ松井利樹が肩を寄せてダブルピース！“同じダンスチーム出身”の2ショットに「レアすぎる」「激アツ」「推しと推し」「ふたりともかわいい」の声",
+        "id": "d3a3c00267c3bd00",
+        "title": "『M!LKの爆裂ミッション』待望のレギュラー化が決定！「楽しく、頑張り“滅”！」（塩﨑太智）",
         "sourceName": "THE FIRST TIMES",
         "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000894372/",
-        "publishedAt": "2026-10-06T03:24:30.000Z",
-        "summary": "『Venue101』（NHK）の公式Xが更新され、M!LKの吉田仁人とBALLISTIK BOYZの松井利樹の2ショッ...",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000894510/",
+        "publishedAt": "2026-10-06T13:55:47.000Z",
+        "summary": "M!LKが出演する『M!LKの爆裂ミッション』が、レギュラー番組として10月24日14時からTBSにて放...",
         "groups": [
           "M!LK"
         ],
@@ -222,20 +152,34 @@
         ],
         "memberMatches": [
           {
-            "name": "吉田仁人",
+            "name": "塩﨑太智",
             "group": "M!LK",
             "status": "active"
           }
         ]
       },
       {
-        "id": "697b8424845277a9",
-        "title": "M!LK 佐野勇斗、リベンジ誓う“始球式”の1日を公開 特訓を重ねる姿に「変わらず謙虚で努力家」「あまりにも少年で可愛い」",
-        "sourceName": "リアルサウンド 音楽",
-        "sourceUrl": "https://realsound.jp/music/feed",
-        "articleUrl": "https://realsound.jp/2026/10/post-2543804.html",
-        "publishedAt": "2026-10-05T20:50:35.000Z",
-        "summary": "M!LKの佐野勇斗が、自身のYouTubeチャンネルに「【大暴投】始球式」を10月3日に更新。6月5日にバンテリンドーム ナゴヤで開催された中日ドラゴンズ対埼玉西武ライオンズ戦の始球式の裏側を公開している。",
+        "id": "21b91d2701bacbc8",
+        "title": "「M！LKの爆裂ミッション」レギュラー化決定 まさかのハプニングで決定明かされる大波乱",
+        "sourceName": "日刊スポーツ 芸能",
+        "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+        "articleUrl": "https://www.nikkansports.com/entertainment/news/202610060001135.html",
+        "publishedAt": "2026-10-06T13:55:00.000Z",
+        "summary": "5人組ダンスボーカルグループ、M！LKの冠番組「M！LKの爆裂ミッション」が、TBS系土曜午後2時のレギュラー番組として24日から放送開始される。6日放送の第2弾特番内で発表された。 衝撃の発表は番組終了間際に行われた。スタジオに巨大な…",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "90eaefe1c422551f",
+        "title": "M!LK、冠番組がレギュラー化「一緒に成長していける番組を作りたい」 24日スタート",
+        "sourceName": "ENCOUNT",
+        "sourceUrl": "https://encount.press/feed/",
+        "articleUrl": "https://encount.press/archives/1077691/",
+        "publishedAt": "2026-10-06T13:55:00.000Z",
+        "summary": "5人組ダンスボーカルグループ・M!LK（佐野勇斗、塩﨑太智、曽野舜太、山中柔太朗、吉田仁人）の冠番組『M!LKの爆裂ミッション』がレギュラー化され、24日午後2時よりTBSで放送スタートすることが6日、発表された。TBS […]",
         "groups": [
           "M!LK"
         ],
@@ -247,24 +191,7 @@
             "name": "佐野勇斗",
             "group": "M!LK",
             "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "c32bf91123c657cb",
-        "title": "泳げない塩崎太智＆山中柔太朗、67歳男性の「50m泳ぎたい」に挑む 曽野舜太＆吉田仁人は“M!LK史上最も過酷なロケ”へ",
-        "sourceName": "マイナビニュース テレビ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-        "articleUrl": "https://news.mynavi.jp/article/20261005-5074397/",
-        "publishedAt": "2026-10-04T22:00:00.000Z",
-        "summary": "「こんなおっさんのために…」――きょう5日に放送される日本テレビ系バラエティ特番『M!LKに言ってみ?』(23:59～)では、M!LKの5人が全国の依頼人から寄せられた悩みを全力で解決。泳げない塩崎太智と山中柔太朗は「50メートルをかっこよく泳ぎ切りたい」という67歳男性と猛特訓し、曽野舜太と吉田仁人には“M!LK史上最も過酷なロケ”が待ち受ける。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
+          },
           {
             "name": "塩﨑太智",
             "group": "M!LK",
@@ -288,35 +215,13 @@
         ]
       },
       {
-        "id": "a350861aee50a04d",
-        "title": "日曜トライアル 第45回 M!LK山中柔太朗「叶えたことが特に嬉しかった」、JO1川西拓実「とても光栄」、齋藤飛鳥「びっくりしすぎてちょっと笑ってしまった」…第一線で活躍する7組が語った“初めて”の喜びと覚悟",
-        "sourceName": "マイナビニュース 芸能",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-        "articleUrl": "https://news.mynavi.jp/article/sunday_trial-45/",
-        "publishedAt": "2026-10-04T11:00:00.000Z",
-        "summary": "第一線で活躍する人々にも、まだ経験したことのない“初めて”がある。JO1・川西拓実はGP帯連ドラ初出演、M!LK・山中柔太朗は目標にしていたGP帯連続ドラマ初レギュラー、齊藤なぎさは連ドラ初主演へ。このほかにも9月には、俳優・タレントらの新たな挑戦など、様々な“初めて”が発表された。今回は、9月にマイナビニュースの「テレビ」カテゴリで掲載した記事の中から、7",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "3214fb52e317dd78",
-        "title": "「J-POPアルバム 9月度マンスリーTOP30」発表。1位はM!LK『LOVE ENG!NE』",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/10/02/tg004",
-        "publishedAt": "2026-10-02T10:00:00.000Z",
-        "summary": "",
+        "id": "58e75cd8368ad3b1",
+        "title": "Spotify、日本上陸10年を振り返るSPライブ開催 出演者第1弾にSTUTS、マカロニえんぴつ、M!LK",
+        "sourceName": "リアルサウンド 音楽",
+        "sourceUrl": "https://realsound.jp/music/feed",
+        "articleUrl": "https://realsound.jp/2026/10/post-2545013.html",
+        "publishedAt": "2026-10-06T11:26:35.000Z",
+        "summary": "Spotifyが、ライブイベント『Spotify On Stage Tokyo 2026 -10th Anniversary Special-』を12月20日に東京ガーデンシアターにて開催する。 今年で2回目の開催と",
         "groups": [
           "M!LK"
         ],
@@ -324,7 +229,216 @@
         "memberMatches": []
       }
     ],
+    "超特急": [
+      {
+        "id": "7c5e0adb37af749c",
+        "title": "EXILE、オリジナルメンバー再集結！『CDTVライブ！ライブ！』で全13曲のEXILEフェス開催",
+        "sourceName": "WWSチャンネル",
+        "sourceUrl": "https://www.wws-channel.com/feed",
+        "articleUrl": "https://www.wws-channel.com/tv/672434.html",
+        "publishedAt": "2026-10-06T11:00:49.000Z",
+        "summary": "10月12日18時30分から放送されるTBS系『CDTVライブ！ライブ！』で、EXILEによるEXILEフェスが開催される。番組は2時間半の生放送で、スピッツ、Travis Japan、森七菜、≒JOY、Number_i、超特急、TMG、AKINOらも出演する。結成25 ... The post EXILE、オリジナルメンバー再集結！『CDTVライブ！ライブ",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "2591585dfda85389",
+        "title": "NHK『The Covers 秋フェス』セットリスト解禁！超特急（タカシ・シューヤ）、柴咲コウ、スタ☆レビ、トータス松本、平原綾香が豪華競演",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000894302/",
+        "publishedAt": "2026-10-06T06:55:00.000Z",
+        "summary": "NHK『The Covers』がおくる“名曲の祭典”『カバーズ・フェス』の模様が、10月15日に総合テレビ...",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "タカシ",
+            "group": "超特急",
+            "status": "active"
+          },
+          {
+            "name": "シューヤ",
+            "group": "超特急",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "6a1d840f53f5771f",
+        "title": "高橋大輔×草川拓弥が演劇舞台初挑戦でW主演、固く結ばれたバディ演じる『ウルフムーン』上演決定",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/10/92796/",
+        "publishedAt": "2026-10-02T03:00:00.000Z",
+        "summary": "高橋大輔と草川拓弥がダブル主演を務める舞台『ウルフムーン』ー狼月に昇るーが2027年1月より東京と大阪で上演されることが決定した。 本作で演出を担うのは、数々の舞台に出演し俳優として培った現場感覚を生かしながら、演出家としても実績を重ねる福士誠治。脚本は、映画『かぐや姫の物語』やミュージカル『梨泰院クラス』『四月は君の嘘』、映画『てっぺんの向こうにあなたがい",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "タクヤ",
+            "group": "超特急",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "471946451d042b7e",
+        "title": "超特急の新曲テーマは“ユーロビート×干支”、24thシングル『エトランス・フィーバー』12月発売",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/09/92770/",
+        "publishedAt": "2026-09-30T10:00:00.000Z",
+        "summary": "9人組メインダンサー＆バックボーカルグループ・超特急が、24枚目のシングル『エトランス・フィーバー』を12月16日(水)にリリース。表題曲「エトランス・フィーバー」を10月12日(月)0時より先行配信することが発表された。 11月に待望の東京ドーム2Days公演を控える超特急の次作は、ユーロビート×干支という意外な組み合わせから生まれた新たなトンチキソング。",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "47f16c975ff422cd",
+        "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11607/",
+        "publishedAt": "2026-09-02T12:34:24.000Z",
+        "summary": "平素より株式会社SDR所属アーティストへの温かいご声援を賜り、誠にありがとうございます。 DISH//、EBiDAN（超特急、M!LK、SUPER★DRAGON、Sakurashimeji、ONE N’ ON […] The post グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ first appeared on SUPER★DRAGO",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK",
+          "SUPER★DRAGON",
+          "Sakurashimeji"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
+    "SUPER★DRAGON": [
+      {
+        "id": "e5a081b27ffd8c55",
+        "title": "jjean、デジタルシングル『superstar』リリースパーティーを開催！映画を作るようにライブを作るテーマも実現した自身の目指すライブに！",
+        "sourceName": "WWSチャンネル",
+        "sourceUrl": "https://www.wws-channel.com/feed",
+        "articleUrl": "https://www.wws-channel.com/music2/672429.html",
+        "publishedAt": "2026-10-06T10:00:13.000Z",
+        "summary": "9人組ミクスチャーユニット・SUPER★DRAGONのボーカル＆ラッパーとして活動し、数多くの曲で作詞や作曲も担当しているジャン海渡が、ソロ名義のjjeanとしてデジタルシングル『superstar』を9月9日に発表。そのリリースパーティーを10月5日に東京・Spoti ... The post jjean、デジタルシングル『superstar』リリースパー",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "ジャン海渡",
+            "group": "SUPER★DRAGON",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "0a6bc3b4cc337ec3",
+        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』機材開放先着販売 決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11738/",
+        "publishedAt": "2026-10-06T08:00:16.000Z",
+        "summary": "SOLD OUTとなっておりました第6回EBiDAN大運動会『スポーツマンヒップ！』につきまして、 機材席の一部開放に伴い、若干数ではございますが、追加販売が決定いたしました。 10月8日(木)18:00より〈先着〉にて […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』機材開放先着販売 決定！ first appeared on ",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "a2361a4ff60972aa",
+        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ 会場販売＆整理券配布のお知らせ",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11726/",
+        "publishedAt": "2026-10-05T07:00:49.000Z",
+        "summary": "第6回EBiDAN大運動会『スポーツマンヒップ！』LaLa arena TOKYO-BAY公演の会場販売が決定しました！ ※オフィシャルグッズの販売は、【キャッシュレス決済のみ】の取り扱いとなります。現金はご利用いただけ […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ 会場販売＆整理券配布のお知らせ first",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "2a4dddd6b9e52a72",
+        "title": "SUPER★DRAGON DRA FES 2026 追加公演 SOLD OUT！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11724/",
+        "publishedAt": "2026-10-02T09:00:24.000Z",
+        "summary": "SUPER★DRAGON DRA FES 2026追加公演のチケットが好評につき完売いたしました！ たくさんのお申込みありがとうございました！ SUPER★DRAGON DRA FES 2026〈追加公演〉 THANK […] The post SUPER★DRAGON DRA FES 2026 追加公演 SOLD OUT！ first appeared o",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "72d88a3410706483",
+        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』追加出演者のお知らせ/チケットトレード情報",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11722/",
+        "publishedAt": "2026-10-02T07:00:30.000Z",
+        "summary": "第6回EBiDAN大運動会『スポーツマンヒップ！』につきまして、ICEx志賀李玖・阿久根温世の追加出演が決定いたしました！ また、10月7日(水) 18:00よりチケットトレードの実施が決定いたしました。 チケットをお持 […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』追加出演者のお知らせ/チケットトレード情報 first app",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON",
+          "ICEx"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "志賀李玖",
+            "group": "ICEx",
+            "status": "active"
+          },
+          {
+            "name": "阿久根温世",
+            "group": "ICEx",
+            "status": "active"
+          }
+        ]
+      }
+    ],
     "EBiDAN": [
+      {
+        "id": "0a6bc3b4cc337ec3",
+        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』機材開放先着販売 決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11738/",
+        "publishedAt": "2026-10-06T08:00:16.000Z",
+        "summary": "SOLD OUTとなっておりました第6回EBiDAN大運動会『スポーツマンヒップ！』につきまして、 機材席の一部開放に伴い、若干数ではございますが、追加販売が決定いたしました。 10月8日(木)18:00より〈先着〉にて […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』機材開放先着販売 決定！ first appeared on ",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
       {
         "id": "a2361a4ff60972aa",
         "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ 会場販売＆整理券配布のお知らせ",
@@ -398,128 +512,6 @@
         ],
         "statuses": [],
         "memberMatches": []
-      },
-      {
-        "id": "0d6f12771cde1aed",
-        "title": "「SUPER★DRAGON DRA FES 2026」 【9/24(木)東京・9/27(日)大阪】オフィシャルグッズ、ミニ生写真セット 会場販売のお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11635/",
-        "publishedAt": "2026-09-17T07:00:15.000Z",
-        "summary": "東京、大阪公演会場より、「会場別ラメアクリルキーホルダー」、ミニ生写真セット「第9弾」、「第10弾」が新登場！ さらに、該当公演のチケットをお持ちの方を対象に、事前にグッズの注文リスト作成が可能な〈EBiDANアプリ(G […] The post 「SUPER★DRAGON DRA FES 2026」 【9/24(木)東京・9/27(日)大阪】オフィシャルグ",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "SUPER★DRAGON": [
-      {
-        "id": "a2361a4ff60972aa",
-        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ 会場販売＆整理券配布のお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11726/",
-        "publishedAt": "2026-10-05T07:00:49.000Z",
-        "summary": "第6回EBiDAN大運動会『スポーツマンヒップ！』LaLa arena TOKYO-BAY公演の会場販売が決定しました！ ※オフィシャルグッズの販売は、【キャッシュレス決済のみ】の取り扱いとなります。現金はご利用いただけ […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ 会場販売＆整理券配布のお知らせ first",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "2a4dddd6b9e52a72",
-        "title": "SUPER★DRAGON DRA FES 2026 追加公演 SOLD OUT！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11724/",
-        "publishedAt": "2026-10-02T09:00:24.000Z",
-        "summary": "SUPER★DRAGON DRA FES 2026追加公演のチケットが好評につき完売いたしました！ たくさんのお申込みありがとうございました！ SUPER★DRAGON DRA FES 2026〈追加公演〉 THANK […] The post SUPER★DRAGON DRA FES 2026 追加公演 SOLD OUT！ first appeared o",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "72d88a3410706483",
-        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』追加出演者のお知らせ/チケットトレード情報",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11722/",
-        "publishedAt": "2026-10-02T07:00:30.000Z",
-        "summary": "第6回EBiDAN大運動会『スポーツマンヒップ！』につきまして、ICEx志賀李玖・阿久根温世の追加出演が決定いたしました！ また、10月7日(水) 18:00よりチケットトレードの実施が決定いたしました。 チケットをお持 […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』追加出演者のお知らせ/チケットトレード情報 first app",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON",
-          "ICEx"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "志賀李玖",
-            "group": "ICEx",
-            "status": "active"
-          },
-          {
-            "name": "阿久根温世",
-            "group": "ICEx",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "eb36ed6a4013f8d7",
-        "title": "飯島颯 出演 舞台「えぶりでいホスト」回替わりゲスト〈姫〉として伊藤壮吾・柴崎楽 出演決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11718/",
-        "publishedAt": "2026-10-02T03:00:11.000Z",
-        "summary": "飯島颯出演の舞台「えぶりでいホスト」に回替わりゲスト〈姫〉として、 伊藤壮吾・柴崎楽 出演決定いたしました！ 【出演回】 伊藤壮吾：11/10(火)19:30〜 柴崎楽：11/13(金)19:30～ 一般発売 2026年 […] The post 飯島颯 出演 舞台「えぶりでいホスト」回替わりゲスト〈姫〉として伊藤壮吾・柴崎楽 出演決定！ first app",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "飯島颯",
-            "group": "SUPER★DRAGON",
-            "status": "active"
-          },
-          {
-            "name": "伊藤壮吾",
-            "group": "SUPER★DRAGON",
-            "status": "active"
-          },
-          {
-            "name": "柴崎楽",
-            "group": "SUPER★DRAGON",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "c3f2ab77ac244808",
-        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』SOLD OUT！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11716/",
-        "publishedAt": "2026-09-30T06:00:07.000Z",
-        "summary": "第6回EBiDAN大運動会『スポーツマンヒップ！』のチケットが好評につき完売いたしました！ たくさんのご応募ありがとうございました！ 第6回EBiDAN大運動会『スポーツマンヒップ！』 THANK YOU SOLD OU […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』SOLD OUT！ first appeared on SUP",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
       }
     ],
     "Sakurashimeji": [
@@ -587,99 +579,48 @@
         ]
       }
     ],
-    "超特急": [
+    "原因は自分にある。": [
       {
-        "id": "6a1d840f53f5771f",
-        "title": "高橋大輔×草川拓弥が演劇舞台初挑戦でW主演、固く結ばれたバディ演じる『ウルフムーン』上演決定",
+        "id": "652537b51923f86b",
+        "title": "「J-POPシングル ウィークリーTOP30」発表。1位はCANDY TUNE『総意♡So Free / スペシャル感謝祭』、予約1位は原因は自分にある。『ラブリーズン』（2026年10月1日付）",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/10/01/tg002",
+        "publishedAt": "2026-10-01T10:00:00.000Z",
+        "summary": "",
+        "groups": [
+          "原因は自分にある。"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "15fb9ee4d3775ce2",
+        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
         "sourceName": "Bezzy",
         "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/10/92796/",
-        "publishedAt": "2026-10-02T03:00:00.000Z",
-        "summary": "高橋大輔と草川拓弥がダブル主演を務める舞台『ウルフムーン』ー狼月に昇るーが2027年1月より東京と大阪で上演されることが決定した。 本作で演出を担うのは、数々の舞台に出演し俳優として培った現場感覚を生かしながら、演出家としても実績を重ねる福士誠治。脚本は、映画『かぐや姫の物語』やミュージカル『梨泰院クラス』『四月は君の嘘』、映画『てっぺんの向こうにあなたがい",
+        "articleUrl": "https://bezzy.jp/2026/07/89645/",
+        "publishedAt": "2026-07-24T12:00:00.000Z",
+        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
         "groups": [
-          "超特急"
+          "原因は自分にある。",
+          "BUDDiiS"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "タクヤ",
-            "group": "超特急",
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
             "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "471946451d042b7e",
-        "title": "超特急の新曲テーマは“ユーロビート×干支”、24thシングル『エトランス・フィーバー』12月発売",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/09/92770/",
-        "publishedAt": "2026-09-30T10:00:00.000Z",
-        "summary": "9人組メインダンサー＆バックボーカルグループ・超特急が、24枚目のシングル『エトランス・フィーバー』を12月16日(水)にリリース。表題曲「エトランス・フィーバー」を10月12日(月)0時より先行配信することが発表された。 11月に待望の東京ドーム2Days公演を控える超特急の次作は、ユーロビート×干支という意外な組み合わせから生まれた新たなトンチキソング。",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "47f16c975ff422cd",
-        "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11607/",
-        "publishedAt": "2026-09-02T12:34:24.000Z",
-        "summary": "平素より株式会社SDR所属アーティストへの温かいご声援を賜り、誠にありがとうございます。 DISH//、EBiDAN（超特急、M!LK、SUPER★DRAGON、Sakurashimeji、ONE N’ ON […] The post グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ first appeared on SUPER★DRAGO",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK",
-          "SUPER★DRAGON",
-          "Sakurashimeji"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "397a635043a0e0e2",
-        "title": "映画『ワンダンス』新キャストにGirls2山口綺羅、MAZZEL・RAN、TSUKKI、超特急・髙松アロハ",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/07/89594/",
-        "publishedAt": "2026-07-22T09:00:00.000Z",
-        "summary": "11月27日(金)に公開されるJO（&TEAM）初主演映画『ワンダンス』の新キャストとして山口綺羅（Girls2）、RAN（MAZZEL）、現役DリーガーのTSUKKI、髙松アロハ（超特急）が出演することが発表された。 原作は単行本累計発行部数110万部を突破し「月刊アフタヌーン」（講談社）で連載中の珈琲による同名漫画。ダンサーからも熱く支持され、昨年放送さ",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
+          },
           {
-            "name": "アロハ",
-            "group": "超特急",
+            "name": "SHOOT",
+            "group": "BUDDiiS",
             "status": "active"
           }
         ]
-      },
-      {
-        "id": "382225983e9781d4",
-        "title": "8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 7月2日からの先行配信リリースに合わせて デジタルキャンペーンが追加決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11354/",
-        "publishedAt": "2026-07-01T06:00:22.000Z",
-        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して8月11日(火・祝)にリリースされる「Yes! 東京」が、いよいよ7月2日（木）より先行配信リリースとなります。超特急、M!LK、SUPER★DRAGON、Sakur […] The post 8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 7月2日からの先行配信リリースに合わせて デ",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
       }
     ],
     "BUDDiiS": [

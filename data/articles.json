@@ -1,36 +1,148 @@
 {
-  "updatedAt": "2026-10-06T06:19:56.849Z",
+  "updatedAt": "2026-10-06T18:21:44.724Z",
   "articles": [
     {
-      "id": "6c4b96f9ea8c5834",
-      "title": "観月ありさ、息子役・ひょうろくに強めの蹴り すねや顔面も…本人「最高でした」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1077660/",
-      "publishedAt": "2026-10-06T03:31:41.000Z",
-      "summary": "俳優の観月ありさが6日、都内で行われた中京テレビ・日本テレビ系連続ドラマ『仮面教師～妻を亡くしたその日から』（7日スタート、水曜深夜0時24分）の制作発表記者会見に、ダブル主演の浅香航大と杢代和人、北乃きい、ひょうろくと […]",
+      "id": "b7124dc7287517c1",
+      "title": "M!LK、冠バラエティ『M!LKの爆裂ミッション』レギュラー化決定 特番内でサプライズ発表",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/10/post-2545092.html",
+      "publishedAt": "2026-10-06T13:55:50.000Z",
+      "summary": "M!LKの冠バラエティ番組『M!LKの爆裂ミッション』（TBS）が、10月24日14時よりレギュラー番組として放送される。 本番組は、いま世の中で話題になっているもの、言われてみれば結果が気になるものに“爆裂ミッショ",
       "groups": [
-        "原因は自分にある。"
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "d3a3c00267c3bd00",
+      "title": "『M!LKの爆裂ミッション』待望のレギュラー化が決定！「楽しく、頑張り“滅”！」（塩﨑太智）",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000894510/",
+      "publishedAt": "2026-10-06T13:55:47.000Z",
+      "summary": "M!LKが出演する『M!LKの爆裂ミッション』が、レギュラー番組として10月24日14時からTBSにて放...",
+      "groups": [
+        "M!LK"
       ],
       "statuses": [
         "active"
       ],
       "memberMatches": [
         {
-          "name": "杢代和人",
-          "group": "原因は自分にある。",
+          "name": "塩﨑太智",
+          "group": "M!LK",
           "status": "active"
         }
       ]
     },
     {
-      "id": "5e66c9c2bb2f3f1d",
-      "title": "M!LK吉田仁人とBALLISTIK BOYZ松井利樹が肩を寄せてダブルピース！“同じダンスチーム出身”の2ショットに「レアすぎる」「激アツ」「推しと推し」「ふたりともかわいい」の声",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000894372/",
-      "publishedAt": "2026-10-06T03:24:30.000Z",
-      "summary": "『Venue101』（NHK）の公式Xが更新され、M!LKの吉田仁人とBALLISTIK BOYZの松井利樹の2ショッ...",
+      "id": "21b91d2701bacbc8",
+      "title": "「M！LKの爆裂ミッション」レギュラー化決定 まさかのハプニングで決定明かされる大波乱",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202610060001135.html",
+      "publishedAt": "2026-10-06T13:55:00.000Z",
+      "summary": "5人組ダンスボーカルグループ、M！LKの冠番組「M！LKの爆裂ミッション」が、TBS系土曜午後2時のレギュラー番組として24日から放送開始される。6日放送の第2弾特番内で発表された。 衝撃の発表は番組終了間際に行われた。スタジオに巨大な…",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "90eaefe1c422551f",
+      "title": "M!LK、冠番組がレギュラー化「一緒に成長していける番組を作りたい」 24日スタート",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1077691/",
+      "publishedAt": "2026-10-06T13:55:00.000Z",
+      "summary": "5人組ダンスボーカルグループ・M!LK（佐野勇斗、塩﨑太智、曽野舜太、山中柔太朗、吉田仁人）の冠番組『M!LKの爆裂ミッション』がレギュラー化され、24日午後2時よりTBSで放送スタートすることが6日、発表された。TBS […]",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "塩﨑太智",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "曽野舜太",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "58e75cd8368ad3b1",
+      "title": "Spotify、日本上陸10年を振り返るSPライブ開催 出演者第1弾にSTUTS、マカロニえんぴつ、M!LK",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/10/post-2545013.html",
+      "publishedAt": "2026-10-06T11:26:35.000Z",
+      "summary": "Spotifyが、ライブイベント『Spotify On Stage Tokyo 2026 -10th Anniversary Special-』を12月20日に東京ガーデンシアターにて開催する。 今年で2回目の開催と",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "7c5e0adb37af749c",
+      "title": "EXILE、オリジナルメンバー再集結！『CDTVライブ！ライブ！』で全13曲のEXILEフェス開催",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/tv/672434.html",
+      "publishedAt": "2026-10-06T11:00:49.000Z",
+      "summary": "10月12日18時30分から放送されるTBS系『CDTVライブ！ライブ！』で、EXILEによるEXILEフェスが開催される。番組は2時間半の生放送で、スピッツ、Travis Japan、森七菜、≒JOY、Number_i、超特急、TMG、AKINOらも出演する。結成25 ... The post EXILE、オリジナルメンバー再集結！『CDTVライブ！ライブ",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "c60a94d7a7ff8337",
+      "title": "M!LK、TVアニメ「超巡！超条先輩」OPテーマ楽曲“ザッツ！超常”10月26日配信リリース決定",
+      "sourceName": "タワーレコード ニュース",
+      "sourceUrl": "https://tower.jp/feeds/article/news",
+      "articleUrl": "https://tower.jp/article/news/2026/10/06/tg010",
+      "publishedAt": "2026-10-06T10:50:00.000Z",
+      "summary": "",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "a332962d45ceda3d",
+      "title": "吉田仁人（M!LK）、主演務める新金曜ドラマ「溺愛 ～ 実は、最強ヒーロー ～」キー・ヴィジュアル公開",
+      "sourceName": "タワーレコード ニュース",
+      "sourceUrl": "https://tower.jp/feeds/article/news",
+      "articleUrl": "https://tower.jp/article/news/2026/10/06/tg006",
+      "publishedAt": "2026-10-06T10:15:00.000Z",
+      "summary": "",
       "groups": [
         "M!LK"
       ],
@@ -46,35 +158,49 @@
       ]
     },
     {
-      "id": "71748e964fa5ccbb",
-      "title": "ひょうろく、観月ありさの息子役に「ラッキー」 “似てない”と自虐も意欲「今後の人生ないな」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1077614/",
-      "publishedAt": "2026-10-06T02:55:33.000Z",
-      "summary": "お笑い芸人のひょうろくが6日、都内で行われた中京テレビ・日本テレビ系連続ドラマ『仮面教師～妻を亡くしたその日から』（7日スタート、水曜深夜0時24分）の制作発表記者会見に、ダブル主演の浅香航大と杢代和人、北乃きい、観月あ […]",
+      "id": "6476bab761048b21",
+      "title": "M!LK新曲「ザッツ！超常」配信リリース決定！TVアニメ『超巡！超条先輩』OPテーマ曲",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000894290/",
+      "publishedAt": "2026-10-06T10:00:35.000Z",
+      "summary": "M!LKの新曲「ザッツ！超常」が、10月26日0時より配信リリースされることが決定した。 ■『超巡...",
       "groups": [
-        "原因は自分にある。"
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "e5a081b27ffd8c55",
+      "title": "jjean、デジタルシングル『superstar』リリースパーティーを開催！映画を作るようにライブを作るテーマも実現した自身の目指すライブに！",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/music2/672429.html",
+      "publishedAt": "2026-10-06T10:00:13.000Z",
+      "summary": "9人組ミクスチャーユニット・SUPER★DRAGONのボーカル＆ラッパーとして活動し、数多くの曲で作詞や作曲も担当しているジャン海渡が、ソロ名義のjjeanとしてデジタルシングル『superstar』を9月9日に発表。そのリリースパーティーを10月5日に東京・Spoti ... The post jjean、デジタルシングル『superstar』リリースパー",
+      "groups": [
+        "SUPER★DRAGON"
       ],
       "statuses": [
         "active"
       ],
       "memberMatches": [
         {
-          "name": "杢代和人",
-          "group": "原因は自分にある。",
+          "name": "ジャン海渡",
+          "group": "SUPER★DRAGON",
           "status": "active"
         }
       ]
     },
     {
-      "id": "697b8424845277a9",
-      "title": "M!LK 佐野勇斗、リベンジ誓う“始球式”の1日を公開 特訓を重ねる姿に「変わらず謙虚で努力家」「あまりにも少年で可愛い」",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/10/post-2543804.html",
-      "publishedAt": "2026-10-05T20:50:35.000Z",
-      "summary": "M!LKの佐野勇斗が、自身のYouTubeチャンネルに「【大暴投】始球式」を10月3日に更新。6月5日にバンテリンドーム ナゴヤで開催された中日ドラゴンズ対埼玉西武ライオンズ戦の始球式の裏側を公開している。",
+      "id": "821c69277610488d",
+      "title": "「み! るきーずの宝物」「最高のエンタメ」「誰考えたの神と思ってたら…」M!LKがMステで見せたパフォーマンスの裏側にファン感謝 考案者は佐野勇斗「俺らがやったら絶対…」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261006-5063217/",
+      "publishedAt": "2026-10-06T10:00:00.000Z",
+      "summary": "M!LKの佐野勇斗が、自身のYouTubeチャンネル『佐野勇斗だぞ』を更新。テレビ朝日系『ミュージックステーション』で披露した“ペンギン姿”の舞台裏を明かした。",
       "groups": [
         "M!LK"
       ],
@@ -85,6 +211,76 @@
         {
           "name": "佐野勇斗",
           "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "eb14c40b8abcddc2",
+      "title": "M!LK、TVアニメ『超巡！超条先輩』OPテーマ「ザッツ！超常」配信決定",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1092814",
+      "publishedAt": "2026-10-06T10:00:00.000Z",
+      "summary": "M!LKが、新曲「ザッツ！超常」を2026年10月26日0時より配信リリースすることを発表した。 本楽曲は、“あなたとならなんでもできる！”と歌うハッピーなディスコチューン。「一人ではできないこともあなたとなら乗り越えられる」というポジティブなメッセージ、デコボコな二人だからこそ生まれる化学反応、何気ない毎日の中で気がつく小さな幸せが歌われた作品に仕上がって",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "a36f33b2e680d504",
+      "title": "M!LK新曲「ザッツ！超常」10月26日配信、あなたとならなんでもできる！と歌うディスコチューン",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/10/92949/",
+      "publishedAt": "2026-10-06T10:00:00.000Z",
+      "summary": "5人組ダンスボーカルグループ・M!LKの新曲「ザッツ！超常」が10月26日(月)0時に配信リリースされることが決定した。 あなたとならなんでもできる！と歌う「ザッツ！超常」は、“一人ではできないこともあなたとなら乗り越えられる”というポジティブなメッセージ、デコボコな二人に生まれる化学反応、何気ない毎日の中で気がつく小さな幸せを描くハッピーなディスコチューン",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "0a6bc3b4cc337ec3",
+      "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』機材開放先着販売 決定！",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news11738/",
+      "publishedAt": "2026-10-06T08:00:16.000Z",
+      "summary": "SOLD OUTとなっておりました第6回EBiDAN大運動会『スポーツマンヒップ！』につきまして、 機材席の一部開放に伴い、若干数ではございますが、追加販売が決定いたしました。 10月8日(木)18:00より〈先着〉にて […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』機材開放先着販売 決定！ first appeared on ",
+      "groups": [
+        "EBiDAN",
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "2591585dfda85389",
+      "title": "NHK『The Covers 秋フェス』セットリスト解禁！超特急（タカシ・シューヤ）、柴咲コウ、スタ☆レビ、トータス松本、平原綾香が豪華競演",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000894302/",
+      "publishedAt": "2026-10-06T06:55:00.000Z",
+      "summary": "NHK『The Covers』がおくる“名曲の祭典”『カバーズ・フェス』の模様が、10月15日に総合テレビ...",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "タカシ",
+          "group": "超特急",
+          "status": "active"
+        },
+        {
+          "name": "シューヤ",
+          "group": "超特急",
           "status": "active"
         }
       ]
@@ -385,43 +581,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "fc6309e3e1f4a091",
-      "title": "日曜トライアル 第44回 10月は冠特番&ドラマ出演ラッシュ――M!LK、地上波でも高まる存在感 メンバー個人の躍進も目立つ",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/sunday_trial-44/",
-      "publishedAt": "2026-09-27T10:00:00.000Z",
-      "summary": "「イイじゃん」「好きすぎて滅!」「爆裂愛してる」などのヒットをきっかけに大きな飛躍を遂げた5人組ダンスボーカルグループ・M!LK。2025年末には『第76回NHK紅白歌合戦』への初出場も果たし、その勢いは2026年に入っても加速している。そんなM!LKが、10月に地上波で存在感を発揮しそうだ。グループとしてはGP帯冠バラエティ特番の第2弾が放送されるほか、塩",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "塩﨑太智",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "山中柔太朗",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "f2ba5a9ce903cd75",
@@ -1260,28 +1419,6 @@
       ]
     },
     {
-      "id": "397a635043a0e0e2",
-      "title": "映画『ワンダンス』新キャストにGirls2山口綺羅、MAZZEL・RAN、TSUKKI、超特急・髙松アロハ",
-      "sourceName": "Bezzy",
-      "sourceUrl": "https://bezzy.jp/feed/",
-      "articleUrl": "https://bezzy.jp/2026/07/89594/",
-      "publishedAt": "2026-07-22T09:00:00.000Z",
-      "summary": "11月27日(金)に公開されるJO（&TEAM）初主演映画『ワンダンス』の新キャストとして山口綺羅（Girls2）、RAN（MAZZEL）、現役DリーガーのTSUKKI、髙松アロハ（超特急）が出演することが発表された。 原作は単行本累計発行部数110万部を突破し「月刊アフタヌーン」（講談社）で連載中の珈琲による同名漫画。ダンサーからも熱く支持され、昨年放送さ",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "アロハ",
-          "group": "超特急",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "54453213202c0367",
       "title": "7/24(金)出演『テレビ朝日・六本木ヒルズ SUMMER FES』SUPER★DRAGONオフィシャルグッズ会場販売のお知らせ",
       "sourceName": "SUPER★DRAGON 公式NEWS",
@@ -2085,20 +2222,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "b0c33ae6cd4f1fe1",
-      "title": "Major 6th Single「Call Me Asap / NUMBER」発売記念インストアイベント開催決定！",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news11113/",
-      "publishedAt": "2026-06-01T10:59:19.000Z",
-      "summary": "【場所】 タワーレコード渋谷店 B1F CUTUP STUDIO 【開催日時】 渋谷店：2026年7月14日(火) 集合場所：タワーレコード渋谷店 1F階段前 18:40 集合 19:00 開始 メンバー全 […] The post Major 6th Single「Call Me Asap / NUMBER」発売記念インストアイベント開催決定！ first",
-      "groups": [
-        "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
     }
   ]
 }
