@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-07T13:22:24.034Z",
+  "updatedAt": "2026-10-07T23:04:59.715Z",
   "totals": {
-    "all": 128,
-    "today": 10,
-    "week": 24
+    "all": 129,
+    "today": 2,
+    "week": 25
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 10
+      "count": 11
     },
     {
       "name": "SUPER★DRAGON",
@@ -27,11 +27,11 @@
       "count": 3
     },
     {
-      "name": "BUDDiiS",
+      "name": "ICEx",
       "count": 1
     },
     {
-      "name": "ICEx",
+      "name": "ONE N' ONLY",
       "count": 1
     }
   ],
@@ -99,6 +99,10 @@
       "count": 2
     },
     {
+      "name": "THE FIRST TIMES",
+      "count": 2
+    },
+    {
       "name": "WWSチャンネル",
       "count": 2
     },
@@ -107,17 +111,43 @@
       "count": 2
     },
     {
-      "name": "BARKS",
-      "count": 1
-    },
-    {
-      "name": "THE FIRST TIMES",
+      "name": "リアルサウンド 音楽",
       "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
+    "ONE N' ONLY": [
+      {
+        "id": "a96bc12d24efbed8",
+        "title": "ONE N' ONLY初の冠番組が放送スタート！初回放送ではメンバーがバンジージャンプにフルアウト（全力）で挑む",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000895659/",
+        "publishedAt": "2026-10-07T23:00:08.000Z",
+        "summary": "ONE N’ ONLYの初冠レギュラー番組『ONE N’ ONLYのフルアウトTV』が、TBSにていよ...",
+        "groups": [
+          "ONE N' ONLY"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
     "M!LK": [
+      {
+        "id": "0606397a54f6d18e",
+        "title": "M!LKとモナキのヒットの違い、そして共通点から考える 時代が求めた“熱い”メッセージ",
+        "sourceName": "リアルサウンド 音楽",
+        "sourceUrl": "https://realsound.jp/music/feed",
+        "articleUrl": "https://realsound.jp/2026/10/post-2545629.html",
+        "publishedAt": "2026-10-07T20:50:31.000Z",
+        "summary": "2026年の日本の音楽シーンを語る時、M!LKとモナキの名前を外すことはできない。どちらもTikTokをはじめとしたショート動画SNSを起点としたバイラルヒットでブレイクを果たしたが、そのヒットの仕方に違いはあるのか？ 検証する。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
       {
         "id": "cf896adf5d11211d",
         "title": "M!LK山中柔太朗が内に秘めた“とがった部分”を表現 モードなハイファッションをまとう",
@@ -202,64 +232,6 @@
           {
             "name": "曽野舜太",
             "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "c60a94d7a7ff8337",
-        "title": "M!LK、TVアニメ「超巡！超条先輩」OPテーマ楽曲“ザッツ！超常”10月26日配信リリース決定",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/10/06/tg010",
-        "publishedAt": "2026-10-06T10:50:00.000Z",
-        "summary": "",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "BUDDiiS": [
-      {
-        "id": "1358aa34db7b4208",
-        "title": "こたに、TVアニメ『貸した魔力は【リボ払い】で強制徴収』ED主題歌「いれもの」MV公開",
-        "sourceName": "BARKS",
-        "sourceUrl": "https://www.barks.jp/feed/",
-        "articleUrl": "https://barks.jp/news/1093067",
-        "publishedAt": "2026-10-07T11:00:00.000Z",
-        "summary": "名誉伝説のボーカリストとしても活躍するこたにが、新曲「いれもの」のMVを公開した。 本楽曲は、テレビ朝日系全国24局ネットにて現在放送中のTVアニメ『貸した魔力は【リボ払い】で強制徴収』エンディング主題歌として起用されており、2026年10月4日にリリースされたばかり。 こたにソロ楽曲として初のアニメタイアップ曲であり、アレンジ・プロデュースにクラムボンのミ",
-        "groups": [
-          "BUDDiiS"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "15fb9ee4d3775ce2",
-        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/07/89645/",
-        "publishedAt": "2026-07-24T12:00:00.000Z",
-        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
-        "groups": [
-          "原因は自分にある。",
-          "BUDDiiS"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "SHOOT",
-            "group": "BUDDiiS",
             "status": "active"
           }
         ]
@@ -721,6 +693,36 @@
         ],
         "statuses": [],
         "memberMatches": []
+      }
+    ],
+    "BUDDiiS": [
+      {
+        "id": "15fb9ee4d3775ce2",
+        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/07/89645/",
+        "publishedAt": "2026-07-24T12:00:00.000Z",
+        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
+        "groups": [
+          "原因は自分にある。",
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
       }
     ]
   }
