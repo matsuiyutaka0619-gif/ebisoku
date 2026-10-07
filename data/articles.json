@@ -1,6 +1,131 @@
 {
-  "updatedAt": "2026-10-07T05:58:47.548Z",
+  "updatedAt": "2026-10-07T13:22:24.031Z",
   "articles": [
+    {
+      "id": "cf896adf5d11211d",
+      "title": "M!LK山中柔太朗が内に秘めた“とがった部分”を表現 モードなハイファッションをまとう",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261007-5089762/",
+      "publishedAt": "2026-10-07T11:30:00.000Z",
+      "summary": "5人組ダンスボーカルグループ・M!LKの山中柔太朗が、9日発売の女性ファッション誌『sweet』2026年11月号(宝島社)の表紙と巻頭特集に単独初登場する。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "1358aa34db7b4208",
+      "title": "こたに、TVアニメ『貸した魔力は【リボ払い】で強制徴収』ED主題歌「いれもの」MV公開",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1093067",
+      "publishedAt": "2026-10-07T11:00:00.000Z",
+      "summary": "名誉伝説のボーカリストとしても活躍するこたにが、新曲「いれもの」のMVを公開した。 本楽曲は、テレビ朝日系全国24局ネットにて現在放送中のTVアニメ『貸した魔力は【リボ払い】で強制徴収』エンディング主題歌として起用されており、2026年10月4日にリリースされたばかり。 こたにソロ楽曲として初のアニメタイアップ曲であり、アレンジ・プロデュースにクラムボンのミ",
+      "groups": [
+        "BUDDiiS"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "fa57fb2892f773dd",
+      "title": "「めっちゃ愛しい」「一生一緒にいて」「過去最高に尊くて涙」「神回すぎる」“M!LKメンバーに無関心”な吉田仁人、その理由にファン感動…友達を“作らない”理由も明かす",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261007-5063291/",
+      "publishedAt": "2026-10-07T10:00:00.000Z",
+      "summary": "「家族とかM!LKに関しては無関心なのよ」――。アイドルグループ・M!LKの吉田仁人が、9月29日に更新されたYouTubeチャンネル『じんだいチャンネル』に出演。メンバーへの思いを赤裸々に語り、ファンから感動の声が上がっている。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "fef8be28758194fc",
+      "title": "EBiDAN「Yes! 東京」のMVが1億回再生を突破！「原宿の路上から始まったあのEBiDANが…。感無量です」（超特急リョウガ）",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000895594/",
+      "publishedAt": "2026-10-07T09:40:55.000Z",
+      "summary": "EBiDAN（恵比寿学園男子部）の15周年を記念した楽曲「Yes! 東京」のMVが、7月2日の公開から約3...",
+      "groups": [
+        "EBiDAN",
+        "超特急"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "リョウガ",
+          "group": "超特急",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "b6d529b4ef38cc6a",
+      "title": "「もっと近くに僕を感じて…」M!LK曽野舜太、ソロ初写真集で見せた“飾り気のないそのまんま” 全編イタリアロケで“彼氏感”",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261007-5089147/",
+      "publishedAt": "2026-10-07T09:00:00.000Z",
+      "summary": "5人組ダンスボーカルグループ・M!LKの曽野舜太が、1st写真集『曽野まんま』を12月18日に発売することが7日、発表された。曽野にとって初のソロ写真集となる。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "曽野舜太",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "1a13c1cbc358018f",
+      "title": "爆発の衝撃で負傷の女性准教授が4階に取り残され、水も消火器も通用しない炎の壁…『俺たちの箱根駅伝』小林虎之介・奥智哉・杢代和人が『突破ファイル』で救出劇",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261007-5089771/",
+      "publishedAt": "2026-10-07T09:00:00.000Z",
+      "summary": "8日に放送される日本テレビ系バラエティ番組『THE突破ファイル』(毎週木曜19:00～)の2時間SPで、10日スタートの同局系ドラマ『俺たちの箱根駅伝』(毎週土曜21:00～)とのコラボが展開される。",
+      "groups": [
+        "原因は自分にある。"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "杢代和人",
+          "group": "原因は自分にある。",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "5b6a31571673f834",
       "title": "曽野舜太、1st写真集「曽野まんま」発売決定。イタリア3都市を舞台に飾らない「そのまんま」映し出した作品",
@@ -26,8 +151,8 @@
     {
       "id": "c004a3f80c223869",
       "title": "浅香航大、復讐に燃える教師役で新境地 W主演・杢代和人も「成長できる作品になる」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
       "articleUrl": "https://news.mynavi.jp/article/20261007-5086316/",
       "publishedAt": "2026-10-06T22:00:00.000Z",
       "summary": "俳優の浅香航大と原因は自分にある。の杢代和人が6日、都内で行われた中京テレビ・日本テレビ系ドラマ『仮面教師～妻を亡くしたその日から』(7日スタート、毎週水曜24:24～)の制作発表記者会見に、北乃きい、ひょうろく、観月ありさとともに登壇した。",
@@ -48,8 +173,8 @@
     {
       "id": "69b47fa076410af6",
       "title": "観月ありさ、ひょうろくに顔面キック 本人は歓喜「やったー!」「最高でした」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
       "articleUrl": "https://news.mynavi.jp/article/20261007-5086308/",
       "publishedAt": "2026-10-06T21:00:00.000Z",
       "summary": "観月ありさとひょうろくが6日、都内で行われた中京テレビ・日本テレビ系ドラマ『仮面教師～妻を亡くしたその日から』(7日スタート、毎週水曜24:24～)の制作発表記者会見に、浅香航大、杢代和人、北乃きいとともに登壇した。",
@@ -70,8 +195,8 @@
     {
       "id": "1a891c9b5504c44e",
       "title": "浅香航大、誕生日に朝から晩まで泣いて怒る撮影「俺がこの日に生まれたのが…」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
       "articleUrl": "https://news.mynavi.jp/article/20261007-5086263/",
       "publishedAt": "2026-10-06T20:00:00.000Z",
       "summary": "浅香航大が6日、都内で行われた中京テレビ・日本テレビ系ドラマ『仮面教師～妻を亡くしたその日から』(7日スタート、毎週水曜24:24～)の制作発表記者会見に、杢代和人、北乃きい、ひょうろく、観月ありさとともに登壇した。",
@@ -259,47 +384,6 @@
       "memberMatches": [
         {
           "name": "山中柔太朗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "3214fb52e317dd78",
-      "title": "「J-POPアルバム 9月度マンスリーTOP30」発表。1位はM!LK『LOVE ENG!NE』",
-      "sourceName": "タワーレコード ニュース",
-      "sourceUrl": "https://tower.jp/feeds/article/news",
-      "articleUrl": "https://tower.jp/article/news/2026/10/02/tg004",
-      "publishedAt": "2026-10-02T10:00:00.000Z",
-      "summary": "",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "94cc6bd16dc327b8",
-      "title": "曽野舜太＆吉田仁人（M!LK）、「E-line MASK」新イメージ・キャラクターに就任。WEB CM公開",
-      "sourceName": "タワーレコード ニュース",
-      "sourceUrl": "https://tower.jp/feeds/article/news",
-      "articleUrl": "https://tower.jp/article/news/2026/10/02/tg002",
-      "publishedAt": "2026-10-02T09:30:00.000Z",
-      "summary": "",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "曽野舜太",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "吉田仁人",
           "group": "M!LK",
           "status": "active"
         }
