@@ -1,28 +1,14 @@
 {
-  "updatedAt": "2026-10-06T18:21:44.724Z",
+  "updatedAt": "2026-10-07T05:58:47.548Z",
   "articles": [
     {
-      "id": "b7124dc7287517c1",
-      "title": "M!LK、冠バラエティ『M!LKの爆裂ミッション』レギュラー化決定 特番内でサプライズ発表",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/10/post-2545092.html",
-      "publishedAt": "2026-10-06T13:55:50.000Z",
-      "summary": "M!LKの冠バラエティ番組『M!LKの爆裂ミッション』（TBS）が、10月24日14時よりレギュラー番組として放送される。 本番組は、いま世の中で話題になっているもの、言われてみれば結果が気になるものに“爆裂ミッショ",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "d3a3c00267c3bd00",
-      "title": "『M!LKの爆裂ミッション』待望のレギュラー化が決定！「楽しく、頑張り“滅”！」（塩﨑太智）",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000894510/",
-      "publishedAt": "2026-10-06T13:55:47.000Z",
-      "summary": "M!LKが出演する『M!LKの爆裂ミッション』が、レギュラー番組として10月24日14時からTBSにて放...",
+      "id": "5b6a31571673f834",
+      "title": "曽野舜太、1st写真集「曽野まんま」発売決定。イタリア3都市を舞台に飾らない「そのまんま」映し出した作品",
+      "sourceName": "タワーレコード ニュース",
+      "sourceUrl": "https://tower.jp/feeds/article/news",
+      "articleUrl": "https://tower.jp/article/news/2026/10/07/tgb005",
+      "publishedAt": "2026-10-07T04:00:00.000Z",
+      "summary": "",
       "groups": [
         "M!LK"
       ],
@@ -30,82 +16,78 @@
         "active"
       ],
       "memberMatches": [
-        {
-          "name": "塩﨑太智",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "21b91d2701bacbc8",
-      "title": "「M！LKの爆裂ミッション」レギュラー化決定 まさかのハプニングで決定明かされる大波乱",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202610060001135.html",
-      "publishedAt": "2026-10-06T13:55:00.000Z",
-      "summary": "5人組ダンスボーカルグループ、M！LKの冠番組「M！LKの爆裂ミッション」が、TBS系土曜午後2時のレギュラー番組として24日から放送開始される。6日放送の第2弾特番内で発表された。 衝撃の発表は番組終了間際に行われた。スタジオに巨大な…",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "90eaefe1c422551f",
-      "title": "M!LK、冠番組がレギュラー化「一緒に成長していける番組を作りたい」 24日スタート",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1077691/",
-      "publishedAt": "2026-10-06T13:55:00.000Z",
-      "summary": "5人組ダンスボーカルグループ・M!LK（佐野勇斗、塩﨑太智、曽野舜太、山中柔太朗、吉田仁人）の冠番組『M!LKの爆裂ミッション』がレギュラー化され、24日午後2時よりTBSで放送スタートすることが6日、発表された。TBS […]",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "塩﨑太智",
-          "group": "M!LK",
-          "status": "active"
-        },
         {
           "name": "曽野舜太",
           "group": "M!LK",
           "status": "active"
-        },
+        }
+      ]
+    },
+    {
+      "id": "c004a3f80c223869",
+      "title": "浅香航大、復讐に燃える教師役で新境地 W主演・杢代和人も「成長できる作品になる」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261007-5086316/",
+      "publishedAt": "2026-10-06T22:00:00.000Z",
+      "summary": "俳優の浅香航大と原因は自分にある。の杢代和人が6日、都内で行われた中京テレビ・日本テレビ系ドラマ『仮面教師～妻を亡くしたその日から』(7日スタート、毎週水曜24:24～)の制作発表記者会見に、北乃きい、ひょうろく、観月ありさとともに登壇した。",
+      "groups": [
+        "原因は自分にある。"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
         {
-          "name": "山中柔太朗",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
+          "name": "杢代和人",
+          "group": "原因は自分にある。",
           "status": "active"
         }
       ]
     },
     {
-      "id": "58e75cd8368ad3b1",
-      "title": "Spotify、日本上陸10年を振り返るSPライブ開催 出演者第1弾にSTUTS、マカロニえんぴつ、M!LK",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/10/post-2545013.html",
-      "publishedAt": "2026-10-06T11:26:35.000Z",
-      "summary": "Spotifyが、ライブイベント『Spotify On Stage Tokyo 2026 -10th Anniversary Special-』を12月20日に東京ガーデンシアターにて開催する。 今年で2回目の開催と",
+      "id": "69b47fa076410af6",
+      "title": "観月ありさ、ひょうろくに顔面キック 本人は歓喜「やったー!」「最高でした」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261007-5086308/",
+      "publishedAt": "2026-10-06T21:00:00.000Z",
+      "summary": "観月ありさとひょうろくが6日、都内で行われた中京テレビ・日本テレビ系ドラマ『仮面教師～妻を亡くしたその日から』(7日スタート、毎週水曜24:24～)の制作発表記者会見に、浅香航大、杢代和人、北乃きいとともに登壇した。",
       "groups": [
-        "M!LK"
+        "原因は自分にある。"
       ],
-      "statuses": [],
-      "memberMatches": []
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "杢代和人",
+          "group": "原因は自分にある。",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "1a891c9b5504c44e",
+      "title": "浅香航大、誕生日に朝から晩まで泣いて怒る撮影「俺がこの日に生まれたのが…」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261007-5086263/",
+      "publishedAt": "2026-10-06T20:00:00.000Z",
+      "summary": "浅香航大が6日、都内で行われた中京テレビ・日本テレビ系ドラマ『仮面教師～妻を亡くしたその日から』(7日スタート、毎週水曜24:24～)の制作発表記者会見に、杢代和人、北乃きい、ひょうろく、観月ありさとともに登壇した。",
+      "groups": [
+        "原因は自分にある。"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "杢代和人",
+          "group": "原因は自分にある。",
+          "status": "active"
+        }
+      ]
     },
     {
       "id": "7c5e0adb37af749c",
@@ -158,20 +140,6 @@
       ]
     },
     {
-      "id": "6476bab761048b21",
-      "title": "M!LK新曲「ザッツ！超常」配信リリース決定！TVアニメ『超巡！超条先輩』OPテーマ曲",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000894290/",
-      "publishedAt": "2026-10-06T10:00:35.000Z",
-      "summary": "M!LKの新曲「ザッツ！超常」が、10月26日0時より配信リリースされることが決定した。 ■『超巡...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
       "id": "e5a081b27ffd8c55",
       "title": "jjean、デジタルシングル『superstar』リリースパーティーを開催！映画を作るようにライブを作るテーマも実現した自身の目指すライブに！",
       "sourceName": "WWSチャンネル",
@@ -192,42 +160,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "821c69277610488d",
-      "title": "「み! るきーずの宝物」「最高のエンタメ」「誰考えたの神と思ってたら…」M!LKがMステで見せたパフォーマンスの裏側にファン感謝 考案者は佐野勇斗「俺らがやったら絶対…」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-      "articleUrl": "https://news.mynavi.jp/article/20261006-5063217/",
-      "publishedAt": "2026-10-06T10:00:00.000Z",
-      "summary": "M!LKの佐野勇斗が、自身のYouTubeチャンネル『佐野勇斗だぞ』を更新。テレビ朝日系『ミュージックステーション』で披露した“ペンギン姿”の舞台裏を明かした。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "eb14c40b8abcddc2",
-      "title": "M!LK、TVアニメ『超巡！超条先輩』OPテーマ「ザッツ！超常」配信決定",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1092814",
-      "publishedAt": "2026-10-06T10:00:00.000Z",
-      "summary": "M!LKが、新曲「ザッツ！超常」を2026年10月26日0時より配信リリースすることを発表した。 本楽曲は、“あなたとならなんでもできる！”と歌うハッピーなディスコチューン。「一人ではできないこともあなたとなら乗り越えられる」というポジティブなメッセージ、デコボコな二人だからこそ生まれる化学反応、何気ない毎日の中で気がつく小さな幸せが歌われた作品に仕上がって",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "a36f33b2e680d504",
@@ -259,33 +191,6 @@
       "memberMatches": []
     },
     {
-      "id": "2591585dfda85389",
-      "title": "NHK『The Covers 秋フェス』セットリスト解禁！超特急（タカシ・シューヤ）、柴咲コウ、スタ☆レビ、トータス松本、平原綾香が豪華競演",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000894302/",
-      "publishedAt": "2026-10-06T06:55:00.000Z",
-      "summary": "NHK『The Covers』がおくる“名曲の祭典”『カバーズ・フェス』の模様が、10月15日に総合テレビ...",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "タカシ",
-          "group": "超特急",
-          "status": "active"
-        },
-        {
-          "name": "シューヤ",
-          "group": "超特急",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "a2361a4ff60972aa",
       "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ 会場販売＆整理券配布のお知らせ",
       "sourceName": "SUPER★DRAGON 公式NEWS",
@@ -296,20 +201,6 @@
       "groups": [
         "EBiDAN",
         "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "f29fd8bb568ab87b",
-      "title": "Sakurashimeji、ホールツアー全公演SOLD OUT！初のZeppツアー開催決定",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/music2/672040.html",
-      "publishedAt": "2026-10-04T22:00:55.000Z",
-      "summary": "ギターデュオ・Sakurashimejiが、2027年に初となるZeppツアー『Sakurashimeji ZeppTour+ 2027』を開催することを発表した。現在開催予定の『Sakurashimeji Hall Tour 2027「soup」』は、追加公演となる東 ... The post Sakurashimeji、ホールツアー全公演SOLD OUT",
-      "groups": [
-        "Sakurashimeji"
       ],
       "statuses": [],
       "memberMatches": []
@@ -521,20 +412,6 @@
       "summary": "5人組ダンスボーカルグループ・M!LKとJOYSOUNDのコラボレーションが、1日からスタートした。",
       "groups": [
         "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "652537b51923f86b",
-      "title": "「J-POPシングル ウィークリーTOP30」発表。1位はCANDY TUNE『総意♡So Free / スペシャル感謝祭』、予約1位は原因は自分にある。『ラブリーズン』（2026年10月1日付）",
-      "sourceName": "タワーレコード ニュース",
-      "sourceUrl": "https://tower.jp/feeds/article/news",
-      "articleUrl": "https://tower.jp/article/news/2026/10/01/tg002",
-      "publishedAt": "2026-10-01T10:00:00.000Z",
-      "summary": "",
-      "groups": [
-        "原因は自分にある。"
       ],
       "statuses": [],
       "memberMatches": []

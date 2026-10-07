@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-06T18:21:44.726Z",
+  "updatedAt": "2026-10-07T05:58:47.550Z",
   "totals": {
-    "all": 131,
-    "today": 0,
-    "week": 29
+    "all": 124,
+    "today": 4,
+    "week": 22
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 16
+      "count": 9
     },
     {
       "name": "SUPER★DRAGON",
@@ -19,33 +19,21 @@
       "count": 4
     },
     {
+      "name": "原因は自分にある。",
+      "count": 3
+    },
+    {
       "name": "超特急",
-      "count": 4
+      "count": 3
     },
     {
       "name": "ICEx",
-      "count": 1
-    },
-    {
-      "name": "Sakurashimeji",
-      "count": 1
-    },
-    {
-      "name": "原因は自分にある。",
       "count": 1
     }
   ],
   "memberRanking": [
     {
       "name": "吉田仁人",
-      "count": 4
-    },
-    {
-      "name": "塩﨑太智",
-      "count": 3
-    },
-    {
-      "name": "山中柔太朗",
       "count": 3
     },
     {
@@ -53,19 +41,15 @@
       "count": 3
     },
     {
-      "name": "佐野勇斗",
+      "name": "杢代和人",
+      "count": 3
+    },
+    {
+      "name": "山中柔太朗",
       "count": 2
     },
     {
       "name": "ジャン海渡",
-      "count": 1
-    },
-    {
-      "name": "シューヤ",
-      "count": 1
-    },
-    {
-      "name": "タカシ",
       "count": 1
     },
     {
@@ -74,6 +58,18 @@
     },
     {
       "name": "阿久根温世",
+      "count": 1
+    },
+    {
+      "name": "伊藤壮吾",
+      "count": 1
+    },
+    {
+      "name": "塩﨑太智",
+      "count": 1
+    },
+    {
+      "name": "志賀李玖",
       "count": 1
     }
   ],
@@ -91,31 +87,19 @@
       "count": 3
     },
     {
-      "name": "THE FIRST TIMES",
+      "name": "マイナビニュース エンタメ",
       "count": 3
     },
     {
       "name": "WWSチャンネル",
-      "count": 3
+      "count": 2
     },
     {
       "name": "マイナビニュース 芸能",
       "count": 2
     },
     {
-      "name": "リアルサウンド 音楽",
-      "count": 2
-    },
-    {
-      "name": "BARKS",
-      "count": 1
-    },
-    {
-      "name": "ENCOUNT",
-      "count": 1
-    },
-    {
-      "name": "マイナビニュース エンタメ",
+      "name": "マイナビニュース テレビ",
       "count": 1
     }
   ],
@@ -123,27 +107,13 @@
   "recentByGroup": {
     "M!LK": [
       {
-        "id": "b7124dc7287517c1",
-        "title": "M!LK、冠バラエティ『M!LKの爆裂ミッション』レギュラー化決定 特番内でサプライズ発表",
-        "sourceName": "リアルサウンド 音楽",
-        "sourceUrl": "https://realsound.jp/music/feed",
-        "articleUrl": "https://realsound.jp/2026/10/post-2545092.html",
-        "publishedAt": "2026-10-06T13:55:50.000Z",
-        "summary": "M!LKの冠バラエティ番組『M!LKの爆裂ミッション』（TBS）が、10月24日14時よりレギュラー番組として放送される。 本番組は、いま世の中で話題になっているもの、言われてみれば結果が気になるものに“爆裂ミッショ",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "d3a3c00267c3bd00",
-        "title": "『M!LKの爆裂ミッション』待望のレギュラー化が決定！「楽しく、頑張り“滅”！」（塩﨑太智）",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000894510/",
-        "publishedAt": "2026-10-06T13:55:47.000Z",
-        "summary": "M!LKが出演する『M!LKの爆裂ミッション』が、レギュラー番組として10月24日14時からTBSにて放...",
+        "id": "5b6a31571673f834",
+        "title": "曽野舜太、1st写真集「曽野まんま」発売決定。イタリア3都市を舞台に飾らない「そのまんま」映し出した作品",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/10/07/tgb005",
+        "publishedAt": "2026-10-07T04:00:00.000Z",
+        "summary": "",
         "groups": [
           "M!LK"
         ],
@@ -152,20 +122,20 @@
         ],
         "memberMatches": [
           {
-            "name": "塩﨑太智",
+            "name": "曽野舜太",
             "group": "M!LK",
             "status": "active"
           }
         ]
       },
       {
-        "id": "21b91d2701bacbc8",
-        "title": "「M！LKの爆裂ミッション」レギュラー化決定 まさかのハプニングで決定明かされる大波乱",
-        "sourceName": "日刊スポーツ 芸能",
-        "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-        "articleUrl": "https://www.nikkansports.com/entertainment/news/202610060001135.html",
-        "publishedAt": "2026-10-06T13:55:00.000Z",
-        "summary": "5人組ダンスボーカルグループ、M！LKの冠番組「M！LKの爆裂ミッション」が、TBS系土曜午後2時のレギュラー番組として24日から放送開始される。6日放送の第2弾特番内で発表された。 衝撃の発表は番組終了間際に行われた。スタジオに巨大な…",
+        "id": "c60a94d7a7ff8337",
+        "title": "M!LK、TVアニメ「超巡！超条先輩」OPテーマ楽曲“ザッツ！超常”10月26日配信リリース決定",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/10/06/tg010",
+        "publishedAt": "2026-10-06T10:50:00.000Z",
+        "summary": "",
         "groups": [
           "M!LK"
         ],
@@ -173,13 +143,13 @@
         "memberMatches": []
       },
       {
-        "id": "90eaefe1c422551f",
-        "title": "M!LK、冠番組がレギュラー化「一緒に成長していける番組を作りたい」 24日スタート",
-        "sourceName": "ENCOUNT",
-        "sourceUrl": "https://encount.press/feed/",
-        "articleUrl": "https://encount.press/archives/1077691/",
-        "publishedAt": "2026-10-06T13:55:00.000Z",
-        "summary": "5人組ダンスボーカルグループ・M!LK（佐野勇斗、塩﨑太智、曽野舜太、山中柔太朗、吉田仁人）の冠番組『M!LKの爆裂ミッション』がレギュラー化され、24日午後2時よりTBSで放送スタートすることが6日、発表された。TBS […]",
+        "id": "a332962d45ceda3d",
+        "title": "吉田仁人（M!LK）、主演務める新金曜ドラマ「溺愛 ～ 実は、最強ヒーロー ～」キー・ヴィジュアル公開",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/10/06/tg006",
+        "publishedAt": "2026-10-06T10:15:00.000Z",
+        "summary": "",
         "groups": [
           "M!LK"
         ],
@@ -188,10 +158,41 @@
         ],
         "memberMatches": [
           {
-            "name": "佐野勇斗",
+            "name": "吉田仁人",
             "group": "M!LK",
             "status": "active"
-          },
+          }
+        ]
+      },
+      {
+        "id": "a36f33b2e680d504",
+        "title": "M!LK新曲「ザッツ！超常」10月26日配信、あなたとならなんでもできる！と歌うディスコチューン",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/10/92949/",
+        "publishedAt": "2026-10-06T10:00:00.000Z",
+        "summary": "5人組ダンスボーカルグループ・M!LKの新曲「ザッツ！超常」が10月26日(月)0時に配信リリースされることが決定した。 あなたとならなんでもできる！と歌う「ザッツ！超常」は、“一人ではできないこともあなたとなら乗り越えられる”というポジティブなメッセージ、デコボコな二人に生まれる化学反応、何気ない毎日の中で気がつく小さな幸せを描くハッピーなディスコチューン",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "c32bf91123c657cb",
+        "title": "泳げない塩崎太智＆山中柔太朗、67歳男性の「50m泳ぎたい」に挑む 曽野舜太＆吉田仁人は“M!LK史上最も過酷なロケ”へ",
+        "sourceName": "マイナビニュース テレビ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
+        "articleUrl": "https://news.mynavi.jp/article/20261005-5074397/",
+        "publishedAt": "2026-10-04T22:00:00.000Z",
+        "summary": "「こんなおっさんのために…」――きょう5日に放送される日本テレビ系バラエティ特番『M!LKに言ってみ?』(23:59～)では、M!LKの5人が全国の依頼人から寄せられた悩みを全力で解決。泳げない塩崎太智と山中柔太朗は「50メートルをかっこよく泳ぎ切りたい」という67歳男性と猛特訓し、曽野舜太と吉田仁人には“M!LK史上最も過酷なロケ”が待ち受ける。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
           {
             "name": "塩﨑太智",
             "group": "M!LK",
@@ -213,20 +214,102 @@
             "status": "active"
           }
         ]
+      }
+    ],
+    "原因は自分にある。": [
+      {
+        "id": "c004a3f80c223869",
+        "title": "浅香航大、復讐に燃える教師役で新境地 W主演・杢代和人も「成長できる作品になる」",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20261007-5086316/",
+        "publishedAt": "2026-10-06T22:00:00.000Z",
+        "summary": "俳優の浅香航大と原因は自分にある。の杢代和人が6日、都内で行われた中京テレビ・日本テレビ系ドラマ『仮面教師～妻を亡くしたその日から』(7日スタート、毎週水曜24:24～)の制作発表記者会見に、北乃きい、ひょうろく、観月ありさとともに登壇した。",
+        "groups": [
+          "原因は自分にある。"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "杢代和人",
+            "group": "原因は自分にある。",
+            "status": "active"
+          }
+        ]
       },
       {
-        "id": "58e75cd8368ad3b1",
-        "title": "Spotify、日本上陸10年を振り返るSPライブ開催 出演者第1弾にSTUTS、マカロニえんぴつ、M!LK",
-        "sourceName": "リアルサウンド 音楽",
-        "sourceUrl": "https://realsound.jp/music/feed",
-        "articleUrl": "https://realsound.jp/2026/10/post-2545013.html",
-        "publishedAt": "2026-10-06T11:26:35.000Z",
-        "summary": "Spotifyが、ライブイベント『Spotify On Stage Tokyo 2026 -10th Anniversary Special-』を12月20日に東京ガーデンシアターにて開催する。 今年で2回目の開催と",
+        "id": "69b47fa076410af6",
+        "title": "観月ありさ、ひょうろくに顔面キック 本人は歓喜「やったー!」「最高でした」",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20261007-5086308/",
+        "publishedAt": "2026-10-06T21:00:00.000Z",
+        "summary": "観月ありさとひょうろくが6日、都内で行われた中京テレビ・日本テレビ系ドラマ『仮面教師～妻を亡くしたその日から』(7日スタート、毎週水曜24:24～)の制作発表記者会見に、浅香航大、杢代和人、北乃きいとともに登壇した。",
         "groups": [
-          "M!LK"
+          "原因は自分にある。"
         ],
-        "statuses": [],
-        "memberMatches": []
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "杢代和人",
+            "group": "原因は自分にある。",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "1a891c9b5504c44e",
+        "title": "浅香航大、誕生日に朝から晩まで泣いて怒る撮影「俺がこの日に生まれたのが…」",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20261007-5086263/",
+        "publishedAt": "2026-10-06T20:00:00.000Z",
+        "summary": "浅香航大が6日、都内で行われた中京テレビ・日本テレビ系ドラマ『仮面教師～妻を亡くしたその日から』(7日スタート、毎週水曜24:24～)の制作発表記者会見に、杢代和人、北乃きい、ひょうろく、観月ありさとともに登壇した。",
+        "groups": [
+          "原因は自分にある。"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "杢代和人",
+            "group": "原因は自分にある。",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "15fb9ee4d3775ce2",
+        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/07/89645/",
+        "publishedAt": "2026-07-24T12:00:00.000Z",
+        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
+        "groups": [
+          "原因は自分にある。",
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
       }
     ],
     "超特急": [
@@ -243,33 +326,6 @@
         ],
         "statuses": [],
         "memberMatches": []
-      },
-      {
-        "id": "2591585dfda85389",
-        "title": "NHK『The Covers 秋フェス』セットリスト解禁！超特急（タカシ・シューヤ）、柴咲コウ、スタ☆レビ、トータス松本、平原綾香が豪華競演",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000894302/",
-        "publishedAt": "2026-10-06T06:55:00.000Z",
-        "summary": "NHK『The Covers』がおくる“名曲の祭典”『カバーズ・フェス』の模様が、10月15日に総合テレビ...",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "タカシ",
-            "group": "超特急",
-            "status": "active"
-          },
-          {
-            "name": "シューヤ",
-            "group": "超特急",
-            "status": "active"
-          }
-        ]
       },
       {
         "id": "6a1d840f53f5771f",
@@ -321,6 +377,23 @@
           "M!LK",
           "SUPER★DRAGON",
           "Sakurashimeji"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "382225983e9781d4",
+        "title": "8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 7月2日からの先行配信リリースに合わせて デジタルキャンペーンが追加決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11354/",
+        "publishedAt": "2026-07-01T06:00:22.000Z",
+        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して8月11日(火・祝)にリリースされる「Yes! 東京」が、いよいよ7月2日（木）より先行配信リリースとなります。超特急、M!LK、SUPER★DRAGON、Sakur […] The post 8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 7月2日からの先行配信リリースに合わせて デ",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK",
+          "SUPER★DRAGON"
         ],
         "statuses": [],
         "memberMatches": []
@@ -514,40 +587,6 @@
         "memberMatches": []
       }
     ],
-    "Sakurashimeji": [
-      {
-        "id": "f29fd8bb568ab87b",
-        "title": "Sakurashimeji、ホールツアー全公演SOLD OUT！初のZeppツアー開催決定",
-        "sourceName": "WWSチャンネル",
-        "sourceUrl": "https://www.wws-channel.com/feed",
-        "articleUrl": "https://www.wws-channel.com/music2/672040.html",
-        "publishedAt": "2026-10-04T22:00:55.000Z",
-        "summary": "ギターデュオ・Sakurashimejiが、2027年に初となるZeppツアー『Sakurashimeji ZeppTour+ 2027』を開催することを発表した。現在開催予定の『Sakurashimeji Hall Tour 2027「soup」』は、追加公演となる東 ... The post Sakurashimeji、ホールツアー全公演SOLD OUT",
-        "groups": [
-          "Sakurashimeji"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "47f16c975ff422cd",
-        "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11607/",
-        "publishedAt": "2026-09-02T12:34:24.000Z",
-        "summary": "平素より株式会社SDR所属アーティストへの温かいご声援を賜り、誠にありがとうございます。 DISH//、EBiDAN（超特急、M!LK、SUPER★DRAGON、Sakurashimeji、ONE N’ ON […] The post グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ first appeared on SUPER★DRAGO",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK",
-          "SUPER★DRAGON",
-          "Sakurashimeji"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
     "ICEx": [
       {
         "id": "72d88a3410706483",
@@ -579,48 +618,24 @@
         ]
       }
     ],
-    "原因は自分にある。": [
+    "Sakurashimeji": [
       {
-        "id": "652537b51923f86b",
-        "title": "「J-POPシングル ウィークリーTOP30」発表。1位はCANDY TUNE『総意♡So Free / スペシャル感謝祭』、予約1位は原因は自分にある。『ラブリーズン』（2026年10月1日付）",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/10/01/tg002",
-        "publishedAt": "2026-10-01T10:00:00.000Z",
-        "summary": "",
+        "id": "47f16c975ff422cd",
+        "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11607/",
+        "publishedAt": "2026-09-02T12:34:24.000Z",
+        "summary": "平素より株式会社SDR所属アーティストへの温かいご声援を賜り、誠にありがとうございます。 DISH//、EBiDAN（超特急、M!LK、SUPER★DRAGON、Sakurashimeji、ONE N’ ON […] The post グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ first appeared on SUPER★DRAGO",
         "groups": [
-          "原因は自分にある。"
+          "EBiDAN",
+          "超特急",
+          "M!LK",
+          "SUPER★DRAGON",
+          "Sakurashimeji"
         ],
         "statuses": [],
         "memberMatches": []
-      },
-      {
-        "id": "15fb9ee4d3775ce2",
-        "title": "森愁斗は役作りで約6kg増量、初主演映画『ウォーターガーディアンズ』青春感溢れる本編映像解禁",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/07/89645/",
-        "publishedAt": "2026-07-24T12:00:00.000Z",
-        "summary": "8月21日(金)に公開される森愁斗（BUDDiiS）主演映画『ウォーターガーディアンズ』から本編映像が初解禁された。 本作は、ただ日々を楽しく過ごしていた若者たちが思いがけずライフセーバーになるという目標を得て、友情を育み恋と出会う本気のひと夏を描いた青春サマームービー。主人公の服部海翔を本作が初の主演作品となる森愁斗、海翔が恋するライフセーバー講師・弓長璃",
-        "groups": [
-          "原因は自分にある。",
-          "BUDDiiS"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "SHOOT",
-            "group": "BUDDiiS",
-            "status": "active"
-          }
-        ]
       }
     ],
     "BUDDiiS": [
