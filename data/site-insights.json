@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-08T13:28:17.219Z",
+  "updatedAt": "2026-10-08T23:20:37.623Z",
   "totals": {
-    "all": 126,
-    "today": 6,
-    "week": 23
+    "all": 125,
+    "today": 0,
+    "week": 21
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 8
+      "count": 7
     },
     {
       "name": "EBiDAN",
@@ -24,7 +24,7 @@
     },
     {
       "name": "超特急",
-      "count": 3
+      "count": 2
     },
     {
       "name": "ICEx",
@@ -99,19 +99,15 @@
       "count": 2
     },
     {
-      "name": "マイナビニュース 芸能",
-      "count": 2
-    },
-    {
       "name": "BARKS",
       "count": 1
     },
     {
-      "name": "WWSチャンネル",
+      "name": "マイナビニュース エンタメ",
       "count": 1
     },
     {
-      "name": "マイナビニュース エンタメ",
+      "name": "マイナビニュース 芸能",
       "count": 1
     }
   ],
@@ -242,20 +238,6 @@
         "memberMatches": []
       },
       {
-        "id": "7c5e0adb37af749c",
-        "title": "EXILE、オリジナルメンバー再集結！『CDTVライブ！ライブ！』で全13曲のEXILEフェス開催",
-        "sourceName": "WWSチャンネル",
-        "sourceUrl": "https://www.wws-channel.com/feed",
-        "articleUrl": "https://www.wws-channel.com/tv/672434.html",
-        "publishedAt": "2026-10-06T11:00:49.000Z",
-        "summary": "10月12日18時30分から放送されるTBS系『CDTVライブ！ライブ！』で、EXILEによるEXILEフェスが開催される。番組は2時間半の生放送で、スピッツ、Travis Japan、森七菜、≒JOY、Number_i、超特急、TMG、AKINOらも出演する。結成25 ... The post EXILE、オリジナルメンバー再集結！『CDTVライブ！ライブ",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
         "id": "6a1d840f53f5771f",
         "title": "高橋大輔×草川拓弥が演劇舞台初挑戦でW主演、固く結ばれたバディ演じる『ウルフムーン』上演決定",
         "sourceName": "Bezzy",
@@ -305,6 +287,23 @@
           "M!LK",
           "SUPER★DRAGON",
           "Sakurashimeji"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "382225983e9781d4",
+        "title": "8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 7月2日からの先行配信リリースに合わせて デジタルキャンペーンが追加決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11354/",
+        "publishedAt": "2026-07-01T06:00:22.000Z",
+        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して8月11日(火・祝)にリリースされる「Yes! 東京」が、いよいよ7月2日（木）より先行配信リリースとなります。超特急、M!LK、SUPER★DRAGON、Sakur […] The post 8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 7月2日からの先行配信リリースに合わせて デ",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK",
+          "SUPER★DRAGON"
         ],
         "statuses": [],
         "memberMatches": []
