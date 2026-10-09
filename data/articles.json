@@ -1,6 +1,86 @@
 {
-  "updatedAt": "2026-10-08T23:20:37.621Z",
+  "updatedAt": "2026-10-09T06:08:06.491Z",
   "articles": [
+    {
+      "id": "98a2495fd6ecb7c6",
+      "title": "M!LK山中柔太朗＆FANTASTICS木村慧人がリムレスメガネ×シミラールック披露！「ほんと美しい」「じゅうけい可愛すぎる」と反響",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000896730/",
+      "publishedAt": "2026-10-09T05:37:10.000Z",
+      "summary": "美容雑誌『美的』の公式Xが更新され、M!LKの山中柔太朗とFANTASTICSの木村慧人の2ショットが公...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "e4d7b477f22f4211",
+      "title": "M!LK吉田仁人の“振り向きショット”にドキッ！革ジャン姿でカメラを見上げる大きな瞳に「令和の見返り美人」「いつもと分け目が違う」「この質感だいすき」「ワイルドな吉田さんもいいな」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000896672/",
+      "publishedAt": "2026-10-09T03:42:12.000Z",
+      "summary": "文化放送『M!LK 吉田仁人のレコメン！』の公式Xが更新され、10月8日放送回のオフショットが公...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "2b6113ea9d2d2fec",
+      "title": "M!LK山中柔太朗プロデュースブランドCEL-CELより4th collection登場！本人コメント到着",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000896628/",
+      "publishedAt": "2026-10-09T03:27:43.000Z",
+      "summary": "M!LKのメンバーとして活躍するほか、俳優としても幅広く活動する山中柔太朗がプロデュースする...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "d1206a7f0b8350cf",
+      "title": "M!LK「LOVE ENG!NE」が自身初のミリオン認定！2026年9月度ゴールドディスク認定作品発表",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000896529/",
+      "publishedAt": "2026-10-09T02:10:59.000Z",
+      "summary": "日本レコード協会が、2026年9月度ゴールドディスク認定作品を公表、M!LK「LOVE ENG!NE」がミリ...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "b66888e67d7750de",
       "title": "Netflix『ダウンタイム』の“あの子”が『CDTVライブ！ライブ！』に出演！Lienel武田創世、ドラマとのギャップが話題に",
@@ -25,20 +105,6 @@
       ]
     },
     {
-      "id": "e0e2256bba62e2f9",
-      "title": "BRAHMAN、＜モンパチフェス＞ ＜MASTERPIECE＞ ＜響都超特急＞の出演を見合わせ",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1093269",
-      "publishedAt": "2026-10-08T12:00:00.000Z",
-      "summary": "BRAHMANが11月および12月に予定していたライブイベントの出演を見合わせることが発表となった。 BRAHMANのTOSHI-LOW(Vo)が、“S状結腸がん(大腸がん)”切除手術を行うことは先ごろお伝えしたとおりだが、静養中の本人の体調不良により、予定していた手術が延期されたとのこと。 これに伴って、既に発表している2公演＜G-FREAK FACTOR",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
       "id": "97ff92422cb7d890",
       "title": "EBiDAN（恵比寿学園男子部）、15周年記念シングル『Yes! 東京』表題曲MVが総再生回数1億回突破",
       "sourceName": "タワーレコード ニュース",
@@ -51,55 +117,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "365f4033cf394be2",
-      "title": "「アイツについて行けばなんとかなる」M!LK吉田仁人、絶大な信頼を寄せる同期の“プロデューサー力” 過去の関係性も告白「ライバル」「ずっと腐れ縁で…」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-      "articleUrl": "https://news.mynavi.jp/article/20261008-5078027/",
-      "publishedAt": "2026-10-08T10:00:00.000Z",
-      "summary": "「名プロデューサーじゃない?」――アイドルグループ・M!LKの吉田仁人が1日、文化放送『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)に出演。“同期”メンバーの塩崎太智(※崎はたつさき)を大絶賛した。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "塩﨑太智",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "7ad34a0d7f105a70",
-      "title": "向井康二の誕生日に山中柔太朗がケーキをもって駆け付ける！「うれしさ漏れ出ててかわいい」「愛されキャラでほっこり」「ちょっと照れてるとこも好き」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000896206/",
-      "publishedAt": "2026-10-08T07:22:22.000Z",
-      "summary": "TBSの新ドラマ『いろはの恋は時代をかける』公式SNSにて、向井康二の誕生日を共演者が祝福する...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "山中柔太朗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "d368d6cea4acc417",

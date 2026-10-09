@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-08T23:20:37.623Z",
+  "updatedAt": "2026-10-09T06:08:06.494Z",
   "totals": {
-    "all": 125,
-    "today": 0,
-    "week": 21
+    "all": 126,
+    "today": 4,
+    "week": 20
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 7
+      "count": 9
     },
     {
       "name": "EBiDAN",
@@ -16,15 +16,11 @@
     },
     {
       "name": "SUPER★DRAGON",
-      "count": 6
+      "count": 5
     },
     {
       "name": "原因は自分にある。",
       "count": 4
-    },
-    {
-      "name": "超特急",
-      "count": 2
     },
     {
       "name": "ICEx",
@@ -41,27 +37,15 @@
       "count": 4
     },
     {
+      "name": "山中柔太朗",
+      "count": 3
+    },
+    {
       "name": "吉田仁人",
       "count": 2
     },
     {
-      "name": "山中柔太朗",
-      "count": 2
-    },
-    {
-      "name": "タクヤ",
-      "count": 1
-    },
-    {
       "name": "阿久根温世",
-      "count": 1
-    },
-    {
-      "name": "伊藤壮吾",
-      "count": 1
-    },
-    {
-      "name": "塩﨑太智",
       "count": 1
     },
     {
@@ -69,18 +53,22 @@
       "count": 1
     },
     {
-      "name": "柴崎楽",
+      "name": "曽野舜太",
       "count": 1
     },
     {
-      "name": "曽野舜太",
+      "name": "武田創世",
       "count": 1
     }
   ],
   "sourceRanking": [
     {
       "name": "SUPER★DRAGON 公式NEWS",
-      "count": 6
+      "count": 5
+    },
+    {
+      "name": "THE FIRST TIMES",
+      "count": 5
     },
     {
       "name": "タワーレコード ニュース",
@@ -92,18 +80,6 @@
     },
     {
       "name": "Bezzy",
-      "count": 2
-    },
-    {
-      "name": "THE FIRST TIMES",
-      "count": 2
-    },
-    {
-      "name": "BARKS",
-      "count": 1
-    },
-    {
-      "name": "マイナビニュース エンタメ",
       "count": 1
     },
     {
@@ -113,6 +89,110 @@
   ],
   "topics": [],
   "recentByGroup": {
+    "M!LK": [
+      {
+        "id": "98a2495fd6ecb7c6",
+        "title": "M!LK山中柔太朗＆FANTASTICS木村慧人がリムレスメガネ×シミラールック披露！「ほんと美しい」「じゅうけい可愛すぎる」と反響",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000896730/",
+        "publishedAt": "2026-10-09T05:37:10.000Z",
+        "summary": "美容雑誌『美的』の公式Xが更新され、M!LKの山中柔太朗とFANTASTICSの木村慧人の2ショットが公...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "e4d7b477f22f4211",
+        "title": "M!LK吉田仁人の“振り向きショット”にドキッ！革ジャン姿でカメラを見上げる大きな瞳に「令和の見返り美人」「いつもと分け目が違う」「この質感だいすき」「ワイルドな吉田さんもいいな」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000896672/",
+        "publishedAt": "2026-10-09T03:42:12.000Z",
+        "summary": "文化放送『M!LK 吉田仁人のレコメン！』の公式Xが更新され、10月8日放送回のオフショットが公...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "2b6113ea9d2d2fec",
+        "title": "M!LK山中柔太朗プロデュースブランドCEL-CELより4th collection登場！本人コメント到着",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000896628/",
+        "publishedAt": "2026-10-09T03:27:43.000Z",
+        "summary": "M!LKのメンバーとして活躍するほか、俳優としても幅広く活動する山中柔太朗がプロデュースする...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "d1206a7f0b8350cf",
+        "title": "M!LK「LOVE ENG!NE」が自身初のミリオン認定！2026年9月度ゴールドディスク認定作品発表",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000896529/",
+        "publishedAt": "2026-10-09T02:10:59.000Z",
+        "summary": "日本レコード協会が、2026年9月度ゴールドディスク認定作品を公表、M!LK「LOVE ENG!NE」がミリ...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "5b6a31571673f834",
+        "title": "曽野舜太、1st写真集「曽野まんま」発売決定。イタリア3都市を舞台に飾らない「そのまんま」映し出した作品",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/10/07/tgb005",
+        "publishedAt": "2026-10-07T04:00:00.000Z",
+        "summary": "",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      }
+    ],
     "EBiDAN": [
       {
         "id": "b66888e67d7750de",
@@ -217,202 +297,6 @@
           {
             "name": "武田創世",
             "group": "Lienel",
-            "status": "active"
-          }
-        ]
-      }
-    ],
-    "超特急": [
-      {
-        "id": "e0e2256bba62e2f9",
-        "title": "BRAHMAN、＜モンパチフェス＞ ＜MASTERPIECE＞ ＜響都超特急＞の出演を見合わせ",
-        "sourceName": "BARKS",
-        "sourceUrl": "https://www.barks.jp/feed/",
-        "articleUrl": "https://barks.jp/news/1093269",
-        "publishedAt": "2026-10-08T12:00:00.000Z",
-        "summary": "BRAHMANが11月および12月に予定していたライブイベントの出演を見合わせることが発表となった。 BRAHMANのTOSHI-LOW(Vo)が、“S状結腸がん(大腸がん)”切除手術を行うことは先ごろお伝えしたとおりだが、静養中の本人の体調不良により、予定していた手術が延期されたとのこと。 これに伴って、既に発表している2公演＜G-FREAK FACTOR",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "6a1d840f53f5771f",
-        "title": "高橋大輔×草川拓弥が演劇舞台初挑戦でW主演、固く結ばれたバディ演じる『ウルフムーン』上演決定",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/10/92796/",
-        "publishedAt": "2026-10-02T03:00:00.000Z",
-        "summary": "高橋大輔と草川拓弥がダブル主演を務める舞台『ウルフムーン』ー狼月に昇るーが2027年1月より東京と大阪で上演されることが決定した。 本作で演出を担うのは、数々の舞台に出演し俳優として培った現場感覚を生かしながら、演出家としても実績を重ねる福士誠治。脚本は、映画『かぐや姫の物語』やミュージカル『梨泰院クラス』『四月は君の嘘』、映画『てっぺんの向こうにあなたがい",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "タクヤ",
-            "group": "超特急",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "471946451d042b7e",
-        "title": "超特急の新曲テーマは“ユーロビート×干支”、24thシングル『エトランス・フィーバー』12月発売",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/09/92770/",
-        "publishedAt": "2026-09-30T10:00:00.000Z",
-        "summary": "9人組メインダンサー＆バックボーカルグループ・超特急が、24枚目のシングル『エトランス・フィーバー』を12月16日(水)にリリース。表題曲「エトランス・フィーバー」を10月12日(月)0時より先行配信することが発表された。 11月に待望の東京ドーム2Days公演を控える超特急の次作は、ユーロビート×干支という意外な組み合わせから生まれた新たなトンチキソング。",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "47f16c975ff422cd",
-        "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11607/",
-        "publishedAt": "2026-09-02T12:34:24.000Z",
-        "summary": "平素より株式会社SDR所属アーティストへの温かいご声援を賜り、誠にありがとうございます。 DISH//、EBiDAN（超特急、M!LK、SUPER★DRAGON、Sakurashimeji、ONE N’ ON […] The post グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ first appeared on SUPER★DRAGO",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK",
-          "SUPER★DRAGON",
-          "Sakurashimeji"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "382225983e9781d4",
-        "title": "8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 7月2日からの先行配信リリースに合わせて デジタルキャンペーンが追加決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11354/",
-        "publishedAt": "2026-07-01T06:00:22.000Z",
-        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して8月11日(火・祝)にリリースされる「Yes! 東京」が、いよいよ7月2日（木）より先行配信リリースとなります。超特急、M!LK、SUPER★DRAGON、Sakur […] The post 8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 7月2日からの先行配信リリースに合わせて デ",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "M!LK": [
-      {
-        "id": "365f4033cf394be2",
-        "title": "「アイツについて行けばなんとかなる」M!LK吉田仁人、絶大な信頼を寄せる同期の“プロデューサー力” 過去の関係性も告白「ライバル」「ずっと腐れ縁で…」",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20261008-5078027/",
-        "publishedAt": "2026-10-08T10:00:00.000Z",
-        "summary": "「名プロデューサーじゃない?」――アイドルグループ・M!LKの吉田仁人が1日、文化放送『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)に出演。“同期”メンバーの塩崎太智(※崎はたつさき)を大絶賛した。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "7ad34a0d7f105a70",
-        "title": "向井康二の誕生日に山中柔太朗がケーキをもって駆け付ける！「うれしさ漏れ出ててかわいい」「愛されキャラでほっこり」「ちょっと照れてるとこも好き」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000896206/",
-        "publishedAt": "2026-10-08T07:22:22.000Z",
-        "summary": "TBSの新ドラマ『いろはの恋は時代をかける』公式SNSにて、向井康二の誕生日を共演者が祝福する...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "5b6a31571673f834",
-        "title": "曽野舜太、1st写真集「曽野まんま」発売決定。イタリア3都市を舞台に飾らない「そのまんま」映し出した作品",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/10/07/tgb005",
-        "publishedAt": "2026-10-07T04:00:00.000Z",
-        "summary": "",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "c60a94d7a7ff8337",
-        "title": "M!LK、TVアニメ「超巡！超条先輩」OPテーマ楽曲“ザッツ！超常”10月26日配信リリース決定",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/10/06/tg010",
-        "publishedAt": "2026-10-06T10:50:00.000Z",
-        "summary": "",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "a332962d45ceda3d",
-        "title": "吉田仁人（M!LK）、主演務める新金曜ドラマ「溺愛 ～ 実は、最強ヒーロー ～」キー・ヴィジュアル公開",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/10/06/tg006",
-        "publishedAt": "2026-10-06T10:15:00.000Z",
-        "summary": "",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
             "status": "active"
           }
         ]
@@ -655,6 +539,79 @@
             "status": "active"
           }
         ]
+      }
+    ],
+    "超特急": [
+      {
+        "id": "6a1d840f53f5771f",
+        "title": "高橋大輔×草川拓弥が演劇舞台初挑戦でW主演、固く結ばれたバディ演じる『ウルフムーン』上演決定",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/10/92796/",
+        "publishedAt": "2026-10-02T03:00:00.000Z",
+        "summary": "高橋大輔と草川拓弥がダブル主演を務める舞台『ウルフムーン』ー狼月に昇るーが2027年1月より東京と大阪で上演されることが決定した。 本作で演出を担うのは、数々の舞台に出演し俳優として培った現場感覚を生かしながら、演出家としても実績を重ねる福士誠治。脚本は、映画『かぐや姫の物語』やミュージカル『梨泰院クラス』『四月は君の嘘』、映画『てっぺんの向こうにあなたがい",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "タクヤ",
+            "group": "超特急",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "471946451d042b7e",
+        "title": "超特急の新曲テーマは“ユーロビート×干支”、24thシングル『エトランス・フィーバー』12月発売",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/09/92770/",
+        "publishedAt": "2026-09-30T10:00:00.000Z",
+        "summary": "9人組メインダンサー＆バックボーカルグループ・超特急が、24枚目のシングル『エトランス・フィーバー』を12月16日(水)にリリース。表題曲「エトランス・フィーバー」を10月12日(月)0時より先行配信することが発表された。 11月に待望の東京ドーム2Days公演を控える超特急の次作は、ユーロビート×干支という意外な組み合わせから生まれた新たなトンチキソング。",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "47f16c975ff422cd",
+        "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11607/",
+        "publishedAt": "2026-09-02T12:34:24.000Z",
+        "summary": "平素より株式会社SDR所属アーティストへの温かいご声援を賜り、誠にありがとうございます。 DISH//、EBiDAN（超特急、M!LK、SUPER★DRAGON、Sakurashimeji、ONE N’ ON […] The post グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ first appeared on SUPER★DRAGO",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK",
+          "SUPER★DRAGON",
+          "Sakurashimeji"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "382225983e9781d4",
+        "title": "8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 7月2日からの先行配信リリースに合わせて デジタルキャンペーンが追加決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11354/",
+        "publishedAt": "2026-07-01T06:00:22.000Z",
+        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して8月11日(火・祝)にリリースされる「Yes! 東京」が、いよいよ7月2日（木）より先行配信リリースとなります。超特急、M!LK、SUPER★DRAGON、Sakur […] The post 8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 7月2日からの先行配信リリースに合わせて デ",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
       }
     ],
     "Sakurashimeji": [
