@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-09T22:38:01.419Z",
+  "updatedAt": "2026-10-10T05:51:58.221Z",
   "articles": [
+    {
+      "id": "420d712d4ad8a34f",
+      "title": "M!LKの“帽子コーデ”で雰囲気ガラリ！キャップやニット帽、もふもふの帽子まで5人のスタイルを厳選",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000893756/",
+      "publishedAt": "2026-10-10T01:00:13.000Z",
+      "summary": "M!LKメンバーの帽子コーデを紹介。コーディネートのアクセントとしてさまざまな帽子を取り入れ...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "35f2fc35e9ce7cb4",
       "title": "日本レコード協会「9月度GD認定」、M!LK『LOVE ENG!NE』がミリオン認定",
@@ -149,50 +163,6 @@
         {
           "name": "曽野舜太",
           "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "c004a3f80c223869",
-      "title": "浅香航大、復讐に燃える教師役で新境地 W主演・杢代和人も「成長できる作品になる」",
-      "sourceName": "マイナビニュース テレビ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-      "articleUrl": "https://news.mynavi.jp/article/20261007-5086316/",
-      "publishedAt": "2026-10-06T22:00:00.000Z",
-      "summary": "俳優の浅香航大と原因は自分にある。の杢代和人が6日、都内で行われた中京テレビ・日本テレビ系ドラマ『仮面教師～妻を亡くしたその日から』(7日スタート、毎週水曜24:24～)の制作発表記者会見に、北乃きい、ひょうろく、観月ありさとともに登壇した。",
-      "groups": [
-        "原因は自分にある。"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "杢代和人",
-          "group": "原因は自分にある。",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "69b47fa076410af6",
-      "title": "観月ありさ、ひょうろくに顔面キック 本人は歓喜「やったー!」「最高でした」",
-      "sourceName": "マイナビニュース テレビ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-      "articleUrl": "https://news.mynavi.jp/article/20261007-5086308/",
-      "publishedAt": "2026-10-06T21:00:00.000Z",
-      "summary": "観月ありさとひょうろくが6日、都内で行われた中京テレビ・日本テレビ系ドラマ『仮面教師～妻を亡くしたその日から』(7日スタート、毎週水曜24:24～)の制作発表記者会見に、浅香航大、杢代和人、北乃きいとともに登壇した。",
-      "groups": [
-        "原因は自分にある。"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "杢代和人",
-          "group": "原因は自分にある。",
           "status": "active"
         }
       ]

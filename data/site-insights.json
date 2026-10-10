@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-09T22:38:01.421Z",
+  "updatedAt": "2026-10-10T05:51:58.222Z",
   "totals": {
-    "all": 120,
-    "today": 0,
-    "week": 14
+    "all": 119,
+    "today": 1,
+    "week": 13
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 6
+      "count": 7
     },
     {
       "name": "EBiDAN",
@@ -20,14 +20,10 @@
     },
     {
       "name": "原因は自分にある。",
-      "count": 3
+      "count": 1
     }
   ],
   "memberRanking": [
-    {
-      "name": "杢代和人",
-      "count": 3
-    },
     {
       "name": "吉田仁人",
       "count": 2
@@ -43,6 +39,10 @@
     {
       "name": "池田彪馬",
       "count": 1
+    },
+    {
+      "name": "杢代和人",
+      "count": 1
     }
   ],
   "sourceRanking": [
@@ -55,19 +55,19 @@
       "count": 3
     },
     {
-      "name": "マイナビニュース テレビ",
-      "count": 3
+      "name": "THE FIRST TIMES",
+      "count": 2
     },
     {
       "name": "Bezzy",
       "count": 1
     },
     {
-      "name": "THE FIRST TIMES",
+      "name": "マイナビニュース エンタメ",
       "count": 1
     },
     {
-      "name": "マイナビニュース エンタメ",
+      "name": "マイナビニュース テレビ",
       "count": 1
     },
     {
@@ -78,6 +78,20 @@
   "topics": [],
   "recentByGroup": {
     "M!LK": [
+      {
+        "id": "420d712d4ad8a34f",
+        "title": "M!LKの“帽子コーデ”で雰囲気ガラリ！キャップやニット帽、もふもふの帽子まで5人のスタイルを厳選",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000893756/",
+        "publishedAt": "2026-10-10T01:00:13.000Z",
+        "summary": "M!LKメンバーの帽子コーデを紹介。コーディネートのアクセントとしてさまざまな帽子を取り入れ...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
       {
         "id": "35f2fc35e9ce7cb4",
         "title": "日本レコード協会「9月度GD認定」、M!LK『LOVE ENG!NE』がミリオン認定",
@@ -163,20 +177,6 @@
             "status": "active"
           }
         ]
-      },
-      {
-        "id": "a36f33b2e680d504",
-        "title": "M!LK新曲「ザッツ！超常」10月26日配信、あなたとならなんでもできる！と歌うディスコチューン",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/10/92949/",
-        "publishedAt": "2026-10-06T10:00:00.000Z",
-        "summary": "5人組ダンスボーカルグループ・M!LKの新曲「ザッツ！超常」が10月26日(月)0時に配信リリースされることが決定した。 あなたとならなんでもできる！と歌う「ザッツ！超常」は、“一人ではできないこともあなたとなら乗り越えられる”というポジティブなメッセージ、デコボコな二人に生まれる化学反応、何気ない毎日の中で気がつく小さな幸せを描くハッピーなディスコチューン",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
       }
     ],
     "SUPER★DRAGON": [
@@ -354,50 +354,6 @@
         "articleUrl": "https://news.mynavi.jp/article/20261007-5089771/",
         "publishedAt": "2026-10-07T09:00:00.000Z",
         "summary": "8日に放送される日本テレビ系バラエティ番組『THE突破ファイル』(毎週木曜19:00～)の2時間SPで、10日スタートの同局系ドラマ『俺たちの箱根駅伝』(毎週土曜21:00～)とのコラボが展開される。",
-        "groups": [
-          "原因は自分にある。"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "杢代和人",
-            "group": "原因は自分にある。",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "c004a3f80c223869",
-        "title": "浅香航大、復讐に燃える教師役で新境地 W主演・杢代和人も「成長できる作品になる」",
-        "sourceName": "マイナビニュース テレビ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-        "articleUrl": "https://news.mynavi.jp/article/20261007-5086316/",
-        "publishedAt": "2026-10-06T22:00:00.000Z",
-        "summary": "俳優の浅香航大と原因は自分にある。の杢代和人が6日、都内で行われた中京テレビ・日本テレビ系ドラマ『仮面教師～妻を亡くしたその日から』(7日スタート、毎週水曜24:24～)の制作発表記者会見に、北乃きい、ひょうろく、観月ありさとともに登壇した。",
-        "groups": [
-          "原因は自分にある。"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "杢代和人",
-            "group": "原因は自分にある。",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "69b47fa076410af6",
-        "title": "観月ありさ、ひょうろくに顔面キック 本人は歓喜「やったー!」「最高でした」",
-        "sourceName": "マイナビニュース テレビ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-        "articleUrl": "https://news.mynavi.jp/article/20261007-5086308/",
-        "publishedAt": "2026-10-06T21:00:00.000Z",
-        "summary": "観月ありさとひょうろくが6日、都内で行われた中京テレビ・日本テレビ系ドラマ『仮面教師～妻を亡くしたその日から』(7日スタート、毎週水曜24:24～)の制作発表記者会見に、浅香航大、杢代和人、北乃きいとともに登壇した。",
         "groups": [
           "原因は自分にある。"
         ],
