@@ -1,6 +1,84 @@
 {
-  "updatedAt": "2026-10-10T12:31:11.712Z",
+  "updatedAt": "2026-10-10T21:43:10.189Z",
   "articles": [
+    {
+      "id": "9f01de1c35fc11c6",
+      "title": "M!LK5人が「ニッポンを元気に！健康に！」を合言葉にスタートした『KARADA WEEK』サポーターに就任決定",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000897264/",
+      "publishedAt": "2026-10-10T20:00:36.000Z",
+      "summary": "M!LK(佐野勇斗、塩崎太智（「崎」は、たつさきが正式表記）、曽野舜太、山中柔太朗、吉田仁人...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "塩﨑太智",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "曽野舜太",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "b4f5c702f26a3b8a",
+      "title": "日テレ「KARADA WEEK」M！LKがサポーター就任 キャプテンは12年連続で上田晋也",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202610100000951.html",
+      "publishedAt": "2026-10-10T20:00:00.000Z",
+      "summary": "日本テレビがさまざまな番組を通じて、健康企画を放送する「KARADA WEEK」（10月31日～11月8日）のキャプテンをお笑いコンビ、くりぃむしちゅー上田晋也（56）が12年連続で務めることが10日、発表された。 今年のサポーターには…",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "fdc05808e5ca3f6f",
+      "title": "塩崎太智、M!LK加入意欲満々の上田晋也に「それはごめんなさい」 日テレ系「KARADA WEEK」サポーター就任＆テーマ曲も",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261011-5105060/",
+      "publishedAt": "2026-10-10T20:00:00.000Z",
+      "summary": "日本テレビ系の健康キャンペーン「KARADA WEEK」が、10月31日から11月8日までの9日間にわたって実施される。今年も上田晋也が12年連続でキャプテンを務め、M!LKがサポーターに就任。テーマ曲にはM!LKの「好きすぎて滅!」が決定した。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "塩﨑太智",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "c276e2c67a4586ff",
       "title": "BUDDiiS東名阪ツアーが開幕！メジャー2ndシングル表題曲「無限大LOVE!!!」の先行配信も発表",

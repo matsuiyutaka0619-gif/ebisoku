@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-10T12:31:11.714Z",
+  "updatedAt": "2026-10-10T21:43:10.191Z",
   "totals": {
-    "all": 121,
-    "today": 5,
-    "week": 15
+    "all": 124,
+    "today": 3,
+    "week": 18
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 8
+      "count": 11
     },
     {
       "name": "EBiDAN",
@@ -30,19 +30,23 @@
   "memberRanking": [
     {
       "name": "曽野舜太",
+      "count": 3
+    },
+    {
+      "name": "塩﨑太智",
       "count": 2
     },
     {
       "name": "吉田仁人",
-      "count": 1
+      "count": 2
     },
     {
       "name": "佐野勇斗",
-      "count": 1
+      "count": 2
     },
     {
       "name": "山中柔太朗",
-      "count": 1
+      "count": 2
     },
     {
       "name": "杢代和人",
@@ -56,7 +60,7 @@
     },
     {
       "name": "THE FIRST TIMES",
-      "count": 3
+      "count": 4
     },
     {
       "name": "タワーレコード ニュース",
@@ -64,7 +68,7 @@
     },
     {
       "name": "マイナビニュース エンタメ",
-      "count": 2
+      "count": 3
     },
     {
       "name": "Bezzy",
@@ -77,27 +81,93 @@
     {
       "name": "マイナビニュース 芸能",
       "count": 1
+    },
+    {
+      "name": "日刊スポーツ 芸能",
+      "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
-    "BUDDiiS": [
+    "M!LK": [
       {
-        "id": "c276e2c67a4586ff",
-        "title": "BUDDiiS東名阪ツアーが開幕！メジャー2ndシングル表題曲「無限大LOVE!!!」の先行配信も発表",
+        "id": "9f01de1c35fc11c6",
+        "title": "M!LK5人が「ニッポンを元気に！健康に！」を合言葉にスタートした『KARADA WEEK』サポーターに就任決定",
         "sourceName": "THE FIRST TIMES",
         "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000897437/",
-        "publishedAt": "2026-10-10T11:30:23.000Z",
-        "summary": "BUDDiiSが10月10日、愛知県芸術劇場 大ホールで開催された愛知公演を皮切りに東名阪ツアー『BU...",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000897264/",
+        "publishedAt": "2026-10-10T20:00:36.000Z",
+        "summary": "M!LK(佐野勇斗、塩崎太智（「崎」は、たつさきが正式表記）、曽野舜太、山中柔太朗、吉田仁人...",
         "groups": [
-          "BUDDiiS"
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "b4f5c702f26a3b8a",
+        "title": "日テレ「KARADA WEEK」M！LKがサポーター就任 キャプテンは12年連続で上田晋也",
+        "sourceName": "日刊スポーツ 芸能",
+        "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+        "articleUrl": "https://www.nikkansports.com/entertainment/news/202610100000951.html",
+        "publishedAt": "2026-10-10T20:00:00.000Z",
+        "summary": "日本テレビがさまざまな番組を通じて、健康企画を放送する「KARADA WEEK」（10月31日～11月8日）のキャプテンをお笑いコンビ、くりぃむしちゅー上田晋也（56）が12年連続で務めることが10日、発表された。 今年のサポーターには…",
+        "groups": [
+          "M!LK"
         ],
         "statuses": [],
         "memberMatches": []
-      }
-    ],
-    "M!LK": [
+      },
+      {
+        "id": "fdc05808e5ca3f6f",
+        "title": "塩崎太智、M!LK加入意欲満々の上田晋也に「それはごめんなさい」 日テレ系「KARADA WEEK」サポーター就任＆テーマ曲も",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20261011-5105060/",
+        "publishedAt": "2026-10-10T20:00:00.000Z",
+        "summary": "日本テレビ系の健康キャンペーン「KARADA WEEK」が、10月31日から11月8日までの9日間にわたって実施される。今年も上田晋也が12年連続でキャプテンを務め、M!LKがサポーターに就任。テーマ曲にはM!LKの「好きすぎて滅!」が決定した。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
       {
         "id": "0cfc7d0e36c47c90",
         "title": "「お母さんを怒ってください」10歳リスナーの“困りごと”にM!LK吉田仁人が大爆笑「ごめんな。次からは…」",
@@ -141,53 +211,19 @@
             "status": "active"
           }
         ]
-      },
+      }
+    ],
+    "BUDDiiS": [
       {
-        "id": "f4af45b5eb7d190f",
-        "title": "M!LK曽野舜太が気象予報士試験の合否発表を宣言！「忙しい中頑張ってたの見てたよ」「挑戦する姿かっこいい」「勇気もらえた」",
+        "id": "c276e2c67a4586ff",
+        "title": "BUDDiiS東名阪ツアーが開幕！メジャー2ndシングル表題曲「無限大LOVE!!!」の先行配信も発表",
         "sourceName": "THE FIRST TIMES",
         "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000897343/",
-        "publishedAt": "2026-10-10T08:04:44.000Z",
-        "summary": "M!LK曽野舜太が、気象予報士試験の合否が届いたことを、Xで報告。結果をYouTubeで明かすと発表...",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000897437/",
+        "publishedAt": "2026-10-10T11:30:23.000Z",
+        "summary": "BUDDiiSが10月10日、愛知県芸術劇場 大ホールで開催された愛知公演を皮切りに東名阪ツアー『BU...",
         "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "420d712d4ad8a34f",
-        "title": "M!LKの“帽子コーデ”で雰囲気ガラリ！キャップやニット帽、もふもふの帽子まで5人のスタイルを厳選",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000893756/",
-        "publishedAt": "2026-10-10T01:00:13.000Z",
-        "summary": "M!LKメンバーの帽子コーデを紹介。コーディネートのアクセントとしてさまざまな帽子を取り入れ...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "35f2fc35e9ce7cb4",
-        "title": "日本レコード協会「9月度GD認定」、M!LK『LOVE ENG!NE』がミリオン認定",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/10/09/tg008",
-        "publishedAt": "2026-10-09T12:20:37.000Z",
-        "summary": "",
-        "groups": [
-          "M!LK"
+          "BUDDiiS"
         ],
         "statuses": [],
         "memberMatches": []
