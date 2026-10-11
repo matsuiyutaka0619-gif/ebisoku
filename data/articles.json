@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-10-10T21:43:10.189Z",
+  "updatedAt": "2026-10-11T05:45:51.326Z",
   "articles": [
+    {
+      "id": "6e483935ad14c874",
+      "title": "M!LK佐野勇斗、180cmの高身長が映える！小顔＆脚長スタイル、目黒蓮との2ショットも",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000893829/",
+      "publishedAt": "2026-10-11T01:00:34.000Z",
+      "summary": "M!LK佐野勇斗の高身長が映えるショットを厳選！身長180cmのすらりとした立ち姿や、小顔＆脚長...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "9f01de1c35fc11c6",
       "title": "M!LK5人が「ニッポンを元気に！健康に！」を合言葉にスタートした『KARADA WEEK』サポーターに就任決定",
@@ -42,20 +64,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "b4f5c702f26a3b8a",
-      "title": "日テレ「KARADA WEEK」M！LKがサポーター就任 キャプテンは12年連続で上田晋也",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202610100000951.html",
-      "publishedAt": "2026-10-10T20:00:00.000Z",
-      "summary": "日本テレビがさまざまな番組を通じて、健康企画を放送する「KARADA WEEK」（10月31日～11月8日）のキャプテンをお笑いコンビ、くりぃむしちゅー上田晋也（56）が12年連続で務めることが10日、発表された。 今年のサポーターには…",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "fdc05808e5ca3f6f",
@@ -160,20 +168,6 @@
       ]
     },
     {
-      "id": "420d712d4ad8a34f",
-      "title": "M!LKの“帽子コーデ”で雰囲気ガラリ！キャップやニット帽、もふもふの帽子まで5人のスタイルを厳選",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000893756/",
-      "publishedAt": "2026-10-10T01:00:13.000Z",
-      "summary": "M!LKメンバーの帽子コーデを紹介。コーディネートのアクセントとしてさまざまな帽子を取り入れ...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
       "id": "35f2fc35e9ce7cb4",
       "title": "日本レコード協会「9月度GD認定」、M!LK『LOVE ENG!NE』がミリオン認定",
       "sourceName": "タワーレコード ニュース",
@@ -230,28 +224,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "1a13c1cbc358018f",
-      "title": "爆発の衝撃で負傷の女性准教授が4階に取り残され、水も消火器も通用しない炎の壁…『俺たちの箱根駅伝』小林虎之介・奥智哉・杢代和人が『突破ファイル』で救出劇",
-      "sourceName": "マイナビニュース テレビ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-      "articleUrl": "https://news.mynavi.jp/article/20261007-5089771/",
-      "publishedAt": "2026-10-07T09:00:00.000Z",
-      "summary": "8日に放送される日本テレビ系バラエティ番組『THE突破ファイル』(毎週木曜19:00～)の2時間SPで、10日スタートの同局系ドラマ『俺たちの箱根駅伝』(毎週土曜21:00～)とのコラボが展開される。",
-      "groups": [
-        "原因は自分にある。"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "杢代和人",
-          "group": "原因は自分にある。",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "5b6a31571673f834",
