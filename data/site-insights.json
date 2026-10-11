@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-11T05:45:51.328Z",
+  "updatedAt": "2026-10-11T12:49:10.546Z",
   "totals": {
-    "all": 122,
-    "today": 3,
-    "week": 16
+    "all": 117,
+    "today": 4,
+    "week": 12
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 10
+      "count": 6
     },
     {
       "name": "EBiDAN",
@@ -16,63 +16,143 @@
     },
     {
       "name": "SUPER★DRAGON",
-      "count": 4
-    },
-    {
-      "name": "BUDDiiS",
-      "count": 1
+      "count": 5
     }
   ],
   "memberRanking": [
-    {
-      "name": "佐野勇斗",
-      "count": 3
-    },
-    {
-      "name": "曽野舜太",
-      "count": 3
-    },
     {
       "name": "塩﨑太智",
       "count": 2
     },
     {
-      "name": "吉田仁人",
+      "name": "佐野勇斗",
       "count": 2
     },
     {
-      "name": "山中柔太朗",
+      "name": "曽野舜太",
       "count": 2
+    },
+    {
+      "name": "吉田仁人",
+      "count": 1
+    },
+    {
+      "name": "山中柔太朗",
+      "count": 1
+    },
+    {
+      "name": "飯島颯",
+      "count": 1
     }
   ],
   "sourceRanking": [
     {
       "name": "SUPER★DRAGON 公式NEWS",
-      "count": 4
-    },
-    {
-      "name": "THE FIRST TIMES",
-      "count": 4
+      "count": 5
     },
     {
       "name": "タワーレコード ニュース",
       "count": 3
     },
     {
-      "name": "マイナビニュース エンタメ",
-      "count": 3
+      "name": "THE FIRST TIMES",
+      "count": 2
     },
     {
       "name": "Bezzy",
       "count": 1
     },
     {
-      "name": "マイナビニュース 芸能",
+      "name": "マイナビニュース エンタメ",
       "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
+    "SUPER★DRAGON": [
+      {
+        "id": "3dfe0e3569fcc191",
+        "title": "「HAYATE 25th BIRTHDAY SCRATCH」開催決定！！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11782/",
+        "publishedAt": "2026-10-11T12:00:33.000Z",
+        "summary": "飯島颯 25歳の誕生日を記念した「HAYATE 25th BIRTHDAY SCRATCH」開催が決定いたしました！ ぜひアクセスしてみてください！！ ▼飯島颯［PAYA TERRACE HOUSE］ https://f […] The post 「HAYATE 25th BIRTHDAY SCRATCH」開催決定！！ first appeared on S",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "飯島颯",
+            "group": "SUPER★DRAGON",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "4c9519734cc191ec",
+        "title": "第6回 EBiDAN 大運動会 『スポーツマンヒップ！』ファンクラブブース情報！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11754/",
+        "publishedAt": "2026-10-09T06:30:06.000Z",
+        "summary": "第6回 EBiDAN 大運動会 『スポーツマンヒップ！』ファンクラブブースの受付が決定いたしました。 当日は、対象期間中に各EBiDANファンクラブで【新規入会・継続・お友達紹介】をされた方、 または各＋KIRARIコミ […] The post 第6回 EBiDAN 大運動会 『スポーツマンヒップ！』ファンクラブブース情報！ first appeared ",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "d368d6cea4acc417",
+        "title": "【お知らせ】 EBiDAN SNS投稿ガイドラインに関するお知らせ",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11751/",
+        "publishedAt": "2026-10-08T03:30:07.000Z",
+        "summary": "いつも弊社所属アーティストを温かく応援いただき、誠にありがとうございます。 これからも楽しく安心して応援いただけるよう、SNSにおけるご投稿のガイドラインを定めております。 皆様のご理解とご協力をお願い申し上げます。 ※ […] The post 【お知らせ】 EBiDAN SNS投稿ガイドラインに関するお知らせ first appeared on SUPE",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "0a6bc3b4cc337ec3",
+        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』機材開放先着販売 決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11738/",
+        "publishedAt": "2026-10-06T08:00:16.000Z",
+        "summary": "SOLD OUTとなっておりました第6回EBiDAN大運動会『スポーツマンヒップ！』につきまして、 機材席の一部開放に伴い、若干数ではございますが、追加販売が決定いたしました。 10月8日(木)18:00より〈先着〉にて […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』機材開放先着販売 決定！ first appeared on ",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "a2361a4ff60972aa",
+        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ 会場販売＆整理券配布のお知らせ",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11726/",
+        "publishedAt": "2026-10-05T07:00:49.000Z",
+        "summary": "第6回EBiDAN大運動会『スポーツマンヒップ！』LaLa arena TOKYO-BAY公演の会場販売が決定しました！ ※オフィシャルグッズの販売は、【キャッシュレス決済のみ】の取り扱いとなります。現金はご利用いただけ […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ 会場販売＆整理券配布のお知らせ first",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
     "M!LK": [
       {
         "id": "6e483935ad14c874",
@@ -161,64 +241,40 @@
         ]
       },
       {
-        "id": "0cfc7d0e36c47c90",
-        "title": "「お母さんを怒ってください」10歳リスナーの“困りごと”にM!LK吉田仁人が大爆笑「ごめんな。次からは…」",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20261010-5078075/",
-        "publishedAt": "2026-10-10T10:00:00.000Z",
-        "summary": "「僕のお母さんは仁人くんが大好きです」――。アイドルグループ・M!LKの吉田仁人が1日、文化放送のラジオ番組『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)に出演。母親がM!LKファンだという10歳リスナーからの“苦情”に答えた。",
+        "id": "35f2fc35e9ce7cb4",
+        "title": "日本レコード協会「9月度GD認定」、M!LK『LOVE ENG!NE』がミリオン認定",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/10/09/tg008",
+        "publishedAt": "2026-10-09T12:20:37.000Z",
+        "summary": "",
         "groups": [
           "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "08eb9ec82ad6fcbc",
-        "title": "「弟全開なのかわいい」「このわちゃわちゃ感が好きすぎる」M!LK5人の“兄弟”感にファンから反響 年下メンバー4人にイジられる“最年長”佐野勇斗が「最強お兄ちゃんすぎる」",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20261010-5088899/",
-        "publishedAt": "2026-10-10T10:00:00.000Z",
-        "summary": "「年下組にイジられまくって楽しそうにしてる佐野さん愛おしい」――。アイドルグループ・M!LKが2日、公式YouTubeチャンネル『M!LK』を更新。5人の仲のよさがうかがえる動画にファンから喜びの声が上がっている。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      }
-    ],
-    "BUDDiiS": [
-      {
-        "id": "c276e2c67a4586ff",
-        "title": "BUDDiiS東名阪ツアーが開幕！メジャー2ndシングル表題曲「無限大LOVE!!!」の先行配信も発表",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000897437/",
-        "publishedAt": "2026-10-10T11:30:23.000Z",
-        "summary": "BUDDiiSが10月10日、愛知県芸術劇場 大ホールで開催された愛知公演を皮切りに東名阪ツアー『BU...",
-        "groups": [
-          "BUDDiiS"
         ],
         "statuses": [],
         "memberMatches": []
+      },
+      {
+        "id": "5b6a31571673f834",
+        "title": "曽野舜太、1st写真集「曽野まんま」発売決定。イタリア3都市を舞台に飾らない「そのまんま」映し出した作品",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/10/07/tgb005",
+        "publishedAt": "2026-10-07T04:00:00.000Z",
+        "summary": "",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
       }
     ],
     "EBiDAN": [
@@ -291,82 +347,6 @@
         "summary": "第6回EBiDAN大運動会『スポーツマンヒップ！』LaLa arena TOKYO-BAY公演の会場販売が決定しました！ ※オフィシャルグッズの販売は、【キャッシュレス決済のみ】の取り扱いとなります。現金はご利用いただけ […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ 会場販売＆整理券配布のお知らせ first",
         "groups": [
           "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "SUPER★DRAGON": [
-      {
-        "id": "4c9519734cc191ec",
-        "title": "第6回 EBiDAN 大運動会 『スポーツマンヒップ！』ファンクラブブース情報！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11754/",
-        "publishedAt": "2026-10-09T06:30:06.000Z",
-        "summary": "第6回 EBiDAN 大運動会 『スポーツマンヒップ！』ファンクラブブースの受付が決定いたしました。 当日は、対象期間中に各EBiDANファンクラブで【新規入会・継続・お友達紹介】をされた方、 または各＋KIRARIコミ […] The post 第6回 EBiDAN 大運動会 『スポーツマンヒップ！』ファンクラブブース情報！ first appeared ",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "d368d6cea4acc417",
-        "title": "【お知らせ】 EBiDAN SNS投稿ガイドラインに関するお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11751/",
-        "publishedAt": "2026-10-08T03:30:07.000Z",
-        "summary": "いつも弊社所属アーティストを温かく応援いただき、誠にありがとうございます。 これからも楽しく安心して応援いただけるよう、SNSにおけるご投稿のガイドラインを定めております。 皆様のご理解とご協力をお願い申し上げます。 ※ […] The post 【お知らせ】 EBiDAN SNS投稿ガイドラインに関するお知らせ first appeared on SUPE",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "0a6bc3b4cc337ec3",
-        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』機材開放先着販売 決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11738/",
-        "publishedAt": "2026-10-06T08:00:16.000Z",
-        "summary": "SOLD OUTとなっておりました第6回EBiDAN大運動会『スポーツマンヒップ！』につきまして、 機材席の一部開放に伴い、若干数ではございますが、追加販売が決定いたしました。 10月8日(木)18:00より〈先着〉にて […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』機材開放先着販売 決定！ first appeared on ",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "a2361a4ff60972aa",
-        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ 会場販売＆整理券配布のお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11726/",
-        "publishedAt": "2026-10-05T07:00:49.000Z",
-        "summary": "第6回EBiDAN大運動会『スポーツマンヒップ！』LaLa arena TOKYO-BAY公演の会場販売が決定しました！ ※オフィシャルグッズの販売は、【キャッシュレス決済のみ】の取り扱いとなります。現金はご利用いただけ […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ 会場販売＆整理券配布のお知らせ first",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "2a4dddd6b9e52a72",
-        "title": "SUPER★DRAGON DRA FES 2026 追加公演 SOLD OUT！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11724/",
-        "publishedAt": "2026-10-02T09:00:24.000Z",
-        "summary": "SUPER★DRAGON DRA FES 2026追加公演のチケットが好評につき完売いたしました！ たくさんのお申込みありがとうございました！ SUPER★DRAGON DRA FES 2026〈追加公演〉 THANK […] The post SUPER★DRAGON DRA FES 2026 追加公演 SOLD OUT！ first appeared o",
-        "groups": [
           "SUPER★DRAGON"
         ],
         "statuses": [],

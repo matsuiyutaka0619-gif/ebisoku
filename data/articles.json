@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-10-11T05:45:51.326Z",
+  "updatedAt": "2026-10-11T12:49:10.464Z",
   "articles": [
+    {
+      "id": "3dfe0e3569fcc191",
+      "title": "「HAYATE 25th BIRTHDAY SCRATCH」開催決定！！",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news11782/",
+      "publishedAt": "2026-10-11T12:00:33.000Z",
+      "summary": "飯島颯 25歳の誕生日を記念した「HAYATE 25th BIRTHDAY SCRATCH」開催が決定いたしました！ ぜひアクセスしてみてください！！ ▼飯島颯［PAYA TERRACE HOUSE］ https://f […] The post 「HAYATE 25th BIRTHDAY SCRATCH」開催決定！！ first appeared on S",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "飯島颯",
+          "group": "SUPER★DRAGON",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "6e483935ad14c874",
       "title": "M!LK佐野勇斗、180cmの高身長が映える！小顔＆脚長スタイル、目黒蓮との2ショットも",
@@ -82,86 +104,6 @@
       "memberMatches": [
         {
           "name": "塩﨑太智",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "c276e2c67a4586ff",
-      "title": "BUDDiiS東名阪ツアーが開幕！メジャー2ndシングル表題曲「無限大LOVE!!!」の先行配信も発表",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000897437/",
-      "publishedAt": "2026-10-10T11:30:23.000Z",
-      "summary": "BUDDiiSが10月10日、愛知県芸術劇場 大ホールで開催された愛知公演を皮切りに東名阪ツアー『BU...",
-      "groups": [
-        "BUDDiiS"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "0cfc7d0e36c47c90",
-      "title": "「お母さんを怒ってください」10歳リスナーの“困りごと”にM!LK吉田仁人が大爆笑「ごめんな。次からは…」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-      "articleUrl": "https://news.mynavi.jp/article/20261010-5078075/",
-      "publishedAt": "2026-10-10T10:00:00.000Z",
-      "summary": "「僕のお母さんは仁人くんが大好きです」――。アイドルグループ・M!LKの吉田仁人が1日、文化放送のラジオ番組『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)に出演。母親がM!LKファンだという10歳リスナーからの“苦情”に答えた。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "08eb9ec82ad6fcbc",
-      "title": "「弟全開なのかわいい」「このわちゃわちゃ感が好きすぎる」M!LK5人の“兄弟”感にファンから反響 年下メンバー4人にイジられる“最年長”佐野勇斗が「最強お兄ちゃんすぎる」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-      "articleUrl": "https://news.mynavi.jp/article/20261010-5088899/",
-      "publishedAt": "2026-10-10T10:00:00.000Z",
-      "summary": "「年下組にイジられまくって楽しそうにしてる佐野さん愛おしい」――。アイドルグループ・M!LKが2日、公式YouTubeチャンネル『M!LK』を更新。5人の仲のよさがうかがえる動画にファンから喜びの声が上がっている。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "f4af45b5eb7d190f",
-      "title": "M!LK曽野舜太が気象予報士試験の合否発表を宣言！「忙しい中頑張ってたの見てたよ」「挑戦する姿かっこいい」「勇気もらえた」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000897343/",
-      "publishedAt": "2026-10-10T08:04:44.000Z",
-      "summary": "M!LK曽野舜太が、気象予報士試験の合否が届いたことを、Xで報告。結果をYouTubeで明かすと発表...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "曽野舜太",
           "group": "M!LK",
           "status": "active"
         }
@@ -409,20 +351,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "30c2b053ac090f8d",
-      "title": "M!LK、JOYSOUNDで本人歌唱MV配信 オリジナルマイク＆タンバリン当たるキャンペーンも",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20261002-5059354/",
-      "publishedAt": "2026-10-01T23:00:00.000Z",
-      "summary": "5人組ダンスボーカルグループ・M!LKとJOYSOUNDのコラボレーションが、1日からスタートした。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "471946451d042b7e",
@@ -2016,20 +1944,6 @@
       "articleUrl": "https://super-dragon.jp/news/news11174/",
       "publishedAt": "2026-06-04T10:59:45.000Z",
       "summary": "【「スペシャルライブ参加券」当日追加配券のお知らせ】 会場CD販売ブースにて下記対象商品3枚のご購入で、当日のスペシャルライブへの参加券を先着で配券させていただきます！ご希望の方は、ご購入の際にレジにて「スペシャルライブ […] The post Major 6th Single「Call Me Asap / NUMBER」7月16日(木)開催リリースイベン",
-      "groups": [
-        "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "5dbadf4e87250ffe",
-      "title": "Major 6th Single「Call Me Asap / NUMBER」7月5日(日)開催リリースイベント＠SENDAI PIT（宮城）参加方法・特典会内容についてのご案内",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news11135/",
-      "publishedAt": "2026-06-02T10:59:04.000Z",
-      "summary": "7月5日(日)SENDAI PITにて開催するリリースイベントの詳細をご案内致します。 必ず最後まで全てお読み頂き、会場にいらした皆様がイベントを楽しめるよう、ファンの皆様同士でルールとマナーの厳守をお願い致します。 & […] The post Major 6th Single「Call Me Asap / NUMBER」7月5日(日)開催リリースイベント",
       "groups": [
         "SUPER★DRAGON"
       ],
