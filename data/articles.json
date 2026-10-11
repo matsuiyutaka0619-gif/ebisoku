@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-11T12:49:10.464Z",
+  "updatedAt": "2026-10-11T21:58:03.602Z",
   "articles": [
+    {
+      "id": "b33204e5b8b18e79",
+      "title": "超特急「エトランス・フィーバー」配信開始、“誰もが主役になれる”と前向きなメッセージを込める",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/10/93396/",
+      "publishedAt": "2026-10-11T15:00:00.000Z",
+      "summary": "9人組メインダンサー＆バックボーカルグループ・超特急が、12月16日(水)に発売する24枚目シングルの表題曲「エトランス・フィーバー」の先行配信をスタートさせた。 11月に待望の東京ドーム2Days公演を控える超特急の新曲「エトランス・フィーバー」は、干支をモチーフにしたユーロビート調の新たなトンチキソング。疾走感あふれるビートに乗せて「生まれ持ったキャラク",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "3dfe0e3569fcc191",
       "title": "「HAYATE 25th BIRTHDAY SCRATCH」開催決定！！",
@@ -40,48 +54,6 @@
       "memberMatches": [
         {
           "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "9f01de1c35fc11c6",
-      "title": "M!LK5人が「ニッポンを元気に！健康に！」を合言葉にスタートした『KARADA WEEK』サポーターに就任決定",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000897264/",
-      "publishedAt": "2026-10-10T20:00:36.000Z",
-      "summary": "M!LK(佐野勇斗、塩崎太智（「崎」は、たつさきが正式表記）、曽野舜太、山中柔太朗、吉田仁人...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "塩﨑太智",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "曽野舜太",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "山中柔太朗",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "吉田仁人",
           "group": "M!LK",
           "status": "active"
         }

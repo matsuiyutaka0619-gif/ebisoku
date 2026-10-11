@@ -1,43 +1,39 @@
 {
-  "updatedAt": "2026-10-11T12:49:10.546Z",
+  "updatedAt": "2026-10-11T21:58:03.605Z",
   "totals": {
     "all": 117,
-    "today": 4,
+    "today": 1,
     "week": 12
   },
   "groupRanking": [
-    {
-      "name": "M!LK",
-      "count": 6
-    },
     {
       "name": "EBiDAN",
       "count": 5
     },
     {
+      "name": "M!LK",
+      "count": 5
+    },
+    {
       "name": "SUPER★DRAGON",
       "count": 5
+    },
+    {
+      "name": "超特急",
+      "count": 1
     }
   ],
   "memberRanking": [
     {
       "name": "塩﨑太智",
-      "count": 2
-    },
-    {
-      "name": "佐野勇斗",
-      "count": 2
-    },
-    {
-      "name": "曽野舜太",
-      "count": 2
-    },
-    {
-      "name": "吉田仁人",
       "count": 1
     },
     {
-      "name": "山中柔太朗",
+      "name": "佐野勇斗",
+      "count": 1
+    },
+    {
+      "name": "曽野舜太",
       "count": 1
     },
     {
@@ -55,11 +51,11 @@
       "count": 3
     },
     {
-      "name": "THE FIRST TIMES",
+      "name": "Bezzy",
       "count": 2
     },
     {
-      "name": "Bezzy",
+      "name": "THE FIRST TIMES",
       "count": 1
     },
     {
@@ -69,6 +65,93 @@
   ],
   "topics": [],
   "recentByGroup": {
+    "超特急": [
+      {
+        "id": "b33204e5b8b18e79",
+        "title": "超特急「エトランス・フィーバー」配信開始、“誰もが主役になれる”と前向きなメッセージを込める",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/10/93396/",
+        "publishedAt": "2026-10-11T15:00:00.000Z",
+        "summary": "9人組メインダンサー＆バックボーカルグループ・超特急が、12月16日(水)に発売する24枚目シングルの表題曲「エトランス・フィーバー」の先行配信をスタートさせた。 11月に待望の東京ドーム2Days公演を控える超特急の新曲「エトランス・フィーバー」は、干支をモチーフにしたユーロビート調の新たなトンチキソング。疾走感あふれるビートに乗せて「生まれ持ったキャラク",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "6a1d840f53f5771f",
+        "title": "高橋大輔×草川拓弥が演劇舞台初挑戦でW主演、固く結ばれたバディ演じる『ウルフムーン』上演決定",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/10/92796/",
+        "publishedAt": "2026-10-02T03:00:00.000Z",
+        "summary": "高橋大輔と草川拓弥がダブル主演を務める舞台『ウルフムーン』ー狼月に昇るーが2027年1月より東京と大阪で上演されることが決定した。 本作で演出を担うのは、数々の舞台に出演し俳優として培った現場感覚を生かしながら、演出家としても実績を重ねる福士誠治。脚本は、映画『かぐや姫の物語』やミュージカル『梨泰院クラス』『四月は君の嘘』、映画『てっぺんの向こうにあなたがい",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "タクヤ",
+            "group": "超特急",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "471946451d042b7e",
+        "title": "超特急の新曲テーマは“ユーロビート×干支”、24thシングル『エトランス・フィーバー』12月発売",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/09/92770/",
+        "publishedAt": "2026-09-30T10:00:00.000Z",
+        "summary": "9人組メインダンサー＆バックボーカルグループ・超特急が、24枚目のシングル『エトランス・フィーバー』を12月16日(水)にリリース。表題曲「エトランス・フィーバー」を10月12日(月)0時より先行配信することが発表された。 11月に待望の東京ドーム2Days公演を控える超特急の次作は、ユーロビート×干支という意外な組み合わせから生まれた新たなトンチキソング。",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "47f16c975ff422cd",
+        "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11607/",
+        "publishedAt": "2026-09-02T12:34:24.000Z",
+        "summary": "平素より株式会社SDR所属アーティストへの温かいご声援を賜り、誠にありがとうございます。 DISH//、EBiDAN（超特急、M!LK、SUPER★DRAGON、Sakurashimeji、ONE N’ ON […] The post グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ first appeared on SUPER★DRAGO",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK",
+          "SUPER★DRAGON",
+          "Sakurashimeji"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "382225983e9781d4",
+        "title": "8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 7月2日からの先行配信リリースに合わせて デジタルキャンペーンが追加決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11354/",
+        "publishedAt": "2026-07-01T06:00:22.000Z",
+        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して8月11日(火・祝)にリリースされる「Yes! 東京」が、いよいよ7月2日（木）より先行配信リリースとなります。超特急、M!LK、SUPER★DRAGON、Sakur […] The post 8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 7月2日からの先行配信リリースに合わせて デ",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
     "SUPER★DRAGON": [
       {
         "id": "3dfe0e3569fcc191",
@@ -177,48 +260,6 @@
         ]
       },
       {
-        "id": "9f01de1c35fc11c6",
-        "title": "M!LK5人が「ニッポンを元気に！健康に！」を合言葉にスタートした『KARADA WEEK』サポーターに就任決定",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000897264/",
-        "publishedAt": "2026-10-10T20:00:36.000Z",
-        "summary": "M!LK(佐野勇斗、塩崎太智（「崎」は、たつさきが正式表記）、曽野舜太、山中柔太朗、吉田仁人...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
         "id": "fdc05808e5ca3f6f",
         "title": "塩崎太智、M!LK加入意欲満々の上田晋也に「それはごめんなさい」 日テレ系「KARADA WEEK」サポーター就任＆テーマ曲も",
         "sourceName": "マイナビニュース エンタメ",
@@ -275,6 +316,20 @@
             "status": "active"
           }
         ]
+      },
+      {
+        "id": "a36f33b2e680d504",
+        "title": "M!LK新曲「ザッツ！超常」10月26日配信、あなたとならなんでもできる！と歌うディスコチューン",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/10/92949/",
+        "publishedAt": "2026-10-06T10:00:00.000Z",
+        "summary": "5人組ダンスボーカルグループ・M!LKの新曲「ザッツ！超常」が10月26日(月)0時に配信リリースされることが決定した。 あなたとならなんでもできる！と歌う「ザッツ！超常」は、“一人ではできないこともあなたとなら乗り越えられる”というポジティブなメッセージ、デコボコな二人に生まれる化学反応、何気ない毎日の中で気がつく小さな幸せを描くハッピーなディスコチューン",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
       }
     ],
     "EBiDAN": [
@@ -382,79 +437,6 @@
             "status": "active"
           }
         ]
-      }
-    ],
-    "超特急": [
-      {
-        "id": "6a1d840f53f5771f",
-        "title": "高橋大輔×草川拓弥が演劇舞台初挑戦でW主演、固く結ばれたバディ演じる『ウルフムーン』上演決定",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/10/92796/",
-        "publishedAt": "2026-10-02T03:00:00.000Z",
-        "summary": "高橋大輔と草川拓弥がダブル主演を務める舞台『ウルフムーン』ー狼月に昇るーが2027年1月より東京と大阪で上演されることが決定した。 本作で演出を担うのは、数々の舞台に出演し俳優として培った現場感覚を生かしながら、演出家としても実績を重ねる福士誠治。脚本は、映画『かぐや姫の物語』やミュージカル『梨泰院クラス』『四月は君の嘘』、映画『てっぺんの向こうにあなたがい",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "タクヤ",
-            "group": "超特急",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "471946451d042b7e",
-        "title": "超特急の新曲テーマは“ユーロビート×干支”、24thシングル『エトランス・フィーバー』12月発売",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/09/92770/",
-        "publishedAt": "2026-09-30T10:00:00.000Z",
-        "summary": "9人組メインダンサー＆バックボーカルグループ・超特急が、24枚目のシングル『エトランス・フィーバー』を12月16日(水)にリリース。表題曲「エトランス・フィーバー」を10月12日(月)0時より先行配信することが発表された。 11月に待望の東京ドーム2Days公演を控える超特急の次作は、ユーロビート×干支という意外な組み合わせから生まれた新たなトンチキソング。",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "47f16c975ff422cd",
-        "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11607/",
-        "publishedAt": "2026-09-02T12:34:24.000Z",
-        "summary": "平素より株式会社SDR所属アーティストへの温かいご声援を賜り、誠にありがとうございます。 DISH//、EBiDAN（超特急、M!LK、SUPER★DRAGON、Sakurashimeji、ONE N’ ON […] The post グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ first appeared on SUPER★DRAGO",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK",
-          "SUPER★DRAGON",
-          "Sakurashimeji"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "382225983e9781d4",
-        "title": "8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 7月2日からの先行配信リリースに合わせて デジタルキャンペーンが追加決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11354/",
-        "publishedAt": "2026-07-01T06:00:22.000Z",
-        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して8月11日(火・祝)にリリースされる「Yes! 東京」が、いよいよ7月2日（木）より先行配信リリースとなります。超特急、M!LK、SUPER★DRAGON、Sakur […] The post 8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 7月2日からの先行配信リリースに合わせて デ",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
       }
     ],
     "Sakurashimeji": [
