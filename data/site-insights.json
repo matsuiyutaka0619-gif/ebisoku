@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-11T21:58:03.605Z",
+  "updatedAt": "2026-10-12T05:57:08.001Z",
   "totals": {
-    "all": 117,
-    "today": 1,
-    "week": 12
+    "all": 119,
+    "today": 4,
+    "week": 14
   },
   "groupRanking": [
     {
-      "name": "EBiDAN",
-      "count": 5
+      "name": "M!LK",
+      "count": 6
     },
     {
-      "name": "M!LK",
+      "name": "EBiDAN",
       "count": 5
     },
     {
@@ -20,20 +20,20 @@
     },
     {
       "name": "超特急",
-      "count": 1
+      "count": 2
     }
   ],
   "memberRanking": [
     {
       "name": "塩﨑太智",
-      "count": 1
-    },
-    {
-      "name": "佐野勇斗",
-      "count": 1
+      "count": 2
     },
     {
       "name": "曽野舜太",
+      "count": 2
+    },
+    {
+      "name": "佐野勇斗",
       "count": 1
     },
     {
@@ -47,6 +47,10 @@
       "count": 5
     },
     {
+      "name": "THE FIRST TIMES",
+      "count": 3
+    },
+    {
       "name": "タワーレコード ニュース",
       "count": 3
     },
@@ -55,17 +59,27 @@
       "count": 2
     },
     {
-      "name": "THE FIRST TIMES",
-      "count": 1
-    },
-    {
-      "name": "マイナビニュース エンタメ",
+      "name": "マイナビニュース テレビ",
       "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
     "超特急": [
+      {
+        "id": "c802ee57f17b43c3",
+        "title": "超特急の新曲「エトランス・フィーバー」が先行配信スタート！話題の“顔はめパネル”写真の裏側も公開に",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000897888/",
+        "publishedAt": "2026-10-12T04:07:50.000Z",
+        "summary": "11月に東京ドーム2Days公演を控える超特急が、12月16日発売の24thシングル「エトランス・フィ...",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
       {
         "id": "b33204e5b8b18e79",
         "title": "超特急「エトランス・フィーバー」配信開始、“誰もが主役になれる”と前向きなメッセージを込める",
@@ -133,23 +147,115 @@
         ],
         "statuses": [],
         "memberMatches": []
+      }
+    ],
+    "M!LK": [
+      {
+        "id": "577e618c271cf417",
+        "title": "M!LK佐野勇斗＆曽野舜太の“さのその”が仲良しすぎ！密着2ショットから「好きすぎて滅！」ダンスまで",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000895001/",
+        "publishedAt": "2026-10-12T01:00:54.000Z",
+        "summary": "M!LKのメンバーである佐野勇斗と曽野舜太は、“さのその”として親しまれるなど人気の仲良しコン...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
       },
       {
-        "id": "382225983e9781d4",
-        "title": "8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 7月2日からの先行配信リリースに合わせて デジタルキャンペーンが追加決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11354/",
-        "publishedAt": "2026-07-01T06:00:22.000Z",
-        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して8月11日(火・祝)にリリースされる「Yes! 東京」が、いよいよ7月2日（木）より先行配信リリースとなります。超特急、M!LK、SUPER★DRAGON、Sakur […] The post 8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 7月2日からの先行配信リリースに合わせて デ",
+        "id": "1ed264d7714ac9d3",
+        "title": "M!LK塩﨑太智が『ヒルナンデス！』で芸能界屈指のディズニー通ぶりを発揮！ディズニー・ハロウィーン＆秋限定スポットを番組が徹底ガイド",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000897686/",
+        "publishedAt": "2026-10-11T22:00:42.000Z",
+        "summary": "芸能界屈指のディズニー好きとしても知られるM!LK 塩崎太智（「崎」は「たつさき」が正式表記...",
         "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK",
-          "SUPER★DRAGON"
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "fdc05808e5ca3f6f",
+        "title": "塩崎太智、M!LK加入意欲満々の上田晋也に「それはごめんなさい」 日テレ系「KARADA WEEK」サポーター就任＆テーマ曲も",
+        "sourceName": "マイナビニュース テレビ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
+        "articleUrl": "https://news.mynavi.jp/article/20261011-5105060/",
+        "publishedAt": "2026-10-10T20:00:00.000Z",
+        "summary": "日本テレビ系の健康キャンペーン「KARADA WEEK」が、10月31日から11月8日までの9日間にわたって実施される。今年も上田晋也が12年連続でキャプテンを務め、M!LKがサポーターに就任。テーマ曲にはM!LKの「好きすぎて滅!」が決定した。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "35f2fc35e9ce7cb4",
+        "title": "日本レコード協会「9月度GD認定」、M!LK『LOVE ENG!NE』がミリオン認定",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/10/09/tg008",
+        "publishedAt": "2026-10-09T12:20:37.000Z",
+        "summary": "",
+        "groups": [
+          "M!LK"
         ],
         "statuses": [],
         "memberMatches": []
+      },
+      {
+        "id": "5b6a31571673f834",
+        "title": "曽野舜太、1st写真集「曽野まんま」発売決定。イタリア3都市を舞台に飾らない「そのまんま」映し出した作品",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/10/07/tgb005",
+        "publishedAt": "2026-10-07T04:00:00.000Z",
+        "summary": "",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
       }
     ],
     "SUPER★DRAGON": [
@@ -231,102 +337,6 @@
         "groups": [
           "EBiDAN",
           "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "M!LK": [
-      {
-        "id": "6e483935ad14c874",
-        "title": "M!LK佐野勇斗、180cmの高身長が映える！小顔＆脚長スタイル、目黒蓮との2ショットも",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000893829/",
-        "publishedAt": "2026-10-11T01:00:34.000Z",
-        "summary": "M!LK佐野勇斗の高身長が映えるショットを厳選！身長180cmのすらりとした立ち姿や、小顔＆脚長...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "fdc05808e5ca3f6f",
-        "title": "塩崎太智、M!LK加入意欲満々の上田晋也に「それはごめんなさい」 日テレ系「KARADA WEEK」サポーター就任＆テーマ曲も",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20261011-5105060/",
-        "publishedAt": "2026-10-10T20:00:00.000Z",
-        "summary": "日本テレビ系の健康キャンペーン「KARADA WEEK」が、10月31日から11月8日までの9日間にわたって実施される。今年も上田晋也が12年連続でキャプテンを務め、M!LKがサポーターに就任。テーマ曲にはM!LKの「好きすぎて滅!」が決定した。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "35f2fc35e9ce7cb4",
-        "title": "日本レコード協会「9月度GD認定」、M!LK『LOVE ENG!NE』がミリオン認定",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/10/09/tg008",
-        "publishedAt": "2026-10-09T12:20:37.000Z",
-        "summary": "",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "5b6a31571673f834",
-        "title": "曽野舜太、1st写真集「曽野まんま」発売決定。イタリア3都市を舞台に飾らない「そのまんま」映し出した作品",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/10/07/tgb005",
-        "publishedAt": "2026-10-07T04:00:00.000Z",
-        "summary": "",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "a36f33b2e680d504",
-        "title": "M!LK新曲「ザッツ！超常」10月26日配信、あなたとならなんでもできる！と歌うディスコチューン",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/10/92949/",
-        "publishedAt": "2026-10-06T10:00:00.000Z",
-        "summary": "5人組ダンスボーカルグループ・M!LKの新曲「ザッツ！超常」が10月26日(月)0時に配信リリースされることが決定した。 あなたとならなんでもできる！と歌う「ザッツ！超常」は、“一人ではできないこともあなたとなら乗り越えられる”というポジティブなメッセージ、デコボコな二人に生まれる化学反応、何気ない毎日の中で気がつく小さな幸せを描くハッピーなディスコチューン",
-        "groups": [
-          "M!LK"
         ],
         "statuses": [],
         "memberMatches": []
