@@ -1,6 +1,56 @@
 {
-  "updatedAt": "2026-10-12T05:57:07.998Z",
+  "updatedAt": "2026-10-12T15:23:56.249Z",
   "articles": [
+    {
+      "id": "fc398b4eb6a15b0a",
+      "title": "鈴木伸之と超特急 柏木悠がW主演に BLコミック原作『羊の皮を着たケモノ』12月11日公開",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/10/post-2550354.html",
+      "publishedAt": "2026-10-12T09:00:26.000Z",
+      "summary": "鈴木伸之と超特急の柏木悠がW主演を務める映画『羊の皮を着たケモノ』が、12月11日よりTOHOシネマズ 日比谷、Space Part 3 by PARCOほかで全国公開されることが決定した。 本作は、「BLアワード2",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "ab6a92dadbc653fa",
+      "title": "鈴木伸之×柏木悠W主演『羊の皮を着たケモノ』12月11日劇場公開、ミステリアスなポスター解禁",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/10/93399/",
+      "publishedAt": "2026-10-12T09:00:00.000Z",
+      "summary": "鈴木伸之と柏木悠（超特急）がW主演を務める映画『羊の皮を着たケモノ』が12月11日(金)に公開されることが決定し、ポスタービジュアルが解禁された。 本作は、九號（きゅうごう）による同名BL漫画（徳間書店 Charaコミックス刊）を実写化した、骨太で新感覚のボーイズ・ラブ。原作は「BLアワード2022 ディープ部門」で第13位、「BLアワード2024 ディープ",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "a565a78343b81a68",
+      "title": "【バースデーグッズ】飯島颯25歳 バースデーPHOTO SET＆プロデュースグッズ スタダ便受注販売決定！",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news11775/",
+      "publishedAt": "2026-10-12T06:00:09.000Z",
+      "summary": "本日、2026年10月12日(月祝)に25歳を迎えた飯島颯の誕生日を記念して、 バースデーPHOTO SET&プロデュースグッズの販売が決定しました！ 今年のプロデュースグッズは、過去衣装を含む颯のランダムアクリ […] The post 【バースデーグッズ】飯島颯25歳 バースデーPHOTO SET＆プロデュースグッズ スタダ便受注販売決定！ first ",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "飯島颯",
+          "group": "SUPER★DRAGON",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "c802ee57f17b43c3",
       "title": "超特急の新曲「エトランス・フィーバー」が先行配信スタート！話題の“顔はめパネル”写真の裏側も公開に",
@@ -14,55 +64,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "577e618c271cf417",
-      "title": "M!LK佐野勇斗＆曽野舜太の“さのその”が仲良しすぎ！密着2ショットから「好きすぎて滅！」ダンスまで",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000895001/",
-      "publishedAt": "2026-10-12T01:00:54.000Z",
-      "summary": "M!LKのメンバーである佐野勇斗と曽野舜太は、“さのその”として親しまれるなど人気の仲良しコン...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "曽野舜太",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "1ed264d7714ac9d3",
-      "title": "M!LK塩﨑太智が『ヒルナンデス！』で芸能界屈指のディズニー通ぶりを発揮！ディズニー・ハロウィーン＆秋限定スポットを番組が徹底ガイド",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000897686/",
-      "publishedAt": "2026-10-11T22:00:42.000Z",
-      "summary": "芸能界屈指のディズニー好きとしても知られるM!LK 塩崎太智（「崎」は「たつさき」が正式表記...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "塩﨑太智",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "b33204e5b8b18e79",
@@ -1944,20 +1945,6 @@
       "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して、8月11日(火・祝)にリリースするシングル「Yes! 東京」の《第2弾》CD予約購入特典キャンペーンの実施が決定いたしました！ 2026年8月11日(火・祝)発売 […] The post 2026年8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 《第2弾》 CD予約購入キャンペーン",
       "groups": [
         "EBiDAN",
-        "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "46558fad661f11ec",
-      "title": "Major 6th Single「Call Me Asap / NUMBER」7月16日(木)開催リリースイベント＠CLUB CITTA’（神奈川）参加方法＆特典会のご案内",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news11174/",
-      "publishedAt": "2026-06-04T10:59:45.000Z",
-      "summary": "【「スペシャルライブ参加券」当日追加配券のお知らせ】 会場CD販売ブースにて下記対象商品3枚のご購入で、当日のスペシャルライブへの参加券を先着で配券させていただきます！ご希望の方は、ご購入の際にレジにて「スペシャルライブ […] The post Major 6th Single「Call Me Asap / NUMBER」7月16日(木)開催リリースイベン",
-      "groups": [
         "SUPER★DRAGON"
       ],
       "statuses": [],
