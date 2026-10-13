@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-12T15:23:56.251Z",
+  "updatedAt": "2026-10-13T00:39:11.183Z",
   "totals": {
-    "all": 119,
+    "all": 118,
     "today": 0,
-    "week": 14
+    "week": 13
   },
   "groupRanking": [
     {
@@ -20,7 +20,7 @@
     },
     {
       "name": "超特急",
-      "count": 4
+      "count": 3
     }
   ],
   "memberRanking": [
@@ -49,10 +49,6 @@
     {
       "name": "タワーレコード ニュース",
       "count": 3
-    },
-    {
-      "name": "THE FIRST TIMES",
-      "count": 1
     },
     {
       "name": "マイナビニュース テレビ",
@@ -95,20 +91,6 @@
         "memberMatches": []
       },
       {
-        "id": "c802ee57f17b43c3",
-        "title": "超特急の新曲「エトランス・フィーバー」が先行配信スタート！話題の“顔はめパネル”写真の裏側も公開に",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000897888/",
-        "publishedAt": "2026-10-12T04:07:50.000Z",
-        "summary": "11月に東京ドーム2Days公演を控える超特急が、12月16日発売の24thシングル「エトランス・フィ...",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
         "id": "b33204e5b8b18e79",
         "title": "超特急「エトランス・フィーバー」配信開始、“誰もが主役になれる”と前向きなメッセージを込める",
         "sourceName": "Bezzy",
@@ -143,6 +125,20 @@
             "status": "active"
           }
         ]
+      },
+      {
+        "id": "471946451d042b7e",
+        "title": "超特急の新曲テーマは“ユーロビート×干支”、24thシングル『エトランス・フィーバー』12月発売",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/09/92770/",
+        "publishedAt": "2026-09-30T10:00:00.000Z",
+        "summary": "9人組メインダンサー＆バックボーカルグループ・超特急が、24枚目のシングル『エトランス・フィーバー』を12月16日(水)にリリース。表題曲「エトランス・フィーバー」を10月12日(月)0時より先行配信することが発表された。 11月に待望の東京ドーム2Days公演を控える超特急の次作は、ユーロビート×干支という意外な組み合わせから生まれた新たなトンチキソング。",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
       }
     ],
     "SUPER★DRAGON": [
