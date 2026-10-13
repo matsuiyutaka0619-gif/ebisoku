@@ -1,16 +1,90 @@
 {
-  "updatedAt": "2026-10-13T00:39:11.181Z",
+  "updatedAt": "2026-10-13T14:11:01.911Z",
   "articles": [
     {
-      "id": "fc398b4eb6a15b0a",
-      "title": "鈴木伸之と超特急 柏木悠がW主演に BLコミック原作『羊の皮を着たケモノ』12月11日公開",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/10/post-2550354.html",
-      "publishedAt": "2026-10-12T09:00:26.000Z",
-      "summary": "鈴木伸之と超特急の柏木悠がW主演を務める映画『羊の皮を着たケモノ』が、12月11日よりTOHOシネマズ 日比谷、Space Part 3 by PARCOほかで全国公開されることが決定した。 本作は、「BLアワード2",
+      "id": "d9349005ab5b9f06",
+      "title": "上白石萌音＆向井康二出演ドラマ『いろはの恋は時代をかける』大森元貴の役どころが判明！「火曜ドラマに出演する人生、私もビックリしてます」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000898481/",
+      "publishedAt": "2026-10-13T13:57:16.000Z",
+      "summary": "上白石萌音が主演を務め、Snow Manの向井康二、山中柔太朗、Mrs. GREEN APPLEの大森元貴らが出...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "89551d3b85a8524b",
+      "title": "【動画】超特急、野外フェスらしいカジュアルスタイルで「a-nation 2026」にて語る「超特急としては初めての東京ドームになりますし…」",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/music2/673749.html",
+      "publishedAt": "2026-10-13T10:36:16.000Z",
+      "summary": "10月3日、お台場で開催された「a-nation 2026」1日目に、超特急が出演した。超特急はライブ出演後にWWSチャンネルのインタビューに応じ、ステージ衣装のポイントからこの夏での印象的な出来事など語った。【a-nationとは】「a-nation」は、2002年よ ... The post 【動画】超特急、野外フェスらしいカジュアルスタイルで「a-na",
       "groups": [
         "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "88624be7f31acc3c",
+      "title": "超特急、Number_i、JO1ら出演！『STAR』2時間SPで注目の最新曲パフォーマンス一挙放送",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000898424/",
+      "publishedAt": "2026-10-13T10:00:01.000Z",
+      "summary": "フジテレビ系音楽番組『STAR』の2時間スペシャルが、10月15日19時より放送。超特急、Number_i...",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "63c5ea50e944ee2e",
+      "title": "向井康二＆山中柔太朗らが“渋谷駅前”に降臨！スタイル際立つ横並びショットに「渋谷にいたの!?」「人混みの中でよく撮影を…」「夜でこのビジュとか信じられない」「康二くんと柔太朗くんなんか似てる」と反響",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000898485/",
+      "publishedAt": "2026-10-13T04:35:21.000Z",
+      "summary": "『いろはの恋は時代をかける』（TBS系）の公式SNSが更新され、Snow Manの向井康二、M!LKの山中...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "f5fbba56c3a2ca30",
+      "title": "【レポート】SUPER★DRAGON、ONE N' ONLYらが『第6回EBiDAN大運動会』に参加！5種目で真剣対決「10秒ジャスト10m走」で奇跡が起こる",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/report/0000898327/",
+      "publishedAt": "2026-10-13T03:40:38.000Z",
+      "summary": "スターダストプロモーション所属の男性アーティスト集団・EBiDANが、毎年秋に開催する『EBiDAN...",
+      "groups": [
+        "EBiDAN",
+        "SUPER★DRAGON",
+        "ONE N' ONLY"
       ],
       "statuses": [],
       "memberMatches": []
@@ -166,28 +240,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "5b6a31571673f834",
-      "title": "曽野舜太、1st写真集「曽野まんま」発売決定。イタリア3都市を舞台に飾らない「そのまんま」映し出した作品",
-      "sourceName": "タワーレコード ニュース",
-      "sourceUrl": "https://tower.jp/feeds/article/news",
-      "articleUrl": "https://tower.jp/article/news/2026/10/07/tgb005",
-      "publishedAt": "2026-10-07T04:00:00.000Z",
-      "summary": "",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "曽野舜太",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "a36f33b2e680d504",
