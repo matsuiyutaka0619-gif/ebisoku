@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T14:11:01.911Z",
+  "updatedAt": "2026-10-13T22:44:18.571Z",
   "articles": [
     {
       "id": "d9349005ab5b9f06",
@@ -47,44 +47,6 @@
       "summary": "フジテレビ系音楽番組『STAR』の2時間スペシャルが、10月15日19時より放送。超特急、Number_i...",
       "groups": [
         "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "63c5ea50e944ee2e",
-      "title": "向井康二＆山中柔太朗らが“渋谷駅前”に降臨！スタイル際立つ横並びショットに「渋谷にいたの!?」「人混みの中でよく撮影を…」「夜でこのビジュとか信じられない」「康二くんと柔太朗くんなんか似てる」と反響",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000898485/",
-      "publishedAt": "2026-10-13T04:35:21.000Z",
-      "summary": "『いろはの恋は時代をかける』（TBS系）の公式SNSが更新され、Snow Manの向井康二、M!LKの山中...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "山中柔太朗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "f5fbba56c3a2ca30",
-      "title": "【レポート】SUPER★DRAGON、ONE N' ONLYらが『第6回EBiDAN大運動会』に参加！5種目で真剣対決「10秒ジャスト10m走」で奇跡が起こる",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/report/0000898327/",
-      "publishedAt": "2026-10-13T03:40:38.000Z",
-      "summary": "スターダストプロモーション所属の男性アーティスト集団・EBiDANが、毎年秋に開催する『EBiDAN...",
-      "groups": [
-        "EBiDAN",
-        "SUPER★DRAGON",
-        "ONE N' ONLY"
       ],
       "statuses": [],
       "memberMatches": []

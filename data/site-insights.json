@@ -1,21 +1,13 @@
 {
-  "updatedAt": "2026-10-13T14:11:01.913Z",
+  "updatedAt": "2026-10-13T22:44:18.579Z",
   "totals": {
-    "all": 121,
-    "today": 5,
-    "week": 14
+    "all": 119,
+    "today": 0,
+    "week": 12
   },
   "groupRanking": [
     {
       "name": "SUPER★DRAGON",
-      "count": 5
-    },
-    {
-      "name": "EBiDAN",
-      "count": 4
-    },
-    {
-      "name": "M!LK",
       "count": 4
     },
     {
@@ -23,21 +15,25 @@
       "count": 4
     },
     {
-      "name": "ONE N' ONLY",
-      "count": 1
+      "name": "EBiDAN",
+      "count": 3
+    },
+    {
+      "name": "M!LK",
+      "count": 3
     }
   ],
   "memberRanking": [
-    {
-      "name": "山中柔太朗",
-      "count": 2
-    },
     {
       "name": "飯島颯",
       "count": 2
     },
     {
       "name": "塩﨑太智",
+      "count": 1
+    },
+    {
+      "name": "山中柔太朗",
       "count": 1
     }
   ],
@@ -47,11 +43,11 @@
       "count": 4
     },
     {
-      "name": "THE FIRST TIMES",
-      "count": 4
+      "name": "Bezzy",
+      "count": 2
     },
     {
-      "name": "Bezzy",
+      "name": "THE FIRST TIMES",
       "count": 2
     },
     {
@@ -78,28 +74,6 @@
         "articleUrl": "https://www.thefirsttimes.jp/news/0000898481/",
         "publishedAt": "2026-10-13T13:57:16.000Z",
         "summary": "上白石萌音が主演を務め、Snow Manの向井康二、山中柔太朗、Mrs. GREEN APPLEの大森元貴らが出...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "63c5ea50e944ee2e",
-        "title": "向井康二＆山中柔太朗らが“渋谷駅前”に降臨！スタイル際立つ横並びショットに「渋谷にいたの!?」「人混みの中でよく撮影を…」「夜でこのビジュとか信じられない」「康二くんと柔太朗くんなんか似てる」と反響",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000898485/",
-        "publishedAt": "2026-10-13T04:35:21.000Z",
-        "summary": "『いろはの恋は時代をかける』（TBS系）の公式SNSが更新され、Snow Manの向井康二、M!LKの山中...",
         "groups": [
           "M!LK"
         ],
@@ -163,6 +137,28 @@
         ],
         "statuses": [],
         "memberMatches": []
+      },
+      {
+        "id": "a350861aee50a04d",
+        "title": "日曜トライアル 第45回 M!LK山中柔太朗「叶えたことが特に嬉しかった」、JO1川西拓実「とても光栄」、齋藤飛鳥「びっくりしすぎてちょっと笑ってしまった」…第一線で活躍する7組が語った“初めて”の喜びと覚悟",
+        "sourceName": "マイナビニュース 芸能",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
+        "articleUrl": "https://news.mynavi.jp/article/sunday_trial-45/",
+        "publishedAt": "2026-10-04T11:00:00.000Z",
+        "summary": "第一線で活躍する人々にも、まだ経験したことのない“初めて”がある。JO1・川西拓実はGP帯連ドラ初出演、M!LK・山中柔太朗は目標にしていたGP帯連続ドラマ初レギュラー、齊藤なぎさは連ドラ初主演へ。このほかにも9月には、俳優・タレントらの新たな挑戦など、様々な“初めて”が発表された。今回は、9月にマイナビニュースの「テレビ」カテゴリで掲載した記事の中から、7",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
       }
     ],
     "超特急": [
@@ -245,100 +241,7 @@
         ]
       }
     ],
-    "EBiDAN": [
-      {
-        "id": "f5fbba56c3a2ca30",
-        "title": "【レポート】SUPER★DRAGON、ONE N' ONLYらが『第6回EBiDAN大運動会』に参加！5種目で真剣対決「10秒ジャスト10m走」で奇跡が起こる",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/report/0000898327/",
-        "publishedAt": "2026-10-13T03:40:38.000Z",
-        "summary": "スターダストプロモーション所属の男性アーティスト集団・EBiDANが、毎年秋に開催する『EBiDAN...",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON",
-          "ONE N' ONLY"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "4c9519734cc191ec",
-        "title": "第6回 EBiDAN 大運動会 『スポーツマンヒップ！』ファンクラブブース情報！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11754/",
-        "publishedAt": "2026-10-09T06:30:06.000Z",
-        "summary": "第6回 EBiDAN 大運動会 『スポーツマンヒップ！』ファンクラブブースの受付が決定いたしました。 当日は、対象期間中に各EBiDANファンクラブで【新規入会・継続・お友達紹介】をされた方、 または各＋KIRARIコミ […] The post 第6回 EBiDAN 大運動会 『スポーツマンヒップ！』ファンクラブブース情報！ first appeared ",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "97ff92422cb7d890",
-        "title": "EBiDAN（恵比寿学園男子部）、15周年記念シングル『Yes! 東京』表題曲MVが総再生回数1億回突破",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/10/08/tg009",
-        "publishedAt": "2026-10-08T10:30:00.000Z",
-        "summary": "",
-        "groups": [
-          "EBiDAN"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "d368d6cea4acc417",
-        "title": "【お知らせ】 EBiDAN SNS投稿ガイドラインに関するお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11751/",
-        "publishedAt": "2026-10-08T03:30:07.000Z",
-        "summary": "いつも弊社所属アーティストを温かく応援いただき、誠にありがとうございます。 これからも楽しく安心して応援いただけるよう、SNSにおけるご投稿のガイドラインを定めております。 皆様のご理解とご協力をお願い申し上げます。 ※ […] The post 【お知らせ】 EBiDAN SNS投稿ガイドラインに関するお知らせ first appeared on SUPE",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "0a6bc3b4cc337ec3",
-        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』機材開放先着販売 決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11738/",
-        "publishedAt": "2026-10-06T08:00:16.000Z",
-        "summary": "SOLD OUTとなっておりました第6回EBiDAN大運動会『スポーツマンヒップ！』につきまして、 機材席の一部開放に伴い、若干数ではございますが、追加販売が決定いたしました。 10月8日(木)18:00より〈先着〉にて […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』機材開放先着販売 決定！ first appeared on ",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
     "SUPER★DRAGON": [
-      {
-        "id": "f5fbba56c3a2ca30",
-        "title": "【レポート】SUPER★DRAGON、ONE N' ONLYらが『第6回EBiDAN大運動会』に参加！5種目で真剣対決「10秒ジャスト10m走」で奇跡が起こる",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/report/0000898327/",
-        "publishedAt": "2026-10-13T03:40:38.000Z",
-        "summary": "スターダストプロモーション所属の男性アーティスト集団・EBiDANが、毎年秋に開催する『EBiDAN...",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON",
-          "ONE N' ONLY"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
       {
         "id": "a565a78343b81a68",
         "title": "【バースデーグッズ】飯島颯25歳 バースデーPHOTO SET＆プロデュースグッズ スタダ便受注販売決定！",
@@ -412,21 +315,94 @@
         ],
         "statuses": [],
         "memberMatches": []
-      }
-    ],
-    "ONE N' ONLY": [
+      },
       {
-        "id": "f5fbba56c3a2ca30",
-        "title": "【レポート】SUPER★DRAGON、ONE N' ONLYらが『第6回EBiDAN大運動会』に参加！5種目で真剣対決「10秒ジャスト10m走」で奇跡が起こる",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/report/0000898327/",
-        "publishedAt": "2026-10-13T03:40:38.000Z",
-        "summary": "スターダストプロモーション所属の男性アーティスト集団・EBiDANが、毎年秋に開催する『EBiDAN...",
+        "id": "0a6bc3b4cc337ec3",
+        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』機材開放先着販売 決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11738/",
+        "publishedAt": "2026-10-06T08:00:16.000Z",
+        "summary": "SOLD OUTとなっておりました第6回EBiDAN大運動会『スポーツマンヒップ！』につきまして、 機材席の一部開放に伴い、若干数ではございますが、追加販売が決定いたしました。 10月8日(木)18:00より〈先着〉にて […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』機材開放先着販売 決定！ first appeared on ",
         "groups": [
           "EBiDAN",
-          "SUPER★DRAGON",
-          "ONE N' ONLY"
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
+    "EBiDAN": [
+      {
+        "id": "4c9519734cc191ec",
+        "title": "第6回 EBiDAN 大運動会 『スポーツマンヒップ！』ファンクラブブース情報！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11754/",
+        "publishedAt": "2026-10-09T06:30:06.000Z",
+        "summary": "第6回 EBiDAN 大運動会 『スポーツマンヒップ！』ファンクラブブースの受付が決定いたしました。 当日は、対象期間中に各EBiDANファンクラブで【新規入会・継続・お友達紹介】をされた方、 または各＋KIRARIコミ […] The post 第6回 EBiDAN 大運動会 『スポーツマンヒップ！』ファンクラブブース情報！ first appeared ",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "97ff92422cb7d890",
+        "title": "EBiDAN（恵比寿学園男子部）、15周年記念シングル『Yes! 東京』表題曲MVが総再生回数1億回突破",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/10/08/tg009",
+        "publishedAt": "2026-10-08T10:30:00.000Z",
+        "summary": "",
+        "groups": [
+          "EBiDAN"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "d368d6cea4acc417",
+        "title": "【お知らせ】 EBiDAN SNS投稿ガイドラインに関するお知らせ",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11751/",
+        "publishedAt": "2026-10-08T03:30:07.000Z",
+        "summary": "いつも弊社所属アーティストを温かく応援いただき、誠にありがとうございます。 これからも楽しく安心して応援いただけるよう、SNSにおけるご投稿のガイドラインを定めております。 皆様のご理解とご協力をお願い申し上げます。 ※ […] The post 【お知らせ】 EBiDAN SNS投稿ガイドラインに関するお知らせ first appeared on SUPE",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "0a6bc3b4cc337ec3",
+        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』機材開放先着販売 決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11738/",
+        "publishedAt": "2026-10-06T08:00:16.000Z",
+        "summary": "SOLD OUTとなっておりました第6回EBiDAN大運動会『スポーツマンヒップ！』につきまして、 機材席の一部開放に伴い、若干数ではございますが、追加販売が決定いたしました。 10月8日(木)18:00より〈先着〉にて […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』機材開放先着販売 決定！ first appeared on ",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "a2361a4ff60972aa",
+        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ 会場販売＆整理券配布のお知らせ",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11726/",
+        "publishedAt": "2026-10-05T07:00:49.000Z",
+        "summary": "第6回EBiDAN大運動会『スポーツマンヒップ！』LaLa arena TOKYO-BAY公演の会場販売が決定しました！ ※オフィシャルグッズの販売は、【キャッシュレス決済のみ】の取り扱いとなります。現金はご利用いただけ […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ 会場販売＆整理券配布のお知らせ first",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
         ],
         "statuses": [],
         "memberMatches": []
