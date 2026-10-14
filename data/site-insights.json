@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-13T22:44:18.579Z",
+  "updatedAt": "2026-10-14T04:52:52.407Z",
   "totals": {
-    "all": 119,
-    "today": 0,
-    "week": 12
+    "all": 121,
+    "today": 3,
+    "week": 14
   },
   "groupRanking": [
     {
-      "name": "SUPER★DRAGON",
-      "count": 4
+      "name": "M!LK",
+      "count": 6
     },
     {
-      "name": "超特急",
+      "name": "SUPER★DRAGON",
       "count": 4
     },
     {
@@ -19,21 +19,25 @@
       "count": 3
     },
     {
-      "name": "M!LK",
+      "name": "超特急",
       "count": 3
     }
   ],
   "memberRanking": [
     {
+      "name": "塩﨑太智",
+      "count": 2
+    },
+    {
       "name": "飯島颯",
       "count": 2
     },
     {
-      "name": "塩﨑太智",
+      "name": "山中柔太朗",
       "count": 1
     },
     {
-      "name": "山中柔太朗",
+      "name": "曽野舜太",
       "count": 1
     }
   ],
@@ -43,15 +47,15 @@
       "count": 4
     },
     {
-      "name": "Bezzy",
-      "count": 2
-    },
-    {
       "name": "THE FIRST TIMES",
-      "count": 2
+      "count": 3
     },
     {
       "name": "タワーレコード ニュース",
+      "count": 3
+    },
+    {
+      "name": "Bezzy",
       "count": 2
     },
     {
@@ -66,6 +70,64 @@
   "topics": [],
   "recentByGroup": {
     "M!LK": [
+      {
+        "id": "6db7f189e627e4d1",
+        "title": "M!LK、「MAQUIA 2026年12月号」増刊表紙に登場。スペシャル・ピンナップ付き",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/10/14/tgb004",
+        "publishedAt": "2026-10-14T03:45:07.000Z",
+        "summary": "",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "c317d5dddc506f8c",
+        "title": "近藤真彦、M!LK塩﨑太智らが『プレバト!!』秋の2時間スペシャル参戦！アート系企画で才能を発揮してきた塩﨑太智が陶芸才能ランキングに挑む",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000899088/",
+        "publishedAt": "2026-10-14T02:50:47.000Z",
+        "summary": "10月15日の『プレバト!!』では秋の2時間スペシャル「水彩画」「俳句」「陶芸」の豪華3本立てを...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "1b37ccc304f02897",
+        "title": "M!LK、美容誌『MAQUIA』12月号増刊の表紙に登場！「皆さんにとってM!LKとは？」の問いに、曽野舜太が「美容成分ですかね」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000899047/",
+        "publishedAt": "2026-10-14T01:45:08.000Z",
+        "summary": "美容誌『MAQUIA』12月号（10月22日）の表紙全4パターンが一挙解禁。増刊はM!LK、集英社スペシ...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
       {
         "id": "d9349005ab5b9f06",
         "title": "上白石萌音＆向井康二出演ドラマ『いろはの恋は時代をかける』大森元貴の役どころが判明！「火曜ドラマに出演する人生、私もビックリしてます」",
@@ -109,56 +171,6 @@
             "status": "active"
           }
         ]
-      },
-      {
-        "id": "35f2fc35e9ce7cb4",
-        "title": "日本レコード協会「9月度GD認定」、M!LK『LOVE ENG!NE』がミリオン認定",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/10/09/tg008",
-        "publishedAt": "2026-10-09T12:20:37.000Z",
-        "summary": "",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "a36f33b2e680d504",
-        "title": "M!LK新曲「ザッツ！超常」10月26日配信、あなたとならなんでもできる！と歌うディスコチューン",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/10/92949/",
-        "publishedAt": "2026-10-06T10:00:00.000Z",
-        "summary": "5人組ダンスボーカルグループ・M!LKの新曲「ザッツ！超常」が10月26日(月)0時に配信リリースされることが決定した。 あなたとならなんでもできる！と歌う「ザッツ！超常」は、“一人ではできないこともあなたとなら乗り越えられる”というポジティブなメッセージ、デコボコな二人に生まれる化学反応、何気ない毎日の中で気がつく小さな幸せを描くハッピーなディスコチューン",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "a350861aee50a04d",
-        "title": "日曜トライアル 第45回 M!LK山中柔太朗「叶えたことが特に嬉しかった」、JO1川西拓実「とても光栄」、齋藤飛鳥「びっくりしすぎてちょっと笑ってしまった」…第一線で活躍する7組が語った“初めて”の喜びと覚悟",
-        "sourceName": "マイナビニュース 芸能",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-        "articleUrl": "https://news.mynavi.jp/article/sunday_trial-45/",
-        "publishedAt": "2026-10-04T11:00:00.000Z",
-        "summary": "第一線で活躍する人々にも、まだ経験したことのない“初めて”がある。JO1・川西拓実はGP帯連ドラ初出演、M!LK・山中柔太朗は目標にしていたGP帯連続ドラマ初レギュラー、齊藤なぎさは連ドラ初主演へ。このほかにも9月には、俳優・タレントらの新たな挑戦など、様々な“初めて”が発表された。今回は、9月にマイナビニュースの「テレビ」カテゴリで掲載した記事の中から、7",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
       }
     ],
     "超特急": [
@@ -170,20 +182,6 @@
         "articleUrl": "https://www.wws-channel.com/music2/673749.html",
         "publishedAt": "2026-10-13T10:36:16.000Z",
         "summary": "10月3日、お台場で開催された「a-nation 2026」1日目に、超特急が出演した。超特急はライブ出演後にWWSチャンネルのインタビューに応じ、ステージ衣装のポイントからこの夏での印象的な出来事など語った。【a-nationとは】「a-nation」は、2002年よ ... The post 【動画】超特急、野外フェスらしいカジュアルスタイルで「a-na",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "88624be7f31acc3c",
-        "title": "超特急、Number_i、JO1ら出演！『STAR』2時間SPで注目の最新曲パフォーマンス一挙放送",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000898424/",
-        "publishedAt": "2026-10-13T10:00:01.000Z",
-        "summary": "フジテレビ系音楽番組『STAR』の2時間スペシャルが、10月15日19時より放送。超特急、Number_i...",
         "groups": [
           "超特急"
         ],
@@ -239,6 +237,20 @@
             "status": "active"
           }
         ]
+      },
+      {
+        "id": "471946451d042b7e",
+        "title": "超特急の新曲テーマは“ユーロビート×干支”、24thシングル『エトランス・フィーバー』12月発売",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/09/92770/",
+        "publishedAt": "2026-09-30T10:00:00.000Z",
+        "summary": "9人組メインダンサー＆バックボーカルグループ・超特急が、24枚目のシングル『エトランス・フィーバー』を12月16日(水)にリリース。表題曲「エトランス・フィーバー」を10月12日(月)0時より先行配信することが発表された。 11月に待望の東京ドーム2Days公演を控える超特急の次作は、ユーロビート×干支という意外な組み合わせから生まれた新たなトンチキソング。",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
       }
     ],
     "SUPER★DRAGON": [

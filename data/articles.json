@@ -1,6 +1,64 @@
 {
-  "updatedAt": "2026-10-13T22:44:18.571Z",
+  "updatedAt": "2026-10-14T04:52:52.406Z",
   "articles": [
+    {
+      "id": "6db7f189e627e4d1",
+      "title": "M!LK、「MAQUIA 2026年12月号」増刊表紙に登場。スペシャル・ピンナップ付き",
+      "sourceName": "タワーレコード ニュース",
+      "sourceUrl": "https://tower.jp/feeds/article/news",
+      "articleUrl": "https://tower.jp/article/news/2026/10/14/tgb004",
+      "publishedAt": "2026-10-14T03:45:07.000Z",
+      "summary": "",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "c317d5dddc506f8c",
+      "title": "近藤真彦、M!LK塩﨑太智らが『プレバト!!』秋の2時間スペシャル参戦！アート系企画で才能を発揮してきた塩﨑太智が陶芸才能ランキングに挑む",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000899088/",
+      "publishedAt": "2026-10-14T02:50:47.000Z",
+      "summary": "10月15日の『プレバト!!』では秋の2時間スペシャル「水彩画」「俳句」「陶芸」の豪華3本立てを...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "塩﨑太智",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "1b37ccc304f02897",
+      "title": "M!LK、美容誌『MAQUIA』12月号増刊の表紙に登場！「皆さんにとってM!LKとは？」の問いに、曽野舜太が「美容成分ですかね」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000899047/",
+      "publishedAt": "2026-10-14T01:45:08.000Z",
+      "summary": "美容誌『MAQUIA』12月号（10月22日）の表紙全4パターンが一挙解禁。増刊はM!LK、集英社スペシ...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "曽野舜太",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "d9349005ab5b9f06",
       "title": "上白石萌音＆向井康二出演ドラマ『いろはの恋は時代をかける』大森元貴の役どころが判明！「火曜ドラマに出演する人生、私もビックリしてます」",
@@ -31,20 +89,6 @@
       "articleUrl": "https://www.wws-channel.com/music2/673749.html",
       "publishedAt": "2026-10-13T10:36:16.000Z",
       "summary": "10月3日、お台場で開催された「a-nation 2026」1日目に、超特急が出演した。超特急はライブ出演後にWWSチャンネルのインタビューに応じ、ステージ衣装のポイントからこの夏での印象的な出来事など語った。【a-nationとは】「a-nation」は、2002年よ ... The post 【動画】超特急、野外フェスらしいカジュアルスタイルで「a-na",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "88624be7f31acc3c",
-      "title": "超特急、Number_i、JO1ら出演！『STAR』2時間SPで注目の最新曲パフォーマンス一挙放送",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000898424/",
-      "publishedAt": "2026-10-13T10:00:01.000Z",
-      "summary": "フジテレビ系音楽番組『STAR』の2時間スペシャルが、10月15日19時より放送。超特急、Number_i...",
       "groups": [
         "超特急"
       ],
