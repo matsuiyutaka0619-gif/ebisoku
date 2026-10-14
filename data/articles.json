@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-14T17:09:44.997Z",
+  "updatedAt": "2026-10-14T21:40:36.477Z",
   "articles": [
+    {
+      "id": "2ed2b0623a4a488f",
+      "title": "EBiDANにしか描けない“循環”の正体 15年を経て迎えた超飛躍の理由、『Mステ』出演で果たすひとつの到達点",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/10/post-2553020.html",
+      "publishedAt": "2026-10-14T20:50:31.000Z",
+      "summary": "10月16日放送の『ミュージックステーション』（テレビ朝日系）に、EBiDAN（恵比寿学園男子部）が初出演。15周年を経て迎えたこの超飛躍とも言える活躍の理由を、各グループの好況や楽曲「Yes! 東京」のセールスをもとに解説する。",
+      "groups": [
+        "EBiDAN"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "4405aeaaba776863",
       "title": "小泉光咲（原因は自分にある。）＆四坂亮翔W主演ドラマ『陽キャ集団にいる芹沢は、俺の前だと様子がおかしい』最終回あらすじ＆場面写真公開！甘々な2人の恋の結末は？",
@@ -152,33 +166,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "96df87fba556b5a4",
-      "title": "原因は自分にある。小泉光咲＆杢代和人『Oggi』で“理想の後輩社員”に扮してスーツ姿を披露！お互いの意外な一面や仕事に対する姿勢も明らかに",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000899172/",
-      "publishedAt": "2026-10-14T05:00:46.000Z",
-      "summary": "原因は自分にある。の小泉光咲と杢代和人が、10月28日発売の『Oggi』に登場する。 ■オフィスで...",
-      "groups": [
-        "原因は自分にある。"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "小泉光咲",
-          "group": "原因は自分にある。",
-          "status": "active"
-        },
-        {
-          "name": "杢代和人",
-          "group": "原因は自分にある。",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "6db7f189e627e4d1",
