@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-14T11:51:04.617Z",
+  "updatedAt": "2026-10-14T17:09:44.999Z",
   "totals": {
     "all": 126,
-    "today": 10,
+    "today": 0,
     "week": 19
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 8
+      "count": 7
     },
     {
       "name": "SUPER★DRAGON",
@@ -23,21 +23,21 @@
       "count": 3
     },
     {
-      "name": "ONE N' ONLY",
-      "count": 1
+      "name": "原因は自分にある。",
+      "count": 2
     },
     {
-      "name": "原因は自分にある。",
+      "name": "ONE N' ONLY",
       "count": 1
     }
   ],
   "memberRanking": [
     {
-      "name": "塩﨑太智",
+      "name": "山中柔太朗",
       "count": 2
     },
     {
-      "name": "山中柔太朗",
+      "name": "小泉光咲",
       "count": 2
     },
     {
@@ -49,11 +49,11 @@
       "count": 1
     },
     {
-      "name": "吉田仁人",
+      "name": "塩﨑太智",
       "count": 1
     },
     {
-      "name": "小泉光咲",
+      "name": "吉田仁人",
       "count": 1
     },
     {
@@ -63,11 +63,11 @@
   ],
   "sourceRanking": [
     {
-      "name": "THE FIRST TIMES",
-      "count": 5
+      "name": "SUPER★DRAGON 公式NEWS",
+      "count": 4
     },
     {
-      "name": "SUPER★DRAGON 公式NEWS",
+      "name": "THE FIRST TIMES",
       "count": 4
     },
     {
@@ -79,12 +79,12 @@
       "count": 2
     },
     {
-      "name": "マイナビニュース エンタメ",
+      "name": "WWSチャンネル",
       "count": 2
     },
     {
-      "name": "WWSチャンネル",
-      "count": 1
+      "name": "マイナビニュース エンタメ",
+      "count": 2
     },
     {
       "name": "マイナビニュース テレビ",
@@ -93,6 +93,57 @@
   ],
   "topics": [],
   "recentByGroup": {
+    "原因は自分にある。": [
+      {
+        "id": "4405aeaaba776863",
+        "title": "小泉光咲（原因は自分にある。）＆四坂亮翔W主演ドラマ『陽キャ集団にいる芹沢は、俺の前だと様子がおかしい』最終回あらすじ＆場面写真公開！甘々な2人の恋の結末は？",
+        "sourceName": "WWSチャンネル",
+        "sourceUrl": "https://www.wws-channel.com/feed",
+        "articleUrl": "https://www.wws-channel.com/tv/673983.html",
+        "publishedAt": "2026-10-14T13:00:40.000Z",
+        "summary": "小泉光咲（原因は自分にある。）と四坂亮翔がW主演を務める読売テレビのドラマ『陽キャ集団にいる芹沢は、俺の前だと様子がおかしい』の第11話（最終回）のあらすじと場面写真が公開された。本作は、人気BL作品『みなと商事コインランドリー』で知られる椿ゆずの同名小説を原作とした、 ... The post 小泉光咲（原因は自分にある。）＆四坂亮翔W主演ドラマ『陽キャ集",
+        "groups": [
+          "原因は自分にある。"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "96df87fba556b5a4",
+        "title": "原因は自分にある。小泉光咲＆杢代和人『Oggi』で“理想の後輩社員”に扮してスーツ姿を披露！お互いの意外な一面や仕事に対する姿勢も明らかに",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000899172/",
+        "publishedAt": "2026-10-14T05:00:46.000Z",
+        "summary": "原因は自分にある。の小泉光咲と杢代和人が、10月28日発売の『Oggi』に登場する。 ■オフィスで...",
+        "groups": [
+          "原因は自分にある。"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "杢代和人",
+            "group": "原因は自分にある。",
+            "status": "active"
+          }
+        ]
+      }
+    ],
     "EBiDAN": [
       {
         "id": "e02ef9cfe0983591",
@@ -364,35 +415,6 @@
           {
             "name": "タクヤ",
             "group": "超特急",
-            "status": "active"
-          }
-        ]
-      }
-    ],
-    "原因は自分にある。": [
-      {
-        "id": "96df87fba556b5a4",
-        "title": "原因は自分にある。小泉光咲＆杢代和人『Oggi』で“理想の後輩社員”に扮してスーツ姿を披露！お互いの意外な一面や仕事に対する姿勢も明らかに",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000899172/",
-        "publishedAt": "2026-10-14T05:00:46.000Z",
-        "summary": "原因は自分にある。の小泉光咲と杢代和人が、10月28日発売の『Oggi』に登場する。 ■オフィスで...",
-        "groups": [
-          "原因は自分にある。"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "杢代和人",
-            "group": "原因は自分にある。",
             "status": "active"
           }
         ]
