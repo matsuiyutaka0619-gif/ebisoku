@@ -1,17 +1,21 @@
 {
-  "updatedAt": "2026-10-14T04:52:52.407Z",
+  "updatedAt": "2026-10-14T11:51:04.617Z",
   "totals": {
-    "all": 121,
-    "today": 3,
-    "week": 14
+    "all": 126,
+    "today": 10,
+    "week": 19
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 6
+      "count": 8
     },
     {
       "name": "SUPER★DRAGON",
+      "count": 4
+    },
+    {
+      "name": "超特急",
       "count": 4
     },
     {
@@ -19,8 +23,12 @@
       "count": 3
     },
     {
-      "name": "超特急",
-      "count": 3
+      "name": "ONE N' ONLY",
+      "count": 1
+    },
+    {
+      "name": "原因は自分にある。",
+      "count": 1
     }
   ],
   "memberRanking": [
@@ -29,33 +37,49 @@
       "count": 2
     },
     {
+      "name": "山中柔太朗",
+      "count": 2
+    },
+    {
       "name": "飯島颯",
       "count": 2
     },
     {
-      "name": "山中柔太朗",
+      "name": "NAOYA",
       "count": 1
     },
     {
-      "name": "曽野舜太",
+      "name": "吉田仁人",
+      "count": 1
+    },
+    {
+      "name": "小泉光咲",
+      "count": 1
+    },
+    {
+      "name": "杢代和人",
       "count": 1
     }
   ],
   "sourceRanking": [
     {
+      "name": "THE FIRST TIMES",
+      "count": 5
+    },
+    {
       "name": "SUPER★DRAGON 公式NEWS",
       "count": 4
     },
     {
-      "name": "THE FIRST TIMES",
-      "count": 3
-    },
-    {
       "name": "タワーレコード ニュース",
-      "count": 3
+      "count": 4
     },
     {
       "name": "Bezzy",
+      "count": 2
+    },
+    {
+      "name": "マイナビニュース エンタメ",
       "count": 2
     },
     {
@@ -69,29 +93,91 @@
   ],
   "topics": [],
   "recentByGroup": {
-    "M!LK": [
+    "EBiDAN": [
       {
-        "id": "6db7f189e627e4d1",
-        "title": "M!LK、「MAQUIA 2026年12月号」増刊表紙に登場。スペシャル・ピンナップ付き",
+        "id": "e02ef9cfe0983591",
+        "title": "10月16日放送「ミュージックステーション」、AI、あいみょん、EBiDAN（恵比寿学園男子部）、櫻坂46、sumika、なにわ男子、RADWIMPS出演",
         "sourceName": "タワーレコード ニュース",
         "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/10/14/tgb004",
-        "publishedAt": "2026-10-14T03:45:07.000Z",
+        "articleUrl": "https://tower.jp/article/news/2026/10/14/tg013",
+        "publishedAt": "2026-10-14T11:00:28.000Z",
         "summary": "",
         "groups": [
-          "M!LK"
+          "EBiDAN"
         ],
         "statuses": [],
         "memberMatches": []
       },
       {
-        "id": "c317d5dddc506f8c",
-        "title": "近藤真彦、M!LK塩﨑太智らが『プレバト!!』秋の2時間スペシャル参戦！アート系企画で才能を発揮してきた塩﨑太智が陶芸才能ランキングに挑む",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000899088/",
-        "publishedAt": "2026-10-14T02:50:47.000Z",
-        "summary": "10月15日の『プレバト!!』では秋の2時間スペシャル「水彩画」「俳句」「陶芸」の豪華3本立てを...",
+        "id": "4c9519734cc191ec",
+        "title": "第6回 EBiDAN 大運動会 『スポーツマンヒップ！』ファンクラブブース情報！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11754/",
+        "publishedAt": "2026-10-09T06:30:06.000Z",
+        "summary": "第6回 EBiDAN 大運動会 『スポーツマンヒップ！』ファンクラブブースの受付が決定いたしました。 当日は、対象期間中に各EBiDANファンクラブで【新規入会・継続・お友達紹介】をされた方、 または各＋KIRARIコミ […] The post 第6回 EBiDAN 大運動会 『スポーツマンヒップ！』ファンクラブブース情報！ first appeared ",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "d368d6cea4acc417",
+        "title": "【お知らせ】 EBiDAN SNS投稿ガイドラインに関するお知らせ",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11751/",
+        "publishedAt": "2026-10-08T03:30:07.000Z",
+        "summary": "いつも弊社所属アーティストを温かく応援いただき、誠にありがとうございます。 これからも楽しく安心して応援いただけるよう、SNSにおけるご投稿のガイドラインを定めております。 皆様のご理解とご協力をお願い申し上げます。 ※ […] The post 【お知らせ】 EBiDAN SNS投稿ガイドラインに関するお知らせ first appeared on SUPE",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "0a6bc3b4cc337ec3",
+        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』機材開放先着販売 決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11738/",
+        "publishedAt": "2026-10-06T08:00:16.000Z",
+        "summary": "SOLD OUTとなっておりました第6回EBiDAN大運動会『スポーツマンヒップ！』につきまして、 機材席の一部開放に伴い、若干数ではございますが、追加販売が決定いたしました。 10月8日(木)18:00より〈先着〉にて […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』機材開放先着販売 決定！ first appeared on ",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "a2361a4ff60972aa",
+        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ 会場販売＆整理券配布のお知らせ",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11726/",
+        "publishedAt": "2026-10-05T07:00:49.000Z",
+        "summary": "第6回EBiDAN大運動会『スポーツマンヒップ！』LaLa arena TOKYO-BAY公演の会場販売が決定しました！ ※オフィシャルグッズの販売は、【キャッシュレス決済のみ】の取り扱いとなります。現金はご利用いただけ […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ 会場販売＆整理券配布のお知らせ first",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
+    "M!LK": [
+      {
+        "id": "712e1dbf5f3dc5d2",
+        "title": "「めんどくさいアイドルだな(笑)」“じん”呼びを許さないM!LK吉田仁人 オードリー若林のツッコミに喜び爆発もファンには釘を刺す「そこはご了承ください」",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20261014-5122572/",
+        "publishedAt": "2026-10-14T10:00:00.000Z",
+        "summary": "「お二人に“じん”って呼ばれるのが一番うれしい」――。アイドルグループ・M!LKの吉田仁人が8日、文化放送『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)に出演。お笑いコンビ・オードリーからの“じん”呼びに、喜びをあらわにした。",
         "groups": [
           "M!LK"
         ],
@@ -100,42 +186,20 @@
         ],
         "memberMatches": [
           {
-            "name": "塩﨑太智",
+            "name": "吉田仁人",
             "group": "M!LK",
             "status": "active"
           }
         ]
       },
       {
-        "id": "1b37ccc304f02897",
-        "title": "M!LK、美容誌『MAQUIA』12月号増刊の表紙に登場！「皆さんにとってM!LKとは？」の問いに、曽野舜太が「美容成分ですかね」",
+        "id": "ed46dad6176d675c",
+        "title": "M!LK山中柔太朗が向井康二とお揃いポーズで並んだ“平成プリ”公開！「平成設定でも盛れてるのさすが」「ふたりともえくぼがかわいい」「先生役かっこよかった」",
         "sourceName": "THE FIRST TIMES",
         "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000899047/",
-        "publishedAt": "2026-10-14T01:45:08.000Z",
-        "summary": "美容誌『MAQUIA』12月号（10月22日）の表紙全4パターンが一挙解禁。増刊はM!LK、集英社スペシ...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "d9349005ab5b9f06",
-        "title": "上白石萌音＆向井康二出演ドラマ『いろはの恋は時代をかける』大森元貴の役どころが判明！「火曜ドラマに出演する人生、私もビックリしてます」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000898481/",
-        "publishedAt": "2026-10-13T13:57:16.000Z",
-        "summary": "上白石萌音が主演を務め、Snow Manの向井康二、山中柔太朗、Mrs. GREEN APPLEの大森元貴らが出...",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000899412/",
+        "publishedAt": "2026-10-14T09:08:18.000Z",
+        "summary": "M!LK山中柔太朗が、共演者とのプリクラをSNSで公開した。 ■「シーンの後の空き時間で撮った写...",
         "groups": [
           "M!LK"
         ],
@@ -151,13 +215,27 @@
         ]
       },
       {
-        "id": "fdc05808e5ca3f6f",
-        "title": "塩崎太智、M!LK加入意欲満々の上田晋也に「それはごめんなさい」 日テレ系「KARADA WEEK」サポーター就任＆テーマ曲も",
-        "sourceName": "マイナビニュース テレビ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-        "articleUrl": "https://news.mynavi.jp/article/20261011-5105060/",
-        "publishedAt": "2026-10-10T20:00:00.000Z",
-        "summary": "日本テレビ系の健康キャンペーン「KARADA WEEK」が、10月31日から11月8日までの9日間にわたって実施される。今年も上田晋也が12年連続でキャプテンを務め、M!LKがサポーターに就任。テーマ曲にはM!LKの「好きすぎて滅!」が決定した。",
+        "id": "7913907e0d67975e",
+        "title": "M!LK、“好きすぎて滅！”が「MTV VMAJ 2026」特別賞「MTV Breakthrough Song」受賞",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/10/14/tg007",
+        "publishedAt": "2026-10-14T08:55:46.000Z",
+        "summary": "",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "56fab80fc8832edb",
+        "title": "M!LK山中柔太朗がサッカーでスーパーショット！「飛んでる！」「躍動感ありすぎて浮いてる」「サッカー姿かっこいい」と称賛の声",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000899270/",
+        "publishedAt": "2026-10-14T06:35:01.000Z",
+        "summary": "M!LKの山中柔太朗が自身のXを更新。出演中のTBS系ドラマ『いろはの恋は時代（とき）をかける』...",
         "groups": [
           "M!LK"
         ],
@@ -166,14 +244,66 @@
         ],
         "memberMatches": [
           {
-            "name": "塩﨑太智",
+            "name": "山中柔太朗",
             "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "6db7f189e627e4d1",
+        "title": "M!LK、「MAQUIA 2026年12月号」増刊表紙に登場。スペシャル・ピンナップ付き",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/10/14/tgb004",
+        "publishedAt": "2026-10-14T03:45:07.000Z",
+        "summary": "",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
+    "ONE N' ONLY": [
+      {
+        "id": "3e60a8d993059806",
+        "title": "大豪雨で堤防が決壊寸前、冠水した車に女性が取り残され危機に…市役所職員たちが町を守るため奮闘『突破ファイル』",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20261014-5127738/",
+        "publishedAt": "2026-10-14T09:00:00.000Z",
+        "summary": "「まだ諦めたくない」――15日に放送される日本テレビ系バラエティ番組『THE突破ファイル』(毎週木曜19:00～)では、大豪雨によって堤防が決壊寸前となった町を救うため、野田クリスタル、尾形貴弘、草川直弥(ONE N' ONLY)らが演じる市役所職員たちが奮闘する。",
+        "groups": [
+          "ONE N' ONLY"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "NAOYA",
+            "group": "ONE N' ONLY",
             "status": "active"
           }
         ]
       }
     ],
     "超特急": [
+      {
+        "id": "43c0e7baeaf7dc9a",
+        "title": "『COUNTDOWN JAPAN 26/27』第1弾出演アーティスト97組発表！Creepy Nuts、羊文学、CUTIE STREET、超特急、10-FEET、LiSAら出演決定",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000899196/",
+        "publishedAt": "2026-10-14T05:35:33.000Z",
+        "summary": "『COUNTDOWN JAPAN 26/27』の第1弾出演アーティストが発表され、併せてチケット第1次抽選先行...",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
       {
         "id": "89551d3b85a8524b",
         "title": "【動画】超特急、野外フェスらしいカジュアルスタイルで「a-nation 2026」にて語る「超特急としては初めての東京ドームになりますし…」",
@@ -237,20 +367,35 @@
             "status": "active"
           }
         ]
-      },
+      }
+    ],
+    "原因は自分にある。": [
       {
-        "id": "471946451d042b7e",
-        "title": "超特急の新曲テーマは“ユーロビート×干支”、24thシングル『エトランス・フィーバー』12月発売",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/09/92770/",
-        "publishedAt": "2026-09-30T10:00:00.000Z",
-        "summary": "9人組メインダンサー＆バックボーカルグループ・超特急が、24枚目のシングル『エトランス・フィーバー』を12月16日(水)にリリース。表題曲「エトランス・フィーバー」を10月12日(月)0時より先行配信することが発表された。 11月に待望の東京ドーム2Days公演を控える超特急の次作は、ユーロビート×干支という意外な組み合わせから生まれた新たなトンチキソング。",
+        "id": "96df87fba556b5a4",
+        "title": "原因は自分にある。小泉光咲＆杢代和人『Oggi』で“理想の後輩社員”に扮してスーツ姿を披露！お互いの意外な一面や仕事に対する姿勢も明らかに",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000899172/",
+        "publishedAt": "2026-10-14T05:00:46.000Z",
+        "summary": "原因は自分にある。の小泉光咲と杢代和人が、10月28日発売の『Oggi』に登場する。 ■オフィスで...",
         "groups": [
-          "超特急"
+          "原因は自分にある。"
         ],
-        "statuses": [],
-        "memberMatches": []
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "杢代和人",
+            "group": "原因は自分にある。",
+            "status": "active"
+          }
+        ]
       }
     ],
     "SUPER★DRAGON": [
@@ -336,82 +481,6 @@
         "articleUrl": "https://super-dragon.jp/news/news11738/",
         "publishedAt": "2026-10-06T08:00:16.000Z",
         "summary": "SOLD OUTとなっておりました第6回EBiDAN大運動会『スポーツマンヒップ！』につきまして、 機材席の一部開放に伴い、若干数ではございますが、追加販売が決定いたしました。 10月8日(木)18:00より〈先着〉にて […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』機材開放先着販売 決定！ first appeared on ",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "EBiDAN": [
-      {
-        "id": "4c9519734cc191ec",
-        "title": "第6回 EBiDAN 大運動会 『スポーツマンヒップ！』ファンクラブブース情報！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11754/",
-        "publishedAt": "2026-10-09T06:30:06.000Z",
-        "summary": "第6回 EBiDAN 大運動会 『スポーツマンヒップ！』ファンクラブブースの受付が決定いたしました。 当日は、対象期間中に各EBiDANファンクラブで【新規入会・継続・お友達紹介】をされた方、 または各＋KIRARIコミ […] The post 第6回 EBiDAN 大運動会 『スポーツマンヒップ！』ファンクラブブース情報！ first appeared ",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "97ff92422cb7d890",
-        "title": "EBiDAN（恵比寿学園男子部）、15周年記念シングル『Yes! 東京』表題曲MVが総再生回数1億回突破",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/10/08/tg009",
-        "publishedAt": "2026-10-08T10:30:00.000Z",
-        "summary": "",
-        "groups": [
-          "EBiDAN"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "d368d6cea4acc417",
-        "title": "【お知らせ】 EBiDAN SNS投稿ガイドラインに関するお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11751/",
-        "publishedAt": "2026-10-08T03:30:07.000Z",
-        "summary": "いつも弊社所属アーティストを温かく応援いただき、誠にありがとうございます。 これからも楽しく安心して応援いただけるよう、SNSにおけるご投稿のガイドラインを定めております。 皆様のご理解とご協力をお願い申し上げます。 ※ […] The post 【お知らせ】 EBiDAN SNS投稿ガイドラインに関するお知らせ first appeared on SUPE",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "0a6bc3b4cc337ec3",
-        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』機材開放先着販売 決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11738/",
-        "publishedAt": "2026-10-06T08:00:16.000Z",
-        "summary": "SOLD OUTとなっておりました第6回EBiDAN大運動会『スポーツマンヒップ！』につきまして、 機材席の一部開放に伴い、若干数ではございますが、追加販売が決定いたしました。 10月8日(木)18:00より〈先着〉にて […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』機材開放先着販売 決定！ first appeared on ",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "a2361a4ff60972aa",
-        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ 会場販売＆整理券配布のお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11726/",
-        "publishedAt": "2026-10-05T07:00:49.000Z",
-        "summary": "第6回EBiDAN大運動会『スポーツマンヒップ！』LaLa arena TOKYO-BAY公演の会場販売が決定しました！ ※オフィシャルグッズの販売は、【キャッシュレス決済のみ】の取り扱いとなります。現金はご利用いただけ […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ 会場販売＆整理券配布のお知らせ first",
         "groups": [
           "EBiDAN",
           "SUPER★DRAGON"
