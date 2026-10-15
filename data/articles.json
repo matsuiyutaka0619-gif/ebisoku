@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-10-15T16:59:57.522Z",
+  "updatedAt": "2026-10-15T21:22:27.505Z",
   "articles": [
+    {
+      "id": "228c05c73d2dd81b",
+      "title": "『俺たちの箱根駅伝』学生連合の集合ショット初公開 小林虎之介や杢代和人ら18人が集結",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1082616/",
+      "publishedAt": "2026-10-15T21:00:00.000Z",
+      "summary": "俳優の大泉洋が主演を務める、日本テレビ系連続ドラマ『俺たちの箱根駅伝』（土曜午後9時）の第2話が、17日に放送される。放送を前に「学生連合」キャスト18人が勢ぞろいした写真が、16日に初公開された。学生キャストがトラック […]",
+      "groups": [
+        "原因は自分にある。"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "杢代和人",
+          "group": "原因は自分にある。",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "48f129e7e35f7876",
       "title": "BUDDiiS・小川史記、加藤夏希から「1年でだいぶアイドルに（笑）」 監督は演技をべた褒め「完璧」",
@@ -9,28 +31,6 @@
       "articleUrl": "https://encount.press/archives/1082602/",
       "publishedAt": "2026-10-15T11:27:58.000Z",
       "summary": "BUDDiiSの小川史記が15日、都内で行われた映画『冤罪のつくりかた』（11月6日公開）の完成披露上映会に出席。同作の撮影を振り返った。映画『冤罪のつくりかた』完成披露上映会 BUDDiiSの小川史記が15日、都内で […]",
-      "groups": [
-        "BUDDiiS"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "FUMINORI",
-          "group": "BUDDiiS",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "0ae1f4e146b8125d",
-      "title": "加藤夏希、「肘を脱臼した」と告白 きっかけは子どもの歯磨き「車のおもちゃを踏んで」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1082111/",
-      "publishedAt": "2026-10-15T10:26:14.000Z",
-      "summary": "俳優の加藤夏希が15日、都内で行われた主演映画『冤罪のつくりかた』（11月6日公開）の完成披露上映会にBUDDiiSの小川史記、原田龍二、泊誠也監督、上念司プロデューサーと共に出席した。同作にまつわるトークを展開した。顔 […]",
       "groups": [
         "BUDDiiS"
       ],
