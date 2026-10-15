@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-10-15T11:28:00.977Z",
+  "updatedAt": "2026-10-15T16:59:57.522Z",
   "articles": [
+    {
+      "id": "48f129e7e35f7876",
+      "title": "BUDDiiS・小川史記、加藤夏希から「1年でだいぶアイドルに（笑）」 監督は演技をべた褒め「完璧」",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1082602/",
+      "publishedAt": "2026-10-15T11:27:58.000Z",
+      "summary": "BUDDiiSの小川史記が15日、都内で行われた映画『冤罪のつくりかた』（11月6日公開）の完成披露上映会に出席。同作の撮影を振り返った。映画『冤罪のつくりかた』完成披露上映会 BUDDiiSの小川史記が15日、都内で […]",
+      "groups": [
+        "BUDDiiS"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "FUMINORI",
+          "group": "BUDDiiS",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "0ae1f4e146b8125d",
       "title": "加藤夏希、「肘を脱臼した」と告白 きっかけは子どもの歯磨き「車のおもちゃを踏んで」",
@@ -85,28 +107,6 @@
         {
           "name": "山中柔太朗",
           "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "38c64cda2dac9c78",
-      "title": "Travis Japan七五三掛龍也が超特急 草川拓弥とのツーショット公開！「胸筋も腹筋もバキバキだ」「かわいいふたり」「肌色面積多くてドキドキ」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000899691/",
-      "publishedAt": "2026-10-15T02:49:35.000Z",
-      "summary": "Travis Japan七五三掛龍也が、超特急の草川拓弥との『CDTV』オフショットを公開した。 ■胸元が...",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "タクヤ",
-          "group": "超特急",
           "status": "active"
         }
       ]
@@ -378,28 +378,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "a350861aee50a04d",
-      "title": "日曜トライアル 第45回 M!LK山中柔太朗「叶えたことが特に嬉しかった」、JO1川西拓実「とても光栄」、齋藤飛鳥「びっくりしすぎてちょっと笑ってしまった」…第一線で活躍する7組が語った“初めて”の喜びと覚悟",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/sunday_trial-45/",
-      "publishedAt": "2026-10-04T11:00:00.000Z",
-      "summary": "第一線で活躍する人々にも、まだ経験したことのない“初めて”がある。JO1・川西拓実はGP帯連ドラ初出演、M!LK・山中柔太朗は目標にしていたGP帯連続ドラマ初レギュラー、齊藤なぎさは連ドラ初主演へ。このほかにも9月には、俳優・タレントらの新たな挑戦など、様々な“初めて”が発表された。今回は、9月にマイナビニュースの「テレビ」カテゴリで掲載した記事の中から、7",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "山中柔太朗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "2a4dddd6b9e52a72",
