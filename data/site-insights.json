@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-16T04:31:08.163Z",
+  "updatedAt": "2026-10-16T11:23:26.713Z",
   "totals": {
-    "all": 119,
-    "today": 2,
-    "week": 13
+    "all": 121,
+    "today": 5,
+    "week": 15
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 4
+      "count": 5
     },
     {
       "name": "SUPER★DRAGON",
@@ -19,19 +19,23 @@
       "count": 3
     },
     {
-      "name": "EBiDAN",
+      "name": "原因は自分にある。",
       "count": 2
+    },
+    {
+      "name": "EBiDAN",
+      "count": 1
     },
     {
       "name": "ONE N' ONLY",
       "count": 1
-    },
-    {
-      "name": "原因は自分にある。",
-      "count": 1
     }
   ],
   "memberRanking": [
+    {
+      "name": "吉田仁人",
+      "count": 2
+    },
     {
       "name": "飯島颯",
       "count": 2
@@ -41,15 +45,15 @@
       "count": 1
     },
     {
-      "name": "吉田仁人",
-      "count": 1
-    },
-    {
       "name": "山中柔太朗",
       "count": 1
     },
     {
       "name": "小泉光咲",
+      "count": 1
+    },
+    {
+      "name": "曽野舜太",
       "count": 1
     },
     {
@@ -79,187 +83,35 @@
       "count": 2
     },
     {
+      "name": "QJWeb",
+      "count": 1
+    },
+    {
       "name": "THE FIRST TIMES",
+      "count": 1
+    },
+    {
+      "name": "マイナビニュース エンタメ",
       "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
-    "超特急": [
+    "SUPER★DRAGON": [
       {
-        "id": "ff1f387aa8f6af56",
-        "title": "超特急“トンチキ”テーマパークが全国進出！『トンチキランド2』3都市で開幕決定＆キービジュアル公開",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000900415/",
-        "publishedAt": "2026-10-16T04:00:41.000Z",
-        "summary": "超特急のテーマパーク『トンチキランド』が全国進出することが発表され、キービジュアルが公開...",
+        "id": "7e88eb56cabb27fa",
+        "title": "SUPER★DRAGON Major 2nd Album「STAR」リリースイベント・特典会開催！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11790/",
+        "publishedAt": "2026-10-16T10:00:30.000Z",
+        "summary": "2026年12月09日(水)、SUPER★DRAGONメジャー2枚目となるアルバム「STAR」の発売を記念し、リリースイベント・特典会が決定いたしました！ SUPER★DRAGONと一緒に、素敵な思い出を作りましょう！ […] The post SUPER★DRAGON Major 2nd Album「STAR」リリースイベント・特典会開催！ first a",
         "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "ab6a92dadbc653fa",
-        "title": "鈴木伸之×柏木悠W主演『羊の皮を着たケモノ』12月11日劇場公開、ミステリアスなポスター解禁",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/10/93399/",
-        "publishedAt": "2026-10-12T09:00:00.000Z",
-        "summary": "鈴木伸之と柏木悠（超特急）がW主演を務める映画『羊の皮を着たケモノ』が12月11日(金)に公開されることが決定し、ポスタービジュアルが解禁された。 本作は、九號（きゅうごう）による同名BL漫画（徳間書店 Charaコミックス刊）を実写化した、骨太で新感覚のボーイズ・ラブ。原作は「BLアワード2022 ディープ部門」で第13位、「BLアワード2024 ディープ",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "b33204e5b8b18e79",
-        "title": "超特急「エトランス・フィーバー」配信開始、“誰もが主役になれる”と前向きなメッセージを込める",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/10/93396/",
-        "publishedAt": "2026-10-11T15:00:00.000Z",
-        "summary": "9人組メインダンサー＆バックボーカルグループ・超特急が、12月16日(水)に発売する24枚目シングルの表題曲「エトランス・フィーバー」の先行配信をスタートさせた。 11月に待望の東京ドーム2Days公演を控える超特急の新曲「エトランス・フィーバー」は、干支をモチーフにしたユーロビート調の新たなトンチキソング。疾走感あふれるビートに乗せて「生まれ持ったキャラク",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "6a1d840f53f5771f",
-        "title": "高橋大輔×草川拓弥が演劇舞台初挑戦でW主演、固く結ばれたバディ演じる『ウルフムーン』上演決定",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/10/92796/",
-        "publishedAt": "2026-10-02T03:00:00.000Z",
-        "summary": "高橋大輔と草川拓弥がダブル主演を務める舞台『ウルフムーン』ー狼月に昇るーが2027年1月より東京と大阪で上演されることが決定した。 本作で演出を担うのは、数々の舞台に出演し俳優として培った現場感覚を生かしながら、演出家としても実績を重ねる福士誠治。脚本は、映画『かぐや姫の物語』やミュージカル『梨泰院クラス』『四月は君の嘘』、映画『てっぺんの向こうにあなたがい",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "タクヤ",
-            "group": "超特急",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "471946451d042b7e",
-        "title": "超特急の新曲テーマは“ユーロビート×干支”、24thシングル『エトランス・フィーバー』12月発売",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/09/92770/",
-        "publishedAt": "2026-09-30T10:00:00.000Z",
-        "summary": "9人組メインダンサー＆バックボーカルグループ・超特急が、24枚目のシングル『エトランス・フィーバー』を12月16日(水)にリリース。表題曲「エトランス・フィーバー」を10月12日(月)0時より先行配信することが発表された。 11月に待望の東京ドーム2Days公演を控える超特急の次作は、ユーロビート×干支という意外な組み合わせから生まれた新たなトンチキソング。",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "M!LK": [
-      {
-        "id": "6d52c742a0c301e4",
-        "title": "M!LK・吉田仁人主演ドラマ『溺愛 ～実は、最強ヒーロー～』60秒PR映像解禁！桃月なしこ＆池田彪馬との三角関係を描く人物相関図も公開",
-        "sourceName": "WWSチャンネル",
-        "sourceUrl": "https://www.wws-channel.com/feed",
-        "articleUrl": "https://www.wws-channel.com/tv/674333.html",
-        "publishedAt": "2026-10-15T22:00:28.000Z",
-        "summary": "M!LKの吉田仁人が主演を務めるTOKYO MXの新金曜ドラマ『溺愛 ～実は、最強ヒーロー～』が、10月30日（金）より放送開始する。これに先駆け、本編映像を使用した60秒PR映像と人物相関図が公開された。本作は、シリーズ累計3,400万ダウンロードを突破した人気コミッ ... The post M!LK・吉田仁人主演ドラマ『溺愛 ～実は、最強ヒーロー～』6",
-        "groups": [
-          "M!LK",
           "SUPER★DRAGON"
         ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "池田彪馬",
-            "group": "SUPER★DRAGON",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "4e68a023b1cfadf0",
-        "title": "M!LK山中柔太朗、妹が抱える“人気者になった兄”への不安を知り… 母親が明かした幼少期の頃の姿",
-        "sourceName": "マイナビニュース テレビ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-        "articleUrl": "https://news.mynavi.jp/article/20261015-5127607/",
-        "publishedAt": "2026-10-15T09:00:00.000Z",
-        "summary": "5人組ダンスボーカルグループ・M!LKの山中柔太朗が、16日放送のTBS系トーク番組『A-Studio＋』(毎週金曜23:00～)にゲスト出演する。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "7913907e0d67975e",
-        "title": "M!LK、“好きすぎて滅！”が「MTV VMAJ 2026」特別賞「MTV Breakthrough Song」受賞",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/10/14/tg007",
-        "publishedAt": "2026-10-14T08:55:46.000Z",
-        "summary": "",
-        "groups": [
-          "M!LK"
-        ],
         "statuses": [],
         "memberMatches": []
       },
-      {
-        "id": "6db7f189e627e4d1",
-        "title": "M!LK、「MAQUIA 2026年12月号」増刊表紙に登場。スペシャル・ピンナップ付き",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/10/14/tgb004",
-        "publishedAt": "2026-10-14T03:45:07.000Z",
-        "summary": "",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "a36f33b2e680d504",
-        "title": "M!LK新曲「ザッツ！超常」10月26日配信、あなたとならなんでもできる！と歌うディスコチューン",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/10/92949/",
-        "publishedAt": "2026-10-06T10:00:00.000Z",
-        "summary": "5人組ダンスボーカルグループ・M!LKの新曲「ザッツ！超常」が10月26日(月)0時に配信リリースされることが決定した。 あなたとならなんでもできる！と歌う「ザッツ！超常」は、“一人ではできないこともあなたとなら乗り越えられる”というポジティブなメッセージ、デコボコな二人に生まれる化学反応、何気ない毎日の中で気がつく小さな幸せを描くハッピーなディスコチューン",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "SUPER★DRAGON": [
       {
         "id": "6d52c742a0c301e4",
         "title": "M!LK・吉田仁人主演ドラマ『溺愛 ～実は、最強ヒーロー～』60秒PR映像解禁！桃月なしこ＆池田彪馬との三角関係を描く人物相関図も公開",
@@ -346,24 +198,130 @@
         ],
         "statuses": [],
         "memberMatches": []
+      }
+    ],
+    "M!LK": [
+      {
+        "id": "e611ef4f2b37486c",
+        "title": "「大人の考え方」「付き合いとして…」M!LK吉田仁人、集合時間に遅れてきた最年少メンバーのさりげない気遣いに感嘆",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20261016-5127772/",
+        "publishedAt": "2026-10-16T10:00:00.000Z",
+        "summary": "「付き合いとして、そういうことができるのが……」――。アイドルグループ・M!LKの吉田仁人が8日、文化放送のラジオ番組『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)に出演。最年少メンバー・曽野舜太の“大人の振る舞い”に感心した出来事を語った。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
       },
       {
-        "id": "d368d6cea4acc417",
-        "title": "【お知らせ】 EBiDAN SNS投稿ガイドラインに関するお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11751/",
-        "publishedAt": "2026-10-08T03:30:07.000Z",
-        "summary": "いつも弊社所属アーティストを温かく応援いただき、誠にありがとうございます。 これからも楽しく安心して応援いただけるよう、SNSにおけるご投稿のガイドラインを定めております。 皆様のご理解とご協力をお願い申し上げます。 ※ […] The post 【お知らせ】 EBiDAN SNS投稿ガイドラインに関するお知らせ first appeared on SUPE",
+        "id": "6d52c742a0c301e4",
+        "title": "M!LK・吉田仁人主演ドラマ『溺愛 ～実は、最強ヒーロー～』60秒PR映像解禁！桃月なしこ＆池田彪馬との三角関係を描く人物相関図も公開",
+        "sourceName": "WWSチャンネル",
+        "sourceUrl": "https://www.wws-channel.com/feed",
+        "articleUrl": "https://www.wws-channel.com/tv/674333.html",
+        "publishedAt": "2026-10-15T22:00:28.000Z",
+        "summary": "M!LKの吉田仁人が主演を務めるTOKYO MXの新金曜ドラマ『溺愛 ～実は、最強ヒーロー～』が、10月30日（金）より放送開始する。これに先駆け、本編映像を使用した60秒PR映像と人物相関図が公開された。本作は、シリーズ累計3,400万ダウンロードを突破した人気コミッ ... The post M!LK・吉田仁人主演ドラマ『溺愛 ～実は、最強ヒーロー～』6",
         "groups": [
-          "EBiDAN",
+          "M!LK",
           "SUPER★DRAGON"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "池田彪馬",
+            "group": "SUPER★DRAGON",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "4e68a023b1cfadf0",
+        "title": "M!LK山中柔太朗、妹が抱える“人気者になった兄”への不安を知り… 母親が明かした幼少期の頃の姿",
+        "sourceName": "マイナビニュース テレビ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
+        "articleUrl": "https://news.mynavi.jp/article/20261015-5127607/",
+        "publishedAt": "2026-10-15T09:00:00.000Z",
+        "summary": "5人組ダンスボーカルグループ・M!LKの山中柔太朗が、16日放送のTBS系トーク番組『A-Studio＋』(毎週金曜23:00～)にゲスト出演する。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "7913907e0d67975e",
+        "title": "M!LK、“好きすぎて滅！”が「MTV VMAJ 2026」特別賞「MTV Breakthrough Song」受賞",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/10/14/tg007",
+        "publishedAt": "2026-10-14T08:55:46.000Z",
+        "summary": "",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "6db7f189e627e4d1",
+        "title": "M!LK、「MAQUIA 2026年12月号」増刊表紙に登場。スペシャル・ピンナップ付き",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/10/14/tgb004",
+        "publishedAt": "2026-10-14T03:45:07.000Z",
+        "summary": "",
+        "groups": [
+          "M!LK"
         ],
         "statuses": [],
         "memberMatches": []
       }
     ],
     "原因は自分にある。": [
+      {
+        "id": "039ce05d6c2553b1",
+        "title": "原因は自分にある。が『Quick Japan Monologue』#01の特別版表紙に登場！ 大人になった彼らが今、渇望すること",
+        "sourceName": "QJWeb",
+        "sourceUrl": "https://qjweb.jp/feed/",
+        "articleUrl": "https://qjweb.jp/news/166624/",
+        "publishedAt": "2026-10-16T09:00:00.000Z",
+        "summary": "11月18日（水）発売の『Quick Japan Monologue』#01では、7人組ダンスボーカルグループ「原因は自分にある。」を全18ページにわたり特集。11月11日（水）に5thシングル『ラブリーズン』をリリースする7人が、これまでの歩みと今後について語る。 20代になった7人の変化 「渇望.. 投稿 原因は自分にある。が『Quick Japan M",
+        "groups": [
+          "原因は自分にある。"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
       {
         "id": "4405aeaaba776863",
         "title": "小泉光咲（原因は自分にある。）＆四坂亮翔W主演ドラマ『陽キャ集団にいる芹沢は、俺の前だと様子がおかしい』最終回あらすじ＆場面写真公開！甘々な2人の恋の結末は？",
@@ -385,6 +343,86 @@
             "status": "active"
           }
         ]
+      }
+    ],
+    "超特急": [
+      {
+        "id": "ff1f387aa8f6af56",
+        "title": "超特急“トンチキ”テーマパークが全国進出！『トンチキランド2』3都市で開幕決定＆キービジュアル公開",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000900415/",
+        "publishedAt": "2026-10-16T04:00:41.000Z",
+        "summary": "超特急のテーマパーク『トンチキランド』が全国進出することが発表され、キービジュアルが公開...",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "ab6a92dadbc653fa",
+        "title": "鈴木伸之×柏木悠W主演『羊の皮を着たケモノ』12月11日劇場公開、ミステリアスなポスター解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/10/93399/",
+        "publishedAt": "2026-10-12T09:00:00.000Z",
+        "summary": "鈴木伸之と柏木悠（超特急）がW主演を務める映画『羊の皮を着たケモノ』が12月11日(金)に公開されることが決定し、ポスタービジュアルが解禁された。 本作は、九號（きゅうごう）による同名BL漫画（徳間書店 Charaコミックス刊）を実写化した、骨太で新感覚のボーイズ・ラブ。原作は「BLアワード2022 ディープ部門」で第13位、「BLアワード2024 ディープ",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "b33204e5b8b18e79",
+        "title": "超特急「エトランス・フィーバー」配信開始、“誰もが主役になれる”と前向きなメッセージを込める",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/10/93396/",
+        "publishedAt": "2026-10-11T15:00:00.000Z",
+        "summary": "9人組メインダンサー＆バックボーカルグループ・超特急が、12月16日(水)に発売する24枚目シングルの表題曲「エトランス・フィーバー」の先行配信をスタートさせた。 11月に待望の東京ドーム2Days公演を控える超特急の新曲「エトランス・フィーバー」は、干支をモチーフにしたユーロビート調の新たなトンチキソング。疾走感あふれるビートに乗せて「生まれ持ったキャラク",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "6a1d840f53f5771f",
+        "title": "高橋大輔×草川拓弥が演劇舞台初挑戦でW主演、固く結ばれたバディ演じる『ウルフムーン』上演決定",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/10/92796/",
+        "publishedAt": "2026-10-02T03:00:00.000Z",
+        "summary": "高橋大輔と草川拓弥がダブル主演を務める舞台『ウルフムーン』ー狼月に昇るーが2027年1月より東京と大阪で上演されることが決定した。 本作で演出を担うのは、数々の舞台に出演し俳優として培った現場感覚を生かしながら、演出家としても実績を重ねる福士誠治。脚本は、映画『かぐや姫の物語』やミュージカル『梨泰院クラス』『四月は君の嘘』、映画『てっぺんの向こうにあなたがい",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "タクヤ",
+            "group": "超特急",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "471946451d042b7e",
+        "title": "超特急の新曲テーマは“ユーロビート×干支”、24thシングル『エトランス・フィーバー』12月発売",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/09/92770/",
+        "publishedAt": "2026-09-30T10:00:00.000Z",
+        "summary": "9人組メインダンサー＆バックボーカルグループ・超特急が、24枚目のシングル『エトランス・フィーバー』を12月16日(水)にリリース。表題曲「エトランス・フィーバー」を10月12日(月)0時より先行配信することが発表された。 11月に待望の東京ドーム2Days公演を控える超特急の次作は、ユーロビート×干支という意外な組み合わせから生まれた新たなトンチキソング。",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
       }
     ],
     "EBiDAN": [
