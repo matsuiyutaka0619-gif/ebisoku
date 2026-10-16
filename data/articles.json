@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T11:23:26.711Z",
+  "updatedAt": "2026-10-16T16:38:51.492Z",
   "articles": [
     {
       "id": "7e88eb56cabb27fa",
@@ -57,20 +57,6 @@
       "memberMatches": []
     },
     {
-      "id": "ff1f387aa8f6af56",
-      "title": "超特急“トンチキ”テーマパークが全国進出！『トンチキランド2』3都市で開幕決定＆キービジュアル公開",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000900415/",
-      "publishedAt": "2026-10-16T04:00:41.000Z",
-      "summary": "超特急のテーマパーク『トンチキランド』が全国進出することが発表され、キービジュアルが公開...",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
       "id": "6d52c742a0c301e4",
       "title": "M!LK・吉田仁人主演ドラマ『溺愛 ～実は、最強ヒーロー～』60秒PR映像解禁！桃月なしこ＆池田彪馬との三角関係を描く人物相関図も公開",
       "sourceName": "WWSチャンネル",
@@ -116,28 +102,6 @@
         {
           "name": "山中柔太朗",
           "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "4405aeaaba776863",
-      "title": "小泉光咲（原因は自分にある。）＆四坂亮翔W主演ドラマ『陽キャ集団にいる芹沢は、俺の前だと様子がおかしい』最終回あらすじ＆場面写真公開！甘々な2人の恋の結末は？",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/tv/673983.html",
-      "publishedAt": "2026-10-14T13:00:40.000Z",
-      "summary": "小泉光咲（原因は自分にある。）と四坂亮翔がW主演を務める読売テレビのドラマ『陽キャ集団にいる芹沢は、俺の前だと様子がおかしい』の第11話（最終回）のあらすじと場面写真が公開された。本作は、人気BL作品『みなと商事コインランドリー』で知られる椿ゆずの同名小説を原作とした、 ... The post 小泉光咲（原因は自分にある。）＆四坂亮翔W主演ドラマ『陽キャ集",
-      "groups": [
-        "原因は自分にある。"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "小泉光咲",
-          "group": "原因は自分にある。",
           "status": "active"
         }
       ]
