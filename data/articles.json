@@ -1,82 +1,31 @@
 {
-  "updatedAt": "2026-10-15T21:22:27.505Z",
+  "updatedAt": "2026-10-16T04:31:08.162Z",
   "articles": [
     {
-      "id": "228c05c73d2dd81b",
-      "title": "『俺たちの箱根駅伝』学生連合の集合ショット初公開 小林虎之介や杢代和人ら18人が集結",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1082616/",
-      "publishedAt": "2026-10-15T21:00:00.000Z",
-      "summary": "俳優の大泉洋が主演を務める、日本テレビ系連続ドラマ『俺たちの箱根駅伝』（土曜午後9時）の第2話が、17日に放送される。放送を前に「学生連合」キャスト18人が勢ぞろいした写真が、16日に初公開された。学生キャストがトラック […]",
-      "groups": [
-        "原因は自分にある。"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "杢代和人",
-          "group": "原因は自分にある。",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "48f129e7e35f7876",
-      "title": "BUDDiiS・小川史記、加藤夏希から「1年でだいぶアイドルに（笑）」 監督は演技をべた褒め「完璧」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1082602/",
-      "publishedAt": "2026-10-15T11:27:58.000Z",
-      "summary": "BUDDiiSの小川史記が15日、都内で行われた映画『冤罪のつくりかた』（11月6日公開）の完成披露上映会に出席。同作の撮影を振り返った。映画『冤罪のつくりかた』完成披露上映会 BUDDiiSの小川史記が15日、都内で […]",
-      "groups": [
-        "BUDDiiS"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "FUMINORI",
-          "group": "BUDDiiS",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "046acd052d9650e5",
-      "title": "「逆に今、あのときの…」“告白”を繰り返していた小学生時代の女性リスナー、現在は“恋愛と無縁の人生”に――M!LK吉田仁人が送ったメッセージとは",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-      "articleUrl": "https://news.mynavi.jp/article/20261015-5122627/",
-      "publishedAt": "2026-10-15T10:00:00.000Z",
-      "summary": "「手当たり次第いろんな人に告白していた」――。アイドルグループ・M!LKの吉田仁人が8日、文化放送『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)で、女性リスナーの恋愛エピソードに「すごいね(笑)」と驚がくした。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "edd8d545e91ffd9f",
-      "title": "吉田仁人（M!LK）主演！ドラマ『溺愛 ～ 実は、最強ヒーロー ～』の60秒PR動画＆人物相関図が公開",
+      "id": "ff1f387aa8f6af56",
+      "title": "超特急“トンチキ”テーマパークが全国進出！『トンチキランド2』3都市で開幕決定＆キービジュアル公開",
       "sourceName": "THE FIRST TIMES",
       "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000899972/",
-      "publishedAt": "2026-10-15T09:00:42.000Z",
-      "summary": "吉田仁人（M!LK）が主演を務める新金曜ドラマ『溺愛 ～ 実は、最強ヒーロー ～』が、10月30日...",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000900415/",
+      "publishedAt": "2026-10-16T04:00:41.000Z",
+      "summary": "超特急のテーマパーク『トンチキランド』が全国進出することが発表され、キービジュアルが公開...",
       "groups": [
-        "M!LK"
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "6d52c742a0c301e4",
+      "title": "M!LK・吉田仁人主演ドラマ『溺愛 ～実は、最強ヒーロー～』60秒PR映像解禁！桃月なしこ＆池田彪馬との三角関係を描く人物相関図も公開",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/tv/674333.html",
+      "publishedAt": "2026-10-15T22:00:28.000Z",
+      "summary": "M!LKの吉田仁人が主演を務めるTOKYO MXの新金曜ドラマ『溺愛 ～実は、最強ヒーロー～』が、10月30日（金）より放送開始する。これに先駆け、本編映像を使用した60秒PR映像と人物相関図が公開された。本作は、シリーズ累計3,400万ダウンロードを突破した人気コミッ ... The post M!LK・吉田仁人主演ドラマ『溺愛 ～実は、最強ヒーロー～』6",
+      "groups": [
+        "M!LK",
+        "SUPER★DRAGON"
       ],
       "statuses": [
         "active"
@@ -85,6 +34,11 @@
         {
           "name": "吉田仁人",
           "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "池田彪馬",
+          "group": "SUPER★DRAGON",
           "status": "active"
         }
       ]
@@ -92,8 +46,8 @@
     {
       "id": "4e68a023b1cfadf0",
       "title": "M!LK山中柔太朗、妹が抱える“人気者になった兄”への不安を知り… 母親が明かした幼少期の頃の姿",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
       "articleUrl": "https://news.mynavi.jp/article/20261015-5127607/",
       "publishedAt": "2026-10-15T09:00:00.000Z",
       "summary": "5人組ダンスボーカルグループ・M!LKの山中柔太朗が、16日放送のTBS系トーク番組『A-Studio＋』(毎週金曜23:00～)にゲスト出演する。",
@@ -198,20 +152,6 @@
       "memberMatches": []
     },
     {
-      "id": "89551d3b85a8524b",
-      "title": "【動画】超特急、野外フェスらしいカジュアルスタイルで「a-nation 2026」にて語る「超特急としては初めての東京ドームになりますし…」",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/music2/673749.html",
-      "publishedAt": "2026-10-13T10:36:16.000Z",
-      "summary": "10月3日、お台場で開催された「a-nation 2026」1日目に、超特急が出演した。超特急はライブ出演後にWWSチャンネルのインタビューに応じ、ステージ衣装のポイントからこの夏での印象的な出来事など語った。【a-nationとは】「a-nation」は、2002年よ ... The post 【動画】超特急、野外フェスらしいカジュアルスタイルで「a-na",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
       "id": "ab6a92dadbc653fa",
       "title": "鈴木伸之×柏木悠W主演『羊の皮を着たケモノ』12月11日劇場公開、ミステリアスなポスター解禁",
       "sourceName": "Bezzy",
@@ -279,28 +219,6 @@
         {
           "name": "飯島颯",
           "group": "SUPER★DRAGON",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "fdc05808e5ca3f6f",
-      "title": "塩崎太智、M!LK加入意欲満々の上田晋也に「それはごめんなさい」 日テレ系「KARADA WEEK」サポーター就任＆テーマ曲も",
-      "sourceName": "マイナビニュース テレビ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-      "articleUrl": "https://news.mynavi.jp/article/20261011-5105060/",
-      "publishedAt": "2026-10-10T20:00:00.000Z",
-      "summary": "日本テレビ系の健康キャンペーン「KARADA WEEK」が、10月31日から11月8日までの9日間にわたって実施される。今年も上田晋也が12年連続でキャプテンを務め、M!LKがサポーターに就任。テーマ曲にはM!LKの「好きすぎて滅!」が決定した。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "塩﨑太智",
-          "group": "M!LK",
           "status": "active"
         }
       ]
