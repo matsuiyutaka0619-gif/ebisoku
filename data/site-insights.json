@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-16T21:07:06.506Z",
+  "updatedAt": "2026-10-17T04:24:44.970Z",
   "totals": {
-    "all": 119,
-    "today": 0,
-    "week": 13
+    "all": 122,
+    "today": 3,
+    "week": 16
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 5
+      "count": 8
     },
     {
       "name": "SUPER★DRAGON",
@@ -34,6 +34,14 @@
   "memberRanking": [
     {
       "name": "吉田仁人",
+      "count": 3
+    },
+    {
+      "name": "山中柔太朗",
+      "count": 2
+    },
+    {
+      "name": "曽野舜太",
       "count": 2
     },
     {
@@ -45,11 +53,11 @@
       "count": 1
     },
     {
-      "name": "山中柔太朗",
+      "name": "塩﨑太智",
       "count": 1
     },
     {
-      "name": "曽野舜太",
+      "name": "佐野勇斗",
       "count": 1
     },
     {
@@ -60,6 +68,10 @@
   "sourceRanking": [
     {
       "name": "SUPER★DRAGON 公式NEWS",
+      "count": 3
+    },
+    {
+      "name": "THE FIRST TIMES",
       "count": 3
     },
     {
@@ -89,6 +101,139 @@
   ],
   "topics": [],
   "recentByGroup": {
+    "M!LK": [
+      {
+        "id": "0f2b55ff7f111177",
+        "title": "M!LK山中柔太朗の美しすぎるショットを厳選！国宝級イケメン1位の美貌や色気溢れる表情にうっとり",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000898706/",
+        "publishedAt": "2026-10-17T02:00:41.000Z",
+        "summary": "M!LKの山中柔太朗は、透き通るような白い肌と整った顔立ちで、多くのファンを魅了している。ク...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "264afc75fffc356b",
+        "title": "M!LK佐野勇斗の愛が溢れる“家族ショット”を厳選！3兄弟でのお花見に家族プリ、祖父母との旅行も",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000898694/",
+        "publishedAt": "2026-10-17T01:00:52.000Z",
+        "summary": "家族との仲の良さでも知られるM!LKの佐野勇斗。自身のInstagramでは、祖父母や弟たちとのお出...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "b56a2fc83912dec1",
+        "title": "塩﨑太智、M!LK会議についてのごめんなさい！笑コラ名物企画に塩﨑太智、曽野舜太、吉田仁人が出演",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000900713/",
+        "publishedAt": "2026-10-16T22:00:13.000Z",
+        "summary": "10月17日放送の『1億人の大質問!? 笑ってコラえて!』では、笑コラ名物企画「カメラに向かって...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "e611ef4f2b37486c",
+        "title": "「大人の考え方」「付き合いとして…」M!LK吉田仁人、集合時間に遅れてきた最年少メンバーのさりげない気遣いに感嘆",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20261016-5127772/",
+        "publishedAt": "2026-10-16T10:00:00.000Z",
+        "summary": "「付き合いとして、そういうことができるのが……」――。アイドルグループ・M!LKの吉田仁人が8日、文化放送のラジオ番組『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)に出演。最年少メンバー・曽野舜太の“大人の振る舞い”に感心した出来事を語った。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "6d52c742a0c301e4",
+        "title": "M!LK・吉田仁人主演ドラマ『溺愛 ～実は、最強ヒーロー～』60秒PR映像解禁！桃月なしこ＆池田彪馬との三角関係を描く人物相関図も公開",
+        "sourceName": "WWSチャンネル",
+        "sourceUrl": "https://www.wws-channel.com/feed",
+        "articleUrl": "https://www.wws-channel.com/tv/674333.html",
+        "publishedAt": "2026-10-15T22:00:28.000Z",
+        "summary": "M!LKの吉田仁人が主演を務めるTOKYO MXの新金曜ドラマ『溺愛 ～実は、最強ヒーロー～』が、10月30日（金）より放送開始する。これに先駆け、本編映像を使用した60秒PR映像と人物相関図が公開された。本作は、シリーズ累計3,400万ダウンロードを突破した人気コミッ ... The post M!LK・吉田仁人主演ドラマ『溺愛 ～実は、最強ヒーロー～』6",
+        "groups": [
+          "M!LK",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "池田彪馬",
+            "group": "SUPER★DRAGON",
+            "status": "active"
+          }
+        ]
+      }
+    ],
     "SUPER★DRAGON": [
       {
         "id": "7e88eb56cabb27fa",
@@ -187,113 +332,6 @@
         "groups": [
           "EBiDAN",
           "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "M!LK": [
-      {
-        "id": "e611ef4f2b37486c",
-        "title": "「大人の考え方」「付き合いとして…」M!LK吉田仁人、集合時間に遅れてきた最年少メンバーのさりげない気遣いに感嘆",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20261016-5127772/",
-        "publishedAt": "2026-10-16T10:00:00.000Z",
-        "summary": "「付き合いとして、そういうことができるのが……」――。アイドルグループ・M!LKの吉田仁人が8日、文化放送のラジオ番組『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)に出演。最年少メンバー・曽野舜太の“大人の振る舞い”に感心した出来事を語った。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "6d52c742a0c301e4",
-        "title": "M!LK・吉田仁人主演ドラマ『溺愛 ～実は、最強ヒーロー～』60秒PR映像解禁！桃月なしこ＆池田彪馬との三角関係を描く人物相関図も公開",
-        "sourceName": "WWSチャンネル",
-        "sourceUrl": "https://www.wws-channel.com/feed",
-        "articleUrl": "https://www.wws-channel.com/tv/674333.html",
-        "publishedAt": "2026-10-15T22:00:28.000Z",
-        "summary": "M!LKの吉田仁人が主演を務めるTOKYO MXの新金曜ドラマ『溺愛 ～実は、最強ヒーロー～』が、10月30日（金）より放送開始する。これに先駆け、本編映像を使用した60秒PR映像と人物相関図が公開された。本作は、シリーズ累計3,400万ダウンロードを突破した人気コミッ ... The post M!LK・吉田仁人主演ドラマ『溺愛 ～実は、最強ヒーロー～』6",
-        "groups": [
-          "M!LK",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "池田彪馬",
-            "group": "SUPER★DRAGON",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "4e68a023b1cfadf0",
-        "title": "M!LK山中柔太朗、妹が抱える“人気者になった兄”への不安を知り… 母親が明かした幼少期の頃の姿",
-        "sourceName": "マイナビニュース テレビ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-        "articleUrl": "https://news.mynavi.jp/article/20261015-5127607/",
-        "publishedAt": "2026-10-15T09:00:00.000Z",
-        "summary": "5人組ダンスボーカルグループ・M!LKの山中柔太朗が、16日放送のTBS系トーク番組『A-Studio＋』(毎週金曜23:00～)にゲスト出演する。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "7913907e0d67975e",
-        "title": "M!LK、“好きすぎて滅！”が「MTV VMAJ 2026」特別賞「MTV Breakthrough Song」受賞",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/10/14/tg007",
-        "publishedAt": "2026-10-14T08:55:46.000Z",
-        "summary": "",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "6db7f189e627e4d1",
-        "title": "M!LK、「MAQUIA 2026年12月号」増刊表紙に登場。スペシャル・ピンナップ付き",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/10/14/tgb004",
-        "publishedAt": "2026-10-14T03:45:07.000Z",
-        "summary": "",
-        "groups": [
-          "M!LK"
         ],
         "statuses": [],
         "memberMatches": []
