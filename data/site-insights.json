@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-17T04:24:44.970Z",
+  "updatedAt": "2026-10-17T10:43:26.332Z",
   "totals": {
     "all": 122,
-    "today": 3,
-    "week": 16
+    "today": 6,
+    "week": 17
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 8
+      "count": 7
     },
     {
       "name": "SUPER★DRAGON",
@@ -16,7 +16,7 @@
     },
     {
       "name": "超特急",
-      "count": 2
+      "count": 3
     },
     {
       "name": "EBiDAN",
@@ -34,14 +34,10 @@
   "memberRanking": [
     {
       "name": "吉田仁人",
-      "count": 3
-    },
-    {
-      "name": "山中柔太朗",
       "count": 2
     },
     {
-      "name": "曽野舜太",
+      "name": "山中柔太朗",
       "count": 2
     },
     {
@@ -61,18 +57,18 @@
       "count": 1
     },
     {
-      "name": "池田彪馬",
+      "name": "曽野舜太",
       "count": 1
     }
   ],
   "sourceRanking": [
     {
       "name": "SUPER★DRAGON 公式NEWS",
-      "count": 3
+      "count": 4
     },
     {
       "name": "THE FIRST TIMES",
-      "count": 3
+      "count": 4
     },
     {
       "name": "タワーレコード ニュース",
@@ -91,10 +87,6 @@
       "count": 1
     },
     {
-      "name": "WWSチャンネル",
-      "count": 1
-    },
-    {
       "name": "マイナビニュース エンタメ",
       "count": 1
     }
@@ -102,6 +94,28 @@
   "topics": [],
   "recentByGroup": {
     "M!LK": [
+      {
+        "id": "1bcf21e9efcfb494",
+        "title": "「そのときから不思議と…」M!LK吉田仁人、5歳当時からM!LKにつながる“縁” 幼稚園時代に「人生をかけていた」こととは",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20261017-5127855/",
+        "publishedAt": "2026-10-17T10:00:00.000Z",
+        "summary": "「本当に人生をかけてた」――。アイドルグループ・M!LKの吉田仁人が8日、文化放送のラジオ番組『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)に出演。幼稚園時代のエピソードを打ち明けた。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
       {
         "id": "0f2b55ff7f111177",
         "title": "M!LK山中柔太朗の美しすぎるショットを厳選！国宝級イケメン1位の美貌や色気溢れる表情にうっとり",
@@ -179,13 +193,13 @@
         ]
       },
       {
-        "id": "e611ef4f2b37486c",
-        "title": "「大人の考え方」「付き合いとして…」M!LK吉田仁人、集合時間に遅れてきた最年少メンバーのさりげない気遣いに感嘆",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20261016-5127772/",
-        "publishedAt": "2026-10-16T10:00:00.000Z",
-        "summary": "「付き合いとして、そういうことができるのが……」――。アイドルグループ・M!LKの吉田仁人が8日、文化放送のラジオ番組『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)に出演。最年少メンバー・曽野舜太の“大人の振る舞い”に感心した出来事を語った。",
+        "id": "4e68a023b1cfadf0",
+        "title": "M!LK山中柔太朗、妹が抱える“人気者になった兄”への不安を知り… 母親が明かした幼少期の頃の姿",
+        "sourceName": "マイナビニュース テレビ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
+        "articleUrl": "https://news.mynavi.jp/article/20261015-5127607/",
+        "publishedAt": "2026-10-15T09:00:00.000Z",
+        "summary": "5人組ダンスボーカルグループ・M!LKの山中柔太朗が、16日放送のTBS系トーク番組『A-Studio＋』(毎週金曜23:00～)にゲスト出演する。",
         "groups": [
           "M!LK"
         ],
@@ -194,47 +208,108 @@
         ],
         "memberMatches": [
           {
-            "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "吉田仁人",
+            "name": "山中柔太朗",
             "group": "M!LK",
             "status": "active"
           }
         ]
+      }
+    ],
+    "超特急": [
+      {
+        "id": "863f28ffda87e02b",
+        "title": "MAZZEL・KAIRYU、RAN、SEITO3人がTV番組『VS.超特急』初登場！ジェスチャークイズで「恥ずかしい！」（KAIRYU）叫ぶひと幕も",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000901089/",
+        "publishedAt": "2026-10-17T09:10:28.000Z",
+        "summary": "MAZZELのKAIRYU、RAN、SEITO3人が、10月19日24時59分より放送の日本テレビ系『VS.超特急』にゲ...",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
       },
       {
-        "id": "6d52c742a0c301e4",
-        "title": "M!LK・吉田仁人主演ドラマ『溺愛 ～実は、最強ヒーロー～』60秒PR映像解禁！桃月なしこ＆池田彪馬との三角関係を描く人物相関図も公開",
-        "sourceName": "WWSチャンネル",
-        "sourceUrl": "https://www.wws-channel.com/feed",
-        "articleUrl": "https://www.wws-channel.com/tv/674333.html",
-        "publishedAt": "2026-10-15T22:00:28.000Z",
-        "summary": "M!LKの吉田仁人が主演を務めるTOKYO MXの新金曜ドラマ『溺愛 ～実は、最強ヒーロー～』が、10月30日（金）より放送開始する。これに先駆け、本編映像を使用した60秒PR映像と人物相関図が公開された。本作は、シリーズ累計3,400万ダウンロードを突破した人気コミッ ... The post M!LK・吉田仁人主演ドラマ『溺愛 ～実は、最強ヒーロー～』6",
+        "id": "ab6a92dadbc653fa",
+        "title": "鈴木伸之×柏木悠W主演『羊の皮を着たケモノ』12月11日劇場公開、ミステリアスなポスター解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/10/93399/",
+        "publishedAt": "2026-10-12T09:00:00.000Z",
+        "summary": "鈴木伸之と柏木悠（超特急）がW主演を務める映画『羊の皮を着たケモノ』が12月11日(金)に公開されることが決定し、ポスタービジュアルが解禁された。 本作は、九號（きゅうごう）による同名BL漫画（徳間書店 Charaコミックス刊）を実写化した、骨太で新感覚のボーイズ・ラブ。原作は「BLアワード2022 ディープ部門」で第13位、「BLアワード2024 ディープ",
         "groups": [
-          "M!LK",
-          "SUPER★DRAGON"
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "b33204e5b8b18e79",
+        "title": "超特急「エトランス・フィーバー」配信開始、“誰もが主役になれる”と前向きなメッセージを込める",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/10/93396/",
+        "publishedAt": "2026-10-11T15:00:00.000Z",
+        "summary": "9人組メインダンサー＆バックボーカルグループ・超特急が、12月16日(水)に発売する24枚目シングルの表題曲「エトランス・フィーバー」の先行配信をスタートさせた。 11月に待望の東京ドーム2Days公演を控える超特急の新曲「エトランス・フィーバー」は、干支をモチーフにしたユーロビート調の新たなトンチキソング。疾走感あふれるビートに乗せて「生まれ持ったキャラク",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "6a1d840f53f5771f",
+        "title": "高橋大輔×草川拓弥が演劇舞台初挑戦でW主演、固く結ばれたバディ演じる『ウルフムーン』上演決定",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/10/92796/",
+        "publishedAt": "2026-10-02T03:00:00.000Z",
+        "summary": "高橋大輔と草川拓弥がダブル主演を務める舞台『ウルフムーン』ー狼月に昇るーが2027年1月より東京と大阪で上演されることが決定した。 本作で演出を担うのは、数々の舞台に出演し俳優として培った現場感覚を生かしながら、演出家としても実績を重ねる福士誠治。脚本は、映画『かぐや姫の物語』やミュージカル『梨泰院クラス』『四月は君の嘘』、映画『てっぺんの向こうにあなたがい",
+        "groups": [
+          "超特急"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "池田彪馬",
-            "group": "SUPER★DRAGON",
+            "name": "タクヤ",
+            "group": "超特急",
             "status": "active"
           }
         ]
+      },
+      {
+        "id": "471946451d042b7e",
+        "title": "超特急の新曲テーマは“ユーロビート×干支”、24thシングル『エトランス・フィーバー』12月発売",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/09/92770/",
+        "publishedAt": "2026-09-30T10:00:00.000Z",
+        "summary": "9人組メインダンサー＆バックボーカルグループ・超特急が、24枚目のシングル『エトランス・フィーバー』を12月16日(水)にリリース。表題曲「エトランス・フィーバー」を10月12日(月)0時より先行配信することが発表された。 11月に待望の東京ドーム2Days公演を控える超特急の次作は、ユーロビート×干支という意外な組み合わせから生まれた新たなトンチキソング。",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
       }
     ],
     "SUPER★DRAGON": [
+      {
+        "id": "a0d481e3c867cb75",
+        "title": "SUPER★DRAGON LIVE TOUR 2027「house」最新チケット情報！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11815/",
+        "publishedAt": "2026-10-17T06:00:27.000Z",
+        "summary": "本日10月17日(土)15:00より『+KIRARI』会員先行が受付開始。 会場で皆さんとお会いできることを楽しみにしております！ ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願いと注意事項】 ht […] The post SUPER★DRAGON LIVE TOUR 2027「house」最新チケット情報！ first appear",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
       {
         "id": "7e88eb56cabb27fa",
         "title": "SUPER★DRAGON Major 2nd Album「STAR」リリースイベント・特典会開催！",
@@ -248,34 +323,6 @@
         ],
         "statuses": [],
         "memberMatches": []
-      },
-      {
-        "id": "6d52c742a0c301e4",
-        "title": "M!LK・吉田仁人主演ドラマ『溺愛 ～実は、最強ヒーロー～』60秒PR映像解禁！桃月なしこ＆池田彪馬との三角関係を描く人物相関図も公開",
-        "sourceName": "WWSチャンネル",
-        "sourceUrl": "https://www.wws-channel.com/feed",
-        "articleUrl": "https://www.wws-channel.com/tv/674333.html",
-        "publishedAt": "2026-10-15T22:00:28.000Z",
-        "summary": "M!LKの吉田仁人が主演を務めるTOKYO MXの新金曜ドラマ『溺愛 ～実は、最強ヒーロー～』が、10月30日（金）より放送開始する。これに先駆け、本編映像を使用した60秒PR映像と人物相関図が公開された。本作は、シリーズ累計3,400万ダウンロードを突破した人気コミッ ... The post M!LK・吉田仁人主演ドラマ『溺愛 ～実は、最強ヒーロー～』6",
-        "groups": [
-          "M!LK",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "池田彪馬",
-            "group": "SUPER★DRAGON",
-            "status": "active"
-          }
-        ]
       },
       {
         "id": "a565a78343b81a68",
@@ -451,90 +498,6 @@
             "status": "active"
           }
         ]
-      }
-    ],
-    "超特急": [
-      {
-        "id": "ab6a92dadbc653fa",
-        "title": "鈴木伸之×柏木悠W主演『羊の皮を着たケモノ』12月11日劇場公開、ミステリアスなポスター解禁",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/10/93399/",
-        "publishedAt": "2026-10-12T09:00:00.000Z",
-        "summary": "鈴木伸之と柏木悠（超特急）がW主演を務める映画『羊の皮を着たケモノ』が12月11日(金)に公開されることが決定し、ポスタービジュアルが解禁された。 本作は、九號（きゅうごう）による同名BL漫画（徳間書店 Charaコミックス刊）を実写化した、骨太で新感覚のボーイズ・ラブ。原作は「BLアワード2022 ディープ部門」で第13位、「BLアワード2024 ディープ",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "b33204e5b8b18e79",
-        "title": "超特急「エトランス・フィーバー」配信開始、“誰もが主役になれる”と前向きなメッセージを込める",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/10/93396/",
-        "publishedAt": "2026-10-11T15:00:00.000Z",
-        "summary": "9人組メインダンサー＆バックボーカルグループ・超特急が、12月16日(水)に発売する24枚目シングルの表題曲「エトランス・フィーバー」の先行配信をスタートさせた。 11月に待望の東京ドーム2Days公演を控える超特急の新曲「エトランス・フィーバー」は、干支をモチーフにしたユーロビート調の新たなトンチキソング。疾走感あふれるビートに乗せて「生まれ持ったキャラク",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "6a1d840f53f5771f",
-        "title": "高橋大輔×草川拓弥が演劇舞台初挑戦でW主演、固く結ばれたバディ演じる『ウルフムーン』上演決定",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/10/92796/",
-        "publishedAt": "2026-10-02T03:00:00.000Z",
-        "summary": "高橋大輔と草川拓弥がダブル主演を務める舞台『ウルフムーン』ー狼月に昇るーが2027年1月より東京と大阪で上演されることが決定した。 本作で演出を担うのは、数々の舞台に出演し俳優として培った現場感覚を生かしながら、演出家としても実績を重ねる福士誠治。脚本は、映画『かぐや姫の物語』やミュージカル『梨泰院クラス』『四月は君の嘘』、映画『てっぺんの向こうにあなたがい",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "タクヤ",
-            "group": "超特急",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "471946451d042b7e",
-        "title": "超特急の新曲テーマは“ユーロビート×干支”、24thシングル『エトランス・フィーバー』12月発売",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/09/92770/",
-        "publishedAt": "2026-09-30T10:00:00.000Z",
-        "summary": "9人組メインダンサー＆バックボーカルグループ・超特急が、24枚目のシングル『エトランス・フィーバー』を12月16日(水)にリリース。表題曲「エトランス・フィーバー」を10月12日(月)0時より先行配信することが発表された。 11月に待望の東京ドーム2Days公演を控える超特急の次作は、ユーロビート×干支という意外な組み合わせから生まれた新たなトンチキソング。",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "47f16c975ff422cd",
-        "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11607/",
-        "publishedAt": "2026-09-02T12:34:24.000Z",
-        "summary": "平素より株式会社SDR所属アーティストへの温かいご声援を賜り、誠にありがとうございます。 DISH//、EBiDAN（超特急、M!LK、SUPER★DRAGON、Sakurashimeji、ONE N’ ON […] The post グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ first appeared on SUPER★DRAGO",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK",
-          "SUPER★DRAGON",
-          "Sakurashimeji"
-        ],
-        "statuses": [],
-        "memberMatches": []
       }
     ],
     "ICEx": [
