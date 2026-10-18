@@ -1,6 +1,72 @@
 {
-  "updatedAt": "2026-10-18T04:32:59.213Z",
+  "updatedAt": "2026-10-18T11:03:45.207Z",
   "articles": [
+    {
+      "id": "67155377fccb1e03",
+      "title": "日曜トライアル 第47回 ONE N' ONLY高尾颯斗のギャップに胸を打たれた。",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/sunday_trial-47/",
+      "publishedAt": "2026-10-18T10:10:00.000Z",
+      "summary": "マイナビニュース・エンタメチャンネルの新たな定番記事を目指すお試し企画「日曜トライアル」。今回は、編集部の野瀬が取材をして特に気になった人をピックアップする連載企画【帰り道に検索しました】の第3回をお送りする。",
+      "groups": [
+        "ONE N' ONLY"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "HAYATO",
+          "group": "ONE N' ONLY",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "f29111ffc180f8d7",
+      "title": "「これどうやって作ってんの!?」M!LK吉田仁人、幼少期に“シェフ”に質問 “うますぎる”料理を熱弁",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261018-5129316/",
+      "publishedAt": "2026-10-18T10:00:00.000Z",
+      "summary": "「シェフに聞くやつを、給食室に行って……」――。アイドルグループ・M!LKの吉田仁人が8日、文化放送『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)に出演。幼稚園時代にドハマりした給食メニューを打ち明けた。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "e3a8ceebbd7b52d9",
+      "title": "小泉光咲（原因は自分にある。）・四坂亮翔 W主演『陽キャ集団にいる芹沢は、俺の前だと様子がおかしい』クランクアップコメント到着",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000901485/",
+      "publishedAt": "2026-10-18T09:10:40.000Z",
+      "summary": "10月19日に最終回を迎えるノンストップ青春ボーイズラブコメディドラマ『陽キャ集団にいる芹沢...",
+      "groups": [
+        "原因は自分にある。"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "小泉光咲",
+          "group": "原因は自分にある。",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "57657cb37a503dad",
       "title": "ONE N’ ONLY“ワビサビニキ”こと HAYATO（高尾颯斗）のギャップに沼落ち！クールな表情から無邪気な笑顔まで、高尾颯斗の魅力あふれるショットを厳選",
@@ -59,20 +125,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "863f28ffda87e02b",
-      "title": "MAZZEL・KAIRYU、RAN、SEITO3人がTV番組『VS.超特急』初登場！ジェスチャークイズで「恥ずかしい！」（KAIRYU）叫ぶひと幕も",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000901089/",
-      "publishedAt": "2026-10-17T09:10:28.000Z",
-      "summary": "MAZZELのKAIRYU、RAN、SEITO3人が、10月19日24時59分より放送の日本テレビ系『VS.超特急』にゲ...",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "a0d481e3c867cb75",
@@ -151,28 +203,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "3e60a8d993059806",
-      "title": "大豪雨で堤防が決壊寸前、冠水した車に女性が取り残され危機に…市役所職員たちが町を守るため奮闘『突破ファイル』",
-      "sourceName": "マイナビニュース テレビ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-      "articleUrl": "https://news.mynavi.jp/article/20261014-5127738/",
-      "publishedAt": "2026-10-14T09:00:00.000Z",
-      "summary": "「まだ諦めたくない」――15日に放送される日本テレビ系バラエティ番組『THE突破ファイル』(毎週木曜19:00～)では、大豪雨によって堤防が決壊寸前となった町を救うため、野田クリスタル、尾形貴弘、草川直弥(ONE N' ONLY)らが演じる市役所職員たちが奮闘する。",
-      "groups": [
-        "ONE N' ONLY"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "NAOYA",
-          "group": "ONE N' ONLY",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "7913907e0d67975e",
