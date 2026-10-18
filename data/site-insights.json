@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-17T20:35:52.074Z",
+  "updatedAt": "2026-10-18T04:32:59.216Z",
   "totals": {
-    "all": 122,
-    "today": 0,
-    "week": 17
+    "all": 121,
+    "today": 2,
+    "week": 16
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 7
+      "count": 5
     },
     {
       "name": "SUPER★DRAGON",
@@ -20,11 +20,11 @@
     },
     {
       "name": "EBiDAN",
-      "count": 1
+      "count": 2
     },
     {
       "name": "ONE N' ONLY",
-      "count": 1
+      "count": 2
     },
     {
       "name": "原因は自分にある。",
@@ -33,31 +33,23 @@
   ],
   "memberRanking": [
     {
-      "name": "吉田仁人",
-      "count": 2
-    },
-    {
-      "name": "山中柔太朗",
-      "count": 2
-    },
-    {
       "name": "飯島颯",
       "count": 2
+    },
+    {
+      "name": "HAYATO",
+      "count": 1
     },
     {
       "name": "NAOYA",
       "count": 1
     },
     {
-      "name": "塩﨑太智",
+      "name": "吉田仁人",
       "count": 1
     },
     {
-      "name": "佐野勇斗",
-      "count": 1
-    },
-    {
-      "name": "曽野舜太",
+      "name": "山中柔太朗",
       "count": 1
     }
   ],
@@ -68,7 +60,7 @@
     },
     {
       "name": "THE FIRST TIMES",
-      "count": 4
+      "count": 3
     },
     {
       "name": "タワーレコード ニュース",
@@ -93,7 +85,152 @@
   ],
   "topics": [],
   "recentByGroup": {
+    "EBiDAN": [
+      {
+        "id": "57657cb37a503dad",
+        "title": "ONE N’ ONLY“ワビサビニキ”こと HAYATO（高尾颯斗）のギャップに沼落ち！クールな表情から無邪気な笑顔まで、高尾颯斗の魅力あふれるショットを厳選",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000899077/",
+        "publishedAt": "2026-10-18T02:00:51.000Z",
+        "summary": "EBiDANの楽曲「Yes! 東京」をきっかけに、“ワビサビニキ”として話題を集めているONE N’ ONLYの...",
+        "groups": [
+          "EBiDAN",
+          "ONE N' ONLY"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "HAYATO",
+            "group": "ONE N' ONLY",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "e02ef9cfe0983591",
+        "title": "10月16日放送「ミュージックステーション」、AI、あいみょん、EBiDAN（恵比寿学園男子部）、櫻坂46、sumika、なにわ男子、RADWIMPS出演",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/10/14/tg013",
+        "publishedAt": "2026-10-14T11:00:28.000Z",
+        "summary": "",
+        "groups": [
+          "EBiDAN"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "4c9519734cc191ec",
+        "title": "第6回 EBiDAN 大運動会 『スポーツマンヒップ！』ファンクラブブース情報！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11754/",
+        "publishedAt": "2026-10-09T06:30:06.000Z",
+        "summary": "第6回 EBiDAN 大運動会 『スポーツマンヒップ！』ファンクラブブースの受付が決定いたしました。 当日は、対象期間中に各EBiDANファンクラブで【新規入会・継続・お友達紹介】をされた方、 または各＋KIRARIコミ […] The post 第6回 EBiDAN 大運動会 『スポーツマンヒップ！』ファンクラブブース情報！ first appeared ",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "d368d6cea4acc417",
+        "title": "【お知らせ】 EBiDAN SNS投稿ガイドラインに関するお知らせ",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11751/",
+        "publishedAt": "2026-10-08T03:30:07.000Z",
+        "summary": "いつも弊社所属アーティストを温かく応援いただき、誠にありがとうございます。 これからも楽しく安心して応援いただけるよう、SNSにおけるご投稿のガイドラインを定めております。 皆様のご理解とご協力をお願い申し上げます。 ※ […] The post 【お知らせ】 EBiDAN SNS投稿ガイドラインに関するお知らせ first appeared on SUPE",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "0a6bc3b4cc337ec3",
+        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』機材開放先着販売 決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11738/",
+        "publishedAt": "2026-10-06T08:00:16.000Z",
+        "summary": "SOLD OUTとなっておりました第6回EBiDAN大運動会『スポーツマンヒップ！』につきまして、 機材席の一部開放に伴い、若干数ではございますが、追加販売が決定いたしました。 10月8日(木)18:00より〈先着〉にて […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』機材開放先着販売 決定！ first appeared on ",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
+    "ONE N' ONLY": [
+      {
+        "id": "57657cb37a503dad",
+        "title": "ONE N’ ONLY“ワビサビニキ”こと HAYATO（高尾颯斗）のギャップに沼落ち！クールな表情から無邪気な笑顔まで、高尾颯斗の魅力あふれるショットを厳選",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000899077/",
+        "publishedAt": "2026-10-18T02:00:51.000Z",
+        "summary": "EBiDANの楽曲「Yes! 東京」をきっかけに、“ワビサビニキ”として話題を集めているONE N’ ONLYの...",
+        "groups": [
+          "EBiDAN",
+          "ONE N' ONLY"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "HAYATO",
+            "group": "ONE N' ONLY",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "3e60a8d993059806",
+        "title": "大豪雨で堤防が決壊寸前、冠水した車に女性が取り残され危機に…市役所職員たちが町を守るため奮闘『突破ファイル』",
+        "sourceName": "マイナビニュース テレビ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
+        "articleUrl": "https://news.mynavi.jp/article/20261014-5127738/",
+        "publishedAt": "2026-10-14T09:00:00.000Z",
+        "summary": "「まだ諦めたくない」――15日に放送される日本テレビ系バラエティ番組『THE突破ファイル』(毎週木曜19:00～)では、大豪雨によって堤防が決壊寸前となった町を救うため、野田クリスタル、尾形貴弘、草川直弥(ONE N' ONLY)らが演じる市役所職員たちが奮闘する。",
+        "groups": [
+          "ONE N' ONLY"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "NAOYA",
+            "group": "ONE N' ONLY",
+            "status": "active"
+          }
+        ]
+      }
+    ],
     "M!LK": [
+      {
+        "id": "3a3ec81061efee0b",
+        "title": "M!LK5人の“ビジュいいじゃん！”なコミカルショットを厳選！『VIVANT』ノコルから怪盗キッド、イカやペンギン姿まで個性豊かな変身ぶりに注目",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000898738/",
+        "publishedAt": "2026-10-18T01:00:56.000Z",
+        "summary": "クールなビジュアルだけでなく、ユーモア溢れる一面も魅力のM!LK。彼らのSNSには、思わず笑っ...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
       {
         "id": "1bcf21e9efcfb494",
         "title": "「そのときから不思議と…」M!LK吉田仁人、5歳当時からM!LKにつながる“縁” 幼稚園時代に「人生をかけていた」こととは",
@@ -109,82 +246,6 @@
           "active"
         ],
         "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "0f2b55ff7f111177",
-        "title": "M!LK山中柔太朗の美しすぎるショットを厳選！国宝級イケメン1位の美貌や色気溢れる表情にうっとり",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000898706/",
-        "publishedAt": "2026-10-17T02:00:41.000Z",
-        "summary": "M!LKの山中柔太朗は、透き通るような白い肌と整った顔立ちで、多くのファンを魅了している。ク...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "264afc75fffc356b",
-        "title": "M!LK佐野勇斗の愛が溢れる“家族ショット”を厳選！3兄弟でのお花見に家族プリ、祖父母との旅行も",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000898694/",
-        "publishedAt": "2026-10-17T01:00:52.000Z",
-        "summary": "家族との仲の良さでも知られるM!LKの佐野勇斗。自身のInstagramでは、祖父母や弟たちとのお出...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "b56a2fc83912dec1",
-        "title": "塩﨑太智、M!LK会議についてのごめんなさい！笑コラ名物企画に塩﨑太智、曽野舜太、吉田仁人が出演",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000900713/",
-        "publishedAt": "2026-10-16T22:00:13.000Z",
-        "summary": "10月17日放送の『1億人の大質問!? 笑ってコラえて!』では、笑コラ名物企画「カメラに向かって...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          },
           {
             "name": "吉田仁人",
             "group": "M!LK",
@@ -213,6 +274,34 @@
             "status": "active"
           }
         ]
+      },
+      {
+        "id": "7913907e0d67975e",
+        "title": "M!LK、“好きすぎて滅！”が「MTV VMAJ 2026」特別賞「MTV Breakthrough Song」受賞",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/10/14/tg007",
+        "publishedAt": "2026-10-14T08:55:46.000Z",
+        "summary": "",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "6db7f189e627e4d1",
+        "title": "M!LK、「MAQUIA 2026年12月号」増刊表紙に登場。スペシャル・ピンナップ付き",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/10/14/tgb004",
+        "publishedAt": "2026-10-14T03:45:07.000Z",
+        "summary": "",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
       }
     ],
     "超特急": [
@@ -398,106 +487,6 @@
         ],
         "statuses": [],
         "memberMatches": []
-      }
-    ],
-    "EBiDAN": [
-      {
-        "id": "e02ef9cfe0983591",
-        "title": "10月16日放送「ミュージックステーション」、AI、あいみょん、EBiDAN（恵比寿学園男子部）、櫻坂46、sumika、なにわ男子、RADWIMPS出演",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/10/14/tg013",
-        "publishedAt": "2026-10-14T11:00:28.000Z",
-        "summary": "",
-        "groups": [
-          "EBiDAN"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "4c9519734cc191ec",
-        "title": "第6回 EBiDAN 大運動会 『スポーツマンヒップ！』ファンクラブブース情報！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11754/",
-        "publishedAt": "2026-10-09T06:30:06.000Z",
-        "summary": "第6回 EBiDAN 大運動会 『スポーツマンヒップ！』ファンクラブブースの受付が決定いたしました。 当日は、対象期間中に各EBiDANファンクラブで【新規入会・継続・お友達紹介】をされた方、 または各＋KIRARIコミ […] The post 第6回 EBiDAN 大運動会 『スポーツマンヒップ！』ファンクラブブース情報！ first appeared ",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "d368d6cea4acc417",
-        "title": "【お知らせ】 EBiDAN SNS投稿ガイドラインに関するお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11751/",
-        "publishedAt": "2026-10-08T03:30:07.000Z",
-        "summary": "いつも弊社所属アーティストを温かく応援いただき、誠にありがとうございます。 これからも楽しく安心して応援いただけるよう、SNSにおけるご投稿のガイドラインを定めております。 皆様のご理解とご協力をお願い申し上げます。 ※ […] The post 【お知らせ】 EBiDAN SNS投稿ガイドラインに関するお知らせ first appeared on SUPE",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "0a6bc3b4cc337ec3",
-        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』機材開放先着販売 決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11738/",
-        "publishedAt": "2026-10-06T08:00:16.000Z",
-        "summary": "SOLD OUTとなっておりました第6回EBiDAN大運動会『スポーツマンヒップ！』につきまして、 機材席の一部開放に伴い、若干数ではございますが、追加販売が決定いたしました。 10月8日(木)18:00より〈先着〉にて […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』機材開放先着販売 決定！ first appeared on ",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "a2361a4ff60972aa",
-        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ 会場販売＆整理券配布のお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11726/",
-        "publishedAt": "2026-10-05T07:00:49.000Z",
-        "summary": "第6回EBiDAN大運動会『スポーツマンヒップ！』LaLa arena TOKYO-BAY公演の会場販売が決定しました！ ※オフィシャルグッズの販売は、【キャッシュレス決済のみ】の取り扱いとなります。現金はご利用いただけ […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ 会場販売＆整理券配布のお知らせ first",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "ONE N' ONLY": [
-      {
-        "id": "3e60a8d993059806",
-        "title": "大豪雨で堤防が決壊寸前、冠水した車に女性が取り残され危機に…市役所職員たちが町を守るため奮闘『突破ファイル』",
-        "sourceName": "マイナビニュース テレビ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-        "articleUrl": "https://news.mynavi.jp/article/20261014-5127738/",
-        "publishedAt": "2026-10-14T09:00:00.000Z",
-        "summary": "「まだ諦めたくない」――15日に放送される日本テレビ系バラエティ番組『THE突破ファイル』(毎週木曜19:00～)では、大豪雨によって堤防が決壊寸前となった町を救うため、野田クリスタル、尾形貴弘、草川直弥(ONE N' ONLY)らが演じる市役所職員たちが奮闘する。",
-        "groups": [
-          "ONE N' ONLY"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "NAOYA",
-            "group": "ONE N' ONLY",
-            "status": "active"
-          }
-        ]
       }
     ],
     "ICEx": [
