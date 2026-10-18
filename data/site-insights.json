@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-18T11:03:45.209Z",
+  "updatedAt": "2026-10-18T15:51:55.888Z",
   "totals": {
-    "all": 122,
-    "today": 5,
-    "week": 17
+    "all": 121,
+    "today": 0,
+    "week": 14
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 6
+      "count": 5
     },
     {
       "name": "SUPER★DRAGON",
-      "count": 4
+      "count": 3
     },
     {
       "name": "EBiDAN",
@@ -28,7 +28,7 @@
     },
     {
       "name": "超特急",
-      "count": 2
+      "count": 1
     }
   ],
   "memberRanking": [
@@ -38,11 +38,7 @@
     },
     {
       "name": "吉田仁人",
-      "count": 2
-    },
-    {
-      "name": "飯島颯",
-      "count": 2
+      "count": 1
     },
     {
       "name": "山中柔太朗",
@@ -51,12 +47,16 @@
     {
       "name": "小泉光咲",
       "count": 1
+    },
+    {
+      "name": "飯島颯",
+      "count": 1
     }
   ],
   "sourceRanking": [
     {
       "name": "SUPER★DRAGON 公式NEWS",
-      "count": 4
+      "count": 3
     },
     {
       "name": "THE FIRST TIMES",
@@ -68,11 +68,11 @@
     },
     {
       "name": "マイナビニュース エンタメ",
-      "count": 3
+      "count": 2
     },
     {
       "name": "Bezzy",
-      "count": 2
+      "count": 1
     },
     {
       "name": "QJWeb",
@@ -170,28 +170,6 @@
         "memberMatches": []
       },
       {
-        "id": "1bcf21e9efcfb494",
-        "title": "「そのときから不思議と…」M!LK吉田仁人、5歳当時からM!LKにつながる“縁” 幼稚園時代に「人生をかけていた」こととは",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20261017-5127855/",
-        "publishedAt": "2026-10-17T10:00:00.000Z",
-        "summary": "「本当に人生をかけてた」――。アイドルグループ・M!LKの吉田仁人が8日、文化放送のラジオ番組『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)に出演。幼稚園時代のエピソードを打ち明けた。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
         "id": "4e68a023b1cfadf0",
         "title": "M!LK山中柔太朗、妹が抱える“人気者になった兄”への不安を知り… 母親が明かした幼少期の頃の姿",
         "sourceName": "マイナビニュース テレビ",
@@ -220,6 +198,20 @@
         "sourceUrl": "https://tower.jp/feeds/article/news",
         "articleUrl": "https://tower.jp/article/news/2026/10/14/tg007",
         "publishedAt": "2026-10-14T08:55:46.000Z",
+        "summary": "",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "6db7f189e627e4d1",
+        "title": "M!LK、「MAQUIA 2026年12月号」増刊表紙に登場。スペシャル・ピンナップ付き",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/10/14/tgb004",
+        "publishedAt": "2026-10-14T03:45:07.000Z",
         "summary": "",
         "groups": [
           "M!LK"
