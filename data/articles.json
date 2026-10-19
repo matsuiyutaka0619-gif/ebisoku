@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-19T04:39:33.005Z",
+  "updatedAt": "2026-10-19T13:13:39.895Z",
   "articles": [
     {
-      "id": "81c9e013bcab4255",
-      "title": "M!LK塩﨑太智が子役ふたりと“滅ポーズ”！目線を合わせるように片膝をつく姿に「お兄さんな顔してる」「顔のサイズ変わらんの!?」「スーツが筋肉によってぱっつぱつになってる」の声",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000901945/",
-      "publishedAt": "2026-10-19T03:11:46.000Z",
-      "summary": "ドラマ『もうパパ！』（ABCテレビ・テレビ朝日系）の公式Instagramと公式Xが更新され、M!LKの...",
+      "id": "3dc3493d823a1b65",
+      "title": "吉田仁人（M!LK）主演の新金曜ドラマ「溺愛 ～ 実は、最強ヒーロー ～」、「物語の始まり」描いた60秒PR映像＆人物相関図公開",
+      "sourceName": "タワーレコード ニュース",
+      "sourceUrl": "https://tower.jp/feeds/article/news",
+      "articleUrl": "https://tower.jp/article/news/2026/10/19/tg004",
+      "publishedAt": "2026-10-19T10:00:00.000Z",
+      "summary": "",
       "groups": [
         "M!LK"
       ],
@@ -17,20 +17,107 @@
       ],
       "memberMatches": [
         {
-          "name": "塩﨑太智",
+          "name": "吉田仁人",
           "group": "M!LK",
           "status": "active"
         }
       ]
     },
     {
-      "id": "1e1e98cec88c0ff4",
-      "title": "M!LKと一緒に滅ダンス！日テレ系「KARADA WEEK」発「好きすぎて滅！」フィットネスダンス誕生＆キービジュアル解禁",
+      "id": "9b7652b8d8758378",
+      "title": "『恋とき』山中柔太朗が上白石萌音の素顔を明かす 「僕や向井さんをいじってくださる」",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/10/post-2557714.html",
+      "publishedAt": "2026-10-19T09:00:55.000Z",
+      "summary": "上白石萌音主演のTBS火曜ドラマ『いろはの恋は時代をかける』で、真島玲二を演じる山中柔太朗のインタビューコメントが公開された。 本作は、令和の小学校教師の身体に江戸娘の魂がタイムスリップしたことから始まる、300年の",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "d8e3e9c98365c4bf",
+      "title": "鈴木伸之×柏木悠『羊の皮を着たケモノ』本予告公開 久間田琳加、齊藤なぎさら出演へ",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/10/post-2557227.html",
+      "publishedAt": "2026-10-19T09:00:55.000Z",
+      "summary": "12月11日に公開される鈴木伸之と超特急の柏木悠がW主演を務める映画『羊の皮を着たケモノ』の本予告が公開され、追加キャストとして、久間田琳加、齊藤なぎさ、吉村界人、根岸季衣、霧島れいかの出演が発表された。 本作は、「",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "5e5598d11aa68a5d",
+      "title": "恋愛、アルバイト、お金、人間関係…大学生の悩みを描くショートドラマ 三菱ＵＦＪ銀行×QREATIONがタッグ",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261019-5150664/",
+      "publishedAt": "2026-10-19T09:00:00.000Z",
+      "summary": "恋愛、アルバイト、お金、人間関係――大学生たちが直面するさまざまな悩みを描くショートドラマ『朱に交われど、ぼくらいろ。』が19日、Instagramで配信をスタートした。三菱ＵＦＪ銀行とQREATIONがタッグを組んだ作品で、おさき、永瀬さら、小國舞羽、Lienelの近藤駿太、中村駿希が出演。累計6億回再生超の『キュリエーション学院』とのコラボレーションも行",
+      "groups": [
+        "Lienel"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "近藤駿太",
+          "group": "Lienel",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "836413f1fc740f39",
+      "title": "鈴木伸之×柏木悠(超特急) W主演 “魔性の男”の正体は‥‥ 映画『⽺の⽪を着たケモノ』 本予告映像公開",
+      "sourceName": "otocoto",
+      "sourceUrl": "https://otocoto.jp/feed/",
+      "articleUrl": "https://otocoto.jp/news/hitsuji-kemono1019/",
+      "publishedAt": "2026-10-19T09:00:00.000Z",
+      "summary": "鈴木伸之と柏木悠(超特急)をW主演に迎えた映画『羊の皮を着たケモノ』。このたび本作の追加キャストが発表され、あわせて本予告映像が公開された。 本作は、大学生・日...",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "79db83af4ca4bd66",
+      "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ&生写真セット 事後通販決定！！",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news11822/",
+      "publishedAt": "2026-10-19T07:00:01.000Z",
+      "summary": "第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ&生写真セットの事後通販が決定しました！ 残りわずかな商品もございますので、ぜひこの機会にご利用ください！ ****************** […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ&生写真セット 事後通販決定！！ first app",
+      "groups": [
+        "EBiDAN",
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "2dd937d328c71b22",
+      "title": "M!LK5人が“メンカラ着物×黒い袴”でずらり！畳の上で個性あふれるポーズを披露し「和服M!LKめっちゃ良き」「家紋が牛乳瓶と牛なのM!LKすぎて最高」「舜太腰の位置えぐい」と反響",
       "sourceName": "THE FIRST TIMES",
       "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000901777/",
-      "publishedAt": "2026-10-19T02:45:52.000Z",
-      "summary": "M!LKが、日本テレビ系「KARADA WEEK」のサポーターを務めることが決定。このたび、テーマ曲「...",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000902231/",
+      "publishedAt": "2026-10-19T06:33:32.000Z",
+      "summary": "『ザッツM!LK』（日本テレビ）の公式Xが更新され、M!LK5人の集合ショットが公開された。 ■M!LK...",
       "groups": [
         "M!LK"
       ],
@@ -124,28 +211,6 @@
       "memberMatches": []
     },
     {
-      "id": "4e68a023b1cfadf0",
-      "title": "M!LK山中柔太朗、妹が抱える“人気者になった兄”への不安を知り… 母親が明かした幼少期の頃の姿",
-      "sourceName": "マイナビニュース テレビ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-      "articleUrl": "https://news.mynavi.jp/article/20261015-5127607/",
-      "publishedAt": "2026-10-15T09:00:00.000Z",
-      "summary": "5人組ダンスボーカルグループ・M!LKの山中柔太朗が、16日放送のTBS系トーク番組『A-Studio＋』(毎週金曜23:00～)にゲスト出演する。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "山中柔太朗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "e02ef9cfe0983591",
       "title": "10月16日放送「ミュージックステーション」、AI、あいみょん、EBiDAN（恵比寿学園男子部）、櫻坂46、sumika、なにわ男子、RADWIMPS出演",
       "sourceName": "タワーレコード ニュース",
@@ -155,20 +220,6 @@
       "summary": "",
       "groups": [
         "EBiDAN"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "7913907e0d67975e",
-      "title": "M!LK、“好きすぎて滅！”が「MTV VMAJ 2026」特別賞「MTV Breakthrough Song」受賞",
-      "sourceName": "タワーレコード ニュース",
-      "sourceUrl": "https://tower.jp/feeds/article/news",
-      "articleUrl": "https://tower.jp/article/news/2026/10/14/tg007",
-      "publishedAt": "2026-10-14T08:55:46.000Z",
-      "summary": "",
-      "groups": [
-        "M!LK"
       ],
       "statuses": [],
       "memberMatches": []
@@ -1923,20 +1974,6 @@
       "articleUrl": "https://super-dragon.jp/news/news11202/",
       "publishedAt": "2026-06-05T10:59:42.000Z",
       "summary": "▼ＣＤ購入整理券について 6月13日(土)埼玉・イオンモール浦和美園 うららか広場にて開催するリリースイベントの会場でのＣＤ販売は、会場の混雑緩和のため、LINEアプリを使用した事前応募制の『ＣＤ購入整理券』を導入致しま […] The post Major 6th Single「Call Me Asap / NUMBER」6月13日(土)開催リリースイベン",
-      "groups": [
-        "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "499fb8959829531b",
-      "title": "Major 6th Single「Call Me Asap / NUMBER」6月13日(土)開催リリースイベント＠イオンモール浦和美園（埼玉）参加方法・特典会内容についてのご案内",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news11199/",
-      "publishedAt": "2026-06-05T10:59:21.000Z",
-      "summary": "6月13日(土)イオンモール浦和美園にて開催するリリースイベントの詳細をご案内致します。 必ず最後まで全てお読み頂き、会場にいらした皆様がイベントを楽しめるよう、ファンの皆様同士でルールとマナーの厳守をお願い致します。 […] The post Major 6th Single「Call Me Asap / NUMBER」6月13日(土)開催リリースイベント",
       "groups": [
         "SUPER★DRAGON"
       ],
