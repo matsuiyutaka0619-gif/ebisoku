@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-19T13:13:39.897Z",
+  "updatedAt": "2026-10-19T22:20:55.230Z",
   "totals": {
-    "all": 122,
-    "today": 7,
-    "week": 14
+    "all": 120,
+    "today": 0,
+    "week": 12
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 5
+      "count": 3
     },
     {
       "name": "SUPER★DRAGON",
@@ -37,11 +37,11 @@
   ],
   "memberRanking": [
     {
-      "name": "吉田仁人",
-      "count": 2
+      "name": "HAYATO",
+      "count": 1
     },
     {
-      "name": "HAYATO",
+      "name": "吉田仁人",
       "count": 1
     },
     {
@@ -63,10 +63,6 @@
       "count": 3
     },
     {
-      "name": "マイナビニュース エンタメ",
-      "count": 3
-    },
-    {
       "name": "リアルサウンド 映画部",
       "count": 2
     },
@@ -79,7 +75,11 @@
       "count": 1
     },
     {
-      "name": "THE FIRST TIMES",
+      "name": "マイナビニュース エンタメ",
+      "count": 1
+    },
+    {
+      "name": "マイナビニュース 芸能",
       "count": 1
     }
   ],
@@ -131,42 +131,6 @@
         ]
       },
       {
-        "id": "2dd937d328c71b22",
-        "title": "M!LK5人が“メンカラ着物×黒い袴”でずらり！畳の上で個性あふれるポーズを披露し「和服M!LKめっちゃ良き」「家紋が牛乳瓶と牛なのM!LKすぎて最高」「舜太腰の位置えぐい」と反響",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000902231/",
-        "publishedAt": "2026-10-19T06:33:32.000Z",
-        "summary": "『ザッツM!LK』（日本テレビ）の公式Xが更新され、M!LK5人の集合ショットが公開された。 ■M!LK...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "f29111ffc180f8d7",
-        "title": "「これどうやって作ってんの!?」M!LK吉田仁人、幼少期に“シェフ”に質問 “うますぎる”料理を熱弁",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20261018-5129316/",
-        "publishedAt": "2026-10-18T10:00:00.000Z",
-        "summary": "「シェフに聞くやつを、給食室に行って……」――。アイドルグループ・M!LKの吉田仁人が8日、文化放送『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)に出演。幼稚園時代にドハマりした給食メニューを打ち明けた。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
         "id": "6db7f189e627e4d1",
         "title": "M!LK、「MAQUIA 2026年12月号」増刊表紙に登場。スペシャル・ピンナップ付き",
         "sourceName": "タワーレコード ニュース",
@@ -174,6 +138,34 @@
         "articleUrl": "https://tower.jp/article/news/2026/10/14/tgb004",
         "publishedAt": "2026-10-14T03:45:07.000Z",
         "summary": "",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "a36f33b2e680d504",
+        "title": "M!LK新曲「ザッツ！超常」10月26日配信、あなたとならなんでもできる！と歌うディスコチューン",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/10/92949/",
+        "publishedAt": "2026-10-06T10:00:00.000Z",
+        "summary": "5人組ダンスボーカルグループ・M!LKの新曲「ザッツ！超常」が10月26日(月)0時に配信リリースされることが決定した。 あなたとならなんでもできる！と歌う「ザッツ！超常」は、“一人ではできないこともあなたとなら乗り越えられる”というポジティブなメッセージ、デコボコな二人に生まれる化学反応、何気ない毎日の中で気がつく小さな幸せを描くハッピーなディスコチューン",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "976120bc3101651a",
+        "title": "M!LKが“ユニバース”を背負う新アー写公開、1stミニアルバムリード曲は早くもチャート席巻中",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/09/91880/",
+        "publishedAt": "2026-09-08T09:00:00.000Z",
+        "summary": "5人組ダンスボーカルグループ・M!LKが、9月16日(水)に控えるミニアルバム『LOVE ENG!NE』リリースに先駆けて最新アーティスト写真を公開した。 M!LKにとって初ミニアルバムとなる本作からは、リード曲「時空超えてユニバース」（ときこえてゆにばーす）の先行配信が9月7日(月)にスタート。配信開始直後からXのトレンドで「#ときユニ」が1位を獲得したほ",
         "groups": [
           "M!LK"
         ],
@@ -454,8 +446,8 @@
       {
         "id": "67155377fccb1e03",
         "title": "日曜トライアル 第47回 ONE N' ONLY高尾颯斗のギャップに胸を打たれた。",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "sourceName": "マイナビニュース 芸能",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
         "articleUrl": "https://news.mynavi.jp/article/sunday_trial-47/",
         "publishedAt": "2026-10-18T10:10:00.000Z",
         "summary": "マイナビニュース・エンタメチャンネルの新たな定番記事を目指すお試し企画「日曜トライアル」。今回は、編集部の野瀬が取材をして特に気になった人をピックアップする連載企画【帰り道に検索しました】の第3回をお送りする。",
