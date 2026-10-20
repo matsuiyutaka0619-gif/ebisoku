@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-10-19T22:20:55.222Z",
+  "updatedAt": "2026-10-20T04:50:02.008Z",
   "articles": [
+    {
+      "id": "a4d1ef578254d7e1",
+      "title": "M!LK山中柔太朗の“ミニスカート×ロングブーツ”コーデに「かわいい」「似合いすぎ」の声！メンバーが吉田仁人に次々と突進、笑顔のドアップ連発に「わちゃわちゃ楽しそう」「いつにもまして暴れすぎ」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000902837/",
+      "publishedAt": "2026-10-20T03:57:21.000Z",
+      "summary": "M!LKの公式SNSが更新され、メンバーが撮影者に向かって次々と駆け寄る動画が公開された。 ■M!L...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "3dc3493d823a1b65",
       "title": "吉田仁人（M!LK）主演の新金曜ドラマ「溺愛 ～ 実は、最強ヒーロー ～」、「物語の始まり」描いた60秒PR映像＆人物相関図公開",
@@ -22,42 +49,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "9b7652b8d8758378",
-      "title": "『恋とき』山中柔太朗が上白石萌音の素顔を明かす 「僕や向井さんをいじってくださる」",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/10/post-2557714.html",
-      "publishedAt": "2026-10-19T09:00:55.000Z",
-      "summary": "上白石萌音主演のTBS火曜ドラマ『いろはの恋は時代をかける』で、真島玲二を演じる山中柔太朗のインタビューコメントが公開された。 本作は、令和の小学校教師の身体に江戸娘の魂がタイムスリップしたことから始まる、300年の",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "山中柔太朗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "d8e3e9c98365c4bf",
-      "title": "鈴木伸之×柏木悠『羊の皮を着たケモノ』本予告公開 久間田琳加、齊藤なぎさら出演へ",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/10/post-2557227.html",
-      "publishedAt": "2026-10-19T09:00:55.000Z",
-      "summary": "12月11日に公開される鈴木伸之と超特急の柏木悠がW主演を務める映画『羊の皮を着たケモノ』の本予告が公開され、追加キャストとして、久間田琳加、齊藤なぎさ、吉村界人、根岸季衣、霧島れいかの出演が発表された。 本作は、「",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "5e5598d11aa68a5d",

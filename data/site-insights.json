@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-19T22:20:55.230Z",
+  "updatedAt": "2026-10-20T04:50:02.010Z",
   "totals": {
-    "all": 120,
-    "today": 0,
-    "week": 12
+    "all": 119,
+    "today": 1,
+    "week": 11
   },
   "groupRanking": [
     {
@@ -19,10 +19,6 @@
       "count": 2
     },
     {
-      "name": "超特急",
-      "count": 2
-    },
-    {
       "name": "Lienel",
       "count": 1
     },
@@ -33,15 +29,19 @@
     {
       "name": "原因は自分にある。",
       "count": 1
+    },
+    {
+      "name": "超特急",
+      "count": 1
     }
   ],
   "memberRanking": [
     {
-      "name": "HAYATO",
-      "count": 1
+      "name": "吉田仁人",
+      "count": 2
     },
     {
-      "name": "吉田仁人",
+      "name": "HAYATO",
       "count": 1
     },
     {
@@ -63,15 +63,15 @@
       "count": 3
     },
     {
-      "name": "リアルサウンド 映画部",
-      "count": 2
-    },
-    {
       "name": "otocoto",
       "count": 1
     },
     {
       "name": "QJWeb",
+      "count": 1
+    },
+    {
+      "name": "THE FIRST TIMES",
       "count": 1
     },
     {
@@ -86,6 +86,33 @@
   "topics": [],
   "recentByGroup": {
     "M!LK": [
+      {
+        "id": "a4d1ef578254d7e1",
+        "title": "M!LK山中柔太朗の“ミニスカート×ロングブーツ”コーデに「かわいい」「似合いすぎ」の声！メンバーが吉田仁人に次々と突進、笑顔のドアップ連発に「わちゃわちゃ楽しそう」「いつにもまして暴れすぎ」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000902837/",
+        "publishedAt": "2026-10-20T03:57:21.000Z",
+        "summary": "M!LKの公式SNSが更新され、メンバーが撮影者に向かって次々と駆け寄る動画が公開された。 ■M!L...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
       {
         "id": "3dc3493d823a1b65",
         "title": "吉田仁人（M!LK）主演の新金曜ドラマ「溺愛 ～ 実は、最強ヒーロー ～」、「物語の始まり」描いた60秒PR映像＆人物相関図公開",
@@ -103,28 +130,6 @@
         "memberMatches": [
           {
             "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "9b7652b8d8758378",
-        "title": "『恋とき』山中柔太朗が上白石萌音の素顔を明かす 「僕や向井さんをいじってくださる」",
-        "sourceName": "リアルサウンド 映画部",
-        "sourceUrl": "https://realsound.jp/movie/feed",
-        "articleUrl": "https://realsound.jp/movie/2026/10/post-2557714.html",
-        "publishedAt": "2026-10-19T09:00:55.000Z",
-        "summary": "上白石萌音主演のTBS火曜ドラマ『いろはの恋は時代をかける』で、真島玲二を演じる山中柔太朗のインタビューコメントが公開された。 本作は、令和の小学校教師の身体に江戸娘の魂がタイムスリップしたことから始まる、300年の",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "山中柔太朗",
             "group": "M!LK",
             "status": "active"
           }
@@ -173,21 +178,31 @@
         "memberMatches": []
       }
     ],
-    "超特急": [
+    "Lienel": [
       {
-        "id": "d8e3e9c98365c4bf",
-        "title": "鈴木伸之×柏木悠『羊の皮を着たケモノ』本予告公開 久間田琳加、齊藤なぎさら出演へ",
-        "sourceName": "リアルサウンド 映画部",
-        "sourceUrl": "https://realsound.jp/movie/feed",
-        "articleUrl": "https://realsound.jp/movie/2026/10/post-2557227.html",
-        "publishedAt": "2026-10-19T09:00:55.000Z",
-        "summary": "12月11日に公開される鈴木伸之と超特急の柏木悠がW主演を務める映画『羊の皮を着たケモノ』の本予告が公開され、追加キャストとして、久間田琳加、齊藤なぎさ、吉村界人、根岸季衣、霧島れいかの出演が発表された。 本作は、「",
+        "id": "5e5598d11aa68a5d",
+        "title": "恋愛、アルバイト、お金、人間関係…大学生の悩みを描くショートドラマ 三菱ＵＦＪ銀行×QREATIONがタッグ",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20261019-5150664/",
+        "publishedAt": "2026-10-19T09:00:00.000Z",
+        "summary": "恋愛、アルバイト、お金、人間関係――大学生たちが直面するさまざまな悩みを描くショートドラマ『朱に交われど、ぼくらいろ。』が19日、Instagramで配信をスタートした。三菱ＵＦＪ銀行とQREATIONがタッグを組んだ作品で、おさき、永瀬さら、小國舞羽、Lienelの近藤駿太、中村駿希が出演。累計6億回再生超の『キュリエーション学院』とのコラボレーションも行",
         "groups": [
-          "超特急"
+          "Lienel"
         ],
-        "statuses": [],
-        "memberMatches": []
-      },
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "近藤駿太",
+            "group": "Lienel",
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "超特急": [
       {
         "id": "836413f1fc740f39",
         "title": "鈴木伸之×柏木悠(超特急) W主演 “魔性の男”の正体は‥‥ 映画『⽺の⽪を着たケモノ』 本予告映像公開",
@@ -251,30 +266,20 @@
             "status": "active"
           }
         ]
-      }
-    ],
-    "Lienel": [
+      },
       {
-        "id": "5e5598d11aa68a5d",
-        "title": "恋愛、アルバイト、お金、人間関係…大学生の悩みを描くショートドラマ 三菱ＵＦＪ銀行×QREATIONがタッグ",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20261019-5150664/",
-        "publishedAt": "2026-10-19T09:00:00.000Z",
-        "summary": "恋愛、アルバイト、お金、人間関係――大学生たちが直面するさまざまな悩みを描くショートドラマ『朱に交われど、ぼくらいろ。』が19日、Instagramで配信をスタートした。三菱ＵＦＪ銀行とQREATIONがタッグを組んだ作品で、おさき、永瀬さら、小國舞羽、Lienelの近藤駿太、中村駿希が出演。累計6億回再生超の『キュリエーション学院』とのコラボレーションも行",
+        "id": "471946451d042b7e",
+        "title": "超特急の新曲テーマは“ユーロビート×干支”、24thシングル『エトランス・フィーバー』12月発売",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/09/92770/",
+        "publishedAt": "2026-09-30T10:00:00.000Z",
+        "summary": "9人組メインダンサー＆バックボーカルグループ・超特急が、24枚目のシングル『エトランス・フィーバー』を12月16日(水)にリリース。表題曲「エトランス・フィーバー」を10月12日(月)0時より先行配信することが発表された。 11月に待望の東京ドーム2Days公演を控える超特急の次作は、ユーロビート×干支という意外な組み合わせから生まれた新たなトンチキソング。",
         "groups": [
-          "Lienel"
+          "超特急"
         ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "近藤駿太",
-            "group": "Lienel",
-            "status": "active"
-          }
-        ]
+        "statuses": [],
+        "memberMatches": []
       }
     ],
     "EBiDAN": [
