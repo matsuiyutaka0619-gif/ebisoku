@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-10-20T17:02:46.212Z",
+  "updatedAt": "2026-10-20T21:36:40.928Z",
   "articles": [
+    {
+      "id": "1807b6bd5c118259",
+      "title": "M!LK塩﨑太智、テレビ『千鳥かまいたちゴールデンアワー』でぽっちゃり幼少期のあだ名を告白「僕、顔にお肉がめっちゃ付くんですよ」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000902933/",
+      "publishedAt": "2026-10-20T21:00:25.000Z",
+      "summary": "M!LKの塩崎太智（「崎」は、たつさきが正式表記）らが、10月21日20時より放送の日本テレビ系『...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "塩﨑太智",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "cde6e86f70e60e38",
+      "title": "新着MVランキング：M!LK、雨の『ロッキン』で示した「アイドルパワー」 人気トップ10に4作、映像でも際立つ地力",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/10/post-2558019.html",
+      "publishedAt": "2026-10-20T20:50:41.000Z",
+      "summary": "毎週更新される「YouTube Music Charts」ウィークリー ミュージック ビデオ ランキングより、MVをはじめとした音楽関連の新着動画から上位10作品／楽曲を取り上げ、ランキング化＆レビューしていく連載「MV Chart Focus」。今週は首位を獲得した、M!LK「アイドルパワー」の『ROCK IN JAPAN FESTIVAL 2026』ライ",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "b6fd84ba90960411",
       "title": "11/28(土)開催リリースイベント＠UNITEDLAB（福岡）参加方法・特典会内容についてのご案内",
