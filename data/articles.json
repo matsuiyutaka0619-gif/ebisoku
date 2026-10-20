@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T11:35:17.456Z",
+  "updatedAt": "2026-10-20T17:02:46.212Z",
   "articles": [
     {
       "id": "b6fd84ba90960411",
@@ -14,28 +14,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "5fda9505b95c4e40",
-      "title": "上白石萌音、劇中設定のまま“異例の保護者会”に登壇 クレームに「教育委員会だけはご勘弁を」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1084741/",
-      "publishedAt": "2026-10-20T10:28:48.000Z",
-      "summary": "俳優の上白石萌音が20日、都内で行われたTBS系連続ドラマ『いろはの恋は時代をかける』（火曜午後10時）のキャスト登壇イベントに出席。Snow Manの向井康二、M!LKの山中柔太朗、大西礼芳、永野宗典、YOUらキャスト […]",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "山中柔太朗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "e15320e0fc1adddd",
@@ -118,33 +96,6 @@
       "memberMatches": [
         {
           "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "a4d1ef578254d7e1",
-      "title": "M!LK山中柔太朗の“ミニスカート×ロングブーツ”コーデに「かわいい」「似合いすぎ」の声！メンバーが吉田仁人に次々と突進、笑顔のドアップ連発に「わちゃわちゃ楽しそう」「いつにもまして暴れすぎ」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000902837/",
-      "publishedAt": "2026-10-20T03:57:21.000Z",
-      "summary": "M!LKの公式SNSが更新され、メンバーが撮影者に向かって次々と駆け寄る動画が公開された。 ■M!L...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "山中柔太朗",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "吉田仁人",
           "group": "M!LK",
           "status": "active"
         }

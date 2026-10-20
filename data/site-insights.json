@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-20T11:35:17.458Z",
+  "updatedAt": "2026-10-20T17:02:46.214Z",
   "totals": {
-    "all": 121,
-    "today": 6,
-    "week": 14
+    "all": 119,
+    "today": 0,
+    "week": 12
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 6
+      "count": 4
     },
     {
       "name": "SUPER★DRAGON",
@@ -38,10 +38,6 @@
   "memberRanking": [
     {
       "name": "吉田仁人",
-      "count": 4
-    },
-    {
-      "name": "山中柔太朗",
       "count": 3
     },
     {
@@ -61,6 +57,10 @@
       "count": 1
     },
     {
+      "name": "山中柔太朗",
+      "count": 1
+    },
+    {
       "name": "曽野舜太",
       "count": 1
     }
@@ -71,10 +71,6 @@
       "count": 4
     },
     {
-      "name": "THE FIRST TIMES",
-      "count": 2
-    },
-    {
       "name": "マイナビニュース 芸能",
       "count": 2
     },
@@ -83,15 +79,15 @@
       "count": 1
     },
     {
-      "name": "ENCOUNT",
-      "count": 1
-    },
-    {
       "name": "otocoto",
       "count": 1
     },
     {
       "name": "QJWeb",
+      "count": 1
+    },
+    {
+      "name": "THE FIRST TIMES",
       "count": 1
     },
     {
@@ -188,28 +184,6 @@
     ],
     "M!LK": [
       {
-        "id": "5fda9505b95c4e40",
-        "title": "上白石萌音、劇中設定のまま“異例の保護者会”に登壇 クレームに「教育委員会だけはご勘弁を」",
-        "sourceName": "ENCOUNT",
-        "sourceUrl": "https://encount.press/feed/",
-        "articleUrl": "https://encount.press/archives/1084741/",
-        "publishedAt": "2026-10-20T10:28:48.000Z",
-        "summary": "俳優の上白石萌音が20日、都内で行われたTBS系連続ドラマ『いろはの恋は時代をかける』（火曜午後10時）のキャスト登壇イベントに出席。Snow Manの向井康二、M!LKの山中柔太朗、大西礼芳、永野宗典、YOUらキャスト […]",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
         "id": "e15320e0fc1adddd",
         "title": "「やっぱり5人で集まると…」吉田仁人、約2週間ぶりのM!LK全員集合の裏側明かす とあるメンバーへの“苦言”も「もうとんでもなかった!」",
         "sourceName": "マイナビニュース エンタメ",
@@ -296,13 +270,13 @@
         ]
       },
       {
-        "id": "a4d1ef578254d7e1",
-        "title": "M!LK山中柔太朗の“ミニスカート×ロングブーツ”コーデに「かわいい」「似合いすぎ」の声！メンバーが吉田仁人に次々と突進、笑顔のドアップ連発に「わちゃわちゃ楽しそう」「いつにもまして暴れすぎ」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000902837/",
-        "publishedAt": "2026-10-20T03:57:21.000Z",
-        "summary": "M!LKの公式SNSが更新され、メンバーが撮影者に向かって次々と駆け寄る動画が公開された。 ■M!L...",
+        "id": "3dc3493d823a1b65",
+        "title": "吉田仁人（M!LK）主演の新金曜ドラマ「溺愛 ～ 実は、最強ヒーロー ～」、「物語の始まり」描いた60秒PR映像＆人物相関図公開",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/10/19/tg004",
+        "publishedAt": "2026-10-19T10:00:00.000Z",
+        "summary": "",
         "groups": [
           "M!LK"
         ],
@@ -311,16 +285,25 @@
         ],
         "memberMatches": [
           {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
             "name": "吉田仁人",
             "group": "M!LK",
             "status": "active"
           }
         ]
+      },
+      {
+        "id": "a36f33b2e680d504",
+        "title": "M!LK新曲「ザッツ！超常」10月26日配信、あなたとならなんでもできる！と歌うディスコチューン",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/10/92949/",
+        "publishedAt": "2026-10-06T10:00:00.000Z",
+        "summary": "5人組ダンスボーカルグループ・M!LKの新曲「ザッツ！超常」が10月26日(月)0時に配信リリースされることが決定した。 あなたとならなんでもできる！と歌う「ザッツ！超常」は、“一人ではできないこともあなたとなら乗り越えられる”というポジティブなメッセージ、デコボコな二人に生まれる化学反応、何気ない毎日の中で気がつく小さな幸せを描くハッピーなディスコチューン",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
       }
     ],
     "Lienel": [
