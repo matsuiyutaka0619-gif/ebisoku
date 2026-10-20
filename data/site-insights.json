@@ -1,22 +1,22 @@
 {
-  "updatedAt": "2026-10-20T04:50:02.010Z",
+  "updatedAt": "2026-10-20T11:35:17.458Z",
   "totals": {
-    "all": 119,
-    "today": 1,
-    "week": 11
+    "all": 121,
+    "today": 6,
+    "week": 14
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 3
+      "count": 6
     },
     {
       "name": "SUPER★DRAGON",
-      "count": 3
+      "count": 4
     },
     {
       "name": "EBiDAN",
-      "count": 2
+      "count": 1
     },
     {
       "name": "Lienel",
@@ -38,6 +38,14 @@
   "memberRanking": [
     {
       "name": "吉田仁人",
+      "count": 4
+    },
+    {
+      "name": "山中柔太朗",
+      "count": 3
+    },
+    {
+      "name": "佐野勇斗",
       "count": 2
     },
     {
@@ -45,22 +53,38 @@
       "count": 1
     },
     {
+      "name": "塩﨑太智",
+      "count": 1
+    },
+    {
       "name": "近藤駿太",
       "count": 1
     },
     {
-      "name": "山中柔太朗",
+      "name": "曽野舜太",
       "count": 1
     }
   ],
   "sourceRanking": [
     {
       "name": "SUPER★DRAGON 公式NEWS",
-      "count": 3
+      "count": 4
     },
     {
-      "name": "タワーレコード ニュース",
-      "count": 3
+      "name": "THE FIRST TIMES",
+      "count": 2
+    },
+    {
+      "name": "マイナビニュース 芸能",
+      "count": 2
+    },
+    {
+      "name": "Edge Line",
+      "count": 1
+    },
+    {
+      "name": "ENCOUNT",
+      "count": 1
     },
     {
       "name": "otocoto",
@@ -71,21 +95,206 @@
       "count": 1
     },
     {
-      "name": "THE FIRST TIMES",
+      "name": "タワーレコード ニュース",
       "count": 1
     },
     {
       "name": "マイナビニュース エンタメ",
       "count": 1
-    },
-    {
-      "name": "マイナビニュース 芸能",
-      "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
+    "SUPER★DRAGON": [
+      {
+        "id": "b6fd84ba90960411",
+        "title": "11/28(土)開催リリースイベント＠UNITEDLAB（福岡）参加方法・特典会内容についてのご案内",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11829/",
+        "publishedAt": "2026-10-20T11:00:27.000Z",
+        "summary": "11/28(土)UNITEDLABにて開催するリリースイベントの詳細をご案内致します。 必ず最後まで全てお読み頂き、会場にいらした皆様がイベントを楽しめるよう、ファンの皆様同士でルールとマナーの厳守をお願い致します。 リ […] The post 11/28(土)開催リリースイベント＠UNITEDLAB（福岡）参加方法・特典会内容についてのご案内 first",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "79db83af4ca4bd66",
+        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ&生写真セット 事後通販決定！！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11822/",
+        "publishedAt": "2026-10-19T07:00:01.000Z",
+        "summary": "第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ&生写真セットの事後通販が決定しました！ 残りわずかな商品もございますので、ぜひこの機会にご利用ください！ ****************** […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ&生写真セット 事後通販決定！！ first app",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "a0d481e3c867cb75",
+        "title": "SUPER★DRAGON LIVE TOUR 2027「house」最新チケット情報！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11815/",
+        "publishedAt": "2026-10-17T06:00:27.000Z",
+        "summary": "本日10月17日(土)15:00より『+KIRARI』会員先行が受付開始。 会場で皆さんとお会いできることを楽しみにしております！ ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願いと注意事項】 ht […] The post SUPER★DRAGON LIVE TOUR 2027「house」最新チケット情報！ first appear",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "7e88eb56cabb27fa",
+        "title": "SUPER★DRAGON Major 2nd Album「STAR」リリースイベント・特典会開催！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11790/",
+        "publishedAt": "2026-10-16T10:00:30.000Z",
+        "summary": "2026年12月09日(水)、SUPER★DRAGONメジャー2枚目となるアルバム「STAR」の発売を記念し、リリースイベント・特典会が決定いたしました！ SUPER★DRAGONと一緒に、素敵な思い出を作りましょう！ […] The post SUPER★DRAGON Major 2nd Album「STAR」リリースイベント・特典会開催！ first a",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "a565a78343b81a68",
+        "title": "【バースデーグッズ】飯島颯25歳 バースデーPHOTO SET＆プロデュースグッズ スタダ便受注販売決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11775/",
+        "publishedAt": "2026-10-12T06:00:09.000Z",
+        "summary": "本日、2026年10月12日(月祝)に25歳を迎えた飯島颯の誕生日を記念して、 バースデーPHOTO SET&プロデュースグッズの販売が決定しました！ 今年のプロデュースグッズは、過去衣装を含む颯のランダムアクリ […] The post 【バースデーグッズ】飯島颯25歳 バースデーPHOTO SET＆プロデュースグッズ スタダ便受注販売決定！ first ",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "飯島颯",
+            "group": "SUPER★DRAGON",
+            "status": "active"
+          }
+        ]
+      }
+    ],
     "M!LK": [
+      {
+        "id": "5fda9505b95c4e40",
+        "title": "上白石萌音、劇中設定のまま“異例の保護者会”に登壇 クレームに「教育委員会だけはご勘弁を」",
+        "sourceName": "ENCOUNT",
+        "sourceUrl": "https://encount.press/feed/",
+        "articleUrl": "https://encount.press/archives/1084741/",
+        "publishedAt": "2026-10-20T10:28:48.000Z",
+        "summary": "俳優の上白石萌音が20日、都内で行われたTBS系連続ドラマ『いろはの恋は時代をかける』（火曜午後10時）のキャスト登壇イベントに出席。Snow Manの向井康二、M!LKの山中柔太朗、大西礼芳、永野宗典、YOUらキャスト […]",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "e15320e0fc1adddd",
+        "title": "「やっぱり5人で集まると…」吉田仁人、約2週間ぶりのM!LK全員集合の裏側明かす とあるメンバーへの“苦言”も「もうとんでもなかった!」",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20261020-5156924/",
+        "publishedAt": "2026-10-20T10:00:00.000Z",
+        "summary": "「久々に集まるとテンション上がる」――。アイドルグループ・M!LKの吉田仁人が15日、文化放送『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)に出演。1stミニアルバム『LOVE ENG!NE』のリード曲「時空超えてユニバース」のミュージックビデオ撮影秘話を明かした。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "5c479fb1b020ccd0",
+        "title": "M!LK 有明アリーナ『LOVE ENG!NE』リリイベ終了後座談会！佐野勇斗「意味がわかんない」",
+        "sourceName": "Edge Line",
+        "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+        "articleUrl": "https://www.edgeline-tokyo.com/entertainment/207426",
+        "publishedAt": "2026-10-20T08:00:25.000Z",
+        "summary": "佐野勇斗、吉田仁人、塩﨑太智、山中柔太朗、曽野舜太によるダンスボーカルグループ『M!LK』が10月22日発売の月刊誌『JUNON』（主婦と生活社）12月号に登場している。 『M!LK』といえば、直近では9月16日の発...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "d1d8840843f1d63c",
+        "title": "M!LK5人、『JUNON』で9,000⼈のファンが集まったリリイベをプレイバック！「でもまだまだだよ。ドームツアーが⽬標」（佐野勇⽃）",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000902734/",
+        "publishedAt": "2026-10-20T08:00:07.000Z",
+        "summary": "M!LKが、10月22日発売の『JUNON』12月号に登場する。 ■リリイベ終了後のメンバー5人による座談...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
       {
         "id": "a4d1ef578254d7e1",
         "title": "M!LK山中柔太朗の“ミニスカート×ロングブーツ”コーデに「かわいい」「似合いすぎ」の声！メンバーが吉田仁人に次々と突進、笑顔のドアップ連発に「わちゃわちゃ楽しそう」「いつにもまして暴れすぎ」",
@@ -112,78 +321,14 @@
             "status": "active"
           }
         ]
-      },
-      {
-        "id": "3dc3493d823a1b65",
-        "title": "吉田仁人（M!LK）主演の新金曜ドラマ「溺愛 ～ 実は、最強ヒーロー ～」、「物語の始まり」描いた60秒PR映像＆人物相関図公開",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/10/19/tg004",
-        "publishedAt": "2026-10-19T10:00:00.000Z",
-        "summary": "",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "6db7f189e627e4d1",
-        "title": "M!LK、「MAQUIA 2026年12月号」増刊表紙に登場。スペシャル・ピンナップ付き",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/10/14/tgb004",
-        "publishedAt": "2026-10-14T03:45:07.000Z",
-        "summary": "",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "a36f33b2e680d504",
-        "title": "M!LK新曲「ザッツ！超常」10月26日配信、あなたとならなんでもできる！と歌うディスコチューン",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/10/92949/",
-        "publishedAt": "2026-10-06T10:00:00.000Z",
-        "summary": "5人組ダンスボーカルグループ・M!LKの新曲「ザッツ！超常」が10月26日(月)0時に配信リリースされることが決定した。 あなたとならなんでもできる！と歌う「ザッツ！超常」は、“一人ではできないこともあなたとなら乗り越えられる”というポジティブなメッセージ、デコボコな二人に生まれる化学反応、何気ない毎日の中で気がつく小さな幸せを描くハッピーなディスコチューン",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "976120bc3101651a",
-        "title": "M!LKが“ユニバース”を背負う新アー写公開、1stミニアルバムリード曲は早くもチャート席巻中",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/09/91880/",
-        "publishedAt": "2026-09-08T09:00:00.000Z",
-        "summary": "5人組ダンスボーカルグループ・M!LKが、9月16日(水)に控えるミニアルバム『LOVE ENG!NE』リリースに先駆けて最新アーティスト写真を公開した。 M!LKにとって初ミニアルバムとなる本作からは、リード曲「時空超えてユニバース」（ときこえてゆにばーす）の先行配信が9月7日(月)にスタート。配信開始直後からXのトレンドで「#ときユニ」が1位を獲得したほ",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
       }
     ],
     "Lienel": [
       {
         "id": "5e5598d11aa68a5d",
         "title": "恋愛、アルバイト、お金、人間関係…大学生の悩みを描くショートドラマ 三菱ＵＦＪ銀行×QREATIONがタッグ",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "sourceName": "マイナビニュース 芸能",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
         "articleUrl": "https://news.mynavi.jp/article/20261019-5150664/",
         "publishedAt": "2026-10-19T09:00:00.000Z",
         "summary": "恋愛、アルバイト、お金、人間関係――大学生たちが直面するさまざまな悩みを描くショートドラマ『朱に交われど、ぼくらいろ。』が19日、Instagramで配信をスタートした。三菱ＵＦＪ銀行とQREATIONがタッグを組んだ作品で、おさき、永瀬さら、小國舞羽、Lienelの近藤駿太、中村駿希が出演。累計6億回再生超の『キュリエーション学院』とのコラボレーションも行",
@@ -299,20 +444,6 @@
         "memberMatches": []
       },
       {
-        "id": "e02ef9cfe0983591",
-        "title": "10月16日放送「ミュージックステーション」、AI、あいみょん、EBiDAN（恵比寿学園男子部）、櫻坂46、sumika、なにわ男子、RADWIMPS出演",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/10/14/tg013",
-        "publishedAt": "2026-10-14T11:00:28.000Z",
-        "summary": "",
-        "groups": [
-          "EBiDAN"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
         "id": "4c9519734cc191ec",
         "title": "第6回 EBiDAN 大運動会 『スポーツマンヒップ！』ファンクラブブース情報！",
         "sourceName": "SUPER★DRAGON 公式NEWS",
@@ -356,95 +487,21 @@
         ],
         "statuses": [],
         "memberMatches": []
-      }
-    ],
-    "SUPER★DRAGON": [
+      },
       {
-        "id": "79db83af4ca4bd66",
-        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ&生写真セット 事後通販決定！！",
+        "id": "a2361a4ff60972aa",
+        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ 会場販売＆整理券配布のお知らせ",
         "sourceName": "SUPER★DRAGON 公式NEWS",
         "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11822/",
-        "publishedAt": "2026-10-19T07:00:01.000Z",
-        "summary": "第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ&生写真セットの事後通販が決定しました！ 残りわずかな商品もございますので、ぜひこの機会にご利用ください！ ****************** […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ&生写真セット 事後通販決定！！ first app",
+        "articleUrl": "https://super-dragon.jp/news/news11726/",
+        "publishedAt": "2026-10-05T07:00:49.000Z",
+        "summary": "第6回EBiDAN大運動会『スポーツマンヒップ！』LaLa arena TOKYO-BAY公演の会場販売が決定しました！ ※オフィシャルグッズの販売は、【キャッシュレス決済のみ】の取り扱いとなります。現金はご利用いただけ […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ 会場販売＆整理券配布のお知らせ first",
         "groups": [
           "EBiDAN",
           "SUPER★DRAGON"
         ],
         "statuses": [],
         "memberMatches": []
-      },
-      {
-        "id": "a0d481e3c867cb75",
-        "title": "SUPER★DRAGON LIVE TOUR 2027「house」最新チケット情報！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11815/",
-        "publishedAt": "2026-10-17T06:00:27.000Z",
-        "summary": "本日10月17日(土)15:00より『+KIRARI』会員先行が受付開始。 会場で皆さんとお会いできることを楽しみにしております！ ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願いと注意事項】 ht […] The post SUPER★DRAGON LIVE TOUR 2027「house」最新チケット情報！ first appear",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "7e88eb56cabb27fa",
-        "title": "SUPER★DRAGON Major 2nd Album「STAR」リリースイベント・特典会開催！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11790/",
-        "publishedAt": "2026-10-16T10:00:30.000Z",
-        "summary": "2026年12月09日(水)、SUPER★DRAGONメジャー2枚目となるアルバム「STAR」の発売を記念し、リリースイベント・特典会が決定いたしました！ SUPER★DRAGONと一緒に、素敵な思い出を作りましょう！ […] The post SUPER★DRAGON Major 2nd Album「STAR」リリースイベント・特典会開催！ first a",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "a565a78343b81a68",
-        "title": "【バースデーグッズ】飯島颯25歳 バースデーPHOTO SET＆プロデュースグッズ スタダ便受注販売決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11775/",
-        "publishedAt": "2026-10-12T06:00:09.000Z",
-        "summary": "本日、2026年10月12日(月祝)に25歳を迎えた飯島颯の誕生日を記念して、 バースデーPHOTO SET&プロデュースグッズの販売が決定しました！ 今年のプロデュースグッズは、過去衣装を含む颯のランダムアクリ […] The post 【バースデーグッズ】飯島颯25歳 バースデーPHOTO SET＆プロデュースグッズ スタダ便受注販売決定！ first ",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "飯島颯",
-            "group": "SUPER★DRAGON",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "3dfe0e3569fcc191",
-        "title": "「HAYATE 25th BIRTHDAY SCRATCH」開催決定！！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11782/",
-        "publishedAt": "2026-10-11T12:00:33.000Z",
-        "summary": "飯島颯 25歳の誕生日を記念した「HAYATE 25th BIRTHDAY SCRATCH」開催が決定いたしました！ ぜひアクセスしてみてください！！ ▼飯島颯［PAYA TERRACE HOUSE］ https://f […] The post 「HAYATE 25th BIRTHDAY SCRATCH」開催決定！！ first appeared on S",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "飯島颯",
-            "group": "SUPER★DRAGON",
-            "status": "active"
-          }
-        ]
       }
     ],
     "ONE N' ONLY": [

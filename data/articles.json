@@ -1,6 +1,128 @@
 {
-  "updatedAt": "2026-10-20T04:50:02.008Z",
+  "updatedAt": "2026-10-20T11:35:17.456Z",
   "articles": [
+    {
+      "id": "b6fd84ba90960411",
+      "title": "11/28(土)開催リリースイベント＠UNITEDLAB（福岡）参加方法・特典会内容についてのご案内",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news11829/",
+      "publishedAt": "2026-10-20T11:00:27.000Z",
+      "summary": "11/28(土)UNITEDLABにて開催するリリースイベントの詳細をご案内致します。 必ず最後まで全てお読み頂き、会場にいらした皆様がイベントを楽しめるよう、ファンの皆様同士でルールとマナーの厳守をお願い致します。 リ […] The post 11/28(土)開催リリースイベント＠UNITEDLAB（福岡）参加方法・特典会内容についてのご案内 first",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "5fda9505b95c4e40",
+      "title": "上白石萌音、劇中設定のまま“異例の保護者会”に登壇 クレームに「教育委員会だけはご勘弁を」",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1084741/",
+      "publishedAt": "2026-10-20T10:28:48.000Z",
+      "summary": "俳優の上白石萌音が20日、都内で行われたTBS系連続ドラマ『いろはの恋は時代をかける』（火曜午後10時）のキャスト登壇イベントに出席。Snow Manの向井康二、M!LKの山中柔太朗、大西礼芳、永野宗典、YOUらキャスト […]",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "e15320e0fc1adddd",
+      "title": "「やっぱり5人で集まると…」吉田仁人、約2週間ぶりのM!LK全員集合の裏側明かす とあるメンバーへの“苦言”も「もうとんでもなかった!」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261020-5156924/",
+      "publishedAt": "2026-10-20T10:00:00.000Z",
+      "summary": "「久々に集まるとテンション上がる」――。アイドルグループ・M!LKの吉田仁人が15日、文化放送『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)に出演。1stミニアルバム『LOVE ENG!NE』のリード曲「時空超えてユニバース」のミュージックビデオ撮影秘話を明かした。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "5c479fb1b020ccd0",
+      "title": "M!LK 有明アリーナ『LOVE ENG!NE』リリイベ終了後座談会！佐野勇斗「意味がわかんない」",
+      "sourceName": "Edge Line",
+      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/207426",
+      "publishedAt": "2026-10-20T08:00:25.000Z",
+      "summary": "佐野勇斗、吉田仁人、塩﨑太智、山中柔太朗、曽野舜太によるダンスボーカルグループ『M!LK』が10月22日発売の月刊誌『JUNON』（主婦と生活社）12月号に登場している。 『M!LK』といえば、直近では9月16日の発...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "塩﨑太智",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "曽野舜太",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "d1d8840843f1d63c",
+      "title": "M!LK5人、『JUNON』で9,000⼈のファンが集まったリリイベをプレイバック！「でもまだまだだよ。ドームツアーが⽬標」（佐野勇⽃）",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000902734/",
+      "publishedAt": "2026-10-20T08:00:07.000Z",
+      "summary": "M!LKが、10月22日発売の『JUNON』12月号に登場する。 ■リリイベ終了後のメンバー5人による座談...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "a4d1ef578254d7e1",
       "title": "M!LK山中柔太朗の“ミニスカート×ロングブーツ”コーデに「かわいい」「似合いすぎ」の声！メンバーが吉田仁人に次々と突進、笑顔のドアップ連発に「わちゃわちゃ楽しそう」「いつにもまして暴れすぎ」",
@@ -53,8 +175,8 @@
     {
       "id": "5e5598d11aa68a5d",
       "title": "恋愛、アルバイト、お金、人間関係…大学生の悩みを描くショートドラマ 三菱ＵＦＪ銀行×QREATIONがタッグ",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20261019-5150664/",
       "publishedAt": "2026-10-19T09:00:00.000Z",
       "summary": "恋愛、アルバイト、お金、人間関係――大学生たちが直面するさまざまな悩みを描くショートドラマ『朱に交われど、ぼくらいろ。』が19日、Instagramで配信をスタートした。三菱ＵＦＪ銀行とQREATIONがタッグを組んだ作品で、おさき、永瀬さら、小國舞羽、Lienelの近藤駿太、中村駿希が出演。累計6億回再生超の『キュリエーション学院』とのコラボレーションも行",
@@ -161,34 +283,6 @@
       "summary": "11月18日（水）発売の『Quick Japan Monologue』#01では、7人組ダンスボーカルグループ「原因は自分にある。」を全18ページにわたり特集。11月11日（水）に5thシングル『ラブリーズン』をリリースする7人が、これまでの歩みと今後について語る。 20代になった7人の変化 「渇望.. 投稿 原因は自分にある。が『Quick Japan M",
       "groups": [
         "原因は自分にある。"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "e02ef9cfe0983591",
-      "title": "10月16日放送「ミュージックステーション」、AI、あいみょん、EBiDAN（恵比寿学園男子部）、櫻坂46、sumika、なにわ男子、RADWIMPS出演",
-      "sourceName": "タワーレコード ニュース",
-      "sourceUrl": "https://tower.jp/feeds/article/news",
-      "articleUrl": "https://tower.jp/article/news/2026/10/14/tg013",
-      "publishedAt": "2026-10-14T11:00:28.000Z",
-      "summary": "",
-      "groups": [
-        "EBiDAN"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "6db7f189e627e4d1",
-      "title": "M!LK、「MAQUIA 2026年12月号」増刊表紙に登場。スペシャル・ピンナップ付き",
-      "sourceName": "タワーレコード ニュース",
-      "sourceUrl": "https://tower.jp/feeds/article/news",
-      "articleUrl": "https://tower.jp/article/news/2026/10/14/tgb004",
-      "publishedAt": "2026-10-14T03:45:07.000Z",
-      "summary": "",
-      "groups": [
-        "M!LK"
       ],
       "statuses": [],
       "memberMatches": []
@@ -1915,20 +2009,6 @@
       "articleUrl": "https://super-dragon.jp/news/news11216/",
       "publishedAt": "2026-06-06T10:59:54.000Z",
       "summary": "LINE MUSIC再生キャンペーン SUPER★DRAGON、Digital Single「Call Me Asap」の配信リリースを記念して、この楽曲をたくさん聴いていただいた方へのプレゼントキャンペーンが決定いたし […] The post SUPER★DRAGON Digital Single「Call Me Asap」の配信を記念して、 LINE ",
-      "groups": [
-        "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "50079ff2be04a31d",
-      "title": "Major 6th Single「Call Me Asap / NUMBER」6月13日(土)開催リリースイベント＠イオンモール浦和美園 うららか広場（埼玉）にて開催リリースイベントLINEアプリを使用した『CD購入整理券』『優先観覧エリア入場整理券』についてのご案内",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news11202/",
-      "publishedAt": "2026-06-05T10:59:42.000Z",
-      "summary": "▼ＣＤ購入整理券について 6月13日(土)埼玉・イオンモール浦和美園 うららか広場にて開催するリリースイベントの会場でのＣＤ販売は、会場の混雑緩和のため、LINEアプリを使用した事前応募制の『ＣＤ購入整理券』を導入致しま […] The post Major 6th Single「Call Me Asap / NUMBER」6月13日(土)開催リリースイベン",
       "groups": [
         "SUPER★DRAGON"
       ],
