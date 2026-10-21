@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-20T21:36:40.931Z",
+  "updatedAt": "2026-10-21T04:45:24.912Z",
   "totals": {
-    "all": 121,
-    "today": 2,
+    "all": 120,
+    "today": 3,
     "week": 14
   },
   "groupRanking": [
@@ -45,15 +45,15 @@
       "count": 2
     },
     {
-      "name": "佐野勇斗",
-      "count": 2
-    },
-    {
       "name": "HAYATO",
       "count": 1
     },
     {
       "name": "近藤駿太",
+      "count": 1
+    },
+    {
+      "name": "佐野勇斗",
       "count": 1
     },
     {
@@ -106,6 +106,20 @@
   "topics": [],
   "recentByGroup": {
     "M!LK": [
+      {
+        "id": "904627d79ad4b95d",
+        "title": "M!LK『LOVE ENG!NE』が「オリコン週間合算アルバムランキング」において、自身初となる累積100万ポイントを突破",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000903383/",
+        "publishedAt": "2026-10-21T04:40:08.000Z",
+        "summary": "10月26日付オリコン週間音楽ランキング（集計期間：2026年10月12日～10月18日）が発表。合算ラ...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
       {
         "id": "1807b6bd5c118259",
         "title": "M!LK塩﨑太智、テレビ『千鳥かまいたちゴールデンアワー』でぽっちゃり幼少期のあだ名を告白「僕、顔にお肉がめっちゃ付くんですよ」",
@@ -201,28 +215,6 @@
           },
           {
             "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "d1d8840843f1d63c",
-        "title": "M!LK5人、『JUNON』で9,000⼈のファンが集まったリリイベをプレイバック！「でもまだまだだよ。ドームツアーが⽬標」（佐野勇⽃）",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000902734/",
-        "publishedAt": "2026-10-20T08:00:07.000Z",
-        "summary": "M!LKが、10月22日発売の『JUNON』12月号に登場する。 ■リリイベ終了後のメンバー5人による座談...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
             "group": "M!LK",
             "status": "active"
           }
