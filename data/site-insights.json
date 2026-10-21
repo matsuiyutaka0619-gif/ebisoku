@@ -1,33 +1,33 @@
 {
-  "updatedAt": "2026-10-21T11:47:56.651Z",
+  "updatedAt": "2026-10-21T17:11:19.453Z",
   "totals": {
-    "all": 118,
-    "today": 3,
-    "week": 12
+    "all": 119,
+    "today": 0,
+    "week": 13
   },
   "groupRanking": [
     {
-      "name": "M!LK",
-      "count": 4
+      "name": "SUPER★DRAGON",
+      "count": 5
     },
     {
-      "name": "SUPER★DRAGON",
-      "count": 4
+      "name": "Lienel",
+      "count": 2
+    },
+    {
+      "name": "M!LK",
+      "count": 2
+    },
+    {
+      "name": "原因は自分にある。",
+      "count": 2
     },
     {
       "name": "EBiDAN",
       "count": 1
     },
     {
-      "name": "Lienel",
-      "count": 1
-    },
-    {
       "name": "ONE N' ONLY",
-      "count": 1
-    },
-    {
-      "name": "原因は自分にある。",
       "count": 1
     },
     {
@@ -49,7 +49,11 @@
       "count": 1
     },
     {
-      "name": "山中柔太朗",
+      "name": "桜木雅哉",
+      "count": 1
+    },
+    {
+      "name": "池田彪馬",
       "count": 1
     }
   ],
@@ -59,12 +63,20 @@
       "count": 4
     },
     {
-      "name": "THE FIRST TIMES",
+      "name": "マイナビニュース エンタメ",
       "count": 2
     },
     {
       "name": "マイナビニュース 芸能",
       "count": 2
+    },
+    {
+      "name": "BARKS",
+      "count": 1
+    },
+    {
+      "name": "ENCOUNT",
+      "count": 1
     },
     {
       "name": "otocoto",
@@ -77,111 +89,71 @@
     {
       "name": "タワーレコード ニュース",
       "count": 1
-    },
-    {
-      "name": "マイナビニュース エンタメ",
-      "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
-    "M!LK": [
+    "Lienel": [
       {
-        "id": "9cd8de6f448102ae",
-        "title": "「家でお見送りをするときに…」交際2年の同棲カップルの“習慣”にM!LK吉田仁人も感嘆「すげえじゃん!」「そう真似できない」",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20261021-5166541/",
-        "publishedAt": "2026-10-21T10:00:00.000Z",
-        "summary": "「いつも真面目な彼氏のふざける様子を見ることができて、朝から元気が出る」――。アイドルグループ・M!LKの吉田仁人が15日、文化放送のラジオ番組『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)に出演。同棲カップルから寄せられた毎日の“習慣”に感心した。",
+        "id": "f347fe7973f07525",
+        "title": "Lienel、2ndシングル発売イベントにキンタロー。乱入 共にダンス「かつらが取れそうなくらい頑張りました」",
+        "sourceName": "ENCOUNT",
+        "sourceUrl": "https://encount.press/feed/",
+        "articleUrl": "https://encount.press/archives/1085449/",
+        "publishedAt": "2026-10-21T13:00:00.000Z",
+        "summary": "6人組ボーカル＆ダンスグループ・Lienel（リエネル）が21日、東京・新宿住友ビル三角広場で行われたメジャー2ndシングル『愛のダバダ』の発売記念イベントに登場。2000人のファンを前に、新曲『愛のダバダ』などを披露し […]",
         "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "f7a075b026e033e2",
-        "title": "M!LK山中柔太朗がフリルブラウスで圧倒的美しさを披露！“ひょっこり柔太朗”の可愛さとのギャップに「色気が時空を越えてる」「ひょっこり柔様かわいすぎ」「可愛いすぎて滅」と反響",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000903589/",
-        "publishedAt": "2026-10-21T07:40:58.000Z",
-        "summary": "『美的』の公式SNSで、M!LK山中柔太朗の撮影ビハインドが投稿された。撮影中の儚く美しい姿と...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "904627d79ad4b95d",
-        "title": "M!LK『LOVE ENG!NE』が「オリコン週間合算アルバムランキング」において、自身初となる累積100万ポイントを突破",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000903383/",
-        "publishedAt": "2026-10-21T04:40:08.000Z",
-        "summary": "10月26日付オリコン週間音楽ランキング（集計期間：2026年10月12日～10月18日）が発表。合算ラ...",
-        "groups": [
-          "M!LK"
+          "Lienel"
         ],
         "statuses": [],
         "memberMatches": []
       },
       {
-        "id": "3dc3493d823a1b65",
-        "title": "吉田仁人（M!LK）主演の新金曜ドラマ「溺愛 ～ 実は、最強ヒーロー ～」、「物語の始まり」描いた60秒PR映像＆人物相関図公開",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/10/19/tg004",
-        "publishedAt": "2026-10-19T10:00:00.000Z",
-        "summary": "",
+        "id": "5e5598d11aa68a5d",
+        "title": "恋愛、アルバイト、お金、人間関係…大学生の悩みを描くショートドラマ 三菱ＵＦＪ銀行×QREATIONがタッグ",
+        "sourceName": "マイナビニュース 芸能",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
+        "articleUrl": "https://news.mynavi.jp/article/20261019-5150664/",
+        "publishedAt": "2026-10-19T09:00:00.000Z",
+        "summary": "恋愛、アルバイト、お金、人間関係――大学生たちが直面するさまざまな悩みを描くショートドラマ『朱に交われど、ぼくらいろ。』が19日、Instagramで配信をスタートした。三菱ＵＦＪ銀行とQREATIONがタッグを組んだ作品で、おさき、永瀬さら、小國舞羽、Lienelの近藤駿太、中村駿希が出演。累計6億回再生超の『キュリエーション学院』とのコラボレーションも行",
         "groups": [
-          "M!LK"
+          "Lienel"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "吉田仁人",
-            "group": "M!LK",
+            "name": "近藤駿太",
+            "group": "Lienel",
             "status": "active"
           }
         ]
-      },
-      {
-        "id": "a36f33b2e680d504",
-        "title": "M!LK新曲「ザッツ！超常」10月26日配信、あなたとならなんでもできる！と歌うディスコチューン",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/10/92949/",
-        "publishedAt": "2026-10-06T10:00:00.000Z",
-        "summary": "5人組ダンスボーカルグループ・M!LKの新曲「ザッツ！超常」が10月26日(月)0時に配信リリースされることが決定した。 あなたとならなんでもできる！と歌う「ザッツ！超常」は、“一人ではできないこともあなたとなら乗り越えられる”というポジティブなメッセージ、デコボコな二人に生まれる化学反応、何気ない毎日の中で気がつく小さな幸せを描くハッピーなディスコチューン",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
       }
     ],
     "SUPER★DRAGON": [
+      {
+        "id": "b46c942666ffd748",
+        "title": "SUPER★DRAGON・池田彪馬のソロプロジェクト「Hyoma Ikeda」、1stミニアルバム『Effect』リリース。 “愛と痛み”を表現した「Bleeding Love」MVも公開",
+        "sourceName": "BARKS",
+        "sourceUrl": "https://www.barks.jp/feed/",
+        "articleUrl": "https://barks.jp/news/1099851",
+        "publishedAt": "2026-10-21T13:00:00.000Z",
+        "summary": "SUPER★DRAGONの池田彪馬によるソロプロジェクト“Hyoma Ikeda”の記念すべき1作目となる1st ミニアルバム『Effect』が10月21日に発売。リード曲「Bleeding Love」のMVが公開された。 「Bleeding Love」は、エドヴァルド・ムンクの絵画『愛と痛み』をテーマに制作された楽曲。作詞・作曲をHyoma Ikedaが手",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "池田彪馬",
+            "group": "SUPER★DRAGON",
+            "status": "active"
+          }
+        ]
+      },
       {
         "id": "b6fd84ba90960411",
         "title": "11/28(土)開催リリースイベント＠UNITEDLAB（福岡）参加方法・特典会内容についてのご案内",
@@ -238,52 +210,136 @@
         ],
         "statuses": [],
         "memberMatches": []
-      },
-      {
-        "id": "a565a78343b81a68",
-        "title": "【バースデーグッズ】飯島颯25歳 バースデーPHOTO SET＆プロデュースグッズ スタダ便受注販売決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11775/",
-        "publishedAt": "2026-10-12T06:00:09.000Z",
-        "summary": "本日、2026年10月12日(月祝)に25歳を迎えた飯島颯の誕生日を記念して、 バースデーPHOTO SET&プロデュースグッズの販売が決定しました！ 今年のプロデュースグッズは、過去衣装を含む颯のランダムアクリ […] The post 【バースデーグッズ】飯島颯25歳 バースデーPHOTO SET＆プロデュースグッズ スタダ便受注販売決定！ first ",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "飯島颯",
-            "group": "SUPER★DRAGON",
-            "status": "active"
-          }
-        ]
       }
     ],
-    "Lienel": [
+    "原因は自分にある。": [
       {
-        "id": "5e5598d11aa68a5d",
-        "title": "恋愛、アルバイト、お金、人間関係…大学生の悩みを描くショートドラマ 三菱ＵＦＪ銀行×QREATIONがタッグ",
-        "sourceName": "マイナビニュース 芸能",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-        "articleUrl": "https://news.mynavi.jp/article/20261019-5150664/",
-        "publishedAt": "2026-10-19T09:00:00.000Z",
-        "summary": "恋愛、アルバイト、お金、人間関係――大学生たちが直面するさまざまな悩みを描くショートドラマ『朱に交われど、ぼくらいろ。』が19日、Instagramで配信をスタートした。三菱ＵＦＪ銀行とQREATIONがタッグを組んだ作品で、おさき、永瀬さら、小國舞羽、Lienelの近藤駿太、中村駿希が出演。累計6億回再生超の『キュリエーション学院』とのコラボレーションも行",
+        "id": "4a9387e945ddde67",
+        "title": "学校のモテ男が修学旅行で同じグループになった同級生男子と恋人同士に――「誰ともしゃべらないで」嫉妬深く独占欲が強い役柄に“頭を抱えた”理由とは 簡秀吉「これ、大丈夫かなと…」",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20261021-5134914/",
+        "publishedAt": "2026-10-21T12:00:00.000Z",
+        "summary": "俳優の簡秀吉が、14日に都内で行われたABCテレビのドラマ『修学旅行で仲良くないグループに入りました２』(毎週土曜25:00～)の制作発表会見に、藤本洸大、桜木雅哉(原因は自分にある。)、福田歩汰(DXTEEN)、清水海李とともに登壇した。",
         "groups": [
-          "Lienel"
+          "原因は自分にある。"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "近藤駿太",
-            "group": "Lienel",
+            "name": "桜木雅哉",
+            "group": "原因は自分にある。",
             "status": "active"
           }
         ]
+      },
+      {
+        "id": "039ce05d6c2553b1",
+        "title": "原因は自分にある。が『Quick Japan Monologue』#01の特別版表紙に登場！ 大人になった彼らが今、渇望すること",
+        "sourceName": "QJWeb",
+        "sourceUrl": "https://qjweb.jp/feed/",
+        "articleUrl": "https://qjweb.jp/news/166624/",
+        "publishedAt": "2026-10-16T09:00:00.000Z",
+        "summary": "11月18日（水）発売の『Quick Japan Monologue』#01では、7人組ダンスボーカルグループ「原因は自分にある。」を全18ページにわたり特集。11月11日（水）に5thシングル『ラブリーズン』をリリースする7人が、これまでの歩みと今後について語る。 20代になった7人の変化 「渇望.. 投稿 原因は自分にある。が『Quick Japan M",
+        "groups": [
+          "原因は自分にある。"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
+    "M!LK": [
+      {
+        "id": "9cd8de6f448102ae",
+        "title": "「家でお見送りをするときに…」交際2年の同棲カップルの“習慣”にM!LK吉田仁人も感嘆「すげえじゃん!」「そう真似できない」",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20261021-5166541/",
+        "publishedAt": "2026-10-21T10:00:00.000Z",
+        "summary": "「いつも真面目な彼氏のふざける様子を見ることができて、朝から元気が出る」――。アイドルグループ・M!LKの吉田仁人が15日、文化放送のラジオ番組『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)に出演。同棲カップルから寄せられた毎日の“習慣”に感心した。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "3dc3493d823a1b65",
+        "title": "吉田仁人（M!LK）主演の新金曜ドラマ「溺愛 ～ 実は、最強ヒーロー ～」、「物語の始まり」描いた60秒PR映像＆人物相関図公開",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/10/19/tg004",
+        "publishedAt": "2026-10-19T10:00:00.000Z",
+        "summary": "",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "a36f33b2e680d504",
+        "title": "M!LK新曲「ザッツ！超常」10月26日配信、あなたとならなんでもできる！と歌うディスコチューン",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/10/92949/",
+        "publishedAt": "2026-10-06T10:00:00.000Z",
+        "summary": "5人組ダンスボーカルグループ・M!LKの新曲「ザッツ！超常」が10月26日(月)0時に配信リリースされることが決定した。 あなたとならなんでもできる！と歌う「ザッツ！超常」は、“一人ではできないこともあなたとなら乗り越えられる”というポジティブなメッセージ、デコボコな二人に生まれる化学反応、何気ない毎日の中で気がつく小さな幸せを描くハッピーなディスコチューン",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "976120bc3101651a",
+        "title": "M!LKが“ユニバース”を背負う新アー写公開、1stミニアルバムリード曲は早くもチャート席巻中",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/09/91880/",
+        "publishedAt": "2026-09-08T09:00:00.000Z",
+        "summary": "5人組ダンスボーカルグループ・M!LKが、9月16日(水)に控えるミニアルバム『LOVE ENG!NE』リリースに先駆けて最新アーティスト写真を公開した。 M!LKにとって初ミニアルバムとなる本作からは、リード曲「時空超えてユニバース」（ときこえてゆにばーす）の先行配信が9月7日(月)にスタート。配信開始直後からXのトレンドで「#ときユニ」が1位を獲得したほ",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "47f16c975ff422cd",
+        "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11607/",
+        "publishedAt": "2026-09-02T12:34:24.000Z",
+        "summary": "平素より株式会社SDR所属アーティストへの温かいご声援を賜り、誠にありがとうございます。 DISH//、EBiDAN（超特急、M!LK、SUPER★DRAGON、Sakurashimeji、ONE N’ ON […] The post グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ first appeared on SUPER★DRAGO",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK",
+          "SUPER★DRAGON",
+          "Sakurashimeji"
+        ],
+        "statuses": [],
+        "memberMatches": []
       }
     ],
     "超特急": [
@@ -465,22 +521,6 @@
             "status": "active"
           }
         ]
-      }
-    ],
-    "原因は自分にある。": [
-      {
-        "id": "039ce05d6c2553b1",
-        "title": "原因は自分にある。が『Quick Japan Monologue』#01の特別版表紙に登場！ 大人になった彼らが今、渇望すること",
-        "sourceName": "QJWeb",
-        "sourceUrl": "https://qjweb.jp/feed/",
-        "articleUrl": "https://qjweb.jp/news/166624/",
-        "publishedAt": "2026-10-16T09:00:00.000Z",
-        "summary": "11月18日（水）発売の『Quick Japan Monologue』#01では、7人組ダンスボーカルグループ「原因は自分にある。」を全18ページにわたり特集。11月11日（水）に5thシングル『ラブリーズン』をリリースする7人が、これまでの歩みと今後について語る。 20代になった7人の変化 「渇望.. 投稿 原因は自分にある。が『Quick Japan M",
-        "groups": [
-          "原因は自分にある。"
-        ],
-        "statuses": [],
-        "memberMatches": []
       }
     ],
     "ICEx": [

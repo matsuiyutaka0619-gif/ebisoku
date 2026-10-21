@@ -1,6 +1,64 @@
 {
-  "updatedAt": "2026-10-21T11:47:56.649Z",
+  "updatedAt": "2026-10-21T17:11:19.451Z",
   "articles": [
+    {
+      "id": "f347fe7973f07525",
+      "title": "Lienel、2ndシングル発売イベントにキンタロー。乱入 共にダンス「かつらが取れそうなくらい頑張りました」",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1085449/",
+      "publishedAt": "2026-10-21T13:00:00.000Z",
+      "summary": "6人組ボーカル＆ダンスグループ・Lienel（リエネル）が21日、東京・新宿住友ビル三角広場で行われたメジャー2ndシングル『愛のダバダ』の発売記念イベントに登場。2000人のファンを前に、新曲『愛のダバダ』などを披露し […]",
+      "groups": [
+        "Lienel"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "b46c942666ffd748",
+      "title": "SUPER★DRAGON・池田彪馬のソロプロジェクト「Hyoma Ikeda」、1stミニアルバム『Effect』リリース。 “愛と痛み”を表現した「Bleeding Love」MVも公開",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1099851",
+      "publishedAt": "2026-10-21T13:00:00.000Z",
+      "summary": "SUPER★DRAGONの池田彪馬によるソロプロジェクト“Hyoma Ikeda”の記念すべき1作目となる1st ミニアルバム『Effect』が10月21日に発売。リード曲「Bleeding Love」のMVが公開された。 「Bleeding Love」は、エドヴァルド・ムンクの絵画『愛と痛み』をテーマに制作された楽曲。作詞・作曲をHyoma Ikedaが手",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "池田彪馬",
+          "group": "SUPER★DRAGON",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "4a9387e945ddde67",
+      "title": "学校のモテ男が修学旅行で同じグループになった同級生男子と恋人同士に――「誰ともしゃべらないで」嫉妬深く独占欲が強い役柄に“頭を抱えた”理由とは 簡秀吉「これ、大丈夫かなと…」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261021-5134914/",
+      "publishedAt": "2026-10-21T12:00:00.000Z",
+      "summary": "俳優の簡秀吉が、14日に都内で行われたABCテレビのドラマ『修学旅行で仲良くないグループに入りました２』(毎週土曜25:00～)の制作発表会見に、藤本洸大、桜木雅哉(原因は自分にある。)、福田歩汰(DXTEEN)、清水海李とともに登壇した。",
+      "groups": [
+        "原因は自分にある。"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "桜木雅哉",
+          "group": "原因は自分にある。",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "9cd8de6f448102ae",
       "title": "「家でお見送りをするときに…」交際2年の同棲カップルの“習慣”にM!LK吉田仁人も感嘆「すげえじゃん!」「そう真似できない」",
@@ -22,42 +80,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "f7a075b026e033e2",
-      "title": "M!LK山中柔太朗がフリルブラウスで圧倒的美しさを披露！“ひょっこり柔太朗”の可愛さとのギャップに「色気が時空を越えてる」「ひょっこり柔様かわいすぎ」「可愛いすぎて滅」と反響",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000903589/",
-      "publishedAt": "2026-10-21T07:40:58.000Z",
-      "summary": "『美的』の公式SNSで、M!LK山中柔太朗の撮影ビハインドが投稿された。撮影中の儚く美しい姿と...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "山中柔太朗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "904627d79ad4b95d",
-      "title": "M!LK『LOVE ENG!NE』が「オリコン週間合算アルバムランキング」において、自身初となる累積100万ポイントを突破",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000903383/",
-      "publishedAt": "2026-10-21T04:40:08.000Z",
-      "summary": "10月26日付オリコン週間音楽ランキング（集計期間：2026年10月12日～10月18日）が発表。合算ラ...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "b6fd84ba90960411",
