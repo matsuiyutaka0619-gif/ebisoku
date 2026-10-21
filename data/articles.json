@@ -1,28 +1,14 @@
 {
-  "updatedAt": "2026-10-21T04:45:24.910Z",
+  "updatedAt": "2026-10-21T11:47:56.649Z",
   "articles": [
     {
-      "id": "904627d79ad4b95d",
-      "title": "M!LK『LOVE ENG!NE』が「オリコン週間合算アルバムランキング」において、自身初となる累積100万ポイントを突破",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000903383/",
-      "publishedAt": "2026-10-21T04:40:08.000Z",
-      "summary": "10月26日付オリコン週間音楽ランキング（集計期間：2026年10月12日～10月18日）が発表。合算ラ...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "1807b6bd5c118259",
-      "title": "M!LK塩﨑太智、テレビ『千鳥かまいたちゴールデンアワー』でぽっちゃり幼少期のあだ名を告白「僕、顔にお肉がめっちゃ付くんですよ」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000902933/",
-      "publishedAt": "2026-10-20T21:00:25.000Z",
-      "summary": "M!LKの塩崎太智（「崎」は、たつさきが正式表記）らが、10月21日20時より放送の日本テレビ系『...",
+      "id": "9cd8de6f448102ae",
+      "title": "「家でお見送りをするときに…」交際2年の同棲カップルの“習慣”にM!LK吉田仁人も感嘆「すげえじゃん!」「そう真似できない」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261021-5166541/",
+      "publishedAt": "2026-10-21T10:00:00.000Z",
+      "summary": "「いつも真面目な彼氏のふざける様子を見ることができて、朝から元気が出る」――。アイドルグループ・M!LKの吉田仁人が15日、文化放送のラジオ番組『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)に出演。同棲カップルから寄せられた毎日の“習慣”に感心した。",
       "groups": [
         "M!LK"
       ],
@@ -31,20 +17,42 @@
       ],
       "memberMatches": [
         {
-          "name": "塩﨑太智",
+          "name": "吉田仁人",
           "group": "M!LK",
           "status": "active"
         }
       ]
     },
     {
-      "id": "cde6e86f70e60e38",
-      "title": "新着MVランキング：M!LK、雨の『ロッキン』で示した「アイドルパワー」 人気トップ10に4作、映像でも際立つ地力",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/10/post-2558019.html",
-      "publishedAt": "2026-10-20T20:50:41.000Z",
-      "summary": "毎週更新される「YouTube Music Charts」ウィークリー ミュージック ビデオ ランキングより、MVをはじめとした音楽関連の新着動画から上位10作品／楽曲を取り上げ、ランキング化＆レビューしていく連載「MV Chart Focus」。今週は首位を獲得した、M!LK「アイドルパワー」の『ROCK IN JAPAN FESTIVAL 2026』ライ",
+      "id": "f7a075b026e033e2",
+      "title": "M!LK山中柔太朗がフリルブラウスで圧倒的美しさを披露！“ひょっこり柔太朗”の可愛さとのギャップに「色気が時空を越えてる」「ひょっこり柔様かわいすぎ」「可愛いすぎて滅」と反響",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000903589/",
+      "publishedAt": "2026-10-21T07:40:58.000Z",
+      "summary": "『美的』の公式SNSで、M!LK山中柔太朗の撮影ビハインドが投稿された。撮影中の儚く美しい姿と...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "904627d79ad4b95d",
+      "title": "M!LK『LOVE ENG!NE』が「オリコン週間合算アルバムランキング」において、自身初となる累積100万ポイントを突破",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000903383/",
+      "publishedAt": "2026-10-21T04:40:08.000Z",
+      "summary": "10月26日付オリコン週間音楽ランキング（集計期間：2026年10月12日～10月18日）が発表。合算ラ...",
       "groups": [
         "M!LK"
       ],
@@ -64,70 +72,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "e15320e0fc1adddd",
-      "title": "「やっぱり5人で集まると…」吉田仁人、約2週間ぶりのM!LK全員集合の裏側明かす とあるメンバーへの“苦言”も「もうとんでもなかった!」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-      "articleUrl": "https://news.mynavi.jp/article/20261020-5156924/",
-      "publishedAt": "2026-10-20T10:00:00.000Z",
-      "summary": "「久々に集まるとテンション上がる」――。アイドルグループ・M!LKの吉田仁人が15日、文化放送『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)に出演。1stミニアルバム『LOVE ENG!NE』のリード曲「時空超えてユニバース」のミュージックビデオ撮影秘話を明かした。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "5c479fb1b020ccd0",
-      "title": "M!LK 有明アリーナ『LOVE ENG!NE』リリイベ終了後座談会！佐野勇斗「意味がわかんない」",
-      "sourceName": "Edge Line",
-      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/207426",
-      "publishedAt": "2026-10-20T08:00:25.000Z",
-      "summary": "佐野勇斗、吉田仁人、塩﨑太智、山中柔太朗、曽野舜太によるダンスボーカルグループ『M!LK』が10月22日発売の月刊誌『JUNON』（主婦と生活社）12月号に登場している。 『M!LK』といえば、直近では9月16日の発...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "塩﨑太智",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "曽野舜太",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "山中柔太朗",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "3dc3493d823a1b65",
