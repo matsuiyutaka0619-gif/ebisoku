@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-10-21T21:42:14.512Z",
+  "updatedAt": "2026-10-22T04:43:52.829Z",
   "articles": [
     {
-      "id": "f347fe7973f07525",
-      "title": "Lienel、2ndシングル発売イベントにキンタロー。乱入 共にダンス「かつらが取れそうなくらい頑張りました」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1085449/",
-      "publishedAt": "2026-10-21T13:00:00.000Z",
-      "summary": "6人組ボーカル＆ダンスグループ・Lienel（リエネル）が21日、東京・新宿住友ビル三角広場で行われたメジャー2ndシングル『愛のダバダ』の発売記念イベントに登場。2000人のファンを前に、新曲『愛のダバダ』などを披露し […]",
+      "id": "13c5dcb712ec340f",
+      "title": "SUPER★DRAGON×セゾンカード初コラボ！推しと1対1で話せるオンライン・トーク会に100名様をご招待",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news11834/",
+      "publishedAt": "2026-10-22T01:00:50.000Z",
+      "summary": "「SUPER★DRAGON」と「SAISON CARD Digital」の初となるコラボレーションを実施いたします。 2026年10月22日（木）～11月30日（月）までの期間中、キャンペーンサイトから「SAISON C […] The post SUPER★DRAGON×セゾンカード初コラボ！推しと1対1で話せるオンライン・トーク会に100名様をご招待 f",
       "groups": [
-        "Lienel"
+        "SUPER★DRAGON"
       ],
       "statuses": [],
       "memberMatches": []
@@ -40,8 +40,8 @@
     {
       "id": "4a9387e945ddde67",
       "title": "学校のモテ男が修学旅行で同じグループになった同級生男子と恋人同士に――「誰ともしゃべらないで」嫉妬深く独占欲が強い役柄に“頭を抱えた”理由とは 簡秀吉「これ、大丈夫かなと…」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
       "articleUrl": "https://news.mynavi.jp/article/20261021-5134914/",
       "publishedAt": "2026-10-21T12:00:00.000Z",
       "summary": "俳優の簡秀吉が、14日に都内で行われたABCテレビのドラマ『修学旅行で仲良くないグループに入りました２』(毎週土曜25:00～)の制作発表会見に、藤本洸大、桜木雅哉(原因は自分にある。)、福田歩汰(DXTEEN)、清水海李とともに登壇した。",
@@ -55,28 +55,6 @@
         {
           "name": "桜木雅哉",
           "group": "原因は自分にある。",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "9cd8de6f448102ae",
-      "title": "「家でお見送りをするときに…」交際2年の同棲カップルの“習慣”にM!LK吉田仁人も感嘆「すげえじゃん!」「そう真似できない」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-      "articleUrl": "https://news.mynavi.jp/article/20261021-5166541/",
-      "publishedAt": "2026-10-21T10:00:00.000Z",
-      "summary": "「いつも真面目な彼氏のふざける様子を見ることができて、朝から元気が出る」――。アイドルグループ・M!LKの吉田仁人が15日、文化放送のラジオ番組『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)に出演。同棲カップルから寄せられた毎日の“習慣”に感心した。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
           "status": "active"
         }
       ]
@@ -1932,20 +1910,6 @@
       "articleUrl": "https://super-dragon.jp/news/news11216/",
       "publishedAt": "2026-06-06T10:59:54.000Z",
       "summary": "LINE MUSIC再生キャンペーン SUPER★DRAGON、Digital Single「Call Me Asap」の配信リリースを記念して、この楽曲をたくさん聴いていただいた方へのプレゼントキャンペーンが決定いたし […] The post SUPER★DRAGON Digital Single「Call Me Asap」の配信を記念して、 LINE ",
-      "groups": [
-        "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "ead8ce34b823afad",
-      "title": "Major 6th Single「Call Me Asap / NUMBER」6月14日(日)開催リリースイベント＠有明セントラルタワーホール（東京）参加方法・特典会内容についてのご案内",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news11209/",
-      "publishedAt": "2026-06-05T10:59:12.000Z",
-      "summary": "6月14日(日)有明セントラルタワーホールにて開催するリリースイベントの詳細をご案内致します。 必ず最後まで全てお読み頂き、会場にいらした皆様がイベントを楽しめるよう、ファンの皆様同士でルールとマナーの厳守をお願い致しま […] The post Major 6th Single「Call Me Asap / NUMBER」6月14日(日)開催リリースイベン",
       "groups": [
         "SUPER★DRAGON"
       ],

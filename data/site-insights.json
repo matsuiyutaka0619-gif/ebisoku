@@ -1,22 +1,14 @@
 {
-  "updatedAt": "2026-10-21T21:42:14.516Z",
+  "updatedAt": "2026-10-22T04:43:52.832Z",
   "totals": {
-    "all": 119,
-    "today": 0,
-    "week": 13
+    "all": 117,
+    "today": 1,
+    "week": 12
   },
   "groupRanking": [
     {
       "name": "SUPER★DRAGON",
-      "count": 5
-    },
-    {
-      "name": "Lienel",
-      "count": 2
-    },
-    {
-      "name": "M!LK",
-      "count": 2
+      "count": 6
     },
     {
       "name": "原因は自分にある。",
@@ -24,6 +16,14 @@
     },
     {
       "name": "EBiDAN",
+      "count": 1
+    },
+    {
+      "name": "Lienel",
+      "count": 1
+    },
+    {
+      "name": "M!LK",
       "count": 1
     },
     {
@@ -37,11 +37,11 @@
   ],
   "memberRanking": [
     {
-      "name": "吉田仁人",
-      "count": 2
+      "name": "HAYATO",
+      "count": 1
     },
     {
-      "name": "HAYATO",
+      "name": "吉田仁人",
       "count": 1
     },
     {
@@ -60,11 +60,7 @@
   "sourceRanking": [
     {
       "name": "SUPER★DRAGON 公式NEWS",
-      "count": 4
-    },
-    {
-      "name": "マイナビニュース エンタメ",
-      "count": 2
+      "count": 5
     },
     {
       "name": "マイナビニュース 芸能",
@@ -72,10 +68,6 @@
     },
     {
       "name": "BARKS",
-      "count": 1
-    },
-    {
-      "name": "ENCOUNT",
       "count": 1
     },
     {
@@ -89,49 +81,29 @@
     {
       "name": "タワーレコード ニュース",
       "count": 1
+    },
+    {
+      "name": "マイナビニュース テレビ",
+      "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
-    "Lienel": [
+    "SUPER★DRAGON": [
       {
-        "id": "f347fe7973f07525",
-        "title": "Lienel、2ndシングル発売イベントにキンタロー。乱入 共にダンス「かつらが取れそうなくらい頑張りました」",
-        "sourceName": "ENCOUNT",
-        "sourceUrl": "https://encount.press/feed/",
-        "articleUrl": "https://encount.press/archives/1085449/",
-        "publishedAt": "2026-10-21T13:00:00.000Z",
-        "summary": "6人組ボーカル＆ダンスグループ・Lienel（リエネル）が21日、東京・新宿住友ビル三角広場で行われたメジャー2ndシングル『愛のダバダ』の発売記念イベントに登場。2000人のファンを前に、新曲『愛のダバダ』などを披露し […]",
+        "id": "13c5dcb712ec340f",
+        "title": "SUPER★DRAGON×セゾンカード初コラボ！推しと1対1で話せるオンライン・トーク会に100名様をご招待",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11834/",
+        "publishedAt": "2026-10-22T01:00:50.000Z",
+        "summary": "「SUPER★DRAGON」と「SAISON CARD Digital」の初となるコラボレーションを実施いたします。 2026年10月22日（木）～11月30日（月）までの期間中、キャンペーンサイトから「SAISON C […] The post SUPER★DRAGON×セゾンカード初コラボ！推しと1対1で話せるオンライン・トーク会に100名様をご招待 f",
         "groups": [
-          "Lienel"
+          "SUPER★DRAGON"
         ],
         "statuses": [],
         "memberMatches": []
       },
-      {
-        "id": "5e5598d11aa68a5d",
-        "title": "恋愛、アルバイト、お金、人間関係…大学生の悩みを描くショートドラマ 三菱ＵＦＪ銀行×QREATIONがタッグ",
-        "sourceName": "マイナビニュース 芸能",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-        "articleUrl": "https://news.mynavi.jp/article/20261019-5150664/",
-        "publishedAt": "2026-10-19T09:00:00.000Z",
-        "summary": "恋愛、アルバイト、お金、人間関係――大学生たちが直面するさまざまな悩みを描くショートドラマ『朱に交われど、ぼくらいろ。』が19日、Instagramで配信をスタートした。三菱ＵＦＪ銀行とQREATIONがタッグを組んだ作品で、おさき、永瀬さら、小國舞羽、Lienelの近藤駿太、中村駿希が出演。累計6億回再生超の『キュリエーション学院』とのコラボレーションも行",
-        "groups": [
-          "Lienel"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "近藤駿太",
-            "group": "Lienel",
-            "status": "active"
-          }
-        ]
-      }
-    ],
-    "SUPER★DRAGON": [
       {
         "id": "b46c942666ffd748",
         "title": "SUPER★DRAGON・池田彪馬のソロプロジェクト「Hyoma Ikeda」、1stミニアルバム『Effect』リリース。 “愛と痛み”を表現した「Bleeding Love」MVも公開",
@@ -196,28 +168,14 @@
         ],
         "statuses": [],
         "memberMatches": []
-      },
-      {
-        "id": "7e88eb56cabb27fa",
-        "title": "SUPER★DRAGON Major 2nd Album「STAR」リリースイベント・特典会開催！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11790/",
-        "publishedAt": "2026-10-16T10:00:30.000Z",
-        "summary": "2026年12月09日(水)、SUPER★DRAGONメジャー2枚目となるアルバム「STAR」の発売を記念し、リリースイベント・特典会が決定いたしました！ SUPER★DRAGONと一緒に、素敵な思い出を作りましょう！ […] The post SUPER★DRAGON Major 2nd Album「STAR」リリースイベント・特典会開催！ first a",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
       }
     ],
     "原因は自分にある。": [
       {
         "id": "4a9387e945ddde67",
         "title": "学校のモテ男が修学旅行で同じグループになった同級生男子と恋人同士に――「誰ともしゃべらないで」嫉妬深く独占欲が強い役柄に“頭を抱えた”理由とは 簡秀吉「これ、大丈夫かなと…」",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "sourceName": "マイナビニュース テレビ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
         "articleUrl": "https://news.mynavi.jp/article/20261021-5134914/",
         "publishedAt": "2026-10-21T12:00:00.000Z",
         "summary": "俳優の簡秀吉が、14日に都内で行われたABCテレビのドラマ『修学旅行で仲良くないグループに入りました２』(毎週土曜25:00～)の制作発表会見に、藤本洸大、桜木雅哉(原因は自分にある。)、福田歩汰(DXTEEN)、清水海李とともに登壇した。",
@@ -251,28 +209,6 @@
       }
     ],
     "M!LK": [
-      {
-        "id": "9cd8de6f448102ae",
-        "title": "「家でお見送りをするときに…」交際2年の同棲カップルの“習慣”にM!LK吉田仁人も感嘆「すげえじゃん!」「そう真似できない」",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20261021-5166541/",
-        "publishedAt": "2026-10-21T10:00:00.000Z",
-        "summary": "「いつも真面目な彼氏のふざける様子を見ることができて、朝から元気が出る」――。アイドルグループ・M!LKの吉田仁人が15日、文化放送のラジオ番組『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)に出演。同棲カップルから寄せられた毎日の“習慣”に感心した。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
       {
         "id": "3dc3493d823a1b65",
         "title": "吉田仁人（M!LK）主演の新金曜ドラマ「溺愛 ～ 実は、最強ヒーロー ～」、「物語の始まり」描いた60秒PR映像＆人物相関図公開",
@@ -340,6 +276,44 @@
         ],
         "statuses": [],
         "memberMatches": []
+      },
+      {
+        "id": "bbd8056d67a448a4",
+        "title": "M!LK初ミニアルバムの収録楽曲公開、リード曲は“愛”の3部作完結編「時空超えてユニバース」",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/08/91395/",
+        "publishedAt": "2026-08-28T13:00:00.000Z",
+        "summary": "5人組ダンスボーカルグループ・M!LKが、9月16日(水)にリリースする1stミニアルバム『LOVE ENG!NE』の収録曲を公開した。 今作にはリード曲「時空超えてユニバース」をはじめ「Don’t let me down!」「僕のすべては君のもの」という計3曲の新曲に加え、「モー烈モー進！リリースプロジェクト2026」で配信リリースされた「アイドルパワー」",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
+    "Lienel": [
+      {
+        "id": "5e5598d11aa68a5d",
+        "title": "恋愛、アルバイト、お金、人間関係…大学生の悩みを描くショートドラマ 三菱ＵＦＪ銀行×QREATIONがタッグ",
+        "sourceName": "マイナビニュース 芸能",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
+        "articleUrl": "https://news.mynavi.jp/article/20261019-5150664/",
+        "publishedAt": "2026-10-19T09:00:00.000Z",
+        "summary": "恋愛、アルバイト、お金、人間関係――大学生たちが直面するさまざまな悩みを描くショートドラマ『朱に交われど、ぼくらいろ。』が19日、Instagramで配信をスタートした。三菱ＵＦＪ銀行とQREATIONがタッグを組んだ作品で、おさき、永瀬さら、小國舞羽、Lienelの近藤駿太、中村駿希が出演。累計6億回再生超の『キュリエーション学院』とのコラボレーションも行",
+        "groups": [
+          "Lienel"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "近藤駿太",
+            "group": "Lienel",
+            "status": "active"
+          }
+        ]
       }
     ],
     "超特急": [
