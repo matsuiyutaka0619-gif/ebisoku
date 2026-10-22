@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-22T11:51:27.926Z",
+  "updatedAt": "2026-10-22T17:09:56.277Z",
   "totals": {
     "all": 116,
-    "today": 4,
+    "today": 0,
     "week": 12
   },
   "groupRanking": [
@@ -11,15 +11,19 @@
       "count": 5
     },
     {
-      "name": "M!LK",
-      "count": 3
-    },
-    {
       "name": "Lienel",
       "count": 2
     },
     {
+      "name": "M!LK",
+      "count": 2
+    },
+    {
       "name": "EBiDAN",
+      "count": 1
+    },
+    {
+      "name": "ICEx",
       "count": 1
     },
     {
@@ -45,11 +49,31 @@
       "count": 1
     },
     {
+      "name": "阿久根温世",
+      "count": 1
+    },
+    {
       "name": "桜木雅哉",
       "count": 1
     },
     {
-      "name": "武田創世",
+      "name": "山本龍人",
+      "count": 1
+    },
+    {
+      "name": "志賀李玖",
+      "count": 1
+    },
+    {
+      "name": "千田波空斗",
+      "count": 1
+    },
+    {
+      "name": "竹野世梛",
+      "count": 1
+    },
+    {
+      "name": "中村旺太郎",
       "count": 1
     }
   ],
@@ -63,11 +87,11 @@
       "count": 2
     },
     {
-      "name": "QJWeb",
+      "name": "BARKS",
       "count": 1
     },
     {
-      "name": "THE FIRST TIMES",
+      "name": "QJWeb",
       "count": 1
     },
     {
@@ -85,6 +109,94 @@
   ],
   "topics": [],
   "recentByGroup": {
+    "ICEx": [
+      {
+        "id": "a6b1994f3107e61b",
+        "title": "ICEx、8thシングル「ニコニコニコイチ」発売決定。初のソロ盤リリースも",
+        "sourceName": "BARKS",
+        "sourceUrl": "https://www.barks.jp/feed/",
+        "articleUrl": "https://barks.jp/news/1100024",
+        "publishedAt": "2026-10-22T13:00:00.000Z",
+        "summary": "ICExが、8thシングル「ニコニコニコイチ」を2027年1月20日にリリースすることをを発表した。 本作は、“2つでひとつ＝ニコイチ”と笑顔をテーマにしたICEx得意のキュートンチキソングだという。さらに、Blu-ray付の初回限定盤、通常盤に加え、ICExとして初めてとなる完全生産限定ソロ盤8種のリリースが決定。初回限定盤に付属のBlu-rayには今年8",
+        "groups": [
+          "ICEx"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "志賀李玖",
+            "group": "ICEx",
+            "status": "active"
+          },
+          {
+            "name": "中村旺太郎",
+            "group": "ICEx",
+            "status": "active"
+          },
+          {
+            "name": "阿久根温世",
+            "group": "ICEx",
+            "status": "active"
+          },
+          {
+            "name": "千田波空斗",
+            "group": "ICEx",
+            "status": "active"
+          },
+          {
+            "name": "筒井俊旭",
+            "group": "ICEx",
+            "status": "active"
+          },
+          {
+            "name": "山本龍人",
+            "group": "ICEx",
+            "status": "active"
+          },
+          {
+            "name": "竹野世梛",
+            "group": "ICEx",
+            "status": "active"
+          },
+          {
+            "name": "八神遼介",
+            "group": "ICEx",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "72d88a3410706483",
+        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』追加出演者のお知らせ/チケットトレード情報",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11722/",
+        "publishedAt": "2026-10-02T07:00:30.000Z",
+        "summary": "第6回EBiDAN大運動会『スポーツマンヒップ！』につきまして、ICEx志賀李玖・阿久根温世の追加出演が決定いたしました！ また、10月7日(水) 18:00よりチケットトレードの実施が決定いたしました。 チケットをお持 […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』追加出演者のお知らせ/チケットトレード情報 first app",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON",
+          "ICEx"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "志賀李玖",
+            "group": "ICEx",
+            "status": "active"
+          },
+          {
+            "name": "阿久根温世",
+            "group": "ICEx",
+            "status": "active"
+          }
+        ]
+      }
+    ],
     "M!LK": [
       {
         "id": "0b0d90893ec96ac5",
@@ -107,20 +219,6 @@
             "status": "active"
           }
         ]
-      },
-      {
-        "id": "6031b818a271336a",
-        "title": "M!LK5人が“オールホワイト”で集合！ジュエリーを合わせた個性光る着こなしに「透明感やばい」「よっしーの萌え袖かわいすぎる」「勇ちゃんオトナの色気」の声",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000904114/",
-        "publishedAt": "2026-10-22T06:34:38.000Z",
-        "summary": "『MAQUIA』の公式Instagramが更新され、M!LKの5人が登場するメッセージ動画が公開された。 ■M!...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
       },
       {
         "id": "3dc3493d823a1b65",
@@ -168,6 +266,24 @@
         "summary": "5人組ダンスボーカルグループ・M!LKが、9月16日(水)に控えるミニアルバム『LOVE ENG!NE』リリースに先駆けて最新アーティスト写真を公開した。 M!LKにとって初ミニアルバムとなる本作からは、リード曲「時空超えてユニバース」（ときこえてゆにばーす）の先行配信が9月7日(月)にスタート。配信開始直後からXのトレンドで「#ときユニ」が1位を獲得したほ",
         "groups": [
           "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "47f16c975ff422cd",
+        "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11607/",
+        "publishedAt": "2026-09-02T12:34:24.000Z",
+        "summary": "平素より株式会社SDR所属アーティストへの温かいご声援を賜り、誠にありがとうございます。 DISH//、EBiDAN（超特急、M!LK、SUPER★DRAGON、Sakurashimeji、ONE N’ ON […] The post グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ first appeared on SUPER★DRAGO",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK",
+          "SUPER★DRAGON",
+          "Sakurashimeji"
         ],
         "statuses": [],
         "memberMatches": []
@@ -504,37 +620,6 @@
         ],
         "statuses": [],
         "memberMatches": []
-      }
-    ],
-    "ICEx": [
-      {
-        "id": "72d88a3410706483",
-        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』追加出演者のお知らせ/チケットトレード情報",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11722/",
-        "publishedAt": "2026-10-02T07:00:30.000Z",
-        "summary": "第6回EBiDAN大運動会『スポーツマンヒップ！』につきまして、ICEx志賀李玖・阿久根温世の追加出演が決定いたしました！ また、10月7日(水) 18:00よりチケットトレードの実施が決定いたしました。 チケットをお持 […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』追加出演者のお知らせ/チケットトレード情報 first app",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON",
-          "ICEx"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "志賀李玖",
-            "group": "ICEx",
-            "status": "active"
-          },
-          {
-            "name": "阿久根温世",
-            "group": "ICEx",
-            "status": "active"
-          }
-        ]
       }
     ],
     "Sakurashimeji": [
