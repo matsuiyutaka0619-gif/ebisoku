@@ -1,41 +1,82 @@
 {
-  "updatedAt": "2026-10-22T04:43:52.829Z",
+  "updatedAt": "2026-10-22T11:51:27.922Z",
   "articles": [
     {
-      "id": "13c5dcb712ec340f",
-      "title": "SUPER★DRAGON×セゾンカード初コラボ！推しと1対1で話せるオンライン・トーク会に100名様をご招待",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news11834/",
-      "publishedAt": "2026-10-22T01:00:50.000Z",
-      "summary": "「SUPER★DRAGON」と「SAISON CARD Digital」の初となるコラボレーションを実施いたします。 2026年10月22日（木）～11月30日（月）までの期間中、キャンペーンサイトから「SAISON C […] The post SUPER★DRAGON×セゾンカード初コラボ！推しと1対1で話せるオンライン・トーク会に100名様をご招待 f",
+      "id": "0b0d90893ec96ac5",
+      "title": "出会って10年目で夫の“ガチ泣き”を初めて見た妻、その理由に夫婦で号泣「いい人と結婚した」「旦那、爆裂愛してる」――リスナーから寄せられたエピソードにM!LK吉田仁人も感動「すごい素敵」「心が浄化された」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261022-5167443/",
+      "publishedAt": "2026-10-22T10:00:00.000Z",
+      "summary": "「いつも頼もしい旦那が泣いている姿を見て、なぜかキュンとしました」――。アイドルグループ・M!LKの吉田仁人が15日、文化放送のラジオ番組『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)に出演。夫の“意外な一面”を明かしたリスナーのエピソードに心を震わせた。",
       "groups": [
-        "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "b46c942666ffd748",
-      "title": "SUPER★DRAGON・池田彪馬のソロプロジェクト「Hyoma Ikeda」、1stミニアルバム『Effect』リリース。 “愛と痛み”を表現した「Bleeding Love」MVも公開",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1099851",
-      "publishedAt": "2026-10-21T13:00:00.000Z",
-      "summary": "SUPER★DRAGONの池田彪馬によるソロプロジェクト“Hyoma Ikeda”の記念すべき1作目となる1st ミニアルバム『Effect』が10月21日に発売。リード曲「Bleeding Love」のMVが公開された。 「Bleeding Love」は、エドヴァルド・ムンクの絵画『愛と痛み』をテーマに制作された楽曲。作詞・作曲をHyoma Ikedaが手",
-      "groups": [
-        "SUPER★DRAGON"
+        "M!LK"
       ],
       "statuses": [
         "active"
       ],
       "memberMatches": [
         {
-          "name": "池田彪馬",
-          "group": "SUPER★DRAGON",
+          "name": "吉田仁人",
+          "group": "M!LK",
           "status": "active"
         }
       ]
+    },
+    {
+      "id": "9aa1a5556bfafb6b",
+      "title": "Lienelリリースイベント、欠席になってしまった近藤駿太に代わり武田創世「お前ら離れんなよ！」",
+      "sourceName": "QJWeb",
+      "sourceUrl": "https://qjweb.jp/feed/",
+      "articleUrl": "https://qjweb.jp/column/167082/",
+      "publishedAt": "2026-10-22T10:00:00.000Z",
+      "summary": "6人組メインボーカル＆ダンスグループ・Lienelが、10月21日に2ndシングル『愛のダバダ』を発売。発売を記念してメジャーデビューをサプライズ発表した場所でもある新宿・三角広場にて、イベントを開催した。 2026年の6月に『メロ・コレクション』にてメジャーデビューを果たし、同月にはパシフィコ横浜.. 投稿 Lienelリリースイベント、欠席になってしまっ",
+      "groups": [
+        "Lienel"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "近藤駿太",
+          "group": "Lienel",
+          "status": "active"
+        },
+        {
+          "name": "武田創世",
+          "group": "Lienel",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "6031b818a271336a",
+      "title": "M!LK5人が“オールホワイト”で集合！ジュエリーを合わせた個性光る着こなしに「透明感やばい」「よっしーの萌え袖かわいすぎる」「勇ちゃんオトナの色気」の声",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000904114/",
+      "publishedAt": "2026-10-22T06:34:38.000Z",
+      "summary": "『MAQUIA』の公式Instagramが更新され、M!LKの5人が登場するメッセージ動画が公開された。 ■M!...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "13c5dcb712ec340f",
+      "title": "SUPER★DRAGON×セゾンカード初コラボ！推しと1対1で話せるオンライン・トーク会に100名様をご招待※10月22日更新",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news11834/",
+      "publishedAt": "2026-10-22T01:00:50.000Z",
+      "summary": "「SUPER★DRAGON」と「SAISON CARD Digital」の初となるコラボレーションを実施いたします。 2026年10月22日（木）～11月30日（月）までの期間中、キャンペーンサイトから「SAISON C […] The post SUPER★DRAGON×セゾンカード初コラボ！推しと1対1で話せるオンライン・トーク会に100名様をご招待※1",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
     },
     {
       "id": "4a9387e945ddde67",
@@ -118,20 +159,6 @@
       ]
     },
     {
-      "id": "836413f1fc740f39",
-      "title": "鈴木伸之×柏木悠(超特急) W主演 “魔性の男”の正体は‥‥ 映画『⽺の⽪を着たケモノ』 本予告映像公開",
-      "sourceName": "otocoto",
-      "sourceUrl": "https://otocoto.jp/feed/",
-      "articleUrl": "https://otocoto.jp/news/hitsuji-kemono1019/",
-      "publishedAt": "2026-10-19T09:00:00.000Z",
-      "summary": "鈴木伸之と柏木悠(超特急)をW主演に迎えた映画『羊の皮を着たケモノ』。このたび本作の追加キャストが発表され、あわせて本予告映像が公開された。 本作は、大学生・日...",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
       "id": "79db83af4ca4bd66",
       "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ&生写真セット 事後通販決定！！",
       "sourceName": "SUPER★DRAGON 公式NEWS",
@@ -192,20 +219,6 @@
       "summary": "2026年12月09日(水)、SUPER★DRAGONメジャー2枚目となるアルバム「STAR」の発売を記念し、リリースイベント・特典会が決定いたしました！ SUPER★DRAGONと一緒に、素敵な思い出を作りましょう！ […] The post SUPER★DRAGON Major 2nd Album「STAR」リリースイベント・特典会開催！ first a",
       "groups": [
         "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "039ce05d6c2553b1",
-      "title": "原因は自分にある。が『Quick Japan Monologue』#01の特別版表紙に登場！ 大人になった彼らが今、渇望すること",
-      "sourceName": "QJWeb",
-      "sourceUrl": "https://qjweb.jp/feed/",
-      "articleUrl": "https://qjweb.jp/news/166624/",
-      "publishedAt": "2026-10-16T09:00:00.000Z",
-      "summary": "11月18日（水）発売の『Quick Japan Monologue』#01では、7人組ダンスボーカルグループ「原因は自分にある。」を全18ページにわたり特集。11月11日（水）に5thシングル『ラブリーズン』をリリースする7人が、これまでの歩みと今後について語る。 20代になった7人の変化 「渇望.. 投稿 原因は自分にある。が『Quick Japan M",
-      "groups": [
-        "原因は自分にある。"
       ],
       "statuses": [],
       "memberMatches": []
@@ -1174,28 +1187,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "f24b9a74ba26d74a",
-      "title": "曽野舜太、夢の『仮面ライダー』役で活きたM!LKでの経験明かす 役柄に驚きも「あれ、俺…」",
-      "sourceName": "マイナビニュース 映画",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
-      "articleUrl": "https://news.mynavi.jp/article/20260724-4735976/",
-      "publishedAt": "2026-07-24T11:00:00.000Z",
-      "summary": "ダンスボーカルグループ・M!LKの曽野舜太が23日、映画『仮面ライダーゼッツ さよならのミッション』/映画『超宇宙刑事ギャバン インフィニティ 太陽が泣いた日』(公開中)の公開前夜祭舞台挨拶に登壇。夢だったという『仮面ライダー』出演で活きたM!LKでの経験を明かした。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "曽野舜太",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "143d7c83523956de",

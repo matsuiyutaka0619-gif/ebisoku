@@ -1,17 +1,21 @@
 {
-  "updatedAt": "2026-10-22T04:43:52.832Z",
+  "updatedAt": "2026-10-22T11:51:27.926Z",
   "totals": {
-    "all": 117,
-    "today": 1,
+    "all": 116,
+    "today": 4,
     "week": 12
   },
   "groupRanking": [
     {
       "name": "SUPER★DRAGON",
-      "count": 6
+      "count": 5
     },
     {
-      "name": "原因は自分にある。",
+      "name": "M!LK",
+      "count": 3
+    },
+    {
+      "name": "Lienel",
       "count": 2
     },
     {
@@ -19,33 +23,25 @@
       "count": 1
     },
     {
-      "name": "Lienel",
-      "count": 1
-    },
-    {
-      "name": "M!LK",
-      "count": 1
-    },
-    {
       "name": "ONE N' ONLY",
       "count": 1
     },
     {
-      "name": "超特急",
+      "name": "原因は自分にある。",
       "count": 1
     }
   ],
   "memberRanking": [
     {
-      "name": "HAYATO",
-      "count": 1
-    },
-    {
       "name": "吉田仁人",
-      "count": 1
+      "count": 2
     },
     {
       "name": "近藤駿太",
+      "count": 2
+    },
+    {
+      "name": "HAYATO",
       "count": 1
     },
     {
@@ -53,7 +49,7 @@
       "count": 1
     },
     {
-      "name": "池田彪馬",
+      "name": "武田創世",
       "count": 1
     }
   ],
@@ -67,19 +63,19 @@
       "count": 2
     },
     {
-      "name": "BARKS",
-      "count": 1
-    },
-    {
-      "name": "otocoto",
-      "count": 1
-    },
-    {
       "name": "QJWeb",
       "count": 1
     },
     {
+      "name": "THE FIRST TIMES",
+      "count": 1
+    },
+    {
       "name": "タワーレコード ニュース",
+      "count": 1
+    },
+    {
+      "name": "マイナビニュース エンタメ",
       "count": 1
     },
     {
@@ -89,126 +85,43 @@
   ],
   "topics": [],
   "recentByGroup": {
-    "SUPER★DRAGON": [
-      {
-        "id": "13c5dcb712ec340f",
-        "title": "SUPER★DRAGON×セゾンカード初コラボ！推しと1対1で話せるオンライン・トーク会に100名様をご招待",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11834/",
-        "publishedAt": "2026-10-22T01:00:50.000Z",
-        "summary": "「SUPER★DRAGON」と「SAISON CARD Digital」の初となるコラボレーションを実施いたします。 2026年10月22日（木）～11月30日（月）までの期間中、キャンペーンサイトから「SAISON C […] The post SUPER★DRAGON×セゾンカード初コラボ！推しと1対1で話せるオンライン・トーク会に100名様をご招待 f",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "b46c942666ffd748",
-        "title": "SUPER★DRAGON・池田彪馬のソロプロジェクト「Hyoma Ikeda」、1stミニアルバム『Effect』リリース。 “愛と痛み”を表現した「Bleeding Love」MVも公開",
-        "sourceName": "BARKS",
-        "sourceUrl": "https://www.barks.jp/feed/",
-        "articleUrl": "https://barks.jp/news/1099851",
-        "publishedAt": "2026-10-21T13:00:00.000Z",
-        "summary": "SUPER★DRAGONの池田彪馬によるソロプロジェクト“Hyoma Ikeda”の記念すべき1作目となる1st ミニアルバム『Effect』が10月21日に発売。リード曲「Bleeding Love」のMVが公開された。 「Bleeding Love」は、エドヴァルド・ムンクの絵画『愛と痛み』をテーマに制作された楽曲。作詞・作曲をHyoma Ikedaが手",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "池田彪馬",
-            "group": "SUPER★DRAGON",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "b6fd84ba90960411",
-        "title": "11/28(土)開催リリースイベント＠UNITEDLAB（福岡）参加方法・特典会内容についてのご案内",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11829/",
-        "publishedAt": "2026-10-20T11:00:27.000Z",
-        "summary": "11/28(土)UNITEDLABにて開催するリリースイベントの詳細をご案内致します。 必ず最後まで全てお読み頂き、会場にいらした皆様がイベントを楽しめるよう、ファンの皆様同士でルールとマナーの厳守をお願い致します。 リ […] The post 11/28(土)開催リリースイベント＠UNITEDLAB（福岡）参加方法・特典会内容についてのご案内 first",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "79db83af4ca4bd66",
-        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ&生写真セット 事後通販決定！！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11822/",
-        "publishedAt": "2026-10-19T07:00:01.000Z",
-        "summary": "第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ&生写真セットの事後通販が決定しました！ 残りわずかな商品もございますので、ぜひこの機会にご利用ください！ ****************** […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ&生写真セット 事後通販決定！！ first app",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "a0d481e3c867cb75",
-        "title": "SUPER★DRAGON LIVE TOUR 2027「house」最新チケット情報！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11815/",
-        "publishedAt": "2026-10-17T06:00:27.000Z",
-        "summary": "本日10月17日(土)15:00より『+KIRARI』会員先行が受付開始。 会場で皆さんとお会いできることを楽しみにしております！ ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願いと注意事項】 ht […] The post SUPER★DRAGON LIVE TOUR 2027「house」最新チケット情報！ first appear",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "原因は自分にある。": [
-      {
-        "id": "4a9387e945ddde67",
-        "title": "学校のモテ男が修学旅行で同じグループになった同級生男子と恋人同士に――「誰ともしゃべらないで」嫉妬深く独占欲が強い役柄に“頭を抱えた”理由とは 簡秀吉「これ、大丈夫かなと…」",
-        "sourceName": "マイナビニュース テレビ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-        "articleUrl": "https://news.mynavi.jp/article/20261021-5134914/",
-        "publishedAt": "2026-10-21T12:00:00.000Z",
-        "summary": "俳優の簡秀吉が、14日に都内で行われたABCテレビのドラマ『修学旅行で仲良くないグループに入りました２』(毎週土曜25:00～)の制作発表会見に、藤本洸大、桜木雅哉(原因は自分にある。)、福田歩汰(DXTEEN)、清水海李とともに登壇した。",
-        "groups": [
-          "原因は自分にある。"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "桜木雅哉",
-            "group": "原因は自分にある。",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "039ce05d6c2553b1",
-        "title": "原因は自分にある。が『Quick Japan Monologue』#01の特別版表紙に登場！ 大人になった彼らが今、渇望すること",
-        "sourceName": "QJWeb",
-        "sourceUrl": "https://qjweb.jp/feed/",
-        "articleUrl": "https://qjweb.jp/news/166624/",
-        "publishedAt": "2026-10-16T09:00:00.000Z",
-        "summary": "11月18日（水）発売の『Quick Japan Monologue』#01では、7人組ダンスボーカルグループ「原因は自分にある。」を全18ページにわたり特集。11月11日（水）に5thシングル『ラブリーズン』をリリースする7人が、これまでの歩みと今後について語る。 20代になった7人の変化 「渇望.. 投稿 原因は自分にある。が『Quick Japan M",
-        "groups": [
-          "原因は自分にある。"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
     "M!LK": [
+      {
+        "id": "0b0d90893ec96ac5",
+        "title": "出会って10年目で夫の“ガチ泣き”を初めて見た妻、その理由に夫婦で号泣「いい人と結婚した」「旦那、爆裂愛してる」――リスナーから寄せられたエピソードにM!LK吉田仁人も感動「すごい素敵」「心が浄化された」",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20261022-5167443/",
+        "publishedAt": "2026-10-22T10:00:00.000Z",
+        "summary": "「いつも頼もしい旦那が泣いている姿を見て、なぜかキュンとしました」――。アイドルグループ・M!LKの吉田仁人が15日、文化放送のラジオ番組『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)に出演。夫の“意外な一面”を明かしたリスナーのエピソードに心を震わせた。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "6031b818a271336a",
+        "title": "M!LK5人が“オールホワイト”で集合！ジュエリーを合わせた個性光る着こなしに「透明感やばい」「よっしーの萌え袖かわいすぎる」「勇ちゃんオトナの色気」の声",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000904114/",
+        "publishedAt": "2026-10-22T06:34:38.000Z",
+        "summary": "『MAQUIA』の公式Instagramが更新され、M!LKの5人が登場するメッセージ動画が公開された。 ■M!...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
       {
         "id": "3dc3493d823a1b65",
         "title": "吉田仁人（M!LK）主演の新金曜ドラマ「溺愛 ～ 実は、最強ヒーロー ～」、「物語の始まり」描いた60秒PR映像＆人物相関図公開",
@@ -258,41 +171,36 @@
         ],
         "statuses": [],
         "memberMatches": []
-      },
-      {
-        "id": "47f16c975ff422cd",
-        "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11607/",
-        "publishedAt": "2026-09-02T12:34:24.000Z",
-        "summary": "平素より株式会社SDR所属アーティストへの温かいご声援を賜り、誠にありがとうございます。 DISH//、EBiDAN（超特急、M!LK、SUPER★DRAGON、Sakurashimeji、ONE N’ ON […] The post グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ first appeared on SUPER★DRAGO",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK",
-          "SUPER★DRAGON",
-          "Sakurashimeji"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "bbd8056d67a448a4",
-        "title": "M!LK初ミニアルバムの収録楽曲公開、リード曲は“愛”の3部作完結編「時空超えてユニバース」",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/08/91395/",
-        "publishedAt": "2026-08-28T13:00:00.000Z",
-        "summary": "5人組ダンスボーカルグループ・M!LKが、9月16日(水)にリリースする1stミニアルバム『LOVE ENG!NE』の収録曲を公開した。 今作にはリード曲「時空超えてユニバース」をはじめ「Don’t let me down!」「僕のすべては君のもの」という計3曲の新曲に加え、「モー烈モー進！リリースプロジェクト2026」で配信リリースされた「アイドルパワー」",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
       }
     ],
     "Lienel": [
+      {
+        "id": "9aa1a5556bfafb6b",
+        "title": "Lienelリリースイベント、欠席になってしまった近藤駿太に代わり武田創世「お前ら離れんなよ！」",
+        "sourceName": "QJWeb",
+        "sourceUrl": "https://qjweb.jp/feed/",
+        "articleUrl": "https://qjweb.jp/column/167082/",
+        "publishedAt": "2026-10-22T10:00:00.000Z",
+        "summary": "6人組メインボーカル＆ダンスグループ・Lienelが、10月21日に2ndシングル『愛のダバダ』を発売。発売を記念してメジャーデビューをサプライズ発表した場所でもある新宿・三角広場にて、イベントを開催した。 2026年の6月に『メロ・コレクション』にてメジャーデビューを果たし、同月にはパシフィコ横浜.. 投稿 Lienelリリースイベント、欠席になってしまっ",
+        "groups": [
+          "Lienel"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "近藤駿太",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "武田創世",
+            "group": "Lienel",
+            "status": "active"
+          }
+        ]
+      },
       {
         "id": "5e5598d11aa68a5d",
         "title": "恋愛、アルバイト、お金、人間関係…大学生の悩みを描くショートドラマ 三菱ＵＦＪ銀行×QREATIONがタッグ",
@@ -316,84 +224,101 @@
         ]
       }
     ],
-    "超特急": [
+    "SUPER★DRAGON": [
       {
-        "id": "836413f1fc740f39",
-        "title": "鈴木伸之×柏木悠(超特急) W主演 “魔性の男”の正体は‥‥ 映画『⽺の⽪を着たケモノ』 本予告映像公開",
-        "sourceName": "otocoto",
-        "sourceUrl": "https://otocoto.jp/feed/",
-        "articleUrl": "https://otocoto.jp/news/hitsuji-kemono1019/",
-        "publishedAt": "2026-10-19T09:00:00.000Z",
-        "summary": "鈴木伸之と柏木悠(超特急)をW主演に迎えた映画『羊の皮を着たケモノ』。このたび本作の追加キャストが発表され、あわせて本予告映像が公開された。 本作は、大学生・日...",
+        "id": "13c5dcb712ec340f",
+        "title": "SUPER★DRAGON×セゾンカード初コラボ！推しと1対1で話せるオンライン・トーク会に100名様をご招待※10月22日更新",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11834/",
+        "publishedAt": "2026-10-22T01:00:50.000Z",
+        "summary": "「SUPER★DRAGON」と「SAISON CARD Digital」の初となるコラボレーションを実施いたします。 2026年10月22日（木）～11月30日（月）までの期間中、キャンペーンサイトから「SAISON C […] The post SUPER★DRAGON×セゾンカード初コラボ！推しと1対1で話せるオンライン・トーク会に100名様をご招待※1",
         "groups": [
-          "超特急"
+          "SUPER★DRAGON"
         ],
         "statuses": [],
         "memberMatches": []
       },
       {
-        "id": "ab6a92dadbc653fa",
-        "title": "鈴木伸之×柏木悠W主演『羊の皮を着たケモノ』12月11日劇場公開、ミステリアスなポスター解禁",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/10/93399/",
-        "publishedAt": "2026-10-12T09:00:00.000Z",
-        "summary": "鈴木伸之と柏木悠（超特急）がW主演を務める映画『羊の皮を着たケモノ』が12月11日(金)に公開されることが決定し、ポスタービジュアルが解禁された。 本作は、九號（きゅうごう）による同名BL漫画（徳間書店 Charaコミックス刊）を実写化した、骨太で新感覚のボーイズ・ラブ。原作は「BLアワード2022 ディープ部門」で第13位、「BLアワード2024 ディープ",
+        "id": "b6fd84ba90960411",
+        "title": "11/28(土)開催リリースイベント＠UNITEDLAB（福岡）参加方法・特典会内容についてのご案内",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11829/",
+        "publishedAt": "2026-10-20T11:00:27.000Z",
+        "summary": "11/28(土)UNITEDLABにて開催するリリースイベントの詳細をご案内致します。 必ず最後まで全てお読み頂き、会場にいらした皆様がイベントを楽しめるよう、ファンの皆様同士でルールとマナーの厳守をお願い致します。 リ […] The post 11/28(土)開催リリースイベント＠UNITEDLAB（福岡）参加方法・特典会内容についてのご案内 first",
         "groups": [
-          "超特急"
+          "SUPER★DRAGON"
         ],
         "statuses": [],
         "memberMatches": []
       },
       {
-        "id": "b33204e5b8b18e79",
-        "title": "超特急「エトランス・フィーバー」配信開始、“誰もが主役になれる”と前向きなメッセージを込める",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/10/93396/",
-        "publishedAt": "2026-10-11T15:00:00.000Z",
-        "summary": "9人組メインダンサー＆バックボーカルグループ・超特急が、12月16日(水)に発売する24枚目シングルの表題曲「エトランス・フィーバー」の先行配信をスタートさせた。 11月に待望の東京ドーム2Days公演を控える超特急の新曲「エトランス・フィーバー」は、干支をモチーフにしたユーロビート調の新たなトンチキソング。疾走感あふれるビートに乗せて「生まれ持ったキャラク",
+        "id": "79db83af4ca4bd66",
+        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ&生写真セット 事後通販決定！！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11822/",
+        "publishedAt": "2026-10-19T07:00:01.000Z",
+        "summary": "第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ&生写真セットの事後通販が決定しました！ 残りわずかな商品もございますので、ぜひこの機会にご利用ください！ ****************** […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ&生写真セット 事後通販決定！！ first app",
         "groups": [
-          "超特急"
+          "EBiDAN",
+          "SUPER★DRAGON"
         ],
         "statuses": [],
         "memberMatches": []
       },
       {
-        "id": "6a1d840f53f5771f",
-        "title": "高橋大輔×草川拓弥が演劇舞台初挑戦でW主演、固く結ばれたバディ演じる『ウルフムーン』上演決定",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/10/92796/",
-        "publishedAt": "2026-10-02T03:00:00.000Z",
-        "summary": "高橋大輔と草川拓弥がダブル主演を務める舞台『ウルフムーン』ー狼月に昇るーが2027年1月より東京と大阪で上演されることが決定した。 本作で演出を担うのは、数々の舞台に出演し俳優として培った現場感覚を生かしながら、演出家としても実績を重ねる福士誠治。脚本は、映画『かぐや姫の物語』やミュージカル『梨泰院クラス』『四月は君の嘘』、映画『てっぺんの向こうにあなたがい",
+        "id": "a0d481e3c867cb75",
+        "title": "SUPER★DRAGON LIVE TOUR 2027「house」最新チケット情報！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11815/",
+        "publishedAt": "2026-10-17T06:00:27.000Z",
+        "summary": "本日10月17日(土)15:00より『+KIRARI』会員先行が受付開始。 会場で皆さんとお会いできることを楽しみにしております！ ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願いと注意事項】 ht […] The post SUPER★DRAGON LIVE TOUR 2027「house」最新チケット情報！ first appear",
         "groups": [
-          "超特急"
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "7e88eb56cabb27fa",
+        "title": "SUPER★DRAGON Major 2nd Album「STAR」リリースイベント・特典会開催！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11790/",
+        "publishedAt": "2026-10-16T10:00:30.000Z",
+        "summary": "2026年12月09日(水)、SUPER★DRAGONメジャー2枚目となるアルバム「STAR」の発売を記念し、リリースイベント・特典会が決定いたしました！ SUPER★DRAGONと一緒に、素敵な思い出を作りましょう！ […] The post SUPER★DRAGON Major 2nd Album「STAR」リリースイベント・特典会開催！ first a",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
+    "原因は自分にある。": [
+      {
+        "id": "4a9387e945ddde67",
+        "title": "学校のモテ男が修学旅行で同じグループになった同級生男子と恋人同士に――「誰ともしゃべらないで」嫉妬深く独占欲が強い役柄に“頭を抱えた”理由とは 簡秀吉「これ、大丈夫かなと…」",
+        "sourceName": "マイナビニュース テレビ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
+        "articleUrl": "https://news.mynavi.jp/article/20261021-5134914/",
+        "publishedAt": "2026-10-21T12:00:00.000Z",
+        "summary": "俳優の簡秀吉が、14日に都内で行われたABCテレビのドラマ『修学旅行で仲良くないグループに入りました２』(毎週土曜25:00～)の制作発表会見に、藤本洸大、桜木雅哉(原因は自分にある。)、福田歩汰(DXTEEN)、清水海李とともに登壇した。",
+        "groups": [
+          "原因は自分にある。"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "タクヤ",
-            "group": "超特急",
+            "name": "桜木雅哉",
+            "group": "原因は自分にある。",
             "status": "active"
           }
         ]
-      },
-      {
-        "id": "471946451d042b7e",
-        "title": "超特急の新曲テーマは“ユーロビート×干支”、24thシングル『エトランス・フィーバー』12月発売",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/09/92770/",
-        "publishedAt": "2026-09-30T10:00:00.000Z",
-        "summary": "9人組メインダンサー＆バックボーカルグループ・超特急が、24枚目のシングル『エトランス・フィーバー』を12月16日(水)にリリース。表題曲「エトランス・フィーバー」を10月12日(月)0時より先行配信することが発表された。 11月に待望の東京ドーム2Days公演を控える超特急の次作は、ユーロビート×干支という意外な組み合わせから生まれた新たなトンチキソング。",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
       }
     ],
     "EBiDAN": [
@@ -495,6 +420,90 @@
             "status": "active"
           }
         ]
+      }
+    ],
+    "超特急": [
+      {
+        "id": "ab6a92dadbc653fa",
+        "title": "鈴木伸之×柏木悠W主演『羊の皮を着たケモノ』12月11日劇場公開、ミステリアスなポスター解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/10/93399/",
+        "publishedAt": "2026-10-12T09:00:00.000Z",
+        "summary": "鈴木伸之と柏木悠（超特急）がW主演を務める映画『羊の皮を着たケモノ』が12月11日(金)に公開されることが決定し、ポスタービジュアルが解禁された。 本作は、九號（きゅうごう）による同名BL漫画（徳間書店 Charaコミックス刊）を実写化した、骨太で新感覚のボーイズ・ラブ。原作は「BLアワード2022 ディープ部門」で第13位、「BLアワード2024 ディープ",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "b33204e5b8b18e79",
+        "title": "超特急「エトランス・フィーバー」配信開始、“誰もが主役になれる”と前向きなメッセージを込める",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/10/93396/",
+        "publishedAt": "2026-10-11T15:00:00.000Z",
+        "summary": "9人組メインダンサー＆バックボーカルグループ・超特急が、12月16日(水)に発売する24枚目シングルの表題曲「エトランス・フィーバー」の先行配信をスタートさせた。 11月に待望の東京ドーム2Days公演を控える超特急の新曲「エトランス・フィーバー」は、干支をモチーフにしたユーロビート調の新たなトンチキソング。疾走感あふれるビートに乗せて「生まれ持ったキャラク",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "6a1d840f53f5771f",
+        "title": "高橋大輔×草川拓弥が演劇舞台初挑戦でW主演、固く結ばれたバディ演じる『ウルフムーン』上演決定",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/10/92796/",
+        "publishedAt": "2026-10-02T03:00:00.000Z",
+        "summary": "高橋大輔と草川拓弥がダブル主演を務める舞台『ウルフムーン』ー狼月に昇るーが2027年1月より東京と大阪で上演されることが決定した。 本作で演出を担うのは、数々の舞台に出演し俳優として培った現場感覚を生かしながら、演出家としても実績を重ねる福士誠治。脚本は、映画『かぐや姫の物語』やミュージカル『梨泰院クラス』『四月は君の嘘』、映画『てっぺんの向こうにあなたがい",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "タクヤ",
+            "group": "超特急",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "471946451d042b7e",
+        "title": "超特急の新曲テーマは“ユーロビート×干支”、24thシングル『エトランス・フィーバー』12月発売",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/09/92770/",
+        "publishedAt": "2026-09-30T10:00:00.000Z",
+        "summary": "9人組メインダンサー＆バックボーカルグループ・超特急が、24枚目のシングル『エトランス・フィーバー』を12月16日(水)にリリース。表題曲「エトランス・フィーバー」を10月12日(月)0時より先行配信することが発表された。 11月に待望の東京ドーム2Days公演を控える超特急の次作は、ユーロビート×干支という意外な組み合わせから生まれた新たなトンチキソング。",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "47f16c975ff422cd",
+        "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11607/",
+        "publishedAt": "2026-09-02T12:34:24.000Z",
+        "summary": "平素より株式会社SDR所属アーティストへの温かいご声援を賜り、誠にありがとうございます。 DISH//、EBiDAN（超特急、M!LK、SUPER★DRAGON、Sakurashimeji、ONE N’ ON […] The post グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ first appeared on SUPER★DRAGO",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK",
+          "SUPER★DRAGON",
+          "Sakurashimeji"
+        ],
+        "statuses": [],
+        "memberMatches": []
       }
     ],
     "ICEx": [
