@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-23T11:37:46.888Z",
+  "updatedAt": "2026-10-23T17:06:10.230Z",
   "totals": {
-    "all": 119,
-    "today": 7,
-    "week": 16
+    "all": 117,
+    "today": 0,
+    "week": 14
   },
   "groupRanking": [
     {
@@ -15,15 +15,15 @@
       "count": 3
     },
     {
-      "name": "M!LK",
-      "count": 3
-    },
-    {
       "name": "Lienel",
       "count": 2
     },
     {
       "name": "BUDDiiS",
+      "count": 1
+    },
+    {
+      "name": "M!LK",
       "count": 1
     },
     {
@@ -53,19 +53,11 @@
       "count": 1
     },
     {
-      "name": "塩﨑太智",
-      "count": 1
-    },
-    {
       "name": "吉田仁人",
       "count": 1
     },
     {
       "name": "桜木雅哉",
-      "count": 1
-    },
-    {
-      "name": "曽野舜太",
       "count": 1
     },
     {
@@ -77,10 +69,6 @@
     {
       "name": "SUPER★DRAGON 公式NEWS",
       "count": 6
-    },
-    {
-      "name": "THE FIRST TIMES",
-      "count": 3
     },
     {
       "name": "マイナビニュース 芸能",
@@ -96,6 +84,10 @@
     },
     {
       "name": "QJWeb",
+      "count": 1
+    },
+    {
+      "name": "THE FIRST TIMES",
       "count": 1
     },
     {
@@ -283,102 +275,6 @@
         "memberMatches": []
       }
     ],
-    "M!LK": [
-      {
-        "id": "79a366997d301669",
-        "title": "M!LK曽野舜太が“ヒトカゲ”を抱きしめた寝姿を公開！「舜ちゃんをゲットしたい」「寝てるしゅんちゃんメロい」と反響、モンスターボールをバックに決めポーズも",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000904977/",
-        "publishedAt": "2026-10-23T06:32:26.000Z",
-        "summary": "M!LKの曽野舜太が自身のSNSを更新し、モンスターボール型のホテルに宿泊したことを報告した。 ...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "ab04714215fd2e74",
-        "title": "M!LK塩﨑太智が猫耳ニット帽×リムレスメガネでかわいさ全開！“上下スウェット×ベレー帽”の新鮮な着こなしも披露「大優勝」「バブみ強くて神」「スタイリング完璧すぎる」の声",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000904982/",
-        "publishedAt": "2026-10-23T06:28:18.000Z",
-        "summary": "『mini』の公式Instagramが更新され、M!LKの塩崎太智（崎は、たつさきが正式表記）のスペシャ...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "3dc3493d823a1b65",
-        "title": "吉田仁人（M!LK）主演の新金曜ドラマ「溺愛 ～ 実は、最強ヒーロー ～」、「物語の始まり」描いた60秒PR映像＆人物相関図公開",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/10/19/tg004",
-        "publishedAt": "2026-10-19T10:00:00.000Z",
-        "summary": "",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "a36f33b2e680d504",
-        "title": "M!LK新曲「ザッツ！超常」10月26日配信、あなたとならなんでもできる！と歌うディスコチューン",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/10/92949/",
-        "publishedAt": "2026-10-06T10:00:00.000Z",
-        "summary": "5人組ダンスボーカルグループ・M!LKの新曲「ザッツ！超常」が10月26日(月)0時に配信リリースされることが決定した。 あなたとならなんでもできる！と歌う「ザッツ！超常」は、“一人ではできないこともあなたとなら乗り越えられる”というポジティブなメッセージ、デコボコな二人に生まれる化学反応、何気ない毎日の中で気がつく小さな幸せを描くハッピーなディスコチューン",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "976120bc3101651a",
-        "title": "M!LKが“ユニバース”を背負う新アー写公開、1stミニアルバムリード曲は早くもチャート席巻中",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/09/91880/",
-        "publishedAt": "2026-09-08T09:00:00.000Z",
-        "summary": "5人組ダンスボーカルグループ・M!LKが、9月16日(水)に控えるミニアルバム『LOVE ENG!NE』リリースに先駆けて最新アーティスト写真を公開した。 M!LKにとって初ミニアルバムとなる本作からは、リード曲「時空超えてユニバース」（ときこえてゆにばーす）の先行配信が9月7日(月)にスタート。配信開始直後からXのトレンドで「#ときユニ」が1位を獲得したほ",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
     "超特急": [
       {
         "id": "6865cd3cb597efa2",
@@ -532,6 +428,90 @@
             "status": "active"
           }
         ]
+      }
+    ],
+    "M!LK": [
+      {
+        "id": "3dc3493d823a1b65",
+        "title": "吉田仁人（M!LK）主演の新金曜ドラマ「溺愛 ～ 実は、最強ヒーロー ～」、「物語の始まり」描いた60秒PR映像＆人物相関図公開",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/10/19/tg004",
+        "publishedAt": "2026-10-19T10:00:00.000Z",
+        "summary": "",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "a36f33b2e680d504",
+        "title": "M!LK新曲「ザッツ！超常」10月26日配信、あなたとならなんでもできる！と歌うディスコチューン",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/10/92949/",
+        "publishedAt": "2026-10-06T10:00:00.000Z",
+        "summary": "5人組ダンスボーカルグループ・M!LKの新曲「ザッツ！超常」が10月26日(月)0時に配信リリースされることが決定した。 あなたとならなんでもできる！と歌う「ザッツ！超常」は、“一人ではできないこともあなたとなら乗り越えられる”というポジティブなメッセージ、デコボコな二人に生まれる化学反応、何気ない毎日の中で気がつく小さな幸せを描くハッピーなディスコチューン",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "976120bc3101651a",
+        "title": "M!LKが“ユニバース”を背負う新アー写公開、1stミニアルバムリード曲は早くもチャート席巻中",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/09/91880/",
+        "publishedAt": "2026-09-08T09:00:00.000Z",
+        "summary": "5人組ダンスボーカルグループ・M!LKが、9月16日(水)に控えるミニアルバム『LOVE ENG!NE』リリースに先駆けて最新アーティスト写真を公開した。 M!LKにとって初ミニアルバムとなる本作からは、リード曲「時空超えてユニバース」（ときこえてゆにばーす）の先行配信が9月7日(月)にスタート。配信開始直後からXのトレンドで「#ときユニ」が1位を獲得したほ",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "47f16c975ff422cd",
+        "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11607/",
+        "publishedAt": "2026-09-02T12:34:24.000Z",
+        "summary": "平素より株式会社SDR所属アーティストへの温かいご声援を賜り、誠にありがとうございます。 DISH//、EBiDAN（超特急、M!LK、SUPER★DRAGON、Sakurashimeji、ONE N’ ON […] The post グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ first appeared on SUPER★DRAGO",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK",
+          "SUPER★DRAGON",
+          "Sakurashimeji"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "bbd8056d67a448a4",
+        "title": "M!LK初ミニアルバムの収録楽曲公開、リード曲は“愛”の3部作完結編「時空超えてユニバース」",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/08/91395/",
+        "publishedAt": "2026-08-28T13:00:00.000Z",
+        "summary": "5人組ダンスボーカルグループ・M!LKが、9月16日(水)にリリースする1stミニアルバム『LOVE ENG!NE』の収録曲を公開した。 今作にはリード曲「時空超えてユニバース」をはじめ「Don’t let me down!」「僕のすべては君のもの」という計3曲の新曲に加え、「モー烈モー進！リリースプロジェクト2026」で配信リリースされた「アイドルパワー」",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
       }
     ],
     "ONE N' ONLY": [
