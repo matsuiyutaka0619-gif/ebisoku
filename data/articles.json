@@ -1,28 +1,65 @@
 {
-  "updatedAt": "2026-10-23T04:48:22.307Z",
+  "updatedAt": "2026-10-23T11:37:46.886Z",
   "articles": [
     {
-      "id": "f1b323c34a196ac8",
-      "title": "M!LK、メンタリスト相手に心理戦に挑戦！『M!LKの爆裂ミッション』レギュラー放送開始",
+      "id": "53b509ac7a1b5e6a",
+      "title": "BUDDiiS、「無限大LOVE!!!」先行配信スタート。FUMINORI監修の“爆上げ”コール動画公開も",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1100250",
+      "publishedAt": "2026-10-23T11:00:00.000Z",
+      "summary": "BUDDiiSが、2026年11月18日に発売するメジャー2ndシングルより、リード曲「無限大LOVE!!!」を本日先行リリースした。 本楽曲は、宇宙ごと抱きしめるようなスケールで愛を鳴らすハイテンションなポップソング。円周率を終わりのない愛と重ねながら、「好き」の熱量が銀河を越えてどこまでも膨らんでいく“全存在大肯定”ソングになっているという。 すでにリリ",
+      "groups": [
+        "BUDDiiS"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "FUMINORI",
+          "group": "BUDDiiS",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "73fdac22d53b1a7d",
+      "title": "EBiDAN『音量注意！「Yes! 東京」EBiDAN大運動会 大コール！』映像公開「みなさんのとてつもなくすごいコールが聞けて元気をもらいました！」",
       "sourceName": "THE FIRST TIMES",
       "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000904594/",
-      "publishedAt": "2026-10-23T04:00:09.000Z",
-      "summary": "M!LKが出演する『M!LKの爆裂ミッション』が、レギュラー番組として10月24日14時からTBSにて放...",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000905035/",
+      "publishedAt": "2026-10-23T09:00:49.000Z",
+      "summary": "EBiDAN（恵比寿学園男子部）の15周年を記念した楽曲「Yes! 東京」のパフォーマンス映像『音量...",
       "groups": [
-        "M!LK"
+        "EBiDAN"
       ],
       "statuses": [],
       "memberMatches": []
     },
     {
-      "id": "68edcd9c4210086b",
-      "title": "M!LKの“高身長トリオ”佐野勇斗＆曽野舜太＆山中柔太朗が横並び！すらりとした立ち姿に「スタイル良すぎ」「みんな前髪ありでかっこいい」「兄弟みたい」の声",
+      "id": "2d9e4e423771c6b6",
+      "title": "EBiDAN オンラインくじ vol.2発売決定！",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news11856/",
+      "publishedAt": "2026-10-23T07:00:16.000Z",
+      "summary": "「EBiDAN museum 2026」の大盛況を記念し、10月26日(月)13:00より「EBiDAN オンラインくじ vol.2」の販売が決定しました！ グループ別のくじとなり、それぞれ全5等級のいずれかの景品が必ず […] The post EBiDAN オンラインくじ vol.2発売決定！ first appeared on SUPER★DRAGON",
+      "groups": [
+        "EBiDAN",
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "79a366997d301669",
+      "title": "M!LK曽野舜太が“ヒトカゲ”を抱きしめた寝姿を公開！「舜ちゃんをゲットしたい」「寝てるしゅんちゃんメロい」と反響、モンスターボールをバックに決めポーズも",
       "sourceName": "THE FIRST TIMES",
       "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000904759/",
-      "publishedAt": "2026-10-23T03:16:28.000Z",
-      "summary": "M!LKの公式SNSが更新され、佐野勇斗、曽野舜太、山中柔太朗が「時空超えてユニバース」に合わ...",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000904977/",
+      "publishedAt": "2026-10-23T06:32:26.000Z",
+      "summary": "M!LKの曽野舜太が自身のSNSを更新し、モンスターボール型のホテルに宿泊したことを報告した。 ...",
       "groups": [
         "M!LK"
       ],
@@ -31,35 +68,33 @@
       ],
       "memberMatches": [
         {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
           "name": "曽野舜太",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "山中柔太朗",
           "group": "M!LK",
           "status": "active"
         }
       ]
     },
     {
-      "id": "8d7e575cf88bd8cc",
-      "title": "ICEx、8thシングル『ニコニコニコイチ』リリース グループ初の完全生産限定ソロ盤8種発売も",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/10/post-2561363.html",
-      "publishedAt": "2026-10-23T03:15:22.000Z",
-      "summary": "ICExが、8thシングル『ニコニコニコイチ』を2027年1月20日にリリースする。 本作は、2つで1つの『ニコイチ』と笑顔をテーマにした、ICEx得意の“キュートンチキソング”。初回限定盤（CD+Blu-ray）、",
+      "id": "ab04714215fd2e74",
+      "title": "M!LK塩﨑太智が猫耳ニット帽×リムレスメガネでかわいさ全開！“上下スウェット×ベレー帽”の新鮮な着こなしも披露「大優勝」「バブみ強くて神」「スタイリング完璧すぎる」の声",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000904982/",
+      "publishedAt": "2026-10-23T06:28:18.000Z",
+      "summary": "『mini』の公式Instagramが更新され、M!LKの塩崎太智（崎は、たつさきが正式表記）のスペシャ...",
       "groups": [
-        "ICEx"
+        "M!LK"
       ],
-      "statuses": [],
-      "memberMatches": []
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "塩﨑太智",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
     },
     {
       "id": "e72fb5dab31ac6ac",
@@ -74,113 +109,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "a9442b845bf54b63",
-      "title": "吉田仁人（M!LK）主演ドラマ『溺愛』OPテーマが、SUPER★DRAGON新曲「本能」に決定",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000904580/",
-      "publishedAt": "2026-10-23T03:00:21.000Z",
-      "summary": "SUPER★DRAGON（以下、スパドラ）の新曲「本能」が、テレビドラマ『溺愛 ～ 実は、最強ヒーロ...",
-      "groups": [
-        "M!LK",
-        "SUPER★DRAGON"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "06254ec94c81d95d",
-      "title": "桃月なしこ、超インドアから人生観に変化「人生で一度もやらずに終わることが多いのもったいないなって」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1086375/",
-      "publishedAt": "2026-10-23T03:00:00.000Z",
-      "summary": "5人組ダンスボーカルグループ・M!LKの吉田仁人、コスプレイヤーでモデルの桃月なしこ、SUPER★DRAGONの池田彪馬が23日、都内で行われた、TOKYO MXで30日から放送される連続ドラマ『溺愛 ～ 実は、最強ヒー […]",
-      "groups": [
-        "M!LK",
-        "SUPER★DRAGON"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "池田彪馬",
-          "group": "SUPER★DRAGON",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "f252ccc2e16e82fd",
-      "title": "M!LK吉田仁人、連ドラ初主演作はラブコメでアクションあり メンバーの反応明かす「一番？が浮かんでいました」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1086249/",
-      "publishedAt": "2026-10-23T03:00:00.000Z",
-      "summary": "5人組ダンスボーカルグループ・M!LKの吉田仁人、コスプレイヤーでモデルの桃月なしこ、9人組ユニット・SUPER★DRAGONの池田彪馬が23日、都内で行われた、TOKYO MXで30日から放送される連続ドラマ『溺愛 ～ […]",
-      "groups": [
-        "M!LK",
-        "SUPER★DRAGON"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "池田彪馬",
-          "group": "SUPER★DRAGON",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "435bc59b01bc4dd2",
-      "title": "SUPER★DRAGON、新曲「本能」がドラマ『溺愛 ～ 実は、最強ヒーロー ～』がOPテーマに決定",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1100104",
-      "publishedAt": "2026-10-23T03:00:00.000Z",
-      "summary": "SUPER★DRAGON（以下、スパドラ）が、テレビドラマ『溺愛 ～ 実は、最強ヒーロー ～』のオープニングテーマに新曲「本能」が起用されたことを発表した。 本ドラマは、M!LK・吉田仁人がドラマ初主演を務めており、スパドラのメンバーである池田彪馬が“クズ男界のラスボス”相川樹役として出演することも決定している。 さらに、本楽曲がドラマ初回放送日の2026年",
-      "groups": [
-        "M!LK",
-        "SUPER★DRAGON"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "池田彪馬",
-          "group": "SUPER★DRAGON",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "6865cd3cb597efa2",
@@ -2033,20 +1961,6 @@
       "summary": "本日6月10日(水)20:00よりEBiDAN先行が受付開始！ 皆さんとお会いできることを楽しみにしております！ 【公演当日の本人確認について】 入場口および客席内にて、ランダムで本人確認をさせていただきます。 必ずご購 […] The post EBiDAN THE LIVE 2026 15th Anniversary 最新チケット情報 first app",
       "groups": [
         "EBiDAN",
-        "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "f5b1be8dbc764ac1",
-      "title": "SUPER★DRAGON Digital Single「Call Me Asap」の配信を記念して、 Spotify Canvasに限定動画を公開！更に、シェアキャンペーン開催決定！",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news11220/",
-      "publishedAt": "2026-06-06T11:29:16.000Z",
-      "summary": "Spotify Canvasシェアキャンペーン 6月8日(月)より日替わりでここでしか見られない各メンバーのオリジナル動画を公開！ Canvasをストーリーにシェアしてくださった方全員に 【Spotify Canvasシ […] The post SUPER★DRAGON Digital Single「Call Me Asap」の配信を記念して、 Spoti",
-      "groups": [
         "SUPER★DRAGON"
       ],
       "statuses": [],

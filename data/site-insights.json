@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-10-23T04:48:22.309Z",
+  "updatedAt": "2026-10-23T11:37:46.888Z",
   "totals": {
-    "all": 122,
-    "today": 9,
-    "week": 19
+    "all": 119,
+    "today": 7,
+    "week": 16
   },
   "groupRanking": [
     {
       "name": "SUPER★DRAGON",
-      "count": 10
+      "count": 6
+    },
+    {
+      "name": "EBiDAN",
+      "count": 3
     },
     {
       "name": "M!LK",
-      "count": 7
+      "count": 3
     },
     {
       "name": "Lienel",
       "count": 2
     },
     {
-      "name": "EBiDAN",
-      "count": 1
-    },
-    {
-      "name": "ICEx",
+      "name": "BUDDiiS",
       "count": 1
     },
     {
@@ -41,31 +41,27 @@
   ],
   "memberRanking": [
     {
-      "name": "吉田仁人",
-      "count": 5
-    },
-    {
-      "name": "池田彪馬",
-      "count": 3
-    },
-    {
       "name": "近藤駿太",
       "count": 2
+    },
+    {
+      "name": "FUMINORI",
+      "count": 1
     },
     {
       "name": "HAYATO",
       "count": 1
     },
     {
-      "name": "佐野勇斗",
+      "name": "塩﨑太智",
+      "count": 1
+    },
+    {
+      "name": "吉田仁人",
       "count": 1
     },
     {
       "name": "桜木雅哉",
-      "count": 1
-    },
-    {
-      "name": "山中柔太朗",
       "count": 1
     },
     {
@@ -85,10 +81,6 @@
     {
       "name": "THE FIRST TIMES",
       "count": 3
-    },
-    {
-      "name": "ENCOUNT",
-      "count": 2
     },
     {
       "name": "マイナビニュース 芸能",
@@ -113,187 +105,126 @@
     {
       "name": "マイナビニュース テレビ",
       "count": 1
-    },
-    {
-      "name": "リアルサウンド 音楽",
-      "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
-    "M!LK": [
+    "BUDDiiS": [
       {
-        "id": "f1b323c34a196ac8",
-        "title": "M!LK、メンタリスト相手に心理戦に挑戦！『M!LKの爆裂ミッション』レギュラー放送開始",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000904594/",
-        "publishedAt": "2026-10-23T04:00:09.000Z",
-        "summary": "M!LKが出演する『M!LKの爆裂ミッション』が、レギュラー番組として10月24日14時からTBSにて放...",
+        "id": "53b509ac7a1b5e6a",
+        "title": "BUDDiiS、「無限大LOVE!!!」先行配信スタート。FUMINORI監修の“爆上げ”コール動画公開も",
+        "sourceName": "BARKS",
+        "sourceUrl": "https://www.barks.jp/feed/",
+        "articleUrl": "https://barks.jp/news/1100250",
+        "publishedAt": "2026-10-23T11:00:00.000Z",
+        "summary": "BUDDiiSが、2026年11月18日に発売するメジャー2ndシングルより、リード曲「無限大LOVE!!!」を本日先行リリースした。 本楽曲は、宇宙ごと抱きしめるようなスケールで愛を鳴らすハイテンションなポップソング。円周率を終わりのない愛と重ねながら、「好き」の熱量が銀河を越えてどこまでも膨らんでいく“全存在大肯定”ソングになっているという。 すでにリリ",
         "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "68edcd9c4210086b",
-        "title": "M!LKの“高身長トリオ”佐野勇斗＆曽野舜太＆山中柔太朗が横並び！すらりとした立ち姿に「スタイル良すぎ」「みんな前髪ありでかっこいい」「兄弟みたい」の声",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000904759/",
-        "publishedAt": "2026-10-23T03:16:28.000Z",
-        "summary": "M!LKの公式SNSが更新され、佐野勇斗、曽野舜太、山中柔太朗が「時空超えてユニバース」に合わ...",
-        "groups": [
-          "M!LK"
+          "BUDDiiS"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "a9442b845bf54b63",
-        "title": "吉田仁人（M!LK）主演ドラマ『溺愛』OPテーマが、SUPER★DRAGON新曲「本能」に決定",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000904580/",
-        "publishedAt": "2026-10-23T03:00:21.000Z",
-        "summary": "SUPER★DRAGON（以下、スパドラ）の新曲「本能」が、テレビドラマ『溺愛 ～ 実は、最強ヒーロ...",
-        "groups": [
-          "M!LK",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "06254ec94c81d95d",
-        "title": "桃月なしこ、超インドアから人生観に変化「人生で一度もやらずに終わることが多いのもったいないなって」",
-        "sourceName": "ENCOUNT",
-        "sourceUrl": "https://encount.press/feed/",
-        "articleUrl": "https://encount.press/archives/1086375/",
-        "publishedAt": "2026-10-23T03:00:00.000Z",
-        "summary": "5人組ダンスボーカルグループ・M!LKの吉田仁人、コスプレイヤーでモデルの桃月なしこ、SUPER★DRAGONの池田彪馬が23日、都内で行われた、TOKYO MXで30日から放送される連続ドラマ『溺愛 ～ 実は、最強ヒー […]",
-        "groups": [
-          "M!LK",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "池田彪馬",
-            "group": "SUPER★DRAGON",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "f252ccc2e16e82fd",
-        "title": "M!LK吉田仁人、連ドラ初主演作はラブコメでアクションあり メンバーの反応明かす「一番？が浮かんでいました」",
-        "sourceName": "ENCOUNT",
-        "sourceUrl": "https://encount.press/feed/",
-        "articleUrl": "https://encount.press/archives/1086249/",
-        "publishedAt": "2026-10-23T03:00:00.000Z",
-        "summary": "5人組ダンスボーカルグループ・M!LKの吉田仁人、コスプレイヤーでモデルの桃月なしこ、9人組ユニット・SUPER★DRAGONの池田彪馬が23日、都内で行われた、TOKYO MXで30日から放送される連続ドラマ『溺愛 ～ […]",
-        "groups": [
-          "M!LK",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "池田彪馬",
-            "group": "SUPER★DRAGON",
+            "name": "FUMINORI",
+            "group": "BUDDiiS",
             "status": "active"
           }
         ]
       }
     ],
-    "ICEx": [
+    "EBiDAN": [
       {
-        "id": "8d7e575cf88bd8cc",
-        "title": "ICEx、8thシングル『ニコニコニコイチ』リリース グループ初の完全生産限定ソロ盤8種発売も",
-        "sourceName": "リアルサウンド 音楽",
-        "sourceUrl": "https://realsound.jp/music/feed",
-        "articleUrl": "https://realsound.jp/2026/10/post-2561363.html",
-        "publishedAt": "2026-10-23T03:15:22.000Z",
-        "summary": "ICExが、8thシングル『ニコニコニコイチ』を2027年1月20日にリリースする。 本作は、2つで1つの『ニコイチ』と笑顔をテーマにした、ICEx得意の“キュートンチキソング”。初回限定盤（CD+Blu-ray）、",
+        "id": "73fdac22d53b1a7d",
+        "title": "EBiDAN『音量注意！「Yes! 東京」EBiDAN大運動会 大コール！』映像公開「みなさんのとてつもなくすごいコールが聞けて元気をもらいました！」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000905035/",
+        "publishedAt": "2026-10-23T09:00:49.000Z",
+        "summary": "EBiDAN（恵比寿学園男子部）の15周年を記念した楽曲「Yes! 東京」のパフォーマンス映像『音量...",
         "groups": [
-          "ICEx"
+          "EBiDAN"
         ],
         "statuses": [],
         "memberMatches": []
       },
       {
-        "id": "72d88a3410706483",
-        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』追加出演者のお知らせ/チケットトレード情報",
+        "id": "2d9e4e423771c6b6",
+        "title": "EBiDAN オンラインくじ vol.2発売決定！",
         "sourceName": "SUPER★DRAGON 公式NEWS",
         "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11722/",
-        "publishedAt": "2026-10-02T07:00:30.000Z",
-        "summary": "第6回EBiDAN大運動会『スポーツマンヒップ！』につきまして、ICEx志賀李玖・阿久根温世の追加出演が決定いたしました！ また、10月7日(水) 18:00よりチケットトレードの実施が決定いたしました。 チケットをお持 […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』追加出演者のお知らせ/チケットトレード情報 first app",
+        "articleUrl": "https://super-dragon.jp/news/news11856/",
+        "publishedAt": "2026-10-23T07:00:16.000Z",
+        "summary": "「EBiDAN museum 2026」の大盛況を記念し、10月26日(月)13:00より「EBiDAN オンラインくじ vol.2」の販売が決定しました！ グループ別のくじとなり、それぞれ全5等級のいずれかの景品が必ず […] The post EBiDAN オンラインくじ vol.2発売決定！ first appeared on SUPER★DRAGON",
         "groups": [
           "EBiDAN",
-          "SUPER★DRAGON",
-          "ICEx"
+          "SUPER★DRAGON"
         ],
-        "statuses": [
-          "active"
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "79db83af4ca4bd66",
+        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ&生写真セット 事後通販決定！！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11822/",
+        "publishedAt": "2026-10-19T07:00:01.000Z",
+        "summary": "第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ&生写真セットの事後通販が決定しました！ 残りわずかな商品もございますので、ぜひこの機会にご利用ください！ ****************** […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ&生写真セット 事後通販決定！！ first app",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
         ],
-        "memberMatches": [
-          {
-            "name": "志賀李玖",
-            "group": "ICEx",
-            "status": "active"
-          },
-          {
-            "name": "阿久根温世",
-            "group": "ICEx",
-            "status": "active"
-          }
-        ]
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "4c9519734cc191ec",
+        "title": "第6回 EBiDAN 大運動会 『スポーツマンヒップ！』ファンクラブブース情報！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11754/",
+        "publishedAt": "2026-10-09T06:30:06.000Z",
+        "summary": "第6回 EBiDAN 大運動会 『スポーツマンヒップ！』ファンクラブブースの受付が決定いたしました。 当日は、対象期間中に各EBiDANファンクラブで【新規入会・継続・お友達紹介】をされた方、 または各＋KIRARIコミ […] The post 第6回 EBiDAN 大運動会 『スポーツマンヒップ！』ファンクラブブース情報！ first appeared ",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "d368d6cea4acc417",
+        "title": "【お知らせ】 EBiDAN SNS投稿ガイドラインに関するお知らせ",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11751/",
+        "publishedAt": "2026-10-08T03:30:07.000Z",
+        "summary": "いつも弊社所属アーティストを温かく応援いただき、誠にありがとうございます。 これからも楽しく安心して応援いただけるよう、SNSにおけるご投稿のガイドラインを定めております。 皆様のご理解とご協力をお願い申し上げます。 ※ […] The post 【お知らせ】 EBiDAN SNS投稿ガイドラインに関するお知らせ first appeared on SUPE",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
       }
     ],
     "SUPER★DRAGON": [
+      {
+        "id": "2d9e4e423771c6b6",
+        "title": "EBiDAN オンラインくじ vol.2発売決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11856/",
+        "publishedAt": "2026-10-23T07:00:16.000Z",
+        "summary": "「EBiDAN museum 2026」の大盛況を記念し、10月26日(月)13:00より「EBiDAN オンラインくじ vol.2」の販売が決定しました！ グループ別のくじとなり、それぞれ全5等級のいずれかの景品が必ず […] The post EBiDAN オンラインくじ vol.2発売決定！ first appeared on SUPER★DRAGON",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
       {
         "id": "e72fb5dab31ac6ac",
         "title": "SUPER★DRAGON 10月30日(金)配信リリースの新曲「本能」がTOKYO MX 新金曜ドラマ「溺愛 ～ 実は、最強ヒーロー ～」オープニングテーマに決定！「本能」の配信ジャケット写真も公開！",
@@ -309,16 +240,104 @@
         "memberMatches": []
       },
       {
-        "id": "a9442b845bf54b63",
-        "title": "吉田仁人（M!LK）主演ドラマ『溺愛』OPテーマが、SUPER★DRAGON新曲「本能」に決定",
+        "id": "13c5dcb712ec340f",
+        "title": "SUPER★DRAGON×セゾンカード初コラボ！推しと1対1で話せるオンライン・トーク会に100名様をご招待※10月22日更新",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11834/",
+        "publishedAt": "2026-10-22T01:00:50.000Z",
+        "summary": "「SUPER★DRAGON」と「SAISON CARD Digital」の初となるコラボレーションを実施いたします。 2026年10月22日（木）～11月30日（月）までの期間中、キャンペーンサイトから「SAISON C […] The post SUPER★DRAGON×セゾンカード初コラボ！推しと1対1で話せるオンライン・トーク会に100名様をご招待※1",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "b6fd84ba90960411",
+        "title": "11/28(土)開催リリースイベント＠UNITEDLAB（福岡）参加方法・特典会内容についてのご案内",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11829/",
+        "publishedAt": "2026-10-20T11:00:27.000Z",
+        "summary": "11/28(土)UNITEDLABにて開催するリリースイベントの詳細をご案内致します。 必ず最後まで全てお読み頂き、会場にいらした皆様がイベントを楽しめるよう、ファンの皆様同士でルールとマナーの厳守をお願い致します。 リ […] The post 11/28(土)開催リリースイベント＠UNITEDLAB（福岡）参加方法・特典会内容についてのご案内 first",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "79db83af4ca4bd66",
+        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ&生写真セット 事後通販決定！！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11822/",
+        "publishedAt": "2026-10-19T07:00:01.000Z",
+        "summary": "第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ&生写真セットの事後通販が決定しました！ 残りわずかな商品もございますので、ぜひこの機会にご利用ください！ ****************** […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ&生写真セット 事後通販決定！！ first app",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
+    "M!LK": [
+      {
+        "id": "79a366997d301669",
+        "title": "M!LK曽野舜太が“ヒトカゲ”を抱きしめた寝姿を公開！「舜ちゃんをゲットしたい」「寝てるしゅんちゃんメロい」と反響、モンスターボールをバックに決めポーズも",
         "sourceName": "THE FIRST TIMES",
         "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000904580/",
-        "publishedAt": "2026-10-23T03:00:21.000Z",
-        "summary": "SUPER★DRAGON（以下、スパドラ）の新曲「本能」が、テレビドラマ『溺愛 ～ 実は、最強ヒーロ...",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000904977/",
+        "publishedAt": "2026-10-23T06:32:26.000Z",
+        "summary": "M!LKの曽野舜太が自身のSNSを更新し、モンスターボール型のホテルに宿泊したことを報告した。 ...",
         "groups": [
-          "M!LK",
-          "SUPER★DRAGON"
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "ab04714215fd2e74",
+        "title": "M!LK塩﨑太智が猫耳ニット帽×リムレスメガネでかわいさ全開！“上下スウェット×ベレー帽”の新鮮な着こなしも披露「大優勝」「バブみ強くて神」「スタイリング完璧すぎる」の声",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000904982/",
+        "publishedAt": "2026-10-23T06:28:18.000Z",
+        "summary": "『mini』の公式Instagramが更新され、M!LKの塩崎太智（崎は、たつさきが正式表記）のスペシャ...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "3dc3493d823a1b65",
+        "title": "吉田仁人（M!LK）主演の新金曜ドラマ「溺愛 ～ 実は、最強ヒーロー ～」、「物語の始まり」描いた60秒PR映像＆人物相関図公開",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/10/19/tg004",
+        "publishedAt": "2026-10-19T10:00:00.000Z",
+        "summary": "",
+        "groups": [
+          "M!LK"
         ],
         "statuses": [
           "active"
@@ -332,88 +351,32 @@
         ]
       },
       {
-        "id": "06254ec94c81d95d",
-        "title": "桃月なしこ、超インドアから人生観に変化「人生で一度もやらずに終わることが多いのもったいないなって」",
-        "sourceName": "ENCOUNT",
-        "sourceUrl": "https://encount.press/feed/",
-        "articleUrl": "https://encount.press/archives/1086375/",
-        "publishedAt": "2026-10-23T03:00:00.000Z",
-        "summary": "5人組ダンスボーカルグループ・M!LKの吉田仁人、コスプレイヤーでモデルの桃月なしこ、SUPER★DRAGONの池田彪馬が23日、都内で行われた、TOKYO MXで30日から放送される連続ドラマ『溺愛 ～ 実は、最強ヒー […]",
+        "id": "a36f33b2e680d504",
+        "title": "M!LK新曲「ザッツ！超常」10月26日配信、あなたとならなんでもできる！と歌うディスコチューン",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/10/92949/",
+        "publishedAt": "2026-10-06T10:00:00.000Z",
+        "summary": "5人組ダンスボーカルグループ・M!LKの新曲「ザッツ！超常」が10月26日(月)0時に配信リリースされることが決定した。 あなたとならなんでもできる！と歌う「ザッツ！超常」は、“一人ではできないこともあなたとなら乗り越えられる”というポジティブなメッセージ、デコボコな二人に生まれる化学反応、何気ない毎日の中で気がつく小さな幸せを描くハッピーなディスコチューン",
         "groups": [
-          "M!LK",
-          "SUPER★DRAGON"
+          "M!LK"
         ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "池田彪馬",
-            "group": "SUPER★DRAGON",
-            "status": "active"
-          }
-        ]
+        "statuses": [],
+        "memberMatches": []
       },
       {
-        "id": "f252ccc2e16e82fd",
-        "title": "M!LK吉田仁人、連ドラ初主演作はラブコメでアクションあり メンバーの反応明かす「一番？が浮かんでいました」",
-        "sourceName": "ENCOUNT",
-        "sourceUrl": "https://encount.press/feed/",
-        "articleUrl": "https://encount.press/archives/1086249/",
-        "publishedAt": "2026-10-23T03:00:00.000Z",
-        "summary": "5人組ダンスボーカルグループ・M!LKの吉田仁人、コスプレイヤーでモデルの桃月なしこ、9人組ユニット・SUPER★DRAGONの池田彪馬が23日、都内で行われた、TOKYO MXで30日から放送される連続ドラマ『溺愛 ～ […]",
+        "id": "976120bc3101651a",
+        "title": "M!LKが“ユニバース”を背負う新アー写公開、1stミニアルバムリード曲は早くもチャート席巻中",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/09/91880/",
+        "publishedAt": "2026-09-08T09:00:00.000Z",
+        "summary": "5人組ダンスボーカルグループ・M!LKが、9月16日(水)に控えるミニアルバム『LOVE ENG!NE』リリースに先駆けて最新アーティスト写真を公開した。 M!LKにとって初ミニアルバムとなる本作からは、リード曲「時空超えてユニバース」（ときこえてゆにばーす）の先行配信が9月7日(月)にスタート。配信開始直後からXのトレンドで「#ときユニ」が1位を獲得したほ",
         "groups": [
-          "M!LK",
-          "SUPER★DRAGON"
+          "M!LK"
         ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "池田彪馬",
-            "group": "SUPER★DRAGON",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "435bc59b01bc4dd2",
-        "title": "SUPER★DRAGON、新曲「本能」がドラマ『溺愛 ～ 実は、最強ヒーロー ～』がOPテーマに決定",
-        "sourceName": "BARKS",
-        "sourceUrl": "https://www.barks.jp/feed/",
-        "articleUrl": "https://barks.jp/news/1100104",
-        "publishedAt": "2026-10-23T03:00:00.000Z",
-        "summary": "SUPER★DRAGON（以下、スパドラ）が、テレビドラマ『溺愛 ～ 実は、最強ヒーロー ～』のオープニングテーマに新曲「本能」が起用されたことを発表した。 本ドラマは、M!LK・吉田仁人がドラマ初主演を務めており、スパドラのメンバーである池田彪馬が“クズ男界のラスボス”相川樹役として出演することも決定している。 さらに、本楽曲がドラマ初回放送日の2026年",
-        "groups": [
-          "M!LK",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "池田彪馬",
-            "group": "SUPER★DRAGON",
-            "status": "active"
-          }
-        ]
+        "statuses": [],
+        "memberMatches": []
       }
     ],
     "超特急": [
@@ -571,83 +534,6 @@
         ]
       }
     ],
-    "EBiDAN": [
-      {
-        "id": "79db83af4ca4bd66",
-        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ&生写真セット 事後通販決定！！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11822/",
-        "publishedAt": "2026-10-19T07:00:01.000Z",
-        "summary": "第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ&生写真セットの事後通販が決定しました！ 残りわずかな商品もございますので、ぜひこの機会にご利用ください！ ****************** […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ&生写真セット 事後通販決定！！ first app",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "4c9519734cc191ec",
-        "title": "第6回 EBiDAN 大運動会 『スポーツマンヒップ！』ファンクラブブース情報！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11754/",
-        "publishedAt": "2026-10-09T06:30:06.000Z",
-        "summary": "第6回 EBiDAN 大運動会 『スポーツマンヒップ！』ファンクラブブースの受付が決定いたしました。 当日は、対象期間中に各EBiDANファンクラブで【新規入会・継続・お友達紹介】をされた方、 または各＋KIRARIコミ […] The post 第6回 EBiDAN 大運動会 『スポーツマンヒップ！』ファンクラブブース情報！ first appeared ",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "d368d6cea4acc417",
-        "title": "【お知らせ】 EBiDAN SNS投稿ガイドラインに関するお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11751/",
-        "publishedAt": "2026-10-08T03:30:07.000Z",
-        "summary": "いつも弊社所属アーティストを温かく応援いただき、誠にありがとうございます。 これからも楽しく安心して応援いただけるよう、SNSにおけるご投稿のガイドラインを定めております。 皆様のご理解とご協力をお願い申し上げます。 ※ […] The post 【お知らせ】 EBiDAN SNS投稿ガイドラインに関するお知らせ first appeared on SUPE",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "0a6bc3b4cc337ec3",
-        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』機材開放先着販売 決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11738/",
-        "publishedAt": "2026-10-06T08:00:16.000Z",
-        "summary": "SOLD OUTとなっておりました第6回EBiDAN大運動会『スポーツマンヒップ！』につきまして、 機材席の一部開放に伴い、若干数ではございますが、追加販売が決定いたしました。 10月8日(木)18:00より〈先着〉にて […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』機材開放先着販売 決定！ first appeared on ",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "a2361a4ff60972aa",
-        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ 会場販売＆整理券配布のお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11726/",
-        "publishedAt": "2026-10-05T07:00:49.000Z",
-        "summary": "第6回EBiDAN大運動会『スポーツマンヒップ！』LaLa arena TOKYO-BAY公演の会場販売が決定しました！ ※オフィシャルグッズの販売は、【キャッシュレス決済のみ】の取り扱いとなります。現金はご利用いただけ […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ 会場販売＆整理券配布のお知らせ first",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
     "ONE N' ONLY": [
       {
         "id": "67155377fccb1e03",
@@ -667,6 +553,37 @@
           {
             "name": "HAYATO",
             "group": "ONE N' ONLY",
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "ICEx": [
+      {
+        "id": "72d88a3410706483",
+        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』追加出演者のお知らせ/チケットトレード情報",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11722/",
+        "publishedAt": "2026-10-02T07:00:30.000Z",
+        "summary": "第6回EBiDAN大運動会『スポーツマンヒップ！』につきまして、ICEx志賀李玖・阿久根温世の追加出演が決定いたしました！ また、10月7日(水) 18:00よりチケットトレードの実施が決定いたしました。 チケットをお持 […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』追加出演者のお知らせ/チケットトレード情報 first app",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON",
+          "ICEx"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "志賀李玖",
+            "group": "ICEx",
+            "status": "active"
+          },
+          {
+            "name": "阿久根温世",
+            "group": "ICEx",
             "status": "active"
           }
         ]
