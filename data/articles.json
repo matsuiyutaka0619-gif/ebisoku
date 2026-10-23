@@ -1,73 +1,91 @@
 {
-  "updatedAt": "2026-10-22T21:35:00.106Z",
+  "updatedAt": "2026-10-23T04:48:22.307Z",
   "articles": [
     {
-      "id": "a6b1994f3107e61b",
-      "title": "ICEx、8thシングル「ニコニコニコイチ」発売決定。初のソロ盤リリースも",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1100024",
-      "publishedAt": "2026-10-22T13:00:00.000Z",
-      "summary": "ICExが、8thシングル「ニコニコニコイチ」を2027年1月20日にリリースすることをを発表した。 本作は、“2つでひとつ＝ニコイチ”と笑顔をテーマにしたICEx得意のキュートンチキソングだという。さらに、Blu-ray付の初回限定盤、通常盤に加え、ICExとして初めてとなる完全生産限定ソロ盤8種のリリースが決定。初回限定盤に付属のBlu-rayには今年8",
+      "id": "f1b323c34a196ac8",
+      "title": "M!LK、メンタリスト相手に心理戦に挑戦！『M!LKの爆裂ミッション』レギュラー放送開始",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000904594/",
+      "publishedAt": "2026-10-23T04:00:09.000Z",
+      "summary": "M!LKが出演する『M!LKの爆裂ミッション』が、レギュラー番組として10月24日14時からTBSにて放...",
       "groups": [
-        "ICEx"
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "68edcd9c4210086b",
+      "title": "M!LKの“高身長トリオ”佐野勇斗＆曽野舜太＆山中柔太朗が横並び！すらりとした立ち姿に「スタイル良すぎ」「みんな前髪ありでかっこいい」「兄弟みたい」の声",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000904759/",
+      "publishedAt": "2026-10-23T03:16:28.000Z",
+      "summary": "M!LKの公式SNSが更新され、佐野勇斗、曽野舜太、山中柔太朗が「時空超えてユニバース」に合わ...",
+      "groups": [
+        "M!LK"
       ],
       "statuses": [
         "active"
       ],
       "memberMatches": [
         {
-          "name": "志賀李玖",
-          "group": "ICEx",
+          "name": "佐野勇斗",
+          "group": "M!LK",
           "status": "active"
         },
         {
-          "name": "中村旺太郎",
-          "group": "ICEx",
+          "name": "曽野舜太",
+          "group": "M!LK",
           "status": "active"
         },
         {
-          "name": "阿久根温世",
-          "group": "ICEx",
-          "status": "active"
-        },
-        {
-          "name": "千田波空斗",
-          "group": "ICEx",
-          "status": "active"
-        },
-        {
-          "name": "筒井俊旭",
-          "group": "ICEx",
-          "status": "active"
-        },
-        {
-          "name": "山本龍人",
-          "group": "ICEx",
-          "status": "active"
-        },
-        {
-          "name": "竹野世梛",
-          "group": "ICEx",
-          "status": "active"
-        },
-        {
-          "name": "八神遼介",
-          "group": "ICEx",
+          "name": "山中柔太朗",
+          "group": "M!LK",
           "status": "active"
         }
       ]
     },
     {
-      "id": "0b0d90893ec96ac5",
-      "title": "出会って10年目で夫の“ガチ泣き”を初めて見た妻、その理由に夫婦で号泣「いい人と結婚した」「旦那、爆裂愛してる」――リスナーから寄せられたエピソードにM!LK吉田仁人も感動「すごい素敵」「心が浄化された」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-      "articleUrl": "https://news.mynavi.jp/article/20261022-5167443/",
-      "publishedAt": "2026-10-22T10:00:00.000Z",
-      "summary": "「いつも頼もしい旦那が泣いている姿を見て、なぜかキュンとしました」――。アイドルグループ・M!LKの吉田仁人が15日、文化放送のラジオ番組『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)に出演。夫の“意外な一面”を明かしたリスナーのエピソードに心を震わせた。",
+      "id": "8d7e575cf88bd8cc",
+      "title": "ICEx、8thシングル『ニコニコニコイチ』リリース グループ初の完全生産限定ソロ盤8種発売も",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/10/post-2561363.html",
+      "publishedAt": "2026-10-23T03:15:22.000Z",
+      "summary": "ICExが、8thシングル『ニコニコニコイチ』を2027年1月20日にリリースする。 本作は、2つで1つの『ニコイチ』と笑顔をテーマにした、ICEx得意の“キュートンチキソング”。初回限定盤（CD+Blu-ray）、",
       "groups": [
-        "M!LK"
+        "ICEx"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "e72fb5dab31ac6ac",
+      "title": "SUPER★DRAGON 10月30日(金)配信リリースの新曲「本能」がTOKYO MX 新金曜ドラマ「溺愛 ～ 実は、最強ヒーロー ～」オープニングテーマに決定！「本能」の配信ジャケット写真も公開！",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news11862/",
+      "publishedAt": "2026-10-23T03:00:53.000Z",
+      "summary": "10月30日に「本能」を配信リリースすることが決定！ さらに同楽曲がTOKYO MX 新金曜ドラマ「溺愛 ～ 実は、最強ヒーロー ～」オープニングテーマに決定いたしました！ また「本能」の配信ジャケット写真も公開。 【配 […] The post SUPER★DRAGON 10月30日(金)配信リリースの新曲「本能」がTOKYO MX 新金曜ドラマ「溺愛 ～",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "a9442b845bf54b63",
+      "title": "吉田仁人（M!LK）主演ドラマ『溺愛』OPテーマが、SUPER★DRAGON新曲「本能」に決定",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000904580/",
+      "publishedAt": "2026-10-23T03:00:21.000Z",
+      "summary": "SUPER★DRAGON（以下、スパドラ）の新曲「本能」が、テレビドラマ『溺愛 ～ 実は、最強ヒーロ...",
+      "groups": [
+        "M!LK",
+        "SUPER★DRAGON"
       ],
       "statuses": [
         "active"
@@ -79,6 +97,104 @@
           "status": "active"
         }
       ]
+    },
+    {
+      "id": "06254ec94c81d95d",
+      "title": "桃月なしこ、超インドアから人生観に変化「人生で一度もやらずに終わることが多いのもったいないなって」",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1086375/",
+      "publishedAt": "2026-10-23T03:00:00.000Z",
+      "summary": "5人組ダンスボーカルグループ・M!LKの吉田仁人、コスプレイヤーでモデルの桃月なしこ、SUPER★DRAGONの池田彪馬が23日、都内で行われた、TOKYO MXで30日から放送される連続ドラマ『溺愛 ～ 実は、最強ヒー […]",
+      "groups": [
+        "M!LK",
+        "SUPER★DRAGON"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "池田彪馬",
+          "group": "SUPER★DRAGON",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "f252ccc2e16e82fd",
+      "title": "M!LK吉田仁人、連ドラ初主演作はラブコメでアクションあり メンバーの反応明かす「一番？が浮かんでいました」",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1086249/",
+      "publishedAt": "2026-10-23T03:00:00.000Z",
+      "summary": "5人組ダンスボーカルグループ・M!LKの吉田仁人、コスプレイヤーでモデルの桃月なしこ、9人組ユニット・SUPER★DRAGONの池田彪馬が23日、都内で行われた、TOKYO MXで30日から放送される連続ドラマ『溺愛 ～ […]",
+      "groups": [
+        "M!LK",
+        "SUPER★DRAGON"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "池田彪馬",
+          "group": "SUPER★DRAGON",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "435bc59b01bc4dd2",
+      "title": "SUPER★DRAGON、新曲「本能」がドラマ『溺愛 ～ 実は、最強ヒーロー ～』がOPテーマに決定",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1100104",
+      "publishedAt": "2026-10-23T03:00:00.000Z",
+      "summary": "SUPER★DRAGON（以下、スパドラ）が、テレビドラマ『溺愛 ～ 実は、最強ヒーロー ～』のオープニングテーマに新曲「本能」が起用されたことを発表した。 本ドラマは、M!LK・吉田仁人がドラマ初主演を務めており、スパドラのメンバーである池田彪馬が“クズ男界のラスボス”相川樹役として出演することも決定している。 さらに、本楽曲がドラマ初回放送日の2026年",
+      "groups": [
+        "M!LK",
+        "SUPER★DRAGON"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "池田彪馬",
+          "group": "SUPER★DRAGON",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "6865cd3cb597efa2",
+      "title": "危うく強い鈴木伸之に柏木悠が宿す意思とは、映画『羊の皮を着たケモノ』緊張感漂う場面写真解禁",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/10/93934/",
+      "publishedAt": "2026-10-23T03:00:00.000Z",
+      "summary": "鈴木伸之と柏木悠（超特急）がW主演を務め、12月11日(金)に公開される映画『羊の皮を着たケモノ』の場面写真5点が解禁された。 本作は、九號（きゅうごう）による同名BL漫画を実写化した、骨太で新感覚のボーイズ・ラブ。原作は「BLアワード2022 ディープ部門」で第13位、「BLアワード2024 ディープ部門」で第3位を獲得した人気作で、物語は前半の明るく甘い",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
     },
     {
       "id": "9aa1a5556bfafb6b",
@@ -1930,20 +2046,6 @@
       "articleUrl": "https://super-dragon.jp/news/news11220/",
       "publishedAt": "2026-06-06T11:29:16.000Z",
       "summary": "Spotify Canvasシェアキャンペーン 6月8日(月)より日替わりでここでしか見られない各メンバーのオリジナル動画を公開！ Canvasをストーリーにシェアしてくださった方全員に 【Spotify Canvasシ […] The post SUPER★DRAGON Digital Single「Call Me Asap」の配信を記念して、 Spoti",
-      "groups": [
-        "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "ce426256d0ba8202",
-      "title": "SUPER★DRAGON Digital Single「Call Me Asap」の配信を記念して、 LINE MUSIC再生キャンペーン開催決定！",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news11216/",
-      "publishedAt": "2026-06-06T10:59:54.000Z",
-      "summary": "LINE MUSIC再生キャンペーン SUPER★DRAGON、Digital Single「Call Me Asap」の配信リリースを記念して、この楽曲をたくさん聴いていただいた方へのプレゼントキャンペーンが決定いたし […] The post SUPER★DRAGON Digital Single「Call Me Asap」の配信を記念して、 LINE ",
       "groups": [
         "SUPER★DRAGON"
       ],
