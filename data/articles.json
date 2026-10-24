@@ -1,6 +1,34 @@
 {
-  "updatedAt": "2026-10-24T04:35:42.569Z",
+  "updatedAt": "2026-10-24T10:58:57.169Z",
   "articles": [
+    {
+      "id": "cd9b292c63a42f97",
+      "title": "EBiDAN研究生選抜、新音楽プロジェクト「NEXT MUSIC LAB.」を発表 ライブで第1弾の新曲を初披露",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1087172/",
+      "publishedAt": "2026-10-24T09:00:00.000Z",
+      "summary": "スターダストプロモーション所属俳優・タレントによる男性アーティスト集団・EBiDAN（恵比寿学園男子部）の研究生選抜プロジェクトEBiDAN NEXTが、さまざまなクリエーターとジャンルレスな音楽にチャレンジしていく新音 […]",
+      "groups": [
+        "EBiDAN"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "39bbea5ff7fe04d3",
+      "title": "M!LK5人が黒スーツ＆ハットでビシッと並びほほ笑んだオフショットに「イケ散らかしてる」「ネクタイゆるめてるのメロい」「ハット似合う」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000905638/",
+      "publishedAt": "2026-10-24T08:57:17.000Z",
+      "summary": "M!LK公式SNSにて、10月24日放送のTBS『M!LKの爆裂ミッション』のオフショットが公開された。 ■...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "1d5fe54bf702a36e",
       "title": "M!LK山中柔太朗が黒ジャケット姿で美麗スマイル！「サッカーボールと柔ちゃんには弱いんだよな」「初めて表紙じゃない雑誌買いたくなった」と話題",
@@ -58,20 +86,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "73fdac22d53b1a7d",
-      "title": "EBiDAN『音量注意！「Yes! 東京」EBiDAN大運動会 大コール！』映像公開「みなさんのとてつもなくすごいコールが聞けて元気をもらいました！」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000905035/",
-      "publishedAt": "2026-10-23T09:00:49.000Z",
-      "summary": "EBiDAN（恵比寿学園男子部）の15周年を記念した楽曲「Yes! 東京」のパフォーマンス映像『音量...",
-      "groups": [
-        "EBiDAN"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "2d9e4e423771c6b6",
