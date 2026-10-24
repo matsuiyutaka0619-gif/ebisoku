@@ -1,19 +1,53 @@
 {
-  "updatedAt": "2026-10-24T10:58:57.169Z",
+  "updatedAt": "2026-10-24T15:56:32.683Z",
   "articles": [
     {
-      "id": "cd9b292c63a42f97",
-      "title": "EBiDAN研究生選抜、新音楽プロジェクト「NEXT MUSIC LAB.」を発表 ライブで第1弾の新曲を初披露",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1087172/",
-      "publishedAt": "2026-10-24T09:00:00.000Z",
-      "summary": "スターダストプロモーション所属俳優・タレントによる男性アーティスト集団・EBiDAN（恵比寿学園男子部）の研究生選抜プロジェクトEBiDAN NEXTが、さまざまなクリエーターとジャンルレスな音楽にチャレンジしていく新音 […]",
+      "id": "708ce2be442bc499",
+      "title": "Lienel、メジャー2ndシングル「愛のダバダ」ダンスパフォーマンス映像公開",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1100439",
+      "publishedAt": "2026-10-24T12:00:00.000Z",
+      "summary": "Lienelが、2026年10月21日にリリースしたメジャー2ndシングル「愛のダバダ」のDance Performance Videoを公開した。 10月5日に公開された「愛のダバダ」のMVは現在250万回再生以上を突破しているが、今回公開された映像ではダンスを中心に一人ひとりの表情や動き、個性あふれるパフォーマンスを楽しめる内容になっているという。また、",
       "groups": [
-        "EBiDAN"
+        "M!LK",
+        "Lienel"
       ],
-      "statuses": [],
-      "memberMatches": []
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "芳賀柊斗",
+          "group": "Lienel",
+          "status": "active"
+        },
+        {
+          "name": "近藤駿太",
+          "group": "Lienel",
+          "status": "active"
+        },
+        {
+          "name": "高岡ミロ",
+          "group": "Lienel",
+          "status": "active"
+        },
+        {
+          "name": "森田璃空",
+          "group": "Lienel",
+          "status": "active"
+        },
+        {
+          "name": "武田創世",
+          "group": "Lienel",
+          "status": "active"
+        },
+        {
+          "name": "高桑真之",
+          "group": "Lienel",
+          "status": "active"
+        }
+      ]
     },
     {
       "id": "39bbea5ff7fe04d3",
@@ -50,20 +84,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "86f6fef2724346ba",
-      "title": "城田優、アルバム『¡Que será será!』収録内容＆ゲストボーカル解禁",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1080670",
-      "publishedAt": "2026-10-24T04:19:57.000Z",
-      "summary": "城田優が、2026年11月18日に発売するオリジナルアルバム『¡Que será será!』の収録内容とゲストボーカルを発表した。 収録曲すべての作詞・作曲を自身で手掛けた本作は、オリジナルアルバムとしては14年ぶりとなる。喜びや葛藤、不安、希望、これまでの歩みの中で感じてきた感情が一曲一曲に込められている、今の城田優だからこそ作れた、音楽家・城田優の“名",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "cb744f87fbb5fb3f",

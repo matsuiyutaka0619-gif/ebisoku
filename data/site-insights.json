@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-24T10:58:57.171Z",
+  "updatedAt": "2026-10-24T15:56:32.685Z",
   "totals": {
-    "all": 120,
-    "today": 5,
-    "week": 16
+    "all": 119,
+    "today": 0,
+    "week": 15
   },
   "groupRanking": [
     {
@@ -15,11 +15,11 @@
       "count": 5
     },
     {
-      "name": "EBiDAN",
+      "name": "Lienel",
       "count": 3
     },
     {
-      "name": "Lienel",
+      "name": "EBiDAN",
       "count": 2
     },
     {
@@ -38,6 +38,10 @@
   "memberRanking": [
     {
       "name": "近藤駿太",
+      "count": 3
+    },
+    {
+      "name": "武田創世",
       "count": 2
     },
     {
@@ -46,6 +50,14 @@
     },
     {
       "name": "吉田仁人",
+      "count": 1
+    },
+    {
+      "name": "高岡ミロ",
+      "count": 1
+    },
+    {
+      "name": "高桑真之",
       "count": 1
     },
     {
@@ -61,7 +73,7 @@
       "count": 1
     },
     {
-      "name": "武田創世",
+      "name": "森田璃空",
       "count": 1
     }
   ],
@@ -87,10 +99,6 @@
       "count": 1
     },
     {
-      "name": "ENCOUNT",
-      "count": 1
-    },
-    {
       "name": "QJWeb",
       "count": 1
     },
@@ -105,21 +113,236 @@
   ],
   "topics": [],
   "recentByGroup": {
-    "EBiDAN": [
+    "M!LK": [
       {
-        "id": "cd9b292c63a42f97",
-        "title": "EBiDAN研究生選抜、新音楽プロジェクト「NEXT MUSIC LAB.」を発表 ライブで第1弾の新曲を初披露",
-        "sourceName": "ENCOUNT",
-        "sourceUrl": "https://encount.press/feed/",
-        "articleUrl": "https://encount.press/archives/1087172/",
-        "publishedAt": "2026-10-24T09:00:00.000Z",
-        "summary": "スターダストプロモーション所属俳優・タレントによる男性アーティスト集団・EBiDAN（恵比寿学園男子部）の研究生選抜プロジェクトEBiDAN NEXTが、さまざまなクリエーターとジャンルレスな音楽にチャレンジしていく新音 […]",
+        "id": "708ce2be442bc499",
+        "title": "Lienel、メジャー2ndシングル「愛のダバダ」ダンスパフォーマンス映像公開",
+        "sourceName": "BARKS",
+        "sourceUrl": "https://www.barks.jp/feed/",
+        "articleUrl": "https://barks.jp/news/1100439",
+        "publishedAt": "2026-10-24T12:00:00.000Z",
+        "summary": "Lienelが、2026年10月21日にリリースしたメジャー2ndシングル「愛のダバダ」のDance Performance Videoを公開した。 10月5日に公開された「愛のダバダ」のMVは現在250万回再生以上を突破しているが、今回公開された映像ではダンスを中心に一人ひとりの表情や動き、個性あふれるパフォーマンスを楽しめる内容になっているという。また、",
         "groups": [
-          "EBiDAN"
+          "M!LK",
+          "Lienel"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "芳賀柊斗",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "近藤駿太",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "高岡ミロ",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "森田璃空",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "武田創世",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "高桑真之",
+            "group": "Lienel",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "39bbea5ff7fe04d3",
+        "title": "M!LK5人が黒スーツ＆ハットでビシッと並びほほ笑んだオフショットに「イケ散らかしてる」「ネクタイゆるめてるのメロい」「ハット似合う」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000905638/",
+        "publishedAt": "2026-10-24T08:57:17.000Z",
+        "summary": "M!LK公式SNSにて、10月24日放送のTBS『M!LKの爆裂ミッション』のオフショットが公開された。 ■...",
+        "groups": [
+          "M!LK"
         ],
         "statuses": [],
         "memberMatches": []
       },
+      {
+        "id": "1d5fe54bf702a36e",
+        "title": "M!LK山中柔太朗が黒ジャケット姿で美麗スマイル！「サッカーボールと柔ちゃんには弱いんだよな」「初めて表紙じゃない雑誌買いたくなった」と話題",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000905422/",
+        "publishedAt": "2026-10-24T04:20:44.000Z",
+        "summary": "M!LKの山中柔太朗が『月刊TVガイド』12月号（2026年10月23日発売）に登場。ジャケットスタイル...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "cb744f87fbb5fb3f",
+        "title": "M!LK佐野勇斗の美しい横顔に惚れる！彫刻級の鼻筋に色気漂う表情…見るほどに“沼る”横顔ショット集",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000903704/",
+        "publishedAt": "2026-10-24T02:00:34.000Z",
+        "summary": "正面から見てもかっこいいけれど、横を向いた瞬間にハッとさせられるのがM!LK佐野勇斗。すらり...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "3dc3493d823a1b65",
+        "title": "吉田仁人（M!LK）主演の新金曜ドラマ「溺愛 ～ 実は、最強ヒーロー ～」、「物語の始まり」描いた60秒PR映像＆人物相関図公開",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/10/19/tg004",
+        "publishedAt": "2026-10-19T10:00:00.000Z",
+        "summary": "",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "Lienel": [
+      {
+        "id": "708ce2be442bc499",
+        "title": "Lienel、メジャー2ndシングル「愛のダバダ」ダンスパフォーマンス映像公開",
+        "sourceName": "BARKS",
+        "sourceUrl": "https://www.barks.jp/feed/",
+        "articleUrl": "https://barks.jp/news/1100439",
+        "publishedAt": "2026-10-24T12:00:00.000Z",
+        "summary": "Lienelが、2026年10月21日にリリースしたメジャー2ndシングル「愛のダバダ」のDance Performance Videoを公開した。 10月5日に公開された「愛のダバダ」のMVは現在250万回再生以上を突破しているが、今回公開された映像ではダンスを中心に一人ひとりの表情や動き、個性あふれるパフォーマンスを楽しめる内容になっているという。また、",
+        "groups": [
+          "M!LK",
+          "Lienel"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "芳賀柊斗",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "近藤駿太",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "高岡ミロ",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "森田璃空",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "武田創世",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "高桑真之",
+            "group": "Lienel",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "9aa1a5556bfafb6b",
+        "title": "Lienelリリースイベント、欠席になってしまった近藤駿太に代わり武田創世「お前ら離れんなよ！」",
+        "sourceName": "QJWeb",
+        "sourceUrl": "https://qjweb.jp/feed/",
+        "articleUrl": "https://qjweb.jp/column/167082/",
+        "publishedAt": "2026-10-22T10:00:00.000Z",
+        "summary": "6人組メインボーカル＆ダンスグループ・Lienelが、10月21日に2ndシングル『愛のダバダ』を発売。発売を記念してメジャーデビューをサプライズ発表した場所でもある新宿・三角広場にて、イベントを開催した。 2026年の6月に『メロ・コレクション』にてメジャーデビューを果たし、同月にはパシフィコ横浜.. 投稿 Lienelリリースイベント、欠席になってしまっ",
+        "groups": [
+          "Lienel"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "近藤駿太",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "武田創世",
+            "group": "Lienel",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "5e5598d11aa68a5d",
+        "title": "恋愛、アルバイト、お金、人間関係…大学生の悩みを描くショートドラマ 三菱ＵＦＪ銀行×QREATIONがタッグ",
+        "sourceName": "マイナビニュース 芸能",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
+        "articleUrl": "https://news.mynavi.jp/article/20261019-5150664/",
+        "publishedAt": "2026-10-19T09:00:00.000Z",
+        "summary": "恋愛、アルバイト、お金、人間関係――大学生たちが直面するさまざまな悩みを描くショートドラマ『朱に交われど、ぼくらいろ。』が19日、Instagramで配信をスタートした。三菱ＵＦＪ銀行とQREATIONがタッグを組んだ作品で、おさき、永瀬さら、小國舞羽、Lienelの近藤駿太、中村駿希が出演。累計6億回再生超の『キュリエーション学院』とのコラボレーションも行",
+        "groups": [
+          "Lienel"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "近藤駿太",
+            "group": "Lienel",
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "EBiDAN": [
       {
         "id": "2d9e4e423771c6b6",
         "title": "EBiDAN オンラインくじ vol.2発売決定！",
@@ -179,102 +402,21 @@
         ],
         "statuses": [],
         "memberMatches": []
-      }
-    ],
-    "M!LK": [
+      },
       {
-        "id": "39bbea5ff7fe04d3",
-        "title": "M!LK5人が黒スーツ＆ハットでビシッと並びほほ笑んだオフショットに「イケ散らかしてる」「ネクタイゆるめてるのメロい」「ハット似合う」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000905638/",
-        "publishedAt": "2026-10-24T08:57:17.000Z",
-        "summary": "M!LK公式SNSにて、10月24日放送のTBS『M!LKの爆裂ミッション』のオフショットが公開された。 ■...",
+        "id": "0a6bc3b4cc337ec3",
+        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』機材開放先着販売 決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11738/",
+        "publishedAt": "2026-10-06T08:00:16.000Z",
+        "summary": "SOLD OUTとなっておりました第6回EBiDAN大運動会『スポーツマンヒップ！』につきまして、 機材席の一部開放に伴い、若干数ではございますが、追加販売が決定いたしました。 10月8日(木)18:00より〈先着〉にて […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』機材開放先着販売 決定！ first appeared on ",
         "groups": [
-          "M!LK"
+          "EBiDAN",
+          "SUPER★DRAGON"
         ],
         "statuses": [],
         "memberMatches": []
-      },
-      {
-        "id": "1d5fe54bf702a36e",
-        "title": "M!LK山中柔太朗が黒ジャケット姿で美麗スマイル！「サッカーボールと柔ちゃんには弱いんだよな」「初めて表紙じゃない雑誌買いたくなった」と話題",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000905422/",
-        "publishedAt": "2026-10-24T04:20:44.000Z",
-        "summary": "M!LKの山中柔太朗が『月刊TVガイド』12月号（2026年10月23日発売）に登場。ジャケットスタイル...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "86f6fef2724346ba",
-        "title": "城田優、アルバム『¡Que será será!』収録内容＆ゲストボーカル解禁",
-        "sourceName": "BARKS",
-        "sourceUrl": "https://www.barks.jp/feed/",
-        "articleUrl": "https://barks.jp/news/1080670",
-        "publishedAt": "2026-10-24T04:19:57.000Z",
-        "summary": "城田優が、2026年11月18日に発売するオリジナルアルバム『¡Que será será!』の収録内容とゲストボーカルを発表した。 収録曲すべての作詞・作曲を自身で手掛けた本作は、オリジナルアルバムとしては14年ぶりとなる。喜びや葛藤、不安、希望、これまでの歩みの中で感じてきた感情が一曲一曲に込められている、今の城田優だからこそ作れた、音楽家・城田優の“名",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "cb744f87fbb5fb3f",
-        "title": "M!LK佐野勇斗の美しい横顔に惚れる！彫刻級の鼻筋に色気漂う表情…見るほどに“沼る”横顔ショット集",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000903704/",
-        "publishedAt": "2026-10-24T02:00:34.000Z",
-        "summary": "正面から見てもかっこいいけれど、横を向いた瞬間にハッとさせられるのがM!LK佐野勇斗。すらり...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "3dc3493d823a1b65",
-        "title": "吉田仁人（M!LK）主演の新金曜ドラマ「溺愛 ～ 実は、最強ヒーロー ～」、「物語の始まり」描いた60秒PR映像＆人物相関図公開",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/10/19/tg004",
-        "publishedAt": "2026-10-19T10:00:00.000Z",
-        "summary": "",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
       }
     ],
     "SUPER★DRAGON": [
@@ -429,57 +571,6 @@
         ],
         "statuses": [],
         "memberMatches": []
-      }
-    ],
-    "Lienel": [
-      {
-        "id": "9aa1a5556bfafb6b",
-        "title": "Lienelリリースイベント、欠席になってしまった近藤駿太に代わり武田創世「お前ら離れんなよ！」",
-        "sourceName": "QJWeb",
-        "sourceUrl": "https://qjweb.jp/feed/",
-        "articleUrl": "https://qjweb.jp/column/167082/",
-        "publishedAt": "2026-10-22T10:00:00.000Z",
-        "summary": "6人組メインボーカル＆ダンスグループ・Lienelが、10月21日に2ndシングル『愛のダバダ』を発売。発売を記念してメジャーデビューをサプライズ発表した場所でもある新宿・三角広場にて、イベントを開催した。 2026年の6月に『メロ・コレクション』にてメジャーデビューを果たし、同月にはパシフィコ横浜.. 投稿 Lienelリリースイベント、欠席になってしまっ",
-        "groups": [
-          "Lienel"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "近藤駿太",
-            "group": "Lienel",
-            "status": "active"
-          },
-          {
-            "name": "武田創世",
-            "group": "Lienel",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "5e5598d11aa68a5d",
-        "title": "恋愛、アルバイト、お金、人間関係…大学生の悩みを描くショートドラマ 三菱ＵＦＪ銀行×QREATIONがタッグ",
-        "sourceName": "マイナビニュース 芸能",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-        "articleUrl": "https://news.mynavi.jp/article/20261019-5150664/",
-        "publishedAt": "2026-10-19T09:00:00.000Z",
-        "summary": "恋愛、アルバイト、お金、人間関係――大学生たちが直面するさまざまな悩みを描くショートドラマ『朱に交われど、ぼくらいろ。』が19日、Instagramで配信をスタートした。三菱ＵＦＪ銀行とQREATIONがタッグを組んだ作品で、おさき、永瀬さら、小國舞羽、Lienelの近藤駿太、中村駿希が出演。累計6億回再生超の『キュリエーション学院』とのコラボレーションも行",
-        "groups": [
-          "Lienel"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "近藤駿太",
-            "group": "Lienel",
-            "status": "active"
-          }
-        ]
       }
     ],
     "原因は自分にある。": [
