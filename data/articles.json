@@ -1,24 +1,60 @@
 {
-  "updatedAt": "2026-10-23T21:24:02.092Z",
+  "updatedAt": "2026-10-24T04:35:42.569Z",
   "articles": [
     {
-      "id": "53b509ac7a1b5e6a",
-      "title": "BUDDiiS、「無限大LOVE!!!」先行配信スタート。FUMINORI監修の“爆上げ”コール動画公開も",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1100250",
-      "publishedAt": "2026-10-23T11:00:00.000Z",
-      "summary": "BUDDiiSが、2026年11月18日に発売するメジャー2ndシングルより、リード曲「無限大LOVE!!!」を本日先行リリースした。 本楽曲は、宇宙ごと抱きしめるようなスケールで愛を鳴らすハイテンションなポップソング。円周率を終わりのない愛と重ねながら、「好き」の熱量が銀河を越えてどこまでも膨らんでいく“全存在大肯定”ソングになっているという。 すでにリリ",
+      "id": "1d5fe54bf702a36e",
+      "title": "M!LK山中柔太朗が黒ジャケット姿で美麗スマイル！「サッカーボールと柔ちゃんには弱いんだよな」「初めて表紙じゃない雑誌買いたくなった」と話題",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000905422/",
+      "publishedAt": "2026-10-24T04:20:44.000Z",
+      "summary": "M!LKの山中柔太朗が『月刊TVガイド』12月号（2026年10月23日発売）に登場。ジャケットスタイル...",
       "groups": [
-        "BUDDiiS"
+        "M!LK"
       ],
       "statuses": [
         "active"
       ],
       "memberMatches": [
         {
-          "name": "FUMINORI",
-          "group": "BUDDiiS",
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "86f6fef2724346ba",
+      "title": "城田優、アルバム『¡Que será será!』収録内容＆ゲストボーカル解禁",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1080670",
+      "publishedAt": "2026-10-24T04:19:57.000Z",
+      "summary": "城田優が、2026年11月18日に発売するオリジナルアルバム『¡Que será será!』の収録内容とゲストボーカルを発表した。 収録曲すべての作詞・作曲を自身で手掛けた本作は、オリジナルアルバムとしては14年ぶりとなる。喜びや葛藤、不安、希望、これまでの歩みの中で感じてきた感情が一曲一曲に込められている、今の城田優だからこそ作れた、音楽家・城田優の“名",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "cb744f87fbb5fb3f",
+      "title": "M!LK佐野勇斗の美しい横顔に惚れる！彫刻級の鼻筋に色気漂う表情…見るほどに“沼る”横顔ショット集",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000903704/",
+      "publishedAt": "2026-10-24T02:00:34.000Z",
+      "summary": "正面から見てもかっこいいけれど、横を向いた瞬間にハッとさせられるのがM!LK佐野勇斗。すらり...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
           "status": "active"
         }
       ]
