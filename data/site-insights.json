@@ -1,63 +1,47 @@
 {
-  "updatedAt": "2026-10-25T04:40:08.540Z",
+  "updatedAt": "2026-10-25T11:27:24.740Z",
   "totals": {
-    "all": 119,
-    "today": 2,
-    "week": 15
+    "all": 122,
+    "today": 7,
+    "week": 17
   },
   "groupRanking": [
+    {
+      "name": "M!LK",
+      "count": 5
+    },
     {
       "name": "SUPER★DRAGON",
       "count": 5
     },
     {
-      "name": "M!LK",
-      "count": 4
-    },
-    {
       "name": "EBiDAN",
-      "count": 3
+      "count": 4
     },
     {
       "name": "Lienel",
       "count": 3
     },
     {
-      "name": "ONE N' ONLY",
-      "count": 1
+      "name": "超特急",
+      "count": 2
     },
     {
       "name": "原因は自分にある。",
-      "count": 1
-    },
-    {
-      "name": "超特急",
       "count": 1
     }
   ],
   "memberRanking": [
     {
-      "name": "近藤駿太",
-      "count": 3
-    },
-    {
-      "name": "武田創世",
+      "name": "吉田仁人",
       "count": 2
     },
     {
-      "name": "HAYATO",
-      "count": 1
+      "name": "近藤駿太",
+      "count": 2
     },
     {
-      "name": "吉田仁人",
-      "count": 1
-    },
-    {
-      "name": "高岡ミロ",
-      "count": 1
-    },
-    {
-      "name": "高桑真之",
+      "name": "佐野勇斗",
       "count": 1
     },
     {
@@ -65,11 +49,11 @@
       "count": 1
     },
     {
-      "name": "森田璃空",
+      "name": "山中柔太朗",
       "count": 1
     },
     {
-      "name": "芳賀柊斗",
+      "name": "武田創世",
       "count": 1
     }
   ],
@@ -80,15 +64,11 @@
     },
     {
       "name": "THE FIRST TIMES",
-      "count": 2
+      "count": 4
     },
     {
-      "name": "マイナビニュース 芸能",
+      "name": "マイナビニュース エンタメ",
       "count": 2
-    },
-    {
-      "name": "BARKS",
-      "count": 1
     },
     {
       "name": "Bezzy",
@@ -109,11 +89,134 @@
     {
       "name": "マイナビニュース テレビ",
       "count": 1
+    },
+    {
+      "name": "マイナビニュース 芸能",
+      "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
+    "M!LK": [
+      {
+        "id": "215d0a2b3a7cf860",
+        "title": "日曜トライアル 第48回 なぜM!LK吉田仁人とは、カメラ越しによく目が合うのか?",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/sunday_trial-48/",
+        "publishedAt": "2026-10-25T10:00:00.000Z",
+        "summary": "取材中、なぜか何度も目が合う。正確には、カメラ越しに目が合うような感覚になる。その相手は、5人組ダンスボーカルグループ・M!LKのリーダー吉田仁人だ。吉田は、TOKYO MXのドラマ『溺愛 ～ 実は、最強ヒーロー ～』(毎週金曜23:00～)で連続ドラマ初主演を務める。先日、同作の会見を取材した際、彼のある振る舞いが印象に残った。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "1281d21b326769b3",
+        "title": "M!LKの山中柔太朗が華麗な胸トラップを披露！「本物のサッカー選手みたい」「どえらい映像だ」「みんなの初恋泥棒！」「これはお宝メイキング」大森元貴からもコメント届く",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000905843/",
+        "publishedAt": "2026-10-25T06:41:15.000Z",
+        "summary": "TBS系火曜ドラマ『いろはの恋は時代（とき）をかける』公式Instagramでは、M!LKの山中柔太朗が...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "de4b9d5b0b076d2d",
+        "title": "M!LK・佐野勇斗が雰囲気ガラリ！新しい髪色披露に「ひぇぇ！一瞬呼吸忘れた」「急な黒髪メロすぎ」「茶髪とは違うかっこよさがある」「前髪上げてくれて最高」反響続々",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000905809/",
+        "publishedAt": "2026-10-25T05:23:43.000Z",
+        "summary": "M!LKの佐野勇斗が自身のInstagramで、新しい髪色を披露した。 ■佐野勇斗「ただいま黒髪！」 佐...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "e304ca899469fa7e",
+        "title": "M!LKの大人の色気がたまらない！艶っぽい眼差しからセクシーな仕草まで、ギャップに沼落ちするショットを厳選",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000904080/",
+        "publishedAt": "2026-10-25T02:00:33.000Z",
+        "summary": "明るくキュートな魅力でファンを虜にするM!LK。しかし、ふとした瞬間に見せる大人びた表情や色...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "3dc3493d823a1b65",
+        "title": "吉田仁人（M!LK）主演の新金曜ドラマ「溺愛 ～ 実は、最強ヒーロー ～」、「物語の始まり」描いた60秒PR映像＆人物相関図公開",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/10/19/tg004",
+        "publishedAt": "2026-10-19T10:00:00.000Z",
+        "summary": "",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      }
+    ],
     "EBiDAN": [
+      {
+        "id": "766fe6506ae83d64",
+        "title": "Lienel「愛のダバダ」舞い散る大量の薔薇とともに魅せる優雅さと情熱をまとったDance Performance Video公開",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000905936/",
+        "publishedAt": "2026-10-25T09:45:48.000Z",
+        "summary": "スターダストプロモーション所属俳優・タレントによる男性アーティスト集団・EBiDAN（恵比寿学...",
+        "groups": [
+          "EBiDAN",
+          "Lienel"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
       {
         "id": "d8c2290c297e0316",
         "title": "EBiDAN NEXT、新音楽プロジェクト始動！新曲初披露＆4日連続配信、クリスマス公演も決定",
@@ -172,185 +275,23 @@
         ],
         "statuses": [],
         "memberMatches": []
-      },
-      {
-        "id": "d368d6cea4acc417",
-        "title": "【お知らせ】 EBiDAN SNS投稿ガイドラインに関するお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11751/",
-        "publishedAt": "2026-10-08T03:30:07.000Z",
-        "summary": "いつも弊社所属アーティストを温かく応援いただき、誠にありがとうございます。 これからも楽しく安心して応援いただけるよう、SNSにおけるご投稿のガイドラインを定めております。 皆様のご理解とご協力をお願い申し上げます。 ※ […] The post 【お知らせ】 EBiDAN SNS投稿ガイドラインに関するお知らせ first appeared on SUPE",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "M!LK": [
-      {
-        "id": "e304ca899469fa7e",
-        "title": "M!LKの大人の色気がたまらない！艶っぽい眼差しからセクシーな仕草まで、ギャップに沼落ちするショットを厳選",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000904080/",
-        "publishedAt": "2026-10-25T02:00:33.000Z",
-        "summary": "明るくキュートな魅力でファンを虜にするM!LK。しかし、ふとした瞬間に見せる大人びた表情や色...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "708ce2be442bc499",
-        "title": "Lienel、メジャー2ndシングル「愛のダバダ」ダンスパフォーマンス映像公開",
-        "sourceName": "BARKS",
-        "sourceUrl": "https://www.barks.jp/feed/",
-        "articleUrl": "https://barks.jp/news/1100439",
-        "publishedAt": "2026-10-24T12:00:00.000Z",
-        "summary": "Lienelが、2026年10月21日にリリースしたメジャー2ndシングル「愛のダバダ」のDance Performance Videoを公開した。 10月5日に公開された「愛のダバダ」のMVは現在250万回再生以上を突破しているが、今回公開された映像ではダンスを中心に一人ひとりの表情や動き、個性あふれるパフォーマンスを楽しめる内容になっているという。また、",
-        "groups": [
-          "M!LK",
-          "Lienel"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "芳賀柊斗",
-            "group": "Lienel",
-            "status": "active"
-          },
-          {
-            "name": "近藤駿太",
-            "group": "Lienel",
-            "status": "active"
-          },
-          {
-            "name": "高岡ミロ",
-            "group": "Lienel",
-            "status": "active"
-          },
-          {
-            "name": "森田璃空",
-            "group": "Lienel",
-            "status": "active"
-          },
-          {
-            "name": "武田創世",
-            "group": "Lienel",
-            "status": "active"
-          },
-          {
-            "name": "高桑真之",
-            "group": "Lienel",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "39bbea5ff7fe04d3",
-        "title": "M!LK5人が黒スーツ＆ハットでビシッと並びほほ笑んだオフショットに「イケ散らかしてる」「ネクタイゆるめてるのメロい」「ハット似合う」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000905638/",
-        "publishedAt": "2026-10-24T08:57:17.000Z",
-        "summary": "M!LK公式SNSにて、10月24日放送のTBS『M!LKの爆裂ミッション』のオフショットが公開された。 ■...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "3dc3493d823a1b65",
-        "title": "吉田仁人（M!LK）主演の新金曜ドラマ「溺愛 ～ 実は、最強ヒーロー ～」、「物語の始まり」描いた60秒PR映像＆人物相関図公開",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/10/19/tg004",
-        "publishedAt": "2026-10-19T10:00:00.000Z",
-        "summary": "",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "a36f33b2e680d504",
-        "title": "M!LK新曲「ザッツ！超常」10月26日配信、あなたとならなんでもできる！と歌うディスコチューン",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/10/92949/",
-        "publishedAt": "2026-10-06T10:00:00.000Z",
-        "summary": "5人組ダンスボーカルグループ・M!LKの新曲「ザッツ！超常」が10月26日(月)0時に配信リリースされることが決定した。 あなたとならなんでもできる！と歌う「ザッツ！超常」は、“一人ではできないこともあなたとなら乗り越えられる”というポジティブなメッセージ、デコボコな二人に生まれる化学反応、何気ない毎日の中で気がつく小さな幸せを描くハッピーなディスコチューン",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
       }
     ],
     "Lienel": [
       {
-        "id": "708ce2be442bc499",
-        "title": "Lienel、メジャー2ndシングル「愛のダバダ」ダンスパフォーマンス映像公開",
-        "sourceName": "BARKS",
-        "sourceUrl": "https://www.barks.jp/feed/",
-        "articleUrl": "https://barks.jp/news/1100439",
-        "publishedAt": "2026-10-24T12:00:00.000Z",
-        "summary": "Lienelが、2026年10月21日にリリースしたメジャー2ndシングル「愛のダバダ」のDance Performance Videoを公開した。 10月5日に公開された「愛のダバダ」のMVは現在250万回再生以上を突破しているが、今回公開された映像ではダンスを中心に一人ひとりの表情や動き、個性あふれるパフォーマンスを楽しめる内容になっているという。また、",
+        "id": "766fe6506ae83d64",
+        "title": "Lienel「愛のダバダ」舞い散る大量の薔薇とともに魅せる優雅さと情熱をまとったDance Performance Video公開",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000905936/",
+        "publishedAt": "2026-10-25T09:45:48.000Z",
+        "summary": "スターダストプロモーション所属俳優・タレントによる男性アーティスト集団・EBiDAN（恵比寿学...",
         "groups": [
-          "M!LK",
+          "EBiDAN",
           "Lienel"
         ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "芳賀柊斗",
-            "group": "Lienel",
-            "status": "active"
-          },
-          {
-            "name": "近藤駿太",
-            "group": "Lienel",
-            "status": "active"
-          },
-          {
-            "name": "高岡ミロ",
-            "group": "Lienel",
-            "status": "active"
-          },
-          {
-            "name": "森田璃空",
-            "group": "Lienel",
-            "status": "active"
-          },
-          {
-            "name": "武田創世",
-            "group": "Lienel",
-            "status": "active"
-          },
-          {
-            "name": "高桑真之",
-            "group": "Lienel",
-            "status": "active"
-          }
-        ]
+        "statuses": [],
+        "memberMatches": []
       },
       {
         "id": "9aa1a5556bfafb6b",
@@ -397,6 +338,86 @@
           {
             "name": "近藤駿太",
             "group": "Lienel",
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "超特急": [
+      {
+        "id": "8e83e4607a6ed7a9",
+        "title": "超特急、約10万人動員のアリーナツアーに密着した映画がFOD独占配信 メンバーの葛藤や成長も",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20261025-5191589/",
+        "publishedAt": "2026-10-25T05:13:43.000Z",
+        "summary": "メインダンサー＆バックボーカルグループ・超特急のライブ＆ドキュメンタリー映画『超特急 The Movie RE:VE』が、フジテレビの動画配信サービス・FODで11月1日0時から独占配信される。",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "6865cd3cb597efa2",
+        "title": "危うく強い鈴木伸之に柏木悠が宿す意思とは、映画『羊の皮を着たケモノ』緊張感漂う場面写真解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/10/93934/",
+        "publishedAt": "2026-10-23T03:00:00.000Z",
+        "summary": "鈴木伸之と柏木悠（超特急）がW主演を務め、12月11日(金)に公開される映画『羊の皮を着たケモノ』の場面写真5点が解禁された。 本作は、九號（きゅうごう）による同名BL漫画を実写化した、骨太で新感覚のボーイズ・ラブ。原作は「BLアワード2022 ディープ部門」で第13位、「BLアワード2024 ディープ部門」で第3位を獲得した人気作で、物語は前半の明るく甘い",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "ab6a92dadbc653fa",
+        "title": "鈴木伸之×柏木悠W主演『羊の皮を着たケモノ』12月11日劇場公開、ミステリアスなポスター解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/10/93399/",
+        "publishedAt": "2026-10-12T09:00:00.000Z",
+        "summary": "鈴木伸之と柏木悠（超特急）がW主演を務める映画『羊の皮を着たケモノ』が12月11日(金)に公開されることが決定し、ポスタービジュアルが解禁された。 本作は、九號（きゅうごう）による同名BL漫画（徳間書店 Charaコミックス刊）を実写化した、骨太で新感覚のボーイズ・ラブ。原作は「BLアワード2022 ディープ部門」で第13位、「BLアワード2024 ディープ",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "b33204e5b8b18e79",
+        "title": "超特急「エトランス・フィーバー」配信開始、“誰もが主役になれる”と前向きなメッセージを込める",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/10/93396/",
+        "publishedAt": "2026-10-11T15:00:00.000Z",
+        "summary": "9人組メインダンサー＆バックボーカルグループ・超特急が、12月16日(水)に発売する24枚目シングルの表題曲「エトランス・フィーバー」の先行配信をスタートさせた。 11月に待望の東京ドーム2Days公演を控える超特急の新曲「エトランス・フィーバー」は、干支をモチーフにしたユーロビート調の新たなトンチキソング。疾走感あふれるビートに乗せて「生まれ持ったキャラク",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "6a1d840f53f5771f",
+        "title": "高橋大輔×草川拓弥が演劇舞台初挑戦でW主演、固く結ばれたバディ演じる『ウルフムーン』上演決定",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/10/92796/",
+        "publishedAt": "2026-10-02T03:00:00.000Z",
+        "summary": "高橋大輔と草川拓弥がダブル主演を務める舞台『ウルフムーン』ー狼月に昇るーが2027年1月より東京と大阪で上演されることが決定した。 本作で演出を担うのは、数々の舞台に出演し俳優として培った現場感覚を生かしながら、演出家としても実績を重ねる福士誠治。脚本は、映画『かぐや姫の物語』やミュージカル『梨泰院クラス』『四月は君の嘘』、映画『てっぺんの向こうにあなたがい",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "タクヤ",
+            "group": "超特急",
             "status": "active"
           }
         ]
@@ -471,86 +492,6 @@
         "groups": [
           "EBiDAN",
           "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "超特急": [
-      {
-        "id": "6865cd3cb597efa2",
-        "title": "危うく強い鈴木伸之に柏木悠が宿す意思とは、映画『羊の皮を着たケモノ』緊張感漂う場面写真解禁",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/10/93934/",
-        "publishedAt": "2026-10-23T03:00:00.000Z",
-        "summary": "鈴木伸之と柏木悠（超特急）がW主演を務め、12月11日(金)に公開される映画『羊の皮を着たケモノ』の場面写真5点が解禁された。 本作は、九號（きゅうごう）による同名BL漫画を実写化した、骨太で新感覚のボーイズ・ラブ。原作は「BLアワード2022 ディープ部門」で第13位、「BLアワード2024 ディープ部門」で第3位を獲得した人気作で、物語は前半の明るく甘い",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "ab6a92dadbc653fa",
-        "title": "鈴木伸之×柏木悠W主演『羊の皮を着たケモノ』12月11日劇場公開、ミステリアスなポスター解禁",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/10/93399/",
-        "publishedAt": "2026-10-12T09:00:00.000Z",
-        "summary": "鈴木伸之と柏木悠（超特急）がW主演を務める映画『羊の皮を着たケモノ』が12月11日(金)に公開されることが決定し、ポスタービジュアルが解禁された。 本作は、九號（きゅうごう）による同名BL漫画（徳間書店 Charaコミックス刊）を実写化した、骨太で新感覚のボーイズ・ラブ。原作は「BLアワード2022 ディープ部門」で第13位、「BLアワード2024 ディープ",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "b33204e5b8b18e79",
-        "title": "超特急「エトランス・フィーバー」配信開始、“誰もが主役になれる”と前向きなメッセージを込める",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/10/93396/",
-        "publishedAt": "2026-10-11T15:00:00.000Z",
-        "summary": "9人組メインダンサー＆バックボーカルグループ・超特急が、12月16日(水)に発売する24枚目シングルの表題曲「エトランス・フィーバー」の先行配信をスタートさせた。 11月に待望の東京ドーム2Days公演を控える超特急の新曲「エトランス・フィーバー」は、干支をモチーフにしたユーロビート調の新たなトンチキソング。疾走感あふれるビートに乗せて「生まれ持ったキャラク",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "6a1d840f53f5771f",
-        "title": "高橋大輔×草川拓弥が演劇舞台初挑戦でW主演、固く結ばれたバディ演じる『ウルフムーン』上演決定",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/10/92796/",
-        "publishedAt": "2026-10-02T03:00:00.000Z",
-        "summary": "高橋大輔と草川拓弥がダブル主演を務める舞台『ウルフムーン』ー狼月に昇るーが2027年1月より東京と大阪で上演されることが決定した。 本作で演出を担うのは、数々の舞台に出演し俳優として培った現場感覚を生かしながら、演出家としても実績を重ねる福士誠治。脚本は、映画『かぐや姫の物語』やミュージカル『梨泰院クラス』『四月は君の嘘』、映画『てっぺんの向こうにあなたがい",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "タクヤ",
-            "group": "超特急",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "471946451d042b7e",
-        "title": "超特急の新曲テーマは“ユーロビート×干支”、24thシングル『エトランス・フィーバー』12月発売",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/09/92770/",
-        "publishedAt": "2026-09-30T10:00:00.000Z",
-        "summary": "9人組メインダンサー＆バックボーカルグループ・超特急が、24枚目のシングル『エトランス・フィーバー』を12月16日(水)にリリース。表題曲「エトランス・フィーバー」を10月12日(月)0時より先行配信することが発表された。 11月に待望の東京ドーム2Days公演を控える超特急の次作は、ユーロビート×干支という意外な組み合わせから生まれた新たなトンチキソング。",
-        "groups": [
-          "超特急"
         ],
         "statuses": [],
         "memberMatches": []
