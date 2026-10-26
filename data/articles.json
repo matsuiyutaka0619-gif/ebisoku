@@ -1,19 +1,41 @@
 {
-  "updatedAt": "2026-10-26T13:01:19.180Z",
+  "updatedAt": "2026-10-26T22:39:29.953Z",
   "articles": [
     {
-      "id": "d02d3f404c3241a8",
-      "title": "M!LK、新曲『ザッツ！超常』配信リリース レトロな警察官をモチーフにしたジャケ写も解禁",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1088397/",
-      "publishedAt": "2026-10-26T12:00:19.000Z",
-      "summary": "5人組ダンスボーカルグループ・M!LKが、新曲『ザッツ！超常』を26日に配信リリースし、ダンスパフォーマンスムービーを公開したことを同日、発表した。ダンスパフォーマンスムービーを公開 5人組ダンスボーカルグループ・M! […]",
+      "id": "ba94096ba4be2a74",
+      "title": "M!LK5人が本気で恥をかく新感覚バラエティ『ザッツ M!LK』スタート！「洗濯って糸くずフィルターまで掃除しなきゃいけないの？」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000906662/",
+      "publishedAt": "2026-10-26T22:00:30.000Z",
+      "summary": "M!LKの日テレ冠番組『ザッツ M!LK』が、10月27日23時59分より放送される。 ■「任せてください...",
       "groups": [
         "M!LK"
       ],
       "statuses": [],
       "memberMatches": []
+    },
+    {
+      "id": "cb3c09e2eab9a503",
+      "title": "M!LK曽野舜太、子どもの登園準備で大パニック「ちょっと静かにしてよ!」 次々押し寄せる家事に悲鳴",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261027-5199416/",
+      "publishedAt": "2026-10-26T22:00:00.000Z",
+      "summary": "「ちょっと静かにしてよ!」――M!LKの曽野舜太が、きょう27日に放送される日本テレビ系バラエティ特番『ザッツ M!LK』(23:59～)で、朝からぐずる子どもの登園準備に挑戦。水筒の準備や髪の毛のセット、おもちゃの片付けなど、次々と押し寄せる“名もなき家事”に大パニックとなる。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "曽野舜太",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
     },
     {
       "id": "b049467a57ce263d",
@@ -131,43 +153,6 @@
       "memberMatches": [
         {
           "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "551eca67bfbebd27",
-      "title": "M!LK塩﨑太智が吉田仁人に“頬つん”、佐野勇斗をじっと見つめる山中柔太朗も！“全10ペア”の撮影裏側に「塩レモンかわいすぎで胸が苦しい」「YJ美人すぎない？」「すべての組み合わせが神」の声",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000906391/",
-      "publishedAt": "2026-10-26T05:22:56.000Z",
-      "summary": "『MAQUIA』の公式Instagramが更新され、M!LKが表紙を飾る12月号増刊の撮影ビハインド動画が公...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "塩﨑太智",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "山中柔太朗",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "吉田仁人",
           "group": "M!LK",
           "status": "active"
         }
@@ -379,28 +364,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "67155377fccb1e03",
-      "title": "日曜トライアル 第47回 ONE N' ONLY高尾颯斗のギャップに胸を打たれた。",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/sunday_trial-47/",
-      "publishedAt": "2026-10-18T10:10:00.000Z",
-      "summary": "マイナビニュース・エンタメチャンネルの新たな定番記事を目指すお試し企画「日曜トライアル」。今回は、編集部の野瀬が取材をして特に気になった人をピックアップする連載企画【帰り道に検索しました】の第3回をお送りする。",
-      "groups": [
-        "ONE N' ONLY"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "HAYATO",
-          "group": "ONE N' ONLY",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "a0d481e3c867cb75",
