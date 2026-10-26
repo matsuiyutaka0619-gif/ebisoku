@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-26T04:45:56.139Z",
+  "updatedAt": "2026-10-26T13:01:19.183Z",
   "totals": {
-    "all": 122,
-    "today": 5,
-    "week": 17
+    "all": 125,
+    "today": 9,
+    "week": 18
   },
   "groupRanking": [
     {
-      "name": "SUPER★DRAGON",
-      "count": 5
+      "name": "M!LK",
+      "count": 7
     },
     {
-      "name": "M!LK",
+      "name": "SUPER★DRAGON",
       "count": 4
     },
     {
@@ -20,11 +20,11 @@
     },
     {
       "name": "EBiDAN",
-      "count": 3
+      "count": 2
     },
     {
       "name": "Lienel",
-      "count": 2
+      "count": 1
     },
     {
       "name": "ONE N' ONLY",
@@ -34,14 +34,26 @@
   "memberRanking": [
     {
       "name": "吉田仁人",
-      "count": 2
-    },
-    {
-      "name": "近藤駿太",
-      "count": 2
+      "count": 3
     },
     {
       "name": "アロハ",
+      "count": 2
+    },
+    {
+      "name": "塩﨑太智",
+      "count": 2
+    },
+    {
+      "name": "佐野勇斗",
+      "count": 2
+    },
+    {
+      "name": "NAOYA",
+      "count": 1
+    },
+    {
+      "name": "近藤駿太",
       "count": 1
     },
     {
@@ -56,19 +68,23 @@
   "sourceRanking": [
     {
       "name": "SUPER★DRAGON 公式NEWS",
-      "count": 5
+      "count": 4
+    },
+    {
+      "name": "Bezzy",
+      "count": 3
     },
     {
       "name": "THE FIRST TIMES",
       "count": 3
     },
     {
-      "name": "Bezzy",
+      "name": "BARKS",
       "count": 2
     },
     {
-      "name": "マイナビニュース 芸能",
-      "count": 2
+      "name": "ENCOUNT",
+      "count": 1
     },
     {
       "name": "QJWeb",
@@ -87,7 +103,7 @@
       "count": 1
     },
     {
-      "name": "リアルサウンド 音楽",
+      "name": "マイナビニュース 芸能",
       "count": 1
     }
   ],
@@ -95,13 +111,13 @@
   "recentByGroup": {
     "M!LK": [
       {
-        "id": "a1d4b2c08d28b983",
-        "title": "M!LKが“ブルー×ゴールド”の新衣装を披露！さりげなくメンカラも光る装いに「え、王子様きた」「かっこよすぎる」「同じ色で揃えた衣装も素敵」「塩レが双子すぎる」と反響",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000906266/",
-        "publishedAt": "2026-10-26T03:21:32.000Z",
-        "summary": "M!LKの公式SNSが更新され、新曲「ザッツ！超常」の配信開始とともに、新衣装をまとったメンバ...",
+        "id": "d02d3f404c3241a8",
+        "title": "M!LK、新曲『ザッツ！超常』配信リリース レトロな警察官をモチーフにしたジャケ写も解禁",
+        "sourceName": "ENCOUNT",
+        "sourceUrl": "https://encount.press/feed/",
+        "articleUrl": "https://encount.press/archives/1088397/",
+        "publishedAt": "2026-10-26T12:00:19.000Z",
+        "summary": "5人組ダンスボーカルグループ・M!LKが、新曲『ザッツ！超常』を26日に配信リリースし、ダンスパフォーマンスムービーを公開したことを同日、発表した。ダンスパフォーマンスムービーを公開 5人組ダンスボーカルグループ・M! […]",
         "groups": [
           "M!LK"
         ],
@@ -109,13 +125,27 @@
         "memberMatches": []
       },
       {
-        "id": "e3d3f2ce86392dd4",
-        "title": "鈴木亜美が上白石萌音主演ドラマ『いろはの恋は時代をかける』に出演が決定！不登校児童の母親役を熱演",
+        "id": "b049467a57ce263d",
+        "title": "M!LK「ザッツ！超常」本日配信リリース！ダンスパフォーマンスムービーを公開",
         "sourceName": "THE FIRST TIMES",
         "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000905996/",
-        "publishedAt": "2026-10-25T21:00:24.000Z",
-        "summary": "上白石萌音が主演を務め、Snow Manの向井康二、山中柔太朗、Mrs. GREEN APPLEの大森元貴らが出...",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000906448/",
+        "publishedAt": "2026-10-26T12:00:01.000Z",
+        "summary": "M!LKが、10月26日に「ザッツ！超常」を配信リリース。ダンスパフォーマンスムービーも公開され...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "1a778619f561da7c",
+        "title": "M!LK、新曲「ザッツ！超常」配信リリース＆ダンスパフォーマンスムービー公開",
+        "sourceName": "BARKS",
+        "sourceUrl": "https://www.barks.jp/feed/",
+        "articleUrl": "https://barks.jp/news/1100663",
+        "publishedAt": "2026-10-26T12:00:00.000Z",
+        "summary": "M!LKが新曲「ザッツ！超常」を本日10月26日に配信リリースした。 「ザッツ！超常」は、あなたとならなんでもできる！と歌うハッピーなディスコチューン。「一人ではできないこともあなたとなら乗り越えられる」というポジティブなメッセージ、デコボコな二人だからこそ生まれる化学反応、何気ない毎日の中で気がつく小さな幸せが歌われている。本作は、TVアニメ『超巡！超条先",
         "groups": [
           "M!LK"
         ],
@@ -124,27 +154,10 @@
         ],
         "memberMatches": [
           {
-            "name": "山中柔太朗",
+            "name": "塩﨑太智",
             "group": "M!LK",
             "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "215d0a2b3a7cf860",
-        "title": "日曜トライアル 第48回 なぜM!LK吉田仁人とは、カメラ越しによく目が合うのか?",
-        "sourceName": "マイナビニュース 芸能",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-        "articleUrl": "https://news.mynavi.jp/article/sunday_trial-48/",
-        "publishedAt": "2026-10-25T10:00:00.000Z",
-        "summary": "取材中、なぜか何度も目が合う。正確には、カメラ越しに目が合うような感覚になる。その相手は、5人組ダンスボーカルグループ・M!LKのリーダー吉田仁人だ。吉田は、TOKYO MXのドラマ『溺愛 ～ 実は、最強ヒーロー ～』(毎週金曜23:00～)で連続ドラマ初主演を務める。先日、同作の会見を取材した際、彼のある振る舞いが印象に残った。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
+          },
           {
             "name": "吉田仁人",
             "group": "M!LK",
@@ -153,43 +166,111 @@
         ]
       },
       {
-        "id": "3dc3493d823a1b65",
-        "title": "吉田仁人（M!LK）主演の新金曜ドラマ「溺愛 ～ 実は、最強ヒーロー ～」、「物語の始まり」描いた60秒PR映像＆人物相関図公開",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/10/19/tg004",
-        "publishedAt": "2026-10-19T10:00:00.000Z",
-        "summary": "",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "a36f33b2e680d504",
-        "title": "M!LK新曲「ザッツ！超常」10月26日配信、あなたとならなんでもできる！と歌うディスコチューン",
+        "id": "47bc53c4119d9087",
+        "title": "M!LKが多彩な背景で踊る「ザッツ！超常」ダンスパフォーマンス映像公開、衣装のモチーフは警察官",
         "sourceName": "Bezzy",
         "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/10/92949/",
-        "publishedAt": "2026-10-06T10:00:00.000Z",
-        "summary": "5人組ダンスボーカルグループ・M!LKの新曲「ザッツ！超常」が10月26日(月)0時に配信リリースされることが決定した。 あなたとならなんでもできる！と歌う「ザッツ！超常」は、“一人ではできないこともあなたとなら乗り越えられる”というポジティブなメッセージ、デコボコな二人に生まれる化学反応、何気ない毎日の中で気がつく小さな幸せを描くハッピーなディスコチューン",
+        "articleUrl": "https://bezzy.jp/2026/10/94129/",
+        "publishedAt": "2026-10-26T12:00:00.000Z",
+        "summary": "5人組ダンスボーカルグループ・M!LKが、本日10月26日(月)に配信リリースした新曲「ザッツ！超常」のダンスパフォーマンスムービーを公開した。 TVアニメ『超巡！超条先輩』のオープニングテーマに起用中の「ザッツ！超常」は、“あなたとならなんでもできる！”と歌うハッピーなディスコチューン。「一人ではできないこともあなたとなら乗り越えられる」というポジティブな",
         "groups": [
           "M!LK"
         ],
         "statuses": [],
         "memberMatches": []
+      },
+      {
+        "id": "a2644eafaf004bba",
+        "title": "佐野勇斗の“黒髪×前髪あり”に「どストライク」「ドカメロすぎる」と大反響！M!LK5人がお揃いTシャツで寄り添うオフショットに「素敵な家族写真」「みんなカッコ良すぎる」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000906470/",
+        "publishedAt": "2026-10-26T06:30:46.000Z",
+        "summary": "M!LKの公式Xが更新され、アリーナツアー『M!LK ARENA TOUR 2026-2027「シャカリキレボリューシ...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "ONE N' ONLY": [
+      {
+        "id": "189cf6492d18e90b",
+        "title": "ONE N’ ONLY、NAOYAがW主演を務めるドラマ『青と碧』本編映像を用いた「CRUSH ON YOU」ドラマPV公開",
+        "sourceName": "BARKS",
+        "sourceUrl": "https://www.barks.jp/feed/",
+        "articleUrl": "https://barks.jp/news/1100744",
+        "publishedAt": "2026-10-26T11:00:12.000Z",
+        "summary": "「CRUSH ON YOU」は12月2日(水)発売のメジャー2ndアルバム『MEGA GOLDEN』にも収録される楽曲で、ドラマ『青と碧』のオープニング主題歌。アルバム発売に先駆け10月7日(水)より先行配信も行なわれている。 本楽曲は、スタイリッシュでクールなサウンドの中に、一瞬「バチッ」と火花が散るような情熱が見え隠れする、ちょっと大人なラブソング。恋心",
+        "groups": [
+          "ONE N' ONLY"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "NAOYA",
+            "group": "ONE N' ONLY",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "67155377fccb1e03",
+        "title": "日曜トライアル 第47回 ONE N' ONLY高尾颯斗のギャップに胸を打たれた。",
+        "sourceName": "マイナビニュース 芸能",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
+        "articleUrl": "https://news.mynavi.jp/article/sunday_trial-47/",
+        "publishedAt": "2026-10-18T10:10:00.000Z",
+        "summary": "マイナビニュース・エンタメチャンネルの新たな定番記事を目指すお試し企画「日曜トライアル」。今回は、編集部の野瀬が取材をして特に気になった人をピックアップする連載企画【帰り道に検索しました】の第3回をお送りする。",
+        "groups": [
+          "ONE N' ONLY"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "HAYATO",
+            "group": "ONE N' ONLY",
+            "status": "active"
+          }
+        ]
       }
     ],
     "超特急": [
+      {
+        "id": "2d96e30155d15fa3",
+        "title": "髙松アロハ（超特急）が登場。「ALOHA TAKAMATSU NYLON SUPER VOL.19」表紙公開",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/10/26/tgb011",
+        "publishedAt": "2026-10-26T10:20:00.000Z",
+        "summary": "",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "アロハ",
+            "group": "超特急",
+            "status": "active"
+          }
+        ]
+      },
       {
         "id": "c9f5c5a6ee0ff870",
         "title": "本日26歳誕生日、超特急・髙松アロハが挑発的なスタイルで魅せる『ワンダンス』場面写真3点解禁",
@@ -211,20 +292,6 @@
             "status": "active"
           }
         ]
-      },
-      {
-        "id": "4067def2cef2afd5",
-        "title": "稲垣吾郎、後輩グループとの対話に表れる“目線”と“隙” ROIROM、BE:FIRST、Number_i、超特急……ファンの心と繋がる瞬間",
-        "sourceName": "リアルサウンド 音楽",
-        "sourceUrl": "https://realsound.jp/music/feed",
-        "articleUrl": "https://realsound.jp/2026/10/post-2563708.html",
-        "publishedAt": "2026-10-25T20:50:37.000Z",
-        "summary": "稲垣吾郎の後輩グループとの対話に表れる“目線”と“隙”について紹介する。",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
       },
       {
         "id": "8e83e4607a6ed7a9",
@@ -267,44 +334,6 @@
         ],
         "statuses": [],
         "memberMatches": []
-      }
-    ],
-    "ONE N' ONLY": [
-      {
-        "id": "66cd392f626202a7",
-        "title": "ONE N' ONLYの素顔が\"ことば\"から見えた！『コトダマン』新WEB CM公開",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000905854/",
-        "publishedAt": "2026-10-25T23:00:40.000Z",
-        "summary": "5人組ダンス＆ボーカルグループ・ONE N’ ONLYが起用されたスマホアプリ『共闘ことばRPG ...",
-        "groups": [
-          "ONE N' ONLY"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "67155377fccb1e03",
-        "title": "日曜トライアル 第47回 ONE N' ONLY高尾颯斗のギャップに胸を打たれた。",
-        "sourceName": "マイナビニュース 芸能",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-        "articleUrl": "https://news.mynavi.jp/article/sunday_trial-47/",
-        "publishedAt": "2026-10-18T10:10:00.000Z",
-        "summary": "マイナビニュース・エンタメチャンネルの新たな定番記事を目指すお試し企画「日曜トライアル」。今回は、編集部の野瀬が取材をして特に気になった人をピックアップする連載企画【帰り道に検索しました】の第3回をお送りする。",
-        "groups": [
-          "ONE N' ONLY"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "HAYATO",
-            "group": "ONE N' ONLY",
-            "status": "active"
-          }
-        ]
       }
     ],
     "EBiDAN": [
