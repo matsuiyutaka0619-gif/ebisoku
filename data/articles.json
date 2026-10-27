@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-26T22:39:29.953Z",
+  "updatedAt": "2026-10-27T05:03:28.339Z",
   "articles": [
+    {
+      "id": "46707edec3c0a943",
+      "title": "M!LKが“王子様風”新衣装で新曲ダンスを披露！「仁人くんダンスイケてる」「はやちゃん口開けててかわいい」「新鮮な感じでめっちゃ好き」「中毒性ある」と絶賛集まる",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000906996/",
+      "publishedAt": "2026-10-27T04:08:49.000Z",
+      "summary": "M!LKの公式SNSが更新され、新曲「ザッツ！超常」のダンス動画が公開された。 ■M!LKが華やかな...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "ba94096ba4be2a74",
       "title": "M!LK5人が本気で恥をかく新感覚バラエティ『ザッツ M!LK』スタート！「洗濯って糸くずフィルターまで掃除しなきゃいけないの？」",
@@ -52,33 +66,6 @@
       "memberMatches": []
     },
     {
-      "id": "1a778619f561da7c",
-      "title": "M!LK、新曲「ザッツ！超常」配信リリース＆ダンスパフォーマンスムービー公開",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1100663",
-      "publishedAt": "2026-10-26T12:00:00.000Z",
-      "summary": "M!LKが新曲「ザッツ！超常」を本日10月26日に配信リリースした。 「ザッツ！超常」は、あなたとならなんでもできる！と歌うハッピーなディスコチューン。「一人ではできないこともあなたとなら乗り越えられる」というポジティブなメッセージ、デコボコな二人だからこそ生まれる化学反応、何気ない毎日の中で気がつく小さな幸せが歌われている。本作は、TVアニメ『超巡！超条先",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "塩﨑太智",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "47bc53c4119d9087",
       "title": "M!LKが多彩な背景で踊る「ザッツ！超常」ダンスパフォーマンス映像公開、衣装のモチーフは警察官",
       "sourceName": "Bezzy",
@@ -91,28 +78,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "189cf6492d18e90b",
-      "title": "ONE N’ ONLY、NAOYAがW主演を務めるドラマ『青と碧』本編映像を用いた「CRUSH ON YOU」ドラマPV公開",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1100744",
-      "publishedAt": "2026-10-26T11:00:12.000Z",
-      "summary": "「CRUSH ON YOU」は12月2日(水)発売のメジャー2ndアルバム『MEGA GOLDEN』にも収録される楽曲で、ドラマ『青と碧』のオープニング主題歌。アルバム発売に先駆け10月7日(水)より先行配信も行なわれている。 本楽曲は、スタイリッシュでクールなサウンドの中に、一瞬「バチッ」と火花が散るような情熱が見え隠れする、ちょっと大人なラブソング。恋心",
-      "groups": [
-        "ONE N' ONLY"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "NAOYA",
-          "group": "ONE N' ONLY",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "2d96e30155d15fa3",
@@ -132,28 +97,6 @@
         {
           "name": "アロハ",
           "group": "超特急",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "a2644eafaf004bba",
-      "title": "佐野勇斗の“黒髪×前髪あり”に「どストライク」「ドカメロすぎる」と大反響！M!LK5人がお揃いTシャツで寄り添うオフショットに「素敵な家族写真」「みんなカッコ良すぎる」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000906470/",
-      "publishedAt": "2026-10-26T06:30:46.000Z",
-      "summary": "M!LKの公式Xが更新され、アリーナツアー『M!LK ARENA TOUR 2026-2027「シャカリキレボリューシ...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
           "status": "active"
         }
       ]
