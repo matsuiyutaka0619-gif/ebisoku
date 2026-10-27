@@ -1,6 +1,29 @@
 {
-  "updatedAt": "2026-10-27T18:00:27.767Z",
+  "updatedAt": "2026-10-27T22:13:41.953Z",
   "articles": [
+    {
+      "id": "0f3ff6ae9593b40c",
+      "title": "新着MVランキング：Jugyonel「Love Me Madly」、吉田仁人ら6人が魅せた完成度 “愛されシャッフル”を制した表現力",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/10/post-2564180.html",
+      "publishedAt": "2026-10-27T20:50:45.000Z",
+      "summary": "毎週更新される「YouTube Music Charts」ウィークリー ミュージック ビデオ ランキングより、MVをはじめとした音楽関連の新着動画から上位10作品／楽曲を取り上げ、ランキング化＆レビューしていく連載「MV Chart Focus」。今週は『EBiDAN THE LIVE 2026』よりJugyonel「Love Me Madly」を取り上げる",
+      "groups": [
+        "EBiDAN",
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "1e238a7d68645b15",
       "title": "M!LK冠番組『ザッツ M!LK』お正月特番放送決定！「ヒリヒリしながら挑んでいます」（吉田仁人）",
@@ -177,8 +200,8 @@
     {
       "id": "cb3c09e2eab9a503",
       "title": "M!LK曽野舜太、子どもの登園準備で大パニック「ちょっと静かにしてよ!」 次々押し寄せる家事に悲鳴",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
       "articleUrl": "https://news.mynavi.jp/article/20261027-5199416/",
       "publishedAt": "2026-10-26T22:00:00.000Z",
       "summary": "「ちょっと静かにしてよ!」――M!LKの曽野舜太が、きょう27日に放送される日本テレビ系バラエティ特番『ザッツ M!LK』(23:59～)で、朝からぐずる子どもの登園準備に挑戦。水筒の準備や髪の毛のセット、おもちゃの片付けなど、次々と押し寄せる“名もなき家事”に大パニックとなる。",
