@@ -1,22 +1,18 @@
 {
-  "updatedAt": "2026-10-28T05:41:07.803Z",
+  "updatedAt": "2026-10-28T12:54:23.413Z",
   "totals": {
-    "all": 124,
+    "all": 13,
     "today": 3,
-    "week": 19
+    "week": 11
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 8
-    },
-    {
-      "name": "SUPER★DRAGON",
-      "count": 5
+      "count": 6
     },
     {
       "name": "超特急",
-      "count": 5
+      "count": 3
     },
     {
       "name": "EBiDAN",
@@ -27,7 +23,7 @@
       "count": 1
     },
     {
-      "name": "原因は自分にある。",
+      "name": "SUPER★DRAGON",
       "count": 1
     }
   ],
@@ -38,7 +34,7 @@
     },
     {
       "name": "アロハ",
-      "count": 2
+      "count": 1
     },
     {
       "name": "近藤駿太",
@@ -59,43 +55,27 @@
     {
       "name": "武田創世",
       "count": 1
-    },
-    {
-      "name": "杢代和人",
-      "count": 1
     }
   ],
   "sourceRanking": [
     {
-      "name": "SUPER★DRAGON 公式NEWS",
+      "name": "マイナビニュース テレビ",
       "count": 4
-    },
-    {
-      "name": "マイナビニュース エンタメ",
-      "count": 4
-    },
-    {
-      "name": "Bezzy",
-      "count": 3
     },
     {
       "name": "タワーレコード ニュース",
-      "count": 2
-    },
-    {
-      "name": "マイナビニュース テレビ",
-      "count": 2
-    },
-    {
-      "name": "BARKS",
-      "count": 1
-    },
-    {
-      "name": "Edge Line",
-      "count": 1
+      "count": 3
     },
     {
       "name": "QJWeb",
+      "count": 1
+    },
+    {
+      "name": "THE FIRST TIMES",
+      "count": 1
+    },
+    {
+      "name": "マイナビニュース 映画",
       "count": 1
     },
     {
@@ -105,26 +85,79 @@
   ],
   "topics": [],
   "recentByGroup": {
-    "M!LK": [
+    "EBiDAN": [
       {
-        "id": "9ed35645908f2e05",
-        "title": "新製品「午後の紅茶 TEA LATTE with ESPRESSO / CREAM & MILK」2日で月間販売計画達成！キャンペーンも「多数応募」",
-        "sourceName": "Edge Line",
-        "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-        "articleUrl": "https://www.edgeline-tokyo.com/food/207872",
-        "publishedAt": "2026-10-28T03:39:50.000Z",
-        "summary": "アイドルグループ『Snow Man』“めめ”目黒蓮、中条あやみもCM出演しているキリンビバレッジ株式会社『午後の紅茶 TEA LATTE with ESPRESSO / CREAM & MILK』。10月6日...",
+        "id": "4274abc738adf324",
+        "title": "EBiDAN史上最大規模！のべ5万人が熱狂した『EBiDAN THE LIVE 2026 15th Anniversary』Blu-ray発売決定",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000907934/",
+        "publishedAt": "2026-10-28T07:00:54.000Z",
+        "summary": "『EBiDAN THE LIVE 2026 15th Anniversary』のBlu-rayが、2027年2月10日に発売されることが決...",
         "groups": [
-          "M!LK"
+          "EBiDAN"
         ],
         "statuses": [],
         "memberMatches": []
       },
       {
+        "id": "a2df472cbfa3fed5",
+        "title": "「純粋に…」「“お兄ちゃん”として…」M!LK吉田仁人、10年以上の付き合いがあるEBiDAN後輩に見せた新たな一面 スパドラ池田彪馬「すごくうれしかった」",
+        "sourceName": "マイナビニュース テレビ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
+        "articleUrl": "https://news.mynavi.jp/article/20261027-5192623/",
+        "publishedAt": "2026-10-27T10:00:00.000Z",
+        "summary": "M!LKの吉田仁人が、TOKYO MXのドラマ『溺愛 ～ 実は、最強ヒーロー ～』(毎週金曜23:00～)の制作発表会見に出席。SUPER★DRAGONの池田彪馬と撮影現場で将来について語り合ったことを明かし、「めっちゃ真面目じゃん」と意外な一面に驚いたことを振り返った。",
+        "groups": [
+          "EBiDAN",
+          "M!LK",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "池田彪馬",
+            "group": "SUPER★DRAGON",
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "M!LK": [
+      {
+        "id": "5bde5db93561e229",
+        "title": "浜辺美波＆山中柔太朗（M!LK）、「東京カレンダー2027年1月号」通常版／特別増刊表紙をそれぞれ飾る",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/10/28/tgb002",
+        "publishedAt": "2026-10-28T06:00:00.000Z",
+        "summary": "",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
         "id": "9799a371ebf51a13",
         "title": "吉田仁人「うれしすぎます!」 冠番組『ザッツ M!LK』正月に第2弾放送決定",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "sourceName": "マイナビニュース テレビ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
         "articleUrl": "https://news.mynavi.jp/article/20261028-5205419/",
         "publishedAt": "2026-10-27T15:54:00.000Z",
         "summary": "「まさかのもう第2弾が…! うれしすぎます!」――M!LKのリーダー・吉田仁人が喜びを語ったのは、2027年1月3日に日本テレビで放送される冠バラエティ番組『ザッツ M!LK』の正月特番。日本国民の代わりに本気で“恥”をかく5人が、新春から新たな企画に挑戦する。",
@@ -159,8 +192,8 @@
       {
         "id": "a2df472cbfa3fed5",
         "title": "「純粋に…」「“お兄ちゃん”として…」M!LK吉田仁人、10年以上の付き合いがあるEBiDAN後輩に見せた新たな一面 スパドラ池田彪馬「すごくうれしかった」",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "sourceName": "マイナビニュース テレビ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
         "articleUrl": "https://news.mynavi.jp/article/20261027-5192623/",
         "publishedAt": "2026-10-27T10:00:00.000Z",
         "summary": "M!LKの吉田仁人が、TOKYO MXのドラマ『溺愛 ～ 実は、最強ヒーロー ～』(毎週金曜23:00～)の制作発表会見に出席。SUPER★DRAGONの池田彪馬と撮影現場で将来について語り合ったことを明かし、「めっちゃ真面目じゃん」と意外な一面に驚いたことを振り返った。",
@@ -186,13 +219,13 @@
         ]
       },
       {
-        "id": "ad93bf6be14a657d",
-        "title": "M!LK山中柔太朗、元サッカー日本代表の技術を目の当たりに「マジ感動してた」「当たり前ですけど、バケモノです」",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20261027-5202707/",
-        "publishedAt": "2026-10-27T09:35:00.000Z",
-        "summary": "M!LKの山中柔太朗が、YouTubeチャンネル『劇場版 じゅうたろう』で公開された動画「劇場版 よういちろう」に出演。ゲストに元サッカー日本代表の柿谷曜一朗氏を迎え、さまざまなスポーツで対決した。",
+        "id": "cb3c09e2eab9a503",
+        "title": "M!LK曽野舜太、子どもの登園準備で大パニック「ちょっと静かにしてよ!」 次々押し寄せる家事に悲鳴",
+        "sourceName": "マイナビニュース テレビ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
+        "articleUrl": "https://news.mynavi.jp/article/20261027-5199416/",
+        "publishedAt": "2026-10-26T22:00:00.000Z",
+        "summary": "「ちょっと静かにしてよ!」――M!LKの曽野舜太が、きょう27日に放送される日本テレビ系バラエティ特番『ザッツ M!LK』(23:59～)で、朝からぐずる子どもの登園準備に挑戦。水筒の準備や髪の毛のセット、おもちゃの片付けなど、次々と押し寄せる“名もなき家事”に大パニックとなる。",
         "groups": [
           "M!LK"
         ],
@@ -201,32 +234,8 @@
         ],
         "memberMatches": [
           {
-            "name": "山中柔太朗",
+            "name": "曽野舜太",
             "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      }
-    ],
-    "原因は自分にある。": [
-      {
-        "id": "f3b4be42c9102129",
-        "title": "羊文学、新曲「Dispel」が2027年1月公開『映画 九条の大罪』主題歌に",
-        "sourceName": "BARKS",
-        "sourceUrl": "https://www.barks.jp/feed/",
-        "articleUrl": "https://barks.jp/news/1101056",
-        "publishedAt": "2026-10-28T03:00:36.000Z",
-        "summary": "羊文学の新曲「Dispel」が、2027年1月8日（金）に全国劇場公開される『映画 九条の大罪』の主題歌に決定した。さらに、本楽曲が12月16日(水)に各音楽配信サイトにて配信リリースされることも決定している。 2週連続でNetflixグローバル週間TOP10（非英語シリーズ）入りを果たしたNetflixシリーズ『九条の大罪』。ドラマシリーズの主題歌として書",
-        "groups": [
-          "原因は自分にある。"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "杢代和人",
-            "group": "原因は自分にある。",
             "status": "active"
           }
         ]
@@ -236,8 +245,8 @@
       {
         "id": "69da96bf9d421a41",
         "title": "「すごい好きだった」「毎日先生と…」超特急・柏木悠が学生に戻ってやりたいことを告白",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "sourceName": "マイナビニュース 映画",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
         "articleUrl": "https://news.mynavi.jp/article/20261027-5205202/",
         "publishedAt": "2026-10-27T12:00:00.000Z",
         "summary": "映画『羊の皮を着たケモノ』(12月11日公開)に出演する、鈴木伸之と柏木悠が26日、東京・日比谷で行われた「第39回東京国際映画祭」(TIFF)のレッドカーペットに、楊礼平監督とともに登場した。",
@@ -270,28 +279,6 @@
         ]
       },
       {
-        "id": "c9f5c5a6ee0ff870",
-        "title": "本日26歳誕生日、超特急・髙松アロハが挑発的なスタイルで魅せる『ワンダンス』場面写真3点解禁",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/10/94062/",
-        "publishedAt": "2026-10-26T03:00:00.000Z",
-        "summary": "11月27日(金)に公開されるJO（&TEAM）の初主演映画『ワンダンス』から超特急・髙松アロハ演じるウセンの場面写真3点が解禁された。 本作は、単行本の累計発行部数が130万部を突破した珈琲による同名漫画の実写化。自分の気持ちを抑えて生活するカボこと小谷花木〈こたに・かぼく〉が、人目を気にせずダンスに没頭するワンダこと湾田光莉〈わんだ・ひかり〉に惹かれ、一",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "アロハ",
-            "group": "超特急",
-            "status": "active"
-          }
-        ]
-      },
-      {
         "id": "8e83e4607a6ed7a9",
         "title": "超特急、約10万人動員のアリーナツアーに密着した映画がFOD独占配信 メンバーの葛藤や成長も",
         "sourceName": "マイナビニュース テレビ",
@@ -304,42 +291,14 @@
         ],
         "statuses": [],
         "memberMatches": []
-      },
-      {
-        "id": "6865cd3cb597efa2",
-        "title": "危うく強い鈴木伸之に柏木悠が宿す意思とは、映画『羊の皮を着たケモノ』緊張感漂う場面写真解禁",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/10/93934/",
-        "publishedAt": "2026-10-23T03:00:00.000Z",
-        "summary": "鈴木伸之と柏木悠（超特急）がW主演を務め、12月11日(金)に公開される映画『羊の皮を着たケモノ』の場面写真5点が解禁された。 本作は、九號（きゅうごう）による同名BL漫画を実写化した、骨太で新感覚のボーイズ・ラブ。原作は「BLアワード2022 ディープ部門」で第13位、「BLアワード2024 ディープ部門」で第3位を獲得した人気作で、物語は前半の明るく甘い",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
       }
     ],
     "SUPER★DRAGON": [
       {
-        "id": "f1b556b3f91929ee",
-        "title": "12/03(木)開催リリースイベント＠KT Zepp Yokohama（神奈川）参加方法・特典会内容についてのご案内",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11872/",
-        "publishedAt": "2026-10-27T11:00:05.000Z",
-        "summary": "12/03(木)KT Zepp Yokohamaにて開催するリリースイベントの詳細をご案内致します。 必ず最後まで全てお読み頂き、会場にいらした皆様がイベントを楽しめるよう、ファンの皆様同士でルールとマナーの厳守をお願い […] The post 12/03(木)開催リリースイベント＠KT Zepp Yokohama（神奈川）参加方法・特典会内容についてのご",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
         "id": "a2df472cbfa3fed5",
         "title": "「純粋に…」「“お兄ちゃん”として…」M!LK吉田仁人、10年以上の付き合いがあるEBiDAN後輩に見せた新たな一面 スパドラ池田彪馬「すごくうれしかった」",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "sourceName": "マイナビニュース テレビ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
         "articleUrl": "https://news.mynavi.jp/article/20261027-5192623/",
         "publishedAt": "2026-10-27T10:00:00.000Z",
         "summary": "M!LKの吉田仁人が、TOKYO MXのドラマ『溺愛 ～ 実は、最強ヒーロー ～』(毎週金曜23:00～)の制作発表会見に出席。SUPER★DRAGONの池田彪馬と撮影現場で将来について語り合ったことを明かし、「めっちゃ真面目じゃん」と意外な一面に驚いたことを振り返った。",
@@ -363,140 +322,6 @@
             "status": "active"
           }
         ]
-      },
-      {
-        "id": "2d9e4e423771c6b6",
-        "title": "EBiDAN オンラインくじ vol.2発売決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11856/",
-        "publishedAt": "2026-10-23T07:00:16.000Z",
-        "summary": "「EBiDAN museum 2026」の大盛況を記念し、10月26日(月)13:00より「EBiDAN オンラインくじ vol.2」の販売が決定しました！ グループ別のくじとなり、それぞれ全5等級のいずれかの景品が必ず […] The post EBiDAN オンラインくじ vol.2発売決定！ first appeared on SUPER★DRAGON",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "e72fb5dab31ac6ac",
-        "title": "SUPER★DRAGON 10月30日(金)配信リリースの新曲「本能」がTOKYO MX 新金曜ドラマ「溺愛 ～ 実は、最強ヒーロー ～」オープニングテーマに決定！「本能」の配信ジャケット写真も公開！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11862/",
-        "publishedAt": "2026-10-23T03:00:53.000Z",
-        "summary": "10月30日に「本能」を配信リリースすることが決定！ さらに同楽曲がTOKYO MX 新金曜ドラマ「溺愛 ～ 実は、最強ヒーロー ～」オープニングテーマに決定いたしました！ また「本能」の配信ジャケット写真も公開。 【配 […] The post SUPER★DRAGON 10月30日(金)配信リリースの新曲「本能」がTOKYO MX 新金曜ドラマ「溺愛 ～",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "13c5dcb712ec340f",
-        "title": "SUPER★DRAGON×セゾンカード初コラボ！推しと1対1で話せるオンライン・トーク会に100名様をご招待※10月22日更新",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11834/",
-        "publishedAt": "2026-10-22T01:00:50.000Z",
-        "summary": "「SUPER★DRAGON」と「SAISON CARD Digital」の初となるコラボレーションを実施いたします。 2026年10月22日（木）～11月30日（月）までの期間中、キャンペーンサイトから「SAISON C […] The post SUPER★DRAGON×セゾンカード初コラボ！推しと1対1で話せるオンライン・トーク会に100名様をご招待※1",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "EBiDAN": [
-      {
-        "id": "a2df472cbfa3fed5",
-        "title": "「純粋に…」「“お兄ちゃん”として…」M!LK吉田仁人、10年以上の付き合いがあるEBiDAN後輩に見せた新たな一面 スパドラ池田彪馬「すごくうれしかった」",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20261027-5192623/",
-        "publishedAt": "2026-10-27T10:00:00.000Z",
-        "summary": "M!LKの吉田仁人が、TOKYO MXのドラマ『溺愛 ～ 実は、最強ヒーロー ～』(毎週金曜23:00～)の制作発表会見に出席。SUPER★DRAGONの池田彪馬と撮影現場で将来について語り合ったことを明かし、「めっちゃ真面目じゃん」と意外な一面に驚いたことを振り返った。",
-        "groups": [
-          "EBiDAN",
-          "M!LK",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "池田彪馬",
-            "group": "SUPER★DRAGON",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "2d9e4e423771c6b6",
-        "title": "EBiDAN オンラインくじ vol.2発売決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11856/",
-        "publishedAt": "2026-10-23T07:00:16.000Z",
-        "summary": "「EBiDAN museum 2026」の大盛況を記念し、10月26日(月)13:00より「EBiDAN オンラインくじ vol.2」の販売が決定しました！ グループ別のくじとなり、それぞれ全5等級のいずれかの景品が必ず […] The post EBiDAN オンラインくじ vol.2発売決定！ first appeared on SUPER★DRAGON",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "79db83af4ca4bd66",
-        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ&生写真セット 事後通販決定！！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11822/",
-        "publishedAt": "2026-10-19T07:00:01.000Z",
-        "summary": "第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ&生写真セットの事後通販が決定しました！ 残りわずかな商品もございますので、ぜひこの機会にご利用ください！ ****************** […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ&生写真セット 事後通販決定！！ first app",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "4c9519734cc191ec",
-        "title": "第6回 EBiDAN 大運動会 『スポーツマンヒップ！』ファンクラブブース情報！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11754/",
-        "publishedAt": "2026-10-09T06:30:06.000Z",
-        "summary": "第6回 EBiDAN 大運動会 『スポーツマンヒップ！』ファンクラブブースの受付が決定いたしました。 当日は、対象期間中に各EBiDANファンクラブで【新規入会・継続・お友達紹介】をされた方、 または各＋KIRARIコミ […] The post 第6回 EBiDAN 大運動会 『スポーツマンヒップ！』ファンクラブブース情報！ first appeared ",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "d368d6cea4acc417",
-        "title": "【お知らせ】 EBiDAN SNS投稿ガイドラインに関するお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11751/",
-        "publishedAt": "2026-10-08T03:30:07.000Z",
-        "summary": "いつも弊社所属アーティストを温かく応援いただき、誠にありがとうございます。 これからも楽しく安心して応援いただけるよう、SNSにおけるご投稿のガイドラインを定めております。 皆様のご理解とご協力をお願い申し上げます。 ※ […] The post 【お知らせ】 EBiDAN SNS投稿ガイドラインに関するお知らせ first appeared on SUPE",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
       }
     ],
     "Lienel": [
@@ -526,57 +351,6 @@
             "status": "active"
           }
         ]
-      }
-    ],
-    "ICEx": [
-      {
-        "id": "72d88a3410706483",
-        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』追加出演者のお知らせ/チケットトレード情報",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11722/",
-        "publishedAt": "2026-10-02T07:00:30.000Z",
-        "summary": "第6回EBiDAN大運動会『スポーツマンヒップ！』につきまして、ICEx志賀李玖・阿久根温世の追加出演が決定いたしました！ また、10月7日(水) 18:00よりチケットトレードの実施が決定いたしました。 チケットをお持 […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』追加出演者のお知らせ/チケットトレード情報 first app",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON",
-          "ICEx"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "志賀李玖",
-            "group": "ICEx",
-            "status": "active"
-          },
-          {
-            "name": "阿久根温世",
-            "group": "ICEx",
-            "status": "active"
-          }
-        ]
-      }
-    ],
-    "Sakurashimeji": [
-      {
-        "id": "47f16c975ff422cd",
-        "title": "グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11607/",
-        "publishedAt": "2026-09-02T12:34:24.000Z",
-        "summary": "平素より株式会社SDR所属アーティストへの温かいご声援を賜り、誠にありがとうございます。 DISH//、EBiDAN（超特急、M!LK、SUPER★DRAGON、Sakurashimeji、ONE N’ ON […] The post グッズ売場 キャッシュレス化およびご利用可能な決済方法のお知らせ first appeared on SUPER★DRAGO",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK",
-          "SUPER★DRAGON",
-          "Sakurashimeji"
-        ],
-        "statuses": [],
-        "memberMatches": []
       }
     ]
   }
