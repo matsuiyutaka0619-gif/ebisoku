@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-27T22:13:41.954Z",
+  "updatedAt": "2026-10-28T05:41:07.803Z",
   "totals": {
-    "all": 127,
+    "all": 124,
     "today": 3,
-    "week": 21
+    "week": 19
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 11
+      "count": 8
     },
     {
       "name": "SUPER★DRAGON",
@@ -20,28 +20,32 @@
     },
     {
       "name": "EBiDAN",
-      "count": 3
+      "count": 2
     },
     {
       "name": "Lienel",
+      "count": 1
+    },
+    {
+      "name": "原因は自分にある。",
       "count": 1
     }
   ],
   "memberRanking": [
     {
       "name": "吉田仁人",
-      "count": 5
+      "count": 3
     },
     {
       "name": "アロハ",
       "count": 2
     },
     {
-      "name": "山中柔太朗",
-      "count": 2
+      "name": "近藤駿太",
+      "count": 1
     },
     {
-      "name": "近藤駿太",
+      "name": "山中柔太朗",
       "count": 1
     },
     {
@@ -54,6 +58,10 @@
     },
     {
       "name": "武田創世",
+      "count": 1
+    },
+    {
+      "name": "杢代和人",
       "count": 1
     }
   ],
@@ -71,10 +79,6 @@
       "count": 3
     },
     {
-      "name": "THE FIRST TIMES",
-      "count": 2
-    },
-    {
       "name": "タワーレコード ニュース",
       "count": 2
     },
@@ -83,35 +87,48 @@
       "count": 2
     },
     {
+      "name": "BARKS",
+      "count": 1
+    },
+    {
+      "name": "Edge Line",
+      "count": 1
+    },
+    {
       "name": "QJWeb",
       "count": 1
     },
     {
       "name": "マイナビニュース 芸能",
       "count": 1
-    },
-    {
-      "name": "リアルサウンド 映画部",
-      "count": 1
-    },
-    {
-      "name": "リアルサウンド 音楽",
-      "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
-    "EBiDAN": [
+    "M!LK": [
       {
-        "id": "0f3ff6ae9593b40c",
-        "title": "新着MVランキング：Jugyonel「Love Me Madly」、吉田仁人ら6人が魅せた完成度 “愛されシャッフル”を制した表現力",
-        "sourceName": "リアルサウンド 音楽",
-        "sourceUrl": "https://realsound.jp/music/feed",
-        "articleUrl": "https://realsound.jp/2026/10/post-2564180.html",
-        "publishedAt": "2026-10-27T20:50:45.000Z",
-        "summary": "毎週更新される「YouTube Music Charts」ウィークリー ミュージック ビデオ ランキングより、MVをはじめとした音楽関連の新着動画から上位10作品／楽曲を取り上げ、ランキング化＆レビューしていく連載「MV Chart Focus」。今週は『EBiDAN THE LIVE 2026』よりJugyonel「Love Me Madly」を取り上げる",
+        "id": "9ed35645908f2e05",
+        "title": "新製品「午後の紅茶 TEA LATTE with ESPRESSO / CREAM & MILK」2日で月間販売計画達成！キャンペーンも「多数応募」",
+        "sourceName": "Edge Line",
+        "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+        "articleUrl": "https://www.edgeline-tokyo.com/food/207872",
+        "publishedAt": "2026-10-28T03:39:50.000Z",
+        "summary": "アイドルグループ『Snow Man』“めめ”目黒蓮、中条あやみもCM出演しているキリンビバレッジ株式会社『午後の紅茶 TEA LATTE with ESPRESSO / CREAM & MILK』。10月6日...",
         "groups": [
-          "EBiDAN",
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "9799a371ebf51a13",
+        "title": "吉田仁人「うれしすぎます!」 冠番組『ザッツ M!LK』正月に第2弾放送決定",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20261028-5205419/",
+        "publishedAt": "2026-10-27T15:54:00.000Z",
+        "summary": "「まさかのもう第2弾が…! うれしすぎます!」――M!LKのリーダー・吉田仁人が喜びを語ったのは、2027年1月3日に日本テレビで放送される冠バラエティ番組『ザッツ M!LK』の正月特番。日本国民の代わりに本気で“恥”をかく5人が、新春から新たな企画に挑戦する。",
+        "groups": [
           "M!LK"
         ],
         "statuses": [
@@ -124,6 +141,20 @@
             "status": "active"
           }
         ]
+      },
+      {
+        "id": "2373248490732a72",
+        "title": "M!LK、TVアニメ「超巡！超条先輩」OPテーマ“ザッツ！超常”ダンス・パフォーマンス・ムービー公開。鮮やかなLED映像バックにエネルギッシュなダンス披露",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/10/27/tg007",
+        "publishedAt": "2026-10-27T11:40:00.000Z",
+        "summary": "",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
       },
       {
         "id": "a2df472cbfa3fed5",
@@ -155,127 +186,13 @@
         ]
       },
       {
-        "id": "2d9e4e423771c6b6",
-        "title": "EBiDAN オンラインくじ vol.2発売決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11856/",
-        "publishedAt": "2026-10-23T07:00:16.000Z",
-        "summary": "「EBiDAN museum 2026」の大盛況を記念し、10月26日(月)13:00より「EBiDAN オンラインくじ vol.2」の販売が決定しました！ グループ別のくじとなり、それぞれ全5等級のいずれかの景品が必ず […] The post EBiDAN オンラインくじ vol.2発売決定！ first appeared on SUPER★DRAGON",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "79db83af4ca4bd66",
-        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ&生写真セット 事後通販決定！！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11822/",
-        "publishedAt": "2026-10-19T07:00:01.000Z",
-        "summary": "第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ&生写真セットの事後通販が決定しました！ 残りわずかな商品もございますので、ぜひこの機会にご利用ください！ ****************** […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ&生写真セット 事後通販決定！！ first app",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "4c9519734cc191ec",
-        "title": "第6回 EBiDAN 大運動会 『スポーツマンヒップ！』ファンクラブブース情報！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11754/",
-        "publishedAt": "2026-10-09T06:30:06.000Z",
-        "summary": "第6回 EBiDAN 大運動会 『スポーツマンヒップ！』ファンクラブブースの受付が決定いたしました。 当日は、対象期間中に各EBiDANファンクラブで【新規入会・継続・お友達紹介】をされた方、 または各＋KIRARIコミ […] The post 第6回 EBiDAN 大運動会 『スポーツマンヒップ！』ファンクラブブース情報！ first appeared ",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "M!LK": [
-      {
-        "id": "0f3ff6ae9593b40c",
-        "title": "新着MVランキング：Jugyonel「Love Me Madly」、吉田仁人ら6人が魅せた完成度 “愛されシャッフル”を制した表現力",
-        "sourceName": "リアルサウンド 音楽",
-        "sourceUrl": "https://realsound.jp/music/feed",
-        "articleUrl": "https://realsound.jp/2026/10/post-2564180.html",
-        "publishedAt": "2026-10-27T20:50:45.000Z",
-        "summary": "毎週更新される「YouTube Music Charts」ウィークリー ミュージック ビデオ ランキングより、MVをはじめとした音楽関連の新着動画から上位10作品／楽曲を取り上げ、ランキング化＆レビューしていく連載「MV Chart Focus」。今週は『EBiDAN THE LIVE 2026』よりJugyonel「Love Me Madly」を取り上げる",
-        "groups": [
-          "EBiDAN",
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "1e238a7d68645b15",
-        "title": "M!LK冠番組『ザッツ M!LK』お正月特番放送決定！「ヒリヒリしながら挑んでいます」（吉田仁人）",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000907153/",
-        "publishedAt": "2026-10-27T15:54:18.000Z",
-        "summary": "M!LKの冠番組『ザッツ M!LK』が、2027年1月3日にお正月特番として日本テレビ系で放送されるこ...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "9799a371ebf51a13",
-        "title": "吉田仁人「うれしすぎます!」 冠番組『ザッツ M!LK』正月に第2弾放送決定",
+        "id": "ad93bf6be14a657d",
+        "title": "M!LK山中柔太朗、元サッカー日本代表の技術を目の当たりに「マジ感動してた」「当たり前ですけど、バケモノです」",
         "sourceName": "マイナビニュース エンタメ",
         "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20261028-5205419/",
-        "publishedAt": "2026-10-27T15:54:00.000Z",
-        "summary": "「まさかのもう第2弾が…! うれしすぎます!」――M!LKのリーダー・吉田仁人が喜びを語ったのは、2027年1月3日に日本テレビで放送される冠バラエティ番組『ザッツ M!LK』の正月特番。日本国民の代わりに本気で“恥”をかく5人が、新春から新たな企画に挑戦する。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "b2f60ca519535d8c",
-        "title": "大森元貴演じる関と同じ顔の“父”登場！ 『いろはの恋は時代をかける』絡まり始めた恋の矢印",
-        "sourceName": "リアルサウンド 映画部",
-        "sourceUrl": "https://realsound.jp/movie/feed",
-        "articleUrl": "https://realsound.jp/movie/2026/10/post-2566323.html",
-        "publishedAt": "2026-10-27T14:50:32.000Z",
-        "summary": "『いろはの恋は時代をかける』（TBS系）第3話では、いろは（上白石萌音）が授業の進め方をめぐり、同僚教師の真島玲二（山中柔太朗）と衝突。学ぶ喜びと、現代の学校が担う役割の両方を描きながら、彼女と関孝和（大森元貴）の切ない関係も明らかになった。",
+        "articleUrl": "https://news.mynavi.jp/article/20261027-5202707/",
+        "publishedAt": "2026-10-27T09:35:00.000Z",
+        "summary": "M!LKの山中柔太朗が、YouTubeチャンネル『劇場版 じゅうたろう』で公開された動画「劇場版 よういちろう」に出演。ゲストに元サッカー日本代表の柿谷曜一朗氏を迎え、さまざまなスポーツで対決した。",
         "groups": [
           "M!LK"
         ],
@@ -289,20 +206,30 @@
             "status": "active"
           }
         ]
-      },
+      }
+    ],
+    "原因は自分にある。": [
       {
-        "id": "2373248490732a72",
-        "title": "M!LK、TVアニメ「超巡！超条先輩」OPテーマ“ザッツ！超常”ダンス・パフォーマンス・ムービー公開。鮮やかなLED映像バックにエネルギッシュなダンス披露",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/10/27/tg007",
-        "publishedAt": "2026-10-27T11:40:00.000Z",
-        "summary": "",
+        "id": "f3b4be42c9102129",
+        "title": "羊文学、新曲「Dispel」が2027年1月公開『映画 九条の大罪』主題歌に",
+        "sourceName": "BARKS",
+        "sourceUrl": "https://www.barks.jp/feed/",
+        "articleUrl": "https://barks.jp/news/1101056",
+        "publishedAt": "2026-10-28T03:00:36.000Z",
+        "summary": "羊文学の新曲「Dispel」が、2027年1月8日（金）に全国劇場公開される『映画 九条の大罪』の主題歌に決定した。さらに、本楽曲が12月16日(水)に各音楽配信サイトにて配信リリースされることも決定している。 2週連続でNetflixグローバル週間TOP10（非英語シリーズ）入りを果たしたNetflixシリーズ『九条の大罪』。ドラマシリーズの主題歌として書",
         "groups": [
-          "M!LK"
+          "原因は自分にある。"
         ],
-        "statuses": [],
-        "memberMatches": []
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "杢代和人",
+            "group": "原因は自分にある。",
+            "status": "active"
+          }
+        ]
       }
     ],
     "超特急": [
@@ -481,6 +408,97 @@
         "memberMatches": []
       }
     ],
+    "EBiDAN": [
+      {
+        "id": "a2df472cbfa3fed5",
+        "title": "「純粋に…」「“お兄ちゃん”として…」M!LK吉田仁人、10年以上の付き合いがあるEBiDAN後輩に見せた新たな一面 スパドラ池田彪馬「すごくうれしかった」",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20261027-5192623/",
+        "publishedAt": "2026-10-27T10:00:00.000Z",
+        "summary": "M!LKの吉田仁人が、TOKYO MXのドラマ『溺愛 ～ 実は、最強ヒーロー ～』(毎週金曜23:00～)の制作発表会見に出席。SUPER★DRAGONの池田彪馬と撮影現場で将来について語り合ったことを明かし、「めっちゃ真面目じゃん」と意外な一面に驚いたことを振り返った。",
+        "groups": [
+          "EBiDAN",
+          "M!LK",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "池田彪馬",
+            "group": "SUPER★DRAGON",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "2d9e4e423771c6b6",
+        "title": "EBiDAN オンラインくじ vol.2発売決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11856/",
+        "publishedAt": "2026-10-23T07:00:16.000Z",
+        "summary": "「EBiDAN museum 2026」の大盛況を記念し、10月26日(月)13:00より「EBiDAN オンラインくじ vol.2」の販売が決定しました！ グループ別のくじとなり、それぞれ全5等級のいずれかの景品が必ず […] The post EBiDAN オンラインくじ vol.2発売決定！ first appeared on SUPER★DRAGON",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "79db83af4ca4bd66",
+        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ&生写真セット 事後通販決定！！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11822/",
+        "publishedAt": "2026-10-19T07:00:01.000Z",
+        "summary": "第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ&生写真セットの事後通販が決定しました！ 残りわずかな商品もございますので、ぜひこの機会にご利用ください！ ****************** […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ&生写真セット 事後通販決定！！ first app",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "4c9519734cc191ec",
+        "title": "第6回 EBiDAN 大運動会 『スポーツマンヒップ！』ファンクラブブース情報！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11754/",
+        "publishedAt": "2026-10-09T06:30:06.000Z",
+        "summary": "第6回 EBiDAN 大運動会 『スポーツマンヒップ！』ファンクラブブースの受付が決定いたしました。 当日は、対象期間中に各EBiDANファンクラブで【新規入会・継続・お友達紹介】をされた方、 または各＋KIRARIコミ […] The post 第6回 EBiDAN 大運動会 『スポーツマンヒップ！』ファンクラブブース情報！ first appeared ",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "d368d6cea4acc417",
+        "title": "【お知らせ】 EBiDAN SNS投稿ガイドラインに関するお知らせ",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11751/",
+        "publishedAt": "2026-10-08T03:30:07.000Z",
+        "summary": "いつも弊社所属アーティストを温かく応援いただき、誠にありがとうございます。 これからも楽しく安心して応援いただけるよう、SNSにおけるご投稿のガイドラインを定めております。 皆様のご理解とご協力をお願い申し上げます。 ※ […] The post 【お知らせ】 EBiDAN SNS投稿ガイドラインに関するお知らせ first appeared on SUPE",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
     "Lienel": [
       {
         "id": "9aa1a5556bfafb6b",
@@ -504,28 +522,6 @@
           },
           {
             "name": "武田創世",
-            "group": "Lienel",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "5e5598d11aa68a5d",
-        "title": "恋愛、アルバイト、お金、人間関係…大学生の悩みを描くショートドラマ 三菱ＵＦＪ銀行×QREATIONがタッグ",
-        "sourceName": "マイナビニュース 芸能",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-        "articleUrl": "https://news.mynavi.jp/article/20261019-5150664/",
-        "publishedAt": "2026-10-19T09:00:00.000Z",
-        "summary": "恋愛、アルバイト、お金、人間関係――大学生たちが直面するさまざまな悩みを描くショートドラマ『朱に交われど、ぼくらいろ。』が19日、Instagramで配信をスタートした。三菱ＵＦＪ銀行とQREATIONがタッグを組んだ作品で、おさき、永瀬さら、小國舞羽、Lienelの近藤駿太、中村駿希が出演。累計6億回再生超の『キュリエーション学院』とのコラボレーションも行",
-        "groups": [
-          "Lienel"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "近藤駿太",
             "group": "Lienel",
             "status": "active"
           }
