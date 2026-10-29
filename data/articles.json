@@ -1,6 +1,64 @@
 {
-  "updatedAt": "2026-10-28T22:34:22.663Z",
+  "updatedAt": "2026-10-29T05:46:53.724Z",
   "articles": [
+    {
+      "id": "3efa174b15b6ce17",
+      "title": "向井康二＆上白石萌音＆山中柔太朗の“身長差トリオ”がぴょんぴょんジャンプ！「かわいい人たち」「柔ちゃんキック!?」「もねこじ息ぴったり」と反響",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000908644/",
+      "publishedAt": "2026-10-29T05:10:12.000Z",
+      "summary": "ドラマ『いろはの恋は時代をかける』（TBS系）の公式Instagramが更新され、上白石萌音、Snow M...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "1025e673327750fd",
+      "title": "ミセス大森元貴はM!LKの“相談役”！塩﨑太智が明かす同期エピソードに「もっくんの優しさが泣ける」「M!LKの愛される人柄も伝わる」「関係性が素敵」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000908457/",
+      "publishedAt": "2026-10-29T05:07:24.000Z",
+      "summary": "M!LKの塩﨑太智が、10月20日に放送されたテレビ東京系バラエティー番組『ありえへん∞世界』2時...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "塩﨑太智",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "d75d3f394deb4502",
+      "title": "横浜流星がM!LKメンバーサイン入りの『LOVE ENG!NE』を披露！笑顔で喜ぶ姿に「アツい」「佐野くんからかな」「どこかで共演ある？」と反響",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000908394/",
+      "publishedAt": "2026-10-29T03:07:00.000Z",
+      "summary": "横浜流星が自身のInstagramストーリーズを更新。M!LKの1st Mini Album『LOVE ENG!NE』を手にし...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "cc9e92df32857678",
       "title": "「ぐるナイ」で私服を買い取り査定！M!LK曽野舜太は私服も赤色中心で「町でバレやすい」",
@@ -22,20 +80,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "4274abc738adf324",
-      "title": "EBiDAN史上最大規模！のべ5万人が熱狂した『EBiDAN THE LIVE 2026 15th Anniversary』Blu-ray発売決定",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000907934/",
-      "publishedAt": "2026-10-28T07:00:54.000Z",
-      "summary": "『EBiDAN THE LIVE 2026 15th Anniversary』のBlu-rayが、2027年2月10日に発売されることが決...",
-      "groups": [
-        "EBiDAN"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "1435a68b28c395c7",

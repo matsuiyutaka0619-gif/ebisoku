@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-28T22:34:22.666Z",
+  "updatedAt": "2026-10-29T05:46:53.726Z",
   "totals": {
-    "all": 125,
-    "today": 1,
-    "week": 21
+    "all": 127,
+    "today": 4,
+    "week": 22
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 9
+      "count": 12
     },
     {
       "name": "SUPER★DRAGON",
-      "count": 6
+      "count": 5
     },
     {
       "name": "超特急",
@@ -20,7 +20,7 @@
     },
     {
       "name": "EBiDAN",
-      "count": 4
+      "count": 3
     },
     {
       "name": "Lienel",
@@ -37,15 +37,19 @@
       "count": 2
     },
     {
+      "name": "山中柔太朗",
+      "count": 2
+    },
+    {
       "name": "曽野舜太",
       "count": 2
     },
     {
-      "name": "近藤駿太",
+      "name": "塩﨑太智",
       "count": 1
     },
     {
-      "name": "山中柔太朗",
+      "name": "近藤駿太",
       "count": 1
     },
     {
@@ -60,7 +64,11 @@
   "sourceRanking": [
     {
       "name": "SUPER★DRAGON 公式NEWS",
-      "count": 5
+      "count": 4
+    },
+    {
+      "name": "THE FIRST TIMES",
+      "count": 4
     },
     {
       "name": "マイナビニュース テレビ",
@@ -73,10 +81,6 @@
     {
       "name": "タワーレコード ニュース",
       "count": 3
-    },
-    {
-      "name": "THE FIRST TIMES",
-      "count": 2
     },
     {
       "name": "Edge Line",
@@ -98,6 +102,64 @@
   "topics": [],
   "recentByGroup": {
     "M!LK": [
+      {
+        "id": "3efa174b15b6ce17",
+        "title": "向井康二＆上白石萌音＆山中柔太朗の“身長差トリオ”がぴょんぴょんジャンプ！「かわいい人たち」「柔ちゃんキック!?」「もねこじ息ぴったり」と反響",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000908644/",
+        "publishedAt": "2026-10-29T05:10:12.000Z",
+        "summary": "ドラマ『いろはの恋は時代をかける』（TBS系）の公式Instagramが更新され、上白石萌音、Snow M...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "1025e673327750fd",
+        "title": "ミセス大森元貴はM!LKの“相談役”！塩﨑太智が明かす同期エピソードに「もっくんの優しさが泣ける」「M!LKの愛される人柄も伝わる」「関係性が素敵」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000908457/",
+        "publishedAt": "2026-10-29T05:07:24.000Z",
+        "summary": "M!LKの塩﨑太智が、10月20日に放送されたテレビ東京系バラエティー番組『ありえへん∞世界』2時...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "d75d3f394deb4502",
+        "title": "横浜流星がM!LKメンバーサイン入りの『LOVE ENG!NE』を披露！笑顔で喜ぶ姿に「アツい」「佐野くんからかな」「どこかで共演ある？」と反響",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000908394/",
+        "publishedAt": "2026-10-29T03:07:00.000Z",
+        "summary": "横浜流星が自身のInstagramストーリーズを更新。M!LKの1st Mini Album『LOVE ENG!NE』を手にし...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
       {
         "id": "cc9e92df32857678",
         "title": "「ぐるナイ」で私服を買い取り査定！M!LK曽野舜太は私服も赤色中心で「町でバレやすい」",
@@ -141,73 +203,9 @@
             "status": "active"
           }
         ]
-      },
-      {
-        "id": "9ed35645908f2e05",
-        "title": "新製品「午後の紅茶 TEA LATTE with ESPRESSO / CREAM & MILK」2日で月間販売計画達成！キャンペーンも「多数応募」",
-        "sourceName": "Edge Line",
-        "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-        "articleUrl": "https://www.edgeline-tokyo.com/food/207872",
-        "publishedAt": "2026-10-28T03:39:50.000Z",
-        "summary": "アイドルグループ『Snow Man』“めめ”目黒蓮、中条あやみもCM出演しているキリンビバレッジ株式会社『午後の紅茶 TEA LATTE with ESPRESSO / CREAM & MILK』。10月6日...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "9799a371ebf51a13",
-        "title": "吉田仁人「うれしすぎます!」 冠番組『ザッツ M!LK』正月に第2弾放送決定",
-        "sourceName": "マイナビニュース テレビ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-        "articleUrl": "https://news.mynavi.jp/article/20261028-5205419/",
-        "publishedAt": "2026-10-27T15:54:00.000Z",
-        "summary": "「まさかのもう第2弾が…! うれしすぎます!」――M!LKのリーダー・吉田仁人が喜びを語ったのは、2027年1月3日に日本テレビで放送される冠バラエティ番組『ザッツ M!LK』の正月特番。日本国民の代わりに本気で“恥”をかく5人が、新春から新たな企画に挑戦する。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "2373248490732a72",
-        "title": "M!LK、TVアニメ「超巡！超条先輩」OPテーマ“ザッツ！超常”ダンス・パフォーマンス・ムービー公開。鮮やかなLED映像バックにエネルギッシュなダンス披露",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/10/27/tg007",
-        "publishedAt": "2026-10-27T11:40:00.000Z",
-        "summary": "",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
       }
     ],
     "EBiDAN": [
-      {
-        "id": "4274abc738adf324",
-        "title": "EBiDAN史上最大規模！のべ5万人が熱狂した『EBiDAN THE LIVE 2026 15th Anniversary』Blu-ray発売決定",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000907934/",
-        "publishedAt": "2026-10-28T07:00:54.000Z",
-        "summary": "『EBiDAN THE LIVE 2026 15th Anniversary』のBlu-rayが、2027年2月10日に発売されることが決...",
-        "groups": [
-          "EBiDAN"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
       {
         "id": "1435a68b28c395c7",
         "title": "【＠Loppi・HMV限定盤】Blu-ray『EBiDAN THE LIVE 2026 15th Anniversary』2027年2月10日(水)発売決定！さらにEBiDAN15周年アニバーサリーエディション版『EBiDAN Visual Dictionary 2027～15th Anniversary Edition～』も同時発売！本日より予約受付開始！",
@@ -275,6 +273,21 @@
         "articleUrl": "https://super-dragon.jp/news/news11822/",
         "publishedAt": "2026-10-19T07:00:01.000Z",
         "summary": "第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ&生写真セットの事後通販が決定しました！ 残りわずかな商品もございますので、ぜひこの機会にご利用ください！ ****************** […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ&生写真セット 事後通販決定！！ first app",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "4c9519734cc191ec",
+        "title": "第6回 EBiDAN 大運動会 『スポーツマンヒップ！』ファンクラブブース情報！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11754/",
+        "publishedAt": "2026-10-09T06:30:06.000Z",
+        "summary": "第6回 EBiDAN 大運動会 『スポーツマンヒップ！』ファンクラブブースの受付が決定いたしました。 当日は、対象期間中に各EBiDANファンクラブで【新規入会・継続・お友達紹介】をされた方、 または各＋KIRARIコミ […] The post 第6回 EBiDAN 大運動会 『スポーツマンヒップ！』ファンクラブブース情報！ first appeared ",
         "groups": [
           "EBiDAN",
           "SUPER★DRAGON"
