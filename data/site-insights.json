@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-29T12:59:54.538Z",
+  "updatedAt": "2026-10-29T22:44:23.654Z",
   "totals": {
-    "all": 129,
-    "today": 7,
-    "week": 24
+    "all": 132,
+    "today": 4,
+    "week": 27
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 12
+      "count": 15
     },
     {
       "name": "SUPER★DRAGON",
-      "count": 6
+      "count": 7
     },
     {
       "name": "超特急",
@@ -26,7 +26,7 @@
   "memberRanking": [
     {
       "name": "吉田仁人",
-      "count": 4
+      "count": 7
     },
     {
       "name": "アロハ",
@@ -37,15 +37,19 @@
       "count": 2
     },
     {
+      "name": "池田彪馬",
+      "count": 2
+    },
+    {
       "name": "塩﨑太智",
       "count": 1
     },
     {
-      "name": "曽野舜太",
+      "name": "佐野勇斗",
       "count": 1
     },
     {
-      "name": "池田彪馬",
+      "name": "曽野舜太",
       "count": 1
     }
   ],
@@ -56,6 +60,10 @@
     },
     {
       "name": "THE FIRST TIMES",
+      "count": 5
+    },
+    {
+      "name": "Bezzy",
       "count": 4
     },
     {
@@ -67,11 +75,7 @@
       "count": 4
     },
     {
-      "name": "Bezzy",
-      "count": 3
-    },
-    {
-      "name": "Edge Line",
+      "name": "BARKS",
       "count": 1
     },
     {
@@ -85,11 +89,109 @@
     {
       "name": "マイナビニュース 芸能",
       "count": 1
+    },
+    {
+      "name": "リアルサウンド 音楽",
+      "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
     "M!LK": [
+      {
+        "id": "7af825170ec20154",
+        "title": "M!LK 佐野勇斗、子どもへの優しい対応に「好感度が爆裂」「こりゃメロいわ」 タンクトップ姿での瓦割りに反響",
+        "sourceName": "リアルサウンド 音楽",
+        "sourceUrl": "https://realsound.jp/music/feed",
+        "articleUrl": "https://realsound.jp/2026/10/post-2568197.html",
+        "publishedAt": "2026-10-29T20:50:04.000Z",
+        "summary": "M!LKの佐野勇斗が自身のYouTubeを更新。瓦割りに挑戦する動画を公開し、諦めずに挑む姿や子どもへの優しい対応に注目が集まっている。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "1ec4511125e72910",
+        "title": "M!LK吉田仁人、主演ドラマ『溺愛 ～ 実は、最強ヒーロー ～』ED曲「愛の形」配信リリース決定",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000908407/",
+        "publishedAt": "2026-10-29T15:10:13.000Z",
+        "summary": "M!LKの吉田仁人が、11月9日に「愛の形」を配信リリースすることが決定した。 ■「愛の形」は、...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "f39a2e93404935f5",
+        "title": "M!LK・吉田仁人、ドラマ『溺愛 ～ 実は、最強ヒーロー ～』EDテーマ",
+        "sourceName": "BARKS",
+        "sourceUrl": "https://www.barks.jp/feed/",
+        "articleUrl": "https://barks.jp/news/1101336",
+        "publishedAt": "2026-10-29T15:10:00.000Z",
+        "summary": "M!LK・吉田仁人が、2026年11月9日に新曲「愛の形」を配信リリースすることを発表した。 本楽曲は、それぞれが信じる愛の在り方について描いた実直なバラードだという。愛することと愛されることの形が同じではなくても、相手の幸せを願い続けることを選ぶ、大切な人の幸せを自分のこと以上に願うようになった主人公のまっすぐな覚悟と、見返りを求めない切実な想いが胸を打つ",
+        "groups": [
+          "M!LK",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "池田彪馬",
+            "group": "SUPER★DRAGON",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "f551168340c70ace",
+        "title": "M!LK吉田仁人が歌う切実な想い、見返りを求めない主人公を描いた新曲「愛の形」11月9日配信",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/10/94274/",
+        "publishedAt": "2026-10-29T15:10:00.000Z",
+        "summary": "5人組ダンスボーカルグループ・M!LKのリーダー吉田仁人が、11月9日(月)に新曲「愛の形」を配信リリースすることを発表した。 それぞれが信じる愛の在り方を歌う「愛の形」は、大切な人の幸せを自分のこと以上に願うようになった主人公を描いたバラード。愛することと愛されることの形が同じではなくても、相手の幸せを願い続けることを選ぶ覚悟と、見返りを求めない切実な想い",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
       {
         "id": "a57c9ce27fe04f83",
         "title": "「全部があってM!LK」メンバー全員が多方面で活躍するM!LK リーダー吉田仁人が語ったメンバーが口をそろえる個人活動への“思い”「みんな絶対言うのが…」",
@@ -111,89 +213,37 @@
             "status": "active"
           }
         ]
-      },
-      {
-        "id": "de6b5cb0bb3e35b0",
-        "title": "『Venue101』2026年上半期総集編！M!LK、＝LOVE、FRUITS ZIPPERらの未公開トークも蔵出し",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000908922/",
-        "publishedAt": "2026-10-29T10:08:59.000Z",
-        "summary": "音楽番組『Venue101』が、10月31日23時から放送。今回は、2026年4月から9月までの放送の中から...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "3efa174b15b6ce17",
-        "title": "向井康二＆上白石萌音＆山中柔太朗の“身長差トリオ”がぴょんぴょんジャンプ！「かわいい人たち」「柔ちゃんキック!?」「もねこじ息ぴったり」と反響",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000908644/",
-        "publishedAt": "2026-10-29T05:10:12.000Z",
-        "summary": "ドラマ『いろはの恋は時代をかける』（TBS系）の公式Instagramが更新され、上白石萌音、Snow M...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "1025e673327750fd",
-        "title": "ミセス大森元貴はM!LKの“相談役”！塩﨑太智が明かす同期エピソードに「もっくんの優しさが泣ける」「M!LKの愛される人柄も伝わる」「関係性が素敵」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000908457/",
-        "publishedAt": "2026-10-29T05:07:24.000Z",
-        "summary": "M!LKの塩﨑太智が、10月20日に放送されたテレビ東京系バラエティー番組『ありえへん∞世界』2時...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "5bde5db93561e229",
-        "title": "浜辺美波＆山中柔太朗（M!LK）、「東京カレンダー2027年1月号」通常版／特別増刊表紙をそれぞれ飾る",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/10/28/tgb002",
-        "publishedAt": "2026-10-28T06:00:00.000Z",
-        "summary": "",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
       }
     ],
     "SUPER★DRAGON": [
+      {
+        "id": "f39a2e93404935f5",
+        "title": "M!LK・吉田仁人、ドラマ『溺愛 ～ 実は、最強ヒーロー ～』EDテーマ",
+        "sourceName": "BARKS",
+        "sourceUrl": "https://www.barks.jp/feed/",
+        "articleUrl": "https://barks.jp/news/1101336",
+        "publishedAt": "2026-10-29T15:10:00.000Z",
+        "summary": "M!LK・吉田仁人が、2026年11月9日に新曲「愛の形」を配信リリースすることを発表した。 本楽曲は、それぞれが信じる愛の在り方について描いた実直なバラードだという。愛することと愛されることの形が同じではなくても、相手の幸せを願い続けることを選ぶ、大切な人の幸せを自分のこと以上に願うようになった主人公のまっすぐな覚悟と、見返りを求めない切実な想いが胸を打つ",
+        "groups": [
+          "M!LK",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "池田彪馬",
+            "group": "SUPER★DRAGON",
+            "status": "active"
+          }
+        ]
+      },
       {
         "id": "af949395801bb0f2",
         "title": "SUPER★DRAGON Major 2nd Album「STAR」2026年12月9日（水）発売決定！※10月29日更新",
@@ -265,21 +315,6 @@
             "status": "active"
           }
         ]
-      },
-      {
-        "id": "2d9e4e423771c6b6",
-        "title": "EBiDAN オンラインくじ vol.2発売決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11856/",
-        "publishedAt": "2026-10-23T07:00:16.000Z",
-        "summary": "「EBiDAN museum 2026」の大盛況を記念し、10月26日(月)13:00より「EBiDAN オンラインくじ vol.2」の販売が決定しました！ グループ別のくじとなり、それぞれ全5等級のいずれかの景品が必ず […] The post EBiDAN オンラインくじ vol.2発売決定！ first appeared on SUPER★DRAGON",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
       }
     ],
     "超特急": [
