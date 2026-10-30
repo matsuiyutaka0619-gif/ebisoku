@@ -1,49 +1,24 @@
 {
-  "updatedAt": "2026-10-30T12:54:39.274Z",
+  "updatedAt": "2026-10-30T22:18:32.994Z",
   "articles": [
     {
-      "id": "c3acf40fc84e5865",
-      "title": "Lienel、「愛のダバダ」テーマカラー“赤”を使ったASMR映像公開",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1101603",
-      "publishedAt": "2026-10-30T12:00:00.000Z",
-      "summary": "Lienelが、初となるASMR企画映像を公開した。 本映像は、メジャー2ndシングル「愛のダバダ」のテーマである“薔薇”を思わせる“赤”にちなみ、食べ物や飲み物からおもちゃまで、用意されたアイテムをすべて赤系のもので統一。そんな“赤いものだけ”を使い、メンバーたちが様々な音を届けていく企画になっているという。 ASMRとは、音や声を聞いたときに感じる心地よ",
+      "id": "cfcdc885c5fb4485",
+      "title": "M!LK吉田仁人主演ドラマ『溺愛 ～ 実は、最強ヒーロー ～』第2話の場面写真＆あらすじ公開",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000909586/",
+      "publishedAt": "2026-10-30T14:30:59.000Z",
+      "summary": "M!LKの吉田仁人が主演を務めるドラマ『溺愛 ～ 実は、最強ヒーロー ～』（TOKYO MX他で放送）...",
       "groups": [
-        "Lienel"
+        "M!LK"
       ],
       "statuses": [
         "active"
       ],
       "memberMatches": [
         {
-          "name": "芳賀柊斗",
-          "group": "Lienel",
-          "status": "active"
-        },
-        {
-          "name": "近藤駿太",
-          "group": "Lienel",
-          "status": "active"
-        },
-        {
-          "name": "高岡ミロ",
-          "group": "Lienel",
-          "status": "active"
-        },
-        {
-          "name": "森田璃空",
-          "group": "Lienel",
-          "status": "active"
-        },
-        {
-          "name": "武田創世",
-          "group": "Lienel",
-          "status": "active"
-        },
-        {
-          "name": "高桑真之",
-          "group": "Lienel",
+          "name": "吉田仁人",
+          "group": "M!LK",
           "status": "active"
         }
       ]

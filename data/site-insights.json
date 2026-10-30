@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-30T12:54:39.276Z",
+  "updatedAt": "2026-10-30T22:18:32.996Z",
   "totals": {
     "all": 127,
-    "today": 8,
+    "today": 0,
     "week": 19
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 10
+      "count": 11
     },
     {
       "name": "超特急",
@@ -21,39 +21,19 @@
     {
       "name": "EBiDAN",
       "count": 2
-    },
-    {
-      "name": "Lienel",
-      "count": 1
     }
   ],
   "memberRanking": [
     {
       "name": "吉田仁人",
-      "count": 6
+      "count": 7
     },
     {
       "name": "アロハ",
       "count": 2
     },
     {
-      "name": "近藤駿太",
-      "count": 1
-    },
-    {
-      "name": "高岡ミロ",
-      "count": 1
-    },
-    {
-      "name": "高桑真之",
-      "count": 1
-    },
-    {
       "name": "山中柔太朗",
-      "count": 1
-    },
-    {
-      "name": "森田璃空",
       "count": 1
     },
     {
@@ -62,10 +42,6 @@
     },
     {
       "name": "池田彪馬",
-      "count": 1
-    },
-    {
-      "name": "武田創世",
       "count": 1
     }
   ],
@@ -83,16 +59,12 @@
       "count": 3
     },
     {
-      "name": "マイナビニュース テレビ",
+      "name": "THE FIRST TIMES",
       "count": 3
     },
     {
-      "name": "THE FIRST TIMES",
-      "count": 2
-    },
-    {
-      "name": "BARKS",
-      "count": 1
+      "name": "マイナビニュース テレビ",
+      "count": 3
     },
     {
       "name": "マイナビニュース エンタメ",
@@ -109,77 +81,105 @@
   ],
   "topics": [],
   "recentByGroup": {
-    "Lienel": [
+    "M!LK": [
       {
-        "id": "c3acf40fc84e5865",
-        "title": "Lienel、「愛のダバダ」テーマカラー“赤”を使ったASMR映像公開",
-        "sourceName": "BARKS",
-        "sourceUrl": "https://www.barks.jp/feed/",
-        "articleUrl": "https://barks.jp/news/1101603",
-        "publishedAt": "2026-10-30T12:00:00.000Z",
-        "summary": "Lienelが、初となるASMR企画映像を公開した。 本映像は、メジャー2ndシングル「愛のダバダ」のテーマである“薔薇”を思わせる“赤”にちなみ、食べ物や飲み物からおもちゃまで、用意されたアイテムをすべて赤系のもので統一。そんな“赤いものだけ”を使い、メンバーたちが様々な音を届けていく企画になっているという。 ASMRとは、音や声を聞いたときに感じる心地よ",
+        "id": "cfcdc885c5fb4485",
+        "title": "M!LK吉田仁人主演ドラマ『溺愛 ～ 実は、最強ヒーロー ～』第2話の場面写真＆あらすじ公開",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000909586/",
+        "publishedAt": "2026-10-30T14:30:59.000Z",
+        "summary": "M!LKの吉田仁人が主演を務めるドラマ『溺愛 ～ 実は、最強ヒーロー ～』（TOKYO MX他で放送）...",
         "groups": [
-          "Lienel"
+          "M!LK"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "芳賀柊斗",
-            "group": "Lienel",
-            "status": "active"
-          },
-          {
-            "name": "近藤駿太",
-            "group": "Lienel",
-            "status": "active"
-          },
-          {
-            "name": "高岡ミロ",
-            "group": "Lienel",
-            "status": "active"
-          },
-          {
-            "name": "森田璃空",
-            "group": "Lienel",
-            "status": "active"
-          },
-          {
-            "name": "武田創世",
-            "group": "Lienel",
-            "status": "active"
-          },
-          {
-            "name": "高桑真之",
-            "group": "Lienel",
+            "name": "吉田仁人",
+            "group": "M!LK",
             "status": "active"
           }
         ]
       },
       {
-        "id": "9aa1a5556bfafb6b",
-        "title": "Lienelリリースイベント、欠席になってしまった近藤駿太に代わり武田創世「お前ら離れんなよ！」",
-        "sourceName": "QJWeb",
-        "sourceUrl": "https://qjweb.jp/feed/",
-        "articleUrl": "https://qjweb.jp/column/167082/",
-        "publishedAt": "2026-10-22T10:00:00.000Z",
-        "summary": "6人組メインボーカル＆ダンスグループ・Lienelが、10月21日に2ndシングル『愛のダバダ』を発売。発売を記念してメジャーデビューをサプライズ発表した場所でもある新宿・三角広場にて、イベントを開催した。 2026年の6月に『メロ・コレクション』にてメジャーデビューを果たし、同月にはパシフィコ横浜.. 投稿 Lienelリリースイベント、欠席になってしまっ",
+        "id": "8fa5d6d1b37772cf",
+        "title": "学生時代からヘビーリスナーだった“推し”が自身のラジオを聴いてくれたと知り… M!LK吉田仁人「きっかけの人」「まさか…」",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20261030-5204291/",
+        "publishedAt": "2026-10-30T10:00:00.000Z",
+        "summary": "「されてうれしい伝言ランキング1位じゃん!」――。アイドルグループ・M!LKの吉田仁人が22日、文化放送『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)に出演。大ファンを公言するお笑いコンビ・オードリーからの“伝言”に歓喜した。",
         "groups": [
-          "Lienel"
+          "M!LK"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "近藤駿太",
-            "group": "Lienel",
+            "name": "吉田仁人",
+            "group": "M!LK",
             "status": "active"
-          },
+          }
+        ]
+      },
+      {
+        "id": "65e18293a7bbfb51",
+        "title": "吉田仁人（M!LK）、新曲“愛の形”が主演務める新金曜ドラマ「溺愛 ～ 実は、最強ヒーロー ～」EDテーマに決定。10月30日23時の初回放送内で公開",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/10/30/tg001",
+        "publishedAt": "2026-10-30T09:00:00.000Z",
+        "summary": "",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
           {
-            "name": "武田創世",
-            "group": "Lienel",
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "254acf990cc78db2",
+        "title": "M!LK、「日経トレンディ 2026年12月号増刊」表紙に登場",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/10/30/tgb003",
+        "publishedAt": "2026-10-30T05:40:40.000Z",
+        "summary": "",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "f551168340c70ace",
+        "title": "M!LK吉田仁人が歌う切実な想い、見返りを求めない主人公を描いた新曲「愛の形」11月9日配信",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/10/94274/",
+        "publishedAt": "2026-10-29T15:10:00.000Z",
+        "summary": "5人組ダンスボーカルグループ・M!LKのリーダー吉田仁人が、11月9日(月)に新曲「愛の形」を配信リリースすることを発表した。 それぞれが信じる愛の在り方を歌う「愛の形」は、大切な人の幸せを自分のこと以上に願うようになった主人公を描いたバラード。愛することと愛されることの形が同じではなくても、相手の幸せを願い続けることを選ぶ覚悟と、見返りを求めない切実な想い",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
             "status": "active"
           }
         ]
@@ -272,110 +272,6 @@
         ],
         "statuses": [],
         "memberMatches": []
-      }
-    ],
-    "M!LK": [
-      {
-        "id": "8fa5d6d1b37772cf",
-        "title": "学生時代からヘビーリスナーだった“推し”が自身のラジオを聴いてくれたと知り… M!LK吉田仁人「きっかけの人」「まさか…」",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20261030-5204291/",
-        "publishedAt": "2026-10-30T10:00:00.000Z",
-        "summary": "「されてうれしい伝言ランキング1位じゃん!」――。アイドルグループ・M!LKの吉田仁人が22日、文化放送『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)に出演。大ファンを公言するお笑いコンビ・オードリーからの“伝言”に歓喜した。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "65e18293a7bbfb51",
-        "title": "吉田仁人（M!LK）、新曲“愛の形”が主演務める新金曜ドラマ「溺愛 ～ 実は、最強ヒーロー ～」EDテーマに決定。10月30日23時の初回放送内で公開",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/10/30/tg001",
-        "publishedAt": "2026-10-30T09:00:00.000Z",
-        "summary": "",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "254acf990cc78db2",
-        "title": "M!LK、「日経トレンディ 2026年12月号増刊」表紙に登場",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/10/30/tgb003",
-        "publishedAt": "2026-10-30T05:40:40.000Z",
-        "summary": "",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "f551168340c70ace",
-        "title": "M!LK吉田仁人が歌う切実な想い、見返りを求めない主人公を描いた新曲「愛の形」11月9日配信",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/10/94274/",
-        "publishedAt": "2026-10-29T15:10:00.000Z",
-        "summary": "5人組ダンスボーカルグループ・M!LKのリーダー吉田仁人が、11月9日(月)に新曲「愛の形」を配信リリースすることを発表した。 それぞれが信じる愛の在り方を歌う「愛の形」は、大切な人の幸せを自分のこと以上に願うようになった主人公を描いたバラード。愛することと愛されることの形が同じではなくても、相手の幸せを願い続けることを選ぶ覚悟と、見返りを求めない切実な想い",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "5bde5db93561e229",
-        "title": "浜辺美波＆山中柔太朗（M!LK）、「東京カレンダー2027年1月号」通常版／特別増刊表紙をそれぞれ飾る",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/10/28/tgb002",
-        "publishedAt": "2026-10-28T06:00:00.000Z",
-        "summary": "",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
       }
     ],
     "超特急": [
@@ -555,6 +451,35 @@
         ],
         "statuses": [],
         "memberMatches": []
+      }
+    ],
+    "Lienel": [
+      {
+        "id": "9aa1a5556bfafb6b",
+        "title": "Lienelリリースイベント、欠席になってしまった近藤駿太に代わり武田創世「お前ら離れんなよ！」",
+        "sourceName": "QJWeb",
+        "sourceUrl": "https://qjweb.jp/feed/",
+        "articleUrl": "https://qjweb.jp/column/167082/",
+        "publishedAt": "2026-10-22T10:00:00.000Z",
+        "summary": "6人組メインボーカル＆ダンスグループ・Lienelが、10月21日に2ndシングル『愛のダバダ』を発売。発売を記念してメジャーデビューをサプライズ発表した場所でもある新宿・三角広場にて、イベントを開催した。 2026年の6月に『メロ・コレクション』にてメジャーデビューを果たし、同月にはパシフィコ横浜.. 投稿 Lienelリリースイベント、欠席になってしまっ",
+        "groups": [
+          "Lienel"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "近藤駿太",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "武田創世",
+            "group": "Lienel",
+            "status": "active"
+          }
+        ]
       }
     ],
     "ICEx": [
