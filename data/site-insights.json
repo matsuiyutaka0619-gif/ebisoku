@@ -1,57 +1,77 @@
 {
-  "updatedAt": "2026-10-30T05:47:48.122Z",
+  "updatedAt": "2026-10-30T12:54:39.276Z",
   "totals": {
-    "all": 130,
+    "all": 127,
     "today": 8,
-    "week": 23
+    "week": 19
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 15
-    },
-    {
-      "name": "SUPER★DRAGON",
-      "count": 7
+      "count": 10
     },
     {
       "name": "超特急",
+      "count": 5
+    },
+    {
+      "name": "SUPER★DRAGON",
       "count": 4
     },
     {
       "name": "EBiDAN",
-      "count": 3
+      "count": 2
+    },
+    {
+      "name": "Lienel",
+      "count": 1
     }
   ],
   "memberRanking": [
     {
       "name": "吉田仁人",
-      "count": 8
-    },
-    {
-      "name": "池田彪馬",
-      "count": 3
+      "count": 6
     },
     {
       "name": "アロハ",
       "count": 2
     },
     {
+      "name": "近藤駿太",
+      "count": 1
+    },
+    {
+      "name": "高岡ミロ",
+      "count": 1
+    },
+    {
+      "name": "高桑真之",
+      "count": 1
+    },
+    {
       "name": "山中柔太朗",
-      "count": 2
+      "count": 1
+    },
+    {
+      "name": "森田璃空",
+      "count": 1
     },
     {
       "name": "曽野舜太",
+      "count": 1
+    },
+    {
+      "name": "池田彪馬",
+      "count": 1
+    },
+    {
+      "name": "武田創世",
       "count": 1
     }
   ],
   "sourceRanking": [
     {
       "name": "タワーレコード ニュース",
-      "count": 5
-    },
-    {
-      "name": "SUPER★DRAGON 公式NEWS",
       "count": 4
     },
     {
@@ -59,7 +79,7 @@
       "count": 3
     },
     {
-      "name": "THE FIRST TIMES",
+      "name": "SUPER★DRAGON 公式NEWS",
       "count": 3
     },
     {
@@ -67,11 +87,15 @@
       "count": 3
     },
     {
-      "name": "リアルサウンド 音楽",
+      "name": "THE FIRST TIMES",
       "count": 2
     },
     {
       "name": "BARKS",
+      "count": 1
+    },
+    {
+      "name": "マイナビニュース エンタメ",
       "count": 1
     },
     {
@@ -85,97 +109,77 @@
   ],
   "topics": [],
   "recentByGroup": {
-    "M!LK": [
+    "Lienel": [
       {
-        "id": "254acf990cc78db2",
-        "title": "M!LK、「日経トレンディ 2026年12月号増刊」表紙に登場",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/10/30/tgb003",
-        "publishedAt": "2026-10-30T05:40:40.000Z",
-        "summary": "",
+        "id": "c3acf40fc84e5865",
+        "title": "Lienel、「愛のダバダ」テーマカラー“赤”を使ったASMR映像公開",
+        "sourceName": "BARKS",
+        "sourceUrl": "https://www.barks.jp/feed/",
+        "articleUrl": "https://barks.jp/news/1101603",
+        "publishedAt": "2026-10-30T12:00:00.000Z",
+        "summary": "Lienelが、初となるASMR企画映像を公開した。 本映像は、メジャー2ndシングル「愛のダバダ」のテーマである“薔薇”を思わせる“赤”にちなみ、食べ物や飲み物からおもちゃまで、用意されたアイテムをすべて赤系のもので統一。そんな“赤いものだけ”を使い、メンバーたちが様々な音を届けていく企画になっているという。 ASMRとは、音や声を聞いたときに感じる心地よ",
         "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "c1f1e891742300af",
-        "title": "M!LK吉田仁人が机に伏せてカメラをじっと見つめる！「ドカメロで助かる」「そんなに見つめないで」「これ見て卒倒する人が大量発生しそう」と大反響",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000909364/",
-        "publishedAt": "2026-10-30T05:02:07.000Z",
-        "summary": "『M!LK 吉田仁人のレコメン！』（文化放送）の公式Xが更新され、10月29日放送回のオフショット...",
-        "groups": [
-          "M!LK"
+          "Lienel"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "吉田仁人",
-            "group": "M!LK",
+            "name": "芳賀柊斗",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "近藤駿太",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "高岡ミロ",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "森田璃空",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "武田創世",
+            "group": "Lienel",
+            "status": "active"
+          },
+          {
+            "name": "高桑真之",
+            "group": "Lienel",
             "status": "active"
           }
         ]
       },
       {
-        "id": "1fb7838528ee528d",
-        "title": "M!LK山中柔太朗が“隣にいるような”近距離ショットに反響！「アングルが神」「ビジュの破壊力が強い」の声 『東京カレンダー』表紙にソロ初登場",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000909201/",
-        "publishedAt": "2026-10-30T03:17:27.000Z",
-        "summary": "M!LKの山中柔太朗が、11月20日発売の『東京カレンダー』2027年1月号特別増刊の表紙にソロとし...",
+        "id": "9aa1a5556bfafb6b",
+        "title": "Lienelリリースイベント、欠席になってしまった近藤駿太に代わり武田創世「お前ら離れんなよ！」",
+        "sourceName": "QJWeb",
+        "sourceUrl": "https://qjweb.jp/feed/",
+        "articleUrl": "https://qjweb.jp/column/167082/",
+        "publishedAt": "2026-10-22T10:00:00.000Z",
+        "summary": "6人組メインボーカル＆ダンスグループ・Lienelが、10月21日に2ndシングル『愛のダバダ』を発売。発売を記念してメジャーデビューをサプライズ発表した場所でもある新宿・三角広場にて、イベントを開催した。 2026年の6月に『メロ・コレクション』にてメジャーデビューを果たし、同月にはパシフィコ横浜.. 投稿 Lienelリリースイベント、欠席になってしまっ",
         "groups": [
-          "M!LK"
+          "Lienel"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "山中柔太朗",
-            "group": "M!LK",
+            "name": "近藤駿太",
+            "group": "Lienel",
             "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "d0ed54fbe7f99745",
-        "title": "RADWIMPS、M!LK、千葉雄喜、星街すいせい、BAND-MAID、名誉伝説……注目新譜6作をレビュー",
-        "sourceName": "リアルサウンド 音楽",
-        "sourceUrl": "https://realsound.jp/music/feed",
-        "articleUrl": "https://realsound.jp/2026/10/post-2566550.html",
-        "publishedAt": "2026-10-30T03:10:01.000Z",
-        "summary": "毎週発表される新譜の中から注目作品をレビューしていく連載「New Releases In Focus」。今回は、RADWIMPS「娑婆堕罵 -Shabadaba-」、M!LK「ザッツ！超常」、千葉雄喜「ここまで来た」、星街すいせい「ゾンビゾンビゾンビ」、BAND-MAID「SPIN」、名誉伝説「希望法」の6作品をピックアップした。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "e86397ee79999c36",
-        "title": "M!LK 吉田仁人、新曲「愛の形」リリース 初主演ドラマ『溺愛 ～ 実は、最強ヒーロー ～』EDテーマに",
-        "sourceName": "リアルサウンド 音楽",
-        "sourceUrl": "https://realsound.jp/music/feed",
-        "articleUrl": "https://realsound.jp/2026/10/post-2568967.html",
-        "publishedAt": "2026-10-30T02:10:46.000Z",
-        "summary": "M!LKの吉田仁人が、新曲「愛の形」を11月9日に配信リリースする。 「愛の形」は、それぞれが信じる愛の在り方を描いたバラード。愛することと愛されることの形は必ずしも同じではなくとも、相手の幸せを願い続けることを選ぶ",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
+          },
           {
-            "name": "吉田仁人",
-            "group": "M!LK",
+            "name": "武田創世",
+            "group": "Lienel",
             "status": "active"
           }
         ]
@@ -183,69 +187,13 @@
     ],
     "SUPER★DRAGON": [
       {
-        "id": "cc36410c6c5ea7b9",
-        "title": "【レポート】M!LK吉田仁人、SUPER★DRAGON池田彪馬ら『溺愛』記者会見に登場「ツッコミを入れながら楽しんでご覧ください」（吉田）",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/report/0000909041/",
-        "publishedAt": "2026-10-30T00:35:01.000Z",
-        "summary": "吉田仁人（M!LK）が主演を務める新金曜ドラマ『溺愛 ～ 実は、最強ヒーロー ～』（10月30日ス...",
-        "groups": [
-          "M!LK",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "池田彪馬",
-            "group": "SUPER★DRAGON",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "f39a2e93404935f5",
-        "title": "M!LK・吉田仁人、ドラマ『溺愛 ～ 実は、最強ヒーロー ～』EDテーマ",
-        "sourceName": "BARKS",
-        "sourceUrl": "https://www.barks.jp/feed/",
-        "articleUrl": "https://barks.jp/news/1101336",
-        "publishedAt": "2026-10-29T15:10:00.000Z",
-        "summary": "M!LK・吉田仁人が、2026年11月9日に新曲「愛の形」を配信リリースすることを発表した。 本楽曲は、それぞれが信じる愛の在り方について描いた実直なバラードだという。愛することと愛されることの形が同じではなくても、相手の幸せを願い続けることを選ぶ、大切な人の幸せを自分のこと以上に願うようになった主人公のまっすぐな覚悟と、見返りを求めない切実な想いが胸を打つ",
-        "groups": [
-          "M!LK",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "池田彪馬",
-            "group": "SUPER★DRAGON",
-            "status": "active"
-          }
-        ]
-      },
-      {
         "id": "af949395801bb0f2",
-        "title": "SUPER★DRAGON Major 2nd Album「STAR」2026年12月9日（水）発売決定！※10月29日更新",
+        "title": "SUPER★DRAGON Major 2nd Album「STAR」2026年12月9日（水）発売決定！※10月30日更新",
         "sourceName": "SUPER★DRAGON 公式NEWS",
         "sourceUrl": "https://super-dragon.jp/news/feed/",
         "articleUrl": "https://super-dragon.jp/news/news11696/",
-        "publishedAt": "2026-10-29T11:00:46.000Z",
-        "summary": "SUPER★DRAGON Major 2nd Album「STAR」 2026年12月9日（水）発売 SUPER★DRAGON「本能」 10月30日(金) 先行配信リリース！ […] The post SUPER★DRAGON Major 2nd Album「STAR」2026年12月9日（水）発売決定！※10月29日更新 first appeared on",
+        "publishedAt": "2026-10-30T11:00:46.000Z",
+        "summary": "SUPER★DRAGON Major 2nd Album「STAR」 2026年12月9日（水）発売 SUPER★DRAGON「本能」 10月30日(金) 先行配信リリース！ […] The post SUPER★DRAGON Major 2nd Album「STAR」2026年12月9日（水）発売決定！※10月30日更新 first appeared on",
         "groups": [
           "SUPER★DRAGON"
         ],
@@ -280,9 +228,193 @@
         ],
         "statuses": [],
         "memberMatches": []
+      },
+      {
+        "id": "a2df472cbfa3fed5",
+        "title": "「純粋に…」「“お兄ちゃん”として…」M!LK吉田仁人、10年以上の付き合いがあるEBiDAN後輩に見せた新たな一面 スパドラ池田彪馬「すごくうれしかった」",
+        "sourceName": "マイナビニュース テレビ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
+        "articleUrl": "https://news.mynavi.jp/article/20261027-5192623/",
+        "publishedAt": "2026-10-27T10:00:00.000Z",
+        "summary": "M!LKの吉田仁人が、TOKYO MXのドラマ『溺愛 ～ 実は、最強ヒーロー ～』(毎週金曜23:00～)の制作発表会見に出席。SUPER★DRAGONの池田彪馬と撮影現場で将来について語り合ったことを明かし、「めっちゃ真面目じゃん」と意外な一面に驚いたことを振り返った。",
+        "groups": [
+          "EBiDAN",
+          "M!LK",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "池田彪馬",
+            "group": "SUPER★DRAGON",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "2d9e4e423771c6b6",
+        "title": "EBiDAN オンラインくじ vol.2発売決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11856/",
+        "publishedAt": "2026-10-23T07:00:16.000Z",
+        "summary": "「EBiDAN museum 2026」の大盛況を記念し、10月26日(月)13:00より「EBiDAN オンラインくじ vol.2」の販売が決定しました！ グループ別のくじとなり、それぞれ全5等級のいずれかの景品が必ず […] The post EBiDAN オンラインくじ vol.2発売決定！ first appeared on SUPER★DRAGON",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
+    "M!LK": [
+      {
+        "id": "8fa5d6d1b37772cf",
+        "title": "学生時代からヘビーリスナーだった“推し”が自身のラジオを聴いてくれたと知り… M!LK吉田仁人「きっかけの人」「まさか…」",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20261030-5204291/",
+        "publishedAt": "2026-10-30T10:00:00.000Z",
+        "summary": "「されてうれしい伝言ランキング1位じゃん!」――。アイドルグループ・M!LKの吉田仁人が22日、文化放送『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)に出演。大ファンを公言するお笑いコンビ・オードリーからの“伝言”に歓喜した。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "65e18293a7bbfb51",
+        "title": "吉田仁人（M!LK）、新曲“愛の形”が主演務める新金曜ドラマ「溺愛 ～ 実は、最強ヒーロー ～」EDテーマに決定。10月30日23時の初回放送内で公開",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/10/30/tg001",
+        "publishedAt": "2026-10-30T09:00:00.000Z",
+        "summary": "",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "254acf990cc78db2",
+        "title": "M!LK、「日経トレンディ 2026年12月号増刊」表紙に登場",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/10/30/tgb003",
+        "publishedAt": "2026-10-30T05:40:40.000Z",
+        "summary": "",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "f551168340c70ace",
+        "title": "M!LK吉田仁人が歌う切実な想い、見返りを求めない主人公を描いた新曲「愛の形」11月9日配信",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/10/94274/",
+        "publishedAt": "2026-10-29T15:10:00.000Z",
+        "summary": "5人組ダンスボーカルグループ・M!LKのリーダー吉田仁人が、11月9日(月)に新曲「愛の形」を配信リリースすることを発表した。 それぞれが信じる愛の在り方を歌う「愛の形」は、大切な人の幸せを自分のこと以上に願うようになった主人公を描いたバラード。愛することと愛されることの形が同じではなくても、相手の幸せを願い続けることを選ぶ覚悟と、見返りを求めない切実な想い",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "5bde5db93561e229",
+        "title": "浜辺美波＆山中柔太朗（M!LK）、「東京カレンダー2027年1月号」通常版／特別増刊表紙をそれぞれ飾る",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/10/28/tgb002",
+        "publishedAt": "2026-10-28T06:00:00.000Z",
+        "summary": "",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
       }
     ],
     "超特急": [
+      {
+        "id": "3b1b38b6dace0193",
+        "title": "髙松アロハ（超特急）がスーツ姿で肉を焼いてビールをゴクリ！“2軒目のお誘い”動画に「コンセプト最高」「スーツ姿かっこよすぎ」と反響",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000909637/",
+        "publishedAt": "2026-10-30T07:41:14.000Z",
+        "summary": "超特急の高松アロハ（高は、はしごだかが正式表記）が、焼肉店で肉を焼いたり、ビールをおいし...",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "アロハ",
+            "group": "超特急",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "558b591456a45c43",
+        "title": "超特急9人がぬいぐるみをぎゅっと抱きしめる！大量のぬいに埋もれる姿も「かわいすぎる」「このビジュはずるいよ」「ぬいとおんなじ顔してて神」「破壊力やばい」とファン悶絶",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000909631/",
+        "publishedAt": "2026-10-30T06:37:20.000Z",
+        "summary": "超特急の公式Xが更新され、メンバー9人がぬいぐるみと寄り添う撮り下ろしビジュアルが公開され...",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
       {
         "id": "32794b83f9832210",
         "title": "「J-POPシングル ウィークリーTOP30」発表。1位はなにわ男子『Moonlit』、予約1位は超特急『エトランス・フィーバー』（2026年10月29日付）",
@@ -312,28 +444,6 @@
         "memberMatches": []
       },
       {
-        "id": "2d96e30155d15fa3",
-        "title": "髙松アロハ（超特急）が登場。「ALOHA TAKAMATSU NYLON SUPER VOL.19」表紙公開",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/10/26/tgb011",
-        "publishedAt": "2026-10-26T10:20:00.000Z",
-        "summary": "",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "アロハ",
-            "group": "超特急",
-            "status": "active"
-          }
-        ]
-      },
-      {
         "id": "c9f5c5a6ee0ff870",
         "title": "本日26歳誕生日、超特急・髙松アロハが挑発的なスタイルで魅せる『ワンダンス』場面写真3点解禁",
         "sourceName": "Bezzy",
@@ -354,20 +464,6 @@
             "status": "active"
           }
         ]
-      },
-      {
-        "id": "6865cd3cb597efa2",
-        "title": "危うく強い鈴木伸之に柏木悠が宿す意思とは、映画『羊の皮を着たケモノ』緊張感漂う場面写真解禁",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/10/93934/",
-        "publishedAt": "2026-10-23T03:00:00.000Z",
-        "summary": "鈴木伸之と柏木悠（超特急）がW主演を務め、12月11日(金)に公開される映画『羊の皮を着たケモノ』の場面写真5点が解禁された。 本作は、九號（きゅうごう）による同名BL漫画を実写化した、骨太で新感覚のボーイズ・ラブ。原作は「BLアワード2022 ディープ部門」で第13位、「BLアワード2024 ディープ部門」で第3位を獲得した人気作で、物語は前半の明るく甘い",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
       }
     ],
     "EBiDAN": [
@@ -459,35 +555,6 @@
         ],
         "statuses": [],
         "memberMatches": []
-      }
-    ],
-    "Lienel": [
-      {
-        "id": "9aa1a5556bfafb6b",
-        "title": "Lienelリリースイベント、欠席になってしまった近藤駿太に代わり武田創世「お前ら離れんなよ！」",
-        "sourceName": "QJWeb",
-        "sourceUrl": "https://qjweb.jp/feed/",
-        "articleUrl": "https://qjweb.jp/column/167082/",
-        "publishedAt": "2026-10-22T10:00:00.000Z",
-        "summary": "6人組メインボーカル＆ダンスグループ・Lienelが、10月21日に2ndシングル『愛のダバダ』を発売。発売を記念してメジャーデビューをサプライズ発表した場所でもある新宿・三角広場にて、イベントを開催した。 2026年の6月に『メロ・コレクション』にてメジャーデビューを果たし、同月にはパシフィコ横浜.. 投稿 Lienelリリースイベント、欠席になってしまっ",
-        "groups": [
-          "Lienel"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "近藤駿太",
-            "group": "Lienel",
-            "status": "active"
-          },
-          {
-            "name": "武田創世",
-            "group": "Lienel",
-            "status": "active"
-          }
-        ]
       }
     ],
     "ICEx": [
