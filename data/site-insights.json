@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-01T13:23:00.305Z",
+  "updatedAt": "2026-11-01T22:00:56.609Z",
   "totals": {
-    "all": 130,
-    "today": 4,
-    "week": 24
+    "all": 129,
+    "today": 0,
+    "week": 23
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 15
+      "count": 14
     },
     {
       "name": "SUPER★DRAGON",
-      "count": 7
+      "count": 6
     },
     {
       "name": "超特急",
@@ -26,14 +26,10 @@
   "memberRanking": [
     {
       "name": "吉田仁人",
-      "count": 8
+      "count": 7
     },
     {
       "name": "曽野舜太",
-      "count": 2
-    },
-    {
-      "name": "池田彪馬",
       "count": 2
     },
     {
@@ -46,6 +42,10 @@
     },
     {
       "name": "山中柔太朗",
+      "count": 1
+    },
+    {
+      "name": "池田彪馬",
       "count": 1
     }
   ],
@@ -71,15 +71,15 @@
       "count": 2
     },
     {
-      "name": "WWSチャンネル",
-      "count": 2
-    },
-    {
       "name": "マイナビニュース エンタメ",
       "count": 2
     },
     {
       "name": "THE FIRST TIMES",
+      "count": 1
+    },
+    {
+      "name": "WWSチャンネル",
       "count": 1
     },
     {
@@ -300,34 +300,6 @@
         "memberMatches": []
       },
       {
-        "id": "36574602728b4af4",
-        "title": "吉田仁人主演『溺愛』第2話、桃月なしこ演じる皐月が家を飛び出す！池田彪馬演じる樹の浮気と暴言に追い詰められ…",
-        "sourceName": "WWSチャンネル",
-        "sourceUrl": "https://www.wws-channel.com/feed",
-        "articleUrl": "https://www.wws-channel.com/tv/678498.html",
-        "publishedAt": "2026-10-31T02:30:11.000Z",
-        "summary": "吉田仁人（M!LK）が主演を務めるドラマ『溺愛 ～実は、最強ヒーロー～』第2話の場面写真とあらすじが公開された。11月6日（金）23時からTOKYO MX1で放送される。本作は、累計3,500万ダウンロードを突破したコミック『実は私、溺愛されてました！？ ～最低彼氏から ... The post 吉田仁人主演『溺愛』第2話、桃月なしこ演じる皐月が家を飛び出す",
-        "groups": [
-          "M!LK",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "池田彪馬",
-            "group": "SUPER★DRAGON",
-            "status": "active"
-          }
-        ]
-      },
-      {
         "id": "af949395801bb0f2",
         "title": "SUPER★DRAGON Major 2nd Album「STAR」2026年12月9日（水）発売決定！※10月30日更新",
         "sourceName": "SUPER★DRAGON 公式NEWS",
@@ -351,6 +323,20 @@
         "summary": "＠Loppi・HMV限定盤 Blu-ray『EBiDAN THE LIVE 2026 15th Anniversary』と、EBiDAN15周年アニバーサリーエディション版『EBiDAN Visual Dictionar […] The post 【＠Loppi・HMV限定盤】Blu-ray『EBiDAN THE LIVE 2026 15th Anniver",
         "groups": [
           "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "f1b556b3f91929ee",
+        "title": "12/03(木)開催リリースイベント＠KT Zepp Yokohama（神奈川）参加方法・特典会内容についてのご案内",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11872/",
+        "publishedAt": "2026-10-27T11:00:05.000Z",
+        "summary": "12/03(木)KT Zepp Yokohamaにて開催するリリースイベントの詳細をご案内致します。 必ず最後まで全てお読み頂き、会場にいらした皆様がイベントを楽しめるよう、ファンの皆様同士でルールとマナーの厳守をお願い […] The post 12/03(木)開催リリースイベント＠KT Zepp Yokohama（神奈川）参加方法・特典会内容についてのご",
+        "groups": [
           "SUPER★DRAGON"
         ],
         "statuses": [],
