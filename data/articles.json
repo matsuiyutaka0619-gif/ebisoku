@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-10-31T21:32:54.479Z",
+  "updatedAt": "2026-11-01T06:02:17.279Z",
   "articles": [
+    {
+      "id": "b582efa26a9863a5",
+      "title": "M!LK曽野舜太、一足先に活躍を広げた佐野勇斗に嫉妬しなかった理由「それがすごくうれしくて」 グループへの思い告白",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261101-5230681/",
+      "publishedAt": "2026-11-01T05:00:00.000Z",
+      "summary": "「今年、来年がマジ勝負だと思ってるんで、今以上に気合入れて」――1日に放送された日本テレビのバラエティ番組『メシドラ ～兼近＆真之介のグルメドライブ～』(毎週日曜12:45～ ※関東ローカル)で、M!LKの曽野舜太がグループの躍進を実感する日々と、さらなる飛躍への決意を告白。佐野勇斗が俳優として先に活躍した時期にも嫉妬はなかったと明かし、グループへの思いを語",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "曽野舜太",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "51e39cbcb238cd49",
+      "title": "M!LKの青春感溢れるショットを厳選！制服姿でじゃれ合う5人から温泉＆初日の出の思い出まで…メンバーの空気感が最高！",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000907333/",
+      "publishedAt": "2026-11-01T01:00:33.000Z",
+      "summary": "一緒に笑って、はしゃいで、ときには同じ景色に感動して。M!LKの5人がそろう写真には、まるで...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "949ecd41c0ec3bcb",
       "title": "【楽天ミュージック】SUPER★DRAGON「本能」再生キャンペーン開催！ 渋谷スクランブル交差点大型ビジョン「Rakuten Vision」での放映も決定！",
@@ -50,79 +91,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "82842646823708b8",
-      "title": "【レポート】JO（&TEAM）、RAN（MAZZEL）、髙松アロハ（超特急）らが映画『ワンダンス』イベントで圧巻のダンスパフォーマンスを生披露",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/report/0000910098/",
-      "publishedAt": "2026-10-31T09:13:41.000Z",
-      "summary": "映画『ワンダンス』のジャパンプレミアが10月31日にTOHOシネマズ 六本木ヒルズにて開催され、...",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "アロハ",
-          "group": "超特急",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "0804760d773e9227",
-      "title": "原因は自分にある。6度目の『オールナイトニッポン0』パーソナリティを担当！桜木雅哉、長野凌大、杢代和人、吉澤要人が出演",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000910093/",
-      "publishedAt": "2026-10-31T09:00:41.000Z",
-      "summary": "原因は自分にある。が、11月7日27時から放送される『オールナイトニッポン0(ZERO)』のパーソナ...",
-      "groups": [
-        "原因は自分にある。"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "桜木雅哉",
-          "group": "原因は自分にある。",
-          "status": "active"
-        },
-        {
-          "name": "長野凌大",
-          "group": "原因は自分にある。",
-          "status": "active"
-        },
-        {
-          "name": "杢代和人",
-          "group": "原因は自分にある。",
-          "status": "active"
-        },
-        {
-          "name": "吉澤要人",
-          "group": "原因は自分にある。",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "2f6c55672ee73a2e",
-      "title": "M!LK「“イイみるくの日”週間」コンテンツカレンダー公開！「爆裂愛しすぎて滅！（Crazy Mashup by TeddyLoid）」配信も決定",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000909943/",
-      "publishedAt": "2026-10-31T09:00:27.000Z",
-      "summary": "M!LKが11月1日から9日まで「“イイみるくの日”週間」と銘打って毎日コンテンツを公開。11月3日...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "1759deeb04141b4e",
@@ -183,28 +151,6 @@
       ]
     },
     {
-      "id": "57f9f77618f4c568",
-      "title": "M!LK曽野舜太、サイズが合わないメイド服姿でハロウィン料理を手作り！ぶりっ子ポーズに「かわいすぎて滅」「女の子よりかわいい」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000909912/",
-      "publishedAt": "2026-10-31T04:35:50.000Z",
-      "summary": "5人組ダンスボーカルグループ・M!LKの曽野舜太が、ハロウィンにちなんで仮装姿を公開。メイド...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "曽野舜太",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "a5f667580224e147",
       "title": "吉田仁人『atmos presents SNEAKER BEST DRESSER AWARD 2026』特別賞に！ASICS「GEL-NYC 2.0」レポート",
       "sourceName": "Edge Line",
@@ -253,47 +199,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "692371c207bcb497",
-      "title": "M!LK山中柔太朗の“高身長ビジュ”ショット！女性アーティストとの身長差にキュン＆曽野舜太との王子様姿も",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000907252/",
-      "publishedAt": "2026-10-31T02:00:00.000Z",
-      "summary": "すらりとした長身と端正な顔立ちで、ひときわ目を引くM!LKの山中柔太朗。抜群のスタイルを生か...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "曽野舜太",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "山中柔太朗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "67c16e1f651c92cb",
-      "title": "M!LK5人のハイトーンヘアを厳選！金髪からミルクティーカラーまでメンバーそれぞれの爆イケショット",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000907211/",
-      "publishedAt": "2026-10-31T00:00:24.000Z",
-      "summary": "グループには必ずといっていいほどハイトーンヘアのメンバーがいるM!LK。金髪やミルクティーカ...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "af949395801bb0f2",
@@ -493,28 +398,6 @@
         {
           "name": "池田彪馬",
           "group": "SUPER★DRAGON",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "cb3c09e2eab9a503",
-      "title": "M!LK曽野舜太、子どもの登園準備で大パニック「ちょっと静かにしてよ!」 次々押し寄せる家事に悲鳴",
-      "sourceName": "マイナビニュース テレビ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-      "articleUrl": "https://news.mynavi.jp/article/20261027-5199416/",
-      "publishedAt": "2026-10-26T22:00:00.000Z",
-      "summary": "「ちょっと静かにしてよ!」――M!LKの曽野舜太が、きょう27日に放送される日本テレビ系バラエティ特番『ザッツ M!LK』(23:59～)で、朝からぐずる子どもの登園準備に挑戦。水筒の準備や髪の毛のセット、おもちゃの片付けなど、次々と押し寄せる“名もなき家事”に大パニックとなる。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "曽野舜太",
-          "group": "M!LK",
           "status": "active"
         }
       ]
