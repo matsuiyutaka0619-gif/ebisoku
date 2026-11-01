@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-11-01T06:02:17.279Z",
+  "updatedAt": "2026-11-01T13:23:00.302Z",
   "articles": [
+    {
+      "id": "92b39100d018885d",
+      "title": "超特急・ハロウィンSPECIAL生配信を実施！",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/event/678791.html",
+      "publishedAt": "2026-11-01T12:30:47.000Z",
+      "summary": "11月25・26日に初の東京ドーム公演を控える9人組メインダンサー＆バックボーカルグループの超特急が、10月31日にハロウィンを記念したSPECIAL生配信を実施。メンバー全員が超ハイクオリティな妖怪コスプレで登場し、モノマネや面白川柳、爆笑ギャグや一発芸などを披露して ... The post 超特急・ハロウィンSPECIAL生配信を実施！ first a",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "d525cb5ad1446b1c",
+      "title": "「普通に結構かわいいのがヤバい」「スタッフさん神がとう」M!LK曽野舜太が個人YouTubeで見せた“コスプレ姿”にファン歓喜",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261101-5210016/",
+      "publishedAt": "2026-11-01T10:00:00.000Z",
+      "summary": "5人組ダンスボーカルグループ・M!LKの曽野舜太が、自身のYouTubeチャンネル『I'm 曽野舜太』を更新。ハロウィンにちなんだ料理企画に挑戦。コスプレ姿を披露し、ファンから反響が寄せられた。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "曽野舜太",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "b582efa26a9863a5",
       "title": "M!LK曽野舜太、一足先に活躍を広げた佐野勇斗に嫉妬しなかった理由「それがすごくうれしくて」 グループへの思い告白",
@@ -71,32 +107,10 @@
       "memberMatches": []
     },
     {
-      "id": "a79b53fc5f29e889",
-      "title": "「初恋すぎる」「ずーっと優しくてメロすぎる」「心の底からいい人なのがわかる」M!LK佐野勇斗が子どもに見せた表情にファン歓喜",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-      "articleUrl": "https://news.mynavi.jp/article/20261031-5210482/",
-      "publishedAt": "2026-10-31T10:00:00.000Z",
-      "summary": "5人組ダンスボーカルグループ・M!LKの佐野勇斗が、自身のYouTubeチャンネル『佐野勇斗だぞ』を更新。撮影先で出会った子どもたちとの微笑ましいやり取りを公開した。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "1759deeb04141b4e",
       "title": "「過程が大事」「昔から…」M!LK吉田仁人が愛する“未完成”――個人活動に対する考え方から見えた“仕事観”とは",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
       "articleUrl": "https://news.mynavi.jp/article/20261031-jintoyoshida/",
       "publishedAt": "2026-10-31T09:00:00.000Z",
       "summary": "「自分が“楽しんでできるかどうか”です」――M!LKのリーダー・吉田仁人が、仕事をするうえで最も大切にしているのは、驚くほどシンプルな基準だった。グループとして飛躍を続ける一方、TOKYO MXドラマ『溺愛 ～ 実は、最強ヒーロー ～』(毎週金曜23:00～)で連続ドラマ初主演を果たすなど、個人としても活躍の場を広げている吉田。初主演への思いや撮影の裏側とと",
