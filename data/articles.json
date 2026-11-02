@@ -1,6 +1,85 @@
 {
-  "updatedAt": "2026-11-01T22:00:56.607Z",
+  "updatedAt": "2026-11-02T06:00:20.257Z",
   "articles": [
+    {
+      "id": "a24d6c471345f597",
+      "title": "11月2日放送「CDTVライブ！ライブ！」3時間SP、ano、Ayumu Imazu、Aぇ! group、Kis-My-Ft2、JO1、島袋寛子、BUDDiiS、Mrs. GREEN APPLE、ヤバイTシャツ屋さん出演。「マンスリーライブ！」はBE:FIRST。佐野晶哉（Aぇ! group）、LAPONE選抜も",
+      "sourceName": "タワーレコード ニュース",
+      "sourceUrl": "https://tower.jp/feeds/article/news",
+      "articleUrl": "https://tower.jp/article/news/2026/11/02/tg001",
+      "publishedAt": "2026-11-02T04:40:00.000Z",
+      "summary": "",
+      "groups": [
+        "BUDDiiS"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "3faf8b1729ba6c06",
+      "title": "【ライブレポート】Straight Angeli、デビュー1周年記念ライブ開催「メジャーデビューを掴んだ私たちの希望と決意を」",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1101934",
+      "publishedAt": "2026-11-02T03:29:20.000Z",
+      "summary": "Straight Angeli（ストレートアンジェリー）がデビュー1周年を記念した単独ライブ＜Straight Angeli 1st Anniversary Live -Campanella-＞を東京・恵比寿ザ・ガーデンホールにて開催した。 昨年11月1日デビュー以降“Kawaii Rock”をコンセプトに、天使のように誰からも愛される存在になってほしいとい",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "7f51f13c1211da2a",
+      "title": "Spotify Canvasシェアキャンペーン 11月2日(月)より日替わりでここでしか見られない各メンバーのオリジナル動画を公開！",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news11901/",
+      "publishedAt": "2026-11-02T03:00:18.000Z",
+      "summary": "Canvasをストーリーにシェアしてくださった方全員に 【Spotify Canvasシェアありがとう動画】をプレゼント！ ＜応募期間＞ 2026年11月2日(月)〜2026年11月11日(水)23:59 ＜ご参加方法＞ […] The post Spotify Canvasシェアキャンペーン 11月2日(月)より日替わりでここでしか見られない各メンバーのオ",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "15aa3a8565398749",
+      "title": "超特急、ABC-MARTの店内ラジオ『ABC TRACKS』初回ゲストに！靴やファッションのエピソードを語る",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/fashion2/678825.html",
+      "publishedAt": "2026-11-01T23:30:14.000Z",
+      "summary": "超特急が、11月1日よりABC-MARTの一部店舗で放送を開始した店内ラジオ番組『ABC TRACKS』の初回ゲストに登場する。11月1日から15日までの第1回にはリョウガとマサヒロ、16日から30日までの第2回にはカイとタカシが出演。靴やファッションにまつわるエピソー ... The post 超特急、ABC-MARTの店内ラジオ『ABC TRACKS』初",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "カイ",
+          "group": "超特急",
+          "status": "active"
+        },
+        {
+          "name": "リョウガ",
+          "group": "超特急",
+          "status": "active"
+        },
+        {
+          "name": "タカシ",
+          "group": "超特急",
+          "status": "active"
+        },
+        {
+          "name": "マサヒロ",
+          "group": "超特急",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "92b39100d018885d",
       "title": "超特急・ハロウィンSPECIAL生配信を実施！",
@@ -40,8 +119,8 @@
     {
       "id": "b582efa26a9863a5",
       "title": "M!LK曽野舜太、一足先に活躍を広げた佐野勇斗に嫉妬しなかった理由「それがすごくうれしくて」 グループへの思い告白",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
       "articleUrl": "https://news.mynavi.jp/article/20261101-5230681/",
       "publishedAt": "2026-11-01T05:00:00.000Z",
       "summary": "「今年、来年がマジ勝負だと思ってるんで、今以上に気合入れて」――1日に放送された日本テレビのバラエティ番組『メシドラ ～兼近＆真之介のグルメドライブ～』(毎週日曜12:45～ ※関東ローカル)で、M!LKの曽野舜太がグループの躍進を実感する日々と、さらなる飛躍への決意を告白。佐野勇斗が俳優として先に活躍した時期にも嫉妬はなかったと明かし、グループへの思いを語",
@@ -63,20 +142,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "51e39cbcb238cd49",
-      "title": "M!LKの青春感溢れるショットを厳選！制服姿でじゃれ合う5人から温泉＆初日の出の思い出まで…メンバーの空気感が最高！",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000907333/",
-      "publishedAt": "2026-11-01T01:00:33.000Z",
-      "summary": "一緒に笑って、はしゃいで、ときには同じ景色に感動して。M!LKの5人がそろう写真には、まるで...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "949ecd41c0ec3bcb",
@@ -150,28 +215,6 @@
       "articleUrl": "https://www.edgeline-tokyo.com/entertainment/207926",
       "publishedAt": "2026-10-31T04:38:39.000Z",
       "summary": "『atmos presents SNEAKER BEST DRESSER AWARD 2026』表彰式が10月31日に東京・新宿住友地下ホールで開催。受賞者が表彰を受けた。 スニーカー販売のatmosが、スニーカー、...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "a5f667580224e147",
-      "title": "吉田仁人『atmos presents SNEAKER BEST DRESSER AWARD 2026』特別賞に！ASICS「GEL-NYC 2.0」レポート",
-      "sourceName": "Edge Line",
-      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-      "articleUrl": "https://www.edgeline-tokyo.com/fashion/207924",
-      "publishedAt": "2026-10-31T04:35:04.000Z",
-      "summary": "アイドルグループ『M!LK』吉田仁人が10月31日に東京・新宿住友地下ホールで開催の『atmos presents SNEAKER BEST DRESSER AWARD 2026』で特別賞 アイコン・オブ・ザ・イヤーを...",
       "groups": [
         "M!LK"
       ],
@@ -310,28 +353,6 @@
       ]
     },
     {
-      "id": "9799a371ebf51a13",
-      "title": "吉田仁人「うれしすぎます!」 冠番組『ザッツ M!LK』正月に第2弾放送決定",
-      "sourceName": "マイナビニュース テレビ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-      "articleUrl": "https://news.mynavi.jp/article/20261028-5205419/",
-      "publishedAt": "2026-10-27T15:54:00.000Z",
-      "summary": "「まさかのもう第2弾が…! うれしすぎます!」――M!LKのリーダー・吉田仁人が喜びを語ったのは、2027年1月3日に日本テレビで放送される冠バラエティ番組『ザッツ M!LK』の正月特番。日本国民の代わりに本気で“恥”をかく5人が、新春から新たな企画に挑戦する。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "69da96bf9d421a41",
       "title": "「すごい好きだった」「毎日先生と…」超特急・柏木悠が学生に戻ってやりたいことを告白",
       "sourceName": "マイナビニュース 映画",
@@ -358,35 +379,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "a2df472cbfa3fed5",
-      "title": "「純粋に…」「“お兄ちゃん”として…」M!LK吉田仁人、10年以上の付き合いがあるEBiDAN後輩に見せた新たな一面 スパドラ池田彪馬「すごくうれしかった」",
-      "sourceName": "マイナビニュース テレビ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-      "articleUrl": "https://news.mynavi.jp/article/20261027-5192623/",
-      "publishedAt": "2026-10-27T10:00:00.000Z",
-      "summary": "M!LKの吉田仁人が、TOKYO MXのドラマ『溺愛 ～ 実は、最強ヒーロー ～』(毎週金曜23:00～)の制作発表会見に出席。SUPER★DRAGONの池田彪馬と撮影現場で将来について語り合ったことを明かし、「めっちゃ真面目じゃん」と意外な一面に驚いたことを振り返った。",
-      "groups": [
-        "EBiDAN",
-        "M!LK",
-        "SUPER★DRAGON"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "池田彪馬",
-          "group": "SUPER★DRAGON",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "47bc53c4119d9087",
@@ -2125,20 +2117,6 @@
       "articleUrl": "https://super-dragon.jp/news/news11258/",
       "publishedAt": "2026-06-12T12:00:45.000Z",
       "summary": "期間中に「Call Me Asap」または「NUMBER」の音源を使用して 【#SD_Asap】または【#SD_NUMBER】を付けて投稿頂いた方の中から、ランダムでメンバーがコメントまたはいいねをさせていただきます！ […] The post SUPER★DRAGON「Call Me Asap / NUMBER」SNSシェアキャンペーン開催決定！ firs",
-      "groups": [
-        "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "6dfe92b17e9a8fe3",
-      "title": "Major 6th Single「Call Me Asap / NUMBER」 6月21日(日)開催リリースイベント＠松下IMPホール（大阪）参加方法・特典会内容についてのご案内",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news11254/",
-      "publishedAt": "2026-06-12T11:00:35.000Z",
-      "summary": "6/21(日)松下IMPホールにて開催するリリースイベントの詳細をご案内致します。 必ず最後まで全てお読み頂き、会場にいらした皆様がイベントを楽しめるよう、ファンの皆様同士でルールとマナーの厳守をお願い致します。 CD販 […] The post Major 6th Single「Call Me Asap / NUMBER」 6月21日(日)開催リリースイベ",
       "groups": [
         "SUPER★DRAGON"
       ],
