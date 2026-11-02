@@ -1,6 +1,103 @@
 {
-  "updatedAt": "2026-11-02T06:00:20.257Z",
+  "updatedAt": "2026-11-02T15:50:01.952Z",
   "articles": [
+    {
+      "id": "7e88eb56cabb27fa",
+      "title": "SUPER★DRAGON Major 2nd Album「STAR」リリースイベント・特典会開催！",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news11790/",
+      "publishedAt": "2026-11-02T12:00:30.000Z",
+      "summary": "2026年12月09日(水)、SUPER★DRAGONメジャー2枚目となるアルバム「STAR」の発売を記念し、リリースイベント・特典会が決定いたしました！ SUPER★DRAGONと一緒に、素敵な思い出を作りましょう！ […] The post SUPER★DRAGON Major 2nd Album「STAR」リリースイベント・特典会開催！ first a",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "db118cc15a55715d",
+      "title": "M!LK吉田仁人＆塩﨑太智が小競り合いしながら“わちゃわちゃ”ダンス！センター争奪戦に「吉田さんにやり返されて満足げな塩さん」「じんだい距離感バグってる」の声",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000911500/",
+      "publishedAt": "2026-11-02T10:52:58.000Z",
+      "summary": "M!LKが公式SNSを更新し、吉田仁人と塩﨑太智が10月26日配信リリースの新曲「ザッツ！超常」を...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "塩﨑太智",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "1010c713c02ae425",
+      "title": "BUDDiiSが全肯定ヒーローズに。メジャー2ndシングル リード曲「無限大LOVE!!!」MV公開",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1102043",
+      "publishedAt": "2026-11-02T09:15:39.000Z",
+      "summary": "BUDDiiSが11月18日(水)発売 メジャー2ndシングルよりリード曲「無限大LOVE!!!」のMVを公開した。 「無限大LOVE!!!」は宇宙ごと抱きしめるようなスケールで愛を鳴らすハイテンションなポップソング。円周率を終わりのない愛と重ねながら「好き」の熱量が銀河を越えてどこまでも膨らんでいく“全存在大肯定”ソングだ。 MVは、この時代に全てを全力で",
+      "groups": [
+        "BUDDiiS"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "73088d1c9854df25",
+      "title": "原因は自分にある。、5thシングル『ラブリーズン』発売直前に6度目の「オールナイトニッポン0(ZERO)」担当。「原因は自分にある。のオールナイトニッポン0(ZERO)」11月7日27時～29時生放送",
+      "sourceName": "タワーレコード ニュース",
+      "sourceUrl": "https://tower.jp/feeds/article/news",
+      "articleUrl": "https://tower.jp/article/news/2026/11/02/tg005",
+      "publishedAt": "2026-11-02T09:10:32.000Z",
+      "summary": "",
+      "groups": [
+        "原因は自分にある。"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "6c39d04b669f436a",
+      "title": "M!LK、「“イイみるくの日”週間」開催中。毎日コンテンツ公開＆“爆裂愛しすぎて滅！(Crazy Mashup by TeddyLoid)” 11月3日配信リリース",
+      "sourceName": "タワーレコード ニュース",
+      "sourceUrl": "https://tower.jp/feeds/article/news",
+      "articleUrl": "https://tower.jp/article/news/2026/11/02/tg003",
+      "publishedAt": "2026-11-02T09:00:00.000Z",
+      "summary": "",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "646c43426ce29959",
+      "title": "原因は自分にある。、JOYSOUNDとコラボ 全7種の待ち受け画像をプレゼント、ハート形アクリルボードも",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261102-5242275/",
+      "publishedAt": "2026-11-02T08:01:01.000Z",
+      "summary": "7人組ダンスボーカルグループ・原因は自分にある。の5thシングル『ラブリーズン』のリリースを記念した「原因は自分にある。×JOYSOUNDコラボキャンペーン」が、2日からスタートした。対象のカラオケ店舗で課題曲を選曲すると、参加者全員にオリジナル待ち受け画像がプレゼントされるほか、抽選で20人にハート形アクリルボードが当たる。",
+      "groups": [
+        "原因は自分にある。"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "a24d6c471345f597",
       "title": "11月2日放送「CDTVライブ！ライブ！」3時間SP、ano、Ayumu Imazu、Aぇ! group、Kis-My-Ft2、JO1、島袋寛子、BUDDiiS、Mrs. GREEN APPLE、ヤバイTシャツ屋さん出演。「マンスリーライブ！」はBE:FIRST。佐野晶哉（Aぇ! group）、LAPONE選抜も",
@@ -11,20 +108,6 @@
       "summary": "",
       "groups": [
         "BUDDiiS"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "3faf8b1729ba6c06",
-      "title": "【ライブレポート】Straight Angeli、デビュー1周年記念ライブ開催「メジャーデビューを掴んだ私たちの希望と決意を」",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1101934",
-      "publishedAt": "2026-11-02T03:29:20.000Z",
-      "summary": "Straight Angeli（ストレートアンジェリー）がデビュー1周年を記念した単独ライブ＜Straight Angeli 1st Anniversary Live -Campanella-＞を東京・恵比寿ザ・ガーデンホールにて開催した。 昨年11月1日デビュー以降“Kawaii Rock”をコンセプトに、天使のように誰からも愛される存在になってほしいとい",
-      "groups": [
-        "超特急"
       ],
       "statuses": [],
       "memberMatches": []
@@ -93,28 +176,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "d525cb5ad1446b1c",
-      "title": "「普通に結構かわいいのがヤバい」「スタッフさん神がとう」M!LK曽野舜太が個人YouTubeで見せた“コスプレ姿”にファン歓喜",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-      "articleUrl": "https://news.mynavi.jp/article/20261101-5210016/",
-      "publishedAt": "2026-11-01T10:00:00.000Z",
-      "summary": "5人組ダンスボーカルグループ・M!LKの曽野舜太が、自身のYouTubeチャンネル『I'm 曽野舜太』を更新。ハロウィンにちなんだ料理企画に挑戦。コスプレ姿を披露し、ファンから反響が寄せられた。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "曽野舜太",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "b582efa26a9863a5",
@@ -206,28 +267,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "790cb76050554ff9",
-      "title": "＆TEAM・K、CANDY TUNE、窪塚愛流、吉田仁人ら『atmos presents SNEAKER BEST DRESSER AWARD 2026』表彰",
-      "sourceName": "Edge Line",
-      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/207926",
-      "publishedAt": "2026-10-31T04:38:39.000Z",
-      "summary": "『atmos presents SNEAKER BEST DRESSER AWARD 2026』表彰式が10月31日に東京・新宿住友地下ホールで開催。受賞者が表彰を受けた。 スニーカー販売のatmosが、スニーカー、...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "af949395801bb0f2",
@@ -329,28 +368,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "5bde5db93561e229",
-      "title": "浜辺美波＆山中柔太朗（M!LK）、「東京カレンダー2027年1月号」通常版／特別増刊表紙をそれぞれ飾る",
-      "sourceName": "タワーレコード ニュース",
-      "sourceUrl": "https://tower.jp/feeds/article/news",
-      "articleUrl": "https://tower.jp/article/news/2026/10/28/tgb002",
-      "publishedAt": "2026-10-28T06:00:00.000Z",
-      "summary": "",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "山中柔太朗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "69da96bf9d421a41",
@@ -532,20 +549,6 @@
       "articleUrl": "https://super-dragon.jp/news/news11815/",
       "publishedAt": "2026-10-17T06:00:27.000Z",
       "summary": "本日10月17日(土)15:00より『+KIRARI』会員先行が受付開始。 会場で皆さんとお会いできることを楽しみにしております！ ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願いと注意事項】 ht […] The post SUPER★DRAGON LIVE TOUR 2027「house」最新チケット情報！ first appear",
-      "groups": [
-        "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "7e88eb56cabb27fa",
-      "title": "SUPER★DRAGON Major 2nd Album「STAR」リリースイベント・特典会開催！",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news11790/",
-      "publishedAt": "2026-10-16T10:00:30.000Z",
-      "summary": "2026年12月09日(水)、SUPER★DRAGONメジャー2枚目となるアルバム「STAR」の発売を記念し、リリースイベント・特典会が決定いたしました！ SUPER★DRAGONと一緒に、素敵な思い出を作りましょう！ […] The post SUPER★DRAGON Major 2nd Album「STAR」リリースイベント・特典会開催！ first a",
       "groups": [
         "SUPER★DRAGON"
       ],

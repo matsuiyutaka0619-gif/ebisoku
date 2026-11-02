@@ -1,26 +1,30 @@
 {
-  "updatedAt": "2026-11-02T06:00:20.258Z",
+  "updatedAt": "2026-11-02T15:50:01.954Z",
   "totals": {
-    "all": 128,
-    "today": 4,
-    "week": 22
+    "all": 129,
+    "today": 0,
+    "week": 23
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 10
+      "count": 8
     },
     {
       "name": "SUPER★DRAGON",
-      "count": 6
+      "count": 7
     },
     {
       "name": "超特急",
-      "count": 5
+      "count": 4
     },
     {
       "name": "BUDDiiS",
-      "count": 1
+      "count": 2
+    },
+    {
+      "name": "原因は自分にある。",
+      "count": 2
     },
     {
       "name": "EBiDAN",
@@ -31,10 +35,6 @@
     {
       "name": "吉田仁人",
       "count": 4
-    },
-    {
-      "name": "曽野舜太",
-      "count": 2
     },
     {
       "name": "カイ",
@@ -53,26 +53,30 @@
       "count": 1
     },
     {
+      "name": "塩﨑太智",
+      "count": 1
+    },
+    {
       "name": "佐野勇斗",
       "count": 1
     },
     {
-      "name": "山中柔太朗",
+      "name": "曽野舜太",
       "count": 1
     }
   ],
   "sourceRanking": [
     {
       "name": "SUPER★DRAGON 公式NEWS",
-      "count": 6
+      "count": 7
     },
     {
       "name": "タワーレコード ニュース",
-      "count": 5
+      "count": 6
     },
     {
       "name": "Bezzy",
-      "count": 3
+      "count": 2
     },
     {
       "name": "WWSチャンネル",
@@ -87,7 +91,7 @@
       "count": 1
     },
     {
-      "name": "Edge Line",
+      "name": "THE FIRST TIMES",
       "count": 1
     },
     {
@@ -101,7 +105,199 @@
   ],
   "topics": [],
   "recentByGroup": {
+    "SUPER★DRAGON": [
+      {
+        "id": "7e88eb56cabb27fa",
+        "title": "SUPER★DRAGON Major 2nd Album「STAR」リリースイベント・特典会開催！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11790/",
+        "publishedAt": "2026-11-02T12:00:30.000Z",
+        "summary": "2026年12月09日(水)、SUPER★DRAGONメジャー2枚目となるアルバム「STAR」の発売を記念し、リリースイベント・特典会が決定いたしました！ SUPER★DRAGONと一緒に、素敵な思い出を作りましょう！ […] The post SUPER★DRAGON Major 2nd Album「STAR」リリースイベント・特典会開催！ first a",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "7f51f13c1211da2a",
+        "title": "Spotify Canvasシェアキャンペーン 11月2日(月)より日替わりでここでしか見られない各メンバーのオリジナル動画を公開！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11901/",
+        "publishedAt": "2026-11-02T03:00:18.000Z",
+        "summary": "Canvasをストーリーにシェアしてくださった方全員に 【Spotify Canvasシェアありがとう動画】をプレゼント！ ＜応募期間＞ 2026年11月2日(月)〜2026年11月11日(水)23:59 ＜ご参加方法＞ […] The post Spotify Canvasシェアキャンペーン 11月2日(月)より日替わりでここでしか見られない各メンバーのオ",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "949ecd41c0ec3bcb",
+        "title": "【楽天ミュージック】SUPER★DRAGON「本能」再生キャンペーン開催！ 渋谷スクランブル交差点大型ビジョン「Rakuten Vision」での放映も決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11898/",
+        "publishedAt": "2026-10-31T12:00:17.000Z",
+        "summary": "楽天ミュージックで、SUPER★DRAGON「本能」の再生キャンペーン開催が決定！ さらに、渋谷スクランブル交差点大型ビジョン「Rakuten Vision」で11月1日よりキャンペーン告知動画の放映も決定いたしました！ […] The post 【楽天ミュージック】SUPER★DRAGON「本能」再生キャンペーン開催！ 渋谷スクランブル交差点大型ビジョン「",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "7df3a40e508c7e52",
+        "title": "SUPER★DRAGON Digital Single「本能」の配信を記念して、 LINE MUSIC再生キャンペーン開催決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11895/",
+        "publishedAt": "2026-10-31T11:00:46.000Z",
+        "summary": "LINE MUSIC再生キャンペーン SUPER★DRAGON Major 2nd Album『STAR』より、「本能」の先行配信リリースを記念して、この楽曲をたくさん聴いていただいた方へのプレゼントキャンペーンが決定い […] The post SUPER★DRAGON Digital Single「本能」の配信を記念して、 LINE MUSIC再生キャン",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "af949395801bb0f2",
+        "title": "SUPER★DRAGON Major 2nd Album「STAR」2026年12月9日（水）発売決定！※10月30日更新",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11696/",
+        "publishedAt": "2026-10-30T11:00:46.000Z",
+        "summary": "SUPER★DRAGON Major 2nd Album「STAR」 2026年12月9日（水）発売 SUPER★DRAGON「本能」 10月30日(金) 先行配信リリース！ […] The post SUPER★DRAGON Major 2nd Album「STAR」2026年12月9日（水）発売決定！※10月30日更新 first appeared on",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
+    "M!LK": [
+      {
+        "id": "db118cc15a55715d",
+        "title": "M!LK吉田仁人＆塩﨑太智が小競り合いしながら“わちゃわちゃ”ダンス！センター争奪戦に「吉田さんにやり返されて満足げな塩さん」「じんだい距離感バグってる」の声",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000911500/",
+        "publishedAt": "2026-11-02T10:52:58.000Z",
+        "summary": "M!LKが公式SNSを更新し、吉田仁人と塩﨑太智が10月26日配信リリースの新曲「ザッツ！超常」を...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "6c39d04b669f436a",
+        "title": "M!LK、「“イイみるくの日”週間」開催中。毎日コンテンツ公開＆“爆裂愛しすぎて滅！(Crazy Mashup by TeddyLoid)” 11月3日配信リリース",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/11/02/tg003",
+        "publishedAt": "2026-11-02T09:00:00.000Z",
+        "summary": "",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "b582efa26a9863a5",
+        "title": "M!LK曽野舜太、一足先に活躍を広げた佐野勇斗に嫉妬しなかった理由「それがすごくうれしくて」 グループへの思い告白",
+        "sourceName": "マイナビニュース テレビ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
+        "articleUrl": "https://news.mynavi.jp/article/20261101-5230681/",
+        "publishedAt": "2026-11-01T05:00:00.000Z",
+        "summary": "「今年、来年がマジ勝負だと思ってるんで、今以上に気合入れて」――1日に放送された日本テレビのバラエティ番組『メシドラ ～兼近＆真之介のグルメドライブ～』(毎週日曜12:45～ ※関東ローカル)で、M!LKの曽野舜太がグループの躍進を実感する日々と、さらなる飛躍への決意を告白。佐野勇斗が俳優として先に活躍した時期にも嫉妬はなかったと明かし、グループへの思いを語",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "1759deeb04141b4e",
+        "title": "「過程が大事」「昔から…」M!LK吉田仁人が愛する“未完成”――個人活動に対する考え方から見えた“仕事観”とは",
+        "sourceName": "マイナビニュース テレビ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
+        "articleUrl": "https://news.mynavi.jp/article/20261031-jintoyoshida/",
+        "publishedAt": "2026-10-31T09:00:00.000Z",
+        "summary": "「自分が“楽しんでできるかどうか”です」――M!LKのリーダー・吉田仁人が、仕事をするうえで最も大切にしているのは、驚くほどシンプルな基準だった。グループとして飛躍を続ける一方、TOKYO MXドラマ『溺愛 ～ 実は、最強ヒーロー ～』(毎週金曜23:00～)で連続ドラマ初主演を果たすなど、個人としても活躍の場を広げている吉田。初主演への思いや撮影の裏側とと",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "e80d3ea48c72b1b0",
+        "title": "M!LK「“イイみるくの日”週間」が明日開幕、推しカメラなどのコンテンツを11月9日まで毎日お届け",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/10/94346/",
+        "publishedAt": "2026-10-31T09:00:00.000Z",
+        "summary": "5人組ダンスボーカルグループ・M!LKが、11月1日(日)から9日(月)までを「“イイみるくの日”週間」と題し、毎日コンテンツを配信することを発表した。 11月3日(火)を「イイみるくの日」として開催される本企画。スタートに先立ち明日からのコンテンツカレンダーが公開され、先日配信リリースされた「ザッツ！超常」の推しカメラコンテンツから11月9日(月) の「Y",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
     "BUDDiiS": [
+      {
+        "id": "1010c713c02ae425",
+        "title": "BUDDiiSが全肯定ヒーローズに。メジャー2ndシングル リード曲「無限大LOVE!!!」MV公開",
+        "sourceName": "BARKS",
+        "sourceUrl": "https://www.barks.jp/feed/",
+        "articleUrl": "https://barks.jp/news/1102043",
+        "publishedAt": "2026-11-02T09:15:39.000Z",
+        "summary": "BUDDiiSが11月18日(水)発売 メジャー2ndシングルよりリード曲「無限大LOVE!!!」のMVを公開した。 「無限大LOVE!!!」は宇宙ごと抱きしめるようなスケールで愛を鳴らすハイテンションなポップソング。円周率を終わりのない愛と重ねながら「好き」の熱量が銀河を越えてどこまでも膨らんでいく“全存在大肯定”ソングだ。 MVは、この時代に全てを全力で",
+        "groups": [
+          "BUDDiiS"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
       {
         "id": "a24d6c471345f597",
         "title": "11月2日放送「CDTVライブ！ライブ！」3時間SP、ano、Ayumu Imazu、Aぇ! group、Kis-My-Ft2、JO1、島袋寛子、BUDDiiS、Mrs. GREEN APPLE、ヤバイTシャツ屋さん出演。「マンスリーライブ！」はBE:FIRST。佐野晶哉（Aぇ! group）、LAPONE選抜も",
@@ -117,21 +313,37 @@
         "memberMatches": []
       }
     ],
-    "超特急": [
+    "原因は自分にある。": [
       {
-        "id": "3faf8b1729ba6c06",
-        "title": "【ライブレポート】Straight Angeli、デビュー1周年記念ライブ開催「メジャーデビューを掴んだ私たちの希望と決意を」",
-        "sourceName": "BARKS",
-        "sourceUrl": "https://www.barks.jp/feed/",
-        "articleUrl": "https://barks.jp/news/1101934",
-        "publishedAt": "2026-11-02T03:29:20.000Z",
-        "summary": "Straight Angeli（ストレートアンジェリー）がデビュー1周年を記念した単独ライブ＜Straight Angeli 1st Anniversary Live -Campanella-＞を東京・恵比寿ザ・ガーデンホールにて開催した。 昨年11月1日デビュー以降“Kawaii Rock”をコンセプトに、天使のように誰からも愛される存在になってほしいとい",
+        "id": "73088d1c9854df25",
+        "title": "原因は自分にある。、5thシングル『ラブリーズン』発売直前に6度目の「オールナイトニッポン0(ZERO)」担当。「原因は自分にある。のオールナイトニッポン0(ZERO)」11月7日27時～29時生放送",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/11/02/tg005",
+        "publishedAt": "2026-11-02T09:10:32.000Z",
+        "summary": "",
         "groups": [
-          "超特急"
+          "原因は自分にある。"
         ],
         "statuses": [],
         "memberMatches": []
       },
+      {
+        "id": "646c43426ce29959",
+        "title": "原因は自分にある。、JOYSOUNDとコラボ 全7種の待ち受け画像をプレゼント、ハート形アクリルボードも",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20261102-5242275/",
+        "publishedAt": "2026-11-02T08:01:01.000Z",
+        "summary": "7人組ダンスボーカルグループ・原因は自分にある。の5thシングル『ラブリーズン』のリリースを記念した「原因は自分にある。×JOYSOUNDコラボキャンペーン」が、2日からスタートした。対象のカラオケ店舗で課題曲を選曲すると、参加者全員にオリジナル待ち受け画像がプレゼントされるほか、抽選で20人にハート形アクリルボードが当たる。",
+        "groups": [
+          "原因は自分にある。"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
+    "超特急": [
       {
         "id": "15aa3a8565398749",
         "title": "超特急、ABC-MARTの店内ラジオ『ABC TRACKS』初回ゲストに！靴やファッションのエピソードを語る",
@@ -210,185 +422,25 @@
         ],
         "statuses": [],
         "memberMatches": []
-      }
-    ],
-    "SUPER★DRAGON": [
-      {
-        "id": "7f51f13c1211da2a",
-        "title": "Spotify Canvasシェアキャンペーン 11月2日(月)より日替わりでここでしか見られない各メンバーのオリジナル動画を公開！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11901/",
-        "publishedAt": "2026-11-02T03:00:18.000Z",
-        "summary": "Canvasをストーリーにシェアしてくださった方全員に 【Spotify Canvasシェアありがとう動画】をプレゼント！ ＜応募期間＞ 2026年11月2日(月)〜2026年11月11日(水)23:59 ＜ご参加方法＞ […] The post Spotify Canvasシェアキャンペーン 11月2日(月)より日替わりでここでしか見られない各メンバーのオ",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
       },
       {
-        "id": "949ecd41c0ec3bcb",
-        "title": "【楽天ミュージック】SUPER★DRAGON「本能」再生キャンペーン開催！ 渋谷スクランブル交差点大型ビジョン「Rakuten Vision」での放映も決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11898/",
-        "publishedAt": "2026-10-31T12:00:17.000Z",
-        "summary": "楽天ミュージックで、SUPER★DRAGON「本能」の再生キャンペーン開催が決定！ さらに、渋谷スクランブル交差点大型ビジョン「Rakuten Vision」で11月1日よりキャンペーン告知動画の放映も決定いたしました！ […] The post 【楽天ミュージック】SUPER★DRAGON「本能」再生キャンペーン開催！ 渋谷スクランブル交差点大型ビジョン「",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "7df3a40e508c7e52",
-        "title": "SUPER★DRAGON Digital Single「本能」の配信を記念して、 LINE MUSIC再生キャンペーン開催決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11895/",
-        "publishedAt": "2026-10-31T11:00:46.000Z",
-        "summary": "LINE MUSIC再生キャンペーン SUPER★DRAGON Major 2nd Album『STAR』より、「本能」の先行配信リリースを記念して、この楽曲をたくさん聴いていただいた方へのプレゼントキャンペーンが決定い […] The post SUPER★DRAGON Digital Single「本能」の配信を記念して、 LINE MUSIC再生キャン",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "af949395801bb0f2",
-        "title": "SUPER★DRAGON Major 2nd Album「STAR」2026年12月9日（水）発売決定！※10月30日更新",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11696/",
-        "publishedAt": "2026-10-30T11:00:46.000Z",
-        "summary": "SUPER★DRAGON Major 2nd Album「STAR」 2026年12月9日（水）発売 SUPER★DRAGON「本能」 10月30日(金) 先行配信リリース！ […] The post SUPER★DRAGON Major 2nd Album「STAR」2026年12月9日（水）発売決定！※10月30日更新 first appeared on",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "1435a68b28c395c7",
-        "title": "【＠Loppi・HMV限定盤】Blu-ray『EBiDAN THE LIVE 2026 15th Anniversary』2027年2月10日(水)発売決定！さらにEBiDAN15周年アニバーサリーエディション版『EBiDAN Visual Dictionary 2027～15th Anniversary Edition～』も同時発売！本日より予約受付開始！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11875/",
-        "publishedAt": "2026-10-28T07:00:39.000Z",
-        "summary": "＠Loppi・HMV限定盤 Blu-ray『EBiDAN THE LIVE 2026 15th Anniversary』と、EBiDAN15周年アニバーサリーエディション版『EBiDAN Visual Dictionar […] The post 【＠Loppi・HMV限定盤】Blu-ray『EBiDAN THE LIVE 2026 15th Anniver",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "M!LK": [
-      {
-        "id": "d525cb5ad1446b1c",
-        "title": "「普通に結構かわいいのがヤバい」「スタッフさん神がとう」M!LK曽野舜太が個人YouTubeで見せた“コスプレ姿”にファン歓喜",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20261101-5210016/",
-        "publishedAt": "2026-11-01T10:00:00.000Z",
-        "summary": "5人組ダンスボーカルグループ・M!LKの曽野舜太が、自身のYouTubeチャンネル『I'm 曽野舜太』を更新。ハロウィンにちなんだ料理企画に挑戦。コスプレ姿を披露し、ファンから反響が寄せられた。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "b582efa26a9863a5",
-        "title": "M!LK曽野舜太、一足先に活躍を広げた佐野勇斗に嫉妬しなかった理由「それがすごくうれしくて」 グループへの思い告白",
-        "sourceName": "マイナビニュース テレビ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-        "articleUrl": "https://news.mynavi.jp/article/20261101-5230681/",
-        "publishedAt": "2026-11-01T05:00:00.000Z",
-        "summary": "「今年、来年がマジ勝負だと思ってるんで、今以上に気合入れて」――1日に放送された日本テレビのバラエティ番組『メシドラ ～兼近＆真之介のグルメドライブ～』(毎週日曜12:45～ ※関東ローカル)で、M!LKの曽野舜太がグループの躍進を実感する日々と、さらなる飛躍への決意を告白。佐野勇斗が俳優として先に活躍した時期にも嫉妬はなかったと明かし、グループへの思いを語",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "1759deeb04141b4e",
-        "title": "「過程が大事」「昔から…」M!LK吉田仁人が愛する“未完成”――個人活動に対する考え方から見えた“仕事観”とは",
-        "sourceName": "マイナビニュース テレビ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-        "articleUrl": "https://news.mynavi.jp/article/20261031-jintoyoshida/",
-        "publishedAt": "2026-10-31T09:00:00.000Z",
-        "summary": "「自分が“楽しんでできるかどうか”です」――M!LKのリーダー・吉田仁人が、仕事をするうえで最も大切にしているのは、驚くほどシンプルな基準だった。グループとして飛躍を続ける一方、TOKYO MXドラマ『溺愛 ～ 実は、最強ヒーロー ～』(毎週金曜23:00～)で連続ドラマ初主演を果たすなど、個人としても活躍の場を広げている吉田。初主演への思いや撮影の裏側とと",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "e80d3ea48c72b1b0",
-        "title": "M!LK「“イイみるくの日”週間」が明日開幕、推しカメラなどのコンテンツを11月9日まで毎日お届け",
+        "id": "c9f5c5a6ee0ff870",
+        "title": "本日26歳誕生日、超特急・髙松アロハが挑発的なスタイルで魅せる『ワンダンス』場面写真3点解禁",
         "sourceName": "Bezzy",
         "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/10/94346/",
-        "publishedAt": "2026-10-31T09:00:00.000Z",
-        "summary": "5人組ダンスボーカルグループ・M!LKが、11月1日(日)から9日(月)までを「“イイみるくの日”週間」と題し、毎日コンテンツを配信することを発表した。 11月3日(火)を「イイみるくの日」として開催される本企画。スタートに先立ち明日からのコンテンツカレンダーが公開され、先日配信リリースされた「ザッツ！超常」の推しカメラコンテンツから11月9日(月) の「Y",
+        "articleUrl": "https://bezzy.jp/2026/10/94062/",
+        "publishedAt": "2026-10-26T03:00:00.000Z",
+        "summary": "11月27日(金)に公開されるJO（&TEAM）の初主演映画『ワンダンス』から超特急・髙松アロハ演じるウセンの場面写真3点が解禁された。 本作は、単行本の累計発行部数が130万部を突破した珈琲による同名漫画の実写化。自分の気持ちを抑えて生活するカボこと小谷花木〈こたに・かぼく〉が、人目を気にせずダンスに没頭するワンダこと湾田光莉〈わんだ・ひかり〉に惹かれ、一",
         "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "790cb76050554ff9",
-        "title": "＆TEAM・K、CANDY TUNE、窪塚愛流、吉田仁人ら『atmos presents SNEAKER BEST DRESSER AWARD 2026』表彰",
-        "sourceName": "Edge Line",
-        "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-        "articleUrl": "https://www.edgeline-tokyo.com/entertainment/207926",
-        "publishedAt": "2026-10-31T04:38:39.000Z",
-        "summary": "『atmos presents SNEAKER BEST DRESSER AWARD 2026』表彰式が10月31日に東京・新宿住友地下ホールで開催。受賞者が表彰を受けた。 スニーカー販売のatmosが、スニーカー、...",
-        "groups": [
-          "M!LK"
+          "超特急"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "吉田仁人",
-            "group": "M!LK",
+            "name": "アロハ",
+            "group": "超特急",
             "status": "active"
           }
         ]
