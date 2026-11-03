@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-11-02T15:50:01.952Z",
+  "updatedAt": "2026-11-03T00:57:26.714Z",
   "articles": [
+    {
+      "id": "4206131931b70004",
+      "title": "M!LK吉田仁人、『踊る！さんま御殿！！』2時間SPに出演！「こんな不摂生いいのかな」悩みを打ち明ける",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000911524/",
+      "publishedAt": "2026-11-02T21:00:45.000Z",
+      "summary": "M!LKの吉田仁人が、11月3日20時より放送の『踊る！さんま御殿！！』2時間スペシャルに出演する...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "dd05e812a307e99d",
+      "title": "M!LK吉田仁人、深夜ラジオ後の不摂生を告白「寝付けないので、麺類を深夜に…」“KARADA WEEKサポーター”の葛藤",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261103-5242463/",
+      "publishedAt": "2026-11-02T21:00:00.000Z",
+      "summary": "ダンスボーカルグループ・M!LKの吉田仁人が、きょう3日に放送される日本テレビ系バラエティ番組『踊る!さんま御殿!!』(毎週火曜20:00～)の2時間スペシャルに出演。深夜のラジオ番組を終えた後の食生活について悩みを明かすと、司会の明石家さんまが、自身の経験から編み出した“最強の夜食”を紹介する。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "7e88eb56cabb27fa",
       "title": "SUPER★DRAGON Major 2nd Album「STAR」リリースイベント・特典会開催！",
@@ -41,20 +85,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "1010c713c02ae425",
-      "title": "BUDDiiSが全肯定ヒーローズに。メジャー2ndシングル リード曲「無限大LOVE!!!」MV公開",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1102043",
-      "publishedAt": "2026-11-02T09:15:39.000Z",
-      "summary": "BUDDiiSが11月18日(水)発売 メジャー2ndシングルよりリード曲「無限大LOVE!!!」のMVを公開した。 「無限大LOVE!!!」は宇宙ごと抱きしめるようなスケールで愛を鳴らすハイテンションなポップソング。円周率を終わりのない愛と重ねながら「好き」の熱量が銀河を越えてどこまでも膨らんでいく“全存在大肯定”ソングだ。 MVは、この時代に全てを全力で",
-      "groups": [
-        "BUDDiiS"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "73088d1c9854df25",
@@ -429,28 +459,6 @@
         {
           "name": "アロハ",
           "group": "超特急",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "215d0a2b3a7cf860",
-      "title": "日曜トライアル 第48回 なぜM!LK吉田仁人とは、カメラ越しによく目が合うのか?",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/sunday_trial-48/",
-      "publishedAt": "2026-10-25T10:00:00.000Z",
-      "summary": "取材中、なぜか何度も目が合う。正確には、カメラ越しに目が合うような感覚になる。その相手は、5人組ダンスボーカルグループ・M!LKのリーダー吉田仁人だ。吉田は、TOKYO MXのドラマ『溺愛 ～ 実は、最強ヒーロー ～』(毎週金曜23:00～)で連続ドラマ初主演を務める。先日、同作の会見を取材した際、彼のある振る舞いが印象に残った。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
           "status": "active"
         }
       ]
