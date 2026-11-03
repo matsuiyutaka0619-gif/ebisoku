@@ -1,6 +1,208 @@
 {
-  "updatedAt": "2026-11-03T00:57:26.714Z",
+  "updatedAt": "2026-11-03T14:12:47.811Z",
   "articles": [
+    {
+      "id": "b54d85fc32388c7b",
+      "title": "ももクロ百田夏菜子、高校の同級生の超特急カイに勉強を教えてもらうも「赤点取るんですよ」",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202611030001619.html",
+      "publishedAt": "2026-11-03T11:28:01.000Z",
+      "summary": "ももいろクローバーZの百田夏菜子（32）が、3日放送のフジテレビ系「ぽかぽか」（月～金曜午前11時47分）にVTR出演。この日のゲストで、ダンス＆ボーカルグループ超特急のカイ（32）との関係性を明かした。 事務所の後輩の超特急とはお互い…",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "カイ",
+          "group": "超特急",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "68c7d8fa78d54bec",
+      "title": "ONE N' ONLY、ドラマ『青と碧』OP主題歌「CRUSH ON YOU」ダンスパフォーマンスビデオ公開！注目はサビの小指を噛むような仕草",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000911965/",
+      "publishedAt": "2026-11-03T11:06:30.000Z",
+      "summary": "ONE N’ ONLY（ワンエンオンリー）が、メンバーのNAOYA（草川直弥）がW主演を務めるドラ...",
+      "groups": [
+        "ONE N' ONLY"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "NAOYA",
+          "group": "ONE N' ONLY",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "0de97d0b69655721",
+      "title": "Major 2nd Album「STAR」 タワーレコードキャンペーン決定！",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news11910/",
+      "publishedAt": "2026-11-03T11:00:52.000Z",
+      "summary": "①『「STAR」発売記念！SUPER★DRAGON タワーレコード抽選会』が全国のタワーレコードSUPER応援店（16店舗）にて実施決定！ SUPER応援店舗にてSUPER★DRAGON Major 2nd Album「 […] The post Major 2nd Album「STAR」 タワーレコードキャンペーン決定！ first appeared on",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "6bd2114e3a3883a2",
+      "title": "SUPER★DRAGON Major 2nd Album『STAR』の発売を記念し、タワーレコードオンライン抽選会の開催が決定いたしました！",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news11912/",
+      "publishedAt": "2026-11-03T11:00:01.000Z",
+      "summary": "下記にてイベントおよび対象商品の詳細をご確認ください。 BLUEのみなさまのご参加を心よりお待ちしております！ 【タワーレコードオンライン抽選会 概要】 タワーレコードオンラインにて、下記期間内に下記タワーレコードオンラ […] The post SUPER★DRAGON Major 2nd Album『STAR』の発売を記念し、タワーレコードオンライン抽選",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "973afdbd61aebb4e",
+      "title": "M!LKメンバーからほめられた吉田仁人が喜びを爆発させたワケ「ほめられることなんかないと…」 約10分にわたってメンバーの魅力を熱弁",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261103-5241603/",
+      "publishedAt": "2026-11-03T10:00:00.000Z",
+      "summary": "「ほめられると思ってなかった。これはうれしいよね」――。アイドルグループ・M!LKの吉田仁人が10月29日、文化放送『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)に出演。メンバーからの“ほめ言葉”に喜びをあらわにした。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "65e6f340cbde595b",
+      "title": "明治『生のとき』日経トレンディ『2026年ヒット商品ベスト30』ランクインで佐野勇斗 驚異の常備量明かす",
+      "sourceName": "Edge Line",
+      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/208254",
+      "publishedAt": "2026-11-03T02:06:58.000Z",
+      "summary": "アイドルグループ『M!LK』佐野勇斗が今年10月よｒCMキャラクターを務める明治のチョコレート菓子『生のとき』。同製品が11月3日に都内で開催された日経トレンディ『2026年ヒット商品ベスト30』『2027年ヒット予測...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "3dec38bfce9d876a",
+      "title": "M!LK・佐野勇斗 3度マイクトラブルに見舞われ&TEAM・K「滅」！髙石あかりと日経トレンディ選ぶ『今年の顔』に",
+      "sourceName": "Edge Line",
+      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/208210",
+      "publishedAt": "2026-11-03T02:00:36.000Z",
+      "summary": "アイドルグループ『M!LK』佐野勇斗、俳優・髙石あかりが11月3日に都内で開催された日経トレンディ『2026年ヒット商品ベスト30』『2027年ヒット予測100』先行発表会に出席し日経トレンディが選ぶ『今年の顔』に選出...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "8be793c2e3658c1a",
+      "title": "M!LK日経トレンディで「今年の音」選出！佐野勇斗「頑張ってきてよかった」",
+      "sourceName": "Edge Line",
+      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/208246",
+      "publishedAt": "2026-11-03T02:00:29.000Z",
+      "summary": "日経トレンディ『2026年ヒット商品ベスト30』『2027年ヒット予測100』先行発表会が11月3日に都内で開催。アイドルグループ『M!LK』が『今年の音』に選出されたことが発表となった。 日経トレンディが1987年...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "b2226271999d6b45",
+      "title": "『FNS歌謡祭』今冬も2週連続生放送 Snow Man、SixTONES、Number_i、HANA、M!LKら第1弾36組発表",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261103-5246864/",
+      "publishedAt": "2026-11-03T01:12:14.000Z",
+      "summary": "フジテレビ系音楽特番『2026FNS歌謡祭』が、12月2日(18:30～23:18)と9日(18:30～21:54)の2週連続で生放送される。司会は相葉雅紀と同局の井上清華アナウンサーが務め、出演アーティスト第1弾として、SixTONES、Snow Man、Number_i、HANA、M!LK、モナキら36組が発表された。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "7d81375e6c95fc20",
+      "title": "『2026FNS歌謡祭』2週連続放送決定！SixTONES、Snow Man、Number_i、HANA、M!LK、モナキら第1弾出演アーティスト36組が一挙発表",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000911588/",
+      "publishedAt": "2026-11-03T01:10:20.000Z",
+      "summary": "フジテレビの音楽の祭典『2026FNS歌謡祭』が、12月2日と9日の2週連続で放送されることが決定。...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "7d8cb6a5d985e2e1",
+      "title": "M!LK5人のオールホワイトコーデが尊すぎる！王子様風から爽やかカジュアルまで白の着こなしに注目",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000908086/",
+      "publishedAt": "2026-11-03T01:00:28.000Z",
+      "summary": "M!LK5人のホワイトコーデを厳選！ 王子様感溢れる華やかなステージ衣装から、爽やかなカジュア...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "4206131931b70004",
       "title": "M!LK吉田仁人、『踊る！さんま御殿！！』2時間SPに出演！「こんな不摂生いいのかな」悩みを打ち明ける",
@@ -60,33 +262,6 @@
       "memberMatches": []
     },
     {
-      "id": "db118cc15a55715d",
-      "title": "M!LK吉田仁人＆塩﨑太智が小競り合いしながら“わちゃわちゃ”ダンス！センター争奪戦に「吉田さんにやり返されて満足げな塩さん」「じんだい距離感バグってる」の声",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000911500/",
-      "publishedAt": "2026-11-02T10:52:58.000Z",
-      "summary": "M!LKが公式SNSを更新し、吉田仁人と塩﨑太智が10月26日配信リリースの新曲「ザッツ！超常」を...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "塩﨑太智",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "73088d1c9854df25",
       "title": "原因は自分にある。、5thシングル『ラブリーズン』発売直前に6度目の「オールナイトニッポン0(ZERO)」担当。「原因は自分にある。のオールナイトニッポン0(ZERO)」11月7日27時～29時生放送",
       "sourceName": "タワーレコード ニュース",
@@ -117,8 +292,8 @@
     {
       "id": "646c43426ce29959",
       "title": "原因は自分にある。、JOYSOUNDとコラボ 全7種の待ち受け画像をプレゼント、ハート形アクリルボードも",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20261102-5242275/",
       "publishedAt": "2026-11-02T08:01:01.000Z",
       "summary": "7人組ダンスボーカルグループ・原因は自分にある。の5thシングル『ラブリーズン』のリリースを記念した「原因は自分にある。×JOYSOUNDコラボキャンペーン」が、2日からスタートした。対象のカラオケ店舗で課題曲を選曲すると、参加者全員にオリジナル待ち受け画像がプレゼントされるほか、抽選で20人にハート形アクリルボードが当たる。",
@@ -192,20 +367,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "92b39100d018885d",
-      "title": "超特急・ハロウィンSPECIAL生配信を実施！",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/event/678791.html",
-      "publishedAt": "2026-11-01T12:30:47.000Z",
-      "summary": "11月25・26日に初の東京ドーム公演を控える9人組メインダンサー＆バックボーカルグループの超特急が、10月31日にハロウィンを記念したSPECIAL生配信を実施。メンバー全員が超ハイクオリティな妖怪コスプレで登場し、モノマネや面白川柳、爆笑ギャグや一発芸などを披露して ... The post 超特急・ハロウィンSPECIAL生配信を実施！ first a",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "b582efa26a9863a5",
@@ -1266,50 +1427,6 @@
       "memberMatches": []
     },
     {
-      "id": "332f9e22f238c9e9",
-      "title": "「楽屋で台本を開いていたら…」「それぞれが…」曽野舜太が明かしたM!LKメンバーのリアクション 俳優業にもさらなる意欲",
-      "sourceName": "マイナビニュース 映画",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
-      "articleUrl": "https://news.mynavi.jp/article/20260808-4792972/",
-      "publishedAt": "2026-08-08T11:00:00.000Z",
-      "summary": "ダンスボーカルグループ・M!LKの曽野舜太が7日、映画『仮面ライダーゼッツ さよならのミッション』(公開中)の公開御礼舞台挨拶に、今井竜太郎、上堀内佳寿也監督とともに登壇。同作出演を知ったときのM!LKメンバーのリアクションを明かした。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "曽野舜太",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "be4d78e64780bd02",
-      "title": "M!LK曽野舜太が作品に加えた“艶” 多忙な中での撮影で見せた“熱さ”を監督が絶賛「もう1回やらせてください! と…」",
-      "sourceName": "マイナビニュース 映画",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
-      "articleUrl": "https://news.mynavi.jp/article/20260807-4789954/",
-      "publishedAt": "2026-08-07T14:45:00.000Z",
-      "summary": "ダンスボーカルグループ・M!LKの曽野舜太が7日、映画『仮面ライダーゼッツ さよならのミッション』(公開中)の公開御礼舞台挨拶に、今井竜太郎、上堀内佳寿也監督とともに登壇。監督から魅力を絶賛された。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "曽野舜太",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "b396ff503ea66479",
       "title": "【渋谷エリアジャック及び山手線ラッピング広告をご覧になる皆様へ再度のお願い】",
       "sourceName": "SUPER★DRAGON 公式NEWS",
@@ -2097,42 +2214,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "3fbc8dbfd5406728",
-      "title": "田中洸希 リリースイベント欠席のお知らせ",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news11262/",
-      "publishedAt": "2026-06-13T01:50:51.000Z",
-      "summary": "いつもSUPER★DRAGONを応援していただき、誠にありがとうございます。 メンバーの田中洸希ですが、体調不良の為、本日開催の「Major 6th Single『Call Me Asap/NUMBER』発売記念 リリー […] The post 田中洸希 リリースイベント欠席のお知らせ first appeared on SUPER★DRAGON .",
-      "groups": [
-        "SUPER★DRAGON"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "田中洸希",
-          "group": "SUPER★DRAGON",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "93a5cc52c51b2e93",
-      "title": "SUPER★DRAGON「Call Me Asap / NUMBER」SNSシェアキャンペーン開催決定！",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news11258/",
-      "publishedAt": "2026-06-12T12:00:45.000Z",
-      "summary": "期間中に「Call Me Asap」または「NUMBER」の音源を使用して 【#SD_Asap】または【#SD_NUMBER】を付けて投稿頂いた方の中から、ランダムでメンバーがコメントまたはいいねをさせていただきます！ […] The post SUPER★DRAGON「Call Me Asap / NUMBER」SNSシェアキャンペーン開催決定！ firs",
-      "groups": [
-        "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
     }
   ]
 }

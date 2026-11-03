@@ -1,22 +1,22 @@
 {
-  "updatedAt": "2026-11-03T00:57:26.716Z",
+  "updatedAt": "2026-11-03T14:12:47.813Z",
   "totals": {
-    "all": 129,
-    "today": 2,
-    "week": 24
+    "all": 134,
+    "today": 13,
+    "week": 31
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 10
+      "count": 16
     },
     {
       "name": "SUPER★DRAGON",
-      "count": 7
+      "count": 8
     },
     {
       "name": "超特急",
-      "count": 4
+      "count": 3
     },
     {
       "name": "原因は自分にある。",
@@ -29,6 +29,10 @@
     {
       "name": "EBiDAN",
       "count": 1
+    },
+    {
+      "name": "ONE N' ONLY",
+      "count": 1
     }
   ],
   "memberRanking": [
@@ -37,7 +41,15 @@
       "count": 6
     },
     {
+      "name": "佐野勇斗",
+      "count": 4
+    },
+    {
       "name": "カイ",
+      "count": 2
+    },
+    {
+      "name": "NAOYA",
       "count": 1
     },
     {
@@ -53,14 +65,6 @@
       "count": 1
     },
     {
-      "name": "塩﨑太智",
-      "count": 1
-    },
-    {
-      "name": "佐野勇斗",
-      "count": 1
-    },
-    {
       "name": "曽野舜太",
       "count": 1
     }
@@ -68,26 +72,26 @@
   "sourceRanking": [
     {
       "name": "SUPER★DRAGON 公式NEWS",
-      "count": 7
+      "count": 8
     },
     {
       "name": "タワーレコード ニュース",
       "count": 6
     },
     {
-      "name": "Bezzy",
-      "count": 2
-    },
-    {
       "name": "THE FIRST TIMES",
-      "count": 2
+      "count": 4
     },
     {
-      "name": "WWSチャンネル",
-      "count": 2
+      "name": "Edge Line",
+      "count": 3
     },
     {
       "name": "マイナビニュース エンタメ",
+      "count": 3
+    },
+    {
+      "name": "Bezzy",
       "count": 2
     },
     {
@@ -95,245 +99,43 @@
       "count": 2
     },
     {
-      "name": "マイナビニュース 映画",
+      "name": "WWSチャンネル",
+      "count": 1
+    },
+    {
+      "name": "マイナビニュース 芸能",
+      "count": 1
+    },
+    {
+      "name": "日刊スポーツ 芸能",
       "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
-    "M!LK": [
-      {
-        "id": "4206131931b70004",
-        "title": "M!LK吉田仁人、『踊る！さんま御殿！！』2時間SPに出演！「こんな不摂生いいのかな」悩みを打ち明ける",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000911524/",
-        "publishedAt": "2026-11-02T21:00:45.000Z",
-        "summary": "M!LKの吉田仁人が、11月3日20時より放送の『踊る！さんま御殿！！』2時間スペシャルに出演する...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "dd05e812a307e99d",
-        "title": "M!LK吉田仁人、深夜ラジオ後の不摂生を告白「寝付けないので、麺類を深夜に…」“KARADA WEEKサポーター”の葛藤",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20261103-5242463/",
-        "publishedAt": "2026-11-02T21:00:00.000Z",
-        "summary": "ダンスボーカルグループ・M!LKの吉田仁人が、きょう3日に放送される日本テレビ系バラエティ番組『踊る!さんま御殿!!』(毎週火曜20:00～)の2時間スペシャルに出演。深夜のラジオ番組を終えた後の食生活について悩みを明かすと、司会の明石家さんまが、自身の経験から編み出した“最強の夜食”を紹介する。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "db118cc15a55715d",
-        "title": "M!LK吉田仁人＆塩﨑太智が小競り合いしながら“わちゃわちゃ”ダンス！センター争奪戦に「吉田さんにやり返されて満足げな塩さん」「じんだい距離感バグってる」の声",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000911500/",
-        "publishedAt": "2026-11-02T10:52:58.000Z",
-        "summary": "M!LKが公式SNSを更新し、吉田仁人と塩﨑太智が10月26日配信リリースの新曲「ザッツ！超常」を...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "6c39d04b669f436a",
-        "title": "M!LK、「“イイみるくの日”週間」開催中。毎日コンテンツ公開＆“爆裂愛しすぎて滅！(Crazy Mashup by TeddyLoid)” 11月3日配信リリース",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/11/02/tg003",
-        "publishedAt": "2026-11-02T09:00:00.000Z",
-        "summary": "",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "b582efa26a9863a5",
-        "title": "M!LK曽野舜太、一足先に活躍を広げた佐野勇斗に嫉妬しなかった理由「それがすごくうれしくて」 グループへの思い告白",
-        "sourceName": "マイナビニュース テレビ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-        "articleUrl": "https://news.mynavi.jp/article/20261101-5230681/",
-        "publishedAt": "2026-11-01T05:00:00.000Z",
-        "summary": "「今年、来年がマジ勝負だと思ってるんで、今以上に気合入れて」――1日に放送された日本テレビのバラエティ番組『メシドラ ～兼近＆真之介のグルメドライブ～』(毎週日曜12:45～ ※関東ローカル)で、M!LKの曽野舜太がグループの躍進を実感する日々と、さらなる飛躍への決意を告白。佐野勇斗が俳優として先に活躍した時期にも嫉妬はなかったと明かし、グループへの思いを語",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      }
-    ],
-    "SUPER★DRAGON": [
-      {
-        "id": "7e88eb56cabb27fa",
-        "title": "SUPER★DRAGON Major 2nd Album「STAR」リリースイベント・特典会開催！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11790/",
-        "publishedAt": "2026-11-02T12:00:30.000Z",
-        "summary": "2026年12月09日(水)、SUPER★DRAGONメジャー2枚目となるアルバム「STAR」の発売を記念し、リリースイベント・特典会が決定いたしました！ SUPER★DRAGONと一緒に、素敵な思い出を作りましょう！ […] The post SUPER★DRAGON Major 2nd Album「STAR」リリースイベント・特典会開催！ first a",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "7f51f13c1211da2a",
-        "title": "Spotify Canvasシェアキャンペーン 11月2日(月)より日替わりでここでしか見られない各メンバーのオリジナル動画を公開！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11901/",
-        "publishedAt": "2026-11-02T03:00:18.000Z",
-        "summary": "Canvasをストーリーにシェアしてくださった方全員に 【Spotify Canvasシェアありがとう動画】をプレゼント！ ＜応募期間＞ 2026年11月2日(月)〜2026年11月11日(水)23:59 ＜ご参加方法＞ […] The post Spotify Canvasシェアキャンペーン 11月2日(月)より日替わりでここでしか見られない各メンバーのオ",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "949ecd41c0ec3bcb",
-        "title": "【楽天ミュージック】SUPER★DRAGON「本能」再生キャンペーン開催！ 渋谷スクランブル交差点大型ビジョン「Rakuten Vision」での放映も決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11898/",
-        "publishedAt": "2026-10-31T12:00:17.000Z",
-        "summary": "楽天ミュージックで、SUPER★DRAGON「本能」の再生キャンペーン開催が決定！ さらに、渋谷スクランブル交差点大型ビジョン「Rakuten Vision」で11月1日よりキャンペーン告知動画の放映も決定いたしました！ […] The post 【楽天ミュージック】SUPER★DRAGON「本能」再生キャンペーン開催！ 渋谷スクランブル交差点大型ビジョン「",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "7df3a40e508c7e52",
-        "title": "SUPER★DRAGON Digital Single「本能」の配信を記念して、 LINE MUSIC再生キャンペーン開催決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11895/",
-        "publishedAt": "2026-10-31T11:00:46.000Z",
-        "summary": "LINE MUSIC再生キャンペーン SUPER★DRAGON Major 2nd Album『STAR』より、「本能」の先行配信リリースを記念して、この楽曲をたくさん聴いていただいた方へのプレゼントキャンペーンが決定い […] The post SUPER★DRAGON Digital Single「本能」の配信を記念して、 LINE MUSIC再生キャン",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "af949395801bb0f2",
-        "title": "SUPER★DRAGON Major 2nd Album「STAR」2026年12月9日（水）発売決定！※10月30日更新",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11696/",
-        "publishedAt": "2026-10-30T11:00:46.000Z",
-        "summary": "SUPER★DRAGON Major 2nd Album「STAR」 2026年12月9日（水）発売 SUPER★DRAGON「本能」 10月30日(金) 先行配信リリース！ […] The post SUPER★DRAGON Major 2nd Album「STAR」2026年12月9日（水）発売決定！※10月30日更新 first appeared on",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "原因は自分にある。": [
-      {
-        "id": "73088d1c9854df25",
-        "title": "原因は自分にある。、5thシングル『ラブリーズン』発売直前に6度目の「オールナイトニッポン0(ZERO)」担当。「原因は自分にある。のオールナイトニッポン0(ZERO)」11月7日27時～29時生放送",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/11/02/tg005",
-        "publishedAt": "2026-11-02T09:10:32.000Z",
-        "summary": "",
-        "groups": [
-          "原因は自分にある。"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "646c43426ce29959",
-        "title": "原因は自分にある。、JOYSOUNDとコラボ 全7種の待ち受け画像をプレゼント、ハート形アクリルボードも",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20261102-5242275/",
-        "publishedAt": "2026-11-02T08:01:01.000Z",
-        "summary": "7人組ダンスボーカルグループ・原因は自分にある。の5thシングル『ラブリーズン』のリリースを記念した「原因は自分にある。×JOYSOUNDコラボキャンペーン」が、2日からスタートした。対象のカラオケ店舗で課題曲を選曲すると、参加者全員にオリジナル待ち受け画像がプレゼントされるほか、抽選で20人にハート形アクリルボードが当たる。",
-        "groups": [
-          "原因は自分にある。"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "BUDDiiS": [
-      {
-        "id": "a24d6c471345f597",
-        "title": "11月2日放送「CDTVライブ！ライブ！」3時間SP、ano、Ayumu Imazu、Aぇ! group、Kis-My-Ft2、JO1、島袋寛子、BUDDiiS、Mrs. GREEN APPLE、ヤバイTシャツ屋さん出演。「マンスリーライブ！」はBE:FIRST。佐野晶哉（Aぇ! group）、LAPONE選抜も",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/11/02/tg001",
-        "publishedAt": "2026-11-02T04:40:00.000Z",
-        "summary": "",
-        "groups": [
-          "BUDDiiS"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
     "超特急": [
+      {
+        "id": "b54d85fc32388c7b",
+        "title": "ももクロ百田夏菜子、高校の同級生の超特急カイに勉強を教えてもらうも「赤点取るんですよ」",
+        "sourceName": "日刊スポーツ 芸能",
+        "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+        "articleUrl": "https://www.nikkansports.com/entertainment/news/202611030001619.html",
+        "publishedAt": "2026-11-03T11:28:01.000Z",
+        "summary": "ももいろクローバーZの百田夏菜子（32）が、3日放送のフジテレビ系「ぽかぽか」（月～金曜午前11時47分）にVTR出演。この日のゲストで、ダンス＆ボーカルグループ超特急のカイ（32）との関係性を明かした。 事務所の後輩の超特急とはお互い…",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "カイ",
+            "group": "超特急",
+            "status": "active"
+          }
+        ]
+      },
       {
         "id": "15aa3a8565398749",
         "title": "超特急、ABC-MARTの店内ラジオ『ABC TRACKS』初回ゲストに！靴やファッションのエピソードを語る",
@@ -370,20 +172,6 @@
             "status": "active"
           }
         ]
-      },
-      {
-        "id": "92b39100d018885d",
-        "title": "超特急・ハロウィンSPECIAL生配信を実施！",
-        "sourceName": "WWSチャンネル",
-        "sourceUrl": "https://www.wws-channel.com/feed",
-        "articleUrl": "https://www.wws-channel.com/event/678791.html",
-        "publishedAt": "2026-11-01T12:30:47.000Z",
-        "summary": "11月25・26日に初の東京ドーム公演を控える9人組メインダンサー＆バックボーカルグループの超特急が、10月31日にハロウィンを記念したSPECIAL生配信を実施。メンバー全員が超ハイクオリティな妖怪コスプレで登場し、モノマネや面白川柳、爆笑ギャグや一発芸などを披露して ... The post 超特急・ハロウィンSPECIAL生配信を実施！ first a",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
       },
       {
         "id": "32794b83f9832210",
@@ -434,6 +222,252 @@
             "status": "active"
           }
         ]
+      }
+    ],
+    "ONE N' ONLY": [
+      {
+        "id": "68c7d8fa78d54bec",
+        "title": "ONE N' ONLY、ドラマ『青と碧』OP主題歌「CRUSH ON YOU」ダンスパフォーマンスビデオ公開！注目はサビの小指を噛むような仕草",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000911965/",
+        "publishedAt": "2026-11-03T11:06:30.000Z",
+        "summary": "ONE N’ ONLY（ワンエンオンリー）が、メンバーのNAOYA（草川直弥）がW主演を務めるドラ...",
+        "groups": [
+          "ONE N' ONLY"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "NAOYA",
+            "group": "ONE N' ONLY",
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "SUPER★DRAGON": [
+      {
+        "id": "0de97d0b69655721",
+        "title": "Major 2nd Album「STAR」 タワーレコードキャンペーン決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11910/",
+        "publishedAt": "2026-11-03T11:00:52.000Z",
+        "summary": "①『「STAR」発売記念！SUPER★DRAGON タワーレコード抽選会』が全国のタワーレコードSUPER応援店（16店舗）にて実施決定！ SUPER応援店舗にてSUPER★DRAGON Major 2nd Album「 […] The post Major 2nd Album「STAR」 タワーレコードキャンペーン決定！ first appeared on",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "6bd2114e3a3883a2",
+        "title": "SUPER★DRAGON Major 2nd Album『STAR』の発売を記念し、タワーレコードオンライン抽選会の開催が決定いたしました！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11912/",
+        "publishedAt": "2026-11-03T11:00:01.000Z",
+        "summary": "下記にてイベントおよび対象商品の詳細をご確認ください。 BLUEのみなさまのご参加を心よりお待ちしております！ 【タワーレコードオンライン抽選会 概要】 タワーレコードオンラインにて、下記期間内に下記タワーレコードオンラ […] The post SUPER★DRAGON Major 2nd Album『STAR』の発売を記念し、タワーレコードオンライン抽選",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "7e88eb56cabb27fa",
+        "title": "SUPER★DRAGON Major 2nd Album「STAR」リリースイベント・特典会開催！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11790/",
+        "publishedAt": "2026-11-02T12:00:30.000Z",
+        "summary": "2026年12月09日(水)、SUPER★DRAGONメジャー2枚目となるアルバム「STAR」の発売を記念し、リリースイベント・特典会が決定いたしました！ SUPER★DRAGONと一緒に、素敵な思い出を作りましょう！ […] The post SUPER★DRAGON Major 2nd Album「STAR」リリースイベント・特典会開催！ first a",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "7f51f13c1211da2a",
+        "title": "Spotify Canvasシェアキャンペーン 11月2日(月)より日替わりでここでしか見られない各メンバーのオリジナル動画を公開！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11901/",
+        "publishedAt": "2026-11-02T03:00:18.000Z",
+        "summary": "Canvasをストーリーにシェアしてくださった方全員に 【Spotify Canvasシェアありがとう動画】をプレゼント！ ＜応募期間＞ 2026年11月2日(月)〜2026年11月11日(水)23:59 ＜ご参加方法＞ […] The post Spotify Canvasシェアキャンペーン 11月2日(月)より日替わりでここでしか見られない各メンバーのオ",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "949ecd41c0ec3bcb",
+        "title": "【楽天ミュージック】SUPER★DRAGON「本能」再生キャンペーン開催！ 渋谷スクランブル交差点大型ビジョン「Rakuten Vision」での放映も決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11898/",
+        "publishedAt": "2026-10-31T12:00:17.000Z",
+        "summary": "楽天ミュージックで、SUPER★DRAGON「本能」の再生キャンペーン開催が決定！ さらに、渋谷スクランブル交差点大型ビジョン「Rakuten Vision」で11月1日よりキャンペーン告知動画の放映も決定いたしました！ […] The post 【楽天ミュージック】SUPER★DRAGON「本能」再生キャンペーン開催！ 渋谷スクランブル交差点大型ビジョン「",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
+    "M!LK": [
+      {
+        "id": "973afdbd61aebb4e",
+        "title": "M!LKメンバーからほめられた吉田仁人が喜びを爆発させたワケ「ほめられることなんかないと…」 約10分にわたってメンバーの魅力を熱弁",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20261103-5241603/",
+        "publishedAt": "2026-11-03T10:00:00.000Z",
+        "summary": "「ほめられると思ってなかった。これはうれしいよね」――。アイドルグループ・M!LKの吉田仁人が10月29日、文化放送『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)に出演。メンバーからの“ほめ言葉”に喜びをあらわにした。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "65e6f340cbde595b",
+        "title": "明治『生のとき』日経トレンディ『2026年ヒット商品ベスト30』ランクインで佐野勇斗 驚異の常備量明かす",
+        "sourceName": "Edge Line",
+        "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+        "articleUrl": "https://www.edgeline-tokyo.com/entertainment/208254",
+        "publishedAt": "2026-11-03T02:06:58.000Z",
+        "summary": "アイドルグループ『M!LK』佐野勇斗が今年10月よｒCMキャラクターを務める明治のチョコレート菓子『生のとき』。同製品が11月3日に都内で開催された日経トレンディ『2026年ヒット商品ベスト30』『2027年ヒット予測...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "3dec38bfce9d876a",
+        "title": "M!LK・佐野勇斗 3度マイクトラブルに見舞われ&TEAM・K「滅」！髙石あかりと日経トレンディ選ぶ『今年の顔』に",
+        "sourceName": "Edge Line",
+        "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+        "articleUrl": "https://www.edgeline-tokyo.com/entertainment/208210",
+        "publishedAt": "2026-11-03T02:00:36.000Z",
+        "summary": "アイドルグループ『M!LK』佐野勇斗、俳優・髙石あかりが11月3日に都内で開催された日経トレンディ『2026年ヒット商品ベスト30』『2027年ヒット予測100』先行発表会に出席し日経トレンディが選ぶ『今年の顔』に選出...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "8be793c2e3658c1a",
+        "title": "M!LK日経トレンディで「今年の音」選出！佐野勇斗「頑張ってきてよかった」",
+        "sourceName": "Edge Line",
+        "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+        "articleUrl": "https://www.edgeline-tokyo.com/entertainment/208246",
+        "publishedAt": "2026-11-03T02:00:29.000Z",
+        "summary": "日経トレンディ『2026年ヒット商品ベスト30』『2027年ヒット予測100』先行発表会が11月3日に都内で開催。アイドルグループ『M!LK』が『今年の音』に選出されたことが発表となった。 日経トレンディが1987年...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "b2226271999d6b45",
+        "title": "『FNS歌謡祭』今冬も2週連続生放送 Snow Man、SixTONES、Number_i、HANA、M!LKら第1弾36組発表",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20261103-5246864/",
+        "publishedAt": "2026-11-03T01:12:14.000Z",
+        "summary": "フジテレビ系音楽特番『2026FNS歌謡祭』が、12月2日(18:30～23:18)と9日(18:30～21:54)の2週連続で生放送される。司会は相葉雅紀と同局の井上清華アナウンサーが務め、出演アーティスト第1弾として、SixTONES、Snow Man、Number_i、HANA、M!LK、モナキら36組が発表された。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
+    "原因は自分にある。": [
+      {
+        "id": "73088d1c9854df25",
+        "title": "原因は自分にある。、5thシングル『ラブリーズン』発売直前に6度目の「オールナイトニッポン0(ZERO)」担当。「原因は自分にある。のオールナイトニッポン0(ZERO)」11月7日27時～29時生放送",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/11/02/tg005",
+        "publishedAt": "2026-11-02T09:10:32.000Z",
+        "summary": "",
+        "groups": [
+          "原因は自分にある。"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "646c43426ce29959",
+        "title": "原因は自分にある。、JOYSOUNDとコラボ 全7種の待ち受け画像をプレゼント、ハート形アクリルボードも",
+        "sourceName": "マイナビニュース 芸能",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
+        "articleUrl": "https://news.mynavi.jp/article/20261102-5242275/",
+        "publishedAt": "2026-11-02T08:01:01.000Z",
+        "summary": "7人組ダンスボーカルグループ・原因は自分にある。の5thシングル『ラブリーズン』のリリースを記念した「原因は自分にある。×JOYSOUNDコラボキャンペーン」が、2日からスタートした。対象のカラオケ店舗で課題曲を選曲すると、参加者全員にオリジナル待ち受け画像がプレゼントされるほか、抽選で20人にハート形アクリルボードが当たる。",
+        "groups": [
+          "原因は自分にある。"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
+    "BUDDiiS": [
+      {
+        "id": "a24d6c471345f597",
+        "title": "11月2日放送「CDTVライブ！ライブ！」3時間SP、ano、Ayumu Imazu、Aぇ! group、Kis-My-Ft2、JO1、島袋寛子、BUDDiiS、Mrs. GREEN APPLE、ヤバイTシャツ屋さん出演。「マンスリーライブ！」はBE:FIRST。佐野晶哉（Aぇ! group）、LAPONE選抜も",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/11/02/tg001",
+        "publishedAt": "2026-11-02T04:40:00.000Z",
+        "summary": "",
+        "groups": [
+          "BUDDiiS"
+        ],
+        "statuses": [],
+        "memberMatches": []
       }
     ],
     "EBiDAN": [
