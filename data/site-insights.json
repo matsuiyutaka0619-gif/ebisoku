@@ -1,26 +1,22 @@
 {
-  "updatedAt": "2026-11-03T14:12:47.813Z",
+  "updatedAt": "2026-11-03T23:22:44.661Z",
   "totals": {
-    "all": 134,
-    "today": 13,
-    "week": 31
+    "all": 132,
+    "today": 3,
+    "week": 29
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 16
+      "count": 15
     },
     {
       "name": "SUPER★DRAGON",
       "count": 8
     },
     {
-      "name": "超特急",
-      "count": 3
-    },
-    {
       "name": "原因は自分にある。",
-      "count": 2
+      "count": 3
     },
     {
       "name": "BUDDiiS",
@@ -33,35 +29,23 @@
     {
       "name": "ONE N' ONLY",
       "count": 1
+    },
+    {
+      "name": "超特急",
+      "count": 1
     }
   ],
   "memberRanking": [
     {
       "name": "吉田仁人",
-      "count": 6
+      "count": 5
     },
     {
       "name": "佐野勇斗",
       "count": 4
     },
     {
-      "name": "カイ",
-      "count": 2
-    },
-    {
       "name": "NAOYA",
-      "count": 1
-    },
-    {
-      "name": "タカシ",
-      "count": 1
-    },
-    {
-      "name": "マサヒロ",
-      "count": 1
-    },
-    {
-      "name": "リョウガ",
       "count": 1
     },
     {
@@ -80,14 +64,10 @@
     },
     {
       "name": "THE FIRST TIMES",
-      "count": 4
-    },
-    {
-      "name": "Edge Line",
       "count": 3
     },
     {
-      "name": "マイナビニュース エンタメ",
+      "name": "マイナビニュース テレビ",
       "count": 3
     },
     {
@@ -95,15 +75,19 @@
       "count": 2
     },
     {
-      "name": "マイナビニュース テレビ",
+      "name": "Edge Line",
       "count": 2
     },
     {
-      "name": "WWSチャンネル",
-      "count": 1
+      "name": "マイナビニュース エンタメ",
+      "count": 2
     },
     {
       "name": "マイナビニュース 芸能",
+      "count": 1
+    },
+    {
+      "name": "リアルサウンド 音楽",
       "count": 1
     },
     {
@@ -113,115 +97,152 @@
   ],
   "topics": [],
   "recentByGroup": {
-    "超特急": [
+    "M!LK": [
       {
-        "id": "b54d85fc32388c7b",
-        "title": "ももクロ百田夏菜子、高校の同級生の超特急カイに勉強を教えてもらうも「赤点取るんですよ」",
+        "id": "051fefe031debaf1",
+        "title": "「今年の顔」にM!LK佐野勇斗＆髙石あかりが選出 「来年の顔」には＆TEAMのＫ",
         "sourceName": "日刊スポーツ 芸能",
         "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-        "articleUrl": "https://www.nikkansports.com/entertainment/news/202611030001619.html",
-        "publishedAt": "2026-11-03T11:28:01.000Z",
-        "summary": "ももいろクローバーZの百田夏菜子（32）が、3日放送のフジテレビ系「ぽかぽか」（月～金曜午前11時47分）にVTR出演。この日のゲストで、ダンス＆ボーカルグループ超特急のカイ（32）との関係性を明かした。 事務所の後輩の超特急とはお互い…",
+        "articleUrl": "https://www.nikkansports.com/entertainment/news/202611030001390.html",
+        "publishedAt": "2026-11-03T21:55:00.000Z",
+        "summary": "日経トレンディ「2026年ヒット商品ベスト30」が3日、発表され、M!LKの佐野勇斗（28）が「今年の顔」に選出された。 M!LKが昨年からヒット曲を連発し、俳優業も充実させるなど、大活躍の1年となり「23年に『来年の顔』に選ばれて、『…",
         "groups": [
-          "超特急"
+          "M!LK"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "カイ",
-            "group": "超特急",
+            "name": "佐野勇斗",
+            "group": "M!LK",
             "status": "active"
           }
         ]
       },
       {
-        "id": "15aa3a8565398749",
-        "title": "超特急、ABC-MARTの店内ラジオ『ABC TRACKS』初回ゲストに！靴やファッションのエピソードを語る",
-        "sourceName": "WWSチャンネル",
-        "sourceUrl": "https://www.wws-channel.com/feed",
-        "articleUrl": "https://www.wws-channel.com/fashion2/678825.html",
-        "publishedAt": "2026-11-01T23:30:14.000Z",
-        "summary": "超特急が、11月1日よりABC-MARTの一部店舗で放送を開始した店内ラジオ番組『ABC TRACKS』の初回ゲストに登場する。11月1日から15日までの第1回にはリョウガとマサヒロ、16日から30日までの第2回にはカイとタカシが出演。靴やファッションにまつわるエピソー ... The post 超特急、ABC-MARTの店内ラジオ『ABC TRACKS』初",
+        "id": "0379758bc6b81485",
+        "title": "新着MVランキング：M!LK「ザッツ！超常」首位 弾ける5人の“無敵感”、止まらない快進撃を映す1曲に",
+        "sourceName": "リアルサウンド 音楽",
+        "sourceUrl": "https://realsound.jp/music/feed",
+        "articleUrl": "https://realsound.jp/2026/11/post-2573034.html",
+        "publishedAt": "2026-11-03T20:50:18.000Z",
+        "summary": "毎週更新される「YouTube Music Charts」ウィークリー ミュージック ビデオ ランキングより、MVをはじめとした音楽関連の新着動画から上位10作品／楽曲を取り上げ、ランキング化＆レビューしていく連載「MV Chart Focus」。今週は、首位を獲得したM!LK「ザッツ！超常」を取り上げる。",
         "groups": [
-          "超特急"
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "973afdbd61aebb4e",
+        "title": "M!LKメンバーからほめられた吉田仁人が喜びを爆発させたワケ「ほめられることなんかないと…」 約10分にわたってメンバーの魅力を熱弁",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20261103-5241603/",
+        "publishedAt": "2026-11-03T10:00:00.000Z",
+        "summary": "「ほめられると思ってなかった。これはうれしいよね」――。アイドルグループ・M!LKの吉田仁人が10月29日、文化放送『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)に出演。メンバーからの“ほめ言葉”に喜びをあらわにした。",
+        "groups": [
+          "M!LK"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "カイ",
-            "group": "超特急",
-            "status": "active"
-          },
-          {
-            "name": "リョウガ",
-            "group": "超特急",
-            "status": "active"
-          },
-          {
-            "name": "タカシ",
-            "group": "超特急",
-            "status": "active"
-          },
-          {
-            "name": "マサヒロ",
-            "group": "超特急",
+            "name": "吉田仁人",
+            "group": "M!LK",
             "status": "active"
           }
         ]
       },
       {
-        "id": "32794b83f9832210",
-        "title": "「J-POPシングル ウィークリーTOP30」発表。1位はなにわ男子『Moonlit』、予約1位は超特急『エトランス・フィーバー』（2026年10月29日付）",
+        "id": "65e6f340cbde595b",
+        "title": "明治『生のとき』日経トレンディ『2026年ヒット商品ベスト30』ランクインで佐野勇斗 驚異の常備量明かす",
+        "sourceName": "Edge Line",
+        "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+        "articleUrl": "https://www.edgeline-tokyo.com/entertainment/208254",
+        "publishedAt": "2026-11-03T02:06:58.000Z",
+        "summary": "アイドルグループ『M!LK』佐野勇斗が今年10月よｒCMキャラクターを務める明治のチョコレート菓子『生のとき』。同製品が11月3日に都内で開催された日経トレンディ『2026年ヒット商品ベスト30』『2027年ヒット予測...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "3dec38bfce9d876a",
+        "title": "M!LK・佐野勇斗 3度マイクトラブルに見舞われ&TEAM・K「滅」！髙石あかりと日経トレンディ選ぶ『今年の顔』に",
+        "sourceName": "Edge Line",
+        "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+        "articleUrl": "https://www.edgeline-tokyo.com/entertainment/208210",
+        "publishedAt": "2026-11-03T02:00:36.000Z",
+        "summary": "アイドルグループ『M!LK』佐野勇斗、俳優・髙石あかりが11月3日に都内で開催された日経トレンディ『2026年ヒット商品ベスト30』『2027年ヒット予測100』先行発表会に出席し日経トレンディが選ぶ『今年の顔』に選出...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "原因は自分にある。": [
+      {
+        "id": "d130ba79bfe55bcc",
+        "title": "原因は自分にある。週間ストリーミングランキングにおいて2週連続1位獲得【オリコン週間デジタルランキング】",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000911645/",
+        "publishedAt": "2026-11-03T19:00:09.000Z",
+        "summary": "2026/11/9付オリコン週間音楽ランキングより【デジタルランキング】（ストリーミング、デジタ...",
+        "groups": [
+          "原因は自分にある。"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "73088d1c9854df25",
+        "title": "原因は自分にある。、5thシングル『ラブリーズン』発売直前に6度目の「オールナイトニッポン0(ZERO)」担当。「原因は自分にある。のオールナイトニッポン0(ZERO)」11月7日27時～29時生放送",
         "sourceName": "タワーレコード ニュース",
         "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/10/29/tg014",
-        "publishedAt": "2026-10-29T10:00:00.000Z",
+        "articleUrl": "https://tower.jp/article/news/2026/11/02/tg005",
+        "publishedAt": "2026-11-02T09:10:32.000Z",
         "summary": "",
         "groups": [
-          "超特急"
+          "原因は自分にある。"
         ],
         "statuses": [],
         "memberMatches": []
       },
       {
-        "id": "69da96bf9d421a41",
-        "title": "「すごい好きだった」「毎日先生と…」超特急・柏木悠が学生に戻ってやりたいことを告白",
-        "sourceName": "マイナビニュース 映画",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
-        "articleUrl": "https://news.mynavi.jp/article/20261027-5205202/",
-        "publishedAt": "2026-10-27T12:00:00.000Z",
-        "summary": "映画『羊の皮を着たケモノ』(12月11日公開)に出演する、鈴木伸之と柏木悠が26日、東京・日比谷で行われた「第39回東京国際映画祭」(TIFF)のレッドカーペットに、楊礼平監督とともに登場した。",
+        "id": "646c43426ce29959",
+        "title": "原因は自分にある。、JOYSOUNDとコラボ 全7種の待ち受け画像をプレゼント、ハート形アクリルボードも",
+        "sourceName": "マイナビニュース 芸能",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
+        "articleUrl": "https://news.mynavi.jp/article/20261102-5242275/",
+        "publishedAt": "2026-11-02T08:01:01.000Z",
+        "summary": "7人組ダンスボーカルグループ・原因は自分にある。の5thシングル『ラブリーズン』のリリースを記念した「原因は自分にある。×JOYSOUNDコラボキャンペーン」が、2日からスタートした。対象のカラオケ店舗で課題曲を選曲すると、参加者全員にオリジナル待ち受け画像がプレゼントされるほか、抽選で20人にハート形アクリルボードが当たる。",
         "groups": [
-          "超特急"
+          "原因は自分にある。"
         ],
         "statuses": [],
         "memberMatches": []
-      },
-      {
-        "id": "c9f5c5a6ee0ff870",
-        "title": "本日26歳誕生日、超特急・髙松アロハが挑発的なスタイルで魅せる『ワンダンス』場面写真3点解禁",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/10/94062/",
-        "publishedAt": "2026-10-26T03:00:00.000Z",
-        "summary": "11月27日(金)に公開されるJO（&TEAM）の初主演映画『ワンダンス』から超特急・髙松アロハ演じるウセンの場面写真3点が解禁された。 本作は、単行本の累計発行部数が130万部を突破した珈琲による同名漫画の実写化。自分の気持ちを抑えて生活するカボこと小谷花木〈こたに・かぼく〉が、人目を気にせずダンスに没頭するワンダこと湾田光莉〈わんだ・ひかり〉に惹かれ、一",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "アロハ",
-            "group": "超特急",
-            "status": "active"
-          }
-        ]
       }
     ],
     "ONE N' ONLY": [
@@ -320,140 +341,6 @@
         "memberMatches": []
       }
     ],
-    "M!LK": [
-      {
-        "id": "973afdbd61aebb4e",
-        "title": "M!LKメンバーからほめられた吉田仁人が喜びを爆発させたワケ「ほめられることなんかないと…」 約10分にわたってメンバーの魅力を熱弁",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20261103-5241603/",
-        "publishedAt": "2026-11-03T10:00:00.000Z",
-        "summary": "「ほめられると思ってなかった。これはうれしいよね」――。アイドルグループ・M!LKの吉田仁人が10月29日、文化放送『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)に出演。メンバーからの“ほめ言葉”に喜びをあらわにした。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "65e6f340cbde595b",
-        "title": "明治『生のとき』日経トレンディ『2026年ヒット商品ベスト30』ランクインで佐野勇斗 驚異の常備量明かす",
-        "sourceName": "Edge Line",
-        "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-        "articleUrl": "https://www.edgeline-tokyo.com/entertainment/208254",
-        "publishedAt": "2026-11-03T02:06:58.000Z",
-        "summary": "アイドルグループ『M!LK』佐野勇斗が今年10月よｒCMキャラクターを務める明治のチョコレート菓子『生のとき』。同製品が11月3日に都内で開催された日経トレンディ『2026年ヒット商品ベスト30』『2027年ヒット予測...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "3dec38bfce9d876a",
-        "title": "M!LK・佐野勇斗 3度マイクトラブルに見舞われ&TEAM・K「滅」！髙石あかりと日経トレンディ選ぶ『今年の顔』に",
-        "sourceName": "Edge Line",
-        "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-        "articleUrl": "https://www.edgeline-tokyo.com/entertainment/208210",
-        "publishedAt": "2026-11-03T02:00:36.000Z",
-        "summary": "アイドルグループ『M!LK』佐野勇斗、俳優・髙石あかりが11月3日に都内で開催された日経トレンディ『2026年ヒット商品ベスト30』『2027年ヒット予測100』先行発表会に出席し日経トレンディが選ぶ『今年の顔』に選出...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "8be793c2e3658c1a",
-        "title": "M!LK日経トレンディで「今年の音」選出！佐野勇斗「頑張ってきてよかった」",
-        "sourceName": "Edge Line",
-        "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-        "articleUrl": "https://www.edgeline-tokyo.com/entertainment/208246",
-        "publishedAt": "2026-11-03T02:00:29.000Z",
-        "summary": "日経トレンディ『2026年ヒット商品ベスト30』『2027年ヒット予測100』先行発表会が11月3日に都内で開催。アイドルグループ『M!LK』が『今年の音』に選出されたことが発表となった。 日経トレンディが1987年...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "b2226271999d6b45",
-        "title": "『FNS歌謡祭』今冬も2週連続生放送 Snow Man、SixTONES、Number_i、HANA、M!LKら第1弾36組発表",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20261103-5246864/",
-        "publishedAt": "2026-11-03T01:12:14.000Z",
-        "summary": "フジテレビ系音楽特番『2026FNS歌謡祭』が、12月2日(18:30～23:18)と9日(18:30～21:54)の2週連続で生放送される。司会は相葉雅紀と同局の井上清華アナウンサーが務め、出演アーティスト第1弾として、SixTONES、Snow Man、Number_i、HANA、M!LK、モナキら36組が発表された。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "原因は自分にある。": [
-      {
-        "id": "73088d1c9854df25",
-        "title": "原因は自分にある。、5thシングル『ラブリーズン』発売直前に6度目の「オールナイトニッポン0(ZERO)」担当。「原因は自分にある。のオールナイトニッポン0(ZERO)」11月7日27時～29時生放送",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/11/02/tg005",
-        "publishedAt": "2026-11-02T09:10:32.000Z",
-        "summary": "",
-        "groups": [
-          "原因は自分にある。"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "646c43426ce29959",
-        "title": "原因は自分にある。、JOYSOUNDとコラボ 全7種の待ち受け画像をプレゼント、ハート形アクリルボードも",
-        "sourceName": "マイナビニュース 芸能",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-        "articleUrl": "https://news.mynavi.jp/article/20261102-5242275/",
-        "publishedAt": "2026-11-02T08:01:01.000Z",
-        "summary": "7人組ダンスボーカルグループ・原因は自分にある。の5thシングル『ラブリーズン』のリリースを記念した「原因は自分にある。×JOYSOUNDコラボキャンペーン」が、2日からスタートした。対象のカラオケ店舗で課題曲を選曲すると、参加者全員にオリジナル待ち受け画像がプレゼントされるほか、抽選で20人にハート形アクリルボードが当たる。",
-        "groups": [
-          "原因は自分にある。"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
     "BUDDiiS": [
       {
         "id": "a24d6c471345f597",
@@ -465,6 +352,86 @@
         "summary": "",
         "groups": [
           "BUDDiiS"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
+    "超特急": [
+      {
+        "id": "32794b83f9832210",
+        "title": "「J-POPシングル ウィークリーTOP30」発表。1位はなにわ男子『Moonlit』、予約1位は超特急『エトランス・フィーバー』（2026年10月29日付）",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/10/29/tg014",
+        "publishedAt": "2026-10-29T10:00:00.000Z",
+        "summary": "",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "69da96bf9d421a41",
+        "title": "「すごい好きだった」「毎日先生と…」超特急・柏木悠が学生に戻ってやりたいことを告白",
+        "sourceName": "マイナビニュース 映画",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
+        "articleUrl": "https://news.mynavi.jp/article/20261027-5205202/",
+        "publishedAt": "2026-10-27T12:00:00.000Z",
+        "summary": "映画『羊の皮を着たケモノ』(12月11日公開)に出演する、鈴木伸之と柏木悠が26日、東京・日比谷で行われた「第39回東京国際映画祭」(TIFF)のレッドカーペットに、楊礼平監督とともに登場した。",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "c9f5c5a6ee0ff870",
+        "title": "本日26歳誕生日、超特急・髙松アロハが挑発的なスタイルで魅せる『ワンダンス』場面写真3点解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/10/94062/",
+        "publishedAt": "2026-10-26T03:00:00.000Z",
+        "summary": "11月27日(金)に公開されるJO（&TEAM）の初主演映画『ワンダンス』から超特急・髙松アロハ演じるウセンの場面写真3点が解禁された。 本作は、単行本の累計発行部数が130万部を突破した珈琲による同名漫画の実写化。自分の気持ちを抑えて生活するカボこと小谷花木〈こたに・かぼく〉が、人目を気にせずダンスに没頭するワンダこと湾田光莉〈わんだ・ひかり〉に惹かれ、一",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "アロハ",
+            "group": "超特急",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "6865cd3cb597efa2",
+        "title": "危うく強い鈴木伸之に柏木悠が宿す意思とは、映画『羊の皮を着たケモノ』緊張感漂う場面写真解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/10/93934/",
+        "publishedAt": "2026-10-23T03:00:00.000Z",
+        "summary": "鈴木伸之と柏木悠（超特急）がW主演を務め、12月11日(金)に公開される映画『羊の皮を着たケモノ』の場面写真5点が解禁された。 本作は、九號（きゅうごう）による同名BL漫画を実写化した、骨太で新感覚のボーイズ・ラブ。原作は「BLアワード2022 ディープ部門」で第13位、「BLアワード2024 ディープ部門」で第3位を獲得した人気作で、物語は前半の明るく甘い",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "ab6a92dadbc653fa",
+        "title": "鈴木伸之×柏木悠W主演『羊の皮を着たケモノ』12月11日劇場公開、ミステリアスなポスター解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/10/93399/",
+        "publishedAt": "2026-10-12T09:00:00.000Z",
+        "summary": "鈴木伸之と柏木悠（超特急）がW主演を務める映画『羊の皮を着たケモノ』が12月11日(金)に公開されることが決定し、ポスタービジュアルが解禁された。 本作は、九號（きゅうごう）による同名BL漫画（徳間書店 Charaコミックス刊）を実写化した、骨太で新感覚のボーイズ・ラブ。原作は「BLアワード2022 ディープ部門」で第13位、「BLアワード2024 ディープ",
+        "groups": [
+          "超特急"
         ],
         "statuses": [],
         "memberMatches": []
