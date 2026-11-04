@@ -1,48 +1,44 @@
 {
-  "updatedAt": "2026-11-04T06:20:21.701Z",
+  "updatedAt": "2026-11-04T19:44:37.212Z",
   "totals": {
-    "all": 132,
-    "today": 6,
-    "week": 29
+    "all": 130,
+    "today": 0,
+    "week": 28
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 16
+      "count": 12
     },
     {
       "name": "SUPER★DRAGON",
-      "count": 8
-    },
-    {
-      "name": "原因は自分にある。",
-      "count": 3
+      "count": 9
     },
     {
       "name": "BUDDiiS",
-      "count": 1
+      "count": 2
     },
     {
-      "name": "EBiDAN",
-      "count": 1
+      "name": "原因は自分にある。",
+      "count": 2
     },
     {
       "name": "超特急",
+      "count": 2
+    },
+    {
+      "name": "EBiDAN",
       "count": 1
     }
   ],
   "memberRanking": [
     {
       "name": "吉田仁人",
-      "count": 6
-    },
-    {
-      "name": "佐野勇斗",
       "count": 4
     },
     {
-      "name": "山中柔太朗",
-      "count": 2
+      "name": "佐野勇斗",
+      "count": 3
     },
     {
       "name": "曽野舜太",
@@ -52,31 +48,23 @@
   "sourceRanking": [
     {
       "name": "SUPER★DRAGON 公式NEWS",
-      "count": 8
+      "count": 9
     },
     {
       "name": "タワーレコード ニュース",
-      "count": 6
+      "count": 7
+    },
+    {
+      "name": "THE FIRST TIMES",
+      "count": 4
     },
     {
       "name": "マイナビニュース テレビ",
       "count": 4
     },
     {
-      "name": "THE FIRST TIMES",
-      "count": 3
-    },
-    {
       "name": "Bezzy",
       "count": 2
-    },
-    {
-      "name": "日刊スポーツ 芸能",
-      "count": 2
-    },
-    {
-      "name": "Edge Line",
-      "count": 1
     },
     {
       "name": "マイナビニュース エンタメ",
@@ -85,171 +73,39 @@
     {
       "name": "マイナビニュース 芸能",
       "count": 1
-    },
-    {
-      "name": "リアルサウンド 音楽",
-      "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
-    "M!LK": [
-      {
-        "id": "97d66bcf5f7aa362",
-        "title": "&TEAM KとM!LK佐野勇斗“180cm以上”の高身長コンビが横並び！仲良し自撮りショットの数々に「タイプ違いのイケメンで最高」「なにこのコンビ！尊すぎる」「推し2人揃った」と反響",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000912439/",
-        "publishedAt": "2026-11-04T06:02:22.000Z",
-        "summary": "&TEAMのKが自身のInstagramを更新。M!LKの佐野勇斗との2ショットを公開した。 ■&TEAM ...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "79455cbe1480dfea",
-        "title": "71歳明石家さんま、元気でいるための食生活を語る「何も考えずにスーパーにポンと立って」",
-        "sourceName": "日刊スポーツ 芸能",
-        "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-        "articleUrl": "https://www.nikkansports.com/entertainment/news/202611040000830.html",
-        "publishedAt": "2026-11-04T05:41:17.000Z",
-        "summary": "明石家さんま（71）が、司会を務める3日放送の日本テレビ系「踊る！さんま御殿!!2時間スペシャル」（午後8時）に出演。健康を維持するための食生活について語った。 「食生活で悩んでいること」とのテーマでトーク。M！LKの吉田仁人は、健康を…",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "cd6aac5387cef672",
-        "title": "「来年の顔」＆TEAM・Ｋと「今年の顔」佐野勇斗２ショットにファン歓喜「画面がまぶしい」",
-        "sourceName": "日刊スポーツ 芸能",
-        "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-        "articleUrl": "https://www.nikkansports.com/entertainment/news/202611040000807.html",
-        "publishedAt": "2026-11-04T05:40:49.000Z",
-        "summary": "9人組グローバルグループ、＆TEAMのK（29）が、4日までに自身のインスタグラムを更新。M!LK佐野勇斗（28）との2ショットを公開した。 Kは日経トレンディが選ぶ「来年の顔」、佐野は「今年の顔」にそれぞれ選出。2人は発表会の衣装で「…",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "56528d5276ba9018",
-        "title": "ミセス 大森元貴、向井康二（Snow Man）＆山中柔太朗（M!LK）と「イケメンだらけ」の収録オフショ ドラマの“親子ショット”も",
-        "sourceName": "リアルサウンド 音楽",
-        "sourceUrl": "https://realsound.jp/music/feed",
-        "articleUrl": "https://realsound.jp/2026/11/post-2573875.html",
-        "publishedAt": "2026-11-04T05:00:29.000Z",
-        "summary": "Mrs. GREEN APPLEの大森元貴が自身のInstagramを更新。現在出演中のドラマ『いろはの恋は時代をかける』のオフショットを公開した。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "32a0df1e6dfe4ff3",
-        "title": "大森元貴が向井康二にぎゅっとハグ！山中柔太朗もぴったり寄り添う仲良しショットに「神すぎる3ショット」「令和を代表するアーティストが並んでる！」「全員かっこいい」と反響",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000912216/",
-        "publishedAt": "2026-11-04T03:15:47.000Z",
-        "summary": "Mrs. GREEN APPLEの大森元貴が自身のInstagramを更新。Snow Manの向井康二、M!LKの山中柔太朗...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      }
-    ],
-    "原因は自分にある。": [
-      {
-        "id": "d130ba79bfe55bcc",
-        "title": "原因は自分にある。週間ストリーミングランキングにおいて2週連続1位獲得【オリコン週間デジタルランキング】",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000911645/",
-        "publishedAt": "2026-11-03T19:00:09.000Z",
-        "summary": "2026/11/9付オリコン週間音楽ランキングより【デジタルランキング】（ストリーミング、デジタ...",
-        "groups": [
-          "原因は自分にある。"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "73088d1c9854df25",
-        "title": "原因は自分にある。、5thシングル『ラブリーズン』発売直前に6度目の「オールナイトニッポン0(ZERO)」担当。「原因は自分にある。のオールナイトニッポン0(ZERO)」11月7日27時～29時生放送",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/11/02/tg005",
-        "publishedAt": "2026-11-02T09:10:32.000Z",
-        "summary": "",
-        "groups": [
-          "原因は自分にある。"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "646c43426ce29959",
-        "title": "原因は自分にある。、JOYSOUNDとコラボ 全7種の待ち受け画像をプレゼント、ハート形アクリルボードも",
-        "sourceName": "マイナビニュース 芸能",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-        "articleUrl": "https://news.mynavi.jp/article/20261102-5242275/",
-        "publishedAt": "2026-11-02T08:01:01.000Z",
-        "summary": "7人組ダンスボーカルグループ・原因は自分にある。の5thシングル『ラブリーズン』のリリースを記念した「原因は自分にある。×JOYSOUNDコラボキャンペーン」が、2日からスタートした。対象のカラオケ店舗で課題曲を選曲すると、参加者全員にオリジナル待ち受け画像がプレゼントされるほか、抽選で20人にハート形アクリルボードが当たる。",
-        "groups": [
-          "原因は自分にある。"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
     "SUPER★DRAGON": [
+      {
+        "id": "de1d3d44f9ecff7a",
+        "title": "Major 2nd Album『STAR』発売記念、HMVモバガチャにて【HMVオンライン抽選会】の開催が決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11936/",
+        "publishedAt": "2026-11-04T11:00:28.000Z",
+        "summary": "2026年12月9日（水）発売のSUPER★DRAGON Major 2nd Album『STAR』のリリースを記念して、2026年11月4日（水）20:00より、HMVモバガチャでの【HMVオンライン抽選会】の開催が決 […] The post Major 2nd Album『STAR』発売記念、HMVモバガチャにて【HMVオンライン抽選会】の開催が決定！",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "a958f1dd898c9b5e",
+        "title": "Major 2nd Album「STAR」HMVキャンペーン決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11926/",
+        "publishedAt": "2026-11-04T11:00:08.000Z",
+        "summary": "①『「STAR」発売記念！SUPER★DRAGON HMV抽選会』が全国のHMV9店舗で実施決定！ 下記対象店舗にて対象商品のCDご購入額3,000円（税込）ごとに1回、トレカ、缶バッジをはじめとした景品が当たる「HMV […] The post Major 2nd Album「STAR」HMVキャンペーン決定！ first appeared on SUPE",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
       {
         "id": "0de97d0b69655721",
         "title": "Major 2nd Album「STAR」 タワーレコードキャンペーン決定！",
@@ -291,30 +147,174 @@
         ],
         "statuses": [],
         "memberMatches": []
+      }
+    ],
+    "M!LK": [
+      {
+        "id": "e3646d8d7fceadfb",
+        "title": "「お恥ずかしい話ですけど…」佐野勇斗がAIに聞いていたM!LKの目標とは 11月で結成13年目「メンバーと話し合ってずっと…」",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20261104-5254320/",
+        "publishedAt": "2026-11-04T11:00:00.000Z",
+        "summary": "5人組ダンスボーカルグループ・M!LKの佐野勇斗が雑誌『日経トレンディ』(日経BP社)が選ぶ「今年の顔」に選出され、3日に都内で行われた「2026年ヒット商品&2027年ヒット予測」発表会に出席した。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
       },
       {
-        "id": "7f51f13c1211da2a",
-        "title": "Spotify Canvasシェアキャンペーン 11月2日(月)より日替わりでここでしか見られない各メンバーのオリジナル動画を公開！",
+        "id": "29fd24d5e760b151",
+        "title": "『ベストヒット歌謡祭2026』出演アーティスト28組の歌唱曲発表！M!LKは大阪城ホール8,000人を巻き込んだ「好きすぎて滅！」を披露",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000912193/",
+        "publishedAt": "2026-11-04T08:00:50.000Z",
+        "summary": "11月11日19時から生放送される『ベストヒット歌謡祭2026』（読売テレビ）に出演する28組の出演...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "97d66bcf5f7aa362",
+        "title": "&TEAM KとM!LK佐野勇斗“180cm以上”の高身長コンビが横並び！仲良し自撮りショットの数々に「タイプ違いのイケメンで最高」「なにこのコンビ！尊すぎる」「推し2人揃った」と反響",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000912439/",
+        "publishedAt": "2026-11-04T06:02:22.000Z",
+        "summary": "&TEAMのKが自身のInstagramを更新。M!LKの佐野勇斗との2ショットを公開した。 ■&TEAM ...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "b2226271999d6b45",
+        "title": "『FNS歌謡祭』今冬も2週連続生放送 Snow Man、SixTONES、Number_i、HANA、M!LKら第1弾36組発表",
+        "sourceName": "マイナビニュース テレビ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
+        "articleUrl": "https://news.mynavi.jp/article/20261103-5246864/",
+        "publishedAt": "2026-11-03T01:12:14.000Z",
+        "summary": "フジテレビ系音楽特番『2026FNS歌謡祭』が、12月2日(18:30～23:18)と9日(18:30～21:54)の2週連続で生放送される。司会は相葉雅紀と同局の井上清華アナウンサーが務め、出演アーティスト第1弾として、SixTONES、Snow Man、Number_i、HANA、M!LK、モナキら36組が発表された。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "dd05e812a307e99d",
+        "title": "M!LK吉田仁人、深夜ラジオ後の不摂生を告白「寝付けないので、麺類を深夜に…」“KARADA WEEKサポーター”の葛藤",
+        "sourceName": "マイナビニュース テレビ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
+        "articleUrl": "https://news.mynavi.jp/article/20261103-5242463/",
+        "publishedAt": "2026-11-02T21:00:00.000Z",
+        "summary": "ダンスボーカルグループ・M!LKの吉田仁人が、きょう3日に放送される日本テレビ系バラエティ番組『踊る!さんま御殿!!』(毎週火曜20:00～)の2時間スペシャルに出演。深夜のラジオ番組を終えた後の食生活について悩みを明かすと、司会の明石家さんまが、自身の経験から編み出した“最強の夜食”を紹介する。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "EBiDAN": [
+      {
+        "id": "94b8058eb7a92a67",
+        "title": "NGT48、オリコン週間合算ランキングで自身初の合算シングル1位を獲得！Kis-My-Ft2は自己最高週間ポイントで合算アルバム1位",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000912651/",
+        "publishedAt": "2026-11-04T08:45:30.000Z",
+        "summary": "オリコン週間合算ランキングで、NGT48、自身初の合算シングル1位を獲得。EBiDAN「Yes! 東京」...",
+        "groups": [
+          "EBiDAN"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "1435a68b28c395c7",
+        "title": "【＠Loppi・HMV限定盤】Blu-ray『EBiDAN THE LIVE 2026 15th Anniversary』2027年2月10日(水)発売決定！さらにEBiDAN15周年アニバーサリーエディション版『EBiDAN Visual Dictionary 2027～15th Anniversary Edition～』も同時発売！本日より予約受付開始！",
         "sourceName": "SUPER★DRAGON 公式NEWS",
         "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11901/",
-        "publishedAt": "2026-11-02T03:00:18.000Z",
-        "summary": "Canvasをストーリーにシェアしてくださった方全員に 【Spotify Canvasシェアありがとう動画】をプレゼント！ ＜応募期間＞ 2026年11月2日(月)〜2026年11月11日(水)23:59 ＜ご参加方法＞ […] The post Spotify Canvasシェアキャンペーン 11月2日(月)より日替わりでここでしか見られない各メンバーのオ",
+        "articleUrl": "https://super-dragon.jp/news/news11875/",
+        "publishedAt": "2026-10-28T07:00:39.000Z",
+        "summary": "＠Loppi・HMV限定盤 Blu-ray『EBiDAN THE LIVE 2026 15th Anniversary』と、EBiDAN15周年アニバーサリーエディション版『EBiDAN Visual Dictionar […] The post 【＠Loppi・HMV限定盤】Blu-ray『EBiDAN THE LIVE 2026 15th Anniver",
         "groups": [
+          "EBiDAN",
           "SUPER★DRAGON"
         ],
         "statuses": [],
         "memberMatches": []
       },
       {
-        "id": "949ecd41c0ec3bcb",
-        "title": "【楽天ミュージック】SUPER★DRAGON「本能」再生キャンペーン開催！ 渋谷スクランブル交差点大型ビジョン「Rakuten Vision」での放映も決定！",
+        "id": "2d9e4e423771c6b6",
+        "title": "EBiDAN オンラインくじ vol.2発売決定！",
         "sourceName": "SUPER★DRAGON 公式NEWS",
         "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11898/",
-        "publishedAt": "2026-10-31T12:00:17.000Z",
-        "summary": "楽天ミュージックで、SUPER★DRAGON「本能」の再生キャンペーン開催が決定！ さらに、渋谷スクランブル交差点大型ビジョン「Rakuten Vision」で11月1日よりキャンペーン告知動画の放映も決定いたしました！ […] The post 【楽天ミュージック】SUPER★DRAGON「本能」再生キャンペーン開催！ 渋谷スクランブル交差点大型ビジョン「",
+        "articleUrl": "https://super-dragon.jp/news/news11856/",
+        "publishedAt": "2026-10-23T07:00:16.000Z",
+        "summary": "「EBiDAN museum 2026」の大盛況を記念し、10月26日(月)13:00より「EBiDAN オンラインくじ vol.2」の販売が決定しました！ グループ別のくじとなり、それぞれ全5等級のいずれかの景品が必ず […] The post EBiDAN オンラインくじ vol.2発売決定！ first appeared on SUPER★DRAGON",
         "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "79db83af4ca4bd66",
+        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ&生写真セット 事後通販決定！！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11822/",
+        "publishedAt": "2026-10-19T07:00:01.000Z",
+        "summary": "第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ&生写真セットの事後通販が決定しました！ 残りわずかな商品もございますので、ぜひこの機会にご利用ください！ ****************** […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ&生写真セット 事後通販決定！！ first app",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "4c9519734cc191ec",
+        "title": "第6回 EBiDAN 大運動会 『スポーツマンヒップ！』ファンクラブブース情報！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11754/",
+        "publishedAt": "2026-10-09T06:30:06.000Z",
+        "summary": "第6回 EBiDAN 大運動会 『スポーツマンヒップ！』ファンクラブブースの受付が決定いたしました。 当日は、対象期間中に各EBiDANファンクラブで【新規入会・継続・お友達紹介】をされた方、 または各＋KIRARIコミ […] The post 第6回 EBiDAN 大運動会 『スポーツマンヒップ！』ファンクラブブース情報！ first appeared ",
+        "groups": [
+          "EBiDAN",
           "SUPER★DRAGON"
         ],
         "statuses": [],
@@ -322,6 +322,20 @@
       }
     ],
     "BUDDiiS": [
+      {
+        "id": "fb308ac696627998",
+        "title": "BUDDiiS、11月18日リリースのメジャー2ndシングル『無限大LOVE!!!』よりリード曲“無限大LOVE!!!”MV公開。全銀河で愛を包み込む",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/11/04/tg002",
+        "publishedAt": "2026-11-04T08:25:30.000Z",
+        "summary": "",
+        "groups": [
+          "BUDDiiS"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
       {
         "id": "a24d6c471345f597",
         "title": "11月2日放送「CDTVライブ！ライブ！」3時間SP、ano、Ayumu Imazu、Aぇ! group、Kis-My-Ft2、JO1、島袋寛子、BUDDiiS、Mrs. GREEN APPLE、ヤバイTシャツ屋さん出演。「マンスリーライブ！」はBE:FIRST。佐野晶哉（Aぇ! group）、LAPONE選抜も",
@@ -338,6 +352,20 @@
       }
     ],
     "超特急": [
+      {
+        "id": "b361340f278d3d91",
+        "title": "【超特急 2026年ハロウィンまとめ】顔が見えないガチ仮装も！本気度満点の妖怪コスプレに「クオリティー高すぎ」「誰かわからなさすぎるｗ」と反響",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000912341/",
+        "publishedAt": "2026-11-04T08:10:58.000Z",
+        "summary": "超特急がハロウィンを記念した生配信を実施し、その際に披露した妖怪コスプレが話題を集めた。...",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
       {
         "id": "32794b83f9832210",
         "title": "「J-POPシングル ウィークリーTOP30」発表。1位はなにわ男子『Moonlit』、予約1位は超特急『エトランス・フィーバー』（2026年10月29日付）",
@@ -401,94 +429,33 @@
         ],
         "statuses": [],
         "memberMatches": []
-      },
-      {
-        "id": "ab6a92dadbc653fa",
-        "title": "鈴木伸之×柏木悠W主演『羊の皮を着たケモノ』12月11日劇場公開、ミステリアスなポスター解禁",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/10/93399/",
-        "publishedAt": "2026-10-12T09:00:00.000Z",
-        "summary": "鈴木伸之と柏木悠（超特急）がW主演を務める映画『羊の皮を着たケモノ』が12月11日(金)に公開されることが決定し、ポスタービジュアルが解禁された。 本作は、九號（きゅうごう）による同名BL漫画（徳間書店 Charaコミックス刊）を実写化した、骨太で新感覚のボーイズ・ラブ。原作は「BLアワード2022 ディープ部門」で第13位、「BLアワード2024 ディープ",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
       }
     ],
-    "EBiDAN": [
+    "原因は自分にある。": [
       {
-        "id": "1435a68b28c395c7",
-        "title": "【＠Loppi・HMV限定盤】Blu-ray『EBiDAN THE LIVE 2026 15th Anniversary』2027年2月10日(水)発売決定！さらにEBiDAN15周年アニバーサリーエディション版『EBiDAN Visual Dictionary 2027～15th Anniversary Edition～』も同時発売！本日より予約受付開始！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11875/",
-        "publishedAt": "2026-10-28T07:00:39.000Z",
-        "summary": "＠Loppi・HMV限定盤 Blu-ray『EBiDAN THE LIVE 2026 15th Anniversary』と、EBiDAN15周年アニバーサリーエディション版『EBiDAN Visual Dictionar […] The post 【＠Loppi・HMV限定盤】Blu-ray『EBiDAN THE LIVE 2026 15th Anniver",
+        "id": "73088d1c9854df25",
+        "title": "原因は自分にある。、5thシングル『ラブリーズン』発売直前に6度目の「オールナイトニッポン0(ZERO)」担当。「原因は自分にある。のオールナイトニッポン0(ZERO)」11月7日27時～29時生放送",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/11/02/tg005",
+        "publishedAt": "2026-11-02T09:10:32.000Z",
+        "summary": "",
         "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
+          "原因は自分にある。"
         ],
         "statuses": [],
         "memberMatches": []
       },
       {
-        "id": "2d9e4e423771c6b6",
-        "title": "EBiDAN オンラインくじ vol.2発売決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11856/",
-        "publishedAt": "2026-10-23T07:00:16.000Z",
-        "summary": "「EBiDAN museum 2026」の大盛況を記念し、10月26日(月)13:00より「EBiDAN オンラインくじ vol.2」の販売が決定しました！ グループ別のくじとなり、それぞれ全5等級のいずれかの景品が必ず […] The post EBiDAN オンラインくじ vol.2発売決定！ first appeared on SUPER★DRAGON",
+        "id": "646c43426ce29959",
+        "title": "原因は自分にある。、JOYSOUNDとコラボ 全7種の待ち受け画像をプレゼント、ハート形アクリルボードも",
+        "sourceName": "マイナビニュース 芸能",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
+        "articleUrl": "https://news.mynavi.jp/article/20261102-5242275/",
+        "publishedAt": "2026-11-02T08:01:01.000Z",
+        "summary": "7人組ダンスボーカルグループ・原因は自分にある。の5thシングル『ラブリーズン』のリリースを記念した「原因は自分にある。×JOYSOUNDコラボキャンペーン」が、2日からスタートした。対象のカラオケ店舗で課題曲を選曲すると、参加者全員にオリジナル待ち受け画像がプレゼントされるほか、抽選で20人にハート形アクリルボードが当たる。",
         "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "79db83af4ca4bd66",
-        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ&生写真セット 事後通販決定！！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11822/",
-        "publishedAt": "2026-10-19T07:00:01.000Z",
-        "summary": "第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ&生写真セットの事後通販が決定しました！ 残りわずかな商品もございますので、ぜひこの機会にご利用ください！ ****************** […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ&生写真セット 事後通販決定！！ first app",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "4c9519734cc191ec",
-        "title": "第6回 EBiDAN 大運動会 『スポーツマンヒップ！』ファンクラブブース情報！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11754/",
-        "publishedAt": "2026-10-09T06:30:06.000Z",
-        "summary": "第6回 EBiDAN 大運動会 『スポーツマンヒップ！』ファンクラブブースの受付が決定いたしました。 当日は、対象期間中に各EBiDANファンクラブで【新規入会・継続・お友達紹介】をされた方、 または各＋KIRARIコミ […] The post 第6回 EBiDAN 大運動会 『スポーツマンヒップ！』ファンクラブブース情報！ first appeared ",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "d368d6cea4acc417",
-        "title": "【お知らせ】 EBiDAN SNS投稿ガイドラインに関するお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11751/",
-        "publishedAt": "2026-10-08T03:30:07.000Z",
-        "summary": "いつも弊社所属アーティストを温かく応援いただき、誠にありがとうございます。 これからも楽しく安心して応援いただけるよう、SNSにおけるご投稿のガイドラインを定めております。 皆様のご理解とご協力をお願い申し上げます。 ※ […] The post 【お知らせ】 EBiDAN SNS投稿ガイドラインに関するお知らせ first appeared on SUPE",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
+          "原因は自分にある。"
         ],
         "statuses": [],
         "memberMatches": []
