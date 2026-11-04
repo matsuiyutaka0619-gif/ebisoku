@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-03T23:22:44.661Z",
+  "updatedAt": "2026-11-04T06:20:21.701Z",
   "totals": {
     "all": 132,
-    "today": 3,
+    "today": 6,
     "week": 29
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 15
+      "count": 16
     },
     {
       "name": "SUPER★DRAGON",
@@ -27,10 +27,6 @@
       "count": 1
     },
     {
-      "name": "ONE N' ONLY",
-      "count": 1
-    },
-    {
       "name": "超特急",
       "count": 1
     }
@@ -38,15 +34,15 @@
   "memberRanking": [
     {
       "name": "吉田仁人",
-      "count": 5
+      "count": 6
     },
     {
       "name": "佐野勇斗",
       "count": 4
     },
     {
-      "name": "NAOYA",
-      "count": 1
+      "name": "山中柔太朗",
+      "count": 2
     },
     {
       "name": "曽野舜太",
@@ -63,11 +59,11 @@
       "count": 6
     },
     {
-      "name": "THE FIRST TIMES",
-      "count": 3
+      "name": "マイナビニュース テレビ",
+      "count": 4
     },
     {
-      "name": "マイナビニュース テレビ",
+      "name": "THE FIRST TIMES",
       "count": 3
     },
     {
@@ -75,12 +71,16 @@
       "count": 2
     },
     {
-      "name": "Edge Line",
+      "name": "日刊スポーツ 芸能",
       "count": 2
     },
     {
+      "name": "Edge Line",
+      "count": 1
+    },
+    {
       "name": "マイナビニュース エンタメ",
-      "count": 2
+      "count": 1
     },
     {
       "name": "マイナビニュース 芸能",
@@ -89,23 +89,19 @@
     {
       "name": "リアルサウンド 音楽",
       "count": 1
-    },
-    {
-      "name": "日刊スポーツ 芸能",
-      "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
     "M!LK": [
       {
-        "id": "051fefe031debaf1",
-        "title": "「今年の顔」にM!LK佐野勇斗＆髙石あかりが選出 「来年の顔」には＆TEAMのＫ",
-        "sourceName": "日刊スポーツ 芸能",
-        "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-        "articleUrl": "https://www.nikkansports.com/entertainment/news/202611030001390.html",
-        "publishedAt": "2026-11-03T21:55:00.000Z",
-        "summary": "日経トレンディ「2026年ヒット商品ベスト30」が3日、発表され、M!LKの佐野勇斗（28）が「今年の顔」に選出された。 M!LKが昨年からヒット曲を連発し、俳優業も充実させるなど、大活躍の1年となり「23年に『来年の顔』に選ばれて、『…",
+        "id": "97d66bcf5f7aa362",
+        "title": "&TEAM KとM!LK佐野勇斗“180cm以上”の高身長コンビが横並び！仲良し自撮りショットの数々に「タイプ違いのイケメンで最高」「なにこのコンビ！尊すぎる」「推し2人揃った」と反響",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000912439/",
+        "publishedAt": "2026-11-04T06:02:22.000Z",
+        "summary": "&TEAMのKが自身のInstagramを更新。M!LKの佐野勇斗との2ショットを公開した。 ■&TEAM ...",
         "groups": [
           "M!LK"
         ],
@@ -121,27 +117,13 @@
         ]
       },
       {
-        "id": "0379758bc6b81485",
-        "title": "新着MVランキング：M!LK「ザッツ！超常」首位 弾ける5人の“無敵感”、止まらない快進撃を映す1曲に",
-        "sourceName": "リアルサウンド 音楽",
-        "sourceUrl": "https://realsound.jp/music/feed",
-        "articleUrl": "https://realsound.jp/2026/11/post-2573034.html",
-        "publishedAt": "2026-11-03T20:50:18.000Z",
-        "summary": "毎週更新される「YouTube Music Charts」ウィークリー ミュージック ビデオ ランキングより、MVをはじめとした音楽関連の新着動画から上位10作品／楽曲を取り上げ、ランキング化＆レビューしていく連載「MV Chart Focus」。今週は、首位を獲得したM!LK「ザッツ！超常」を取り上げる。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "973afdbd61aebb4e",
-        "title": "M!LKメンバーからほめられた吉田仁人が喜びを爆発させたワケ「ほめられることなんかないと…」 約10分にわたってメンバーの魅力を熱弁",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20261103-5241603/",
-        "publishedAt": "2026-11-03T10:00:00.000Z",
-        "summary": "「ほめられると思ってなかった。これはうれしいよね」――。アイドルグループ・M!LKの吉田仁人が10月29日、文化放送『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)に出演。メンバーからの“ほめ言葉”に喜びをあらわにした。",
+        "id": "79455cbe1480dfea",
+        "title": "71歳明石家さんま、元気でいるための食生活を語る「何も考えずにスーパーにポンと立って」",
+        "sourceName": "日刊スポーツ 芸能",
+        "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+        "articleUrl": "https://www.nikkansports.com/entertainment/news/202611040000830.html",
+        "publishedAt": "2026-11-04T05:41:17.000Z",
+        "summary": "明石家さんま（71）が、司会を務める3日放送の日本テレビ系「踊る！さんま御殿!!2時間スペシャル」（午後8時）に出演。健康を維持するための食生活について語った。 「食生活で悩んでいること」とのテーマでトーク。M！LKの吉田仁人は、健康を…",
         "groups": [
           "M!LK"
         ],
@@ -157,13 +139,13 @@
         ]
       },
       {
-        "id": "65e6f340cbde595b",
-        "title": "明治『生のとき』日経トレンディ『2026年ヒット商品ベスト30』ランクインで佐野勇斗 驚異の常備量明かす",
-        "sourceName": "Edge Line",
-        "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-        "articleUrl": "https://www.edgeline-tokyo.com/entertainment/208254",
-        "publishedAt": "2026-11-03T02:06:58.000Z",
-        "summary": "アイドルグループ『M!LK』佐野勇斗が今年10月よｒCMキャラクターを務める明治のチョコレート菓子『生のとき』。同製品が11月3日に都内で開催された日経トレンディ『2026年ヒット商品ベスト30』『2027年ヒット予測...",
+        "id": "cd6aac5387cef672",
+        "title": "「来年の顔」＆TEAM・Ｋと「今年の顔」佐野勇斗２ショットにファン歓喜「画面がまぶしい」",
+        "sourceName": "日刊スポーツ 芸能",
+        "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+        "articleUrl": "https://www.nikkansports.com/entertainment/news/202611040000807.html",
+        "publishedAt": "2026-11-04T05:40:49.000Z",
+        "summary": "9人組グローバルグループ、＆TEAMのK（29）が、4日までに自身のインスタグラムを更新。M!LK佐野勇斗（28）との2ショットを公開した。 Kは日経トレンディが選ぶ「来年の顔」、佐野は「今年の顔」にそれぞれ選出。2人は発表会の衣装で「…",
         "groups": [
           "M!LK"
         ],
@@ -179,13 +161,13 @@
         ]
       },
       {
-        "id": "3dec38bfce9d876a",
-        "title": "M!LK・佐野勇斗 3度マイクトラブルに見舞われ&TEAM・K「滅」！髙石あかりと日経トレンディ選ぶ『今年の顔』に",
-        "sourceName": "Edge Line",
-        "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-        "articleUrl": "https://www.edgeline-tokyo.com/entertainment/208210",
-        "publishedAt": "2026-11-03T02:00:36.000Z",
-        "summary": "アイドルグループ『M!LK』佐野勇斗、俳優・髙石あかりが11月3日に都内で開催された日経トレンディ『2026年ヒット商品ベスト30』『2027年ヒット予測100』先行発表会に出席し日経トレンディが選ぶ『今年の顔』に選出...",
+        "id": "56528d5276ba9018",
+        "title": "ミセス 大森元貴、向井康二（Snow Man）＆山中柔太朗（M!LK）と「イケメンだらけ」の収録オフショ ドラマの“親子ショット”も",
+        "sourceName": "リアルサウンド 音楽",
+        "sourceUrl": "https://realsound.jp/music/feed",
+        "articleUrl": "https://realsound.jp/2026/11/post-2573875.html",
+        "publishedAt": "2026-11-04T05:00:29.000Z",
+        "summary": "Mrs. GREEN APPLEの大森元貴が自身のInstagramを更新。現在出演中のドラマ『いろはの恋は時代をかける』のオフショットを公開した。",
         "groups": [
           "M!LK"
         ],
@@ -194,7 +176,29 @@
         ],
         "memberMatches": [
           {
-            "name": "佐野勇斗",
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "32a0df1e6dfe4ff3",
+        "title": "大森元貴が向井康二にぎゅっとハグ！山中柔太朗もぴったり寄り添う仲良しショットに「神すぎる3ショット」「令和を代表するアーティストが並んでる！」「全員かっこいい」と反響",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000912216/",
+        "publishedAt": "2026-11-04T03:15:47.000Z",
+        "summary": "Mrs. GREEN APPLEの大森元貴が自身のInstagramを更新。Snow Manの向井康二、M!LKの山中柔太朗...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "山中柔太朗",
             "group": "M!LK",
             "status": "active"
           }
@@ -243,30 +247,6 @@
         ],
         "statuses": [],
         "memberMatches": []
-      }
-    ],
-    "ONE N' ONLY": [
-      {
-        "id": "68c7d8fa78d54bec",
-        "title": "ONE N' ONLY、ドラマ『青と碧』OP主題歌「CRUSH ON YOU」ダンスパフォーマンスビデオ公開！注目はサビの小指を噛むような仕草",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000911965/",
-        "publishedAt": "2026-11-03T11:06:30.000Z",
-        "summary": "ONE N’ ONLY（ワンエンオンリー）が、メンバーのNAOYA（草川直弥）がW主演を務めるドラ...",
-        "groups": [
-          "ONE N' ONLY"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "NAOYA",
-            "group": "ONE N' ONLY",
-            "status": "active"
-          }
-        ]
       }
     ],
     "SUPER★DRAGON": [
