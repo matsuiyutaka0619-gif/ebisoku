@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-06T19:23:50.842Z",
+  "updatedAt": "2026-11-07T05:57:30.647Z",
   "totals": {
-    "all": 125,
-    "today": 0,
-    "week": 26
+    "all": 120,
+    "today": 1,
+    "week": 22
   },
   "groupRanking": [
     {
-      "name": "M!LK",
-      "count": 12
+      "name": "SUPER★DRAGON",
+      "count": 13
     },
     {
-      "name": "SUPER★DRAGON",
-      "count": 12
+      "name": "M!LK",
+      "count": 7
     },
     {
       "name": "原因は自分にある。",
@@ -25,16 +25,8 @@
   ],
   "memberRanking": [
     {
-      "name": "吉田仁人",
-      "count": 4
-    },
-    {
       "name": "佐野勇斗",
       "count": 4
-    },
-    {
-      "name": "山中柔太朗",
-      "count": 2
     },
     {
       "name": "カイ",
@@ -43,20 +35,24 @@
     {
       "name": "ユーキ",
       "count": 1
+    },
+    {
+      "name": "吉田仁人",
+      "count": 1
+    },
+    {
+      "name": "山中柔太朗",
+      "count": 1
     }
   ],
   "sourceRanking": [
     {
       "name": "SUPER★DRAGON 公式NEWS",
-      "count": 12
+      "count": 13
     },
     {
       "name": "THE FIRST TIMES",
-      "count": 6
-    },
-    {
-      "name": "マイナビニュース テレビ",
-      "count": 3
+      "count": 4
     },
     {
       "name": "マイナビニュース 芸能",
@@ -67,125 +63,27 @@
       "count": 1
     },
     {
-      "name": "マイナビニュース エンタメ",
+      "name": "マイナビニュース テレビ",
       "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
-    "M!LK": [
-      {
-        "id": "477a34db883a8fd0",
-        "title": "M!LK吉田仁人主演ドラマ『溺愛 ～ 実は、最強ヒーロー ～』第3話の場面写真＆あらすじ公開",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000913627/",
-        "publishedAt": "2026-11-06T14:30:39.000Z",
-        "summary": "M!LKの吉田仁人が主演を務めるドラマ『溺愛 ～ 実は、最強ヒーロー ～』（TOKYO MX他で放送）...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "ea659489e4000e6d",
-        "title": "M!LK山中柔太朗のダブルブリッジメガネを外す仕草に「恋が始まる気がする」の声、ふんわりとしたブラウンコーデにも「似合いすぎて滅」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000914261/",
-        "publishedAt": "2026-11-06T10:52:04.000Z",
-        "summary": "M!LK山中柔太朗がブラウンコーデで登場する、11月20日発売の『東京カレンダー』2027年1月号特...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "9991b6e38b886e21",
-        "title": "「出世できない理由を突きつけられた気がした」会社員リスナーから寄せられた“日常エッセイ”にM!LK吉田仁人も感動「これはすごい…」「名作」「素晴らしい」",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20261106-5242101/",
-        "publishedAt": "2026-11-06T10:00:00.000Z",
-        "summary": "「出世できない理由を突きつけられた気がした」――。アイドルグループ・M!LKの吉田仁人が10月29日、文化放送『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)に出演。会社員リスナーのエピソードに共感を寄せた。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "26e38bf7c4cd48a1",
-        "title": "M!LK「赤坂5丁目ミニマラソン」歴代王者に挑戦！2024年春優勝の佐野文哉（OWV）は「“佐野界”でいちばん速いのは自分！」と佐野勇斗を牽制",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000913767/",
-        "publishedAt": "2026-11-06T08:00:58.000Z",
-        "summary": "M!LKが出演する冠バラエティ番組『M!LKの爆裂ミッション』のスペシャル第3弾が、11月7日20時54...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "dd4c6589dd7832cc",
-        "title": "M!LK吉田仁人が色付きメガネ×ゆるふわ前髪で雰囲気ガラリ！力強い眼差しのアップショットに「新鮮」「直視できない」「今日は攻めてる」と反響",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000913534/",
-        "publishedAt": "2026-11-06T06:00:10.000Z",
-        "summary": "5人組ダンスボーカルグループ・M!LKの吉田仁人がパーソナリティーを務める『M!LK 吉田仁人のレ...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      }
-    ],
     "SUPER★DRAGON": [
+      {
+        "id": "6900d7efa795e006",
+        "title": "SUPER★DRAGON LIVE TOUR 2027「house」最新チケット情報！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11958/",
+        "publishedAt": "2026-11-07T05:00:43.000Z",
+        "summary": "本日11月7日(土)14:00より、ローソンチケットにてプレリクエスト先行〈抽選〉受付開始。 会場で皆さんとお会いできることを楽しみにしております！ ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願い […] The post SUPER★DRAGON LIVE TOUR 2027「house」最新チケット情報！ first appear",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
       {
         "id": "7641037a1f8a9902",
         "title": "【リリースイベント】11月14日(土)開催＠東京ドームシティ ラクーア（東京）参加方法・特典会内容についてのご案内",
@@ -241,20 +139,118 @@
         ],
         "statuses": [],
         "memberMatches": []
+      }
+    ],
+    "M!LK": [
+      {
+        "id": "477a34db883a8fd0",
+        "title": "M!LK吉田仁人主演ドラマ『溺愛 ～ 実は、最強ヒーロー ～』第3話の場面写真＆あらすじ公開",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000913627/",
+        "publishedAt": "2026-11-06T14:30:39.000Z",
+        "summary": "M!LKの吉田仁人が主演を務めるドラマ『溺愛 ～ 実は、最強ヒーロー ～』（TOKYO MX他で放送）...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
       },
       {
-        "id": "de1d3d44f9ecff7a",
-        "title": "Major 2nd Album『STAR』発売記念、HMVモバガチャにて【HMVオンライン抽選会】の開催が決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11936/",
-        "publishedAt": "2026-11-04T11:00:28.000Z",
-        "summary": "2026年12月9日（水）発売のSUPER★DRAGON Major 2nd Album『STAR』のリリースを記念して、2026年11月4日（水）20:00より、HMVモバガチャでの【HMVオンライン抽選会】の開催が決 […] The post Major 2nd Album『STAR』発売記念、HMVモバガチャにて【HMVオンライン抽選会】の開催が決定！",
+        "id": "ea659489e4000e6d",
+        "title": "M!LK山中柔太朗のダブルブリッジメガネを外す仕草に「恋が始まる気がする」の声、ふんわりとしたブラウンコーデにも「似合いすぎて滅」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000914261/",
+        "publishedAt": "2026-11-06T10:52:04.000Z",
+        "summary": "M!LK山中柔太朗がブラウンコーデで登場する、11月20日発売の『東京カレンダー』2027年1月号特...",
         "groups": [
-          "SUPER★DRAGON"
+          "M!LK"
         ],
-        "statuses": [],
-        "memberMatches": []
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "26e38bf7c4cd48a1",
+        "title": "M!LK「赤坂5丁目ミニマラソン」歴代王者に挑戦！2024年春優勝の佐野文哉（OWV）は「“佐野界”でいちばん速いのは自分！」と佐野勇斗を牽制",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000913767/",
+        "publishedAt": "2026-11-06T08:00:58.000Z",
+        "summary": "M!LKが出演する冠バラエティ番組『M!LKの爆裂ミッション』のスペシャル第3弾が、11月7日20時54...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "2de5ffa2ee821699",
+        "title": "M!LK佐野勇斗、今年“やめたもの”を告白「春夏秋冬、全部…」「傍から見たら…」",
+        "sourceName": "マイナビニュース 芸能",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
+        "articleUrl": "https://news.mynavi.jp/article/20261105-5254500/",
+        "publishedAt": "2026-11-05T11:00:00.000Z",
+        "summary": "5人組ダンスボーカルグループ・M!LKの佐野勇斗が雑誌『日経トレンディ』(日経BP社)が選ぶ「今年の顔」に選出され、3日に都内で行われた「2026年ヒット商品&2027年ヒット予測」発表会に出席した。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "8c9df6ddd8c1aa7b",
+        "title": "高木菜那、36歳までに結婚宣言 高梨沙羅も好きな芸人を告白、せいや絶句",
+        "sourceName": "マイナビニュース テレビ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
+        "articleUrl": "https://news.mynavi.jp/article/20261105-5257018/",
+        "publishedAt": "2026-11-04T22:00:00.000Z",
+        "summary": "「36歳までに結婚する」――スピードスケートの五輪金メダリスト・高木菜那氏が、きょう5日に放送される日本テレビ系バラエティ番組『ぐるぐるナインティナイン 2時間SP』(19:00～)の「ゴチになります!27」で、自身の結婚観を告白。スキージャンプの五輪銅メダリスト・高梨沙羅選手とともにゴチ初参戦を果たし、M!LKの佐野勇斗が指導するダンスエクササイズにも挑戦",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
       }
     ],
     "超特急": [
