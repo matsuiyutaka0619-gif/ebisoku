@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-11-07T12:59:24.154Z",
+  "updatedAt": "2026-11-07T21:49:35.113Z",
   "articles": [
+    {
+      "id": "f15146987d1d9b9b",
+      "title": "SixTONES、Stray Kids、Snow Man、超特急ら6組 大規模公演に刻まれる挑戦、夢の実現、帰還のストーリー",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/11/post-2576459.html",
+      "publishedAt": "2026-11-07T20:50:23.000Z",
+      "summary": "SixTONES、Stray Kids、Snow Man、INI、超特急、BIGBANG。ドーム／スタジアム公演が相次ぐなか、それぞれの大舞台には挑戦、夢の実現、帰還とそれぞれのストーリーが刻まれている。本稿では、6組の歩みから、ボーイズグループシーンに広がる多様な成長の形を読み解く。",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "d5723b05f7607ba5",
+      "title": "日テレ系音楽の祭典『ベストアーティスト2026』放送決定！ミセス、BE:FIRST、M!LKら第1弾出演アーティスト13組も発表",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000914524/",
+      "publishedAt": "2026-11-07T20:00:10.000Z",
+      "summary": "『ベストアーティスト2026』が、11月28日に5時間にわたって日本テレビ系で生放送されることが...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "2ac413a4f1b05299",
+      "title": "櫻井翔『ベストアーティスト』18年連続総合司会「特等席でとても楽しみながら」 25周年の出演者第1弾発表",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261108-5276591/",
+      "publishedAt": "2026-11-07T20:00:00.000Z",
+      "summary": "櫻井翔が総合司会を務める日本テレビ系音楽特番『ベストアーティスト2026』が、11月28日(16:00～)に約5時間にわたって生放送される。第1弾出演アーティストとして、Mrs. GREEN APPLE、SixTONES、HANA、M!LK、King ＆ Prince、timelesz、Travis Japanら13組が発表された。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "a216ec6ed5924451",
       "title": "不思議な表情を浮かべたM!LK吉田仁人 後日ラジオで語られた言葉に触れて少し心境を理解できた気がした 【M!LK吉田仁人インタビュー編集後記】",
@@ -36,28 +78,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "477a34db883a8fd0",
-      "title": "M!LK吉田仁人主演ドラマ『溺愛 ～ 実は、最強ヒーロー ～』第3話の場面写真＆あらすじ公開",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000913627/",
-      "publishedAt": "2026-11-06T14:30:39.000Z",
-      "summary": "M!LKの吉田仁人が主演を務めるドラマ『溺愛 ～ 実は、最強ヒーロー ～』（TOKYO MX他で放送）...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "7641037a1f8a9902",
