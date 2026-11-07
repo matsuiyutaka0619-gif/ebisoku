@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-11-07T05:57:30.645Z",
+  "updatedAt": "2026-11-07T12:59:24.154Z",
   "articles": [
+    {
+      "id": "a216ec6ed5924451",
+      "title": "不思議な表情を浮かべたM!LK吉田仁人 後日ラジオで語られた言葉に触れて少し心境を理解できた気がした 【M!LK吉田仁人インタビュー編集後記】",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261107-5261204/",
+      "publishedAt": "2026-11-07T10:00:00.000Z",
+      "summary": "「こんなにたくさん……?」。そんな心の声が聞こえてきそうな表情だった。TOKYO MXドラマ『溺愛 ～実は、最強ヒーロー～ 』(毎週金曜23:00～)で、連続ドラマ初主演を務めるM!LKの吉田仁人。先日、同作の合同取材に参加した際、印象的な光景を目にした。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "6900d7efa795e006",
       "title": "SUPER★DRAGON LIVE TOUR 2027「house」最新チケット情報！",
@@ -78,77 +100,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "ea659489e4000e6d",
-      "title": "M!LK山中柔太朗のダブルブリッジメガネを外す仕草に「恋が始まる気がする」の声、ふんわりとしたブラウンコーデにも「似合いすぎて滅」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000914261/",
-      "publishedAt": "2026-11-06T10:52:04.000Z",
-      "summary": "M!LK山中柔太朗がブラウンコーデで登場する、11月20日発売の『東京カレンダー』2027年1月号特...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "山中柔太朗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "dfd0e82de6d9f711",
-      "title": "超特急カイ＆ユーキとROIROMが色っぽく「MISTIA」コラボダンスを披露！「豪華メンバー」「みんなイケメン」「所作が美しい」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000914178/",
-      "publishedAt": "2026-11-06T09:17:25.000Z",
-      "summary": "ROIROM公式SNSにて、超特急とのコラボダンス動画が公開された。 ■『VS超特急』で共演の二組が...",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "カイ",
-          "group": "超特急",
-          "status": "active"
-        },
-        {
-          "name": "ユーキ",
-          "group": "超特急",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "26e38bf7c4cd48a1",
-      "title": "M!LK「赤坂5丁目ミニマラソン」歴代王者に挑戦！2024年春優勝の佐野文哉（OWV）は「“佐野界”でいちばん速いのは自分！」と佐野勇斗を牽制",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000913767/",
-      "publishedAt": "2026-11-06T08:00:58.000Z",
-      "summary": "M!LKが出演する冠バラエティ番組『M!LKの爆裂ミッション』のスペシャル第3弾が、11月7日20時54...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "84497a48b92f05fd",
