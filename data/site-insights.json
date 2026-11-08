@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-07T21:49:35.115Z",
+  "updatedAt": "2026-11-08T05:59:27.470Z",
   "totals": {
     "all": 120,
-    "today": 3,
+    "today": 4,
     "week": 19
   },
   "groupRanking": [
@@ -43,16 +43,12 @@
       "count": 3
     },
     {
-      "name": "マイナビニュース エンタメ",
+      "name": "THE FIRST TIMES",
       "count": 2
     },
     {
-      "name": "THE FIRST TIMES",
-      "count": 1
-    },
-    {
-      "name": "マイナビニュース テレビ",
-      "count": 1
+      "name": "マイナビニュース エンタメ",
+      "count": 2
     },
     {
       "name": "リアルサウンド 音楽",
@@ -61,6 +57,102 @@
   ],
   "topics": [],
   "recentByGroup": {
+    "M!LK": [
+      {
+        "id": "4df6ecd017b0c4d1",
+        "title": "佐野勇斗のオールブラックコーデが爆イケ！スーツからレザースタイルまで色っぽい着こなしにも注目",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000912208/",
+        "publishedAt": "2026-11-08T00:00:44.000Z",
+        "summary": "M!LKの佐野勇斗が見せるオールブラックコーデを厳選！ 抜群のスタイルを生かした着こなしはも...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "d5723b05f7607ba5",
+        "title": "日テレ系音楽の祭典『ベストアーティスト2026』放送決定！ミセス、BE:FIRST、M!LKら第1弾出演アーティスト13組も発表",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000914524/",
+        "publishedAt": "2026-11-07T20:00:10.000Z",
+        "summary": "『ベストアーティスト2026』が、11月28日に5時間にわたって日本テレビ系で生放送されることが...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "2ac413a4f1b05299",
+        "title": "櫻井翔『ベストアーティスト』18年連続総合司会「特等席でとても楽しみながら」 25周年の出演者第1弾発表",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20261108-5276591/",
+        "publishedAt": "2026-11-07T20:00:00.000Z",
+        "summary": "櫻井翔が総合司会を務める日本テレビ系音楽特番『ベストアーティスト2026』が、11月28日(16:00～)に約5時間にわたって生放送される。第1弾出演アーティストとして、Mrs. GREEN APPLE、SixTONES、HANA、M!LK、King ＆ Prince、timelesz、Travis Japanら13組が発表された。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "a216ec6ed5924451",
+        "title": "不思議な表情を浮かべたM!LK吉田仁人 後日ラジオで語られた言葉に触れて少し心境を理解できた気がした 【M!LK吉田仁人インタビュー編集後記】",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20261107-5261204/",
+        "publishedAt": "2026-11-07T10:00:00.000Z",
+        "summary": "「こんなにたくさん……?」。そんな心の声が聞こえてきそうな表情だった。TOKYO MXドラマ『溺愛 ～実は、最強ヒーロー～ 』(毎週金曜23:00～)で、連続ドラマ初主演を務めるM!LKの吉田仁人。先日、同作の合同取材に参加した際、印象的な光景を目にした。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "2de5ffa2ee821699",
+        "title": "M!LK佐野勇斗、今年“やめたもの”を告白「春夏秋冬、全部…」「傍から見たら…」",
+        "sourceName": "マイナビニュース 芸能",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
+        "articleUrl": "https://news.mynavi.jp/article/20261105-5254500/",
+        "publishedAt": "2026-11-05T11:00:00.000Z",
+        "summary": "5人組ダンスボーカルグループ・M!LKの佐野勇斗が雑誌『日経トレンディ』(日経BP社)が選ぶ「今年の顔」に選出され、3日に都内で行われた「2026年ヒット商品&2027年ヒット予測」発表会に出席した。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      }
+    ],
     "超特急": [
       {
         "id": "f15146987d1d9b9b",
@@ -139,102 +231,6 @@
         ],
         "statuses": [],
         "memberMatches": []
-      }
-    ],
-    "M!LK": [
-      {
-        "id": "d5723b05f7607ba5",
-        "title": "日テレ系音楽の祭典『ベストアーティスト2026』放送決定！ミセス、BE:FIRST、M!LKら第1弾出演アーティスト13組も発表",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000914524/",
-        "publishedAt": "2026-11-07T20:00:10.000Z",
-        "summary": "『ベストアーティスト2026』が、11月28日に5時間にわたって日本テレビ系で生放送されることが...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "2ac413a4f1b05299",
-        "title": "櫻井翔『ベストアーティスト』18年連続総合司会「特等席でとても楽しみながら」 25周年の出演者第1弾発表",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20261108-5276591/",
-        "publishedAt": "2026-11-07T20:00:00.000Z",
-        "summary": "櫻井翔が総合司会を務める日本テレビ系音楽特番『ベストアーティスト2026』が、11月28日(16:00～)に約5時間にわたって生放送される。第1弾出演アーティストとして、Mrs. GREEN APPLE、SixTONES、HANA、M!LK、King ＆ Prince、timelesz、Travis Japanら13組が発表された。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "a216ec6ed5924451",
-        "title": "不思議な表情を浮かべたM!LK吉田仁人 後日ラジオで語られた言葉に触れて少し心境を理解できた気がした 【M!LK吉田仁人インタビュー編集後記】",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20261107-5261204/",
-        "publishedAt": "2026-11-07T10:00:00.000Z",
-        "summary": "「こんなにたくさん……?」。そんな心の声が聞こえてきそうな表情だった。TOKYO MXドラマ『溺愛 ～実は、最強ヒーロー～ 』(毎週金曜23:00～)で、連続ドラマ初主演を務めるM!LKの吉田仁人。先日、同作の合同取材に参加した際、印象的な光景を目にした。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "2de5ffa2ee821699",
-        "title": "M!LK佐野勇斗、今年“やめたもの”を告白「春夏秋冬、全部…」「傍から見たら…」",
-        "sourceName": "マイナビニュース 芸能",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-        "articleUrl": "https://news.mynavi.jp/article/20261105-5254500/",
-        "publishedAt": "2026-11-05T11:00:00.000Z",
-        "summary": "5人組ダンスボーカルグループ・M!LKの佐野勇斗が雑誌『日経トレンディ』(日経BP社)が選ぶ「今年の顔」に選出され、3日に都内で行われた「2026年ヒット商品&2027年ヒット予測」発表会に出席した。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "8c9df6ddd8c1aa7b",
-        "title": "高木菜那、36歳までに結婚宣言 高梨沙羅も好きな芸人を告白、せいや絶句",
-        "sourceName": "マイナビニュース テレビ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-        "articleUrl": "https://news.mynavi.jp/article/20261105-5257018/",
-        "publishedAt": "2026-11-04T22:00:00.000Z",
-        "summary": "「36歳までに結婚する」――スピードスケートの五輪金メダリスト・高木菜那氏が、きょう5日に放送される日本テレビ系バラエティ番組『ぐるぐるナインティナイン 2時間SP』(19:00～)の「ゴチになります!27」で、自身の結婚観を告白。スキージャンプの五輪銅メダリスト・高梨沙羅選手とともにゴチ初参戦を果たし、M!LKの佐野勇斗が指導するダンスエクササイズにも挑戦",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
       }
     ],
     "SUPER★DRAGON": [
