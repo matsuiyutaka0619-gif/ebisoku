@@ -1,6 +1,64 @@
 {
-  "updatedAt": "2026-11-08T05:59:27.467Z",
+  "updatedAt": "2026-11-08T13:23:40.569Z",
   "articles": [
+    {
+      "id": "25fd771c90104202",
+      "title": "Netflixシリーズ『ダウンタイム』出演でも話題のLienel武田創世が、17歳とは思えない色気と圧倒的な歌唱力で魅せるソロ歌唱動画公開",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000914853/",
+      "publishedAt": "2026-11-08T12:40:32.000Z",
+      "summary": "Netflixシリーズ『ダウンタイム』出演でも話題を呼んでいる、Lienelのメインボーカル武田創世...",
+      "groups": [
+        "Lienel"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "武田創世",
+          "group": "Lienel",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "449fdfc53160e507",
+      "title": "Snow Man向井康二＆M!LK山中柔太朗『今さらシロー！』で渋谷を調査！岡田准一らとオープンバスで巡る",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000914693/",
+      "publishedAt": "2026-11-08T10:00:38.000Z",
+      "summary": "Snow Manの向井康二とM!LKの山中柔太朗が、11月9日22時から放送される『岡田准一とロバート秋...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "a875a94d618bb863",
+      "title": "「神企画」「みんな育ちよすぎて…」M!LK公式YouTubeにアップされた\"謎\"企画に反響続々 「めちゃくちゃ忙しいだろうに…」と感謝の声も",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261108-5267567/",
+      "publishedAt": "2026-11-08T10:00:00.000Z",
+      "summary": "「こんなに売れててもこんなことするアイドルいないよ笑」――。アイドルグループ・M!LKが10月23日、公式YouTubeチャンネル『M!LK』を更新。メンバー5人の“わちゃわちゃ感”に、ファンから多数の反響が寄せられている。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "4df6ecd017b0c4d1",
       "title": "佐野勇斗のオールブラックコーデが爆イケ！スーツからレザースタイルまで色っぽい着こなしにも注目",
@@ -68,8 +126,8 @@
     {
       "id": "a216ec6ed5924451",
       "title": "不思議な表情を浮かべたM!LK吉田仁人 後日ラジオで語られた言葉に触れて少し心境を理解できた気がした 【M!LK吉田仁人インタビュー編集後記】",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
       "articleUrl": "https://news.mynavi.jp/article/20261107-5261204/",
       "publishedAt": "2026-11-07T10:00:00.000Z",
       "summary": "「こんなにたくさん……?」。そんな心の声が聞こえてきそうな表情だった。TOKYO MXドラマ『溺愛 ～実は、最強ヒーロー～ 』(毎週金曜23:00～)で、連続ドラマ初主演を務めるM!LKの吉田仁人。先日、同作の合同取材に参加した際、印象的な光景を目にした。",
