@@ -1,69 +1,77 @@
 {
-  "updatedAt": "2026-11-09T06:25:28.595Z",
+  "updatedAt": "2026-11-09T22:20:20.395Z",
   "totals": {
     "all": 122,
-    "today": 3,
-    "week": 21
+    "today": 0,
+    "week": 20
   },
   "groupRanking": [
     {
       "name": "SUPER★DRAGON",
-      "count": 11
+      "count": 10
     },
     {
       "name": "M!LK",
-      "count": 7
-    },
-    {
-      "name": "EBiDAN",
-      "count": 1
-    },
-    {
-      "name": "ICEx",
-      "count": 1
-    },
-    {
-      "name": "Lienel",
-      "count": 1
+      "count": 8
     },
     {
       "name": "原因は自分にある。",
+      "count": 2
+    },
+    {
+      "name": "EBiDAN",
       "count": 1
     }
   ],
   "memberRanking": [
     {
+      "name": "吉田仁人",
+      "count": 5
+    },
+    {
       "name": "佐野勇斗",
       "count": 2
     },
     {
-      "name": "吉田仁人",
+      "name": "塩﨑太智",
       "count": 1
     },
     {
-      "name": "山中柔太朗",
+      "name": "吉澤要人",
       "count": 1
     },
     {
-      "name": "筒井俊旭",
+      "name": "桜木雅哉",
       "count": 1
     },
     {
-      "name": "武田創世",
+      "name": "小泉光咲",
+      "count": 1
+    },
+    {
+      "name": "大倉空人",
+      "count": 1
+    },
+    {
+      "name": "長野凌大",
+      "count": 1
+    },
+    {
+      "name": "武藤潤",
+      "count": 1
+    },
+    {
+      "name": "杢代和人",
       "count": 1
     }
   ],
   "sourceRanking": [
     {
       "name": "SUPER★DRAGON 公式NEWS",
-      "count": 11
+      "count": 10
     },
     {
       "name": "THE FIRST TIMES",
-      "count": 3
-    },
-    {
-      "name": "マイナビニュース 芸能",
       "count": 3
     },
     {
@@ -71,7 +79,15 @@
       "count": 2
     },
     {
-      "name": "ENCOUNT",
+      "name": "マイナビニュース 芸能",
+      "count": 2
+    },
+    {
+      "name": "BARKS",
+      "count": 1
+    },
+    {
+      "name": "Bezzy",
       "count": 1
     },
     {
@@ -81,29 +97,83 @@
   ],
   "topics": [],
   "recentByGroup": {
-    "M!LK": [
+    "原因は自分にある。": [
       {
-        "id": "80ad6679fb371191",
-        "title": "M!LKキラキラアイドルスマイルからキレキレダンスまで“らしさ”溢れるリレーダンス披露！「この笑顔大好き」「後ろからメンバーのぞいてるのかわいい」「イケメンが過ぎる」",
+        "id": "8ff31741fee3cccd",
+        "title": "原因は自分にある。「ラブリーズン」Performance Video公開！世界観を完璧に表現する表情管理に注目",
         "sourceName": "THE FIRST TIMES",
         "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000915206/",
-        "publishedAt": "2026-11-09T04:15:35.000Z",
-        "summary": "M!LK公式SNSにて、「ザッツ！超常」のリレーダンス動画が公開された。 ■激しく踊る曽野に同調...",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000915701/",
+        "publishedAt": "2026-11-09T12:10:49.000Z",
+        "summary": "原因は自分にある。（通称：ゲンジブ）が、11月11日にリリースする「ラブリーズン」のPerforma...",
         "groups": [
-          "M!LK"
+          "原因は自分にある。"
         ],
         "statuses": [],
         "memberMatches": []
       },
       {
-        "id": "449fdfc53160e507",
-        "title": "Snow Man向井康二＆M!LK山中柔太朗『今さらシロー！』で渋谷を調査！岡田准一らとオープンバスで巡る",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000914693/",
-        "publishedAt": "2026-11-08T10:00:38.000Z",
-        "summary": "Snow Manの向井康二とM!LKの山中柔太朗が、11月9日22時から放送される『岡田准一とロバート秋...",
+        "id": "86f51a1d6ea0a718",
+        "title": "原因は自分にある。 、「ラブリーズン」パフォーマンス映像を公開。流麗フォーメーションと完璧な表情管理で魅せる",
+        "sourceName": "BARKS",
+        "sourceUrl": "https://www.barks.jp/feed/",
+        "articleUrl": "https://barks.jp/news/1103540",
+        "publishedAt": "2026-11-09T12:00:35.000Z",
+        "summary": "原因は自分にある。が、新曲「ラブリーズン」のパフォーマンスビデオを公開した。 「ラブリーズン」は11月11日にリリースされるCDシングルのタイトル曲で、ボカロP・シンガーソングライターのsyudouが楽曲提供している。syudou×ゲンジブが生み出す独自の世界観でもって表現され、愛が拗れた狂気的なラブソングに仕上がった。 本日公開されたパフォーマンスビデオは",
+        "groups": [
+          "原因は自分にある。"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "大倉空人",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "桜木雅哉",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "長野凌大",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "武藤潤",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "杢代和人",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "吉澤要人",
+            "group": "原因は自分にある。",
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "M!LK": [
+      {
+        "id": "cb81cb20aaf1b8bb",
+        "title": "「今から出陣します…!」女性リスナーが生放送中に送ってきたお便り そこで明かされた“衝撃の事実”にM!LK吉田仁人もびっくり「精神力がすごい」",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20261109-5242272/",
+        "publishedAt": "2026-11-09T10:00:00.000Z",
+        "summary": "「精神力がすごいよな。はがき職人の鑑みたいな人」――。アイドルグループ・M!LKの吉田仁人が10月29日、文化放送のラジオ番組『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)に出演。放送中に届いたリスナーメールに感嘆した。",
         "groups": [
           "M!LK"
         ],
@@ -112,25 +182,82 @@
         ],
         "memberMatches": [
           {
-            "name": "山中柔太朗",
+            "name": "吉田仁人",
             "group": "M!LK",
             "status": "active"
           }
         ]
       },
       {
-        "id": "a875a94d618bb863",
-        "title": "「神企画」「みんな育ちよすぎて…」M!LK公式YouTubeにアップされた\"謎\"企画に反響続々 「めちゃくちゃ忙しいだろうに…」と感謝の声も",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20261108-5267567/",
-        "publishedAt": "2026-11-08T10:00:00.000Z",
-        "summary": "「こんなに売れててもこんなことするアイドルいないよ笑」――。アイドルグループ・M!LKが10月23日、公式YouTubeチャンネル『M!LK』を更新。メンバー5人の“わちゃわちゃ感”に、ファンから多数の反響が寄せられている。",
+        "id": "7344d1633d3a9a48",
+        "title": "M!LK吉田仁人ドラマ『溺愛』エンディングテーマ「愛の形」配信スタート！MVも公開",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000915115/",
+        "publishedAt": "2026-11-09T09:00:10.000Z",
+        "summary": "5人組ダンスボーカルグループ・M!LKの吉田仁人が11月9日に「愛の形」を配信リリースした。 ■「...",
         "groups": [
           "M!LK"
         ],
-        "statuses": [],
-        "memberMatches": []
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "b98ff91bf2e95cdf",
+        "title": "吉田仁人が凛とした表情で新曲を熱唱、M!LKとは違う魅力を堪能できる「愛の形」MV公開",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/11/94709/",
+        "publishedAt": "2026-11-09T09:00:00.000Z",
+        "summary": "5人組ダンスボーカルグループ・M!LKの吉田仁人が、本日11月9日(月)に配信リリースした新曲「愛の形」のMusic Videoを公開した。 「愛の形」は、それぞれが信じる愛の在り方について描いたバラード。愛することと愛されることの形が同じでなくても相手の幸せを願い続けることを選ぶ、大切な人の幸せを自分のこと以上に願うようになった主人公のまっすぐな覚悟と、見",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "b8c10340938b72cd",
+        "title": "M!LK5人のわちゃわちゃが満載！『カラダWEEK』オフショットまとめ 吉田仁人のイケボに拍手、塩﨑太智は5分で完璧ダンス、懸垂チャレンジも",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000915007/",
+        "publishedAt": "2026-11-09T07:00:21.000Z",
+        "summary": "10月31日にスタートした日本テレビ系で開催されたキャンペーン『カラダWEEK』が、11月8日に終...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
       },
       {
         "id": "2ac413a4f1b05299",
@@ -145,81 +272,6 @@
         ],
         "statuses": [],
         "memberMatches": []
-      },
-      {
-        "id": "a216ec6ed5924451",
-        "title": "不思議な表情を浮かべたM!LK吉田仁人 後日ラジオで語られた言葉に触れて少し心境を理解できた気がした 【M!LK吉田仁人インタビュー編集後記】",
-        "sourceName": "マイナビニュース テレビ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-        "articleUrl": "https://news.mynavi.jp/article/20261107-5261204/",
-        "publishedAt": "2026-11-07T10:00:00.000Z",
-        "summary": "「こんなにたくさん……?」。そんな心の声が聞こえてきそうな表情だった。TOKYO MXドラマ『溺愛 ～実は、最強ヒーロー～ 』(毎週金曜23:00～)で、連続ドラマ初主演を務めるM!LKの吉田仁人。先日、同作の合同取材に参加した際、印象的な光景を目にした。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      }
-    ],
-    "ICEx": [
-      {
-        "id": "2d33aa1b63a78edf",
-        "title": "ICEx・筒井俊旭、海外留学で一時学業に専念 来年2月から1か月グループを離れる「必ずこの経験を活かしていきます」",
-        "sourceName": "ENCOUNT",
-        "sourceUrl": "https://encount.press/feed/",
-        "articleUrl": "https://encount.press/archives/1095568/",
-        "publishedAt": "2026-11-09T03:12:08.000Z",
-        "summary": "ダンスボーカルユニット「ICEx（アイス）」メンバーである筒井俊旭が、海外留学に伴い、2027年2月から約1か月グループ活動を離れることが公式サイトで発表された。所属事務所も応援・後押し ダンスボーカルユニット「ICE […]",
-        "groups": [
-          "ICEx"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "筒井俊旭",
-            "group": "ICEx",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "72d88a3410706483",
-        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』追加出演者のお知らせ/チケットトレード情報",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11722/",
-        "publishedAt": "2026-10-02T07:00:30.000Z",
-        "summary": "第6回EBiDAN大運動会『スポーツマンヒップ！』につきまして、ICEx志賀李玖・阿久根温世の追加出演が決定いたしました！ また、10月7日(水) 18:00よりチケットトレードの実施が決定いたしました。 チケットをお持 […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』追加出演者のお知らせ/チケットトレード情報 first app",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON",
-          "ICEx"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "志賀李玖",
-            "group": "ICEx",
-            "status": "active"
-          },
-          {
-            "name": "阿久根温世",
-            "group": "ICEx",
-            "status": "active"
-          }
-        ]
       }
     ],
     "EBiDAN": [
@@ -372,46 +424,6 @@
         "memberMatches": []
       }
     ],
-    "Lienel": [
-      {
-        "id": "25fd771c90104202",
-        "title": "Netflixシリーズ『ダウンタイム』出演でも話題のLienel武田創世が、17歳とは思えない色気と圧倒的な歌唱力で魅せるソロ歌唱動画公開",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000914853/",
-        "publishedAt": "2026-11-08T12:40:32.000Z",
-        "summary": "Netflixシリーズ『ダウンタイム』出演でも話題を呼んでいる、Lienelのメインボーカル武田創世...",
-        "groups": [
-          "Lienel"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "武田創世",
-            "group": "Lienel",
-            "status": "active"
-          }
-        ]
-      }
-    ],
-    "原因は自分にある。": [
-      {
-        "id": "646c43426ce29959",
-        "title": "原因は自分にある。、JOYSOUNDとコラボ 全7種の待ち受け画像をプレゼント、ハート形アクリルボードも",
-        "sourceName": "マイナビニュース 芸能",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-        "articleUrl": "https://news.mynavi.jp/article/20261102-5242275/",
-        "publishedAt": "2026-11-02T08:01:01.000Z",
-        "summary": "7人組ダンスボーカルグループ・原因は自分にある。の5thシングル『ラブリーズン』のリリースを記念した「原因は自分にある。×JOYSOUNDコラボキャンペーン」が、2日からスタートした。対象のカラオケ店舗で課題曲を選曲すると、参加者全員にオリジナル待ち受け画像がプレゼントされるほか、抽選で20人にハート形アクリルボードが当たる。",
-        "groups": [
-          "原因は自分にある。"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
     "超特急": [
       {
         "id": "69da96bf9d421a41",
@@ -490,6 +502,37 @@
         ],
         "statuses": [],
         "memberMatches": []
+      }
+    ],
+    "ICEx": [
+      {
+        "id": "72d88a3410706483",
+        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』追加出演者のお知らせ/チケットトレード情報",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11722/",
+        "publishedAt": "2026-10-02T07:00:30.000Z",
+        "summary": "第6回EBiDAN大運動会『スポーツマンヒップ！』につきまして、ICEx志賀李玖・阿久根温世の追加出演が決定いたしました！ また、10月7日(水) 18:00よりチケットトレードの実施が決定いたしました。 チケットをお持 […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』追加出演者のお知らせ/チケットトレード情報 first app",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON",
+          "ICEx"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "志賀李玖",
+            "group": "ICEx",
+            "status": "active"
+          },
+          {
+            "name": "阿久根温世",
+            "group": "ICEx",
+            "status": "active"
+          }
+        ]
       }
     ],
     "Sakurashimeji": [
