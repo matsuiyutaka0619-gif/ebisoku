@@ -1,6 +1,57 @@
 {
-  "updatedAt": "2026-11-08T22:03:34.024Z",
+  "updatedAt": "2026-11-09T06:25:28.593Z",
   "articles": [
+    {
+      "id": "80ad6679fb371191",
+      "title": "M!LKキラキラアイドルスマイルからキレキレダンスまで“らしさ”溢れるリレーダンス披露！「この笑顔大好き」「後ろからメンバーのぞいてるのかわいい」「イケメンが過ぎる」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000915206/",
+      "publishedAt": "2026-11-09T04:15:35.000Z",
+      "summary": "M!LK公式SNSにて、「ザッツ！超常」のリレーダンス動画が公開された。 ■激しく踊る曽野に同調...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "2d33aa1b63a78edf",
+      "title": "ICEx・筒井俊旭、海外留学で一時学業に専念 来年2月から1か月グループを離れる「必ずこの経験を活かしていきます」",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1095568/",
+      "publishedAt": "2026-11-09T03:12:08.000Z",
+      "summary": "ダンスボーカルユニット「ICEx（アイス）」メンバーである筒井俊旭が、海外留学に伴い、2027年2月から約1か月グループ活動を離れることが公式サイトで発表された。所属事務所も応援・後押し ダンスボーカルユニット「ICE […]",
+      "groups": [
+        "ICEx"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "筒井俊旭",
+          "group": "ICEx",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "db4ee1640310da06",
+      "title": "『EBiDANくじvol.3 ～I feel warm inside when I’m with you.～』の発売が決定！",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news11961/",
+      "publishedAt": "2026-11-09T01:00:20.000Z",
+      "summary": "EBiDANグループくじ第3弾となる『EBiDANくじvol.3 ～I feel warm inside when I’m with you.～』が、2026年2月12日（金）より発売いたします！ 発売日：2 […] The post 『EBiDANくじvol.3 ～I feel warm inside when I’m with you.～』の発売が決定！",
+      "groups": [
+        "EBiDAN",
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "25fd771c90104202",
       "title": "Netflixシリーズ『ダウンタイム』出演でも話題のLienel武田創世が、17歳とは思えない色気と圧倒的な歌唱力で魅せるソロ歌唱動画公開",
@@ -60,60 +111,10 @@
       "memberMatches": []
     },
     {
-      "id": "4df6ecd017b0c4d1",
-      "title": "佐野勇斗のオールブラックコーデが爆イケ！スーツからレザースタイルまで色っぽい着こなしにも注目",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000912208/",
-      "publishedAt": "2026-11-08T00:00:44.000Z",
-      "summary": "M!LKの佐野勇斗が見せるオールブラックコーデを厳選！ 抜群のスタイルを生かした着こなしはも...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "f15146987d1d9b9b",
-      "title": "SixTONES、Stray Kids、Snow Man、超特急ら6組 大規模公演に刻まれる挑戦、夢の実現、帰還のストーリー",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/11/post-2576459.html",
-      "publishedAt": "2026-11-07T20:50:23.000Z",
-      "summary": "SixTONES、Stray Kids、Snow Man、INI、超特急、BIGBANG。ドーム／スタジアム公演が相次ぐなか、それぞれの大舞台には挑戦、夢の実現、帰還とそれぞれのストーリーが刻まれている。本稿では、6組の歩みから、ボーイズグループシーンに広がる多様な成長の形を読み解く。",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "d5723b05f7607ba5",
-      "title": "日テレ系音楽の祭典『ベストアーティスト2026』放送決定！ミセス、BE:FIRST、M!LKら第1弾出演アーティスト13組も発表",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000914524/",
-      "publishedAt": "2026-11-07T20:00:10.000Z",
-      "summary": "『ベストアーティスト2026』が、11月28日に5時間にわたって日本テレビ系で生放送されることが...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
       "id": "2ac413a4f1b05299",
       "title": "櫻井翔『ベストアーティスト』18年連続総合司会「特等席でとても楽しみながら」 25周年の出演者第1弾発表",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
       "articleUrl": "https://news.mynavi.jp/article/20261108-5276591/",
       "publishedAt": "2026-11-07T20:00:00.000Z",
       "summary": "櫻井翔が総合司会を務める日本テレビ系音楽特番『ベストアーティスト2026』が、11月28日(16:00～)に約5時間にわたって生放送される。第1弾出演アーティストとして、Mrs. GREEN APPLE、SixTONES、HANA、M!LK、King ＆ Prince、timelesz、Travis Japanら13組が発表された。",
@@ -1954,20 +1955,6 @@
       "articleUrl": "https://super-dragon.jp/news/news11295/",
       "publishedAt": "2026-06-23T11:00:44.000Z",
       "summary": "7/26(日)LIVES NAGOYAにて開催するリリースイベントの詳細をご案内致します。 必ず最後まで全てお読み頂き、会場にいらした皆様がイベントを楽しめるよう、ファンの皆様同士でルールとマナーの厳守をお願い致します。 […] The post 7/26(日)開催リリースイベント＠LIVES NAGOYA（愛知）参加方法・特典会内容についてのご案内 fir",
-      "groups": [
-        "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "bed8b4036988c682",
-      "title": "SUPER★DRAGON Major 6th Single「Call Me Asap / NUMBER」楽天ブックスキャンペーン！ 7/12(日)・7/19(日)イベント詳細",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news11290/",
-      "publishedAt": "2026-06-22T11:00:25.000Z",
-      "summary": "楽天ブックスにてキャンペーン期間内に2026年7月15日発売のMajor 6th Single「Call Me Asap / NUMBER」をご予約購入頂きますと以下の各特典会参加券をプレゼント！7/12(日)東京、7/ […] The post SUPER★DRAGON Major 6th Single「Call Me Asap / NUMBER」楽天ブッ",
       "groups": [
         "SUPER★DRAGON"
       ],

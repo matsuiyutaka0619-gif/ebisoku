@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-08T22:03:34.025Z",
+  "updatedAt": "2026-11-09T06:25:28.595Z",
   "totals": {
-    "all": 123,
-    "today": 0,
-    "week": 22
+    "all": 122,
+    "today": 3,
+    "week": 21
   },
   "groupRanking": [
     {
@@ -12,7 +12,15 @@
     },
     {
       "name": "M!LK",
-      "count": 8
+      "count": 7
+    },
+    {
+      "name": "EBiDAN",
+      "count": 1
+    },
+    {
+      "name": "ICEx",
+      "count": 1
     },
     {
       "name": "Lienel",
@@ -21,16 +29,12 @@
     {
       "name": "原因は自分にある。",
       "count": 1
-    },
-    {
-      "name": "超特急",
-      "count": 1
     }
   ],
   "memberRanking": [
     {
       "name": "佐野勇斗",
-      "count": 3
+      "count": 2
     },
     {
       "name": "吉田仁人",
@@ -38,6 +42,10 @@
     },
     {
       "name": "山中柔太朗",
+      "count": 1
+    },
+    {
+      "name": "筒井俊旭",
       "count": 1
     },
     {
@@ -52,52 +60,42 @@
     },
     {
       "name": "THE FIRST TIMES",
-      "count": 4
+      "count": 3
     },
     {
       "name": "マイナビニュース 芸能",
       "count": 3
     },
     {
-      "name": "マイナビニュース エンタメ",
+      "name": "マイナビニュース テレビ",
       "count": 2
     },
     {
-      "name": "マイナビニュース テレビ",
+      "name": "ENCOUNT",
       "count": 1
     },
     {
-      "name": "リアルサウンド 音楽",
+      "name": "マイナビニュース エンタメ",
       "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
-    "Lienel": [
+    "M!LK": [
       {
-        "id": "25fd771c90104202",
-        "title": "Netflixシリーズ『ダウンタイム』出演でも話題のLienel武田創世が、17歳とは思えない色気と圧倒的な歌唱力で魅せるソロ歌唱動画公開",
+        "id": "80ad6679fb371191",
+        "title": "M!LKキラキラアイドルスマイルからキレキレダンスまで“らしさ”溢れるリレーダンス披露！「この笑顔大好き」「後ろからメンバーのぞいてるのかわいい」「イケメンが過ぎる」",
         "sourceName": "THE FIRST TIMES",
         "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000914853/",
-        "publishedAt": "2026-11-08T12:40:32.000Z",
-        "summary": "Netflixシリーズ『ダウンタイム』出演でも話題を呼んでいる、Lienelのメインボーカル武田創世...",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000915206/",
+        "publishedAt": "2026-11-09T04:15:35.000Z",
+        "summary": "M!LK公式SNSにて、「ザッツ！超常」のリレーダンス動画が公開された。 ■激しく踊る曽野に同調...",
         "groups": [
-          "Lienel"
+          "M!LK"
         ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "武田創世",
-            "group": "Lienel",
-            "status": "active"
-          }
-        ]
-      }
-    ],
-    "M!LK": [
+        "statuses": [],
+        "memberMatches": []
+      },
       {
         "id": "449fdfc53160e507",
         "title": "Snow Man向井康二＆M!LK山中柔太朗『今さらシロー！』で渋谷を調査！岡田准一らとオープンバスで巡る",
@@ -135,46 +133,10 @@
         "memberMatches": []
       },
       {
-        "id": "4df6ecd017b0c4d1",
-        "title": "佐野勇斗のオールブラックコーデが爆イケ！スーツからレザースタイルまで色っぽい着こなしにも注目",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000912208/",
-        "publishedAt": "2026-11-08T00:00:44.000Z",
-        "summary": "M!LKの佐野勇斗が見せるオールブラックコーデを厳選！ 抜群のスタイルを生かした着こなしはも...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "d5723b05f7607ba5",
-        "title": "日テレ系音楽の祭典『ベストアーティスト2026』放送決定！ミセス、BE:FIRST、M!LKら第1弾出演アーティスト13組も発表",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000914524/",
-        "publishedAt": "2026-11-07T20:00:10.000Z",
-        "summary": "『ベストアーティスト2026』が、11月28日に5時間にわたって日本テレビ系で生放送されることが...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
         "id": "2ac413a4f1b05299",
         "title": "櫻井翔『ベストアーティスト』18年連続総合司会「特等席でとても楽しみながら」 25周年の出演者第1弾発表",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "sourceName": "マイナビニュース テレビ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
         "articleUrl": "https://news.mynavi.jp/article/20261108-5276591/",
         "publishedAt": "2026-11-07T20:00:00.000Z",
         "summary": "櫻井翔が総合司会を務める日本テレビ系音楽特番『ベストアーティスト2026』が、11月28日(16:00～)に約5時間にわたって生放送される。第1弾出演アーティストとして、Mrs. GREEN APPLE、SixTONES、HANA、M!LK、King ＆ Prince、timelesz、Travis Japanら13組が発表された。",
@@ -183,23 +145,274 @@
         ],
         "statuses": [],
         "memberMatches": []
+      },
+      {
+        "id": "a216ec6ed5924451",
+        "title": "不思議な表情を浮かべたM!LK吉田仁人 後日ラジオで語られた言葉に触れて少し心境を理解できた気がした 【M!LK吉田仁人インタビュー編集後記】",
+        "sourceName": "マイナビニュース テレビ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
+        "articleUrl": "https://news.mynavi.jp/article/20261107-5261204/",
+        "publishedAt": "2026-11-07T10:00:00.000Z",
+        "summary": "「こんなにたくさん……?」。そんな心の声が聞こえてきそうな表情だった。TOKYO MXドラマ『溺愛 ～実は、最強ヒーロー～ 』(毎週金曜23:00～)で、連続ドラマ初主演を務めるM!LKの吉田仁人。先日、同作の合同取材に参加した際、印象的な光景を目にした。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
       }
     ],
-    "超特急": [
+    "ICEx": [
       {
-        "id": "f15146987d1d9b9b",
-        "title": "SixTONES、Stray Kids、Snow Man、超特急ら6組 大規模公演に刻まれる挑戦、夢の実現、帰還のストーリー",
-        "sourceName": "リアルサウンド 音楽",
-        "sourceUrl": "https://realsound.jp/music/feed",
-        "articleUrl": "https://realsound.jp/2026/11/post-2576459.html",
-        "publishedAt": "2026-11-07T20:50:23.000Z",
-        "summary": "SixTONES、Stray Kids、Snow Man、INI、超特急、BIGBANG。ドーム／スタジアム公演が相次ぐなか、それぞれの大舞台には挑戦、夢の実現、帰還とそれぞれのストーリーが刻まれている。本稿では、6組の歩みから、ボーイズグループシーンに広がる多様な成長の形を読み解く。",
+        "id": "2d33aa1b63a78edf",
+        "title": "ICEx・筒井俊旭、海外留学で一時学業に専念 来年2月から1か月グループを離れる「必ずこの経験を活かしていきます」",
+        "sourceName": "ENCOUNT",
+        "sourceUrl": "https://encount.press/feed/",
+        "articleUrl": "https://encount.press/archives/1095568/",
+        "publishedAt": "2026-11-09T03:12:08.000Z",
+        "summary": "ダンスボーカルユニット「ICEx（アイス）」メンバーである筒井俊旭が、海外留学に伴い、2027年2月から約1か月グループ活動を離れることが公式サイトで発表された。所属事務所も応援・後押し ダンスボーカルユニット「ICE […]",
         "groups": [
-          "超特急"
+          "ICEx"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "筒井俊旭",
+            "group": "ICEx",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "72d88a3410706483",
+        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』追加出演者のお知らせ/チケットトレード情報",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11722/",
+        "publishedAt": "2026-10-02T07:00:30.000Z",
+        "summary": "第6回EBiDAN大運動会『スポーツマンヒップ！』につきまして、ICEx志賀李玖・阿久根温世の追加出演が決定いたしました！ また、10月7日(水) 18:00よりチケットトレードの実施が決定いたしました。 チケットをお持 […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』追加出演者のお知らせ/チケットトレード情報 first app",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON",
+          "ICEx"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "志賀李玖",
+            "group": "ICEx",
+            "status": "active"
+          },
+          {
+            "name": "阿久根温世",
+            "group": "ICEx",
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "EBiDAN": [
+      {
+        "id": "db4ee1640310da06",
+        "title": "『EBiDANくじvol.3 ～I feel warm inside when I’m with you.～』の発売が決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11961/",
+        "publishedAt": "2026-11-09T01:00:20.000Z",
+        "summary": "EBiDANグループくじ第3弾となる『EBiDANくじvol.3 ～I feel warm inside when I’m with you.～』が、2026年2月12日（金）より発売いたします！ 発売日：2 […] The post 『EBiDANくじvol.3 ～I feel warm inside when I’m with you.～』の発売が決定！",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
         ],
         "statuses": [],
         "memberMatches": []
       },
+      {
+        "id": "1435a68b28c395c7",
+        "title": "【＠Loppi・HMV限定盤】Blu-ray『EBiDAN THE LIVE 2026 15th Anniversary』2027年2月10日(水)発売決定！さらにEBiDAN15周年アニバーサリーエディション版『EBiDAN Visual Dictionary 2027～15th Anniversary Edition～』も同時発売！本日より予約受付開始！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11875/",
+        "publishedAt": "2026-10-28T07:00:39.000Z",
+        "summary": "＠Loppi・HMV限定盤 Blu-ray『EBiDAN THE LIVE 2026 15th Anniversary』と、EBiDAN15周年アニバーサリーエディション版『EBiDAN Visual Dictionar […] The post 【＠Loppi・HMV限定盤】Blu-ray『EBiDAN THE LIVE 2026 15th Anniver",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "2d9e4e423771c6b6",
+        "title": "EBiDAN オンラインくじ vol.2発売決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11856/",
+        "publishedAt": "2026-10-23T07:00:16.000Z",
+        "summary": "「EBiDAN museum 2026」の大盛況を記念し、10月26日(月)13:00より「EBiDAN オンラインくじ vol.2」の販売が決定しました！ グループ別のくじとなり、それぞれ全5等級のいずれかの景品が必ず […] The post EBiDAN オンラインくじ vol.2発売決定！ first appeared on SUPER★DRAGON",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "79db83af4ca4bd66",
+        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ&生写真セット 事後通販決定！！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11822/",
+        "publishedAt": "2026-10-19T07:00:01.000Z",
+        "summary": "第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ&生写真セットの事後通販が決定しました！ 残りわずかな商品もございますので、ぜひこの機会にご利用ください！ ****************** […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ&生写真セット 事後通販決定！！ first app",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "4c9519734cc191ec",
+        "title": "第6回 EBiDAN 大運動会 『スポーツマンヒップ！』ファンクラブブース情報！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11754/",
+        "publishedAt": "2026-10-09T06:30:06.000Z",
+        "summary": "第6回 EBiDAN 大運動会 『スポーツマンヒップ！』ファンクラブブースの受付が決定いたしました。 当日は、対象期間中に各EBiDANファンクラブで【新規入会・継続・お友達紹介】をされた方、 または各＋KIRARIコミ […] The post 第6回 EBiDAN 大運動会 『スポーツマンヒップ！』ファンクラブブース情報！ first appeared ",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
+    "SUPER★DRAGON": [
+      {
+        "id": "db4ee1640310da06",
+        "title": "『EBiDANくじvol.3 ～I feel warm inside when I’m with you.～』の発売が決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11961/",
+        "publishedAt": "2026-11-09T01:00:20.000Z",
+        "summary": "EBiDANグループくじ第3弾となる『EBiDANくじvol.3 ～I feel warm inside when I’m with you.～』が、2026年2月12日（金）より発売いたします！ 発売日：2 […] The post 『EBiDANくじvol.3 ～I feel warm inside when I’m with you.～』の発売が決定！",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "6900d7efa795e006",
+        "title": "SUPER★DRAGON LIVE TOUR 2027「house」最新チケット情報！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11958/",
+        "publishedAt": "2026-11-07T05:00:43.000Z",
+        "summary": "本日11月7日(土)14:00より、ローソンチケットにてプレリクエスト先行〈抽選〉受付開始。 会場で皆さんとお会いできることを楽しみにしております！ ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願い […] The post SUPER★DRAGON LIVE TOUR 2027「house」最新チケット情報！ first appear",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "7641037a1f8a9902",
+        "title": "【リリースイベント】11月14日(土)開催＠東京ドームシティ ラクーア（東京）参加方法・特典会内容についてのご案内",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11942/",
+        "publishedAt": "2026-11-06T11:00:45.000Z",
+        "summary": "11月14日(土)東京ドームシティ ラクーアにて開催するリリースイベントの詳細をご案内致します。 必ず最後まで全てお読み頂き、会場にいらした皆様がイベントを楽しめるよう、ファンの皆様同士でルールとマナーの厳守をお願い致し […] The post 【リリースイベント】11月14日(土)開催＠東京ドームシティ ラクーア（東京）参加方法・特典会内容についてのご案",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "e88ed738b0355781",
+        "title": "11/15(日)開催リリースイベント＠ベルサール東京日本橋（東京）参加方法・特典会内容についてのご案内",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11946/",
+        "publishedAt": "2026-11-06T11:00:40.000Z",
+        "summary": "11/15(日)ベルサール東京日本橋にて開催するリリースイベントの詳細をご案内致します。 必ず最後まで全てお読み頂き、会場にいらした皆様がイベントを楽しめるよう、ファンの皆様同士でルールとマナーの厳守をお願い致します。 […] The post 11/15(日)開催リリースイベント＠ベルサール東京日本橋（東京）参加方法・特典会内容についてのご案内 first",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "6a9ab6ddf33678d5",
+        "title": "11/14(土)開催リリースイベント＠東京ドームシティ ラクーア（東京）にて開催リリースイベントLINEアプリを使用した『CD購入整理券』『優先観覧エリア入場整理券』についてのご案内",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11950/",
+        "publishedAt": "2026-11-06T10:59:27.000Z",
+        "summary": "▼ＣＤ購入整理券について 11/14(土)東京・東京ドームシティ ラクーアにて開催するリリースイベントの会場でのＣＤ販売は、会場の混雑緩和のため、LINEアプリを使用した事前応募制の『ＣＤ購入整理券』を導入致します。 Ｃ […] The post 11/14(土)開催リリースイベント＠東京ドームシティ ラクーア（東京）にて開催リリースイベントLINEアプリを",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
+    "Lienel": [
+      {
+        "id": "25fd771c90104202",
+        "title": "Netflixシリーズ『ダウンタイム』出演でも話題のLienel武田創世が、17歳とは思えない色気と圧倒的な歌唱力で魅せるソロ歌唱動画公開",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000914853/",
+        "publishedAt": "2026-11-08T12:40:32.000Z",
+        "summary": "Netflixシリーズ『ダウンタイム』出演でも話題を呼んでいる、Lienelのメインボーカル武田創世...",
+        "groups": [
+          "Lienel"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "武田創世",
+            "group": "Lienel",
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "原因は自分にある。": [
+      {
+        "id": "646c43426ce29959",
+        "title": "原因は自分にある。、JOYSOUNDとコラボ 全7種の待ち受け画像をプレゼント、ハート形アクリルボードも",
+        "sourceName": "マイナビニュース 芸能",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
+        "articleUrl": "https://news.mynavi.jp/article/20261102-5242275/",
+        "publishedAt": "2026-11-02T08:01:01.000Z",
+        "summary": "7人組ダンスボーカルグループ・原因は自分にある。の5thシングル『ラブリーズン』のリリースを記念した「原因は自分にある。×JOYSOUNDコラボキャンペーン」が、2日からスタートした。対象のカラオケ店舗で課題曲を選曲すると、参加者全員にオリジナル待ち受け画像がプレゼントされるほか、抽選で20人にハート形アクリルボードが当たる。",
+        "groups": [
+          "原因は自分にある。"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
+    "超特急": [
       {
         "id": "69da96bf9d421a41",
         "title": "「すごい好きだった」「毎日先生と…」超特急・柏木悠が学生に戻ってやりたいことを告白",
@@ -263,202 +476,20 @@
         ],
         "statuses": [],
         "memberMatches": []
-      }
-    ],
-    "SUPER★DRAGON": [
-      {
-        "id": "6900d7efa795e006",
-        "title": "SUPER★DRAGON LIVE TOUR 2027「house」最新チケット情報！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11958/",
-        "publishedAt": "2026-11-07T05:00:43.000Z",
-        "summary": "本日11月7日(土)14:00より、ローソンチケットにてプレリクエスト先行〈抽選〉受付開始。 会場で皆さんとお会いできることを楽しみにしております！ ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願い […] The post SUPER★DRAGON LIVE TOUR 2027「house」最新チケット情報！ first appear",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
       },
       {
-        "id": "7641037a1f8a9902",
-        "title": "【リリースイベント】11月14日(土)開催＠東京ドームシティ ラクーア（東京）参加方法・特典会内容についてのご案内",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11942/",
-        "publishedAt": "2026-11-06T11:00:45.000Z",
-        "summary": "11月14日(土)東京ドームシティ ラクーアにて開催するリリースイベントの詳細をご案内致します。 必ず最後まで全てお読み頂き、会場にいらした皆様がイベントを楽しめるよう、ファンの皆様同士でルールとマナーの厳守をお願い致し […] The post 【リリースイベント】11月14日(土)開催＠東京ドームシティ ラクーア（東京）参加方法・特典会内容についてのご案",
+        "id": "b33204e5b8b18e79",
+        "title": "超特急「エトランス・フィーバー」配信開始、“誰もが主役になれる”と前向きなメッセージを込める",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/10/93396/",
+        "publishedAt": "2026-10-11T15:00:00.000Z",
+        "summary": "9人組メインダンサー＆バックボーカルグループ・超特急が、12月16日(水)に発売する24枚目シングルの表題曲「エトランス・フィーバー」の先行配信をスタートさせた。 11月に待望の東京ドーム2Days公演を控える超特急の新曲「エトランス・フィーバー」は、干支をモチーフにしたユーロビート調の新たなトンチキソング。疾走感あふれるビートに乗せて「生まれ持ったキャラク",
         "groups": [
-          "SUPER★DRAGON"
+          "超特急"
         ],
         "statuses": [],
         "memberMatches": []
-      },
-      {
-        "id": "e88ed738b0355781",
-        "title": "11/15(日)開催リリースイベント＠ベルサール東京日本橋（東京）参加方法・特典会内容についてのご案内",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11946/",
-        "publishedAt": "2026-11-06T11:00:40.000Z",
-        "summary": "11/15(日)ベルサール東京日本橋にて開催するリリースイベントの詳細をご案内致します。 必ず最後まで全てお読み頂き、会場にいらした皆様がイベントを楽しめるよう、ファンの皆様同士でルールとマナーの厳守をお願い致します。 […] The post 11/15(日)開催リリースイベント＠ベルサール東京日本橋（東京）参加方法・特典会内容についてのご案内 first",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "6a9ab6ddf33678d5",
-        "title": "11/14(土)開催リリースイベント＠東京ドームシティ ラクーア（東京）にて開催リリースイベントLINEアプリを使用した『CD購入整理券』『優先観覧エリア入場整理券』についてのご案内",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11950/",
-        "publishedAt": "2026-11-06T10:59:27.000Z",
-        "summary": "▼ＣＤ購入整理券について 11/14(土)東京・東京ドームシティ ラクーアにて開催するリリースイベントの会場でのＣＤ販売は、会場の混雑緩和のため、LINEアプリを使用した事前応募制の『ＣＤ購入整理券』を導入致します。 Ｃ […] The post 11/14(土)開催リリースイベント＠東京ドームシティ ラクーア（東京）にて開催リリースイベントLINEアプリを",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "84497a48b92f05fd",
-        "title": "Major 2nd Album「STAR」楽天ブックスにてオンライン予約抽選会開催！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11938/",
-        "publishedAt": "2026-11-05T11:00:41.000Z",
-        "summary": "SUPER★DRAGON Major 2nd Album「STAR」発売を記念してラッキードローの実施が決定いたしました！ 対象商品を楽天ブックスにて期間中にご購入いただいた方の中から抽選で、スペシャルな特典をプレゼント […] The post Major 2nd Album「STAR」楽天ブックスにてオンライン予約抽選会開催！ first appeare",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "原因は自分にある。": [
-      {
-        "id": "646c43426ce29959",
-        "title": "原因は自分にある。、JOYSOUNDとコラボ 全7種の待ち受け画像をプレゼント、ハート形アクリルボードも",
-        "sourceName": "マイナビニュース 芸能",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-        "articleUrl": "https://news.mynavi.jp/article/20261102-5242275/",
-        "publishedAt": "2026-11-02T08:01:01.000Z",
-        "summary": "7人組ダンスボーカルグループ・原因は自分にある。の5thシングル『ラブリーズン』のリリースを記念した「原因は自分にある。×JOYSOUNDコラボキャンペーン」が、2日からスタートした。対象のカラオケ店舗で課題曲を選曲すると、参加者全員にオリジナル待ち受け画像がプレゼントされるほか、抽選で20人にハート形アクリルボードが当たる。",
-        "groups": [
-          "原因は自分にある。"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "EBiDAN": [
-      {
-        "id": "1435a68b28c395c7",
-        "title": "【＠Loppi・HMV限定盤】Blu-ray『EBiDAN THE LIVE 2026 15th Anniversary』2027年2月10日(水)発売決定！さらにEBiDAN15周年アニバーサリーエディション版『EBiDAN Visual Dictionary 2027～15th Anniversary Edition～』も同時発売！本日より予約受付開始！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11875/",
-        "publishedAt": "2026-10-28T07:00:39.000Z",
-        "summary": "＠Loppi・HMV限定盤 Blu-ray『EBiDAN THE LIVE 2026 15th Anniversary』と、EBiDAN15周年アニバーサリーエディション版『EBiDAN Visual Dictionar […] The post 【＠Loppi・HMV限定盤】Blu-ray『EBiDAN THE LIVE 2026 15th Anniver",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "2d9e4e423771c6b6",
-        "title": "EBiDAN オンラインくじ vol.2発売決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11856/",
-        "publishedAt": "2026-10-23T07:00:16.000Z",
-        "summary": "「EBiDAN museum 2026」の大盛況を記念し、10月26日(月)13:00より「EBiDAN オンラインくじ vol.2」の販売が決定しました！ グループ別のくじとなり、それぞれ全5等級のいずれかの景品が必ず […] The post EBiDAN オンラインくじ vol.2発売決定！ first appeared on SUPER★DRAGON",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "79db83af4ca4bd66",
-        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ&生写真セット 事後通販決定！！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11822/",
-        "publishedAt": "2026-10-19T07:00:01.000Z",
-        "summary": "第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ&生写真セットの事後通販が決定しました！ 残りわずかな商品もございますので、ぜひこの機会にご利用ください！ ****************** […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ&生写真セット 事後通販決定！！ first app",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "4c9519734cc191ec",
-        "title": "第6回 EBiDAN 大運動会 『スポーツマンヒップ！』ファンクラブブース情報！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11754/",
-        "publishedAt": "2026-10-09T06:30:06.000Z",
-        "summary": "第6回 EBiDAN 大運動会 『スポーツマンヒップ！』ファンクラブブースの受付が決定いたしました。 当日は、対象期間中に各EBiDANファンクラブで【新規入会・継続・お友達紹介】をされた方、 または各＋KIRARIコミ […] The post 第6回 EBiDAN 大運動会 『スポーツマンヒップ！』ファンクラブブース情報！ first appeared ",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "d368d6cea4acc417",
-        "title": "【お知らせ】 EBiDAN SNS投稿ガイドラインに関するお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11751/",
-        "publishedAt": "2026-10-08T03:30:07.000Z",
-        "summary": "いつも弊社所属アーティストを温かく応援いただき、誠にありがとうございます。 これからも楽しく安心して応援いただけるよう、SNSにおけるご投稿のガイドラインを定めております。 皆様のご理解とご協力をお願い申し上げます。 ※ […] The post 【お知らせ】 EBiDAN SNS投稿ガイドラインに関するお知らせ first appeared on SUPE",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "ICEx": [
-      {
-        "id": "72d88a3410706483",
-        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』追加出演者のお知らせ/チケットトレード情報",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11722/",
-        "publishedAt": "2026-10-02T07:00:30.000Z",
-        "summary": "第6回EBiDAN大運動会『スポーツマンヒップ！』につきまして、ICEx志賀李玖・阿久根温世の追加出演が決定いたしました！ また、10月7日(水) 18:00よりチケットトレードの実施が決定いたしました。 チケットをお持 […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』追加出演者のお知らせ/チケットトレード情報 first app",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON",
-          "ICEx"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "志賀李玖",
-            "group": "ICEx",
-            "status": "active"
-          },
-          {
-            "name": "阿久根温世",
-            "group": "ICEx",
-            "status": "active"
-          }
-        ]
       }
     ],
     "Sakurashimeji": [
