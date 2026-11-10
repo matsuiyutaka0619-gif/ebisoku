@@ -1,40 +1,44 @@
 {
-  "updatedAt": "2026-11-09T22:20:20.395Z",
+  "updatedAt": "2026-11-10T07:16:48.112Z",
   "totals": {
-    "all": 122,
-    "today": 0,
-    "week": 20
+    "all": 124,
+    "today": 6,
+    "week": 22
   },
   "groupRanking": [
+    {
+      "name": "M!LK",
+      "count": 11
+    },
     {
       "name": "SUPER★DRAGON",
       "count": 10
     },
     {
-      "name": "M!LK",
-      "count": 8
+      "name": "EBiDAN",
+      "count": 1
     },
     {
       "name": "原因は自分にある。",
-      "count": 2
-    },
-    {
-      "name": "EBiDAN",
       "count": 1
     }
   ],
   "memberRanking": [
     {
+      "name": "塩﨑太智",
+      "count": 3
+    },
+    {
       "name": "吉田仁人",
-      "count": 5
+      "count": 3
     },
     {
       "name": "佐野勇斗",
       "count": 2
     },
     {
-      "name": "塩﨑太智",
-      "count": 1
+      "name": "山中柔太朗",
+      "count": 2
     },
     {
       "name": "吉澤要人",
@@ -59,10 +63,6 @@
     {
       "name": "武藤潤",
       "count": 1
-    },
-    {
-      "name": "杢代和人",
-      "count": 1
     }
   ],
   "sourceRanking": [
@@ -73,6 +73,10 @@
     {
       "name": "THE FIRST TIMES",
       "count": 3
+    },
+    {
+      "name": "ENCOUNT",
+      "count": 2
     },
     {
       "name": "マイナビニュース テレビ",
@@ -91,27 +95,125 @@
       "count": 1
     },
     {
-      "name": "マイナビニュース エンタメ",
+      "name": "日刊スポーツ 芸能",
       "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
-    "原因は自分にある。": [
+    "M!LK": [
       {
-        "id": "8ff31741fee3cccd",
-        "title": "原因は自分にある。「ラブリーズン」Performance Video公開！世界観を完璧に表現する表情管理に注目",
+        "id": "0b77e3c28915b6a1",
+        "title": "M！LK塩﨑太智「温められたからこそ、頑張って今がある」ヒートテックに感謝",
+        "sourceName": "日刊スポーツ 芸能",
+        "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+        "articleUrl": "https://www.nikkansports.com/entertainment/news/202611100000738.html",
+        "publishedAt": "2026-11-10T06:39:12.000Z",
+        "summary": "M！LK塩﨑太智（26）が10日、都内で行われたユニクロ「ヒートテックの日」PR発表会に、スペシャルサポーターとして元乃木坂46齋藤飛鳥（28）とともに登壇した。 塩﨑は「ヒートテック、愛用しているので、うれしいです！」と満面の笑みを浮…",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "498e63a62f81638a",
+        "title": "M!LK山中柔太朗がホリデーのきらめきに包まれたルイ・ヴィトン渋谷メンズ店に降臨",
         "sourceName": "THE FIRST TIMES",
         "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000915701/",
-        "publishedAt": "2026-11-09T12:10:49.000Z",
-        "summary": "原因は自分にある。（通称：ゲンジブ）が、11月11日にリリースする「ラブリーズン」のPerforma...",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000916176/",
+        "publishedAt": "2026-11-10T06:35:04.000Z",
+        "summary": "山中柔太朗が、11月7日よりルイ・ヴィトン渋谷メンズ店にて展開中の『ルイ・ヴィトン 2026 ホ...",
         "groups": [
-          "原因は自分にある。"
+          "M!LK"
         ],
-        "statuses": [],
-        "memberMatches": []
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
       },
+      {
+        "id": "a0e942b41520c109",
+        "title": "M!LK塩﨑太智、現在とデビュー時の“衣装の違い”告白「今は分厚い生地をですが…最初はペラペラ」",
+        "sourceName": "ENCOUNT",
+        "sourceUrl": "https://encount.press/feed/",
+        "articleUrl": "https://encount.press/archives/1096164/",
+        "publishedAt": "2026-11-10T06:24:32.000Z",
+        "summary": "5人組ダンスボーカルグループ・M!LKの塩﨑太智、俳優の齋藤飛鳥が10日、都内で行われたユニクロ「ヒートテックの日」PR発表会に出席した。冬は自宅でヒートテック1枚 5人組ダンスボーカルグループ・M!LKの塩﨑太智、俳 […]",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "c9e5ac833358f635",
+        "title": "齋藤飛鳥「めちゃ声がでかいです」 元気いっぱいのM!LK塩﨑太智との共演で苦笑い",
+        "sourceName": "ENCOUNT",
+        "sourceUrl": "https://encount.press/feed/",
+        "articleUrl": "https://encount.press/archives/1095899/",
+        "publishedAt": "2026-11-10T05:59:19.000Z",
+        "summary": "5人組ダンスボーカルグループ・M!LKの塩﨑太智、俳優の齋藤飛鳥が10日、都内で行われたユニクロ「ヒートテックの日」PR発表会に出席した。「温まっているから腹から声が出るんですよ」笑顔でリアクション 5人組ダンスボーカ […]",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "ffd24f3ee297bd99",
+        "title": "向井康二＆山中柔太朗がYOU（163cm）と渋谷で横並び！「身長差いいなぁ」「リンクコーデでかわいい」「向井くん腰の位置高すぎ」の声、お茶目な自撮りも",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000916021/",
+        "publishedAt": "2026-11-10T03:55:03.000Z",
+        "summary": "Snow Manの向井康二、M!LKの山中柔太朗、YOUが、11月9日放送の『岡田准一とロバート秋山の今さ...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "原因は自分にある。": [
       {
         "id": "86f51a1d6ea0a718",
         "title": "原因は自分にある。 、「ラブリーズン」パフォーマンス映像を公開。流麗フォーメーションと完璧な表情管理で魅せる",
@@ -163,115 +265,6 @@
             "status": "active"
           }
         ]
-      }
-    ],
-    "M!LK": [
-      {
-        "id": "cb81cb20aaf1b8bb",
-        "title": "「今から出陣します…!」女性リスナーが生放送中に送ってきたお便り そこで明かされた“衝撃の事実”にM!LK吉田仁人もびっくり「精神力がすごい」",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20261109-5242272/",
-        "publishedAt": "2026-11-09T10:00:00.000Z",
-        "summary": "「精神力がすごいよな。はがき職人の鑑みたいな人」――。アイドルグループ・M!LKの吉田仁人が10月29日、文化放送のラジオ番組『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)に出演。放送中に届いたリスナーメールに感嘆した。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "7344d1633d3a9a48",
-        "title": "M!LK吉田仁人ドラマ『溺愛』エンディングテーマ「愛の形」配信スタート！MVも公開",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000915115/",
-        "publishedAt": "2026-11-09T09:00:10.000Z",
-        "summary": "5人組ダンスボーカルグループ・M!LKの吉田仁人が11月9日に「愛の形」を配信リリースした。 ■「...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "b98ff91bf2e95cdf",
-        "title": "吉田仁人が凛とした表情で新曲を熱唱、M!LKとは違う魅力を堪能できる「愛の形」MV公開",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/11/94709/",
-        "publishedAt": "2026-11-09T09:00:00.000Z",
-        "summary": "5人組ダンスボーカルグループ・M!LKの吉田仁人が、本日11月9日(月)に配信リリースした新曲「愛の形」のMusic Videoを公開した。 「愛の形」は、それぞれが信じる愛の在り方について描いたバラード。愛することと愛されることの形が同じでなくても相手の幸せを願い続けることを選ぶ、大切な人の幸せを自分のこと以上に願うようになった主人公のまっすぐな覚悟と、見",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "b8c10340938b72cd",
-        "title": "M!LK5人のわちゃわちゃが満載！『カラダWEEK』オフショットまとめ 吉田仁人のイケボに拍手、塩﨑太智は5分で完璧ダンス、懸垂チャレンジも",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000915007/",
-        "publishedAt": "2026-11-09T07:00:21.000Z",
-        "summary": "10月31日にスタートした日本テレビ系で開催されたキャンペーン『カラダWEEK』が、11月8日に終...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "2ac413a4f1b05299",
-        "title": "櫻井翔『ベストアーティスト』18年連続総合司会「特等席でとても楽しみながら」 25周年の出演者第1弾発表",
-        "sourceName": "マイナビニュース テレビ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-        "articleUrl": "https://news.mynavi.jp/article/20261108-5276591/",
-        "publishedAt": "2026-11-07T20:00:00.000Z",
-        "summary": "櫻井翔が総合司会を務める日本テレビ系音楽特番『ベストアーティスト2026』が、11月28日(16:00～)に約5時間にわたって生放送される。第1弾出演アーティストとして、Mrs. GREEN APPLE、SixTONES、HANA、M!LK、King ＆ Prince、timelesz、Travis Japanら13組が発表された。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
       }
     ],
     "EBiDAN": [
