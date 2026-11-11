@@ -1,35 +1,39 @@
 {
-  "updatedAt": "2026-11-11T06:16:46.570Z",
+  "updatedAt": "2026-11-11T14:30:07.844Z",
   "totals": {
-    "all": 119,
-    "today": 4,
-    "week": 16
+    "all": 124,
+    "today": 9,
+    "week": 19
   },
   "groupRanking": [
     {
-      "name": "SUPER★DRAGON",
-      "count": 9
+      "name": "M!LK",
+      "count": 11
     },
     {
-      "name": "M!LK",
+      "name": "SUPER★DRAGON",
       "count": 7
     },
     {
       "name": "EBiDAN",
+      "count": 1
+    },
+    {
+      "name": "原因は自分にある。",
       "count": 1
     }
   ],
   "memberRanking": [
     {
       "name": "吉田仁人",
-      "count": 2
-    },
-    {
-      "name": "佐野勇斗",
-      "count": 2
+      "count": 4
     },
     {
       "name": "山中柔太朗",
+      "count": 3
+    },
+    {
+      "name": "佐野勇斗",
       "count": 2
     },
     {
@@ -44,18 +48,34 @@
   "sourceRanking": [
     {
       "name": "SUPER★DRAGON 公式NEWS",
-      "count": 9
+      "count": 7
     },
     {
       "name": "THE FIRST TIMES",
-      "count": 3
+      "count": 4
     },
     {
       "name": "マイナビニュース テレビ",
       "count": 2
     },
     {
+      "name": "BARKS",
+      "count": 1
+    },
+    {
       "name": "Bezzy",
+      "count": 1
+    },
+    {
+      "name": "ENCOUNT",
+      "count": 1
+    },
+    {
+      "name": "QJWeb",
+      "count": 1
+    },
+    {
+      "name": "マイナビニュース エンタメ",
       "count": 1
     },
     {
@@ -67,67 +87,13 @@
   "recentByGroup": {
     "M!LK": [
       {
-        "id": "1600c118b7453c27",
-        "title": "M!LK曽野舜太がメンバーの頭より高く大ジャンプ！“全力の投げキス”に山中柔太朗も思わず笑顔「ジャンプ力えぐい」「しゅんちゃんもっとでかくなった笑」「やわしゅん最高すぎる」の声",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000916737/",
-        "publishedAt": "2026-11-11T05:02:40.000Z",
-        "summary": "M!LKの公式Instagramで、メンバー5人が「ザッツ！超常」に合わせてリレーダンスを披露する動画...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "14ed040fab8dca54",
-        "title": "M!LK佐野勇斗＆塩﨑太智が大きな“ブレッドボウル”を前に顔を寄せてにっこり！「撮り方エモすぎる」「仲良しなの伝わってくる」「ちゃのざき尊い」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000916686/",
-        "publishedAt": "2026-11-11T03:54:33.000Z",
-        "summary": "M!LKの佐野勇斗が自身のInstagramを更新。メンバーの塩崎太智（崎は、たつさきが正式表記）と...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "baac1a36d7eb2c70",
-        "title": "M!LK山中柔太朗がかがみ、上白石萌音は背伸び！顔の高さを揃えるように並んだ2ショットに「お互いの身長を考慮してる感じが良すぎる」「身長差えぐい」「柔太朗デカくてかっこよ」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000916638/",
-        "publishedAt": "2026-11-11T03:14:37.000Z",
-        "summary": "上白石萌音のマネージャー公式Xで、上白石とM!LKの山中柔太朗の2ショットが公開された。 ■山中...",
+        "id": "c9a2af840a93dfd1",
+        "title": "「破壊力えぐい」 レア衣装のM!LK山中柔太朗にファン熱狂「ほんと似合ってる」「めっちゃイケメン」",
+        "sourceName": "ENCOUNT",
+        "sourceUrl": "https://encount.press/feed/",
+        "articleUrl": "https://encount.press/archives/1096892/",
+        "publishedAt": "2026-11-11T13:40:00.000Z",
+        "summary": "M!LKの山中柔太朗が10日、自身のインスタグラムを更新し、出演するドラマで着用した衣装や現場での“あだ名”を紹介。イケメンぶりが際立つコーデに歓喜の声が上がっている。劇中でもあまり登場しないコーデ M!LKの山中柔太 […]",
         "groups": [
           "M!LK"
         ],
@@ -143,13 +109,13 @@
         ]
       },
       {
-        "id": "b98ff91bf2e95cdf",
-        "title": "吉田仁人が凛とした表情で新曲を熱唱、M!LKとは違う魅力を堪能できる「愛の形」MV公開",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/11/94709/",
-        "publishedAt": "2026-11-09T09:00:00.000Z",
-        "summary": "5人組ダンスボーカルグループ・M!LKの吉田仁人が、本日11月9日(月)に配信リリースした新曲「愛の形」のMusic Videoを公開した。 「愛の形」は、それぞれが信じる愛の在り方について描いたバラード。愛することと愛されることの形が同じでなくても相手の幸せを願い続けることを選ぶ、大切な人の幸せを自分のこと以上に願うようになった主人公のまっすぐな覚悟と、見",
+        "id": "db3f8e8c7aae2fd2",
+        "title": "「いちるの望みがある」「デカい筆で…」M!LK吉田仁人、年末に期待していること明かす 今年は「好き滅」で「流行語大賞」ノミネート",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20261111-5294021/",
+        "publishedAt": "2026-11-11T10:00:00.000Z",
+        "summary": "「たくさんの方に曲を聴いていただけたってことだから」――。アイドルグループ・M!LKの吉田仁人が5日、文化放送のラジオ番組『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)に出演。「現代用語の基礎知識選 2026T&D保険グループ新語・流行語大賞」ノミネート30語入りを喜んだ。",
         "groups": [
           "M!LK"
         ],
@@ -165,15 +131,75 @@
         ]
       },
       {
-        "id": "2ac413a4f1b05299",
-        "title": "櫻井翔『ベストアーティスト』18年連続総合司会「特等席でとても楽しみながら」 25周年の出演者第1弾発表",
-        "sourceName": "マイナビニュース テレビ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-        "articleUrl": "https://news.mynavi.jp/article/20261108-5276591/",
-        "publishedAt": "2026-11-07T20:00:00.000Z",
-        "summary": "櫻井翔が総合司会を務める日本テレビ系音楽特番『ベストアーティスト2026』が、11月28日(16:00～)に約5時間にわたって生放送される。第1弾出演アーティストとして、Mrs. GREEN APPLE、SixTONES、HANA、M!LK、King ＆ Prince、timelesz、Travis Japanら13組が発表された。",
+        "id": "6a65d0ba5d7d9992",
+        "title": "YUMEKIのダンスは何気ない生活からやってくる。「Neko（ねこ）」で立証された五感とダンスの関係性",
+        "sourceName": "QJWeb",
+        "sourceUrl": "https://qjweb.jp/feed/",
+        "articleUrl": "https://qjweb.jp/feature/166301/",
+        "publishedAt": "2026-11-11T09:00:00.000Z",
+        "summary": "13歳からダンスを始め、日本、韓国、中国、アメリカなど数々の国境を越え、ダンスとの仲を深めていったYUMEKI。これまで日本でM!LK、ME:I、King & Prince、韓国ではILLIT、ITZY、NCT 127などの有名アーティストを振り付けてきた。 2026年には、『PRODUCE.. 投稿 YUMEKIのダンスは何気ない生活からやってくる。「Ne",
         "groups": [
           "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "cc1f6848609f57e7",
+        "title": "M!LK吉田仁人の横顔を差し込む光が照らす！柱にもたれ腕を組んでこちらを見つめる姿も「オフショがジャケ写レベル」「儚くてかっこいい」「今まで見たことない表情！」の声",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000916820/",
+        "publishedAt": "2026-11-11T06:41:33.000Z",
+        "summary": "M!LKの吉田仁人が自身のInstagramを更新。ソロ曲「愛の形」のオフショットを公開した。同曲は1...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "570a724bf3584784",
+        "title": "M!LK山中柔太朗が好物を食べる姿に「もぐもぐするたびにえくぼが出るのかわいい」と話題！カトラリーを持つ美しい所作にも注目",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000916833/",
+        "publishedAt": "2026-11-11T06:17:08.000Z",
+        "summary": "M!LK山中柔太朗が大好物のチーズがかかったハンバーグを食べる姿が公開された。山中は、11月20...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "原因は自分にある。": [
+      {
+        "id": "35c1a5d172abf859",
+        "title": "原因は自分にある。、自身最大規模ツアー＜LIVE TOUR 2027 深溟＞開催決定",
+        "sourceName": "BARKS",
+        "sourceUrl": "https://www.barks.jp/feed/",
+        "articleUrl": "https://barks.jp/news/1103941",
+        "publishedAt": "2026-11-11T11:36:58.000Z",
+        "summary": "原因は自分にある。が、2027年春より＜LIVE TOUR 2027 深溟＞を開催することを発表した。 本ツアーは3月17日の神奈川・横須賀芸術劇場での公演を皮切りに、8月1日の東京・立川ステージガーデンでの公演まで11都市34公演と自身最大規模のツアーとなる。チケットは本日20時からファンクラブ先行がスタートしている。 原因は自分にある。は、5thシングル",
+        "groups": [
+          "原因は自分にある。"
         ],
         "statuses": [],
         "memberMatches": []
