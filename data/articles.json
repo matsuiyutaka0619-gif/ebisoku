@@ -1,28 +1,14 @@
 {
-  "updatedAt": "2026-11-10T19:43:10.896Z",
+  "updatedAt": "2026-11-11T06:16:46.568Z",
   "articles": [
     {
-      "id": "bd1e5b3b3dc4e1ba",
-      "title": "EBiDAN「Yes! 東京」オリコン週間ストリーミングランキング5週ぶり1位返り咲き",
+      "id": "1600c118b7453c27",
+      "title": "M!LK曽野舜太がメンバーの頭より高く大ジャンプ！“全力の投げキス”に山中柔太朗も思わず笑顔「ジャンプ力えぐい」「しゅんちゃんもっとでかくなった笑」「やわしゅん最高すぎる」の声",
       "sourceName": "THE FIRST TIMES",
       "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000916026/",
-      "publishedAt": "2026-11-10T19:00:32.000Z",
-      "summary": "2026年11月16日付「オリコン週間デジタルランキング」（集計期間：2026年11月2日～11月8日）が...",
-      "groups": [
-        "EBiDAN"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "7314952c16ddfe25",
-      "title": "【レポート】M!LK塩﨑太智＆齋藤飛鳥、ユニクロ「ヒートテックの日 PR発表会」登壇！「（ヒートテックは）僕の冬の相棒」（塩﨑）",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/report/0000916388/",
-      "publishedAt": "2026-11-10T11:25:35.000Z",
-      "summary": "M!LKの塩崎太智（崎は、たつさきが正式表記）と齋藤飛鳥が、11月10日の「ヒートテックの日」に...",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000916737/",
+      "publishedAt": "2026-11-11T05:02:40.000Z",
+      "summary": "M!LKの公式Instagramで、メンバー5人が「ザッツ！超常」に合わせてリレーダンスを披露する動画...",
       "groups": [
         "M!LK"
       ],
@@ -30,6 +16,38 @@
         "active"
       ],
       "memberMatches": [
+        {
+          "name": "曽野舜太",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "14ed040fab8dca54",
+      "title": "M!LK佐野勇斗＆塩﨑太智が大きな“ブレッドボウル”を前に顔を寄せてにっこり！「撮り方エモすぎる」「仲良しなの伝わってくる」「ちゃのざき尊い」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000916686/",
+      "publishedAt": "2026-11-11T03:54:33.000Z",
+      "summary": "M!LKの佐野勇斗が自身のInstagramを更新。メンバーの塩崎太智（崎は、たつさきが正式表記）と...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        },
         {
           "name": "塩﨑太智",
           "group": "M!LK",
@@ -38,35 +56,13 @@
       ]
     },
     {
-      "id": "7dd2e99d1d66c3e9",
-      "title": "「へそ曲げるって(笑)」M!LK初アリーナ単独公演で“まさかの出来事”――吉田仁人、3年前の“悔しさ”を回顧「もっと頑張んなきゃ!」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-      "articleUrl": "https://news.mynavi.jp/article/20261110-5288590/",
-      "publishedAt": "2026-11-10T10:00:00.000Z",
-      "summary": "「年末に休めるってすごいよね～。悔しいよね～(笑)」――。アイドルグループ・M!LKの吉田仁人が5日、文化放送のラジオ番組『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)に出演。ブレイク前に抱えていた思いを明かした。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "498e63a62f81638a",
-      "title": "M!LK山中柔太朗がホリデーのきらめきに包まれたルイ・ヴィトン渋谷メンズ店に降臨",
+      "id": "baac1a36d7eb2c70",
+      "title": "M!LK山中柔太朗がかがみ、上白石萌音は背伸び！顔の高さを揃えるように並んだ2ショットに「お互いの身長を考慮してる感じが良すぎる」「身長差えぐい」「柔太朗デカくてかっこよ」",
       "sourceName": "THE FIRST TIMES",
       "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000916176/",
-      "publishedAt": "2026-11-10T06:35:04.000Z",
-      "summary": "山中柔太朗が、11月7日よりルイ・ヴィトン渋谷メンズ店にて展開中の『ルイ・ヴィトン 2026 ホ...",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000916638/",
+      "publishedAt": "2026-11-11T03:14:37.000Z",
+      "summary": "上白石萌音のマネージャー公式Xで、上白石とM!LKの山中柔太朗の2ショットが公開された。 ■山中...",
       "groups": [
         "M!LK"
       ],
@@ -80,6 +76,20 @@
           "status": "active"
         }
       ]
+    },
+    {
+      "id": "d5f4827c5bde3268",
+      "title": "【イベント内容変更のお知らせ】11/14(土)開催リリースイベント＠東京ドームシティ ラクーア（東京）",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news11964/",
+      "publishedAt": "2026-11-11T03:00:49.000Z",
+      "summary": "2026年11月14日(土)東京ドームシティ ラクーアにて開催を予定しておりますリリースイベントにおきまして、CD購入整理券を非常に多くのお客様よりお申し込みいただいております。 会場の収容人数を大幅に超えるお客様のご来 […] The post 【イベント内容変更のお知らせ】11/14(土)開催リリースイベント＠東京ドームシティ ラクーア（東京） firs",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
     },
     {
       "id": "b98ff91bf2e95cdf",
@@ -170,7 +180,7 @@
     },
     {
       "id": "7641037a1f8a9902",
-      "title": "【リリースイベント】11月14日(土)開催＠東京ドームシティ ラクーア（東京）参加方法・特典会内容についてのご案内",
+      "title": "【リリースイベント】11月14日(土)開催＠東京ドームシティ ラクーア（東京）参加方法・特典会内容についてのご案内※11/11更新",
       "sourceName": "SUPER★DRAGON 公式NEWS",
       "sourceUrl": "https://super-dragon.jp/news/feed/",
       "articleUrl": "https://super-dragon.jp/news/news11942/",
@@ -273,28 +283,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "e3646d8d7fceadfb",
-      "title": "「お恥ずかしい話ですけど…」佐野勇斗がAIに聞いていたM!LKの目標とは 11月で結成13年目「メンバーと話し合ってずっと…」",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20261104-5254320/",
-      "publishedAt": "2026-11-04T11:00:00.000Z",
-      "summary": "5人組ダンスボーカルグループ・M!LKの佐野勇斗が雑誌『日経トレンディ』(日経BP社)が選ぶ「今年の顔」に選出され、3日に都内で行われた「2026年ヒット商品&2027年ヒット予測」発表会に出席した。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "0de97d0b69655721",
@@ -1936,20 +1924,6 @@
       "summary": "本日6月23日(火)20:00より「アップグレードチケット」受付が開始！ 「アップグレードチケット」は、対象先行にて「指定席」のチケットに当選・入金済みの方のみお申込みいただけます。 ※対象先行にお申込みいただいたお申込 […] The post EBiDAN THE LIVE 2026 15th Anniversary 最新チケット情報 first app",
       "groups": [
         "EBiDAN",
-        "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "37f00829cda33b77",
-      "title": "7/26(日)開催リリースイベント＠LIVES NAGOYA（愛知）参加方法・特典会内容についてのご案内",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news11295/",
-      "publishedAt": "2026-06-23T11:00:44.000Z",
-      "summary": "7/26(日)LIVES NAGOYAにて開催するリリースイベントの詳細をご案内致します。 必ず最後まで全てお読み頂き、会場にいらした皆様がイベントを楽しめるよう、ファンの皆様同士でルールとマナーの厳守をお願い致します。 […] The post 7/26(日)開催リリースイベント＠LIVES NAGOYA（愛知）参加方法・特典会内容についてのご案内 fir",
-      "groups": [
         "SUPER★DRAGON"
       ],
       "statuses": [],

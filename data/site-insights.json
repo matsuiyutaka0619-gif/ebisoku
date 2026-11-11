@@ -1,31 +1,35 @@
 {
-  "updatedAt": "2026-11-10T19:43:10.897Z",
+  "updatedAt": "2026-11-11T06:16:46.570Z",
   "totals": {
-    "all": 121,
-    "today": 1,
-    "week": 17
+    "all": 119,
+    "today": 4,
+    "week": 16
   },
   "groupRanking": [
     {
-      "name": "M!LK",
-      "count": 8
+      "name": "SUPER★DRAGON",
+      "count": 9
     },
     {
-      "name": "SUPER★DRAGON",
-      "count": 8
+      "name": "M!LK",
+      "count": 7
     },
     {
       "name": "EBiDAN",
-      "count": 2
+      "count": 1
     }
   ],
   "memberRanking": [
     {
       "name": "吉田仁人",
-      "count": 3
+      "count": 2
     },
     {
       "name": "佐野勇斗",
+      "count": 2
+    },
+    {
+      "name": "山中柔太朗",
       "count": 2
     },
     {
@@ -33,14 +37,14 @@
       "count": 1
     },
     {
-      "name": "山中柔太朗",
+      "name": "曽野舜太",
       "count": 1
     }
   ],
   "sourceRanking": [
     {
       "name": "SUPER★DRAGON 公式NEWS",
-      "count": 8
+      "count": 9
     },
     {
       "name": "THE FIRST TIMES",
@@ -51,35 +55,204 @@
       "count": 2
     },
     {
-      "name": "マイナビニュース 芸能",
-      "count": 2
-    },
-    {
       "name": "Bezzy",
       "count": 1
     },
     {
-      "name": "マイナビニュース エンタメ",
+      "name": "マイナビニュース 芸能",
       "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
-    "EBiDAN": [
+    "M!LK": [
       {
-        "id": "bd1e5b3b3dc4e1ba",
-        "title": "EBiDAN「Yes! 東京」オリコン週間ストリーミングランキング5週ぶり1位返り咲き",
+        "id": "1600c118b7453c27",
+        "title": "M!LK曽野舜太がメンバーの頭より高く大ジャンプ！“全力の投げキス”に山中柔太朗も思わず笑顔「ジャンプ力えぐい」「しゅんちゃんもっとでかくなった笑」「やわしゅん最高すぎる」の声",
         "sourceName": "THE FIRST TIMES",
         "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000916026/",
-        "publishedAt": "2026-11-10T19:00:32.000Z",
-        "summary": "2026年11月16日付「オリコン週間デジタルランキング」（集計期間：2026年11月2日～11月8日）が...",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000916737/",
+        "publishedAt": "2026-11-11T05:02:40.000Z",
+        "summary": "M!LKの公式Instagramで、メンバー5人が「ザッツ！超常」に合わせてリレーダンスを披露する動画...",
         "groups": [
-          "EBiDAN"
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "14ed040fab8dca54",
+        "title": "M!LK佐野勇斗＆塩﨑太智が大きな“ブレッドボウル”を前に顔を寄せてにっこり！「撮り方エモすぎる」「仲良しなの伝わってくる」「ちゃのざき尊い」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000916686/",
+        "publishedAt": "2026-11-11T03:54:33.000Z",
+        "summary": "M!LKの佐野勇斗が自身のInstagramを更新。メンバーの塩崎太智（崎は、たつさきが正式表記）と...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "baac1a36d7eb2c70",
+        "title": "M!LK山中柔太朗がかがみ、上白石萌音は背伸び！顔の高さを揃えるように並んだ2ショットに「お互いの身長を考慮してる感じが良すぎる」「身長差えぐい」「柔太朗デカくてかっこよ」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000916638/",
+        "publishedAt": "2026-11-11T03:14:37.000Z",
+        "summary": "上白石萌音のマネージャー公式Xで、上白石とM!LKの山中柔太朗の2ショットが公開された。 ■山中...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "b98ff91bf2e95cdf",
+        "title": "吉田仁人が凛とした表情で新曲を熱唱、M!LKとは違う魅力を堪能できる「愛の形」MV公開",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/11/94709/",
+        "publishedAt": "2026-11-09T09:00:00.000Z",
+        "summary": "5人組ダンスボーカルグループ・M!LKの吉田仁人が、本日11月9日(月)に配信リリースした新曲「愛の形」のMusic Videoを公開した。 「愛の形」は、それぞれが信じる愛の在り方について描いたバラード。愛することと愛されることの形が同じでなくても相手の幸せを願い続けることを選ぶ、大切な人の幸せを自分のこと以上に願うようになった主人公のまっすぐな覚悟と、見",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "2ac413a4f1b05299",
+        "title": "櫻井翔『ベストアーティスト』18年連続総合司会「特等席でとても楽しみながら」 25周年の出演者第1弾発表",
+        "sourceName": "マイナビニュース テレビ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
+        "articleUrl": "https://news.mynavi.jp/article/20261108-5276591/",
+        "publishedAt": "2026-11-07T20:00:00.000Z",
+        "summary": "櫻井翔が総合司会を務める日本テレビ系音楽特番『ベストアーティスト2026』が、11月28日(16:00～)に約5時間にわたって生放送される。第1弾出演アーティストとして、Mrs. GREEN APPLE、SixTONES、HANA、M!LK、King ＆ Prince、timelesz、Travis Japanら13組が発表された。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
+    "SUPER★DRAGON": [
+      {
+        "id": "d5f4827c5bde3268",
+        "title": "【イベント内容変更のお知らせ】11/14(土)開催リリースイベント＠東京ドームシティ ラクーア（東京）",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11964/",
+        "publishedAt": "2026-11-11T03:00:49.000Z",
+        "summary": "2026年11月14日(土)東京ドームシティ ラクーアにて開催を予定しておりますリリースイベントにおきまして、CD購入整理券を非常に多くのお客様よりお申し込みいただいております。 会場の収容人数を大幅に超えるお客様のご来 […] The post 【イベント内容変更のお知らせ】11/14(土)開催リリースイベント＠東京ドームシティ ラクーア（東京） firs",
+        "groups": [
+          "SUPER★DRAGON"
         ],
         "statuses": [],
         "memberMatches": []
       },
+      {
+        "id": "db4ee1640310da06",
+        "title": "『EBiDANくじvol.3 ～I feel warm inside when I’m with you.～』の発売が決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11961/",
+        "publishedAt": "2026-11-09T01:00:20.000Z",
+        "summary": "EBiDANグループくじ第3弾となる『EBiDANくじvol.3 ～I feel warm inside when I’m with you.～』が、2026年2月12日（金）より発売いたします！ 発売日：2 […] The post 『EBiDANくじvol.3 ～I feel warm inside when I’m with you.～』の発売が決定！",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "6900d7efa795e006",
+        "title": "SUPER★DRAGON LIVE TOUR 2027「house」最新チケット情報！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11958/",
+        "publishedAt": "2026-11-07T05:00:43.000Z",
+        "summary": "本日11月7日(土)14:00より、ローソンチケットにてプレリクエスト先行〈抽選〉受付開始。 会場で皆さんとお会いできることを楽しみにしております！ ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願い […] The post SUPER★DRAGON LIVE TOUR 2027「house」最新チケット情報！ first appear",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "7641037a1f8a9902",
+        "title": "【リリースイベント】11月14日(土)開催＠東京ドームシティ ラクーア（東京）参加方法・特典会内容についてのご案内※11/11更新",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11942/",
+        "publishedAt": "2026-11-06T11:00:45.000Z",
+        "summary": "11月14日(土)東京ドームシティ ラクーアにて開催するリリースイベントの詳細をご案内致します。 必ず最後まで全てお読み頂き、会場にいらした皆様がイベントを楽しめるよう、ファンの皆様同士でルールとマナーの厳守をお願い致し […] The post 【リリースイベント】11月14日(土)開催＠東京ドームシティ ラクーア（東京）参加方法・特典会内容についてのご案",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "e88ed738b0355781",
+        "title": "11/15(日)開催リリースイベント＠ベルサール東京日本橋（東京）参加方法・特典会内容についてのご案内",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11946/",
+        "publishedAt": "2026-11-06T11:00:40.000Z",
+        "summary": "11/15(日)ベルサール東京日本橋にて開催するリリースイベントの詳細をご案内致します。 必ず最後まで全てお読み頂き、会場にいらした皆様がイベントを楽しめるよう、ファンの皆様同士でルールとマナーの厳守をお願い致します。 […] The post 11/15(日)開催リリースイベント＠ベルサール東京日本橋（東京）参加方法・特典会内容についてのご案内 first",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
+    "EBiDAN": [
       {
         "id": "db4ee1640310da06",
         "title": "『EBiDANくじvol.3 ～I feel warm inside when I’m with you.～』の発売が決定！",
@@ -139,179 +312,17 @@
         ],
         "statuses": [],
         "memberMatches": []
-      }
-    ],
-    "M!LK": [
-      {
-        "id": "7314952c16ddfe25",
-        "title": "【レポート】M!LK塩﨑太智＆齋藤飛鳥、ユニクロ「ヒートテックの日 PR発表会」登壇！「（ヒートテックは）僕の冬の相棒」（塩﨑）",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/report/0000916388/",
-        "publishedAt": "2026-11-10T11:25:35.000Z",
-        "summary": "M!LKの塩崎太智（崎は、たつさきが正式表記）と齋藤飛鳥が、11月10日の「ヒートテックの日」に...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
       },
       {
-        "id": "7dd2e99d1d66c3e9",
-        "title": "「へそ曲げるって(笑)」M!LK初アリーナ単独公演で“まさかの出来事”――吉田仁人、3年前の“悔しさ”を回顧「もっと頑張んなきゃ!」",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20261110-5288590/",
-        "publishedAt": "2026-11-10T10:00:00.000Z",
-        "summary": "「年末に休めるってすごいよね～。悔しいよね～(笑)」――。アイドルグループ・M!LKの吉田仁人が5日、文化放送のラジオ番組『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)に出演。ブレイク前に抱えていた思いを明かした。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "498e63a62f81638a",
-        "title": "M!LK山中柔太朗がホリデーのきらめきに包まれたルイ・ヴィトン渋谷メンズ店に降臨",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000916176/",
-        "publishedAt": "2026-11-10T06:35:04.000Z",
-        "summary": "山中柔太朗が、11月7日よりルイ・ヴィトン渋谷メンズ店にて展開中の『ルイ・ヴィトン 2026 ホ...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "b98ff91bf2e95cdf",
-        "title": "吉田仁人が凛とした表情で新曲を熱唱、M!LKとは違う魅力を堪能できる「愛の形」MV公開",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/11/94709/",
-        "publishedAt": "2026-11-09T09:00:00.000Z",
-        "summary": "5人組ダンスボーカルグループ・M!LKの吉田仁人が、本日11月9日(月)に配信リリースした新曲「愛の形」のMusic Videoを公開した。 「愛の形」は、それぞれが信じる愛の在り方について描いたバラード。愛することと愛されることの形が同じでなくても相手の幸せを願い続けることを選ぶ、大切な人の幸せを自分のこと以上に願うようになった主人公のまっすぐな覚悟と、見",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "2ac413a4f1b05299",
-        "title": "櫻井翔『ベストアーティスト』18年連続総合司会「特等席でとても楽しみながら」 25周年の出演者第1弾発表",
-        "sourceName": "マイナビニュース テレビ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-        "articleUrl": "https://news.mynavi.jp/article/20261108-5276591/",
-        "publishedAt": "2026-11-07T20:00:00.000Z",
-        "summary": "櫻井翔が総合司会を務める日本テレビ系音楽特番『ベストアーティスト2026』が、11月28日(16:00～)に約5時間にわたって生放送される。第1弾出演アーティストとして、Mrs. GREEN APPLE、SixTONES、HANA、M!LK、King ＆ Prince、timelesz、Travis Japanら13組が発表された。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "SUPER★DRAGON": [
-      {
-        "id": "db4ee1640310da06",
-        "title": "『EBiDANくじvol.3 ～I feel warm inside when I’m with you.～』の発売が決定！",
+        "id": "4c9519734cc191ec",
+        "title": "第6回 EBiDAN 大運動会 『スポーツマンヒップ！』ファンクラブブース情報！",
         "sourceName": "SUPER★DRAGON 公式NEWS",
         "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11961/",
-        "publishedAt": "2026-11-09T01:00:20.000Z",
-        "summary": "EBiDANグループくじ第3弾となる『EBiDANくじvol.3 ～I feel warm inside when I’m with you.～』が、2026年2月12日（金）より発売いたします！ 発売日：2 […] The post 『EBiDANくじvol.3 ～I feel warm inside when I’m with you.～』の発売が決定！",
+        "articleUrl": "https://super-dragon.jp/news/news11754/",
+        "publishedAt": "2026-10-09T06:30:06.000Z",
+        "summary": "第6回 EBiDAN 大運動会 『スポーツマンヒップ！』ファンクラブブースの受付が決定いたしました。 当日は、対象期間中に各EBiDANファンクラブで【新規入会・継続・お友達紹介】をされた方、 または各＋KIRARIコミ […] The post 第6回 EBiDAN 大運動会 『スポーツマンヒップ！』ファンクラブブース情報！ first appeared ",
         "groups": [
           "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "6900d7efa795e006",
-        "title": "SUPER★DRAGON LIVE TOUR 2027「house」最新チケット情報！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11958/",
-        "publishedAt": "2026-11-07T05:00:43.000Z",
-        "summary": "本日11月7日(土)14:00より、ローソンチケットにてプレリクエスト先行〈抽選〉受付開始。 会場で皆さんとお会いできることを楽しみにしております！ ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願い […] The post SUPER★DRAGON LIVE TOUR 2027「house」最新チケット情報！ first appear",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "7641037a1f8a9902",
-        "title": "【リリースイベント】11月14日(土)開催＠東京ドームシティ ラクーア（東京）参加方法・特典会内容についてのご案内",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11942/",
-        "publishedAt": "2026-11-06T11:00:45.000Z",
-        "summary": "11月14日(土)東京ドームシティ ラクーアにて開催するリリースイベントの詳細をご案内致します。 必ず最後まで全てお読み頂き、会場にいらした皆様がイベントを楽しめるよう、ファンの皆様同士でルールとマナーの厳守をお願い致し […] The post 【リリースイベント】11月14日(土)開催＠東京ドームシティ ラクーア（東京）参加方法・特典会内容についてのご案",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "e88ed738b0355781",
-        "title": "11/15(日)開催リリースイベント＠ベルサール東京日本橋（東京）参加方法・特典会内容についてのご案内",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11946/",
-        "publishedAt": "2026-11-06T11:00:40.000Z",
-        "summary": "11/15(日)ベルサール東京日本橋にて開催するリリースイベントの詳細をご案内致します。 必ず最後まで全てお読み頂き、会場にいらした皆様がイベントを楽しめるよう、ファンの皆様同士でルールとマナーの厳守をお願い致します。 […] The post 11/15(日)開催リリースイベント＠ベルサール東京日本橋（東京）参加方法・特典会内容についてのご案内 first",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "6a9ab6ddf33678d5",
-        "title": "11/14(土)開催リリースイベント＠東京ドームシティ ラクーア（東京）にて開催リリースイベントLINEアプリを使用した『CD購入整理券』『優先観覧エリア入場整理券』についてのご案内",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11950/",
-        "publishedAt": "2026-11-06T10:59:27.000Z",
-        "summary": "▼ＣＤ購入整理券について 11/14(土)東京・東京ドームシティ ラクーアにて開催するリリースイベントの会場でのＣＤ販売は、会場の混雑緩和のため、LINEアプリを使用した事前応募制の『ＣＤ購入整理券』を導入致します。 Ｃ […] The post 11/14(土)開催リリースイベント＠東京ドームシティ ラクーア（東京）にて開催リリースイベントLINEアプリを",
-        "groups": [
           "SUPER★DRAGON"
         ],
         "statuses": [],
