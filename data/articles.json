@@ -1,14 +1,42 @@
 {
-  "updatedAt": "2026-11-11T14:30:07.842Z",
+  "updatedAt": "2026-11-12T00:43:02.810Z",
   "articles": [
     {
-      "id": "c9a2af840a93dfd1",
-      "title": "「破壊力えぐい」 レア衣装のM!LK山中柔太朗にファン熱狂「ほんと似合ってる」「めっちゃイケメン」",
+      "id": "55b3b69cbdb56fd5",
+      "title": "原因は自分にある。がフリーライブに1万人動員 新曲初披露で「1位を取るのは初めて」",
       "sourceName": "ENCOUNT",
       "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1096892/",
-      "publishedAt": "2026-11-11T13:40:00.000Z",
-      "summary": "M!LKの山中柔太朗が10日、自身のインスタグラムを更新し、出演するドラマで着用した衣装や現場での“あだ名”を紹介。イケメンぶりが際立つコーデに歓喜の声が上がっている。劇中でもあまり登場しないコーデ M!LKの山中柔太 […]",
+      "articleUrl": "https://encount.press/archives/1096424/",
+      "publishedAt": "2026-11-12T00:10:00.000Z",
+      "summary": "7人組ダンスボーカルグループ・原因は自分にある。（通称：ゲンジブ）が11日、神奈川県の横浜赤レンガ倉庫 赤レンガパーク特設会場で5thシングル『ラブリーズン』リリース記念フリーライブを開催。グループ初となるフリーライブは […]",
+      "groups": [
+        "原因は自分にある。"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "95738e2f147ef3cd",
+      "title": "超特急・柏木悠、韓国で累計2億ビューの人気マンガ実写化で主演 濱尾ノリタカ＆大友花恋と複雑な友情描く「青春をぜひとも浴びてください!」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261112-5303652/",
+      "publishedAt": "2026-11-11T23:00:00.000Z",
+      "summary": "「この作品を通して青春をぜひとも浴びてください!」――超特急の柏木悠が、FODドラマ初主演を務める『アクアマン』(12月25日20:00からFOD・Wavveで日韓同時配信開始、以降毎週金曜20:00最新話配信)で、濱尾ノリタカ、大友花恋と共演する。韓国で累計2億ビューを記録した人気WEBマンガを実写化し、高校時代からの親友3人が友情と恋愛の間で揺れ動く姿を",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "e86de9b4bae5593e",
+      "title": "佐野勇斗がローソン新TVCMで明るくナビゲート！梅沢富美男の体を張った演技にも注目",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000917009/",
+      "publishedAt": "2026-11-11T19:00:16.000Z",
+      "summary": "M!LKの佐野勇斗、梅沢富美男、上坂樹里、ヒコロヒーが出演するローソンの新TVCM『超ハッピーす...",
       "groups": [
         "M!LK"
       ],
@@ -17,7 +45,7 @@
       ],
       "memberMatches": [
         {
-          "name": "山中柔太朗",
+          "name": "佐野勇斗",
           "group": "M!LK",
           "status": "active"
         }
@@ -112,60 +140,6 @@
       "memberMatches": [
         {
           "name": "山中柔太朗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "1600c118b7453c27",
-      "title": "M!LK曽野舜太がメンバーの頭より高く大ジャンプ！“全力の投げキス”に山中柔太朗も思わず笑顔「ジャンプ力えぐい」「しゅんちゃんもっとでかくなった笑」「やわしゅん最高すぎる」の声",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000916737/",
-      "publishedAt": "2026-11-11T05:02:40.000Z",
-      "summary": "M!LKの公式Instagramで、メンバー5人が「ザッツ！超常」に合わせてリレーダンスを披露する動画...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "曽野舜太",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "山中柔太朗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "14ed040fab8dca54",
-      "title": "M!LK佐野勇斗＆塩﨑太智が大きな“ブレッドボウル”を前に顔を寄せてにっこり！「撮り方エモすぎる」「仲良しなの伝わってくる」「ちゃのざき尊い」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000916686/",
-      "publishedAt": "2026-11-11T03:54:33.000Z",
-      "summary": "M!LKの佐野勇斗が自身のInstagramを更新。メンバーの塩崎太智（崎は、たつさきが正式表記）と...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "塩﨑太智",
           "group": "M!LK",
           "status": "active"
         }

@@ -1,25 +1,29 @@
 {
-  "updatedAt": "2026-11-11T14:30:07.844Z",
+  "updatedAt": "2026-11-12T00:43:02.812Z",
   "totals": {
     "all": 124,
-    "today": 9,
+    "today": 3,
     "week": 19
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 11
+      "count": 9
     },
     {
       "name": "SUPER★DRAGON",
       "count": 7
     },
     {
+      "name": "原因は自分にある。",
+      "count": 2
+    },
+    {
       "name": "EBiDAN",
       "count": 1
     },
     {
-      "name": "原因は自分にある。",
+      "name": "超特急",
       "count": 1
     }
   ],
@@ -29,19 +33,11 @@
       "count": 4
     },
     {
-      "name": "山中柔太朗",
-      "count": 3
-    },
-    {
       "name": "佐野勇斗",
       "count": 2
     },
     {
-      "name": "塩﨑太智",
-      "count": 1
-    },
-    {
-      "name": "曽野舜太",
+      "name": "山中柔太朗",
       "count": 1
     }
   ],
@@ -52,7 +48,11 @@
     },
     {
       "name": "THE FIRST TIMES",
-      "count": 4
+      "count": 3
+    },
+    {
+      "name": "マイナビニュース エンタメ",
+      "count": 2
     },
     {
       "name": "マイナビニュース テレビ",
@@ -75,25 +75,131 @@
       "count": 1
     },
     {
-      "name": "マイナビニュース エンタメ",
-      "count": 1
-    },
-    {
       "name": "マイナビニュース 芸能",
       "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
-    "M!LK": [
+    "原因は自分にある。": [
       {
-        "id": "c9a2af840a93dfd1",
-        "title": "「破壊力えぐい」 レア衣装のM!LK山中柔太朗にファン熱狂「ほんと似合ってる」「めっちゃイケメン」",
+        "id": "55b3b69cbdb56fd5",
+        "title": "原因は自分にある。がフリーライブに1万人動員 新曲初披露で「1位を取るのは初めて」",
         "sourceName": "ENCOUNT",
         "sourceUrl": "https://encount.press/feed/",
-        "articleUrl": "https://encount.press/archives/1096892/",
-        "publishedAt": "2026-11-11T13:40:00.000Z",
-        "summary": "M!LKの山中柔太朗が10日、自身のインスタグラムを更新し、出演するドラマで着用した衣装や現場での“あだ名”を紹介。イケメンぶりが際立つコーデに歓喜の声が上がっている。劇中でもあまり登場しないコーデ M!LKの山中柔太 […]",
+        "articleUrl": "https://encount.press/archives/1096424/",
+        "publishedAt": "2026-11-12T00:10:00.000Z",
+        "summary": "7人組ダンスボーカルグループ・原因は自分にある。（通称：ゲンジブ）が11日、神奈川県の横浜赤レンガ倉庫 赤レンガパーク特設会場で5thシングル『ラブリーズン』リリース記念フリーライブを開催。グループ初となるフリーライブは […]",
+        "groups": [
+          "原因は自分にある。"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "35c1a5d172abf859",
+        "title": "原因は自分にある。、自身最大規模ツアー＜LIVE TOUR 2027 深溟＞開催決定",
+        "sourceName": "BARKS",
+        "sourceUrl": "https://www.barks.jp/feed/",
+        "articleUrl": "https://barks.jp/news/1103941",
+        "publishedAt": "2026-11-11T11:36:58.000Z",
+        "summary": "原因は自分にある。が、2027年春より＜LIVE TOUR 2027 深溟＞を開催することを発表した。 本ツアーは3月17日の神奈川・横須賀芸術劇場での公演を皮切りに、8月1日の東京・立川ステージガーデンでの公演まで11都市34公演と自身最大規模のツアーとなる。チケットは本日20時からファンクラブ先行がスタートしている。 原因は自分にある。は、5thシングル",
+        "groups": [
+          "原因は自分にある。"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
+    "超特急": [
+      {
+        "id": "95738e2f147ef3cd",
+        "title": "超特急・柏木悠、韓国で累計2億ビューの人気マンガ実写化で主演 濱尾ノリタカ＆大友花恋と複雑な友情描く「青春をぜひとも浴びてください!」",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20261112-5303652/",
+        "publishedAt": "2026-11-11T23:00:00.000Z",
+        "summary": "「この作品を通して青春をぜひとも浴びてください!」――超特急の柏木悠が、FODドラマ初主演を務める『アクアマン』(12月25日20:00からFOD・Wavveで日韓同時配信開始、以降毎週金曜20:00最新話配信)で、濱尾ノリタカ、大友花恋と共演する。韓国で累計2億ビューを記録した人気WEBマンガを実写化し、高校時代からの親友3人が友情と恋愛の間で揺れ動く姿を",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "69da96bf9d421a41",
+        "title": "「すごい好きだった」「毎日先生と…」超特急・柏木悠が学生に戻ってやりたいことを告白",
+        "sourceName": "マイナビニュース 映画",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
+        "articleUrl": "https://news.mynavi.jp/article/20261027-5205202/",
+        "publishedAt": "2026-10-27T12:00:00.000Z",
+        "summary": "映画『羊の皮を着たケモノ』(12月11日公開)に出演する、鈴木伸之と柏木悠が26日、東京・日比谷で行われた「第39回東京国際映画祭」(TIFF)のレッドカーペットに、楊礼平監督とともに登場した。",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "c9f5c5a6ee0ff870",
+        "title": "本日26歳誕生日、超特急・髙松アロハが挑発的なスタイルで魅せる『ワンダンス』場面写真3点解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/10/94062/",
+        "publishedAt": "2026-10-26T03:00:00.000Z",
+        "summary": "11月27日(金)に公開されるJO（&TEAM）の初主演映画『ワンダンス』から超特急・髙松アロハ演じるウセンの場面写真3点が解禁された。 本作は、単行本の累計発行部数が130万部を突破した珈琲による同名漫画の実写化。自分の気持ちを抑えて生活するカボこと小谷花木〈こたに・かぼく〉が、人目を気にせずダンスに没頭するワンダこと湾田光莉〈わんだ・ひかり〉に惹かれ、一",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "アロハ",
+            "group": "超特急",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "6865cd3cb597efa2",
+        "title": "危うく強い鈴木伸之に柏木悠が宿す意思とは、映画『羊の皮を着たケモノ』緊張感漂う場面写真解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/10/93934/",
+        "publishedAt": "2026-10-23T03:00:00.000Z",
+        "summary": "鈴木伸之と柏木悠（超特急）がW主演を務め、12月11日(金)に公開される映画『羊の皮を着たケモノ』の場面写真5点が解禁された。 本作は、九號（きゅうごう）による同名BL漫画を実写化した、骨太で新感覚のボーイズ・ラブ。原作は「BLアワード2022 ディープ部門」で第13位、「BLアワード2024 ディープ部門」で第3位を獲得した人気作で、物語は前半の明るく甘い",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "ab6a92dadbc653fa",
+        "title": "鈴木伸之×柏木悠W主演『羊の皮を着たケモノ』12月11日劇場公開、ミステリアスなポスター解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/10/93399/",
+        "publishedAt": "2026-10-12T09:00:00.000Z",
+        "summary": "鈴木伸之と柏木悠（超特急）がW主演を務める映画『羊の皮を着たケモノ』が12月11日(金)に公開されることが決定し、ポスタービジュアルが解禁された。 本作は、九號（きゅうごう）による同名BL漫画（徳間書店 Charaコミックス刊）を実写化した、骨太で新感覚のボーイズ・ラブ。原作は「BLアワード2022 ディープ部門」で第13位、「BLアワード2024 ディープ",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
+    "M!LK": [
+      {
+        "id": "e86de9b4bae5593e",
+        "title": "佐野勇斗がローソン新TVCMで明るくナビゲート！梅沢富美男の体を張った演技にも注目",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000917009/",
+        "publishedAt": "2026-11-11T19:00:16.000Z",
+        "summary": "M!LKの佐野勇斗、梅沢富美男、上坂樹里、ヒコロヒーが出演するローソンの新TVCM『超ハッピーす...",
         "groups": [
           "M!LK"
         ],
@@ -102,7 +208,7 @@
         ],
         "memberMatches": [
           {
-            "name": "山中柔太朗",
+            "name": "佐野勇斗",
             "group": "M!LK",
             "status": "active"
           }
@@ -187,22 +293,6 @@
             "status": "active"
           }
         ]
-      }
-    ],
-    "原因は自分にある。": [
-      {
-        "id": "35c1a5d172abf859",
-        "title": "原因は自分にある。、自身最大規模ツアー＜LIVE TOUR 2027 深溟＞開催決定",
-        "sourceName": "BARKS",
-        "sourceUrl": "https://www.barks.jp/feed/",
-        "articleUrl": "https://barks.jp/news/1103941",
-        "publishedAt": "2026-11-11T11:36:58.000Z",
-        "summary": "原因は自分にある。が、2027年春より＜LIVE TOUR 2027 深溟＞を開催することを発表した。 本ツアーは3月17日の神奈川・横須賀芸術劇場での公演を皮切りに、8月1日の東京・立川ステージガーデンでの公演まで11都市34公演と自身最大規模のツアーとなる。チケットは本日20時からファンクラブ先行がスタートしている。 原因は自分にある。は、5thシングル",
-        "groups": [
-          "原因は自分にある。"
-        ],
-        "statuses": [],
-        "memberMatches": []
       }
     ],
     "SUPER★DRAGON": [
@@ -350,86 +440,6 @@
         "groups": [
           "EBiDAN",
           "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "超特急": [
-      {
-        "id": "69da96bf9d421a41",
-        "title": "「すごい好きだった」「毎日先生と…」超特急・柏木悠が学生に戻ってやりたいことを告白",
-        "sourceName": "マイナビニュース 映画",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
-        "articleUrl": "https://news.mynavi.jp/article/20261027-5205202/",
-        "publishedAt": "2026-10-27T12:00:00.000Z",
-        "summary": "映画『羊の皮を着たケモノ』(12月11日公開)に出演する、鈴木伸之と柏木悠が26日、東京・日比谷で行われた「第39回東京国際映画祭」(TIFF)のレッドカーペットに、楊礼平監督とともに登場した。",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "c9f5c5a6ee0ff870",
-        "title": "本日26歳誕生日、超特急・髙松アロハが挑発的なスタイルで魅せる『ワンダンス』場面写真3点解禁",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/10/94062/",
-        "publishedAt": "2026-10-26T03:00:00.000Z",
-        "summary": "11月27日(金)に公開されるJO（&TEAM）の初主演映画『ワンダンス』から超特急・髙松アロハ演じるウセンの場面写真3点が解禁された。 本作は、単行本の累計発行部数が130万部を突破した珈琲による同名漫画の実写化。自分の気持ちを抑えて生活するカボこと小谷花木〈こたに・かぼく〉が、人目を気にせずダンスに没頭するワンダこと湾田光莉〈わんだ・ひかり〉に惹かれ、一",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "アロハ",
-            "group": "超特急",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "6865cd3cb597efa2",
-        "title": "危うく強い鈴木伸之に柏木悠が宿す意思とは、映画『羊の皮を着たケモノ』緊張感漂う場面写真解禁",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/10/93934/",
-        "publishedAt": "2026-10-23T03:00:00.000Z",
-        "summary": "鈴木伸之と柏木悠（超特急）がW主演を務め、12月11日(金)に公開される映画『羊の皮を着たケモノ』の場面写真5点が解禁された。 本作は、九號（きゅうごう）による同名BL漫画を実写化した、骨太で新感覚のボーイズ・ラブ。原作は「BLアワード2022 ディープ部門」で第13位、「BLアワード2024 ディープ部門」で第3位を獲得した人気作で、物語は前半の明るく甘い",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "ab6a92dadbc653fa",
-        "title": "鈴木伸之×柏木悠W主演『羊の皮を着たケモノ』12月11日劇場公開、ミステリアスなポスター解禁",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/10/93399/",
-        "publishedAt": "2026-10-12T09:00:00.000Z",
-        "summary": "鈴木伸之と柏木悠（超特急）がW主演を務める映画『羊の皮を着たケモノ』が12月11日(金)に公開されることが決定し、ポスタービジュアルが解禁された。 本作は、九號（きゅうごう）による同名BL漫画（徳間書店 Charaコミックス刊）を実写化した、骨太で新感覚のボーイズ・ラブ。原作は「BLアワード2022 ディープ部門」で第13位、「BLアワード2024 ディープ",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "b33204e5b8b18e79",
-        "title": "超特急「エトランス・フィーバー」配信開始、“誰もが主役になれる”と前向きなメッセージを込める",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/10/93396/",
-        "publishedAt": "2026-10-11T15:00:00.000Z",
-        "summary": "9人組メインダンサー＆バックボーカルグループ・超特急が、12月16日(水)に発売する24枚目シングルの表題曲「エトランス・フィーバー」の先行配信をスタートさせた。 11月に待望の東京ドーム2Days公演を控える超特急の新曲「エトランス・フィーバー」は、干支をモチーフにしたユーロビート調の新たなトンチキソング。疾走感あふれるビートに乗せて「生まれ持ったキャラク",
-        "groups": [
-          "超特急"
         ],
         "statuses": [],
         "memberMatches": []
