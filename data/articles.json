@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2026-11-12T15:13:29.359Z",
+  "updatedAt": "2026-11-12T23:38:29.977Z",
   "articles": [
+    {
+      "id": "0cfa18e5e8300b3c",
+      "title": "EBiDANが紅白歌合戦のステージへ「Yes！東京」が大ヒット",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202611120002093.html",
+      "publishedAt": "2026-11-12T22:00:00.000Z",
+      "summary": "超特急やM！LKら、スターダストプロモーションに所属する若手男性アーティスト集団、EBiDAN（恵比寿学園男子部）が、大みそかの第77回NHK紅白歌合戦（午後7時20分）に初出場することが内定した。12日、複数の関係者への取材で分かった…",
+      "groups": [
+        "EBiDAN",
+        "超特急",
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "b414b3e8b4e7db89",
+      "title": "向井康二、明るさと気配りを行き来する対応力 岡田准一、山中柔太朗、大森元貴との共演に見る関係の築き方",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/11/post-2580510.html",
+      "publishedAt": "2026-11-12T20:50:25.000Z",
+      "summary": "俳優活動を通じて共演の幅を広げるSnow Man 向井康二。岡田准一、山中柔太朗、大森元貴とのやりとりから見えてくるのは、持ち前の明るさだけではない。相手や場の空気を受け止めながら役割を変え、それぞれ異なる距離の縮め方で関係を築く向井のコミュニケーション力を紐解く。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "c1cc1dd8f8c03179",
       "title": "「あんま調子乗んなよ」幼少期に父親が放った一言で無邪気にはしゃげなくなってしまったリスナー M!LK吉田仁人「怖っ!」「その日ぐらいは見過ごしてあげても…」",
@@ -116,8 +154,8 @@
     {
       "id": "95738e2f147ef3cd",
       "title": "超特急・柏木悠、韓国で累計2億ビューの人気マンガ実写化で主演 濱尾ノリタカ＆大友花恋と複雑な友情描く「青春をぜひとも浴びてください!」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
       "articleUrl": "https://news.mynavi.jp/article/20261112-5303652/",
       "publishedAt": "2026-11-11T23:00:00.000Z",
       "summary": "「この作品を通して青春をぜひとも浴びてください!」――超特急の柏木悠が、FODドラマ初主演を務める『アクアマン』(12月25日20:00からFOD・Wavveで日韓同時配信開始、以降毎週金曜20:00最新話配信)で、濱尾ノリタカ、大友花恋と共演する。韓国で累計2億ビューを記録した人気WEBマンガを実写化し、高校時代からの親友3人が友情と恋愛の間で揺れ動く姿を",
