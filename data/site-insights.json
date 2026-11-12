@@ -1,43 +1,47 @@
 {
-  "updatedAt": "2026-11-12T00:43:02.812Z",
+  "updatedAt": "2026-11-12T15:13:29.361Z",
   "totals": {
-    "all": 124,
-    "today": 3,
-    "week": 19
+    "all": 120,
+    "today": 0,
+    "week": 15
   },
   "groupRanking": [
     {
-      "name": "M!LK",
-      "count": 9
-    },
-    {
       "name": "SUPER★DRAGON",
       "count": 7
+    },
+    {
+      "name": "M!LK",
+      "count": 4
+    },
+    {
+      "name": "EBiDAN",
+      "count": 3
+    },
+    {
+      "name": "超特急",
+      "count": 3
     },
     {
       "name": "原因は自分にある。",
       "count": 2
     },
     {
-      "name": "EBiDAN",
-      "count": 1
-    },
-    {
-      "name": "超特急",
+      "name": "BUDDiiS",
       "count": 1
     }
   ],
   "memberRanking": [
     {
       "name": "吉田仁人",
-      "count": 4
-    },
-    {
-      "name": "佐野勇斗",
       "count": 2
     },
     {
-      "name": "山中柔太朗",
+      "name": "タクヤ",
+      "count": 1
+    },
+    {
+      "name": "杢代和人",
       "count": 1
     }
   ],
@@ -51,45 +55,128 @@
       "count": 3
     },
     {
+      "name": "QJWeb",
+      "count": 2
+    },
+    {
       "name": "マイナビニュース エンタメ",
       "count": 2
     },
     {
-      "name": "マイナビニュース テレビ",
-      "count": 2
-    },
-    {
-      "name": "BARKS",
-      "count": 1
-    },
-    {
       "name": "Bezzy",
-      "count": 1
-    },
-    {
-      "name": "ENCOUNT",
-      "count": 1
-    },
-    {
-      "name": "QJWeb",
-      "count": 1
-    },
-    {
-      "name": "マイナビニュース 芸能",
       "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
+    "M!LK": [
+      {
+        "id": "c1cc1dd8f8c03179",
+        "title": "「あんま調子乗んなよ」幼少期に父親が放った一言で無邪気にはしゃげなくなってしまったリスナー M!LK吉田仁人「怖っ!」「その日ぐらいは見過ごしてあげても…」",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20261112-5294161/",
+        "publishedAt": "2026-11-12T10:00:00.000Z",
+        "summary": "「その日から、何事にも粛々と取り組む人間になりました」――アイドルグループ・M!LKの吉田仁人が5日、文化放送のラジオ番組『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)に出演。“親の一言”で無邪気にはしゃげなくなってしまったリスナーからのメールを紹介した。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "870973f33950e3a6",
+        "title": "実は兄弟だった！超特急のタクヤ、BUDDiiSのもーりーしゅーとなどEBiDANの兄弟アーティストを紹介",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000916041/",
+        "publishedAt": "2026-11-12T07:00:14.000Z",
+        "summary": "超特急、M!LK、ONE N’ ONLY、BUDDiiSなど、様々グループが活動している、スターダストプ...",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK",
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "タクヤ",
+            "group": "超特急",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "6a65d0ba5d7d9992",
+        "title": "YUMEKIのダンスは何気ない生活からやってくる。「Neko（ねこ）」で立証された五感とダンスの関係性",
+        "sourceName": "QJWeb",
+        "sourceUrl": "https://qjweb.jp/feed/",
+        "articleUrl": "https://qjweb.jp/feature/166301/",
+        "publishedAt": "2026-11-11T09:00:00.000Z",
+        "summary": "13歳からダンスを始め、日本、韓国、中国、アメリカなど数々の国境を越え、ダンスとの仲を深めていったYUMEKI。これまで日本でM!LK、ME:I、King & Prince、韓国ではILLIT、ITZY、NCT 127などの有名アーティストを振り付けてきた。 2026年には、『PRODUCE.. 投稿 YUMEKIのダンスは何気ない生活からやってくる。「Ne",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "b98ff91bf2e95cdf",
+        "title": "吉田仁人が凛とした表情で新曲を熱唱、M!LKとは違う魅力を堪能できる「愛の形」MV公開",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/11/94709/",
+        "publishedAt": "2026-11-09T09:00:00.000Z",
+        "summary": "5人組ダンスボーカルグループ・M!LKの吉田仁人が、本日11月9日(月)に配信リリースした新曲「愛の形」のMusic Videoを公開した。 「愛の形」は、それぞれが信じる愛の在り方について描いたバラード。愛することと愛されることの形が同じでなくても相手の幸せを願い続けることを選ぶ、大切な人の幸せを自分のこと以上に願うようになった主人公のまっすぐな覚悟と、見",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "e80d3ea48c72b1b0",
+        "title": "M!LK「“イイみるくの日”週間」が明日開幕、推しカメラなどのコンテンツを11月9日まで毎日お届け",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/10/94346/",
+        "publishedAt": "2026-10-31T09:00:00.000Z",
+        "summary": "5人組ダンスボーカルグループ・M!LKが、11月1日(日)から9日(月)までを「“イイみるくの日”週間」と題し、毎日コンテンツを配信することを発表した。 11月3日(火)を「イイみるくの日」として開催される本企画。スタートに先立ち明日からのコンテンツカレンダーが公開され、先日配信リリースされた「ザッツ！超常」の推しカメラコンテンツから11月9日(月) の「Y",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
     "原因は自分にある。": [
       {
-        "id": "55b3b69cbdb56fd5",
-        "title": "原因は自分にある。がフリーライブに1万人動員 新曲初披露で「1位を取るのは初めて」",
-        "sourceName": "ENCOUNT",
-        "sourceUrl": "https://encount.press/feed/",
-        "articleUrl": "https://encount.press/archives/1096424/",
-        "publishedAt": "2026-11-12T00:10:00.000Z",
-        "summary": "7人組ダンスボーカルグループ・原因は自分にある。（通称：ゲンジブ）が11日、神奈川県の横浜赤レンガ倉庫 赤レンガパーク特設会場で5thシングル『ラブリーズン』リリース記念フリーライブを開催。グループ初となるフリーライブは […]",
+        "id": "18f9902c753f1de9",
+        "title": "原因は自分にある。「小籠包を食べてアツい話をした」思い出の地に1万人の観測者が集う【『ラブリーズン』リリース記念フリーライブ】",
+        "sourceName": "QJWeb",
+        "sourceUrl": "https://qjweb.jp/feed/",
+        "articleUrl": "https://qjweb.jp/column/168061/",
+        "publishedAt": "2026-11-12T09:00:00.000Z",
+        "summary": "原因は自分にある。の5thシングル『ラブリーズン』のリリース記念フリーライブが、2026年11月11日（水）に横浜赤レンガ倉庫で開催された。 これまで、原因は自分にある。のリリースイベントといえば商業施設などにて行われていた印象だが、昨今は急増する観測者（原因は自分にある。のファンネーム）の力もあっ.. 投稿 原因は自分にある。「小籠包を食べてアツい話をした",
         "groups": [
           "原因は自分にある。"
         ],
@@ -97,21 +184,68 @@
         "memberMatches": []
       },
       {
-        "id": "35c1a5d172abf859",
-        "title": "原因は自分にある。、自身最大規模ツアー＜LIVE TOUR 2027 深溟＞開催決定",
-        "sourceName": "BARKS",
-        "sourceUrl": "https://www.barks.jp/feed/",
-        "articleUrl": "https://barks.jp/news/1103941",
-        "publishedAt": "2026-11-11T11:36:58.000Z",
-        "summary": "原因は自分にある。が、2027年春より＜LIVE TOUR 2027 深溟＞を開催することを発表した。 本ツアーは3月17日の神奈川・横須賀芸術劇場での公演を皮切りに、8月1日の東京・立川ステージガーデンでの公演まで11都市34公演と自身最大規模のツアーとなる。チケットは本日20時からファンクラブ先行がスタートしている。 原因は自分にある。は、5thシングル",
+        "id": "a6f169033670b09b",
+        "title": "【ライブレポート】原因は自分にある。「ラブリーズン」発売記念フリーライブで1万人が熱狂「ここがゴールじゃないですから」（杢代和人）",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/report/0000917326/",
+        "publishedAt": "2026-11-12T05:10:57.000Z",
+        "summary": "原因は自分にある。（通称：ゲンジブ）が、5thシングル「ラブリーズン」を11月11日にリリース...",
         "groups": [
           "原因は自分にある。"
         ],
-        "statuses": [],
-        "memberMatches": []
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "杢代和人",
+            "group": "原因は自分にある。",
+            "status": "active"
+          }
+        ]
       }
     ],
     "超特急": [
+      {
+        "id": "3f15ce714e5c0332",
+        "title": "超特急、結成15周年記念企画展『超ハチャメチャトレイン』開催決定！撮りおろし写真、等身大パネルなどを展示",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000917613/",
+        "publishedAt": "2026-11-12T08:47:53.000Z",
+        "summary": "超特急の結成15周年を記念した企画展『超特急 15th Anniversary Museum「超ハチャメチャトレイ...",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "870973f33950e3a6",
+        "title": "実は兄弟だった！超特急のタクヤ、BUDDiiSのもーりーしゅーとなどEBiDANの兄弟アーティストを紹介",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000916041/",
+        "publishedAt": "2026-11-12T07:00:14.000Z",
+        "summary": "超特急、M!LK、ONE N’ ONLY、BUDDiiSなど、様々グループが活動している、スターダストプ...",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK",
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "タクヤ",
+            "group": "超特急",
+            "status": "active"
+          }
+        ]
+      },
       {
         "id": "95738e2f147ef3cd",
         "title": "超特急・柏木悠、韓国で累計2億ビューの人気マンガ実写化で主演 濱尾ノリタカ＆大友花恋と複雑な友情描く「青春をぜひとも浴びてください!」",
@@ -161,141 +295,138 @@
             "status": "active"
           }
         ]
+      }
+    ],
+    "EBiDAN": [
+      {
+        "id": "870973f33950e3a6",
+        "title": "実は兄弟だった！超特急のタクヤ、BUDDiiSのもーりーしゅーとなどEBiDANの兄弟アーティストを紹介",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000916041/",
+        "publishedAt": "2026-11-12T07:00:14.000Z",
+        "summary": "超特急、M!LK、ONE N’ ONLY、BUDDiiSなど、様々グループが活動している、スターダストプ...",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK",
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "タクヤ",
+            "group": "超特急",
+            "status": "active"
+          }
+        ]
       },
       {
-        "id": "6865cd3cb597efa2",
-        "title": "危うく強い鈴木伸之に柏木悠が宿す意思とは、映画『羊の皮を着たケモノ』緊張感漂う場面写真解禁",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/10/93934/",
-        "publishedAt": "2026-10-23T03:00:00.000Z",
-        "summary": "鈴木伸之と柏木悠（超特急）がW主演を務め、12月11日(金)に公開される映画『羊の皮を着たケモノ』の場面写真5点が解禁された。 本作は、九號（きゅうごう）による同名BL漫画を実写化した、骨太で新感覚のボーイズ・ラブ。原作は「BLアワード2022 ディープ部門」で第13位、「BLアワード2024 ディープ部門」で第3位を獲得した人気作で、物語は前半の明るく甘い",
+        "id": "8c1bb579c42e7230",
+        "title": "＜EBiDAN スペシャルブック＆Blu-rayの2作品発売記念＞＠Loppi・HMV限定 EBiDANオリジナルグッズ発売決定！2026年11月13日(金)10:00より予約受付開始！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11974/",
+        "publishedAt": "2026-11-12T07:00:06.000Z",
+        "summary": "このたび、2027年2月10日に発売されるEBiDANメンバーの撮り下ろしショットや各メンバーの15年年表、15周年への思いなどが掲載される書籍『EBiDAN Visual Dictionary 2027～15th An […] The post ＜EBiDAN スペシャルブック＆Blu-rayの2作品発売記念＞＠Loppi・HMV限定 EBiDANオリジナ",
         "groups": [
-          "超特急"
+          "EBiDAN",
+          "SUPER★DRAGON"
         ],
         "statuses": [],
         "memberMatches": []
       },
       {
-        "id": "ab6a92dadbc653fa",
-        "title": "鈴木伸之×柏木悠W主演『羊の皮を着たケモノ』12月11日劇場公開、ミステリアスなポスター解禁",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/10/93399/",
-        "publishedAt": "2026-10-12T09:00:00.000Z",
-        "summary": "鈴木伸之と柏木悠（超特急）がW主演を務める映画『羊の皮を着たケモノ』が12月11日(金)に公開されることが決定し、ポスタービジュアルが解禁された。 本作は、九號（きゅうごう）による同名BL漫画（徳間書店 Charaコミックス刊）を実写化した、骨太で新感覚のボーイズ・ラブ。原作は「BLアワード2022 ディープ部門」で第13位、「BLアワード2024 ディープ",
+        "id": "db4ee1640310da06",
+        "title": "『EBiDANくじvol.3 ～I feel warm inside when I’m with you.～』の発売が決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11961/",
+        "publishedAt": "2026-11-09T01:00:20.000Z",
+        "summary": "EBiDANグループくじ第3弾となる『EBiDANくじvol.3 ～I feel warm inside when I’m with you.～』が、2026年2月12日（金）より発売いたします！ 発売日：2 […] The post 『EBiDANくじvol.3 ～I feel warm inside when I’m with you.～』の発売が決定！",
         "groups": [
-          "超特急"
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "1435a68b28c395c7",
+        "title": "【＠Loppi・HMV限定盤】Blu-ray『EBiDAN THE LIVE 2026 15th Anniversary』2027年2月10日(水)発売決定！さらにEBiDAN15周年アニバーサリーエディション版『EBiDAN Visual Dictionary 2027～15th Anniversary Edition～』も同時発売！本日より予約受付開始！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11875/",
+        "publishedAt": "2026-10-28T07:00:39.000Z",
+        "summary": "＠Loppi・HMV限定盤 Blu-ray『EBiDAN THE LIVE 2026 15th Anniversary』と、EBiDAN15周年アニバーサリーエディション版『EBiDAN Visual Dictionar […] The post 【＠Loppi・HMV限定盤】Blu-ray『EBiDAN THE LIVE 2026 15th Anniver",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "2d9e4e423771c6b6",
+        "title": "EBiDAN オンラインくじ vol.2発売決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11856/",
+        "publishedAt": "2026-10-23T07:00:16.000Z",
+        "summary": "「EBiDAN museum 2026」の大盛況を記念し、10月26日(月)13:00より「EBiDAN オンラインくじ vol.2」の販売が決定しました！ グループ別のくじとなり、それぞれ全5等級のいずれかの景品が必ず […] The post EBiDAN オンラインくじ vol.2発売決定！ first appeared on SUPER★DRAGON",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
         ],
         "statuses": [],
         "memberMatches": []
       }
     ],
-    "M!LK": [
+    "BUDDiiS": [
       {
-        "id": "e86de9b4bae5593e",
-        "title": "佐野勇斗がローソン新TVCMで明るくナビゲート！梅沢富美男の体を張った演技にも注目",
+        "id": "870973f33950e3a6",
+        "title": "実は兄弟だった！超特急のタクヤ、BUDDiiSのもーりーしゅーとなどEBiDANの兄弟アーティストを紹介",
         "sourceName": "THE FIRST TIMES",
         "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000917009/",
-        "publishedAt": "2026-11-11T19:00:16.000Z",
-        "summary": "M!LKの佐野勇斗、梅沢富美男、上坂樹里、ヒコロヒーが出演するローソンの新TVCM『超ハッピーす...",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000916041/",
+        "publishedAt": "2026-11-12T07:00:14.000Z",
+        "summary": "超特急、M!LK、ONE N’ ONLY、BUDDiiSなど、様々グループが活動している、スターダストプ...",
         "groups": [
-          "M!LK"
+          "EBiDAN",
+          "超特急",
+          "M!LK",
+          "BUDDiiS"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "db3f8e8c7aae2fd2",
-        "title": "「いちるの望みがある」「デカい筆で…」M!LK吉田仁人、年末に期待していること明かす 今年は「好き滅」で「流行語大賞」ノミネート",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20261111-5294021/",
-        "publishedAt": "2026-11-11T10:00:00.000Z",
-        "summary": "「たくさんの方に曲を聴いていただけたってことだから」――。アイドルグループ・M!LKの吉田仁人が5日、文化放送のラジオ番組『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)に出演。「現代用語の基礎知識選 2026T&D保険グループ新語・流行語大賞」ノミネート30語入りを喜んだ。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "6a65d0ba5d7d9992",
-        "title": "YUMEKIのダンスは何気ない生活からやってくる。「Neko（ねこ）」で立証された五感とダンスの関係性",
-        "sourceName": "QJWeb",
-        "sourceUrl": "https://qjweb.jp/feed/",
-        "articleUrl": "https://qjweb.jp/feature/166301/",
-        "publishedAt": "2026-11-11T09:00:00.000Z",
-        "summary": "13歳からダンスを始め、日本、韓国、中国、アメリカなど数々の国境を越え、ダンスとの仲を深めていったYUMEKI。これまで日本でM!LK、ME:I、King & Prince、韓国ではILLIT、ITZY、NCT 127などの有名アーティストを振り付けてきた。 2026年には、『PRODUCE.. 投稿 YUMEKIのダンスは何気ない生活からやってくる。「Ne",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "cc1f6848609f57e7",
-        "title": "M!LK吉田仁人の横顔を差し込む光が照らす！柱にもたれ腕を組んでこちらを見つめる姿も「オフショがジャケ写レベル」「儚くてかっこいい」「今まで見たことない表情！」の声",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000916820/",
-        "publishedAt": "2026-11-11T06:41:33.000Z",
-        "summary": "M!LKの吉田仁人が自身のInstagramを更新。ソロ曲「愛の形」のオフショットを公開した。同曲は1...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "570a724bf3584784",
-        "title": "M!LK山中柔太朗が好物を食べる姿に「もぐもぐするたびにえくぼが出るのかわいい」と話題！カトラリーを持つ美しい所作にも注目",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000916833/",
-        "publishedAt": "2026-11-11T06:17:08.000Z",
-        "summary": "M!LK山中柔太朗が大好物のチーズがかかったハンバーグを食べる姿が公開された。山中は、11月20...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
+            "name": "タクヤ",
+            "group": "超特急",
             "status": "active"
           }
         ]
       }
     ],
     "SUPER★DRAGON": [
+      {
+        "id": "8c1bb579c42e7230",
+        "title": "＜EBiDAN スペシャルブック＆Blu-rayの2作品発売記念＞＠Loppi・HMV限定 EBiDANオリジナルグッズ発売決定！2026年11月13日(金)10:00より予約受付開始！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11974/",
+        "publishedAt": "2026-11-12T07:00:06.000Z",
+        "summary": "このたび、2027年2月10日に発売されるEBiDANメンバーの撮り下ろしショットや各メンバーの15年年表、15周年への思いなどが掲載される書籍『EBiDAN Visual Dictionary 2027～15th An […] The post ＜EBiDAN スペシャルブック＆Blu-rayの2作品発売記念＞＠Loppi・HMV限定 EBiDANオリジナ",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
       {
         "id": "d5f4827c5bde3268",
         "title": "【イベント内容変更のお知らせ】11/14(土)開催リリースイベント＠東京ドームシティ ラクーア（東京）",
@@ -348,97 +479,6 @@
         "publishedAt": "2026-11-06T11:00:45.000Z",
         "summary": "11月14日(土)東京ドームシティ ラクーアにて開催するリリースイベントの詳細をご案内致します。 必ず最後まで全てお読み頂き、会場にいらした皆様がイベントを楽しめるよう、ファンの皆様同士でルールとマナーの厳守をお願い致し […] The post 【リリースイベント】11月14日(土)開催＠東京ドームシティ ラクーア（東京）参加方法・特典会内容についてのご案",
         "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "e88ed738b0355781",
-        "title": "11/15(日)開催リリースイベント＠ベルサール東京日本橋（東京）参加方法・特典会内容についてのご案内",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11946/",
-        "publishedAt": "2026-11-06T11:00:40.000Z",
-        "summary": "11/15(日)ベルサール東京日本橋にて開催するリリースイベントの詳細をご案内致します。 必ず最後まで全てお読み頂き、会場にいらした皆様がイベントを楽しめるよう、ファンの皆様同士でルールとマナーの厳守をお願い致します。 […] The post 11/15(日)開催リリースイベント＠ベルサール東京日本橋（東京）参加方法・特典会内容についてのご案内 first",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "EBiDAN": [
-      {
-        "id": "db4ee1640310da06",
-        "title": "『EBiDANくじvol.3 ～I feel warm inside when I’m with you.～』の発売が決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11961/",
-        "publishedAt": "2026-11-09T01:00:20.000Z",
-        "summary": "EBiDANグループくじ第3弾となる『EBiDANくじvol.3 ～I feel warm inside when I’m with you.～』が、2026年2月12日（金）より発売いたします！ 発売日：2 […] The post 『EBiDANくじvol.3 ～I feel warm inside when I’m with you.～』の発売が決定！",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "1435a68b28c395c7",
-        "title": "【＠Loppi・HMV限定盤】Blu-ray『EBiDAN THE LIVE 2026 15th Anniversary』2027年2月10日(水)発売決定！さらにEBiDAN15周年アニバーサリーエディション版『EBiDAN Visual Dictionary 2027～15th Anniversary Edition～』も同時発売！本日より予約受付開始！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11875/",
-        "publishedAt": "2026-10-28T07:00:39.000Z",
-        "summary": "＠Loppi・HMV限定盤 Blu-ray『EBiDAN THE LIVE 2026 15th Anniversary』と、EBiDAN15周年アニバーサリーエディション版『EBiDAN Visual Dictionar […] The post 【＠Loppi・HMV限定盤】Blu-ray『EBiDAN THE LIVE 2026 15th Anniver",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "2d9e4e423771c6b6",
-        "title": "EBiDAN オンラインくじ vol.2発売決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11856/",
-        "publishedAt": "2026-10-23T07:00:16.000Z",
-        "summary": "「EBiDAN museum 2026」の大盛況を記念し、10月26日(月)13:00より「EBiDAN オンラインくじ vol.2」の販売が決定しました！ グループ別のくじとなり、それぞれ全5等級のいずれかの景品が必ず […] The post EBiDAN オンラインくじ vol.2発売決定！ first appeared on SUPER★DRAGON",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "79db83af4ca4bd66",
-        "title": "第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ&生写真セット 事後通販決定！！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11822/",
-        "publishedAt": "2026-10-19T07:00:01.000Z",
-        "summary": "第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ&生写真セットの事後通販が決定しました！ 残りわずかな商品もございますので、ぜひこの機会にご利用ください！ ****************** […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ&生写真セット 事後通販決定！！ first app",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "4c9519734cc191ec",
-        "title": "第6回 EBiDAN 大運動会 『スポーツマンヒップ！』ファンクラブブース情報！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11754/",
-        "publishedAt": "2026-10-09T06:30:06.000Z",
-        "summary": "第6回 EBiDAN 大運動会 『スポーツマンヒップ！』ファンクラブブースの受付が決定いたしました。 当日は、対象期間中に各EBiDANファンクラブで【新規入会・継続・お友達紹介】をされた方、 または各＋KIRARIコミ […] The post 第6回 EBiDAN 大運動会 『スポーツマンヒップ！』ファンクラブブース情報！ first appeared ",
-        "groups": [
-          "EBiDAN",
           "SUPER★DRAGON"
         ],
         "statuses": [],

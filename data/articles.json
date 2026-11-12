@@ -1,19 +1,117 @@
 {
-  "updatedAt": "2026-11-12T00:43:02.810Z",
+  "updatedAt": "2026-11-12T15:13:29.359Z",
   "articles": [
     {
-      "id": "55b3b69cbdb56fd5",
-      "title": "原因は自分にある。がフリーライブに1万人動員 新曲初披露で「1位を取るのは初めて」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1096424/",
-      "publishedAt": "2026-11-12T00:10:00.000Z",
-      "summary": "7人組ダンスボーカルグループ・原因は自分にある。（通称：ゲンジブ）が11日、神奈川県の横浜赤レンガ倉庫 赤レンガパーク特設会場で5thシングル『ラブリーズン』リリース記念フリーライブを開催。グループ初となるフリーライブは […]",
+      "id": "c1cc1dd8f8c03179",
+      "title": "「あんま調子乗んなよ」幼少期に父親が放った一言で無邪気にはしゃげなくなってしまったリスナー M!LK吉田仁人「怖っ!」「その日ぐらいは見過ごしてあげても…」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261112-5294161/",
+      "publishedAt": "2026-11-12T10:00:00.000Z",
+      "summary": "「その日から、何事にも粛々と取り組む人間になりました」――アイドルグループ・M!LKの吉田仁人が5日、文化放送のラジオ番組『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)に出演。“親の一言”で無邪気にはしゃげなくなってしまったリスナーからのメールを紹介した。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "18f9902c753f1de9",
+      "title": "原因は自分にある。「小籠包を食べてアツい話をした」思い出の地に1万人の観測者が集う【『ラブリーズン』リリース記念フリーライブ】",
+      "sourceName": "QJWeb",
+      "sourceUrl": "https://qjweb.jp/feed/",
+      "articleUrl": "https://qjweb.jp/column/168061/",
+      "publishedAt": "2026-11-12T09:00:00.000Z",
+      "summary": "原因は自分にある。の5thシングル『ラブリーズン』のリリース記念フリーライブが、2026年11月11日（水）に横浜赤レンガ倉庫で開催された。 これまで、原因は自分にある。のリリースイベントといえば商業施設などにて行われていた印象だが、昨今は急増する観測者（原因は自分にある。のファンネーム）の力もあっ.. 投稿 原因は自分にある。「小籠包を食べてアツい話をした",
       "groups": [
         "原因は自分にある。"
       ],
       "statuses": [],
       "memberMatches": []
+    },
+    {
+      "id": "3f15ce714e5c0332",
+      "title": "超特急、結成15周年記念企画展『超ハチャメチャトレイン』開催決定！撮りおろし写真、等身大パネルなどを展示",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000917613/",
+      "publishedAt": "2026-11-12T08:47:53.000Z",
+      "summary": "超特急の結成15周年を記念した企画展『超特急 15th Anniversary Museum「超ハチャメチャトレイ...",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "870973f33950e3a6",
+      "title": "実は兄弟だった！超特急のタクヤ、BUDDiiSのもーりーしゅーとなどEBiDANの兄弟アーティストを紹介",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000916041/",
+      "publishedAt": "2026-11-12T07:00:14.000Z",
+      "summary": "超特急、M!LK、ONE N’ ONLY、BUDDiiSなど、様々グループが活動している、スターダストプ...",
+      "groups": [
+        "EBiDAN",
+        "超特急",
+        "M!LK",
+        "BUDDiiS"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "タクヤ",
+          "group": "超特急",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "8c1bb579c42e7230",
+      "title": "＜EBiDAN スペシャルブック＆Blu-rayの2作品発売記念＞＠Loppi・HMV限定 EBiDANオリジナルグッズ発売決定！2026年11月13日(金)10:00より予約受付開始！",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news11974/",
+      "publishedAt": "2026-11-12T07:00:06.000Z",
+      "summary": "このたび、2027年2月10日に発売されるEBiDANメンバーの撮り下ろしショットや各メンバーの15年年表、15周年への思いなどが掲載される書籍『EBiDAN Visual Dictionary 2027～15th An […] The post ＜EBiDAN スペシャルブック＆Blu-rayの2作品発売記念＞＠Loppi・HMV限定 EBiDANオリジナ",
+      "groups": [
+        "EBiDAN",
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "a6f169033670b09b",
+      "title": "【ライブレポート】原因は自分にある。「ラブリーズン」発売記念フリーライブで1万人が熱狂「ここがゴールじゃないですから」（杢代和人）",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/report/0000917326/",
+      "publishedAt": "2026-11-12T05:10:57.000Z",
+      "summary": "原因は自分にある。（通称：ゲンジブ）が、5thシングル「ラブリーズン」を11月11日にリリース...",
+      "groups": [
+        "原因は自分にある。"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "杢代和人",
+          "group": "原因は自分にある。",
+          "status": "active"
+        }
+      ]
     },
     {
       "id": "95738e2f147ef3cd",
@@ -30,64 +128,6 @@
       "memberMatches": []
     },
     {
-      "id": "e86de9b4bae5593e",
-      "title": "佐野勇斗がローソン新TVCMで明るくナビゲート！梅沢富美男の体を張った演技にも注目",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000917009/",
-      "publishedAt": "2026-11-11T19:00:16.000Z",
-      "summary": "M!LKの佐野勇斗、梅沢富美男、上坂樹里、ヒコロヒーが出演するローソンの新TVCM『超ハッピーす...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "35c1a5d172abf859",
-      "title": "原因は自分にある。、自身最大規模ツアー＜LIVE TOUR 2027 深溟＞開催決定",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1103941",
-      "publishedAt": "2026-11-11T11:36:58.000Z",
-      "summary": "原因は自分にある。が、2027年春より＜LIVE TOUR 2027 深溟＞を開催することを発表した。 本ツアーは3月17日の神奈川・横須賀芸術劇場での公演を皮切りに、8月1日の東京・立川ステージガーデンでの公演まで11都市34公演と自身最大規模のツアーとなる。チケットは本日20時からファンクラブ先行がスタートしている。 原因は自分にある。は、5thシングル",
-      "groups": [
-        "原因は自分にある。"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "db3f8e8c7aae2fd2",
-      "title": "「いちるの望みがある」「デカい筆で…」M!LK吉田仁人、年末に期待していること明かす 今年は「好き滅」で「流行語大賞」ノミネート",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-      "articleUrl": "https://news.mynavi.jp/article/20261111-5294021/",
-      "publishedAt": "2026-11-11T10:00:00.000Z",
-      "summary": "「たくさんの方に曲を聴いていただけたってことだから」――。アイドルグループ・M!LKの吉田仁人が5日、文化放送のラジオ番組『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)に出演。「現代用語の基礎知識選 2026T&D保険グループ新語・流行語大賞」ノミネート30語入りを喜んだ。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "6a65d0ba5d7d9992",
       "title": "YUMEKIのダンスは何気ない生活からやってくる。「Neko（ねこ）」で立証された五感とダンスの関係性",
       "sourceName": "QJWeb",
@@ -100,50 +140,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "cc1f6848609f57e7",
-      "title": "M!LK吉田仁人の横顔を差し込む光が照らす！柱にもたれ腕を組んでこちらを見つめる姿も「オフショがジャケ写レベル」「儚くてかっこいい」「今まで見たことない表情！」の声",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000916820/",
-      "publishedAt": "2026-11-11T06:41:33.000Z",
-      "summary": "M!LKの吉田仁人が自身のInstagramを更新。ソロ曲「愛の形」のオフショットを公開した。同曲は1...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "570a724bf3584784",
-      "title": "M!LK山中柔太朗が好物を食べる姿に「もぐもぐするたびにえくぼが出るのかわいい」と話題！カトラリーを持つ美しい所作にも注目",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000916833/",
-      "publishedAt": "2026-11-11T06:17:08.000Z",
-      "summary": "M!LK山中柔太朗が大好物のチーズがかかったハンバーグを食べる姿が公開された。山中は、11月20...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "山中柔太朗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "d5f4827c5bde3268",
@@ -195,42 +191,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "2ac413a4f1b05299",
-      "title": "櫻井翔『ベストアーティスト』18年連続総合司会「特等席でとても楽しみながら」 25周年の出演者第1弾発表",
-      "sourceName": "マイナビニュース テレビ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-      "articleUrl": "https://news.mynavi.jp/article/20261108-5276591/",
-      "publishedAt": "2026-11-07T20:00:00.000Z",
-      "summary": "櫻井翔が総合司会を務める日本テレビ系音楽特番『ベストアーティスト2026』が、11月28日(16:00～)に約5時間にわたって生放送される。第1弾出演アーティストとして、Mrs. GREEN APPLE、SixTONES、HANA、M!LK、King ＆ Prince、timelesz、Travis Japanら13組が発表された。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "a216ec6ed5924451",
-      "title": "不思議な表情を浮かべたM!LK吉田仁人 後日ラジオで語られた言葉に触れて少し心境を理解できた気がした 【M!LK吉田仁人インタビュー編集後記】",
-      "sourceName": "マイナビニュース テレビ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-      "articleUrl": "https://news.mynavi.jp/article/20261107-5261204/",
-      "publishedAt": "2026-11-07T10:00:00.000Z",
-      "summary": "「こんなにたくさん……?」。そんな心の声が聞こえてきそうな表情だった。TOKYO MXドラマ『溺愛 ～実は、最強ヒーロー～ 』(毎週金曜23:00～)で、連続ドラマ初主演を務めるM!LKの吉田仁人。先日、同作の合同取材に参加した際、印象的な光景を目にした。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "6900d7efa795e006",
@@ -301,28 +261,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "2de5ffa2ee821699",
-      "title": "M!LK佐野勇斗、今年“やめたもの”を告白「春夏秋冬、全部…」「傍から見たら…」",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20261105-5254500/",
-      "publishedAt": "2026-11-05T11:00:00.000Z",
-      "summary": "5人組ダンスボーカルグループ・M!LKの佐野勇斗が雑誌『日経トレンディ』(日経BP社)が選ぶ「今年の顔」に選出され、3日に都内で行われた「2026年ヒット商品&2027年ヒット予測」発表会に出席した。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "de1d3d44f9ecff7a",
@@ -1975,21 +1913,6 @@
       "articleUrl": "https://super-dragon.jp/news/news11304/",
       "publishedAt": "2026-06-25T07:00:10.000Z",
       "summary": "EBiDANと過ごす、特別な夏がやってくる！『EBiDAN museum 2026』2026年8月15日(土)より全国4会場のhmv museumで同時開催が決定しました！ 今年のテーマは“EBiDANの夏休み”！ 本展 […] The post 【8/7(金)更新】EBiDANと過ごす、特別な夏がやってくる！2026年8月15日(土)より全国4会場のhmv",
-      "groups": [
-        "EBiDAN",
-        "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "6da54313819da781",
-      "title": "EBiDAN THE LIVE 2026 15th Anniversary 最新チケット情報",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news11300/",
-      "publishedAt": "2026-06-23T11:30:31.000Z",
-      "summary": "本日6月23日(火)20:00より「アップグレードチケット」受付が開始！ 「アップグレードチケット」は、対象先行にて「指定席」のチケットに当選・入金済みの方のみお申込みいただけます。 ※対象先行にお申込みいただいたお申込 […] The post EBiDAN THE LIVE 2026 15th Anniversary 最新チケット情報 first app",
       "groups": [
         "EBiDAN",
         "SUPER★DRAGON"
