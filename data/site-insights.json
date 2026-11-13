@@ -1,52 +1,40 @@
 {
-  "updatedAt": "2026-11-12T23:38:29.979Z",
+  "updatedAt": "2026-11-13T06:44:13.146Z",
   "totals": {
-    "all": 122,
-    "today": 2,
-    "week": 17
+    "all": 130,
+    "today": 11,
+    "week": 25
   },
   "groupRanking": [
     {
-      "name": "SUPER★DRAGON",
-      "count": 7
-    },
-    {
       "name": "M!LK",
-      "count": 6
+      "count": 9
     },
     {
       "name": "EBiDAN",
-      "count": 4
+      "count": 7
     },
     {
-      "name": "超特急",
-      "count": 4
+      "name": "SUPER★DRAGON",
+      "count": 7
     },
     {
       "name": "原因は自分にある。",
       "count": 2
     },
     {
-      "name": "BUDDiiS",
-      "count": 1
+      "name": "超特急",
+      "count": 2
     }
   ],
   "memberRanking": [
     {
       "name": "吉田仁人",
-      "count": 2
-    },
-    {
-      "name": "タクヤ",
-      "count": 1
+      "count": 6
     },
     {
       "name": "山中柔太朗",
-      "count": 1
-    },
-    {
-      "name": "杢代和人",
-      "count": 1
+      "count": 2
     }
   ],
   "sourceRanking": [
@@ -56,10 +44,26 @@
     },
     {
       "name": "THE FIRST TIMES",
+      "count": 5
+    },
+    {
+      "name": "タワーレコード ニュース",
       "count": 3
     },
     {
+      "name": "BARKS",
+      "count": 2
+    },
+    {
       "name": "QJWeb",
+      "count": 2
+    },
+    {
+      "name": "マイナビニュース エンタメ",
+      "count": 2
+    },
+    {
+      "name": "リアルサウンド 音楽",
       "count": 2
     },
     {
@@ -67,19 +71,7 @@
       "count": 1
     },
     {
-      "name": "マイナビニュース エンタメ",
-      "count": 1
-    },
-    {
       "name": "マイナビニュース テレビ",
-      "count": 1
-    },
-    {
-      "name": "リアルサウンド 音楽",
-      "count": 1
-    },
-    {
-      "name": "日刊スポーツ 芸能",
       "count": 1
     }
   ],
@@ -87,147 +79,202 @@
   "recentByGroup": {
     "EBiDAN": [
       {
-        "id": "0cfa18e5e8300b3c",
-        "title": "EBiDANが紅白歌合戦のステージへ「Yes！東京」が大ヒット",
-        "sourceName": "日刊スポーツ 芸能",
-        "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-        "articleUrl": "https://www.nikkansports.com/entertainment/news/202611120002093.html",
-        "publishedAt": "2026-11-12T22:00:00.000Z",
-        "summary": "超特急やM！LKら、スターダストプロモーションに所属する若手男性アーティスト集団、EBiDAN（恵比寿学園男子部）が、大みそかの第77回NHK紅白歌合戦（午後7時20分）に初出場することが内定した。12日、複数の関係者への取材で分かった…",
+        "id": "ea531fef8b52d551",
+        "title": "【会見レポート】『第77回NHK紅白歌合戦』初出場アーティスト意気込み",
+        "sourceName": "BARKS",
+        "sourceUrl": "https://www.barks.jp/feed/",
+        "articleUrl": "https://barks.jp/news/1104191",
+        "publishedAt": "2026-11-13T06:21:03.000Z",
+        "summary": "2025年12月31日午後7時20分より放送される『第76回NHK紅白歌合戦』。今回初出場となったアーティストの、記者会見の模様をお届けする。 ◆ ◆ ◆ ◼︎=LOVE 夢の『紅白歌合戦』への出場、本当に嬉しいです。私たちは2017年に結成し、今年で9周年を迎えました。ここまで支えてきてくださったファンの皆さん、そしてここまで育ててきてくださった指原プロデ",
         "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK"
+          "EBiDAN"
         ],
         "statuses": [],
         "memberMatches": []
       },
       {
-        "id": "870973f33950e3a6",
-        "title": "実は兄弟だった！超特急のタクヤ、BUDDiiSのもーりーしゅーとなどEBiDANの兄弟アーティストを紹介",
+        "id": "b4b57e8c690cd34e",
+        "title": "『第77回NHK紅白歌合戦』出場者発表 初出場はCUTIE STREET、＝LOVE、EBiDAN、モナキ、Aぇ! groupら7組",
+        "sourceName": "リアルサウンド 音楽",
+        "sourceUrl": "https://realsound.jp/music/feed",
+        "articleUrl": "https://realsound.jp/2026/11/post-2582616.html",
+        "publishedAt": "2026-11-13T04:20:31.000Z",
+        "summary": "『第77回NHK紅白歌合戦』（NHK総合）の出場アーティストが発表された。",
+        "groups": [
+          "EBiDAN"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "6b11a2e2c8aca308",
+        "title": "『紅白』出場歌手発表 Aぇ! group、CUTIE STREET、マカロニえんぴつ、=LOVE、EBiDAN、モナキ、Ayumu Imazuらが初出場 特別企画ではあの大物歌手がソロで初出場",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20261113-5314979/",
+        "publishedAt": "2026-11-13T04:14:24.000Z",
+        "summary": "『第77回NHK紅白歌合戦』(12月31日19:20～23:45 ※中断ニュースあり)の出場歌手が、きょう13日に行われた会見で発表された。",
+        "groups": [
+          "EBiDAN"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "4506df37dd7b4fff",
+        "title": "『第77回NHK紅白歌合戦』出場歌手発表！初出場は＝LOVE、CUTIE STREET、Ayumu Imazu、Aぇ! group、EBiDAN、マカロニえんぴつ、モナキ、稲葉浩志の8組",
         "sourceName": "THE FIRST TIMES",
         "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000916041/",
-        "publishedAt": "2026-11-12T07:00:14.000Z",
-        "summary": "超特急、M!LK、ONE N’ ONLY、BUDDiiSなど、様々グループが活動している、スターダストプ...",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000918136/",
+        "publishedAt": "2026-11-13T04:10:46.000Z",
+        "summary": "12月31日に放送される『第77回NHK紅白歌合戦』の出場歌手が決定。11月13日13時より東京・NHK放...",
         "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK",
-          "BUDDiiS"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "タクヤ",
-            "group": "超特急",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "8c1bb579c42e7230",
-        "title": "＜EBiDAN スペシャルブック＆Blu-rayの2作品発売記念＞＠Loppi・HMV限定 EBiDANオリジナルグッズ発売決定！2026年11月13日(金)10:00より予約受付開始！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11974/",
-        "publishedAt": "2026-11-12T07:00:06.000Z",
-        "summary": "このたび、2027年2月10日に発売されるEBiDANメンバーの撮り下ろしショットや各メンバーの15年年表、15周年への思いなどが掲載される書籍『EBiDAN Visual Dictionary 2027～15th An […] The post ＜EBiDAN スペシャルブック＆Blu-rayの2作品発売記念＞＠Loppi・HMV限定 EBiDANオリジナ",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
+          "EBiDAN"
         ],
         "statuses": [],
         "memberMatches": []
       },
       {
-        "id": "db4ee1640310da06",
-        "title": "『EBiDANくじvol.3 ～I feel warm inside when I’m with you.～』の発売が決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11961/",
-        "publishedAt": "2026-11-09T01:00:20.000Z",
-        "summary": "EBiDANグループくじ第3弾となる『EBiDANくじvol.3 ～I feel warm inside when I’m with you.～』が、2026年2月12日（金）より発売いたします！ 発売日：2 […] The post 『EBiDANくじvol.3 ～I feel warm inside when I’m with you.～』の発売が決定！",
+        "id": "6488dadca6fa7599",
+        "title": "『第77回NHK紅白歌合戦』出演者発表。初出場にCUTIE STREET、モナキ、Aぇ! group、EBiDANら7組。特別企画に稲葉浩志",
+        "sourceName": "BARKS",
+        "sourceUrl": "https://www.barks.jp/feed/",
+        "articleUrl": "https://barks.jp/news/1104068",
+        "publishedAt": "2026-11-13T04:07:58.000Z",
+        "summary": "「こえていこう、歌とともに。」をテーマに、2026年12月31日午後7時20分より放送される『第77回NHK紅白歌合戦』の出場者が発表された。 出場者は下記。初出演は紅組に=LOVE、CUTIE STREET。白組にAyumu Imazu、Aぇ! group、EBiDAN、マカロニえんぴつ、モナキの合計7組となった。加えて特別企画には稲葉浩志が出演する。 な",
         "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "1435a68b28c395c7",
-        "title": "【＠Loppi・HMV限定盤】Blu-ray『EBiDAN THE LIVE 2026 15th Anniversary』2027年2月10日(水)発売決定！さらにEBiDAN15周年アニバーサリーエディション版『EBiDAN Visual Dictionary 2027～15th Anniversary Edition～』も同時発売！本日より予約受付開始！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11875/",
-        "publishedAt": "2026-10-28T07:00:39.000Z",
-        "summary": "＠Loppi・HMV限定盤 Blu-ray『EBiDAN THE LIVE 2026 15th Anniversary』と、EBiDAN15周年アニバーサリーエディション版『EBiDAN Visual Dictionar […] The post 【＠Loppi・HMV限定盤】Blu-ray『EBiDAN THE LIVE 2026 15th Anniver",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
+          "EBiDAN"
         ],
         "statuses": [],
         "memberMatches": []
       }
     ],
-    "超特急": [
+    "M!LK": [
       {
-        "id": "0cfa18e5e8300b3c",
-        "title": "EBiDANが紅白歌合戦のステージへ「Yes！東京」が大ヒット",
-        "sourceName": "日刊スポーツ 芸能",
-        "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-        "articleUrl": "https://www.nikkansports.com/entertainment/news/202611120002093.html",
-        "publishedAt": "2026-11-12T22:00:00.000Z",
-        "summary": "超特急やM！LKら、スターダストプロモーションに所属する若手男性アーティスト集団、EBiDAN（恵比寿学園男子部）が、大みそかの第77回NHK紅白歌合戦（午後7時20分）に初出場することが内定した。12日、複数の関係者への取材で分かった…",
+        "id": "a924df6e612bc289",
+        "title": "M!LK吉田仁人が挑発的な眼差しで見下ろす“ちょいオラ”姿に反響！「ビシュ爆裂」「これは良すぎる」「Rockerって感じ」の声",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000918114/",
+        "publishedAt": "2026-11-13T05:38:12.000Z",
+        "summary": "吉田仁人（M!LK）が、雑誌『⾳楽と⼈』の増刊『ON VOICE Vol.6』の表紙に登場。そのビジュアル...",
         "groups": [
-          "EBiDAN",
-          "超特急",
           "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "3f15ce714e5c0332",
-        "title": "超特急、結成15周年記念企画展『超ハチャメチャトレイン』開催決定！撮りおろし写真、等身大パネルなどを展示",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000917613/",
-        "publishedAt": "2026-11-12T08:47:53.000Z",
-        "summary": "超特急の結成15周年を記念した企画展『超特急 15th Anniversary Museum「超ハチャメチャトレイ...",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "870973f33950e3a6",
-        "title": "実は兄弟だった！超特急のタクヤ、BUDDiiSのもーりーしゅーとなどEBiDANの兄弟アーティストを紹介",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000916041/",
-        "publishedAt": "2026-11-12T07:00:14.000Z",
-        "summary": "超特急、M!LK、ONE N’ ONLY、BUDDiiSなど、様々グループが活動している、スターダストプ...",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK",
-          "BUDDiiS"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "タクヤ",
-            "group": "超特急",
+            "name": "吉田仁人",
+            "group": "M!LK",
             "status": "active"
           }
         ]
+      },
+      {
+        "id": "003b848c8adcd409",
+        "title": "M!LK山中柔太朗×BE:FIRSTジュノン×FANTASTICS中島颯太の仲良し3ショットに反響！“ジニチル”幹部集結に「サッカー三銃士イケメンすぎる」「豪華メンバー」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000918077/",
+        "publishedAt": "2026-11-13T05:19:52.000Z",
+        "summary": "FANTASTICSの中島颯太がInstagramのストーリーズを更新。BE:FIRSTのJUNON（ジュノン）とM!LKの...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "83f064af88977591",
+        "title": "上白石萌音が“カラーコーン7個”を肩に担ぐ！M!LK山中柔太朗とグラウンドで並びモデルポーズ「萌音ちゃん力持ち」「めちゃキマってる」「身長差にメロつく」の声",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000918071/",
+        "publishedAt": "2026-11-13T04:03:20.000Z",
+        "summary": "ドラマ『いろはの恋は時代をかける』（TBS系）の公式SNSで、上白石萌音とM!LKの山中柔太朗の2...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "0162f38ba1788628",
+        "title": "YOASOBI、Ado、XG、羊文学、吉田仁人、TAXMEN（PUNPEE & OMSB）……注目新譜6作をレビュー",
+        "sourceName": "リアルサウンド 音楽",
+        "sourceUrl": "https://realsound.jp/music/feed",
+        "articleUrl": "https://realsound.jp/2026/11/post-2580546.html",
+        "publishedAt": "2026-11-13T03:10:25.000Z",
+        "summary": "毎週発表される新譜の中から注目作品をレビューしていく連載「New Releases In Focus」。今回は、YOASOBI「KILLA」、Ado「シンカ」、XG「DEPENDS」、羊文学「Suger」、吉田仁人「愛の形」、TAXMEN（PUNPEE & OMSB）「PLACEBO」の6作品をピックアップした。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "02587da26b5a07fc",
+        "title": "M!LK吉田仁人の和装に大反響！自然光に映える青×金茶の着物と凛としたまなざしに「どちらの若旦那でしょうか？」「想像を遥かに超える色男っぷり」「美しすぎる」の声",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000918062/",
+        "publishedAt": "2026-11-13T03:06:15.000Z",
+        "summary": "『美しいキモノ』の公式SNSで、M!LKの吉田仁人を起用した冬号特別版（11月19日発売）の表紙ビ...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "超特急": [
+      {
+        "id": "e4f9e3f727fa0ead",
+        "title": "『ベストアーティスト』STARTO9組が楽曲シャッフルメドレー スピッツ初出演、KEY TO LITも登場",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20261113-5310653/",
+        "publishedAt": "2026-11-13T03:00:00.000Z",
+        "summary": "日本テレビ系音楽特番『ベストアーティスト2026』(11月28日16:00～17:00 ※一部地域除く、19:00～22:54)の第2弾出演アーティストが13日、発表された。スピッツの番組初出演をはじめ、Snow Man、なにわ男子、KEY TO LIT、超特急、JO1らの出演が決定。さらに、STARTO ENTERTAINMENT所属アーティスト9組による",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
       },
       {
         "id": "95738e2f147ef3cd",
@@ -256,110 +303,59 @@
         ],
         "statuses": [],
         "memberMatches": []
-      }
-    ],
-    "M!LK": [
-      {
-        "id": "0cfa18e5e8300b3c",
-        "title": "EBiDANが紅白歌合戦のステージへ「Yes！東京」が大ヒット",
-        "sourceName": "日刊スポーツ 芸能",
-        "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-        "articleUrl": "https://www.nikkansports.com/entertainment/news/202611120002093.html",
-        "publishedAt": "2026-11-12T22:00:00.000Z",
-        "summary": "超特急やM！LKら、スターダストプロモーションに所属する若手男性アーティスト集団、EBiDAN（恵比寿学園男子部）が、大みそかの第77回NHK紅白歌合戦（午後7時20分）に初出場することが内定した。12日、複数の関係者への取材で分かった…",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
       },
       {
-        "id": "b414b3e8b4e7db89",
-        "title": "向井康二、明るさと気配りを行き来する対応力 岡田准一、山中柔太朗、大森元貴との共演に見る関係の築き方",
-        "sourceName": "リアルサウンド 音楽",
-        "sourceUrl": "https://realsound.jp/music/feed",
-        "articleUrl": "https://realsound.jp/2026/11/post-2580510.html",
-        "publishedAt": "2026-11-12T20:50:25.000Z",
-        "summary": "俳優活動を通じて共演の幅を広げるSnow Man 向井康二。岡田准一、山中柔太朗、大森元貴とのやりとりから見えてくるのは、持ち前の明るさだけではない。相手や場の空気を受け止めながら役割を変え、それぞれ異なる距離の縮め方で関係を築く向井のコミュニケーション力を紐解く。",
+        "id": "c9f5c5a6ee0ff870",
+        "title": "本日26歳誕生日、超特急・髙松アロハが挑発的なスタイルで魅せる『ワンダンス』場面写真3点解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/10/94062/",
+        "publishedAt": "2026-10-26T03:00:00.000Z",
+        "summary": "11月27日(金)に公開されるJO（&TEAM）の初主演映画『ワンダンス』から超特急・髙松アロハ演じるウセンの場面写真3点が解禁された。 本作は、単行本の累計発行部数が130万部を突破した珈琲による同名漫画の実写化。自分の気持ちを抑えて生活するカボこと小谷花木〈こたに・かぼく〉が、人目を気にせずダンスに没頭するワンダこと湾田光莉〈わんだ・ひかり〉に惹かれ、一",
         "groups": [
-          "M!LK"
+          "超特急"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "c1cc1dd8f8c03179",
-        "title": "「あんま調子乗んなよ」幼少期に父親が放った一言で無邪気にはしゃげなくなってしまったリスナー M!LK吉田仁人「怖っ!」「その日ぐらいは見過ごしてあげても…」",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20261112-5294161/",
-        "publishedAt": "2026-11-12T10:00:00.000Z",
-        "summary": "「その日から、何事にも粛々と取り組む人間になりました」――アイドルグループ・M!LKの吉田仁人が5日、文化放送のラジオ番組『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)に出演。“親の一言”で無邪気にはしゃげなくなってしまったリスナーからのメールを紹介した。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "870973f33950e3a6",
-        "title": "実は兄弟だった！超特急のタクヤ、BUDDiiSのもーりーしゅーとなどEBiDANの兄弟アーティストを紹介",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000916041/",
-        "publishedAt": "2026-11-12T07:00:14.000Z",
-        "summary": "超特急、M!LK、ONE N’ ONLY、BUDDiiSなど、様々グループが活動している、スターダストプ...",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK",
-          "BUDDiiS"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "タクヤ",
+            "name": "アロハ",
             "group": "超特急",
             "status": "active"
           }
         ]
       },
       {
-        "id": "6a65d0ba5d7d9992",
-        "title": "YUMEKIのダンスは何気ない生活からやってくる。「Neko（ねこ）」で立証された五感とダンスの関係性",
-        "sourceName": "QJWeb",
-        "sourceUrl": "https://qjweb.jp/feed/",
-        "articleUrl": "https://qjweb.jp/feature/166301/",
-        "publishedAt": "2026-11-11T09:00:00.000Z",
-        "summary": "13歳からダンスを始め、日本、韓国、中国、アメリカなど数々の国境を越え、ダンスとの仲を深めていったYUMEKI。これまで日本でM!LK、ME:I、King & Prince、韓国ではILLIT、ITZY、NCT 127などの有名アーティストを振り付けてきた。 2026年には、『PRODUCE.. 投稿 YUMEKIのダンスは何気ない生活からやってくる。「Ne",
+        "id": "6865cd3cb597efa2",
+        "title": "危うく強い鈴木伸之に柏木悠が宿す意思とは、映画『羊の皮を着たケモノ』緊張感漂う場面写真解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/10/93934/",
+        "publishedAt": "2026-10-23T03:00:00.000Z",
+        "summary": "鈴木伸之と柏木悠（超特急）がW主演を務め、12月11日(金)に公開される映画『羊の皮を着たケモノ』の場面写真5点が解禁された。 本作は、九號（きゅうごう）による同名BL漫画を実写化した、骨太で新感覚のボーイズ・ラブ。原作は「BLアワード2022 ディープ部門」で第13位、「BLアワード2024 ディープ部門」で第3位を獲得した人気作で、物語は前半の明るく甘い",
         "groups": [
-          "M!LK"
+          "超特急"
         ],
         "statuses": [],
         "memberMatches": []
       }
     ],
     "原因は自分にある。": [
+      {
+        "id": "034066558b382c11",
+        "title": "「J-POPシングル ウィークリーTOP30」発表。1位は原因は自分にある。『ラブリーズン』、予約1位はtimelesz『ザユウノメイ / 本当のことを言うと』（2026年11月12日付）",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/11/12/tg002",
+        "publishedAt": "2026-11-12T10:00:00.000Z",
+        "summary": "",
+        "groups": [
+          "原因は自分にある。"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
       {
         "id": "18f9902c753f1de9",
         "title": "原因は自分にある。「小籠包を食べてアツい話をした」思い出の地に1万人の観測者が集う【『ラブリーズン』リリース記念フリーライブ】",
@@ -373,55 +369,6 @@
         ],
         "statuses": [],
         "memberMatches": []
-      },
-      {
-        "id": "a6f169033670b09b",
-        "title": "【ライブレポート】原因は自分にある。「ラブリーズン」発売記念フリーライブで1万人が熱狂「ここがゴールじゃないですから」（杢代和人）",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/report/0000917326/",
-        "publishedAt": "2026-11-12T05:10:57.000Z",
-        "summary": "原因は自分にある。（通称：ゲンジブ）が、5thシングル「ラブリーズン」を11月11日にリリース...",
-        "groups": [
-          "原因は自分にある。"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "杢代和人",
-            "group": "原因は自分にある。",
-            "status": "active"
-          }
-        ]
-      }
-    ],
-    "BUDDiiS": [
-      {
-        "id": "870973f33950e3a6",
-        "title": "実は兄弟だった！超特急のタクヤ、BUDDiiSのもーりーしゅーとなどEBiDANの兄弟アーティストを紹介",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000916041/",
-        "publishedAt": "2026-11-12T07:00:14.000Z",
-        "summary": "超特急、M!LK、ONE N’ ONLY、BUDDiiSなど、様々グループが活動している、スターダストプ...",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK",
-          "BUDDiiS"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "タクヤ",
-            "group": "超特急",
-            "status": "active"
-          }
-        ]
       }
     ],
     "SUPER★DRAGON": [
