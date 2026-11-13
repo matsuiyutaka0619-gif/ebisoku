@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-11-13T06:44:13.146Z",
+  "updatedAt": "2026-11-13T19:40:51.753Z",
   "totals": {
-    "all": 130,
-    "today": 11,
-    "week": 25
+    "all": 124,
+    "today": 0,
+    "week": 17
   },
   "groupRanking": [
     {
-      "name": "M!LK",
-      "count": 9
+      "name": "EBiDAN",
+      "count": 6
     },
     {
-      "name": "EBiDAN",
-      "count": 7
+      "name": "M!LK",
+      "count": 6
     },
     {
       "name": "SUPER★DRAGON",
-      "count": 7
+      "count": 5
     },
     {
       "name": "原因は自分にある。",
-      "count": 2
+      "count": 3
     },
     {
       "name": "超特急",
@@ -30,40 +30,32 @@
   "memberRanking": [
     {
       "name": "吉田仁人",
-      "count": 6
+      "count": 4
     },
     {
-      "name": "山中柔太朗",
+      "name": "長野凌大",
       "count": 2
+    },
+    {
+      "name": "曽野舜太",
+      "count": 1
     }
   ],
   "sourceRanking": [
     {
+      "name": "マイナビニュース エンタメ",
+      "count": 6
+    },
+    {
       "name": "SUPER★DRAGON 公式NEWS",
-      "count": 7
-    },
-    {
-      "name": "THE FIRST TIMES",
       "count": 5
-    },
-    {
-      "name": "タワーレコード ニュース",
-      "count": 3
-    },
-    {
-      "name": "BARKS",
-      "count": 2
     },
     {
       "name": "QJWeb",
       "count": 2
     },
     {
-      "name": "マイナビニュース エンタメ",
-      "count": 2
-    },
-    {
-      "name": "リアルサウンド 音楽",
+      "name": "THE FIRST TIMES",
       "count": 2
     },
     {
@@ -79,32 +71,73 @@
   "recentByGroup": {
     "EBiDAN": [
       {
-        "id": "ea531fef8b52d551",
-        "title": "【会見レポート】『第77回NHK紅白歌合戦』初出場アーティスト意気込み",
-        "sourceName": "BARKS",
-        "sourceUrl": "https://www.barks.jp/feed/",
-        "articleUrl": "https://barks.jp/news/1104191",
-        "publishedAt": "2026-11-13T06:21:03.000Z",
-        "summary": "2025年12月31日午後7時20分より放送される『第76回NHK紅白歌合戦』。今回初出場となったアーティストの、記者会見の模様をお届けする。 ◆ ◆ ◆ ◼︎=LOVE 夢の『紅白歌合戦』への出場、本当に嬉しいです。私たちは2017年に結成し、今年で9周年を迎えました。ここまで支えてきてくださったファンの皆さん、そしてここまで育ててきてくださった指原プロデ",
+        "id": "cea22e87e1b0533c",
+        "title": "紅白初出場決定の23歳アイドル、マカロニえんぴつと紅白で再会! 7年前のブログに残した願いとは - 「こんなの泣く」「エモすぎる」と話題に",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20261113-5318288/",
+        "publishedAt": "2026-11-13T14:39:38.000Z",
+        "summary": "スターダストプロモーション所属の男性アーティスト集団・EBiDANの長野凌大(原因は自分にある。)が13日、都内で行われた『第77回NHK紅白歌合戦』の初出場歌手発表会見で、4人組ロックバンド・マカロニえんぴつと再会を果たした。かつて同バンドの楽曲「レモンパイ」のミュージックビデオ(MV)に出演した長野は、7年前のブログで「いつかご一緒出来るように頑張りたい",
         "groups": [
-          "EBiDAN"
+          "EBiDAN",
+          "原因は自分にある。"
         ],
-        "statuses": [],
-        "memberMatches": []
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "長野凌大",
+            "group": "原因は自分にある。",
+            "status": "active"
+          }
+        ]
       },
       {
-        "id": "b4b57e8c690cd34e",
-        "title": "『第77回NHK紅白歌合戦』出場者発表 初出場はCUTIE STREET、＝LOVE、EBiDAN、モナキ、Aぇ! groupら7組",
-        "sourceName": "リアルサウンド 音楽",
-        "sourceUrl": "https://realsound.jp/music/feed",
-        "articleUrl": "https://realsound.jp/2026/11/post-2582616.html",
-        "publishedAt": "2026-11-13T04:20:31.000Z",
-        "summary": "『第77回NHK紅白歌合戦』（NHK総合）の出場アーティストが発表された。",
+        "id": "7f7fd28aed140f62",
+        "title": "EBiDAN、紅白初出場会見で「嬉しすぎてYES!」連発! メンバーの“全力便乗”にMiLK・曽野舜太「一発ギャグみたいに使って」",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20261113-5316240/",
+        "publishedAt": "2026-11-13T08:22:32.000Z",
+        "summary": "スターダストプロモーション所属の男性アーティスト集団・EBiDANが13日、都内で行われた『第77回NHK紅白歌合戦』の初出場歌手発表会見に登壇。結成15年での初出場に喜びを語る一方、楽曲「好きすぎて滅!」ならぬ「嬉しすぎてYES!」というフレーズがメンバーの間で飛び交い、にぎやかな掛け合いを繰り広げた。",
         "groups": [
-          "EBiDAN"
+          "EBiDAN",
+          "M!LK"
         ],
-        "statuses": [],
-        "memberMatches": []
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "1adaa214998d76c7",
+        "title": "マカロニえんぴつ、紅白初出場までの苦悩告白「今年こそ」が何度もかなわず...結成14年でつかんだ大舞台",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20261113-5315994/",
+        "publishedAt": "2026-11-13T07:29:45.000Z",
+        "summary": "4人組ロックバンド・マカロニえんぴつが13日、『第77回NHK紅白歌合戦』の初出場歌手発表会見に出席。結成14年で念願の初出場を決めた喜びを語るとともに、過去には出場がかなわず「半ばちょっと紅白は諦めていた」と告白。また、L'Arc-en-Cielのkenとの共演や、EBiDANの長野凌大との再会についても語った。",
+        "groups": [
+          "EBiDAN",
+          "原因は自分にある。"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "長野凌大",
+            "group": "原因は自分にある。",
+            "status": "active"
+          }
+        ]
       },
       {
         "id": "6b11a2e2c8aca308",
@@ -121,29 +154,78 @@
         "memberMatches": []
       },
       {
-        "id": "4506df37dd7b4fff",
-        "title": "『第77回NHK紅白歌合戦』出場歌手発表！初出場は＝LOVE、CUTIE STREET、Ayumu Imazu、Aぇ! group、EBiDAN、マカロニえんぴつ、モナキ、稲葉浩志の8組",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000918136/",
-        "publishedAt": "2026-11-13T04:10:46.000Z",
-        "summary": "12月31日に放送される『第77回NHK紅白歌合戦』の出場歌手が決定。11月13日13時より東京・NHK放...",
+        "id": "8c1bb579c42e7230",
+        "title": "＜EBiDAN スペシャルブック＆Blu-rayの2作品発売記念＞＠Loppi・HMV限定 EBiDANオリジナルグッズ発売決定！2026年11月13日(金)10:00より予約受付開始！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11974/",
+        "publishedAt": "2026-11-12T07:00:06.000Z",
+        "summary": "このたび、2027年2月10日に発売されるEBiDANメンバーの撮り下ろしショットや各メンバーの15年年表、15周年への思いなどが掲載される書籍『EBiDAN Visual Dictionary 2027～15th An […] The post ＜EBiDAN スペシャルブック＆Blu-rayの2作品発売記念＞＠Loppi・HMV限定 EBiDANオリジナ",
         "groups": [
-          "EBiDAN"
+          "EBiDAN",
+          "SUPER★DRAGON"
         ],
         "statuses": [],
         "memberMatches": []
+      }
+    ],
+    "原因は自分にある。": [
+      {
+        "id": "cea22e87e1b0533c",
+        "title": "紅白初出場決定の23歳アイドル、マカロニえんぴつと紅白で再会! 7年前のブログに残した願いとは - 「こんなの泣く」「エモすぎる」と話題に",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20261113-5318288/",
+        "publishedAt": "2026-11-13T14:39:38.000Z",
+        "summary": "スターダストプロモーション所属の男性アーティスト集団・EBiDANの長野凌大(原因は自分にある。)が13日、都内で行われた『第77回NHK紅白歌合戦』の初出場歌手発表会見で、4人組ロックバンド・マカロニえんぴつと再会を果たした。かつて同バンドの楽曲「レモンパイ」のミュージックビデオ(MV)に出演した長野は、7年前のブログで「いつかご一緒出来るように頑張りたい",
+        "groups": [
+          "EBiDAN",
+          "原因は自分にある。"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "長野凌大",
+            "group": "原因は自分にある。",
+            "status": "active"
+          }
+        ]
       },
       {
-        "id": "6488dadca6fa7599",
-        "title": "『第77回NHK紅白歌合戦』出演者発表。初出場にCUTIE STREET、モナキ、Aぇ! group、EBiDANら7組。特別企画に稲葉浩志",
-        "sourceName": "BARKS",
-        "sourceUrl": "https://www.barks.jp/feed/",
-        "articleUrl": "https://barks.jp/news/1104068",
-        "publishedAt": "2026-11-13T04:07:58.000Z",
-        "summary": "「こえていこう、歌とともに。」をテーマに、2026年12月31日午後7時20分より放送される『第77回NHK紅白歌合戦』の出場者が発表された。 出場者は下記。初出演は紅組に=LOVE、CUTIE STREET。白組にAyumu Imazu、Aぇ! group、EBiDAN、マカロニえんぴつ、モナキの合計7組となった。加えて特別企画には稲葉浩志が出演する。 な",
+        "id": "1adaa214998d76c7",
+        "title": "マカロニえんぴつ、紅白初出場までの苦悩告白「今年こそ」が何度もかなわず...結成14年でつかんだ大舞台",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20261113-5315994/",
+        "publishedAt": "2026-11-13T07:29:45.000Z",
+        "summary": "4人組ロックバンド・マカロニえんぴつが13日、『第77回NHK紅白歌合戦』の初出場歌手発表会見に出席。結成14年で念願の初出場を決めた喜びを語るとともに、過去には出場がかなわず「半ばちょっと紅白は諦めていた」と告白。また、L'Arc-en-Cielのkenとの共演や、EBiDANの長野凌大との再会についても語った。",
         "groups": [
-          "EBiDAN"
+          "EBiDAN",
+          "原因は自分にある。"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "長野凌大",
+            "group": "原因は自分にある。",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "18f9902c753f1de9",
+        "title": "原因は自分にある。「小籠包を食べてアツい話をした」思い出の地に1万人の観測者が集う【『ラブリーズン』リリース記念フリーライブ】",
+        "sourceName": "QJWeb",
+        "sourceUrl": "https://qjweb.jp/feed/",
+        "articleUrl": "https://qjweb.jp/column/168061/",
+        "publishedAt": "2026-11-12T09:00:00.000Z",
+        "summary": "原因は自分にある。の5thシングル『ラブリーズン』のリリース記念フリーライブが、2026年11月11日（水）に横浜赤レンガ倉庫で開催された。 これまで、原因は自分にある。のリリースイベントといえば商業施設などにて行われていた印象だが、昨今は急増する観測者（原因は自分にある。のファンネーム）の力もあっ.. 投稿 原因は自分にある。「小籠包を食べてアツい話をした",
+        "groups": [
+          "原因は自分にある。"
         ],
         "statuses": [],
         "memberMatches": []
@@ -151,13 +233,13 @@
     ],
     "M!LK": [
       {
-        "id": "a924df6e612bc289",
-        "title": "M!LK吉田仁人が挑発的な眼差しで見下ろす“ちょいオラ”姿に反響！「ビシュ爆裂」「これは良すぎる」「Rockerって感じ」の声",
+        "id": "cb0a5fa1a1f0086e",
+        "title": "M!LK吉田仁人主演ドラマ『溺愛 ～ 実は、最強ヒーロー ～』第4話の場面写真＆あらすじ公開！真白（吉田仁人）の警戒モードは最高潮に",
         "sourceName": "THE FIRST TIMES",
         "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000918114/",
-        "publishedAt": "2026-11-13T05:38:12.000Z",
-        "summary": "吉田仁人（M!LK）が、雑誌『⾳楽と⼈』の増刊『ON VOICE Vol.6』の表紙に登場。そのビジュアル...",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000918285/",
+        "publishedAt": "2026-11-13T14:30:02.000Z",
+        "summary": "M!LKの吉田仁人が主演を務めるドラマ『溺愛 ～ 実は、最強ヒーロー ～』（TOKYO MX他で放送）...",
         "groups": [
           "M!LK"
         ],
@@ -173,57 +255,13 @@
         ]
       },
       {
-        "id": "003b848c8adcd409",
-        "title": "M!LK山中柔太朗×BE:FIRSTジュノン×FANTASTICS中島颯太の仲良し3ショットに反響！“ジニチル”幹部集結に「サッカー三銃士イケメンすぎる」「豪華メンバー」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000918077/",
-        "publishedAt": "2026-11-13T05:19:52.000Z",
-        "summary": "FANTASTICSの中島颯太がInstagramのストーリーズを更新。BE:FIRSTのJUNON（ジュノン）とM!LKの...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "83f064af88977591",
-        "title": "上白石萌音が“カラーコーン7個”を肩に担ぐ！M!LK山中柔太朗とグラウンドで並びモデルポーズ「萌音ちゃん力持ち」「めちゃキマってる」「身長差にメロつく」の声",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000918071/",
-        "publishedAt": "2026-11-13T04:03:20.000Z",
-        "summary": "ドラマ『いろはの恋は時代をかける』（TBS系）の公式SNSで、上白石萌音とM!LKの山中柔太朗の2...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "0162f38ba1788628",
-        "title": "YOASOBI、Ado、XG、羊文学、吉田仁人、TAXMEN（PUNPEE & OMSB）……注目新譜6作をレビュー",
-        "sourceName": "リアルサウンド 音楽",
-        "sourceUrl": "https://realsound.jp/music/feed",
-        "articleUrl": "https://realsound.jp/2026/11/post-2580546.html",
-        "publishedAt": "2026-11-13T03:10:25.000Z",
-        "summary": "毎週発表される新譜の中から注目作品をレビューしていく連載「New Releases In Focus」。今回は、YOASOBI「KILLA」、Ado「シンカ」、XG「DEPENDS」、羊文学「Suger」、吉田仁人「愛の形」、TAXMEN（PUNPEE & OMSB）「PLACEBO」の6作品をピックアップした。",
+        "id": "6989f219a0509ea4",
+        "title": "温厚な母親が“激怒”したワケとは…?「後にも先にもあんなに怒られたのはあれっきり」 リスナーからの理不尽エピソードにM!LK吉田仁人もビックリ「どこも腹が立つ要素ない」",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20261113-5294207/",
+        "publishedAt": "2026-11-13T10:00:00.000Z",
+        "summary": "「子供のころ『いいとも!』ごっこをして遊んでいたら……」――。アイドルグループ・M!LKの吉田仁人が5日、文化放送のラジオ番組『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)に出演。タモリのものまねで“激怒”されたエピソードに同情した。",
         "groups": [
           "M!LK"
         ],
@@ -239,13 +277,36 @@
         ]
       },
       {
-        "id": "02587da26b5a07fc",
-        "title": "M!LK吉田仁人の和装に大反響！自然光に映える青×金茶の着物と凛としたまなざしに「どちらの若旦那でしょうか？」「想像を遥かに超える色男っぷり」「美しすぎる」の声",
+        "id": "7f7fd28aed140f62",
+        "title": "EBiDAN、紅白初出場会見で「嬉しすぎてYES!」連発! メンバーの“全力便乗”にMiLK・曽野舜太「一発ギャグみたいに使って」",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20261113-5316240/",
+        "publishedAt": "2026-11-13T08:22:32.000Z",
+        "summary": "スターダストプロモーション所属の男性アーティスト集団・EBiDANが13日、都内で行われた『第77回NHK紅白歌合戦』の初出場歌手発表会見に登壇。結成15年での初出場に喜びを語る一方、楽曲「好きすぎて滅!」ならぬ「嬉しすぎてYES!」というフレーズがメンバーの間で飛び交い、にぎやかな掛け合いを繰り広げた。",
+        "groups": [
+          "EBiDAN",
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "d127a7a469ddbc3b",
+        "title": "M!LK吉田仁人が両こぶしをあごの下にぎゅっ！首をかしげて「じんちゅ、好きんちゅだよ」…「かわいすぎて苦しい」「なんのご褒美ですか？」「これ公式なのアツい」とファン悶絶",
         "sourceName": "THE FIRST TIMES",
         "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000918062/",
-        "publishedAt": "2026-11-13T03:06:15.000Z",
-        "summary": "『美しいキモノ』の公式SNSで、M!LKの吉田仁人を起用した冬号特別版（11月19日発売）の表紙ビ...",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000918334/",
+        "publishedAt": "2026-11-13T07:02:18.000Z",
+        "summary": "文化放送『M!LK 吉田仁人のレコメン！』の公式Xが更新され、11月12日放送回のオフショットや動...",
         "groups": [
           "M!LK"
         ],
@@ -259,6 +320,94 @@
             "status": "active"
           }
         ]
+      },
+      {
+        "id": "6a65d0ba5d7d9992",
+        "title": "YUMEKIのダンスは何気ない生活からやってくる。「Neko（ねこ）」で立証された五感とダンスの関係性",
+        "sourceName": "QJWeb",
+        "sourceUrl": "https://qjweb.jp/feed/",
+        "articleUrl": "https://qjweb.jp/feature/166301/",
+        "publishedAt": "2026-11-11T09:00:00.000Z",
+        "summary": "13歳からダンスを始め、日本、韓国、中国、アメリカなど数々の国境を越え、ダンスとの仲を深めていったYUMEKI。これまで日本でM!LK、ME:I、King & Prince、韓国ではILLIT、ITZY、NCT 127などの有名アーティストを振り付けてきた。 2026年には、『PRODUCE.. 投稿 YUMEKIのダンスは何気ない生活からやってくる。「Ne",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
+    "SUPER★DRAGON": [
+      {
+        "id": "7e88eb56cabb27fa",
+        "title": "SUPER★DRAGON Major 2nd Album「STAR」リリースイベント・特典会開催！（11/13更新）",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11790/",
+        "publishedAt": "2026-11-13T12:00:30.000Z",
+        "summary": "2026年12月09日(水)、SUPER★DRAGONメジャー2枚目となるアルバム「STAR」の発売を記念し、リリースイベント・特典会が決定いたしました！ SUPER★DRAGONと一緒に、素敵な思い出を作りましょう！ […] The post SUPER★DRAGON Major 2nd Album「STAR」リリースイベント・特典会開催！（11/13更新",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "8c1bb579c42e7230",
+        "title": "＜EBiDAN スペシャルブック＆Blu-rayの2作品発売記念＞＠Loppi・HMV限定 EBiDANオリジナルグッズ発売決定！2026年11月13日(金)10:00より予約受付開始！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11974/",
+        "publishedAt": "2026-11-12T07:00:06.000Z",
+        "summary": "このたび、2027年2月10日に発売されるEBiDANメンバーの撮り下ろしショットや各メンバーの15年年表、15周年への思いなどが掲載される書籍『EBiDAN Visual Dictionary 2027～15th An […] The post ＜EBiDAN スペシャルブック＆Blu-rayの2作品発売記念＞＠Loppi・HMV限定 EBiDANオリジナ",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "d5f4827c5bde3268",
+        "title": "【イベント内容変更のお知らせ】11/14(土)開催リリースイベント＠東京ドームシティ ラクーア（東京）",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11964/",
+        "publishedAt": "2026-11-11T03:00:49.000Z",
+        "summary": "2026年11月14日(土)東京ドームシティ ラクーアにて開催を予定しておりますリリースイベントにおきまして、CD購入整理券を非常に多くのお客様よりお申し込みいただいております。 会場の収容人数を大幅に超えるお客様のご来 […] The post 【イベント内容変更のお知らせ】11/14(土)開催リリースイベント＠東京ドームシティ ラクーア（東京） firs",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "db4ee1640310da06",
+        "title": "『EBiDANくじvol.3 ～I feel warm inside when I’m with you.～』の発売が決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11961/",
+        "publishedAt": "2026-11-09T01:00:20.000Z",
+        "summary": "EBiDANグループくじ第3弾となる『EBiDANくじvol.3 ～I feel warm inside when I’m with you.～』が、2026年2月12日（金）より発売いたします！ 発売日：2 […] The post 『EBiDANくじvol.3 ～I feel warm inside when I’m with you.～』の発売が決定！",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "6900d7efa795e006",
+        "title": "SUPER★DRAGON LIVE TOUR 2027「house」最新チケット情報！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11958/",
+        "publishedAt": "2026-11-07T05:00:43.000Z",
+        "summary": "本日11月7日(土)14:00より、ローソンチケットにてプレリクエスト先行〈抽選〉受付開始。 会場で皆さんとお会いできることを楽しみにしております！ ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願い […] The post SUPER★DRAGON LIVE TOUR 2027「house」最新チケット情報！ first appear",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
       }
     ],
     "超特急": [
@@ -336,110 +485,6 @@
         "summary": "鈴木伸之と柏木悠（超特急）がW主演を務め、12月11日(金)に公開される映画『羊の皮を着たケモノ』の場面写真5点が解禁された。 本作は、九號（きゅうごう）による同名BL漫画を実写化した、骨太で新感覚のボーイズ・ラブ。原作は「BLアワード2022 ディープ部門」で第13位、「BLアワード2024 ディープ部門」で第3位を獲得した人気作で、物語は前半の明るく甘い",
         "groups": [
           "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "原因は自分にある。": [
-      {
-        "id": "034066558b382c11",
-        "title": "「J-POPシングル ウィークリーTOP30」発表。1位は原因は自分にある。『ラブリーズン』、予約1位はtimelesz『ザユウノメイ / 本当のことを言うと』（2026年11月12日付）",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/11/12/tg002",
-        "publishedAt": "2026-11-12T10:00:00.000Z",
-        "summary": "",
-        "groups": [
-          "原因は自分にある。"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "18f9902c753f1de9",
-        "title": "原因は自分にある。「小籠包を食べてアツい話をした」思い出の地に1万人の観測者が集う【『ラブリーズン』リリース記念フリーライブ】",
-        "sourceName": "QJWeb",
-        "sourceUrl": "https://qjweb.jp/feed/",
-        "articleUrl": "https://qjweb.jp/column/168061/",
-        "publishedAt": "2026-11-12T09:00:00.000Z",
-        "summary": "原因は自分にある。の5thシングル『ラブリーズン』のリリース記念フリーライブが、2026年11月11日（水）に横浜赤レンガ倉庫で開催された。 これまで、原因は自分にある。のリリースイベントといえば商業施設などにて行われていた印象だが、昨今は急増する観測者（原因は自分にある。のファンネーム）の力もあっ.. 投稿 原因は自分にある。「小籠包を食べてアツい話をした",
-        "groups": [
-          "原因は自分にある。"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "SUPER★DRAGON": [
-      {
-        "id": "8c1bb579c42e7230",
-        "title": "＜EBiDAN スペシャルブック＆Blu-rayの2作品発売記念＞＠Loppi・HMV限定 EBiDANオリジナルグッズ発売決定！2026年11月13日(金)10:00より予約受付開始！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11974/",
-        "publishedAt": "2026-11-12T07:00:06.000Z",
-        "summary": "このたび、2027年2月10日に発売されるEBiDANメンバーの撮り下ろしショットや各メンバーの15年年表、15周年への思いなどが掲載される書籍『EBiDAN Visual Dictionary 2027～15th An […] The post ＜EBiDAN スペシャルブック＆Blu-rayの2作品発売記念＞＠Loppi・HMV限定 EBiDANオリジナ",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "d5f4827c5bde3268",
-        "title": "【イベント内容変更のお知らせ】11/14(土)開催リリースイベント＠東京ドームシティ ラクーア（東京）",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11964/",
-        "publishedAt": "2026-11-11T03:00:49.000Z",
-        "summary": "2026年11月14日(土)東京ドームシティ ラクーアにて開催を予定しておりますリリースイベントにおきまして、CD購入整理券を非常に多くのお客様よりお申し込みいただいております。 会場の収容人数を大幅に超えるお客様のご来 […] The post 【イベント内容変更のお知らせ】11/14(土)開催リリースイベント＠東京ドームシティ ラクーア（東京） firs",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "db4ee1640310da06",
-        "title": "『EBiDANくじvol.3 ～I feel warm inside when I’m with you.～』の発売が決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11961/",
-        "publishedAt": "2026-11-09T01:00:20.000Z",
-        "summary": "EBiDANグループくじ第3弾となる『EBiDANくじvol.3 ～I feel warm inside when I’m with you.～』が、2026年2月12日（金）より発売いたします！ 発売日：2 […] The post 『EBiDANくじvol.3 ～I feel warm inside when I’m with you.～』の発売が決定！",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "6900d7efa795e006",
-        "title": "SUPER★DRAGON LIVE TOUR 2027「house」最新チケット情報！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11958/",
-        "publishedAt": "2026-11-07T05:00:43.000Z",
-        "summary": "本日11月7日(土)14:00より、ローソンチケットにてプレリクエスト先行〈抽選〉受付開始。 会場で皆さんとお会いできることを楽しみにしております！ ※重要：お申込み前に必ずご確認ください。 【チケットの販売に伴うお願い […] The post SUPER★DRAGON LIVE TOUR 2027「house」最新チケット情報！ first appear",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "7641037a1f8a9902",
-        "title": "【リリースイベント】11月14日(土)開催＠東京ドームシティ ラクーア（東京）参加方法・特典会内容についてのご案内※11/11更新",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11942/",
-        "publishedAt": "2026-11-06T11:00:45.000Z",
-        "summary": "11月14日(土)東京ドームシティ ラクーアにて開催するリリースイベントの詳細をご案内致します。 必ず最後まで全てお読み頂き、会場にいらした皆様がイベントを楽しめるよう、ファンの皆様同士でルールとマナーの厳守をお願い致し […] The post 【リリースイベント】11月14日(土)開催＠東京ドームシティ ラクーア（東京）参加方法・特典会内容についてのご案",
-        "groups": [
-          "SUPER★DRAGON"
         ],
         "statuses": [],
         "memberMatches": []

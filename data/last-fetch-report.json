@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T06:44:13.146Z",
+  "updatedAt": "2026-11-13T19:40:51.753Z",
   "sources": [
     {
       "source": "日刊スポーツ 芸能",
@@ -115,8 +115,9 @@
     },
     {
       "source": "タワーレコード ニュース",
-      "count": 50,
-      "ok": true
+      "count": 0,
+      "ok": false,
+      "error": "HTTP 403"
     },
     {
       "source": "THE FIRST TIMES",

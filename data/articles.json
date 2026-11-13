@@ -1,28 +1,37 @@
 {
-  "updatedAt": "2026-11-13T06:44:13.144Z",
+  "updatedAt": "2026-11-13T19:40:51.751Z",
   "articles": [
     {
-      "id": "ea531fef8b52d551",
-      "title": "【会見レポート】『第77回NHK紅白歌合戦』初出場アーティスト意気込み",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1104191",
-      "publishedAt": "2026-11-13T06:21:03.000Z",
-      "summary": "2025年12月31日午後7時20分より放送される『第76回NHK紅白歌合戦』。今回初出場となったアーティストの、記者会見の模様をお届けする。 ◆ ◆ ◆ ◼︎=LOVE 夢の『紅白歌合戦』への出場、本当に嬉しいです。私たちは2017年に結成し、今年で9周年を迎えました。ここまで支えてきてくださったファンの皆さん、そしてここまで育ててきてくださった指原プロデ",
+      "id": "cea22e87e1b0533c",
+      "title": "紅白初出場決定の23歳アイドル、マカロニえんぴつと紅白で再会! 7年前のブログに残した願いとは - 「こんなの泣く」「エモすぎる」と話題に",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261113-5318288/",
+      "publishedAt": "2026-11-13T14:39:38.000Z",
+      "summary": "スターダストプロモーション所属の男性アーティスト集団・EBiDANの長野凌大(原因は自分にある。)が13日、都内で行われた『第77回NHK紅白歌合戦』の初出場歌手発表会見で、4人組ロックバンド・マカロニえんぴつと再会を果たした。かつて同バンドの楽曲「レモンパイ」のミュージックビデオ(MV)に出演した長野は、7年前のブログで「いつかご一緒出来るように頑張りたい",
       "groups": [
-        "EBiDAN"
+        "EBiDAN",
+        "原因は自分にある。"
       ],
-      "statuses": [],
-      "memberMatches": []
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "長野凌大",
+          "group": "原因は自分にある。",
+          "status": "active"
+        }
+      ]
     },
     {
-      "id": "a924df6e612bc289",
-      "title": "M!LK吉田仁人が挑発的な眼差しで見下ろす“ちょいオラ”姿に反響！「ビシュ爆裂」「これは良すぎる」「Rockerって感じ」の声",
+      "id": "cb0a5fa1a1f0086e",
+      "title": "M!LK吉田仁人主演ドラマ『溺愛 ～ 実は、最強ヒーロー ～』第4話の場面写真＆あらすじ公開！真白（吉田仁人）の警戒モードは最高潮に",
       "sourceName": "THE FIRST TIMES",
       "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000918114/",
-      "publishedAt": "2026-11-13T05:38:12.000Z",
-      "summary": "吉田仁人（M!LK）が、雑誌『⾳楽と⼈』の増刊『ON VOICE Vol.6』の表紙に登場。そのビジュアル...",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000918285/",
+      "publishedAt": "2026-11-13T14:30:02.000Z",
+      "summary": "M!LKの吉田仁人が主演を務めるドラマ『溺愛 ～ 実は、最強ヒーロー ～』（TOKYO MX他で放送）...",
       "groups": [
         "M!LK"
       ],
@@ -38,13 +47,27 @@
       ]
     },
     {
-      "id": "003b848c8adcd409",
-      "title": "M!LK山中柔太朗×BE:FIRSTジュノン×FANTASTICS中島颯太の仲良し3ショットに反響！“ジニチル”幹部集結に「サッカー三銃士イケメンすぎる」「豪華メンバー」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000918077/",
-      "publishedAt": "2026-11-13T05:19:52.000Z",
-      "summary": "FANTASTICSの中島颯太がInstagramのストーリーズを更新。BE:FIRSTのJUNON（ジュノン）とM!LKの...",
+      "id": "7e88eb56cabb27fa",
+      "title": "SUPER★DRAGON Major 2nd Album「STAR」リリースイベント・特典会開催！（11/13更新）",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news11790/",
+      "publishedAt": "2026-11-13T12:00:30.000Z",
+      "summary": "2026年12月09日(水)、SUPER★DRAGONメジャー2枚目となるアルバム「STAR」の発売を記念し、リリースイベント・特典会が決定いたしました！ SUPER★DRAGONと一緒に、素敵な思い出を作りましょう！ […] The post SUPER★DRAGON Major 2nd Album「STAR」リリースイベント・特典会開催！（11/13更新",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "6989f219a0509ea4",
+      "title": "温厚な母親が“激怒”したワケとは…?「後にも先にもあんなに怒られたのはあれっきり」 リスナーからの理不尽エピソードにM!LK吉田仁人もビックリ「どこも腹が立つ要素ない」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261113-5294207/",
+      "publishedAt": "2026-11-13T10:00:00.000Z",
+      "summary": "「子供のころ『いいとも!』ごっこをして遊んでいたら……」――。アイドルグループ・M!LKの吉田仁人が5日、文化放送のラジオ番組『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)に出演。タモリのものまねで“激怒”されたエピソードに同情した。",
       "groups": [
         "M!LK"
       ],
@@ -53,25 +76,79 @@
       ],
       "memberMatches": [
         {
-          "name": "山中柔太朗",
+          "name": "吉田仁人",
           "group": "M!LK",
           "status": "active"
         }
       ]
     },
     {
-      "id": "b4b57e8c690cd34e",
-      "title": "『第77回NHK紅白歌合戦』出場者発表 初出場はCUTIE STREET、＝LOVE、EBiDAN、モナキ、Aぇ! groupら7組",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/11/post-2582616.html",
-      "publishedAt": "2026-11-13T04:20:31.000Z",
-      "summary": "『第77回NHK紅白歌合戦』（NHK総合）の出場アーティストが発表された。",
+      "id": "7f7fd28aed140f62",
+      "title": "EBiDAN、紅白初出場会見で「嬉しすぎてYES!」連発! メンバーの“全力便乗”にMiLK・曽野舜太「一発ギャグみたいに使って」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261113-5316240/",
+      "publishedAt": "2026-11-13T08:22:32.000Z",
+      "summary": "スターダストプロモーション所属の男性アーティスト集団・EBiDANが13日、都内で行われた『第77回NHK紅白歌合戦』の初出場歌手発表会見に登壇。結成15年での初出場に喜びを語る一方、楽曲「好きすぎて滅!」ならぬ「嬉しすぎてYES!」というフレーズがメンバーの間で飛び交い、にぎやかな掛け合いを繰り広げた。",
       "groups": [
-        "EBiDAN"
+        "EBiDAN",
+        "M!LK"
       ],
-      "statuses": [],
-      "memberMatches": []
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "曽野舜太",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "1adaa214998d76c7",
+      "title": "マカロニえんぴつ、紅白初出場までの苦悩告白「今年こそ」が何度もかなわず...結成14年でつかんだ大舞台",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261113-5315994/",
+      "publishedAt": "2026-11-13T07:29:45.000Z",
+      "summary": "4人組ロックバンド・マカロニえんぴつが13日、『第77回NHK紅白歌合戦』の初出場歌手発表会見に出席。結成14年で念願の初出場を決めた喜びを語るとともに、過去には出場がかなわず「半ばちょっと紅白は諦めていた」と告白。また、L'Arc-en-Cielのkenとの共演や、EBiDANの長野凌大との再会についても語った。",
+      "groups": [
+        "EBiDAN",
+        "原因は自分にある。"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "長野凌大",
+          "group": "原因は自分にある。",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "d127a7a469ddbc3b",
+      "title": "M!LK吉田仁人が両こぶしをあごの下にぎゅっ！首をかしげて「じんちゅ、好きんちゅだよ」…「かわいすぎて苦しい」「なんのご褒美ですか？」「これ公式なのアツい」とファン悶絶",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000918334/",
+      "publishedAt": "2026-11-13T07:02:18.000Z",
+      "summary": "文化放送『M!LK 吉田仁人のレコメン！』の公式Xが更新され、11月12日放送回のオフショットや動...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
     },
     {
       "id": "6b11a2e2c8aca308",
@@ -88,100 +165,6 @@
       "memberMatches": []
     },
     {
-      "id": "4506df37dd7b4fff",
-      "title": "『第77回NHK紅白歌合戦』出場歌手発表！初出場は＝LOVE、CUTIE STREET、Ayumu Imazu、Aぇ! group、EBiDAN、マカロニえんぴつ、モナキ、稲葉浩志の8組",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000918136/",
-      "publishedAt": "2026-11-13T04:10:46.000Z",
-      "summary": "12月31日に放送される『第77回NHK紅白歌合戦』の出場歌手が決定。11月13日13時より東京・NHK放...",
-      "groups": [
-        "EBiDAN"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "6488dadca6fa7599",
-      "title": "『第77回NHK紅白歌合戦』出演者発表。初出場にCUTIE STREET、モナキ、Aぇ! group、EBiDANら7組。特別企画に稲葉浩志",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1104068",
-      "publishedAt": "2026-11-13T04:07:58.000Z",
-      "summary": "「こえていこう、歌とともに。」をテーマに、2026年12月31日午後7時20分より放送される『第77回NHK紅白歌合戦』の出場者が発表された。 出場者は下記。初出演は紅組に=LOVE、CUTIE STREET。白組にAyumu Imazu、Aぇ! group、EBiDAN、マカロニえんぴつ、モナキの合計7組となった。加えて特別企画には稲葉浩志が出演する。 な",
-      "groups": [
-        "EBiDAN"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "83f064af88977591",
-      "title": "上白石萌音が“カラーコーン7個”を肩に担ぐ！M!LK山中柔太朗とグラウンドで並びモデルポーズ「萌音ちゃん力持ち」「めちゃキマってる」「身長差にメロつく」の声",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000918071/",
-      "publishedAt": "2026-11-13T04:03:20.000Z",
-      "summary": "ドラマ『いろはの恋は時代をかける』（TBS系）の公式SNSで、上白石萌音とM!LKの山中柔太朗の2...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "山中柔太朗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "0162f38ba1788628",
-      "title": "YOASOBI、Ado、XG、羊文学、吉田仁人、TAXMEN（PUNPEE & OMSB）……注目新譜6作をレビュー",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/11/post-2580546.html",
-      "publishedAt": "2026-11-13T03:10:25.000Z",
-      "summary": "毎週発表される新譜の中から注目作品をレビューしていく連載「New Releases In Focus」。今回は、YOASOBI「KILLA」、Ado「シンカ」、XG「DEPENDS」、羊文学「Suger」、吉田仁人「愛の形」、TAXMEN（PUNPEE & OMSB）「PLACEBO」の6作品をピックアップした。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "02587da26b5a07fc",
-      "title": "M!LK吉田仁人の和装に大反響！自然光に映える青×金茶の着物と凛としたまなざしに「どちらの若旦那でしょうか？」「想像を遥かに超える色男っぷり」「美しすぎる」の声",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000918062/",
-      "publishedAt": "2026-11-13T03:06:15.000Z",
-      "summary": "『美しいキモノ』の公式SNSで、M!LKの吉田仁人を起用した冬号特別版（11月19日発売）の表紙ビ...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "e4f9e3f727fa0ead",
       "title": "『ベストアーティスト』STARTO9組が楽曲シャッフルメドレー スピッツ初出演、KEY TO LITも登場",
       "sourceName": "マイナビニュース エンタメ",
@@ -191,20 +174,6 @@
       "summary": "日本テレビ系音楽特番『ベストアーティスト2026』(11月28日16:00～17:00 ※一部地域除く、19:00～22:54)の第2弾出演アーティストが13日、発表された。スピッツの番組初出演をはじめ、Snow Man、なにわ男子、KEY TO LIT、超特急、JO1らの出演が決定。さらに、STARTO ENTERTAINMENT所属アーティスト9組による",
       "groups": [
         "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "034066558b382c11",
-      "title": "「J-POPシングル ウィークリーTOP30」発表。1位は原因は自分にある。『ラブリーズン』、予約1位はtimelesz『ザユウノメイ / 本当のことを言うと』（2026年11月12日付）",
-      "sourceName": "タワーレコード ニュース",
-      "sourceUrl": "https://tower.jp/feeds/article/news",
-      "articleUrl": "https://tower.jp/article/news/2026/11/12/tg002",
-      "publishedAt": "2026-11-12T10:00:00.000Z",
-      "summary": "",
-      "groups": [
-        "原因は自分にある。"
       ],
       "statuses": [],
       "memberMatches": []
@@ -239,28 +208,6 @@
       "memberMatches": []
     },
     {
-      "id": "5055c2a5a868bea2",
-      "title": "吉田仁人（M!LK）、「婦人画報の美しいキモノ 2026年冬号 吉田仁人特別版」表紙決定",
-      "sourceName": "タワーレコード ニュース",
-      "sourceUrl": "https://tower.jp/feeds/article/news",
-      "articleUrl": "https://tower.jp/article/news/2026/11/12/tgb002",
-      "publishedAt": "2026-11-12T06:20:00.000Z",
-      "summary": "",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "95738e2f147ef3cd",
       "title": "超特急・柏木悠、韓国で累計2億ビューの人気マンガ実写化で主演 濱尾ノリタカ＆大友花恋と複雑な友情描く「青春をぜひとも浴びてください!」",
       "sourceName": "マイナビニュース テレビ",
@@ -287,28 +234,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "7aea6d13daa70190",
-      "title": "吉田仁人（M!LK）、自身初主演の金曜ドラマ「溺愛 ～ 実は、最強ヒーロー ～」EDテーマ“愛の形”MV公開",
-      "sourceName": "タワーレコード ニュース",
-      "sourceUrl": "https://tower.jp/feeds/article/news",
-      "articleUrl": "https://tower.jp/article/news/2026/11/11/tg002",
-      "publishedAt": "2026-11-11T08:20:06.000Z",
-      "summary": "",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "d5f4827c5bde3268",
@@ -481,20 +406,6 @@
       "articleUrl": "https://super-dragon.jp/news/news11912/",
       "publishedAt": "2026-11-03T11:00:01.000Z",
       "summary": "下記にてイベントおよび対象商品の詳細をご確認ください。 BLUEのみなさまのご参加を心よりお待ちしております！ 【タワーレコードオンライン抽選会 概要】 タワーレコードオンラインにて、下記期間内に下記タワーレコードオンラ […] The post SUPER★DRAGON Major 2nd Album『STAR』の発売を記念し、タワーレコードオンライン抽選",
-      "groups": [
-        "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "7e88eb56cabb27fa",
-      "title": "SUPER★DRAGON Major 2nd Album「STAR」リリースイベント・特典会開催！",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news11790/",
-      "publishedAt": "2026-11-02T12:00:30.000Z",
-      "summary": "2026年12月09日(水)、SUPER★DRAGONメジャー2枚目となるアルバム「STAR」の発売を記念し、リリースイベント・特典会が決定いたしました！ SUPER★DRAGONと一緒に、素敵な思い出を作りましょう！ […] The post SUPER★DRAGON Major 2nd Album「STAR」リリースイベント・特典会開催！ first a",
       "groups": [
         "SUPER★DRAGON"
       ],
