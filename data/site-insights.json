@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T18:00:06.901Z",
+  "updatedAt": "2026-11-14T22:23:14.582Z",
   "totals": {
     "all": 125,
     "today": 0,
@@ -68,7 +68,7 @@
     },
     {
       "name": "マイナビニュース テレビ",
-      "count": 5
+      "count": 6
     },
     {
       "name": "THE FIRST TIMES",
@@ -79,11 +79,11 @@
       "count": 2
     },
     {
-      "name": "マイナビニュース エンタメ",
-      "count": 2
+      "name": "Bezzy",
+      "count": 1
     },
     {
-      "name": "Bezzy",
+      "name": "マイナビニュース エンタメ",
       "count": 1
     }
   ],
@@ -139,8 +139,8 @@
       {
         "id": "cea22e87e1b0533c",
         "title": "紅白初出場決定の23歳アイドル、マカロニえんぴつと紅白で再会! 7年前のブログに残した願いとは - 「こんなの泣く」「エモすぎる」と話題に",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "sourceName": "マイナビニュース テレビ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
         "articleUrl": "https://news.mynavi.jp/article/20261113-5318288/",
         "publishedAt": "2026-11-13T14:39:38.000Z",
         "summary": "スターダストプロモーション所属の男性アーティスト集団・EBiDANの長野凌大(原因は自分にある。)が13日、都内で行われた『第77回NHK紅白歌合戦』の初出場歌手発表会見で、4人組ロックバンド・マカロニえんぴつと再会を果たした。かつて同バンドの楽曲「レモンパイ」のミュージックビデオ(MV)に出演した長野は、7年前のブログで「いつかご一緒出来るように頑張りたい",
@@ -552,8 +552,8 @@
       {
         "id": "cea22e87e1b0533c",
         "title": "紅白初出場決定の23歳アイドル、マカロニえんぴつと紅白で再会! 7年前のブログに残した願いとは - 「こんなの泣く」「エモすぎる」と話題に",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "sourceName": "マイナビニュース テレビ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
         "articleUrl": "https://news.mynavi.jp/article/20261113-5318288/",
         "publishedAt": "2026-11-13T14:39:38.000Z",
         "summary": "スターダストプロモーション所属の男性アーティスト集団・EBiDANの長野凌大(原因は自分にある。)が13日、都内で行われた『第77回NHK紅白歌合戦』の初出場歌手発表会見で、4人組ロックバンド・マカロニえんぴつと再会を果たした。かつて同バンドの楽曲「レモンパイ」のミュージックビデオ(MV)に出演した長野は、7年前のブログで「いつかご一緒出来るように頑張りたい",
