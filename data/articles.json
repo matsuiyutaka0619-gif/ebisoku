@@ -1,6 +1,37 @@
 {
-  "updatedAt": "2026-11-13T19:40:51.751Z",
+  "updatedAt": "2026-11-14T06:21:16.124Z",
   "articles": [
+    {
+      "id": "b298d62e075aef87",
+      "title": "EBiDANのそっくり兄弟！超特急・タクヤ＆ONE N' ONLY・NAOYA\"草川兄弟\"の仲良し2ショットや幼少期エピソードを紹介",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000917109/",
+      "publishedAt": "2026-11-14T03:00:41.000Z",
+      "summary": "超特急、M!LK、ONE N’ ONLY、BUDDiiSなど、様々なグループが所属する「EBiDAN（恵比寿学...",
+      "groups": [
+        "EBiDAN",
+        "超特急",
+        "M!LK",
+        "ONE N' ONLY",
+        "BUDDiiS"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "タクヤ",
+          "group": "超特急",
+          "status": "active"
+        },
+        {
+          "name": "NAOYA",
+          "group": "ONE N' ONLY",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "cea22e87e1b0533c",
       "title": "紅白初出場決定の23歳アイドル、マカロニえんぴつと紅白で再会! 7年前のブログに残した願いとは - 「こんなの泣く」「エモすぎる」と話題に",
@@ -61,32 +92,10 @@
       "memberMatches": []
     },
     {
-      "id": "6989f219a0509ea4",
-      "title": "温厚な母親が“激怒”したワケとは…?「後にも先にもあんなに怒られたのはあれっきり」 リスナーからの理不尽エピソードにM!LK吉田仁人もビックリ「どこも腹が立つ要素ない」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-      "articleUrl": "https://news.mynavi.jp/article/20261113-5294207/",
-      "publishedAt": "2026-11-13T10:00:00.000Z",
-      "summary": "「子供のころ『いいとも!』ごっこをして遊んでいたら……」――。アイドルグループ・M!LKの吉田仁人が5日、文化放送のラジオ番組『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)に出演。タモリのものまねで“激怒”されたエピソードに同情した。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "7f7fd28aed140f62",
       "title": "EBiDAN、紅白初出場会見で「嬉しすぎてYES!」連発! メンバーの“全力便乗”にMiLK・曽野舜太「一発ギャグみたいに使って」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
       "articleUrl": "https://news.mynavi.jp/article/20261113-5316240/",
       "publishedAt": "2026-11-13T08:22:32.000Z",
       "summary": "スターダストプロモーション所属の男性アーティスト集団・EBiDANが13日、都内で行われた『第77回NHK紅白歌合戦』の初出場歌手発表会見に登壇。結成15年での初出場に喜びを語る一方、楽曲「好きすぎて滅!」ならぬ「嬉しすぎてYES!」というフレーズがメンバーの間で飛び交い、にぎやかな掛け合いを繰り広げた。",
@@ -108,8 +117,8 @@
     {
       "id": "1adaa214998d76c7",
       "title": "マカロニえんぴつ、紅白初出場までの苦悩告白「今年こそ」が何度もかなわず...結成14年でつかんだ大舞台",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
       "articleUrl": "https://news.mynavi.jp/article/20261113-5315994/",
       "publishedAt": "2026-11-13T07:29:45.000Z",
       "summary": "4人組ロックバンド・マカロニえんぴつが13日、『第77回NHK紅白歌合戦』の初出場歌手発表会見に出席。結成14年で念願の初出場を決めた喜びを語るとともに、過去には出場がかなわず「半ばちょっと紅白は諦めていた」と告白。また、L'Arc-en-Cielのkenとの共演や、EBiDANの長野凌大との再会についても語った。",
@@ -129,32 +138,10 @@
       ]
     },
     {
-      "id": "d127a7a469ddbc3b",
-      "title": "M!LK吉田仁人が両こぶしをあごの下にぎゅっ！首をかしげて「じんちゅ、好きんちゅだよ」…「かわいすぎて苦しい」「なんのご褒美ですか？」「これ公式なのアツい」とファン悶絶",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000918334/",
-      "publishedAt": "2026-11-13T07:02:18.000Z",
-      "summary": "文化放送『M!LK 吉田仁人のレコメン！』の公式Xが更新され、11月12日放送回のオフショットや動...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "6b11a2e2c8aca308",
       "title": "『紅白』出場歌手発表 Aぇ! group、CUTIE STREET、マカロニえんぴつ、=LOVE、EBiDAN、モナキ、Ayumu Imazuらが初出場 特別企画ではあの大物歌手がソロで初出場",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
       "articleUrl": "https://news.mynavi.jp/article/20261113-5314979/",
       "publishedAt": "2026-11-13T04:14:24.000Z",
       "summary": "『第77回NHK紅白歌合戦』(12月31日19:20～23:45 ※中断ニュースあり)の出場歌手が、きょう13日に行われた会見で発表された。",
@@ -167,8 +154,8 @@
     {
       "id": "e4f9e3f727fa0ead",
       "title": "『ベストアーティスト』STARTO9組が楽曲シャッフルメドレー スピッツ初出演、KEY TO LITも登場",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
       "articleUrl": "https://news.mynavi.jp/article/20261113-5310653/",
       "publishedAt": "2026-11-13T03:00:00.000Z",
       "summary": "日本テレビ系音楽特番『ベストアーティスト2026』(11月28日16:00～17:00 ※一部地域除く、19:00～22:54)の第2弾出演アーティストが13日、発表された。スピッツの番組初出演をはじめ、Snow Man、なにわ男子、KEY TO LIT、超特急、JO1らの出演が決定。さらに、STARTO ENTERTAINMENT所属アーティスト9組による",
