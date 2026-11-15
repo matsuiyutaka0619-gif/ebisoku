@@ -1,6 +1,53 @@
 {
-  "updatedAt": "2026-11-15T06:29:44.692Z",
+  "updatedAt": "2026-11-15T18:50:29.058Z",
   "articles": [
+    {
+      "id": "1cd7f03f43898a2d",
+      "title": "RE-GE、汐留フリーライブで新曲「青の行方」初披露＆配信リリース決定",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1104639",
+      "publishedAt": "2026-11-15T09:00:41.000Z",
+      "summary": "RE-GEが本日11月15日(日)、汐留シオサイト地下歩道にてフリーライブを開催した。このステージで新曲「青の行方」が初披露され、同曲が11月20日(金)に配信リリースされることも発表となった。 RE-GEは現在10月28日(水)にリリースされた2ndシングル「どこにいても絶対君を見つけるよ」の発売を記念したフリーライブツアーを開催中だ。その中でのサプライズ",
+      "groups": [
+        "EBiDAN",
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "3539466ff839ca21",
+      "title": "M!LK山中柔太朗が大好物のチーズ料理を口いっぱいに頬張る！思わず出た素の「うますぎて滅」に佐野勇斗や塩﨑太智からのツッコミも話題",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000919241/",
+      "publishedAt": "2026-11-15T08:28:30.000Z",
+      "summary": "M!LK山中柔太朗が大好物のチーズ料理を頬張る動画が、TBS系『M!LKの爆裂ミッション』の公式SNS...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "塩﨑太智",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "cad4306c99f819e3",
       "title": "超特急、24thシングル「エトランス・フィーバー」全形態ジャケット写真公開！初回限定盤にはメンバー直筆の干支イラスト",
@@ -9,20 +56,6 @@
       "articleUrl": "https://www.thefirsttimes.jp/news/0000919055/",
       "publishedAt": "2026-11-15T03:00:48.000Z",
       "summary": "9人組メインダンサー＆バックボーカルグループ・超特急の12月16日に発売される24thシングル「...",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "00841af8354a7147",
-      "title": "超特急、新SG「エトランス・フィーバー」ジャケット全公開。初回限定盤にメンバー直筆干支イラストが登場",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1104579",
-      "publishedAt": "2026-11-15T03:00:04.000Z",
-      "summary": "超特急が、12月16日(水)発売の24thシングル「エトランス・フィーバー」全形態のジャケット写真を公開した。 今作の表題曲「エトランス・フィーバー」は、ユーロビート×干支という意外な組み合わせから生まれた、新たなトンチキソング。「生まれ持ったキャラクターで、誰もが主役になれる」という肯定的なメッセージを、疾走感あふれるビートに乗せて届けている。カップリング",
       "groups": [
         "超特急"
       ],
@@ -113,64 +146,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "cd3710c07ed8838e",
-      "title": "「ギャー!!」と大絶叫する母、弟は「ギャン泣き」 M!LK吉田仁人、子供の頃に高熱で寝込んでいたある夜の大パニック 母から言われた“理不尽な一言”とは「めちゃくちゃな形相で怒られて…」「褒めてほしいわ(笑)」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-      "articleUrl": "https://news.mynavi.jp/article/20261114-5294256/",
-      "publishedAt": "2026-11-14T10:00:00.000Z",
-      "summary": "「お母さんが背面ダイブしちゃって……」――。アイドルグループ・M!LKの吉田仁人が5日、文化放送のラジオ番組『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)に出演。子供のころに言われた母親の“理不尽な一言”をぶっちゃけた。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "a09fdf2c80432f59",
-      "title": "超特急、東京ドーム公演がHuluにて独占ライブ配信決定！超特急と8号車が刻む歴史のあらたなる1ページ",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000918935/",
-      "publishedAt": "2026-11-14T09:00:22.000Z",
-      "summary": "超特急が11月25日に東京ドームで開催する『超特急 東京ドーム公演「BULLET TRAIN 1st DOME LIV...",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "07b99cefc0878318",
-      "title": "M!LK山中柔太朗がふわふわ前髪で横顔や振り向きなどペールブルーのヴィトン冬コーデでポージング！「どれも美しい」「彼氏感あってメロい」「前髪かわいい」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000918884/",
-      "publishedAt": "2026-11-14T07:38:40.000Z",
-      "summary": "M!LK山中柔太朗がFashionsnapショットを公開した。 ■ホリデー・インスタレーションをめぐる姿...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "山中柔太朗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "cea22e87e1b0533c",
