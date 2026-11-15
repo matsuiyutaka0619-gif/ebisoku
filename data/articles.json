@@ -1,6 +1,62 @@
 {
-  "updatedAt": "2026-11-14T22:23:14.580Z",
+  "updatedAt": "2026-11-15T06:29:44.692Z",
   "articles": [
+    {
+      "id": "cad4306c99f819e3",
+      "title": "超特急、24thシングル「エトランス・フィーバー」全形態ジャケット写真公開！初回限定盤にはメンバー直筆の干支イラスト",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000919055/",
+      "publishedAt": "2026-11-15T03:00:48.000Z",
+      "summary": "9人組メインダンサー＆バックボーカルグループ・超特急の12月16日に発売される24thシングル「...",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "00841af8354a7147",
+      "title": "超特急、新SG「エトランス・フィーバー」ジャケット全公開。初回限定盤にメンバー直筆干支イラストが登場",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1104579",
+      "publishedAt": "2026-11-15T03:00:04.000Z",
+      "summary": "超特急が、12月16日(水)発売の24thシングル「エトランス・フィーバー」全形態のジャケット写真を公開した。 今作の表題曲「エトランス・フィーバー」は、ユーロビート×干支という意外な組み合わせから生まれた、新たなトンチキソング。「生まれ持ったキャラクターで、誰もが主役になれる」という肯定的なメッセージを、疾走感あふれるビートに乗せて届けている。カップリング",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "b10e6e13c2be4a04",
+      "title": "超特急『エトランス・フィーバー』ジャケ写公開、初回盤にはメンバー手描きの干支イラスト",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/11/95036/",
+      "publishedAt": "2026-11-15T03:00:00.000Z",
+      "summary": "東京ドーム公演2Daysを目前に控える9人組メインダンサー＆バックボーカルグループ・超特急が、12月16日(水)に発売する24thシングル『エトランス・フィーバー』の全ジャケット写真を公開した。 今回のジャケット写真では、表題曲のテーマである「干支」をそれぞれ異なる形で表現。SNSでも話題となった顔はめパネルをあしらった通常盤に加え、初回限定盤にはメンバー自",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "6a3154e9079d08c7",
+      "title": "M!LK5人の“自撮りショット”が眼福すぎる！王子様ビジュアルからお茶目な素顔まで個性溢れる表情に注目",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000915110/",
+      "publishedAt": "2026-11-15T00:00:25.000Z",
+      "summary": "M!LKのメンバーがSNSに投稿した自撮りショットをまとめて紹介。メンバーカラーの華やかな衣装...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "1435a68b28c395c7",
       "title": "【＠Loppi・HMV限定盤】Blu-ray『EBiDAN THE LIVE 2026 15th Anniversary』2027年2月10日(水)発売決定！さらにEBiDAN15周年アニバーサリーエディション版『EBiDAN Visual Dictionary 2027～15th Anniversary Edition～』も同時発売！本日より予約受付開始！",
@@ -112,37 +168,6 @@
         {
           "name": "山中柔太朗",
           "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "b298d62e075aef87",
-      "title": "EBiDANのそっくり兄弟！超特急・タクヤ＆ONE N' ONLY・NAOYA\"草川兄弟\"の仲良し2ショットや幼少期エピソードを紹介",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000917109/",
-      "publishedAt": "2026-11-14T03:00:41.000Z",
-      "summary": "超特急、M!LK、ONE N’ ONLY、BUDDiiSなど、様々なグループが所属する「EBiDAN（恵比寿学...",
-      "groups": [
-        "EBiDAN",
-        "超特急",
-        "M!LK",
-        "ONE N' ONLY",
-        "BUDDiiS"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "タクヤ",
-          "group": "超特急",
-          "status": "active"
-        },
-        {
-          "name": "NAOYA",
-          "group": "ONE N' ONLY",
           "status": "active"
         }
       ]
@@ -1218,20 +1243,6 @@
       "groups": [
         "EBiDAN",
         "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "976120bc3101651a",
-      "title": "M!LKが“ユニバース”を背負う新アー写公開、1stミニアルバムリード曲は早くもチャート席巻中",
-      "sourceName": "Bezzy",
-      "sourceUrl": "https://bezzy.jp/feed/",
-      "articleUrl": "https://bezzy.jp/2026/09/91880/",
-      "publishedAt": "2026-09-08T09:00:00.000Z",
-      "summary": "5人組ダンスボーカルグループ・M!LKが、9月16日(水)に控えるミニアルバム『LOVE ENG!NE』リリースに先駆けて最新アーティスト写真を公開した。 M!LKにとって初ミニアルバムとなる本作からは、リード曲「時空超えてユニバース」（ときこえてゆにばーす）の先行配信が9月7日(月)にスタート。配信開始直後からXのトレンドで「#ときユニ」が1位を獲得したほ",
-      "groups": [
-        "M!LK"
       ],
       "statuses": [],
       "memberMatches": []
