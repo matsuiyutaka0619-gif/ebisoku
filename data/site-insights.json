@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-16T06:27:05.162Z",
+  "updatedAt": "2026-11-16T22:00:18.959Z",
   "totals": {
-    "all": 130,
-    "today": 6,
+    "all": 131,
+    "today": 1,
     "week": 26
   },
   "groupRanking": [
     {
       "name": "EBiDAN",
-      "count": 7
+      "count": 8
     },
     {
       "name": "M!LK",
@@ -25,35 +25,31 @@
     {
       "name": "超特急",
       "count": 4
-    },
-    {
-      "name": "BUDDiiS",
-      "count": 1
     }
   ],
   "memberRanking": [
     {
       "name": "吉田仁人",
-      "count": 4
-    },
-    {
-      "name": "長野凌大",
       "count": 3
     },
     {
-      "name": "タクヤ",
+      "name": "曽野舜太",
       "count": 2
     },
     {
-      "name": "SHOOT",
+      "name": "長野凌大",
+      "count": 2
+    },
+    {
+      "name": "タクヤ",
       "count": 1
     },
     {
-      "name": "塩﨑太智",
+      "name": "山中柔太朗",
       "count": 1
     },
     {
-      "name": "曽野舜太",
+      "name": "杢代和人",
       "count": 1
     }
   ],
@@ -67,143 +63,41 @@
       "count": 5
     },
     {
-      "name": "タワーレコード ニュース",
+      "name": "THE FIRST TIMES",
       "count": 4
     },
     {
-      "name": "THE FIRST TIMES",
-      "count": 3
-    },
-    {
-      "name": "Bezzy",
-      "count": 2
+      "name": "タワーレコード ニュース",
+      "count": 4
     },
     {
       "name": "QJWeb",
       "count": 2
     },
     {
-      "name": "リアルサウンド 映画部",
+      "name": "マイナビニュース エンタメ",
       "count": 2
     },
     {
-      "name": "マイナビニュース エンタメ",
+      "name": "Bezzy",
+      "count": 1
+    },
+    {
+      "name": "WWSチャンネル",
       "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
-    "M!LK": [
-      {
-        "id": "b489e366cfc2c56f",
-        "title": "M!LK吉田仁人＆塩﨑太智が“双子コーデ”でダンス！同じ振りでこの温度差、滑るように横へ動く塩﨑に吉田は思わず目を丸く「じんだいの小競り合い大好き」「だいちゃん可動域が広すぎる笑」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000919782/",
-        "publishedAt": "2026-11-16T04:45:58.000Z",
-        "summary": "M!LKの公式SNSで、吉田仁人と塩崎太智（崎は、たつさきが正式表記）が「ザッツ！超常」に合わ...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "f06cd8c9eef3e546",
-        "title": "NHK『うたコン』で、昭和、平成、令和のみんなで踊れるヒット曲を特集！M!LKはテレビ初披露の最新曲「ザッツ！超常」を生演奏でパフォーマンス",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000919608/",
-        "publishedAt": "2026-11-16T03:00:11.000Z",
-        "summary": "11月17日放送のNHK『うたコン』では、昭和・平成・令和の「踊れるヒット曲」を特集する。 ■曲...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "7f7fd28aed140f62",
-        "title": "EBiDAN、紅白初出場会見で「嬉しすぎてYES!」連発! メンバーの“全力便乗”にMiLK・曽野舜太「一発ギャグみたいに使って」",
-        "sourceName": "マイナビニュース テレビ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-        "articleUrl": "https://news.mynavi.jp/article/20261113-5316240/",
-        "publishedAt": "2026-11-13T08:22:32.000Z",
-        "summary": "スターダストプロモーション所属の男性アーティスト集団・EBiDANが13日、都内で行われた『第77回NHK紅白歌合戦』の初出場歌手発表会見に登壇。結成15年での初出場に喜びを語る一方、楽曲「好きすぎて滅!」ならぬ「嬉しすぎてYES!」というフレーズがメンバーの間で飛び交い、にぎやかな掛け合いを繰り広げた。",
-        "groups": [
-          "EBiDAN",
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "5055c2a5a868bea2",
-        "title": "吉田仁人（M!LK）、「婦人画報の美しいキモノ 2026年冬号 吉田仁人特別版」表紙決定",
-        "sourceName": "タワーレコード ニュース",
-        "sourceUrl": "https://tower.jp/feeds/article/news",
-        "articleUrl": "https://tower.jp/article/news/2026/11/12/tgb002",
-        "publishedAt": "2026-11-12T06:20:00.000Z",
-        "summary": "",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "6a65d0ba5d7d9992",
-        "title": "YUMEKIのダンスは何気ない生活からやってくる。「Neko（ねこ）」で立証された五感とダンスの関係性",
-        "sourceName": "QJWeb",
-        "sourceUrl": "https://qjweb.jp/feed/",
-        "articleUrl": "https://qjweb.jp/feature/166301/",
-        "publishedAt": "2026-11-11T09:00:00.000Z",
-        "summary": "13歳からダンスを始め、日本、韓国、中国、アメリカなど数々の国境を越え、ダンスとの仲を深めていったYUMEKI。これまで日本でM!LK、ME:I、King & Prince、韓国ではILLIT、ITZY、NCT 127などの有名アーティストを振り付けてきた。 2026年には、『PRODUCE.. 投稿 YUMEKIのダンスは何気ない生活からやってくる。「Ne",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
     "原因は自分にある。": [
       {
-        "id": "5db3ee2be0f23ccf",
-        "title": "映画『時空警察ヴェッカー シブヤネクサス』2027年2月26日公開決定 主演は本島純政",
-        "sourceName": "リアルサウンド 映画部",
-        "sourceUrl": "https://realsound.jp/movie/feed",
-        "articleUrl": "https://realsound.jp/movie/2026/11/post-2585119.html",
-        "publishedAt": "2026-11-16T03:30:30.000Z",
-        "summary": "特撮SFアクション『時空警察ヴェッカー』シリーズの映画最新作『時空警察ヴェッカー シブヤネクサス』が、2027年2月26日より新宿バルト9ほかで公開されることが決定。本島純政が主演を務め、平澤宏々路、長野凌大、小寺結花",
+        "id": "bafe876aea60e4eb",
+        "title": "原因は自分にある。が自身初のオリコン週間シングル1位獲得！「生きていて今が一番嬉しいです！」（杢代和人）",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000920069/",
+        "publishedAt": "2026-11-16T19:00:53.000Z",
+        "summary": "2026年11月23日付「オリコン週間CDランキング」（集計期間：2026年11月9日～11月15日）が発表...",
         "groups": [
           "原因は自分にある。"
         ],
@@ -212,7 +106,7 @@
         ],
         "memberMatches": [
           {
-            "name": "長野凌大",
+            "name": "杢代和人",
             "group": "原因は自分にある。",
             "status": "active"
           }
@@ -293,119 +187,134 @@
         "memberMatches": []
       }
     ],
-    "BUDDiiS": [
+    "M!LK": [
       {
-        "id": "84b567181b58fefb",
-        "title": "高橋文哉がディズニー満喫！森愁斗ら8LOOMメンバーとおそろいコーデで堂々記念撮影「遭遇したすぎる」「イケメン集団」の声、綱啓永も反応",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000919472/",
-        "publishedAt": "2026-11-16T01:57:40.000Z",
-        "summary": "高橋文哉が自身のInstagramを更新。BUDDiiSの森愁斗らとの、東京ディズニーランド満喫ショット...",
-        "groups": [
-          "BUDDiiS"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "SHOOT",
-            "group": "BUDDiiS",
-            "status": "active"
-          }
-        ]
-      }
-    ],
-    "超特急": [
-      {
-        "id": "a58bcb58e3c57224",
-        "title": "中川龍太郎監督の短篇集3作品が劇場上映へ 小関裕太×藤原樹×草川拓弥×樋口幸平が主演",
-        "sourceName": "リアルサウンド 映画部",
-        "sourceUrl": "https://realsound.jp/movie/feed",
-        "articleUrl": "https://realsound.jp/movie/2026/11/post-2584976.html",
-        "publishedAt": "2026-11-16T01:00:55.000Z",
-        "summary": "中川龍太郎監督が手がけた短篇ドラマ『メロスの誕生』『欲望（蜘蛛の糸のように）』『こころ』の3作品を1本化し、2027年1月22日より新宿ピカデリーほか全国の劇場にて2週間限定で上映されることが決定した。 本シリーズは",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "タクヤ",
-            "group": "超特急",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "eca139ad46d2dd81",
-        "title": "小関裕太×太宰治、藤原樹×芥川龍之介、草川拓弥×夏目漱石 中川龍太郎監督の3作品が劇場へ",
+        "id": "b11e6d21e358be36",
+        "title": "M!LK吉田仁人推しのヘビーリスナーが“ぬい”持参でラジオブースに登場――差し入れのコーヒーにも感激「僕にまで直接手渡しで…」「捨てずに持って帰ります」",
         "sourceName": "マイナビニュース エンタメ",
         "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20261116-5331891/",
-        "publishedAt": "2026-11-16T01:00:00.000Z",
-        "summary": "映画監督・中川龍太郎氏が手がけた短編3作品『メロスの誕生』『欲望(蜘蛛の糸のように)』『こころ』が、2027年1月22日から新宿ピカデリーほか全国31館で2週間限定公開される。",
+        "articleUrl": "https://news.mynavi.jp/article/20261116-5336811/",
+        "publishedAt": "2026-11-16T12:00:00.000Z",
+        "summary": "「ピッチの正確さがすごく好き」「舌を前にして歌う特徴がある」――。声優の汐谷文康が12日、文化放送『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)にゲスト出演。M!LK・吉田仁人の魅力を“プロ目線”で熱弁した。",
         "groups": [
-          "超特急"
+          "M!LK"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "タクヤ",
-            "group": "超特急",
+            "name": "吉田仁人",
+            "group": "M!LK",
             "status": "active"
           }
         ]
       },
       {
-        "id": "b10e6e13c2be4a04",
-        "title": "超特急『エトランス・フィーバー』ジャケ写公開、初回盤にはメンバー手描きの干支イラスト",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/11/95036/",
-        "publishedAt": "2026-11-15T03:00:00.000Z",
-        "summary": "東京ドーム公演2Daysを目前に控える9人組メインダンサー＆バックボーカルグループ・超特急が、12月16日(水)に発売する24thシングル『エトランス・フィーバー』の全ジャケット写真を公開した。 今回のジャケット写真では、表題曲のテーマである「干支」をそれぞれ異なる形で表現。SNSでも話題となった顔はめパネルをあしらった通常盤に加え、初回限定盤にはメンバー自",
+        "id": "a8bec2ee32c3fc97",
+        "title": "M!LK曽野舜太『TVガイドPERSON』で世界的写真家レスリー・キーと初セッション！先行カット＆コメントも公開",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000920137/",
+        "publishedAt": "2026-11-16T11:44:46.000Z",
+        "summary": "M!LKの曽野舜太が、12月11日に発売される『週刊TVガイド関西版2027年1月24日号増刊 TVガイドPE...",
         "groups": [
-          "超特急"
+          "M!LK"
         ],
-        "statuses": [],
-        "memberMatches": []
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
       },
       {
-        "id": "e4f9e3f727fa0ead",
-        "title": "『ベストアーティスト』STARTO9組が楽曲シャッフルメドレー スピッツ初出演、KEY TO LITも登場",
+        "id": "ee81e10471022280",
+        "title": "M!LK山中柔太朗と“まるで添い寝”！スイートルームのベッドで腕に頬を寄せ、こちらを見つめる姿に「視線が甘い」「美しさに加えて色気が…」「都合のいい夢かと思った」の声",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000919951/",
+        "publishedAt": "2026-11-16T06:28:55.000Z",
+        "summary": "『東京カレンダー』の公式Xで、M!LKの山中柔太朗の撮影カットが公開された。山中は11月20日発...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "7f7fd28aed140f62",
+        "title": "EBiDAN、紅白初出場会見で「嬉しすぎてYES!」連発! メンバーの“全力便乗”にMiLK・曽野舜太「一発ギャグみたいに使って」",
         "sourceName": "マイナビニュース テレビ",
         "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-        "articleUrl": "https://news.mynavi.jp/article/20261113-5310653/",
-        "publishedAt": "2026-11-13T03:00:00.000Z",
-        "summary": "日本テレビ系音楽特番『ベストアーティスト2026』(11月28日16:00～17:00 ※一部地域除く、19:00～22:54)の第2弾出演アーティストが13日、発表された。スピッツの番組初出演をはじめ、Snow Man、なにわ男子、KEY TO LIT、超特急、JO1らの出演が決定。さらに、STARTO ENTERTAINMENT所属アーティスト9組による",
+        "articleUrl": "https://news.mynavi.jp/article/20261113-5316240/",
+        "publishedAt": "2026-11-13T08:22:32.000Z",
+        "summary": "スターダストプロモーション所属の男性アーティスト集団・EBiDANが13日、都内で行われた『第77回NHK紅白歌合戦』の初出場歌手発表会見に登壇。結成15年での初出場に喜びを語る一方、楽曲「好きすぎて滅!」ならぬ「嬉しすぎてYES!」というフレーズがメンバーの間で飛び交い、にぎやかな掛け合いを繰り広げた。",
         "groups": [
-          "超特急"
+          "EBiDAN",
+          "M!LK"
         ],
-        "statuses": [],
-        "memberMatches": []
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
       },
       {
-        "id": "69da96bf9d421a41",
-        "title": "「すごい好きだった」「毎日先生と…」超特急・柏木悠が学生に戻ってやりたいことを告白",
-        "sourceName": "マイナビニュース 映画",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
-        "articleUrl": "https://news.mynavi.jp/article/20261027-5205202/",
-        "publishedAt": "2026-10-27T12:00:00.000Z",
-        "summary": "映画『羊の皮を着たケモノ』(12月11日公開)に出演する、鈴木伸之と柏木悠が26日、東京・日比谷で行われた「第39回東京国際映画祭」(TIFF)のレッドカーペットに、楊礼平監督とともに登場した。",
+        "id": "5055c2a5a868bea2",
+        "title": "吉田仁人（M!LK）、「婦人画報の美しいキモノ 2026年冬号 吉田仁人特別版」表紙決定",
+        "sourceName": "タワーレコード ニュース",
+        "sourceUrl": "https://tower.jp/feeds/article/news",
+        "articleUrl": "https://tower.jp/article/news/2026/11/12/tgb002",
+        "publishedAt": "2026-11-12T06:20:00.000Z",
+        "summary": "",
         "groups": [
-          "超特急"
+          "M!LK"
         ],
-        "statuses": [],
-        "memberMatches": []
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
       }
     ],
     "EBiDAN": [
+      {
+        "id": "744d5f0f34e9a381",
+        "title": "『CDTVライブ！ライブ！』で「EBiDANフェス」開催決定！BE:FIRST「マンスリーライブ！」ラスト週の歌唱楽曲も発表",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000920033/",
+        "publishedAt": "2026-11-16T11:55:42.000Z",
+        "summary": "11月30日19時から2時間にわたって生放送されるTBS『CDTVライブ！ライブ！』の出演アーティスト...",
+        "groups": [
+          "EBiDAN"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
       {
         "id": "1435a68b28c395c7",
         "title": "【＠Loppi・HMV限定盤】Blu-ray『EBiDAN THE LIVE 2026 15th Anniversary』2027年2月10日(水)発売決定！さらにEBiDAN15周年アニバーサリーエディション版『EBiDAN Visual Dictionary 2027～15th Anniversary Edition～』も同時発売！本日より予約受付開始！",
@@ -480,29 +389,86 @@
         ],
         "statuses": [],
         "memberMatches": []
+      }
+    ],
+    "超特急": [
+      {
+        "id": "149d84772438074f",
+        "title": "超特急・小笠原海、メンバーカラーのブルーニットで秋冬コーデ！アーノルド パーマーと限定コラボ",
+        "sourceName": "WWSチャンネル",
+        "sourceUrl": "https://www.wws-channel.com/feed",
+        "articleUrl": "https://www.wws-channel.com/fashion2/681144.html",
+        "publishedAt": "2026-11-16T11:15:57.000Z",
+        "summary": "超特急のメンバーで俳優としても活動する小笠原海が、11月10日に公開されたアーノルド パーマーの公式WEBマガジン『Arnold Palmer Journal』の創刊号に登場した。誌面では、メンバーカラーのブルーのニットを主役にした秋冬コーディネートを披露。インタビュー ... The post 超特急・小笠原海、メンバーカラーのブルーニットで秋冬コーデ！ア",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
       },
       {
-        "id": "1adaa214998d76c7",
-        "title": "マカロニえんぴつ、紅白初出場までの苦悩告白「今年こそ」が何度もかなわず...結成14年でつかんだ大舞台",
-        "sourceName": "マイナビニュース テレビ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-        "articleUrl": "https://news.mynavi.jp/article/20261113-5315994/",
-        "publishedAt": "2026-11-13T07:29:45.000Z",
-        "summary": "4人組ロックバンド・マカロニえんぴつが13日、『第77回NHK紅白歌合戦』の初出場歌手発表会見に出席。結成14年で念願の初出場を決めた喜びを語るとともに、過去には出場がかなわず「半ばちょっと紅白は諦めていた」と告白。また、L'Arc-en-Cielのkenとの共演や、EBiDANの長野凌大との再会についても語った。",
+        "id": "eca139ad46d2dd81",
+        "title": "小関裕太×太宰治、藤原樹×芥川龍之介、草川拓弥×夏目漱石 中川龍太郎監督の3作品が劇場へ",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20261116-5331891/",
+        "publishedAt": "2026-11-16T01:00:00.000Z",
+        "summary": "映画監督・中川龍太郎氏が手がけた短編3作品『メロスの誕生』『欲望(蜘蛛の糸のように)』『こころ』が、2027年1月22日から新宿ピカデリーほか全国31館で2週間限定公開される。",
         "groups": [
-          "EBiDAN",
-          "原因は自分にある。"
+          "超特急"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "長野凌大",
-            "group": "原因は自分にある。",
+            "name": "タクヤ",
+            "group": "超特急",
             "status": "active"
           }
         ]
+      },
+      {
+        "id": "b10e6e13c2be4a04",
+        "title": "超特急『エトランス・フィーバー』ジャケ写公開、初回盤にはメンバー手描きの干支イラスト",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/11/95036/",
+        "publishedAt": "2026-11-15T03:00:00.000Z",
+        "summary": "東京ドーム公演2Daysを目前に控える9人組メインダンサー＆バックボーカルグループ・超特急が、12月16日(水)に発売する24thシングル『エトランス・フィーバー』の全ジャケット写真を公開した。 今回のジャケット写真では、表題曲のテーマである「干支」をそれぞれ異なる形で表現。SNSでも話題となった顔はめパネルをあしらった通常盤に加え、初回限定盤にはメンバー自",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "e4f9e3f727fa0ead",
+        "title": "『ベストアーティスト』STARTO9組が楽曲シャッフルメドレー スピッツ初出演、KEY TO LITも登場",
+        "sourceName": "マイナビニュース テレビ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
+        "articleUrl": "https://news.mynavi.jp/article/20261113-5310653/",
+        "publishedAt": "2026-11-13T03:00:00.000Z",
+        "summary": "日本テレビ系音楽特番『ベストアーティスト2026』(11月28日16:00～17:00 ※一部地域除く、19:00～22:54)の第2弾出演アーティストが13日、発表された。スピッツの番組初出演をはじめ、Snow Man、なにわ男子、KEY TO LIT、超特急、JO1らの出演が決定。さらに、STARTO ENTERTAINMENT所属アーティスト9組による",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "69da96bf9d421a41",
+        "title": "「すごい好きだった」「毎日先生と…」超特急・柏木悠が学生に戻ってやりたいことを告白",
+        "sourceName": "マイナビニュース 映画",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
+        "articleUrl": "https://news.mynavi.jp/article/20261027-5205202/",
+        "publishedAt": "2026-10-27T12:00:00.000Z",
+        "summary": "映画『羊の皮を着たケモノ』(12月11日公開)に出演する、鈴木伸之と柏木悠が26日、東京・日比谷で行われた「第39回東京国際映画祭」(TIFF)のレッドカーペットに、楊礼平監督とともに登場した。",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
       }
     ],
     "SUPER★DRAGON": [
