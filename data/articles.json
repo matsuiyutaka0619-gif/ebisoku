@@ -1,29 +1,14 @@
 {
-  "updatedAt": "2026-11-15T18:50:29.058Z",
+  "updatedAt": "2026-11-16T06:27:05.160Z",
   "articles": [
     {
-      "id": "1cd7f03f43898a2d",
-      "title": "RE-GE、汐留フリーライブで新曲「青の行方」初披露＆配信リリース決定",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1104639",
-      "publishedAt": "2026-11-15T09:00:41.000Z",
-      "summary": "RE-GEが本日11月15日(日)、汐留シオサイト地下歩道にてフリーライブを開催した。このステージで新曲「青の行方」が初披露され、同曲が11月20日(金)に配信リリースされることも発表となった。 RE-GEは現在10月28日(水)にリリースされた2ndシングル「どこにいても絶対君を見つけるよ」の発売を記念したフリーライブツアーを開催中だ。その中でのサプライズ",
-      "groups": [
-        "EBiDAN",
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "3539466ff839ca21",
-      "title": "M!LK山中柔太朗が大好物のチーズ料理を口いっぱいに頬張る！思わず出た素の「うますぎて滅」に佐野勇斗や塩﨑太智からのツッコミも話題",
+      "id": "b489e366cfc2c56f",
+      "title": "M!LK吉田仁人＆塩﨑太智が“双子コーデ”でダンス！同じ振りでこの温度差、滑るように横へ動く塩﨑に吉田は思わず目を丸く「じんだいの小競り合い大好き」「だいちゃん可動域が広すぎる笑」",
       "sourceName": "THE FIRST TIMES",
       "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000919241/",
-      "publishedAt": "2026-11-15T08:28:30.000Z",
-      "summary": "M!LK山中柔太朗が大好物のチーズ料理を頬張る動画が、TBS系『M!LKの爆裂ミッション』の公式SNS...",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000919782/",
+      "publishedAt": "2026-11-16T04:45:58.000Z",
+      "summary": "M!LKの公式SNSで、吉田仁人と塩崎太智（崎は、たつさきが正式表記）が「ザッツ！超常」に合わ...",
       "groups": [
         "M!LK"
       ],
@@ -32,35 +17,118 @@
       ],
       "memberMatches": [
         {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
           "name": "塩﨑太智",
           "group": "M!LK",
           "status": "active"
         },
         {
-          "name": "山中柔太朗",
+          "name": "吉田仁人",
           "group": "M!LK",
           "status": "active"
         }
       ]
     },
     {
-      "id": "cad4306c99f819e3",
-      "title": "超特急、24thシングル「エトランス・フィーバー」全形態ジャケット写真公開！初回限定盤にはメンバー直筆の干支イラスト",
+      "id": "5db3ee2be0f23ccf",
+      "title": "映画『時空警察ヴェッカー シブヤネクサス』2027年2月26日公開決定 主演は本島純政",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/11/post-2585119.html",
+      "publishedAt": "2026-11-16T03:30:30.000Z",
+      "summary": "特撮SFアクション『時空警察ヴェッカー』シリーズの映画最新作『時空警察ヴェッカー シブヤネクサス』が、2027年2月26日より新宿バルト9ほかで公開されることが決定。本島純政が主演を務め、平澤宏々路、長野凌大、小寺結花",
+      "groups": [
+        "原因は自分にある。"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "長野凌大",
+          "group": "原因は自分にある。",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "f06cd8c9eef3e546",
+      "title": "NHK『うたコン』で、昭和、平成、令和のみんなで踊れるヒット曲を特集！M!LKはテレビ初披露の最新曲「ザッツ！超常」を生演奏でパフォーマンス",
       "sourceName": "THE FIRST TIMES",
       "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000919055/",
-      "publishedAt": "2026-11-15T03:00:48.000Z",
-      "summary": "9人組メインダンサー＆バックボーカルグループ・超特急の12月16日に発売される24thシングル「...",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000919608/",
+      "publishedAt": "2026-11-16T03:00:11.000Z",
+      "summary": "11月17日放送のNHK『うたコン』では、昭和・平成・令和の「踊れるヒット曲」を特集する。 ■曲...",
       "groups": [
-        "超特急"
+        "M!LK"
       ],
       "statuses": [],
       "memberMatches": []
+    },
+    {
+      "id": "84b567181b58fefb",
+      "title": "高橋文哉がディズニー満喫！森愁斗ら8LOOMメンバーとおそろいコーデで堂々記念撮影「遭遇したすぎる」「イケメン集団」の声、綱啓永も反応",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000919472/",
+      "publishedAt": "2026-11-16T01:57:40.000Z",
+      "summary": "高橋文哉が自身のInstagramを更新。BUDDiiSの森愁斗らとの、東京ディズニーランド満喫ショット...",
+      "groups": [
+        "BUDDiiS"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "SHOOT",
+          "group": "BUDDiiS",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "a58bcb58e3c57224",
+      "title": "中川龍太郎監督の短篇集3作品が劇場上映へ 小関裕太×藤原樹×草川拓弥×樋口幸平が主演",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/11/post-2584976.html",
+      "publishedAt": "2026-11-16T01:00:55.000Z",
+      "summary": "中川龍太郎監督が手がけた短篇ドラマ『メロスの誕生』『欲望（蜘蛛の糸のように）』『こころ』の3作品を1本化し、2027年1月22日より新宿ピカデリーほか全国の劇場にて2週間限定で上映されることが決定した。 本シリーズは",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "タクヤ",
+          "group": "超特急",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "eca139ad46d2dd81",
+      "title": "小関裕太×太宰治、藤原樹×芥川龍之介、草川拓弥×夏目漱石 中川龍太郎監督の3作品が劇場へ",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261116-5331891/",
+      "publishedAt": "2026-11-16T01:00:00.000Z",
+      "summary": "映画監督・中川龍太郎氏が手がけた短編3作品『メロスの誕生』『欲望(蜘蛛の糸のように)』『こころ』が、2027年1月22日から新宿ピカデリーほか全国31館で2週間限定公開される。",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "タクヤ",
+          "group": "超特急",
+          "status": "active"
+        }
+      ]
     },
     {
       "id": "b10e6e13c2be4a04",
@@ -72,20 +140,6 @@
       "summary": "東京ドーム公演2Daysを目前に控える9人組メインダンサー＆バックボーカルグループ・超特急が、12月16日(水)に発売する24thシングル『エトランス・フィーバー』の全ジャケット写真を公開した。 今回のジャケット写真では、表題曲のテーマである「干支」をそれぞれ異なる形で表現。SNSでも話題となった顔はめパネルをあしらった通常盤に加え、初回限定盤にはメンバー自",
       "groups": [
         "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "6a3154e9079d08c7",
-      "title": "M!LK5人の“自撮りショット”が眼福すぎる！王子様ビジュアルからお茶目な素顔まで個性溢れる表情に注目",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000915110/",
-      "publishedAt": "2026-11-15T00:00:25.000Z",
-      "summary": "M!LKのメンバーがSNSに投稿した自撮りショットをまとめて紹介。メンバーカラーの華やかな衣装...",
-      "groups": [
-        "M!LK"
       ],
       "statuses": [],
       "memberMatches": []
@@ -208,6 +262,20 @@
       ]
     },
     {
+      "id": "541bd56dd949c75d",
+      "title": "「第77回NHK紅白歌合戦」、出場歌手41組発表。＝LOVE、CUTIE STREET、Ayumu Imazu、Aぇ! group、EBiDAN、マカロニえんぴつ、モナキが初出場",
+      "sourceName": "タワーレコード ニュース",
+      "sourceUrl": "https://tower.jp/feeds/article/news",
+      "articleUrl": "https://tower.jp/article/news/2026/11/13/tg005",
+      "publishedAt": "2026-11-13T07:30:00.000Z",
+      "summary": "",
+      "groups": [
+        "EBiDAN"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
       "id": "1adaa214998d76c7",
       "title": "マカロニえんぴつ、紅白初出場までの苦悩告白「今年こそ」が何度もかなわず...結成14年でつかんだ大舞台",
       "sourceName": "マイナビニュース テレビ",
@@ -259,6 +327,20 @@
       "memberMatches": []
     },
     {
+      "id": "034066558b382c11",
+      "title": "「J-POPシングル ウィークリーTOP30」発表。1位は原因は自分にある。『ラブリーズン』、予約1位はtimelesz『ザユウノメイ / 本当のことを言うと』（2026年11月12日付）",
+      "sourceName": "タワーレコード ニュース",
+      "sourceUrl": "https://tower.jp/feeds/article/news",
+      "articleUrl": "https://tower.jp/article/news/2026/11/12/tg002",
+      "publishedAt": "2026-11-12T10:00:00.000Z",
+      "summary": "",
+      "groups": [
+        "原因は自分にある。"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
       "id": "18f9902c753f1de9",
       "title": "原因は自分にある。「小籠包を食べてアツい話をした」思い出の地に1万人の観測者が集う【『ラブリーズン』リリース記念フリーライブ】",
       "sourceName": "QJWeb",
@@ -288,18 +370,26 @@
       "memberMatches": []
     },
     {
-      "id": "95738e2f147ef3cd",
-      "title": "超特急・柏木悠、韓国で累計2億ビューの人気マンガ実写化で主演 濱尾ノリタカ＆大友花恋と複雑な友情描く「青春をぜひとも浴びてください!」",
-      "sourceName": "マイナビニュース テレビ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-      "articleUrl": "https://news.mynavi.jp/article/20261112-5303652/",
-      "publishedAt": "2026-11-11T23:00:00.000Z",
-      "summary": "「この作品を通して青春をぜひとも浴びてください!」――超特急の柏木悠が、FODドラマ初主演を務める『アクアマン』(12月25日20:00からFOD・Wavveで日韓同時配信開始、以降毎週金曜20:00最新話配信)で、濱尾ノリタカ、大友花恋と共演する。韓国で累計2億ビューを記録した人気WEBマンガを実写化し、高校時代からの親友3人が友情と恋愛の間で揺れ動く姿を",
+      "id": "5055c2a5a868bea2",
+      "title": "吉田仁人（M!LK）、「婦人画報の美しいキモノ 2026年冬号 吉田仁人特別版」表紙決定",
+      "sourceName": "タワーレコード ニュース",
+      "sourceUrl": "https://tower.jp/feeds/article/news",
+      "articleUrl": "https://tower.jp/article/news/2026/11/12/tgb002",
+      "publishedAt": "2026-11-12T06:20:00.000Z",
+      "summary": "",
       "groups": [
-        "超特急"
+        "M!LK"
       ],
-      "statuses": [],
-      "memberMatches": []
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
     },
     {
       "id": "6a65d0ba5d7d9992",
@@ -314,6 +404,28 @@
       ],
       "statuses": [],
       "memberMatches": []
+    },
+    {
+      "id": "7aea6d13daa70190",
+      "title": "吉田仁人（M!LK）、自身初主演の金曜ドラマ「溺愛 ～ 実は、最強ヒーロー ～」EDテーマ“愛の形”MV公開",
+      "sourceName": "タワーレコード ニュース",
+      "sourceUrl": "https://tower.jp/feeds/article/news",
+      "articleUrl": "https://tower.jp/article/news/2026/11/11/tg002",
+      "publishedAt": "2026-11-11T08:20:06.000Z",
+      "summary": "",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
     },
     {
       "id": "d5f4827c5bde3268",
