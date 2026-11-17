@@ -1,6 +1,79 @@
 {
-  "updatedAt": "2026-11-17T07:53:44.213Z",
+  "updatedAt": "2026-11-17T20:54:38.466Z",
   "articles": [
+    {
+      "id": "41e70e1ec7e75cb6",
+      "title": "桑田佳祐、5年ぶりに『ベストアーティスト2026』出演決定。新曲「神々の襷（たすき）」TV歌唱も",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1105066",
+      "publishedAt": "2026-11-17T20:00:00.000Z",
+      "summary": "桑田佳祐が、2026年11月28日に生放送される日本テレビ系音楽の祭典『ベストアーティスト2026』へ5年ぶりに出演することを発表した。 2001年の放送開始から今年で25周年を迎える『ベストアーティスト』。2026年は「音楽の旅」をテーマに、この1年を音楽とともに振り返りながら、総勢約40組のアーティストが出演する5時間の生放送で届けられる。その記念すべき",
+      "groups": [
+        "超特急",
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "841ff1530b8f3112",
+      "title": "「ずっと悩みがあった」「意図的に…」M!LK吉田仁人、“全力パフォーマンス”に振った理由を告白 ファンからの言葉に安堵「吉田さん推しが全員思っている」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261117-5336908/",
+      "publishedAt": "2026-11-17T10:00:00.000Z",
+      "summary": "「僕、ウインクできないんですよ」――。アイドルグループ・M!LKの吉田仁人が12日、文化放送『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)に出演。パフォーマンス中の密かな“悩み”を打ち明けた。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "bbbf111af31dd4f7",
+      "title": "RUI（STARGLOW）、原因は自分にある。、JO（&TEAM）×RAN（MAZZEL）、蓮月（ブランデー戦記）がカバー＆特集に登場！【Quick Japan Monologue #01コンテンツ紹介】",
+      "sourceName": "QJWeb",
+      "sourceUrl": "https://qjweb.jp/feed/",
+      "articleUrl": "https://qjweb.jp/news/168323/",
+      "publishedAt": "2026-11-17T09:29:00.000Z",
+      "summary": "2026年11月18日（水）、『Quick Japan』が10代のために立ち上げた新レーベル『Quick Japan Monologue』#01が発売される。 コンセプトは「START YOUR STORY」。これからの時代を形作る表現者たちの現在進行形の姿と言葉を通して、読者自身の新しい物語が始ま.. 投稿 RUI（STARGLOW）、原因は自分にある。、",
+      "groups": [
+        "原因は自分にある。"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "25a4a006b86eff0a",
+      "title": "向井康二の周りを山中柔太朗＆上白石萌音ら共演者がくるくる回りはしゃぐオフムービーに「仲良くてかわいい」「先生と保護者の追いかけっこ楽しそう」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000920769/",
+      "publishedAt": "2026-11-17T09:24:43.000Z",
+      "summary": "ドラマ『いろはの恋は時代をかける』公式SNSにて、カメラを構える向井康二の周りを、共演者が...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "0bd332d0786a675c",
       "title": "M!LK吉田仁人と目が合う！ゆるふわ前髪×黒縁メガネに部屋着でマグカップを手に微笑む姿に「髪型が違うだけで別人みたい」「メガネの破壊力…」「やさしい微笑みにキュン」の声",
@@ -48,64 +121,6 @@
           "group": "M!LK",
           "status": "active"
         },
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "03b71c83dc02de08",
-      "title": "原因は自分にある。“夢”を語り合った特別な場所への凱旋「ここがゴールじゃない」 『ラブリーズン』で拓く未来",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/11/post-2585967.html",
-      "publishedAt": "2026-11-16T23:00:01.000Z",
-      "summary": "原因は自分にある。が11月11日、神奈川・横浜赤レンガ倉庫 赤レンガパーク特設会場にて、5thシングル『ラブリーズン』のリリース記念フリーライブを開催した。会場には約1万人の観測者（ファンの呼称）が集結。生バンドを従え",
-      "groups": [
-        "原因は自分にある。"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "bafe876aea60e4eb",
-      "title": "原因は自分にある。が自身初のオリコン週間シングル1位獲得！「生きていて今が一番嬉しいです！」（杢代和人）",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000920069/",
-      "publishedAt": "2026-11-16T19:00:53.000Z",
-      "summary": "2026年11月23日付「オリコン週間CDランキング」（集計期間：2026年11月9日～11月15日）が発表...",
-      "groups": [
-        "原因は自分にある。"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "杢代和人",
-          "group": "原因は自分にある。",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "b11e6d21e358be36",
-      "title": "M!LK吉田仁人推しのヘビーリスナーが“ぬい”持参でラジオブースに登場――差し入れのコーヒーにも感激「僕にまで直接手渡しで…」「捨てずに持って帰ります」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-      "articleUrl": "https://news.mynavi.jp/article/20261116-5336811/",
-      "publishedAt": "2026-11-16T12:00:00.000Z",
-      "summary": "「ピッチの正確さがすごく好き」「舌を前にして歌う特徴がある」――。声優の汐谷文康が12日、文化放送『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)にゲスト出演。M!LK・吉田仁人の魅力を“プロ目線”で熱弁した。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
         {
           "name": "吉田仁人",
           "group": "M!LK",
@@ -221,29 +236,6 @@
       "memberMatches": []
     },
     {
-      "id": "cea22e87e1b0533c",
-      "title": "紅白初出場決定の23歳アイドル、マカロニえんぴつと紅白で再会! 7年前のブログに残した願いとは - 「こんなの泣く」「エモすぎる」と話題に",
-      "sourceName": "マイナビニュース テレビ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-      "articleUrl": "https://news.mynavi.jp/article/20261113-5318288/",
-      "publishedAt": "2026-11-13T14:39:38.000Z",
-      "summary": "スターダストプロモーション所属の男性アーティスト集団・EBiDANの長野凌大(原因は自分にある。)が13日、都内で行われた『第77回NHK紅白歌合戦』の初出場歌手発表会見で、4人組ロックバンド・マカロニえんぴつと再会を果たした。かつて同バンドの楽曲「レモンパイ」のミュージックビデオ(MV)に出演した長野は、7年前のブログで「いつかご一緒出来るように頑張りたい",
-      "groups": [
-        "EBiDAN",
-        "原因は自分にある。"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "長野凌大",
-          "group": "原因は自分にある。",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "7e88eb56cabb27fa",
       "title": "SUPER★DRAGON Major 2nd Album「STAR」リリースイベント・特典会開催！（11/13更新）",
       "sourceName": "SUPER★DRAGON 公式NEWS",
@@ -256,52 +248,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "7f7fd28aed140f62",
-      "title": "EBiDAN、紅白初出場会見で「嬉しすぎてYES!」連発! メンバーの“全力便乗”にMiLK・曽野舜太「一発ギャグみたいに使って」",
-      "sourceName": "マイナビニュース テレビ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-      "articleUrl": "https://news.mynavi.jp/article/20261113-5316240/",
-      "publishedAt": "2026-11-13T08:22:32.000Z",
-      "summary": "スターダストプロモーション所属の男性アーティスト集団・EBiDANが13日、都内で行われた『第77回NHK紅白歌合戦』の初出場歌手発表会見に登壇。結成15年での初出場に喜びを語る一方、楽曲「好きすぎて滅!」ならぬ「嬉しすぎてYES!」というフレーズがメンバーの間で飛び交い、にぎやかな掛け合いを繰り広げた。",
-      "groups": [
-        "EBiDAN",
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "曽野舜太",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "1adaa214998d76c7",
-      "title": "マカロニえんぴつ、紅白初出場までの苦悩告白「今年こそ」が何度もかなわず...結成14年でつかんだ大舞台",
-      "sourceName": "マイナビニュース テレビ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-      "articleUrl": "https://news.mynavi.jp/article/20261113-5315994/",
-      "publishedAt": "2026-11-13T07:29:45.000Z",
-      "summary": "4人組ロックバンド・マカロニえんぴつが13日、『第77回NHK紅白歌合戦』の初出場歌手発表会見に出席。結成14年で念願の初出場を決めた喜びを語るとともに、過去には出場がかなわず「半ばちょっと紅白は諦めていた」と告白。また、L'Arc-en-Cielのkenとの共演や、EBiDANの長野凌大との再会についても語った。",
-      "groups": [
-        "EBiDAN",
-        "原因は自分にある。"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "長野凌大",
-          "group": "原因は自分にある。",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "18f9902c753f1de9",
@@ -328,20 +274,6 @@
       "groups": [
         "EBiDAN",
         "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "6a65d0ba5d7d9992",
-      "title": "YUMEKIのダンスは何気ない生活からやってくる。「Neko（ねこ）」で立証された五感とダンスの関係性",
-      "sourceName": "QJWeb",
-      "sourceUrl": "https://qjweb.jp/feed/",
-      "articleUrl": "https://qjweb.jp/feature/166301/",
-      "publishedAt": "2026-11-11T09:00:00.000Z",
-      "summary": "13歳からダンスを始め、日本、韓国、中国、アメリカなど数々の国境を越え、ダンスとの仲を深めていったYUMEKI。これまで日本でM!LK、ME:I、King & Prince、韓国ではILLIT、ITZY、NCT 127などの有名アーティストを振り付けてきた。 2026年には、『PRODUCE.. 投稿 YUMEKIのダンスは何気ない生活からやってくる。「Ne",
-      "groups": [
-        "M!LK"
       ],
       "statuses": [],
       "memberMatches": []
