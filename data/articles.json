@@ -1,6 +1,74 @@
 {
-  "updatedAt": "2026-11-16T22:00:18.957Z",
+  "updatedAt": "2026-11-17T07:53:44.213Z",
   "articles": [
+    {
+      "id": "0bd332d0786a675c",
+      "title": "M!LK吉田仁人と目が合う！ゆるふわ前髪×黒縁メガネに部屋着でマグカップを手に微笑む姿に「髪型が違うだけで別人みたい」「メガネの破壊力…」「やさしい微笑みにキュン」の声",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000920637/",
+      "publishedAt": "2026-11-17T06:45:02.000Z",
+      "summary": "ドラマ『溺愛 〜 実は、最強ヒーロー 〜』（TOKYO MX）の公式SNSで、第3話のオフショットが公...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "ab0e679a024b80bc",
+      "title": "M!LK山中柔太朗＆吉田仁人に塩﨑太智が無茶ぶり！箸を持ったまま戸惑う山中、どアップで吹き出す吉田に「いろんな角度からYJを拝める神動画」「上目遣いメロすぎる」の声",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000920556/",
+      "publishedAt": "2026-11-17T05:29:36.000Z",
+      "summary": "M!LKの公式TikTokで、山中柔太朗、吉田仁人、塩崎太智（「崎」はたつさきが正式表記）が登場す...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "塩﨑太智",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "03b71c83dc02de08",
+      "title": "原因は自分にある。“夢”を語り合った特別な場所への凱旋「ここがゴールじゃない」 『ラブリーズン』で拓く未来",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/11/post-2585967.html",
+      "publishedAt": "2026-11-16T23:00:01.000Z",
+      "summary": "原因は自分にある。が11月11日、神奈川・横浜赤レンガ倉庫 赤レンガパーク特設会場にて、5thシングル『ラブリーズン』のリリース記念フリーライブを開催した。会場には約1万人の観測者（ファンの呼称）が集結。生バンドを従え",
+      "groups": [
+        "原因は自分にある。"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "bafe876aea60e4eb",
       "title": "原因は自分にある。が自身初のオリコン週間シングル1位獲得！「生きていて今が一番嬉しいです！」（杢代和人）",
@@ -46,42 +114,6 @@
       ]
     },
     {
-      "id": "744d5f0f34e9a381",
-      "title": "『CDTVライブ！ライブ！』で「EBiDANフェス」開催決定！BE:FIRST「マンスリーライブ！」ラスト週の歌唱楽曲も発表",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000920033/",
-      "publishedAt": "2026-11-16T11:55:42.000Z",
-      "summary": "11月30日19時から2時間にわたって生放送されるTBS『CDTVライブ！ライブ！』の出演アーティスト...",
-      "groups": [
-        "EBiDAN"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "a8bec2ee32c3fc97",
-      "title": "M!LK曽野舜太『TVガイドPERSON』で世界的写真家レスリー・キーと初セッション！先行カット＆コメントも公開",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000920137/",
-      "publishedAt": "2026-11-16T11:44:46.000Z",
-      "summary": "M!LKの曽野舜太が、12月11日に発売される『週刊TVガイド関西版2027年1月24日号増刊 TVガイドPE...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "曽野舜太",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "149d84772438074f",
       "title": "超特急・小笠原海、メンバーカラーのブルーニットで秋冬コーデ！アーノルド パーマーと限定コラボ",
       "sourceName": "WWSチャンネル",
@@ -96,32 +128,10 @@
       "memberMatches": []
     },
     {
-      "id": "ee81e10471022280",
-      "title": "M!LK山中柔太朗と“まるで添い寝”！スイートルームのベッドで腕に頬を寄せ、こちらを見つめる姿に「視線が甘い」「美しさに加えて色気が…」「都合のいい夢かと思った」の声",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000919951/",
-      "publishedAt": "2026-11-16T06:28:55.000Z",
-      "summary": "『東京カレンダー』の公式Xで、M!LKの山中柔太朗の撮影カットが公開された。山中は11月20日発...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "山中柔太朗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "eca139ad46d2dd81",
       "title": "小関裕太×太宰治、藤原樹×芥川龍之介、草川拓弥×夏目漱石 中川龍太郎監督の3作品が劇場へ",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 映画",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
       "articleUrl": "https://news.mynavi.jp/article/20261116-5331891/",
       "publishedAt": "2026-11-16T01:00:00.000Z",
       "summary": "映画監督・中川龍太郎氏が手がけた短編3作品『メロスの誕生』『欲望(蜘蛛の糸のように)』『こころ』が、2027年1月22日から新宿ピカデリーほか全国31館で2週間限定公開される。",
@@ -271,20 +281,6 @@
       ]
     },
     {
-      "id": "541bd56dd949c75d",
-      "title": "「第77回NHK紅白歌合戦」、出場歌手41組発表。＝LOVE、CUTIE STREET、Ayumu Imazu、Aぇ! group、EBiDAN、マカロニえんぴつ、モナキが初出場",
-      "sourceName": "タワーレコード ニュース",
-      "sourceUrl": "https://tower.jp/feeds/article/news",
-      "articleUrl": "https://tower.jp/article/news/2026/11/13/tg005",
-      "publishedAt": "2026-11-13T07:30:00.000Z",
-      "summary": "",
-      "groups": [
-        "EBiDAN"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
       "id": "1adaa214998d76c7",
       "title": "マカロニえんぴつ、紅白初出場までの苦悩告白「今年こそ」が何度もかなわず...結成14年でつかんだ大舞台",
       "sourceName": "マイナビニュース テレビ",
@@ -306,48 +302,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "6b11a2e2c8aca308",
-      "title": "『紅白』出場歌手発表 Aぇ! group、CUTIE STREET、マカロニえんぴつ、=LOVE、EBiDAN、モナキ、Ayumu Imazuらが初出場 特別企画ではあの大物歌手がソロで初出場",
-      "sourceName": "マイナビニュース テレビ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-      "articleUrl": "https://news.mynavi.jp/article/20261113-5314979/",
-      "publishedAt": "2026-11-13T04:14:24.000Z",
-      "summary": "『第77回NHK紅白歌合戦』(12月31日19:20～23:45 ※中断ニュースあり)の出場歌手が、きょう13日に行われた会見で発表された。",
-      "groups": [
-        "EBiDAN"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "e4f9e3f727fa0ead",
-      "title": "『ベストアーティスト』STARTO9組が楽曲シャッフルメドレー スピッツ初出演、KEY TO LITも登場",
-      "sourceName": "マイナビニュース テレビ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-      "articleUrl": "https://news.mynavi.jp/article/20261113-5310653/",
-      "publishedAt": "2026-11-13T03:00:00.000Z",
-      "summary": "日本テレビ系音楽特番『ベストアーティスト2026』(11月28日16:00～17:00 ※一部地域除く、19:00～22:54)の第2弾出演アーティストが13日、発表された。スピッツの番組初出演をはじめ、Snow Man、なにわ男子、KEY TO LIT、超特急、JO1らの出演が決定。さらに、STARTO ENTERTAINMENT所属アーティスト9組による",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "034066558b382c11",
-      "title": "「J-POPシングル ウィークリーTOP30」発表。1位は原因は自分にある。『ラブリーズン』、予約1位はtimelesz『ザユウノメイ / 本当のことを言うと』（2026年11月12日付）",
-      "sourceName": "タワーレコード ニュース",
-      "sourceUrl": "https://tower.jp/feeds/article/news",
-      "articleUrl": "https://tower.jp/article/news/2026/11/12/tg002",
-      "publishedAt": "2026-11-12T10:00:00.000Z",
-      "summary": "",
-      "groups": [
-        "原因は自分にある。"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "18f9902c753f1de9",
@@ -379,28 +333,6 @@
       "memberMatches": []
     },
     {
-      "id": "5055c2a5a868bea2",
-      "title": "吉田仁人（M!LK）、「婦人画報の美しいキモノ 2026年冬号 吉田仁人特別版」表紙決定",
-      "sourceName": "タワーレコード ニュース",
-      "sourceUrl": "https://tower.jp/feeds/article/news",
-      "articleUrl": "https://tower.jp/article/news/2026/11/12/tgb002",
-      "publishedAt": "2026-11-12T06:20:00.000Z",
-      "summary": "",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "6a65d0ba5d7d9992",
       "title": "YUMEKIのダンスは何気ない生活からやってくる。「Neko（ねこ）」で立証された五感とダンスの関係性",
       "sourceName": "QJWeb",
@@ -413,28 +345,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "7aea6d13daa70190",
-      "title": "吉田仁人（M!LK）、自身初主演の金曜ドラマ「溺愛 ～ 実は、最強ヒーロー ～」EDテーマ“愛の形”MV公開",
-      "sourceName": "タワーレコード ニュース",
-      "sourceUrl": "https://tower.jp/feeds/article/news",
-      "articleUrl": "https://tower.jp/article/news/2026/11/11/tg002",
-      "publishedAt": "2026-11-11T08:20:06.000Z",
-      "summary": "",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "d5f4827c5bde3268",
