@@ -1,39 +1,43 @@
 {
-  "updatedAt": "2026-11-17T20:54:38.468Z",
+  "updatedAt": "2026-11-18T07:27:35.372Z",
   "totals": {
-    "all": 122,
-    "today": 1,
+    "all": 123,
+    "today": 6,
     "week": 17
   },
   "groupRanking": [
     {
       "name": "SUPER★DRAGON",
-      "count": 7
+      "count": 6
     },
     {
       "name": "M!LK",
-      "count": 5
+      "count": 4
+    },
+    {
+      "name": "原因は自分にある。",
+      "count": 3
     },
     {
       "name": "超特急",
-      "count": 4
+      "count": 3
     },
     {
       "name": "EBiDAN",
       "count": 2
     },
     {
-      "name": "原因は自分にある。",
+      "name": "ONE N' ONLY",
       "count": 2
     }
   ],
   "memberRanking": [
     {
-      "name": "吉田仁人",
-      "count": 3
+      "name": "EIKU",
+      "count": 2
     },
     {
-      "name": "山中柔太朗",
+      "name": "TETTA",
       "count": 2
     },
     {
@@ -41,26 +45,30 @@
       "count": 1
     },
     {
-      "name": "塩﨑太智",
+      "name": "吉田仁人",
+      "count": 1
+    },
+    {
+      "name": "山中柔太朗",
+      "count": 1
+    },
+    {
+      "name": "武藤潤",
       "count": 1
     }
   ],
   "sourceRanking": [
     {
       "name": "SUPER★DRAGON 公式NEWS",
-      "count": 7
+      "count": 6
     },
     {
       "name": "THE FIRST TIMES",
-      "count": 3
+      "count": 4
     },
     {
       "name": "QJWeb",
       "count": 2
-    },
-    {
-      "name": "BARKS",
-      "count": 1
     },
     {
       "name": "Bezzy",
@@ -77,26 +85,236 @@
     {
       "name": "マイナビニュース 映画",
       "count": 1
+    },
+    {
+      "name": "リアルサウンド 映画部",
+      "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
-    "超特急": [
+    "M!LK": [
       {
-        "id": "41e70e1ec7e75cb6",
-        "title": "桑田佳祐、5年ぶりに『ベストアーティスト2026』出演決定。新曲「神々の襷（たすき）」TV歌唱も",
-        "sourceName": "BARKS",
-        "sourceUrl": "https://www.barks.jp/feed/",
-        "articleUrl": "https://barks.jp/news/1105066",
-        "publishedAt": "2026-11-17T20:00:00.000Z",
-        "summary": "桑田佳祐が、2026年11月28日に生放送される日本テレビ系音楽の祭典『ベストアーティスト2026』へ5年ぶりに出演することを発表した。 2001年の放送開始から今年で25周年を迎える『ベストアーティスト』。2026年は「音楽の旅」をテーマに、この1年を音楽とともに振り返りながら、総勢約40組のアーティストが出演する5時間の生放送で届けられる。その記念すべき",
+        "id": "c40429b57704b390",
+        "title": "M!LK吉田仁人のリムレスメガネ×黒スーツ姿に反響！知的なムードに「執事感がたまらない」「女子の夢がつまりすぎている」「本気出してきた」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000921312/",
+        "publishedAt": "2026-11-18T06:28:40.000Z",
+        "summary": "M!LKの吉田仁人が、11月18日発売の『anan』2520号に登場。同誌のSNSでは、パンダのぬいぐるみ...",
         "groups": [
-          "超特急",
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "7a57ae50f33bd37a",
+        "title": "M!LK5人が白ニット姿でぎゅっと密着！マフラーやイヤーマフを合わせた“冬仕様”に「かわいすぎる」「もこもこ冬ビジュ最高すぎ」「マフラーの巻き方も完璧」「冬のニットイケメン需要しかない」の声",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000921321/",
+        "publishedAt": "2026-11-18T05:40:59.000Z",
+        "summary": "M!LKの公式Xが、12月11日から25日まで開催されるイルミネーションイベント『!LLU-M!LK -2026-...",
+        "groups": [
           "M!LK"
         ],
         "statuses": [],
         "memberMatches": []
       },
+      {
+        "id": "f165b1726a3cfae1",
+        "title": "M!LK山中柔太朗の真剣な表情のドアップにファン悶絶！「真島先生のアップ眼福」「ラブコメの王道にキュン」「真島先生の誘いなんて断れない」“ライバル”!?向井康二も登場『恋とき』胸キュンシーンに大反響",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000920969/",
+        "publishedAt": "2026-11-18T04:43:01.000Z",
+        "summary": "ドラマ『いろはの恋は時代をかける』（TBS系）公式Instagramに山中柔太朗（M!LK）が登場。上白...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "c59ce289f1771698",
+        "title": "M!LK5人がピースの指先をつないで“ひとつの星”に！「JKみたいなことしてる」「爪がみじかく整えられてて好感度」「吉田さんもちもちで神」肩を寄せ合いポーズを決める集合ショットも",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000921098/",
+        "publishedAt": "2026-11-18T03:33:13.000Z",
+        "summary": "M!LKが11月17日放送の『うたコン』（NHK総合）に出演し、「爆裂愛してる」と「ザッツ！超常」...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "b98ff91bf2e95cdf",
+        "title": "吉田仁人が凛とした表情で新曲を熱唱、M!LKとは違う魅力を堪能できる「愛の形」MV公開",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/11/94709/",
+        "publishedAt": "2026-11-09T09:00:00.000Z",
+        "summary": "5人組ダンスボーカルグループ・M!LKの吉田仁人が、本日11月9日(月)に配信リリースした新曲「愛の形」のMusic Videoを公開した。 「愛の形」は、それぞれが信じる愛の在り方について描いたバラード。愛することと愛されることの形が同じでなくても相手の幸せを願い続けることを選ぶ、大切な人の幸せを自分のこと以上に願うようになった主人公のまっすぐな覚悟と、見",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "ONE N' ONLY": [
+      {
+        "id": "384ffae3b422e67f",
+        "title": "ONE N' ONLY 関哲汰×山下永玖のSPドラマ『トンテキ食ってる場合じゃない！！』年末放送へ",
+        "sourceName": "リアルサウンド 映画部",
+        "sourceUrl": "https://realsound.jp/movie/feed",
+        "articleUrl": "https://realsound.jp/movie/2026/11/post-2587308.html",
+        "publishedAt": "2026-11-18T03:00:59.000Z",
+        "summary": "ダンス＆ボーカルグループ・ONE N' ONLYの関哲汰と山下永玖がW主演を務めるスペシャルドラマ『トンテキ食ってる場合じゃない！！』が、12月19日13時30分より中京テレビで放送されることが決定した。 本作は、三",
+        "groups": [
+          "ONE N' ONLY"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "TETTA",
+            "group": "ONE N' ONLY",
+            "status": "active"
+          },
+          {
+            "name": "EIKU",
+            "group": "ONE N' ONLY",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "510b6cd87912ea29",
+        "title": "ONE N' ONLY関哲汰＆山下永玖、W主演で市役所の“問題児コンビ”に「ガッツリお芝居でセリフを交わす機会はなかなかない」",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20261118-5351303/",
+        "publishedAt": "2026-11-18T03:00:00.000Z",
+        "summary": "「メンバーの哲汰とガッツリお芝居でセリフを交わす機会はなかなかないので、すごく楽しみです」――ONE N' ONLYの関哲汰と山下永玖が、12月19日に放送される中京テレビのスペシャルドラマ『トンテキ食ってる場合じゃない!!』(13:30～14:30)でW主演。三重県四日市市を舞台に、異動の危機に直面する市役所観光交流課の“問題児コンビ”を演じる。関は、過去",
+        "groups": [
+          "ONE N' ONLY",
+          "原因は自分にある。"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "TETTA",
+            "group": "ONE N' ONLY",
+            "status": "active"
+          },
+          {
+            "name": "EIKU",
+            "group": "ONE N' ONLY",
+            "status": "active"
+          },
+          {
+            "name": "武藤潤",
+            "group": "原因は自分にある。",
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "原因は自分にある。": [
+      {
+        "id": "510b6cd87912ea29",
+        "title": "ONE N' ONLY関哲汰＆山下永玖、W主演で市役所の“問題児コンビ”に「ガッツリお芝居でセリフを交わす機会はなかなかない」",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20261118-5351303/",
+        "publishedAt": "2026-11-18T03:00:00.000Z",
+        "summary": "「メンバーの哲汰とガッツリお芝居でセリフを交わす機会はなかなかないので、すごく楽しみです」――ONE N' ONLYの関哲汰と山下永玖が、12月19日に放送される中京テレビのスペシャルドラマ『トンテキ食ってる場合じゃない!!』(13:30～14:30)でW主演。三重県四日市市を舞台に、異動の危機に直面する市役所観光交流課の“問題児コンビ”を演じる。関は、過去",
+        "groups": [
+          "ONE N' ONLY",
+          "原因は自分にある。"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "TETTA",
+            "group": "ONE N' ONLY",
+            "status": "active"
+          },
+          {
+            "name": "EIKU",
+            "group": "ONE N' ONLY",
+            "status": "active"
+          },
+          {
+            "name": "武藤潤",
+            "group": "原因は自分にある。",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "bbbf111af31dd4f7",
+        "title": "RUI（STARGLOW）、原因は自分にある。、JO（&TEAM）×RAN（MAZZEL）、蓮月（ブランデー戦記）がカバー＆特集に登場！【Quick Japan Monologue #01コンテンツ紹介】",
+        "sourceName": "QJWeb",
+        "sourceUrl": "https://qjweb.jp/feed/",
+        "articleUrl": "https://qjweb.jp/news/168323/",
+        "publishedAt": "2026-11-17T09:29:00.000Z",
+        "summary": "2026年11月18日（水）、『Quick Japan』が10代のために立ち上げた新レーベル『Quick Japan Monologue』#01が発売される。 コンセプトは「START YOUR STORY」。これからの時代を形作る表現者たちの現在進行形の姿と言葉を通して、読者自身の新しい物語が始ま.. 投稿 RUI（STARGLOW）、原因は自分にある。、",
+        "groups": [
+          "原因は自分にある。"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "18f9902c753f1de9",
+        "title": "原因は自分にある。「小籠包を食べてアツい話をした」思い出の地に1万人の観測者が集う【『ラブリーズン』リリース記念フリーライブ】",
+        "sourceName": "QJWeb",
+        "sourceUrl": "https://qjweb.jp/feed/",
+        "articleUrl": "https://qjweb.jp/column/168061/",
+        "publishedAt": "2026-11-12T09:00:00.000Z",
+        "summary": "原因は自分にある。の5thシングル『ラブリーズン』のリリース記念フリーライブが、2026年11月11日（水）に横浜赤レンガ倉庫で開催された。 これまで、原因は自分にある。のリリースイベントといえば商業施設などにて行われていた印象だが、昨今は急増する観測者（原因は自分にある。のファンネーム）の力もあっ.. 投稿 原因は自分にある。「小籠包を食べてアツい話をした",
+        "groups": [
+          "原因は自分にある。"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
+    "超特急": [
       {
         "id": "149d84772438074f",
         "title": "超特急・小笠原海、メンバーカラーのブルーニットで秋冬コーデ！アーノルド パーマーと限定コラボ",
@@ -160,151 +378,28 @@
         ],
         "statuses": [],
         "memberMatches": []
-      }
-    ],
-    "M!LK": [
-      {
-        "id": "41e70e1ec7e75cb6",
-        "title": "桑田佳祐、5年ぶりに『ベストアーティスト2026』出演決定。新曲「神々の襷（たすき）」TV歌唱も",
-        "sourceName": "BARKS",
-        "sourceUrl": "https://www.barks.jp/feed/",
-        "articleUrl": "https://barks.jp/news/1105066",
-        "publishedAt": "2026-11-17T20:00:00.000Z",
-        "summary": "桑田佳祐が、2026年11月28日に生放送される日本テレビ系音楽の祭典『ベストアーティスト2026』へ5年ぶりに出演することを発表した。 2001年の放送開始から今年で25周年を迎える『ベストアーティスト』。2026年は「音楽の旅」をテーマに、この1年を音楽とともに振り返りながら、総勢約40組のアーティストが出演する5時間の生放送で届けられる。その記念すべき",
-        "groups": [
-          "超特急",
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
       },
       {
-        "id": "841ff1530b8f3112",
-        "title": "「ずっと悩みがあった」「意図的に…」M!LK吉田仁人、“全力パフォーマンス”に振った理由を告白 ファンからの言葉に安堵「吉田さん推しが全員思っている」",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20261117-5336908/",
-        "publishedAt": "2026-11-17T10:00:00.000Z",
-        "summary": "「僕、ウインクできないんですよ」――。アイドルグループ・M!LKの吉田仁人が12日、文化放送『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)に出演。パフォーマンス中の密かな“悩み”を打ち明けた。",
+        "id": "c9f5c5a6ee0ff870",
+        "title": "本日26歳誕生日、超特急・髙松アロハが挑発的なスタイルで魅せる『ワンダンス』場面写真3点解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/10/94062/",
+        "publishedAt": "2026-10-26T03:00:00.000Z",
+        "summary": "11月27日(金)に公開されるJO（&TEAM）の初主演映画『ワンダンス』から超特急・髙松アロハ演じるウセンの場面写真3点が解禁された。 本作は、単行本の累計発行部数が130万部を突破した珈琲による同名漫画の実写化。自分の気持ちを抑えて生活するカボこと小谷花木〈こたに・かぼく〉が、人目を気にせずダンスに没頭するワンダこと湾田光莉〈わんだ・ひかり〉に惹かれ、一",
         "groups": [
-          "M!LK"
+          "超特急"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "吉田仁人",
-            "group": "M!LK",
+            "name": "アロハ",
+            "group": "超特急",
             "status": "active"
           }
         ]
-      },
-      {
-        "id": "25a4a006b86eff0a",
-        "title": "向井康二の周りを山中柔太朗＆上白石萌音ら共演者がくるくる回りはしゃぐオフムービーに「仲良くてかわいい」「先生と保護者の追いかけっこ楽しそう」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000920769/",
-        "publishedAt": "2026-11-17T09:24:43.000Z",
-        "summary": "ドラマ『いろはの恋は時代をかける』公式SNSにて、カメラを構える向井康二の周りを、共演者が...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "0bd332d0786a675c",
-        "title": "M!LK吉田仁人と目が合う！ゆるふわ前髪×黒縁メガネに部屋着でマグカップを手に微笑む姿に「髪型が違うだけで別人みたい」「メガネの破壊力…」「やさしい微笑みにキュン」の声",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000920637/",
-        "publishedAt": "2026-11-17T06:45:02.000Z",
-        "summary": "ドラマ『溺愛 〜 実は、最強ヒーロー 〜』（TOKYO MX）の公式SNSで、第3話のオフショットが公...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "ab0e679a024b80bc",
-        "title": "M!LK山中柔太朗＆吉田仁人に塩﨑太智が無茶ぶり！箸を持ったまま戸惑う山中、どアップで吹き出す吉田に「いろんな角度からYJを拝める神動画」「上目遣いメロすぎる」の声",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000920556/",
-        "publishedAt": "2026-11-17T05:29:36.000Z",
-        "summary": "M!LKの公式TikTokで、山中柔太朗、吉田仁人、塩崎太智（「崎」はたつさきが正式表記）が登場す...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      }
-    ],
-    "原因は自分にある。": [
-      {
-        "id": "bbbf111af31dd4f7",
-        "title": "RUI（STARGLOW）、原因は自分にある。、JO（&TEAM）×RAN（MAZZEL）、蓮月（ブランデー戦記）がカバー＆特集に登場！【Quick Japan Monologue #01コンテンツ紹介】",
-        "sourceName": "QJWeb",
-        "sourceUrl": "https://qjweb.jp/feed/",
-        "articleUrl": "https://qjweb.jp/news/168323/",
-        "publishedAt": "2026-11-17T09:29:00.000Z",
-        "summary": "2026年11月18日（水）、『Quick Japan』が10代のために立ち上げた新レーベル『Quick Japan Monologue』#01が発売される。 コンセプトは「START YOUR STORY」。これからの時代を形作る表現者たちの現在進行形の姿と言葉を通して、読者自身の新しい物語が始ま.. 投稿 RUI（STARGLOW）、原因は自分にある。、",
-        "groups": [
-          "原因は自分にある。"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "18f9902c753f1de9",
-        "title": "原因は自分にある。「小籠包を食べてアツい話をした」思い出の地に1万人の観測者が集う【『ラブリーズン』リリース記念フリーライブ】",
-        "sourceName": "QJWeb",
-        "sourceUrl": "https://qjweb.jp/feed/",
-        "articleUrl": "https://qjweb.jp/column/168061/",
-        "publishedAt": "2026-11-12T09:00:00.000Z",
-        "summary": "原因は自分にある。の5thシングル『ラブリーズン』のリリース記念フリーライブが、2026年11月11日（水）に横浜赤レンガ倉庫で開催された。 これまで、原因は自分にある。のリリースイベントといえば商業施設などにて行われていた印象だが、昨今は急増する観測者（原因は自分にある。のファンネーム）の力もあっ.. 投稿 原因は自分にある。「小籠包を食べてアツい話をした",
-        "groups": [
-          "原因は自分にある。"
-        ],
-        "statuses": [],
-        "memberMatches": []
       }
     ],
     "EBiDAN": [
