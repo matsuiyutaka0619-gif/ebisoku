@@ -1,14 +1,204 @@
 {
-  "updatedAt": "2026-11-18T07:27:35.370Z",
+  "updatedAt": "2026-11-18T20:30:06.156Z",
   "articles": [
     {
-      "id": "c40429b57704b390",
-      "title": "M!LK吉田仁人のリムレスメガネ×黒スーツ姿に反響！知的なムードに「執事感がたまらない」「女子の夢がつまりすぎている」「本気出してきた」",
+      "id": "b9d4e7fbcc70f8ea",
+      "title": "M!LK塩﨑太智ソロ曲「しおざきわんだーらんど」が「オリコン週間ストリーミング急上昇ランキング」1位を記録",
       "sourceName": "THE FIRST TIMES",
       "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000921312/",
-      "publishedAt": "2026-11-18T06:28:40.000Z",
-      "summary": "M!LKの吉田仁人が、11月18日発売の『anan』2520号に登場。同誌のSNSでは、パンダのぬいぐるみ...",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000921465/",
+      "publishedAt": "2026-11-18T20:08:35.000Z",
+      "summary": "M!LKの塩崎太智（崎は、たつさきが正式表記）によるソロ楽曲「しおざきわんだーらんど（塩崎太...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "塩﨑太智",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "613ced9cb9599a75",
+      "title": "佐野勇斗、民放GP帯ドラマ初単独主演 『ディアマミー 』で母の死の真相に迫る刑事役に",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/11/post-2588202.html",
+      "publishedAt": "2026-11-18T20:00:23.000Z",
+      "summary": "佐野勇斗が主演を務める連続ドラマ『ディアマミー 俺たちの母ちゃんは、殺された。』が、2027年1月期の日本テレビ系日曜ドラマ枠で放送されることが決定した。佐野は本作が民放ゴールデン・プライム帯ドラマ初単独主演となる。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "16e6ea84d040e674",
+      "title": "佐野勇斗、民放GP帯ドラマ初単独主演決定！「ずっと目標にしていた夢のひとつでした」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000921590/",
+      "publishedAt": "2026-11-18T20:00:02.000Z",
+      "summary": "佐野勇斗が、2027年1月から日本テレビ系で放送される日曜ドラマ『ディアマミー 俺たちの母ちゃ...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "768a1e7c225e1a49",
+      "title": "佐野勇斗「目標にしていた夢の１つ」日テレ１月期ドラマ「ディアマミー」GP帯ドラマ初単独主演",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202611180001279.html",
+      "publishedAt": "2026-11-18T20:00:00.000Z",
+      "summary": "M！LKの佐野勇斗（28）が日本テレビ系1月期日曜ドラマ「ディアマミー 俺たちの母ちゃんは、殺された。」（午後10時半）で主演を務めることが18日、発表された。佐野は同作が民放GP帯ドラマ初単独主演となる。 同作は日本テレビ系の人気ドラ…",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "427a9cd8cee50743",
+      "title": "佐野勇斗、民放GP帯ドラマで初単独主演 母の死の真相を追う刑事役「ずっと目標にしていた夢」",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1100857/",
+      "publishedAt": "2026-11-18T20:00:00.000Z",
+      "summary": "俳優の佐野勇斗が、2027年1月期の日本テレビ系連続ドラマ『ディアマミー 俺たちの母ちゃんは、殺された。』（日曜午後10時30分）で主演を務めることが19日、発表された。佐野にとって民放GP帯ドラマ初単独主演となる。1月 […]",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "1c3b7b76f7361a01",
+      "title": "M!LK佐野勇斗が民放GP帯ドラマで初単独主演、人情派の刑事を演じる『ディアマミー』1月放送開始",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/11/95207/",
+      "publishedAt": "2026-11-18T20:00:00.000Z",
+      "summary": "M!LKの佐野勇斗が、2027年1月より放送がスタートする日本テレビ系日曜ドラマ『ディアマミー 俺たちの母ちゃんは、殺された。』にて民放GP帯ドラマ初単独主演を務めることが発表された。 本作は、日本テレビ系の人気ドラマ『大病院占拠』『新空港占拠』『放送局占拠』を手がけた制作チームによる完全オリジナルのヒューマンミステリードラマ。脚本を福田哲平が担当し、演出は",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "220ef5e11feb5c10",
+      "title": "M!LK塩崎太智が1位、Juice=Juice「盛れ!ミ・アモーレ」が2位 『紅白』出場者発表週のストリーミング急上昇ランキング",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261119-5355209/",
+      "publishedAt": "2026-11-18T19:00:00.000Z",
+      "summary": "M!LK・塩崎太智のソロ曲「しおざきわんだーらんど」が、19日発表の最新「オリコン週間ストリーミング急上昇ランキング」で上昇率97.6％を記録し、1位を獲得した。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "塩﨑太智",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "181b30b1cc839f69",
+      "title": "BUDDiiS、メジャー2ndシングル「無限大LOVE!!!」本日発売＆ダンスパフォーマンス映像公開",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1105309",
+      "publishedAt": "2026-11-18T12:30:00.000Z",
+      "summary": "BUDDiiSが、メジャー2ndシングル「無限大LOVE!!!」を本日リリースした。 2026年10月23日に先行配信された「無限大LOVE!!!」は、Billboard JAPAN“Hot Shot Songs”にランクイン、LINE MUSIC BGM & Melodyのチャートでは1位を獲得し、LINE MUSIC ソングチャートもTOP5にランクイン",
+      "groups": [
+        "BUDDiiS"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "de576c688b4dda79",
+      "title": "SUPER★DRAGON LIVE TOUR 2027「house」ツアーロゴ&キービジュアル解禁！",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news12007/",
+      "publishedAt": "2026-11-18T12:00:38.000Z",
+      "summary": "2027年2月6日(土)から開催されるツアーのタイトルが、SUPER★DRAGON LIVE TOUR 2027「house」のキービジュアル&ツアーロゴを解禁！ キービジュアルのディレクションは古川毅、ツアーロ […] The post SUPER★DRAGON LIVE TOUR 2027「house」ツアーロゴ&キービジュアル解禁！ first app",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "古川毅",
+          "group": "SUPER★DRAGON",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "ca8e92baae9b800c",
+      "title": "「M!LKが遠い」「孤独感もあった」吉田仁人、ひどく落ち込んでいた時期を告白 グループの飛躍で感じた不安感「急に何もなくなるときが…」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261118-5337013/",
+      "publishedAt": "2026-11-18T10:00:00.000Z",
+      "summary": "「“急に何もなくなるときが来るんだ”っていうことに気づいてしまった」――。アイドルグループ・M!LKの吉田仁人が12日、文化放送『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)に出演。ブレイク後に“落ち込んでしまった”理由を語った。",
       "groups": [
         "M!LK"
       ],
@@ -24,27 +214,27 @@
       ]
     },
     {
-      "id": "7a57ae50f33bd37a",
-      "title": "M!LK5人が白ニット姿でぎゅっと密着！マフラーやイヤーマフを合わせた“冬仕様”に「かわいすぎる」「もこもこ冬ビジュ最高すぎ」「マフラーの巻き方も完璧」「冬のニットイケメン需要しかない」の声",
+      "id": "153116ae38e03a21",
+      "title": "原因は自分にある。「ラブリーズン」がオリコン週間合算シングルランキング1位獲得！合算アルバム1位はHey! Say! JUMP『Juliet』",
       "sourceName": "THE FIRST TIMES",
       "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000921321/",
-      "publishedAt": "2026-11-18T05:40:59.000Z",
-      "summary": "M!LKの公式Xが、12月11日から25日まで開催されるイルミネーションイベント『!LLU-M!LK -2026-...",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000921541/",
+      "publishedAt": "2026-11-18T08:47:55.000Z",
+      "summary": "2026年11月23日付「オリコン週間合算ランキング」（集計期間：11月9日～11月15日）が発表され...",
       "groups": [
-        "M!LK"
+        "原因は自分にある。"
       ],
       "statuses": [],
       "memberMatches": []
     },
     {
-      "id": "f165b1726a3cfae1",
-      "title": "M!LK山中柔太朗の真剣な表情のドアップにファン悶絶！「真島先生のアップ眼福」「ラブコメの王道にキュン」「真島先生の誘いなんて断れない」“ライバル”!?向井康二も登場『恋とき』胸キュンシーンに大反響",
+      "id": "16955540b9772ce8",
+      "title": "M!LK『JUNON』臨時増刊版表紙＆裏表紙をジャック！「今が幸せだから（昔の⾃分たちに）声をかけたくないな」（佐野勇⽃）",
       "sourceName": "THE FIRST TIMES",
       "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000920969/",
-      "publishedAt": "2026-11-18T04:43:01.000Z",
-      "summary": "ドラマ『いろはの恋は時代をかける』（TBS系）公式Instagramに山中柔太朗（M!LK）が登場。上白...",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000921362/",
+      "publishedAt": "2026-11-18T08:00:42.000Z",
+      "summary": "M!LKが『JUNON』1月号臨時増刊版（11月20日発売）の表紙＆裏表紙を飾る。 ■M!LKの仲のよさ全開...",
       "groups": [
         "M!LK"
       ],
@@ -53,25 +243,11 @@
       ],
       "memberMatches": [
         {
-          "name": "山中柔太朗",
+          "name": "佐野勇斗",
           "group": "M!LK",
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "c59ce289f1771698",
-      "title": "M!LK5人がピースの指先をつないで“ひとつの星”に！「JKみたいなことしてる」「爪がみじかく整えられてて好感度」「吉田さんもちもちで神」肩を寄せ合いポーズを決める集合ショットも",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000921098/",
-      "publishedAt": "2026-11-18T03:33:13.000Z",
-      "summary": "M!LKが11月17日放送の『うたコン』（NHK総合）に出演し、「爆裂愛してる」と「ザッツ！超常」...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "384ffae3b422e67f",
@@ -143,20 +319,6 @@
       "summary": "2026年11月18日（水）、『Quick Japan』が10代のために立ち上げた新レーベル『Quick Japan Monologue』#01が発売される。 コンセプトは「START YOUR STORY」。これからの時代を形作る表現者たちの現在進行形の姿と言葉を通して、読者自身の新しい物語が始ま.. 投稿 RUI（STARGLOW）、原因は自分にある。、",
       "groups": [
         "原因は自分にある。"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "149d84772438074f",
-      "title": "超特急・小笠原海、メンバーカラーのブルーニットで秋冬コーデ！アーノルド パーマーと限定コラボ",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/fashion2/681144.html",
-      "publishedAt": "2026-11-16T11:15:57.000Z",
-      "summary": "超特急のメンバーで俳優としても活動する小笠原海が、11月10日に公開されたアーノルド パーマーの公式WEBマガジン『Arnold Palmer Journal』の創刊号に登場した。誌面では、メンバーカラーのブルーのニットを主役にした秋冬コーディネートを披露。インタビュー ... The post 超特急・小笠原海、メンバーカラーのブルーニットで秋冬コーデ！ア",
-      "groups": [
-        "超特急"
       ],
       "statuses": [],
       "memberMatches": []
@@ -1962,20 +2124,6 @@
         "EBiDAN",
         "超特急",
         "M!LK",
-        "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "ba7a0fd1b21e8043",
-      "title": "【SUPER★DRAGON 夏休みオンライン特典会】2026年7月20日(月祝) AREA SD会員限定で開催！",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news11344/",
-      "publishedAt": "2026-06-29T11:00:00.000Z",
-      "summary": "SUPER★DRAGON OFFICIAL FANCLUB「AREA SD」会員様を対象に、ポニーキャニオンショッピングクラブにてキャンペーン期間内に2026年7月15日発売のMajor 6th Single「Call […] The post 【SUPER★DRAGON 夏休みオンライン特典会】2026年7月20日(月祝) AREA SD会員限定で開催！ ",
-      "groups": [
         "SUPER★DRAGON"
       ],
       "statuses": [],

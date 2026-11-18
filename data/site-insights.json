@@ -1,26 +1,22 @@
 {
-  "updatedAt": "2026-11-18T07:27:35.372Z",
+  "updatedAt": "2026-11-18T20:30:06.158Z",
   "totals": {
-    "all": 123,
-    "today": 6,
-    "week": 17
+    "all": 129,
+    "today": 7,
+    "week": 24
   },
   "groupRanking": [
     {
-      "name": "SUPER★DRAGON",
-      "count": 6
+      "name": "M!LK",
+      "count": 9
     },
     {
-      "name": "M!LK",
-      "count": 4
+      "name": "SUPER★DRAGON",
+      "count": 7
     },
     {
       "name": "原因は自分にある。",
-      "count": 3
-    },
-    {
-      "name": "超特急",
-      "count": 3
+      "count": 4
     },
     {
       "name": "EBiDAN",
@@ -29,15 +25,31 @@
     {
       "name": "ONE N' ONLY",
       "count": 2
+    },
+    {
+      "name": "超特急",
+      "count": 2
+    },
+    {
+      "name": "BUDDiiS",
+      "count": 1
     }
   ],
   "memberRanking": [
+    {
+      "name": "佐野勇斗",
+      "count": 6
+    },
     {
       "name": "EIKU",
       "count": 2
     },
     {
       "name": "TETTA",
+      "count": 2
+    },
+    {
+      "name": "塩﨑太智",
       "count": 2
     },
     {
@@ -49,7 +61,7 @@
       "count": 1
     },
     {
-      "name": "山中柔太朗",
+      "name": "古川毅",
       "count": 1
     },
     {
@@ -60,26 +72,34 @@
   "sourceRanking": [
     {
       "name": "SUPER★DRAGON 公式NEWS",
-      "count": 6
+      "count": 7
     },
     {
       "name": "THE FIRST TIMES",
       "count": 4
     },
     {
+      "name": "マイナビニュース エンタメ",
+      "count": 3
+    },
+    {
+      "name": "Bezzy",
+      "count": 2
+    },
+    {
       "name": "QJWeb",
       "count": 2
     },
     {
-      "name": "Bezzy",
+      "name": "リアルサウンド 映画部",
+      "count": 2
+    },
+    {
+      "name": "BARKS",
       "count": 1
     },
     {
-      "name": "WWSチャンネル",
-      "count": 1
-    },
-    {
-      "name": "マイナビニュース エンタメ",
+      "name": "ENCOUNT",
       "count": 1
     },
     {
@@ -87,7 +107,7 @@
       "count": 1
     },
     {
-      "name": "リアルサウンド 映画部",
+      "name": "日刊スポーツ 芸能",
       "count": 1
     }
   ],
@@ -95,13 +115,13 @@
   "recentByGroup": {
     "M!LK": [
       {
-        "id": "c40429b57704b390",
-        "title": "M!LK吉田仁人のリムレスメガネ×黒スーツ姿に反響！知的なムードに「執事感がたまらない」「女子の夢がつまりすぎている」「本気出してきた」",
+        "id": "b9d4e7fbcc70f8ea",
+        "title": "M!LK塩﨑太智ソロ曲「しおざきわんだーらんど」が「オリコン週間ストリーミング急上昇ランキング」1位を記録",
         "sourceName": "THE FIRST TIMES",
         "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000921312/",
-        "publishedAt": "2026-11-18T06:28:40.000Z",
-        "summary": "M!LKの吉田仁人が、11月18日発売の『anan』2520号に登場。同誌のSNSでは、パンダのぬいぐるみ...",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000921465/",
+        "publishedAt": "2026-11-18T20:08:35.000Z",
+        "summary": "M!LKの塩崎太智（崎は、たつさきが正式表記）によるソロ楽曲「しおざきわんだーらんど（塩崎太...",
         "groups": [
           "M!LK"
         ],
@@ -110,83 +130,273 @@
         ],
         "memberMatches": [
           {
-            "name": "吉田仁人",
+            "name": "塩﨑太智",
             "group": "M!LK",
             "status": "active"
           }
         ]
       },
       {
-        "id": "7a57ae50f33bd37a",
-        "title": "M!LK5人が白ニット姿でぎゅっと密着！マフラーやイヤーマフを合わせた“冬仕様”に「かわいすぎる」「もこもこ冬ビジュ最高すぎ」「マフラーの巻き方も完璧」「冬のニットイケメン需要しかない」の声",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000921321/",
-        "publishedAt": "2026-11-18T05:40:59.000Z",
-        "summary": "M!LKの公式Xが、12月11日から25日まで開催されるイルミネーションイベント『!LLU-M!LK -2026-...",
+        "id": "613ced9cb9599a75",
+        "title": "佐野勇斗、民放GP帯ドラマ初単独主演 『ディアマミー 』で母の死の真相に迫る刑事役に",
+        "sourceName": "リアルサウンド 映画部",
+        "sourceUrl": "https://realsound.jp/movie/feed",
+        "articleUrl": "https://realsound.jp/movie/2026/11/post-2588202.html",
+        "publishedAt": "2026-11-18T20:00:23.000Z",
+        "summary": "佐野勇斗が主演を務める連続ドラマ『ディアマミー 俺たちの母ちゃんは、殺された。』が、2027年1月期の日本テレビ系日曜ドラマ枠で放送されることが決定した。佐野は本作が民放ゴールデン・プライム帯ドラマ初単独主演となる。",
         "groups": [
           "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "16e6ea84d040e674",
+        "title": "佐野勇斗、民放GP帯ドラマ初単独主演決定！「ずっと目標にしていた夢のひとつでした」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000921590/",
+        "publishedAt": "2026-11-18T20:00:02.000Z",
+        "summary": "佐野勇斗が、2027年1月から日本テレビ系で放送される日曜ドラマ『ディアマミー 俺たちの母ちゃ...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "768a1e7c225e1a49",
+        "title": "佐野勇斗「目標にしていた夢の１つ」日テレ１月期ドラマ「ディアマミー」GP帯ドラマ初単独主演",
+        "sourceName": "日刊スポーツ 芸能",
+        "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+        "articleUrl": "https://www.nikkansports.com/entertainment/news/202611180001279.html",
+        "publishedAt": "2026-11-18T20:00:00.000Z",
+        "summary": "M！LKの佐野勇斗（28）が日本テレビ系1月期日曜ドラマ「ディアマミー 俺たちの母ちゃんは、殺された。」（午後10時半）で主演を務めることが18日、発表された。佐野は同作が民放GP帯ドラマ初単独主演となる。 同作は日本テレビ系の人気ドラ…",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "427a9cd8cee50743",
+        "title": "佐野勇斗、民放GP帯ドラマで初単独主演 母の死の真相を追う刑事役「ずっと目標にしていた夢」",
+        "sourceName": "ENCOUNT",
+        "sourceUrl": "https://encount.press/feed/",
+        "articleUrl": "https://encount.press/archives/1100857/",
+        "publishedAt": "2026-11-18T20:00:00.000Z",
+        "summary": "俳優の佐野勇斗が、2027年1月期の日本テレビ系連続ドラマ『ディアマミー 俺たちの母ちゃんは、殺された。』（日曜午後10時30分）で主演を務めることが19日、発表された。佐野にとって民放GP帯ドラマ初単独主演となる。1月 […]",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "BUDDiiS": [
+      {
+        "id": "181b30b1cc839f69",
+        "title": "BUDDiiS、メジャー2ndシングル「無限大LOVE!!!」本日発売＆ダンスパフォーマンス映像公開",
+        "sourceName": "BARKS",
+        "sourceUrl": "https://www.barks.jp/feed/",
+        "articleUrl": "https://barks.jp/news/1105309",
+        "publishedAt": "2026-11-18T12:30:00.000Z",
+        "summary": "BUDDiiSが、メジャー2ndシングル「無限大LOVE!!!」を本日リリースした。 2026年10月23日に先行配信された「無限大LOVE!!!」は、Billboard JAPAN“Hot Shot Songs”にランクイン、LINE MUSIC BGM & Melodyのチャートでは1位を獲得し、LINE MUSIC ソングチャートもTOP5にランクイン",
+        "groups": [
+          "BUDDiiS"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
+    "SUPER★DRAGON": [
+      {
+        "id": "de576c688b4dda79",
+        "title": "SUPER★DRAGON LIVE TOUR 2027「house」ツアーロゴ&キービジュアル解禁！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news12007/",
+        "publishedAt": "2026-11-18T12:00:38.000Z",
+        "summary": "2027年2月6日(土)から開催されるツアーのタイトルが、SUPER★DRAGON LIVE TOUR 2027「house」のキービジュアル&ツアーロゴを解禁！ キービジュアルのディレクションは古川毅、ツアーロ […] The post SUPER★DRAGON LIVE TOUR 2027「house」ツアーロゴ&キービジュアル解禁！ first app",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "古川毅",
+            "group": "SUPER★DRAGON",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "1435a68b28c395c7",
+        "title": "【＠Loppi・HMV限定盤】Blu-ray『EBiDAN THE LIVE 2026 15th Anniversary』2027年2月10日(水)発売決定！さらにEBiDAN15周年アニバーサリーエディション版『EBiDAN Visual Dictionary 2027～15th Anniversary Edition～』も同時発売！本日より予約受付開始！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11875/",
+        "publishedAt": "2026-11-14T11:00:39.000Z",
+        "summary": "＠Loppi・HMV限定盤 Blu-ray『EBiDAN THE LIVE 2026 15th Anniversary』と、EBiDAN15周年アニバーサリーエディション版『EBiDAN Visual Dictionar […] The post 【＠Loppi・HMV限定盤】Blu-ray『EBiDAN THE LIVE 2026 15th Anniver",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
         ],
         "statuses": [],
         "memberMatches": []
       },
       {
-        "id": "f165b1726a3cfae1",
-        "title": "M!LK山中柔太朗の真剣な表情のドアップにファン悶絶！「真島先生のアップ眼福」「ラブコメの王道にキュン」「真島先生の誘いなんて断れない」“ライバル”!?向井康二も登場『恋とき』胸キュンシーンに大反響",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000920969/",
-        "publishedAt": "2026-11-18T04:43:01.000Z",
-        "summary": "ドラマ『いろはの恋は時代をかける』（TBS系）公式Instagramに山中柔太朗（M!LK）が登場。上白...",
+        "id": "4ab8667823686fc1",
+        "title": "11/23(月祝)開催リリースイベント＠松下IMPホール（大阪）参加方法・特典会内容についてのご案内",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11994/",
+        "publishedAt": "2026-11-14T11:00:02.000Z",
+        "summary": "11/23(月祝)松下IMPホールにて開催するリリースイベントの詳細をご案内致します。 必ず最後まで全てお読み頂き、会場にいらした皆様がイベントを楽しめるよう、ファンの皆様同士でルールとマナーの厳守をお願い致します。 C […] The post 11/23(月祝)開催リリースイベント＠松下IMPホール（大阪）参加方法・特典会内容についてのご案内 first",
         "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "c59ce289f1771698",
-        "title": "M!LK5人がピースの指先をつないで“ひとつの星”に！「JKみたいなことしてる」「爪がみじかく整えられてて好感度」「吉田さんもちもちで神」肩を寄せ合いポーズを決める集合ショットも",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000921098/",
-        "publishedAt": "2026-11-18T03:33:13.000Z",
-        "summary": "M!LKが11月17日放送の『うたコン』（NHK総合）に出演し、「爆裂愛してる」と「ザッツ！超常」...",
-        "groups": [
-          "M!LK"
+          "SUPER★DRAGON"
         ],
         "statuses": [],
         "memberMatches": []
       },
       {
-        "id": "b98ff91bf2e95cdf",
-        "title": "吉田仁人が凛とした表情で新曲を熱唱、M!LKとは違う魅力を堪能できる「愛の形」MV公開",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/11/94709/",
-        "publishedAt": "2026-11-09T09:00:00.000Z",
-        "summary": "5人組ダンスボーカルグループ・M!LKの吉田仁人が、本日11月9日(月)に配信リリースした新曲「愛の形」のMusic Videoを公開した。 「愛の形」は、それぞれが信じる愛の在り方について描いたバラード。愛することと愛されることの形が同じでなくても相手の幸せを願い続けることを選ぶ、大切な人の幸せを自分のこと以上に願うようになった主人公のまっすぐな覚悟と、見",
+        "id": "8325cd51f574d15d",
+        "title": "Major 2nd Album「STAR」11月22日(日)開催リリースイベント＠セブンパーク天美（大阪）にて開催リリースイベントLINEアプリを使用した『CD購入整理券』『優先観覧エリア入場整理券』についてのご案内",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news12000/",
+        "publishedAt": "2026-11-14T10:59:16.000Z",
+        "summary": "▼ＣＤ購入整理券について 11月22日(日)大阪・セブンパーク天美にて開催するリリースイベントの会場でのＣＤ販売は、会場の混雑緩和のため、LINEアプリを使用した事前応募制の『ＣＤ購入整理券』を導入致します。 ＣＤ購入を […] The post Major 2nd Album「STAR」11月22日(日)開催リリースイベント＠セブンパーク天美（大阪）にて開",
         "groups": [
-          "M!LK"
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "82a2a9dc99593def",
+        "title": "11/22(日)開催リリースイベント＠セブンパーク天美（大阪）参加方法・特典会内容についてのご案内",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11996/",
+        "publishedAt": "2026-11-14T10:59:06.000Z",
+        "summary": "11月22日(日)にセブンパーク天美にて開催するリリースイベントの詳細をご案内致します。 必ず最後まで全てお読み頂き、会場にいらした皆様がイベントを楽しめるよう、ファンの皆様同士でルールとマナーの厳守をお願い致します。 […] The post 11/22(日)開催リリースイベント＠セブンパーク天美（大阪）参加方法・特典会内容についてのご案内 first a",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
+    "原因は自分にある。": [
+      {
+        "id": "153116ae38e03a21",
+        "title": "原因は自分にある。「ラブリーズン」がオリコン週間合算シングルランキング1位獲得！合算アルバム1位はHey! Say! JUMP『Juliet』",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000921541/",
+        "publishedAt": "2026-11-18T08:47:55.000Z",
+        "summary": "2026年11月23日付「オリコン週間合算ランキング」（集計期間：11月9日～11月15日）が発表され...",
+        "groups": [
+          "原因は自分にある。"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "510b6cd87912ea29",
+        "title": "ONE N' ONLY関哲汰＆山下永玖、W主演で市役所の“問題児コンビ”に「ガッツリお芝居でセリフを交わす機会はなかなかない」",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20261118-5351303/",
+        "publishedAt": "2026-11-18T03:00:00.000Z",
+        "summary": "「メンバーの哲汰とガッツリお芝居でセリフを交わす機会はなかなかないので、すごく楽しみです」――ONE N' ONLYの関哲汰と山下永玖が、12月19日に放送される中京テレビのスペシャルドラマ『トンテキ食ってる場合じゃない!!』(13:30～14:30)でW主演。三重県四日市市を舞台に、異動の危機に直面する市役所観光交流課の“問題児コンビ”を演じる。関は、過去",
+        "groups": [
+          "ONE N' ONLY",
+          "原因は自分にある。"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "吉田仁人",
-            "group": "M!LK",
+            "name": "TETTA",
+            "group": "ONE N' ONLY",
+            "status": "active"
+          },
+          {
+            "name": "EIKU",
+            "group": "ONE N' ONLY",
+            "status": "active"
+          },
+          {
+            "name": "武藤潤",
+            "group": "原因は自分にある。",
             "status": "active"
           }
         ]
+      },
+      {
+        "id": "bbbf111af31dd4f7",
+        "title": "RUI（STARGLOW）、原因は自分にある。、JO（&TEAM）×RAN（MAZZEL）、蓮月（ブランデー戦記）がカバー＆特集に登場！【Quick Japan Monologue #01コンテンツ紹介】",
+        "sourceName": "QJWeb",
+        "sourceUrl": "https://qjweb.jp/feed/",
+        "articleUrl": "https://qjweb.jp/news/168323/",
+        "publishedAt": "2026-11-17T09:29:00.000Z",
+        "summary": "2026年11月18日（水）、『Quick Japan』が10代のために立ち上げた新レーベル『Quick Japan Monologue』#01が発売される。 コンセプトは「START YOUR STORY」。これからの時代を形作る表現者たちの現在進行形の姿と言葉を通して、読者自身の新しい物語が始ま.. 投稿 RUI（STARGLOW）、原因は自分にある。、",
+        "groups": [
+          "原因は自分にある。"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "18f9902c753f1de9",
+        "title": "原因は自分にある。「小籠包を食べてアツい話をした」思い出の地に1万人の観測者が集う【『ラブリーズン』リリース記念フリーライブ】",
+        "sourceName": "QJWeb",
+        "sourceUrl": "https://qjweb.jp/feed/",
+        "articleUrl": "https://qjweb.jp/column/168061/",
+        "publishedAt": "2026-11-12T09:00:00.000Z",
+        "summary": "原因は自分にある。の5thシングル『ラブリーズン』のリリース記念フリーライブが、2026年11月11日（水）に横浜赤レンガ倉庫で開催された。 これまで、原因は自分にある。のリリースイベントといえば商業施設などにて行われていた印象だが、昨今は急増する観測者（原因は自分にある。のファンネーム）の力もあっ.. 投稿 原因は自分にある。「小籠包を食べてアツい話をした",
+        "groups": [
+          "原因は自分にある。"
+        ],
+        "statuses": [],
+        "memberMatches": []
       }
     ],
     "ONE N' ONLY": [
@@ -251,84 +461,7 @@
         ]
       }
     ],
-    "原因は自分にある。": [
-      {
-        "id": "510b6cd87912ea29",
-        "title": "ONE N' ONLY関哲汰＆山下永玖、W主演で市役所の“問題児コンビ”に「ガッツリお芝居でセリフを交わす機会はなかなかない」",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20261118-5351303/",
-        "publishedAt": "2026-11-18T03:00:00.000Z",
-        "summary": "「メンバーの哲汰とガッツリお芝居でセリフを交わす機会はなかなかないので、すごく楽しみです」――ONE N' ONLYの関哲汰と山下永玖が、12月19日に放送される中京テレビのスペシャルドラマ『トンテキ食ってる場合じゃない!!』(13:30～14:30)でW主演。三重県四日市市を舞台に、異動の危機に直面する市役所観光交流課の“問題児コンビ”を演じる。関は、過去",
-        "groups": [
-          "ONE N' ONLY",
-          "原因は自分にある。"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "TETTA",
-            "group": "ONE N' ONLY",
-            "status": "active"
-          },
-          {
-            "name": "EIKU",
-            "group": "ONE N' ONLY",
-            "status": "active"
-          },
-          {
-            "name": "武藤潤",
-            "group": "原因は自分にある。",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "bbbf111af31dd4f7",
-        "title": "RUI（STARGLOW）、原因は自分にある。、JO（&TEAM）×RAN（MAZZEL）、蓮月（ブランデー戦記）がカバー＆特集に登場！【Quick Japan Monologue #01コンテンツ紹介】",
-        "sourceName": "QJWeb",
-        "sourceUrl": "https://qjweb.jp/feed/",
-        "articleUrl": "https://qjweb.jp/news/168323/",
-        "publishedAt": "2026-11-17T09:29:00.000Z",
-        "summary": "2026年11月18日（水）、『Quick Japan』が10代のために立ち上げた新レーベル『Quick Japan Monologue』#01が発売される。 コンセプトは「START YOUR STORY」。これからの時代を形作る表現者たちの現在進行形の姿と言葉を通して、読者自身の新しい物語が始ま.. 投稿 RUI（STARGLOW）、原因は自分にある。、",
-        "groups": [
-          "原因は自分にある。"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "18f9902c753f1de9",
-        "title": "原因は自分にある。「小籠包を食べてアツい話をした」思い出の地に1万人の観測者が集う【『ラブリーズン』リリース記念フリーライブ】",
-        "sourceName": "QJWeb",
-        "sourceUrl": "https://qjweb.jp/feed/",
-        "articleUrl": "https://qjweb.jp/column/168061/",
-        "publishedAt": "2026-11-12T09:00:00.000Z",
-        "summary": "原因は自分にある。の5thシングル『ラブリーズン』のリリース記念フリーライブが、2026年11月11日（水）に横浜赤レンガ倉庫で開催された。 これまで、原因は自分にある。のリリースイベントといえば商業施設などにて行われていた印象だが、昨今は急増する観測者（原因は自分にある。のファンネーム）の力もあっ.. 投稿 原因は自分にある。「小籠包を食べてアツい話をした",
-        "groups": [
-          "原因は自分にある。"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
     "超特急": [
-      {
-        "id": "149d84772438074f",
-        "title": "超特急・小笠原海、メンバーカラーのブルーニットで秋冬コーデ！アーノルド パーマーと限定コラボ",
-        "sourceName": "WWSチャンネル",
-        "sourceUrl": "https://www.wws-channel.com/feed",
-        "articleUrl": "https://www.wws-channel.com/fashion2/681144.html",
-        "publishedAt": "2026-11-16T11:15:57.000Z",
-        "summary": "超特急のメンバーで俳優としても活動する小笠原海が、11月10日に公開されたアーノルド パーマーの公式WEBマガジン『Arnold Palmer Journal』の創刊号に登場した。誌面では、メンバーカラーのブルーのニットを主役にした秋冬コーディネートを披露。インタビュー ... The post 超特急・小笠原海、メンバーカラーのブルーニットで秋冬コーデ！ア",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
       {
         "id": "eca139ad46d2dd81",
         "title": "小関裕太×太宰治、藤原樹×芥川龍之介、草川拓弥×夏目漱石 中川龍太郎監督の3作品が劇場へ",
@@ -400,6 +533,20 @@
             "status": "active"
           }
         ]
+      },
+      {
+        "id": "6865cd3cb597efa2",
+        "title": "危うく強い鈴木伸之に柏木悠が宿す意思とは、映画『羊の皮を着たケモノ』緊張感漂う場面写真解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/10/93934/",
+        "publishedAt": "2026-10-23T03:00:00.000Z",
+        "summary": "鈴木伸之と柏木悠（超特急）がW主演を務め、12月11日(金)に公開される映画『羊の皮を着たケモノ』の場面写真5点が解禁された。 本作は、九號（きゅうごう）による同名BL漫画を実写化した、骨太で新感覚のボーイズ・ラブ。原作は「BLアワード2022 ディープ部門」で第13位、「BLアワード2024 ディープ部門」で第3位を獲得した人気作で、物語は前半の明るく甘い",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
       }
     ],
     "EBiDAN": [
@@ -473,79 +620,6 @@
         "summary": "第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ&生写真セットの事後通販が決定しました！ 残りわずかな商品もございますので、ぜひこの機会にご利用ください！ ****************** […] The post 第6回EBiDAN大運動会『スポーツマンヒップ！』オフィシャルグッズ&生写真セット 事後通販決定！！ first app",
         "groups": [
           "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "SUPER★DRAGON": [
-      {
-        "id": "1435a68b28c395c7",
-        "title": "【＠Loppi・HMV限定盤】Blu-ray『EBiDAN THE LIVE 2026 15th Anniversary』2027年2月10日(水)発売決定！さらにEBiDAN15周年アニバーサリーエディション版『EBiDAN Visual Dictionary 2027～15th Anniversary Edition～』も同時発売！本日より予約受付開始！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11875/",
-        "publishedAt": "2026-11-14T11:00:39.000Z",
-        "summary": "＠Loppi・HMV限定盤 Blu-ray『EBiDAN THE LIVE 2026 15th Anniversary』と、EBiDAN15周年アニバーサリーエディション版『EBiDAN Visual Dictionar […] The post 【＠Loppi・HMV限定盤】Blu-ray『EBiDAN THE LIVE 2026 15th Anniver",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "4ab8667823686fc1",
-        "title": "11/23(月祝)開催リリースイベント＠松下IMPホール（大阪）参加方法・特典会内容についてのご案内",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11994/",
-        "publishedAt": "2026-11-14T11:00:02.000Z",
-        "summary": "11/23(月祝)松下IMPホールにて開催するリリースイベントの詳細をご案内致します。 必ず最後まで全てお読み頂き、会場にいらした皆様がイベントを楽しめるよう、ファンの皆様同士でルールとマナーの厳守をお願い致します。 C […] The post 11/23(月祝)開催リリースイベント＠松下IMPホール（大阪）参加方法・特典会内容についてのご案内 first",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "8325cd51f574d15d",
-        "title": "Major 2nd Album「STAR」11月22日(日)開催リリースイベント＠セブンパーク天美（大阪）にて開催リリースイベントLINEアプリを使用した『CD購入整理券』『優先観覧エリア入場整理券』についてのご案内",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news12000/",
-        "publishedAt": "2026-11-14T10:59:16.000Z",
-        "summary": "▼ＣＤ購入整理券について 11月22日(日)大阪・セブンパーク天美にて開催するリリースイベントの会場でのＣＤ販売は、会場の混雑緩和のため、LINEアプリを使用した事前応募制の『ＣＤ購入整理券』を導入致します。 ＣＤ購入を […] The post Major 2nd Album「STAR」11月22日(日)開催リリースイベント＠セブンパーク天美（大阪）にて開",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "82a2a9dc99593def",
-        "title": "11/22(日)開催リリースイベント＠セブンパーク天美（大阪）参加方法・特典会内容についてのご案内",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11996/",
-        "publishedAt": "2026-11-14T10:59:06.000Z",
-        "summary": "11月22日(日)にセブンパーク天美にて開催するリリースイベントの詳細をご案内致します。 必ず最後まで全てお読み頂き、会場にいらした皆様がイベントを楽しめるよう、ファンの皆様同士でルールとマナーの厳守をお願い致します。 […] The post 11/22(日)開催リリースイベント＠セブンパーク天美（大阪）参加方法・特典会内容についてのご案内 first a",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "7e88eb56cabb27fa",
-        "title": "SUPER★DRAGON Major 2nd Album「STAR」リリースイベント・特典会開催！（11/13更新）",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11790/",
-        "publishedAt": "2026-11-13T12:00:30.000Z",
-        "summary": "2026年12月09日(水)、SUPER★DRAGONメジャー2枚目となるアルバム「STAR」の発売を記念し、リリースイベント・特典会が決定いたしました！ SUPER★DRAGONと一緒に、素敵な思い出を作りましょう！ […] The post SUPER★DRAGON Major 2nd Album「STAR」リリースイベント・特典会開催！（11/13更新",
-        "groups": [
           "SUPER★DRAGON"
         ],
         "statuses": [],
