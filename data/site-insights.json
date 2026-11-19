@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-19T07:23:58.315Z",
+  "updatedAt": "2026-11-19T20:35:40.361Z",
   "totals": {
     "all": 127,
-    "today": 8,
-    "week": 22
+    "today": 0,
+    "week": 23
   },
   "groupRanking": [
     {
-      "name": "M!LK",
-      "count": 8
+      "name": "SUPER★DRAGON",
+      "count": 9
     },
     {
-      "name": "SUPER★DRAGON",
+      "name": "M!LK",
       "count": 8
     },
     {
@@ -20,11 +20,7 @@
     },
     {
       "name": "超特急",
-      "count": 2
-    },
-    {
-      "name": "BUDDiiS",
-      "count": 1
+      "count": 3
     },
     {
       "name": "EBiDAN",
@@ -37,15 +33,23 @@
   ],
   "memberRanking": [
     {
-      "name": "吉田仁人",
+      "name": "佐野勇斗",
       "count": 3
     },
     {
-      "name": "佐野勇斗",
+      "name": "吉田仁人",
+      "count": 2
+    },
+    {
+      "name": "大倉空人",
       "count": 2
     },
     {
       "name": "田中洸希",
+      "count": 2
+    },
+    {
+      "name": "武藤潤",
       "count": 2
     },
     {
@@ -67,24 +71,16 @@
     {
       "name": "古川毅",
       "count": 1
-    },
-    {
-      "name": "山中柔太朗",
-      "count": 1
-    },
-    {
-      "name": "曽野舜太",
-      "count": 1
     }
   ],
   "sourceRanking": [
     {
       "name": "SUPER★DRAGON 公式NEWS",
-      "count": 7
+      "count": 8
     },
     {
       "name": "THE FIRST TIMES",
-      "count": 4
+      "count": 3
     },
     {
       "name": "Bezzy",
@@ -95,391 +91,47 @@
       "count": 2
     },
     {
-      "name": "タワーレコード ニュース",
-      "count": 2
-    },
-    {
       "name": "マイナビニュース エンタメ",
       "count": 2
     },
     {
-      "name": "BARKS",
-      "count": 1
-    },
-    {
       "name": "マイナビニュース テレビ",
-      "count": 1
+      "count": 2
     },
     {
       "name": "マイナビニュース 映画",
+      "count": 1
+    },
+    {
+      "name": "マイナビニュース 芸能",
+      "count": 1
+    },
+    {
+      "name": "リアルサウンド 映画部",
+      "count": 1
+    },
+    {
+      "name": "リアルサウンド 音楽",
       "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
-    "M!LK": [
-      {
-        "id": "a4b64880ad6c9321",
-        "title": "M!LK吉田仁人が鹿児島弁で「好っじゃ！」自然と出る郷土訛りに「仁人くんの鹿児島弁メロすぎ」とファン歓喜",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000922194/",
-        "publishedAt": "2026-11-19T06:47:16.000Z",
-        "summary": "M!LK吉田仁人が鹿児島弁で「好っじゃ（すっじゃー）」と胸キュンセリフを言う動画が公開。吉田...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "1db0c8dbcb6311f0",
-        "title": "M!LK5人が肩を寄せ合い廊下を歩く！身長180cm超えの曽野舜太が誰よりもちんまり、メガネ姿の佐野勇斗のどアップも「高身長メンバーの上目遣い浴びれるの最高」「仁ちゃんのよちよち歩きかわいすぎる」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000922123/",
-        "publishedAt": "2026-11-19T06:03:59.000Z",
-        "summary": "M!LKの公式TikTokが「めっちゃかわいい」というコメントを添え、メンバー5人が廊下を歩く様子...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "3c85bceff5d7718a",
-        "title": "M!LK山中柔太朗が座ったまま軽々リフティング！華麗な足さばきに「これは恋するわ」「さすがにかっこよすぎる」と反響",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000922038/",
-        "publishedAt": "2026-11-19T05:09:48.000Z",
-        "summary": "ドラマ『いろはの恋は時代（とき）をかける』（TBS系）の公式SNSで、M!LKの山中柔太朗のオフシ...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "d404f617bd2bb9eb",
-        "title": "M!LK吉田仁人の“白スーツ×イヤーカフ”に反響！ジャケットを片肩にかけ、ネクタイをゆるめる姿や革グローブの指先を甘噛みするカットも「白スーツは反則…」「色気ダダ漏れ」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000921941/",
-        "publishedAt": "2026-11-19T03:06:11.000Z",
-        "summary": "雑誌『anan』の公式Instagramが、2520号（11月18日発売）に登場したM!LKの吉田仁人の撮影風景...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "1c3b7b76f7361a01",
-        "title": "M!LK佐野勇斗が民放GP帯ドラマで初単独主演、人情派の刑事を演じる『ディアマミー』1月放送開始",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/11/95207/",
-        "publishedAt": "2026-11-18T20:00:00.000Z",
-        "summary": "M!LKの佐野勇斗が、2027年1月より放送がスタートする日本テレビ系日曜ドラマ『ディアマミー 俺たちの母ちゃんは、殺された。』にて民放GP帯ドラマ初単独主演を務めることが発表された。 本作は、日本テレビ系の人気ドラマ『大病院占拠』『新空港占拠』『放送局占拠』を手がけた制作チームによる完全オリジナルのヒューマンミステリードラマ。脚本を福田哲平が担当し、演出は",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      }
-    ],
-    "SUPER★DRAGON": [
-      {
-        "id": "b638821ab3764ec3",
-        "title": "【田中洸希】フジテレビ（関東ローカル） 『女優失格』出演決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news12016/",
-        "publishedAt": "2026-11-19T00:30:45.000Z",
-        "summary": "12月21日(月)24:45〜放送スタート フジテレビ（関東ローカル） 『女優失格』に 田中洸希が朱島朝陽役として出演決定！ お楽しみに！ 番組タイトル：『女優失格』 原作：メンギ『女優失格』 (「LINEマンガ」連載) […] The post 【田中洸希】フジテレビ（関東ローカル） 『女優失格』出演決定！ first appeared on SUPER★",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "田中洸希",
-            "group": "SUPER★DRAGON",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "0bdad40878ffff57",
-        "title": "原因は自分にある。大倉空人、アイドルの“ビジュアル担当”役にプレッシャー「セリフが僕自身にも刺さって」",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20261119-5355412/",
-        "publishedAt": "2026-11-18T23:00:00.000Z",
-        "summary": "茅島みずきが主演するフジテレビのドラマ『女優失格』(12月21日スタート、初回は月曜24:45～、2話以降は毎週火曜深夜 ※関東ローカル、FOD配信)に、豊田裕大、大倉空人(原因は自分にある。)、田中洸希(SUPER★DRAGON)、なえなのらが出演することが発表された。",
-        "groups": [
-          "SUPER★DRAGON",
-          "原因は自分にある。"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "田中洸希",
-            "group": "SUPER★DRAGON",
-            "status": "active"
-          },
-          {
-            "name": "大倉空人",
-            "group": "原因は自分にある。",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "de576c688b4dda79",
-        "title": "SUPER★DRAGON LIVE TOUR 2027「house」ツアーロゴ&キービジュアル解禁！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news12007/",
-        "publishedAt": "2026-11-18T12:00:38.000Z",
-        "summary": "2027年2月6日(土)から開催されるツアーのタイトルが、SUPER★DRAGON LIVE TOUR 2027「house」のキービジュアル&ツアーロゴを解禁！ キービジュアルのディレクションは古川毅、ツアーロ […] The post SUPER★DRAGON LIVE TOUR 2027「house」ツアーロゴ&キービジュアル解禁！ first app",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "古川毅",
-            "group": "SUPER★DRAGON",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "1435a68b28c395c7",
-        "title": "【＠Loppi・HMV限定盤】Blu-ray『EBiDAN THE LIVE 2026 15th Anniversary』2027年2月10日(水)発売決定！さらにEBiDAN15周年アニバーサリーエディション版『EBiDAN Visual Dictionary 2027～15th Anniversary Edition～』も同時発売！本日より予約受付開始！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11875/",
-        "publishedAt": "2026-11-14T11:00:39.000Z",
-        "summary": "＠Loppi・HMV限定盤 Blu-ray『EBiDAN THE LIVE 2026 15th Anniversary』と、EBiDAN15周年アニバーサリーエディション版『EBiDAN Visual Dictionar […] The post 【＠Loppi・HMV限定盤】Blu-ray『EBiDAN THE LIVE 2026 15th Anniver",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "4ab8667823686fc1",
-        "title": "11/23(月祝)開催リリースイベント＠松下IMPホール（大阪）参加方法・特典会内容についてのご案内",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11994/",
-        "publishedAt": "2026-11-14T11:00:02.000Z",
-        "summary": "11/23(月祝)松下IMPホールにて開催するリリースイベントの詳細をご案内致します。 必ず最後まで全てお読み頂き、会場にいらした皆様がイベントを楽しめるよう、ファンの皆様同士でルールとマナーの厳守をお願い致します。 C […] The post 11/23(月祝)開催リリースイベント＠松下IMPホール（大阪）参加方法・特典会内容についてのご案内 first",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "原因は自分にある。": [
-      {
-        "id": "0bdad40878ffff57",
-        "title": "原因は自分にある。大倉空人、アイドルの“ビジュアル担当”役にプレッシャー「セリフが僕自身にも刺さって」",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20261119-5355412/",
-        "publishedAt": "2026-11-18T23:00:00.000Z",
-        "summary": "茅島みずきが主演するフジテレビのドラマ『女優失格』(12月21日スタート、初回は月曜24:45～、2話以降は毎週火曜深夜 ※関東ローカル、FOD配信)に、豊田裕大、大倉空人(原因は自分にある。)、田中洸希(SUPER★DRAGON)、なえなのらが出演することが発表された。",
-        "groups": [
-          "SUPER★DRAGON",
-          "原因は自分にある。"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "田中洸希",
-            "group": "SUPER★DRAGON",
-            "status": "active"
-          },
-          {
-            "name": "大倉空人",
-            "group": "原因は自分にある。",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "510b6cd87912ea29",
-        "title": "ONE N' ONLY関哲汰＆山下永玖、W主演で市役所の“問題児コンビ”に「ガッツリお芝居でセリフを交わす機会はなかなかない」",
-        "sourceName": "マイナビニュース テレビ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-        "articleUrl": "https://news.mynavi.jp/article/20261118-5351303/",
-        "publishedAt": "2026-11-18T03:00:00.000Z",
-        "summary": "「メンバーの哲汰とガッツリお芝居でセリフを交わす機会はなかなかないので、すごく楽しみです」――ONE N' ONLYの関哲汰と山下永玖が、12月19日に放送される中京テレビのスペシャルドラマ『トンテキ食ってる場合じゃない!!』(13:30～14:30)でW主演。三重県四日市市を舞台に、異動の危機に直面する市役所観光交流課の“問題児コンビ”を演じる。関は、過去",
-        "groups": [
-          "ONE N' ONLY",
-          "原因は自分にある。"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "TETTA",
-            "group": "ONE N' ONLY",
-            "status": "active"
-          },
-          {
-            "name": "EIKU",
-            "group": "ONE N' ONLY",
-            "status": "active"
-          },
-          {
-            "name": "武藤潤",
-            "group": "原因は自分にある。",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "bbbf111af31dd4f7",
-        "title": "RUI（STARGLOW）、原因は自分にある。、JO（&TEAM）×RAN（MAZZEL）、蓮月（ブランデー戦記）がカバー＆特集に登場！【Quick Japan Monologue #01コンテンツ紹介】",
-        "sourceName": "QJWeb",
-        "sourceUrl": "https://qjweb.jp/feed/",
-        "articleUrl": "https://qjweb.jp/news/168323/",
-        "publishedAt": "2026-11-17T09:29:00.000Z",
-        "summary": "2026年11月18日（水）、『Quick Japan』が10代のために立ち上げた新レーベル『Quick Japan Monologue』#01が発売される。 コンセプトは「START YOUR STORY」。これからの時代を形作る表現者たちの現在進行形の姿と言葉を通して、読者自身の新しい物語が始ま.. 投稿 RUI（STARGLOW）、原因は自分にある。、",
-        "groups": [
-          "原因は自分にある。"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "18f9902c753f1de9",
-        "title": "原因は自分にある。「小籠包を食べてアツい話をした」思い出の地に1万人の観測者が集う【『ラブリーズン』リリース記念フリーライブ】",
-        "sourceName": "QJWeb",
-        "sourceUrl": "https://qjweb.jp/feed/",
-        "articleUrl": "https://qjweb.jp/column/168061/",
-        "publishedAt": "2026-11-12T09:00:00.000Z",
-        "summary": "原因は自分にある。の5thシングル『ラブリーズン』のリリース記念フリーライブが、2026年11月11日（水）に横浜赤レンガ倉庫で開催された。 これまで、原因は自分にある。のリリースイベントといえば商業施設などにて行われていた印象だが、昨今は急増する観測者（原因は自分にある。のファンネーム）の力もあっ.. 投稿 原因は自分にある。「小籠包を食べてアツい話をした",
-        "groups": [
-          "原因は自分にある。"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "BUDDiiS": [
-      {
-        "id": "181b30b1cc839f69",
-        "title": "BUDDiiS、メジャー2ndシングル「無限大LOVE!!!」本日発売＆ダンスパフォーマンス映像公開",
-        "sourceName": "BARKS",
-        "sourceUrl": "https://www.barks.jp/feed/",
-        "articleUrl": "https://barks.jp/news/1105309",
-        "publishedAt": "2026-11-18T12:30:00.000Z",
-        "summary": "BUDDiiSが、メジャー2ndシングル「無限大LOVE!!!」を本日リリースした。 2026年10月23日に先行配信された「無限大LOVE!!!」は、Billboard JAPAN“Hot Shot Songs”にランクイン、LINE MUSIC BGM & Melodyのチャートでは1位を獲得し、LINE MUSIC ソングチャートもTOP5にランクイン",
-        "groups": [
-          "BUDDiiS"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "ONE N' ONLY": [
-      {
-        "id": "510b6cd87912ea29",
-        "title": "ONE N' ONLY関哲汰＆山下永玖、W主演で市役所の“問題児コンビ”に「ガッツリお芝居でセリフを交わす機会はなかなかない」",
-        "sourceName": "マイナビニュース テレビ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-        "articleUrl": "https://news.mynavi.jp/article/20261118-5351303/",
-        "publishedAt": "2026-11-18T03:00:00.000Z",
-        "summary": "「メンバーの哲汰とガッツリお芝居でセリフを交わす機会はなかなかないので、すごく楽しみです」――ONE N' ONLYの関哲汰と山下永玖が、12月19日に放送される中京テレビのスペシャルドラマ『トンテキ食ってる場合じゃない!!』(13:30～14:30)でW主演。三重県四日市市を舞台に、異動の危機に直面する市役所観光交流課の“問題児コンビ”を演じる。関は、過去",
-        "groups": [
-          "ONE N' ONLY",
-          "原因は自分にある。"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "TETTA",
-            "group": "ONE N' ONLY",
-            "status": "active"
-          },
-          {
-            "name": "EIKU",
-            "group": "ONE N' ONLY",
-            "status": "active"
-          },
-          {
-            "name": "武藤潤",
-            "group": "原因は自分にある。",
-            "status": "active"
-          }
-        ]
-      }
-    ],
     "超特急": [
+      {
+        "id": "1f3f2b6cdfeb3339",
+        "title": "超特急のテーマパーク『トンチキランド2』開園！前回好評のコンテンツは“トンチキ増し”でパワーアップ",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000922498/",
+        "publishedAt": "2026-11-19T12:00:00.000Z",
+        "summary": "超特急の“トンチキ”で埋め尽くされたテーマパーク、超特急 presents『トンチキランド2〜エトラ...",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
       {
         "id": "eca139ad46d2dd81",
         "title": "小関裕太×太宰治、藤原樹×芥川龍之介、草川拓弥×夏目漱石 中川龍太郎監督の3作品が劇場へ",
@@ -551,20 +203,357 @@
             "status": "active"
           }
         ]
-      },
+      }
+    ],
+    "SUPER★DRAGON": [
       {
-        "id": "6865cd3cb597efa2",
-        "title": "危うく強い鈴木伸之に柏木悠が宿す意思とは、映画『羊の皮を着たケモノ』緊張感漂う場面写真解禁",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/10/93934/",
-        "publishedAt": "2026-10-23T03:00:00.000Z",
-        "summary": "鈴木伸之と柏木悠（超特急）がW主演を務め、12月11日(金)に公開される映画『羊の皮を着たケモノ』の場面写真5点が解禁された。 本作は、九號（きゅうごう）による同名BL漫画を実写化した、骨太で新感覚のボーイズ・ラブ。原作は「BLアワード2022 ディープ部門」で第13位、「BLアワード2024 ディープ部門」で第3位を獲得した人気作で、物語は前半の明るく甘い",
+        "id": "84497a48b92f05fd",
+        "title": "Major 2nd Album「STAR」楽天ブックスにてオンライン予約抽選会開催！(※11/19更新)",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11938/",
+        "publishedAt": "2026-11-19T11:00:41.000Z",
+        "summary": "SUPER★DRAGON Major 2nd Album「STAR」発売を記念してラッキードローの実施が決定いたしました！ 対象商品を楽天ブックスにて期間中にご購入いただいた方の中から抽選で、スペシャルな特典をプレゼント […] The post Major 2nd Album「STAR」楽天ブックスにてオンライン予約抽選会開催！(※11/19更新) fir",
         "groups": [
-          "超特急"
+          "SUPER★DRAGON"
         ],
         "statuses": [],
         "memberMatches": []
+      },
+      {
+        "id": "b638821ab3764ec3",
+        "title": "【田中洸希】フジテレビ（関東ローカル） 『女優失格』出演決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news12016/",
+        "publishedAt": "2026-11-19T00:30:45.000Z",
+        "summary": "12月21日(月)24:45〜放送スタート フジテレビ（関東ローカル） 『女優失格』に 田中洸希が朱島朝陽役として出演決定！ お楽しみに！ 番組タイトル：『女優失格』 原作：メンギ『女優失格』 (「LINEマンガ」連載) […] The post 【田中洸希】フジテレビ（関東ローカル） 『女優失格』出演決定！ first appeared on SUPER★",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "田中洸希",
+            "group": "SUPER★DRAGON",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "0bdad40878ffff57",
+        "title": "原因は自分にある。大倉空人、アイドルの“ビジュアル担当”役にプレッシャー「セリフが僕自身にも刺さって」",
+        "sourceName": "マイナビニュース テレビ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
+        "articleUrl": "https://news.mynavi.jp/article/20261119-5355412/",
+        "publishedAt": "2026-11-18T23:00:00.000Z",
+        "summary": "茅島みずきが主演するフジテレビのドラマ『女優失格』(12月21日スタート、初回は月曜24:45～、2話以降は毎週火曜深夜 ※関東ローカル、FOD配信)に、豊田裕大、大倉空人(原因は自分にある。)、田中洸希(SUPER★DRAGON)、なえなのらが出演することが発表された。",
+        "groups": [
+          "SUPER★DRAGON",
+          "原因は自分にある。"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "田中洸希",
+            "group": "SUPER★DRAGON",
+            "status": "active"
+          },
+          {
+            "name": "大倉空人",
+            "group": "原因は自分にある。",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "de576c688b4dda79",
+        "title": "SUPER★DRAGON LIVE TOUR 2027「house」ツアーロゴ&キービジュアル解禁！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news12007/",
+        "publishedAt": "2026-11-18T12:00:38.000Z",
+        "summary": "2027年2月6日(土)から開催されるツアーのタイトルが、SUPER★DRAGON LIVE TOUR 2027「house」のキービジュアル&ツアーロゴを解禁！ キービジュアルのディレクションは古川毅、ツアーロ […] The post SUPER★DRAGON LIVE TOUR 2027「house」ツアーロゴ&キービジュアル解禁！ first app",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "古川毅",
+            "group": "SUPER★DRAGON",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "1435a68b28c395c7",
+        "title": "【＠Loppi・HMV限定盤】Blu-ray『EBiDAN THE LIVE 2026 15th Anniversary』2027年2月10日(水)発売決定！さらにEBiDAN15周年アニバーサリーエディション版『EBiDAN Visual Dictionary 2027～15th Anniversary Edition～』も同時発売！本日より予約受付開始！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11875/",
+        "publishedAt": "2026-11-14T11:00:39.000Z",
+        "summary": "＠Loppi・HMV限定盤 Blu-ray『EBiDAN THE LIVE 2026 15th Anniversary』と、EBiDAN15周年アニバーサリーエディション版『EBiDAN Visual Dictionar […] The post 【＠Loppi・HMV限定盤】Blu-ray『EBiDAN THE LIVE 2026 15th Anniver",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
+    "M!LK": [
+      {
+        "id": "057ea26f98ab4095",
+        "title": "M!LK「美的ベストビューティマン」を史上初のグループ受賞！『美的』1月号SPECIAL EDITION表紙に登場「うれしすぎて滅！」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000921864/",
+        "publishedAt": "2026-11-19T10:30:50.000Z",
+        "summary": "M!LKが『美的』の「美的ベストビューティマン」を史上初のグループ受賞。11月20日発売の『美的...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "8f6ed4b54c718806",
+        "title": "M!LK吉田仁人、2～3年前から続く“つらい症状”を告白「今も全快ではない」 大事にしている“お辞儀”もできず悔しさ吐露",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20261119-5337490/",
+        "publishedAt": "2026-11-19T10:00:00.000Z",
+        "summary": "「ええっ!? と思わせるのが申し訳ないみたいなところで、話してなかったんだけど」――。アイドルグループ・M!LKの吉田仁人が12日、文化放送『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)に出演。2～3年前から悩んでいるという“症状”を打ち明けた。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "吉田仁人",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "72add136c1c9b3c4",
+        "title": "佐野勇斗は誰よりも努力を惜しまない M!LKと俳優業への愛がGP帯ドラマ単独初主演に結実",
+        "sourceName": "リアルサウンド 映画部",
+        "sourceUrl": "https://realsound.jp/movie/feed",
+        "articleUrl": "https://realsound.jp/movie/2026/11/post-2589274.html",
+        "publishedAt": "2026-11-19T09:30:36.000Z",
+        "summary": "M!LKの佐野勇斗が、日テレ系ドラマ『ディアマミー 俺たちの母ちゃんは、殺された。』でGP帯初単独主演を務め、母の死の真相を追う刑事を演じる。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "7481a88dbc4c2809",
+        "title": "Snow Man 向井康二、M!LK 山中柔太朗に壁ドン 見つめ合う急接近ショットに「違う恋始まる」「ニヤニヤが止まらない」",
+        "sourceName": "リアルサウンド 音楽",
+        "sourceUrl": "https://realsound.jp/music/feed",
+        "articleUrl": "https://realsound.jp/2026/11/post-2589027.html",
+        "publishedAt": "2026-11-19T09:05:28.000Z",
+        "summary": "向井康二（Snow Man）が山中柔太朗（M!LK）に壁ドンをするオフショットが火曜ドラマ『いろはの恋は時代をかける』（TBS系）の公式SNSに公開されている。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "2db1ee6e6d7854e5",
+        "title": "「やっぱり佐野くんだった」M!LK佐野勇斗の新ドラマに続々予想的中 「ずっと目標にしていた夢」民放GP帯ドラマ初単独主演",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20261119-5360510/",
+        "publishedAt": "2026-11-19T08:00:00.000Z",
+        "summary": "「やっぱり佐野くんだった」――M!LKの佐野勇斗が、2027年1月期の日本テレビ系ドラマ『ディアマミー 俺たちの母ちゃんは、殺された。』(毎週日曜22:30～)で、民放GP帯ドラマ初の単独主演を務めることが19日に発表され、祝福の声が広がっている。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "原因は自分にある。": [
+      {
+        "id": "4005d3a146930b1e",
+        "title": "原因は自分にある。大倉空人×桜木雅哉×武藤潤「先輩の記録を縮めていかないと。3年以内にドームへ」",
+        "sourceName": "QJWeb",
+        "sourceUrl": "https://qjweb.jp/feed/",
+        "articleUrl": "https://qjweb.jp/feature/167793/",
+        "publishedAt": "2026-11-19T09:00:00.000Z",
+        "summary": "7人組ボーカルダンスグループ「原因は自分にある。（通称：ゲンジブ）」が、2026年11月18日（水）発売の『Quick Japan Monologue』#01 SPECIAL EDITION版表紙と特集に登場。「渇望のまま大人に──予感を越えていく」と題した今回の特集では、今年全員が20代へと足を踏.. 投稿 原因は自分にある。大倉空人×桜木雅哉×武藤潤「先",
+        "groups": [
+          "原因は自分にある。"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "大倉空人",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "桜木雅哉",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "武藤潤",
+            "group": "原因は自分にある。",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "0bdad40878ffff57",
+        "title": "原因は自分にある。大倉空人、アイドルの“ビジュアル担当”役にプレッシャー「セリフが僕自身にも刺さって」",
+        "sourceName": "マイナビニュース テレビ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
+        "articleUrl": "https://news.mynavi.jp/article/20261119-5355412/",
+        "publishedAt": "2026-11-18T23:00:00.000Z",
+        "summary": "茅島みずきが主演するフジテレビのドラマ『女優失格』(12月21日スタート、初回は月曜24:45～、2話以降は毎週火曜深夜 ※関東ローカル、FOD配信)に、豊田裕大、大倉空人(原因は自分にある。)、田中洸希(SUPER★DRAGON)、なえなのらが出演することが発表された。",
+        "groups": [
+          "SUPER★DRAGON",
+          "原因は自分にある。"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "田中洸希",
+            "group": "SUPER★DRAGON",
+            "status": "active"
+          },
+          {
+            "name": "大倉空人",
+            "group": "原因は自分にある。",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "510b6cd87912ea29",
+        "title": "ONE N' ONLY関哲汰＆山下永玖、W主演で市役所の“問題児コンビ”に「ガッツリお芝居でセリフを交わす機会はなかなかない」",
+        "sourceName": "マイナビニュース テレビ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
+        "articleUrl": "https://news.mynavi.jp/article/20261118-5351303/",
+        "publishedAt": "2026-11-18T03:00:00.000Z",
+        "summary": "「メンバーの哲汰とガッツリお芝居でセリフを交わす機会はなかなかないので、すごく楽しみです」――ONE N' ONLYの関哲汰と山下永玖が、12月19日に放送される中京テレビのスペシャルドラマ『トンテキ食ってる場合じゃない!!』(13:30～14:30)でW主演。三重県四日市市を舞台に、異動の危機に直面する市役所観光交流課の“問題児コンビ”を演じる。関は、過去",
+        "groups": [
+          "ONE N' ONLY",
+          "原因は自分にある。"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "TETTA",
+            "group": "ONE N' ONLY",
+            "status": "active"
+          },
+          {
+            "name": "EIKU",
+            "group": "ONE N' ONLY",
+            "status": "active"
+          },
+          {
+            "name": "武藤潤",
+            "group": "原因は自分にある。",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "bbbf111af31dd4f7",
+        "title": "RUI（STARGLOW）、原因は自分にある。、JO（&TEAM）×RAN（MAZZEL）、蓮月（ブランデー戦記）がカバー＆特集に登場！【Quick Japan Monologue #01コンテンツ紹介】",
+        "sourceName": "QJWeb",
+        "sourceUrl": "https://qjweb.jp/feed/",
+        "articleUrl": "https://qjweb.jp/news/168323/",
+        "publishedAt": "2026-11-17T09:29:00.000Z",
+        "summary": "2026年11月18日（水）、『Quick Japan』が10代のために立ち上げた新レーベル『Quick Japan Monologue』#01が発売される。 コンセプトは「START YOUR STORY」。これからの時代を形作る表現者たちの現在進行形の姿と言葉を通して、読者自身の新しい物語が始ま.. 投稿 RUI（STARGLOW）、原因は自分にある。、",
+        "groups": [
+          "原因は自分にある。"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
+    "ONE N' ONLY": [
+      {
+        "id": "510b6cd87912ea29",
+        "title": "ONE N' ONLY関哲汰＆山下永玖、W主演で市役所の“問題児コンビ”に「ガッツリお芝居でセリフを交わす機会はなかなかない」",
+        "sourceName": "マイナビニュース テレビ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
+        "articleUrl": "https://news.mynavi.jp/article/20261118-5351303/",
+        "publishedAt": "2026-11-18T03:00:00.000Z",
+        "summary": "「メンバーの哲汰とガッツリお芝居でセリフを交わす機会はなかなかないので、すごく楽しみです」――ONE N' ONLYの関哲汰と山下永玖が、12月19日に放送される中京テレビのスペシャルドラマ『トンテキ食ってる場合じゃない!!』(13:30～14:30)でW主演。三重県四日市市を舞台に、異動の危機に直面する市役所観光交流課の“問題児コンビ”を演じる。関は、過去",
+        "groups": [
+          "ONE N' ONLY",
+          "原因は自分にある。"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "TETTA",
+            "group": "ONE N' ONLY",
+            "status": "active"
+          },
+          {
+            "name": "EIKU",
+            "group": "ONE N' ONLY",
+            "status": "active"
+          },
+          {
+            "name": "武藤潤",
+            "group": "原因は自分にある。",
+            "status": "active"
+          }
+        ]
       }
     ],
     "EBiDAN": [
