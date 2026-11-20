@@ -1,56 +1,57 @@
 {
-  "updatedAt": "2026-11-19T20:35:40.359Z",
+  "updatedAt": "2026-11-20T07:14:05.683Z",
   "articles": [
     {
-      "id": "1f3f2b6cdfeb3339",
-      "title": "超特急のテーマパーク『トンチキランド2』開園！前回好評のコンテンツは“トンチキ増し”でパワーアップ",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000922498/",
-      "publishedAt": "2026-11-19T12:00:00.000Z",
-      "summary": "超特急の“トンチキ”で埋め尽くされたテーマパーク、超特急 presents『トンチキランド2〜エトラ...",
+      "id": "4211aba777dd2b06",
+      "title": "EBiDAN、15周年記念シングル『Yes! 東京』3形態で新たに発売 iiONDO加入の総勢67名新ビジュアルも",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/11/post-2590074.html",
+      "publishedAt": "2026-11-20T07:00:40.000Z",
+      "summary": "EBiDANの15周年記念シングル『Yes! 東京』が、新たに3形態で2027年2月10日にリリースされる。 このたび新グループ iiONDOが加わり、全10グループ総勢67名の規模となったEBiDAN。今年8月にミ",
       "groups": [
-        "超特急"
+        "EBiDAN"
       ],
       "statuses": [],
       "memberMatches": []
     },
     {
-      "id": "84497a48b92f05fd",
-      "title": "Major 2nd Album「STAR」楽天ブックスにてオンライン予約抽選会開催！(※11/19更新)",
+      "id": "d700ba7791fd74fb",
+      "title": "EBiDAN「Yes! 東京」あらたに3形態発売決定！新グループiiONDOも含めたEBiDANメンバー総勢67名の新キービジュアル公開",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000922884/",
+      "publishedAt": "2026-11-20T07:00:23.000Z",
+      "summary": "新グループiiONDOも加わって全10グループ総勢67名となったEBiDANの15周年を記念したシングル「...",
+      "groups": [
+        "EBiDAN"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "f9365d74947e21b2",
+      "title": "EBiDAN (恵比寿学園男子部) 15周年記念シングル『Yes! 東京』のEBiDAN盤・iiONDO盤・アナログ盤が 来年2月10日に発売！ iiONDOも含めたEBiDANメンバー総勢67名の新キービジュアルを公開！",
       "sourceName": "SUPER★DRAGON 公式NEWS",
       "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news11938/",
-      "publishedAt": "2026-11-19T11:00:41.000Z",
-      "summary": "SUPER★DRAGON Major 2nd Album「STAR」発売を記念してラッキードローの実施が決定いたしました！ 対象商品を楽天ブックスにて期間中にご購入いただいた方の中から抽選で、スペシャルな特典をプレゼント […] The post Major 2nd Album「STAR」楽天ブックスにてオンライン予約抽選会開催！(※11/19更新) fir",
+      "articleUrl": "https://super-dragon.jp/news/news12026/",
+      "publishedAt": "2026-11-20T07:00:05.000Z",
+      "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念したシングル『Yes! 東京』が新たに3形態、来年2027年2月10日に発売。新形態として、カップリングにiiONDOのメンバーも加わった「Yes! 東京 [EBiDAN […] The post EBiDAN (恵比寿学園男子部) 15周年記念シングル『Yes! 東京』のEBiDAN盤・iiONDO盤・アナ",
       "groups": [
+        "EBiDAN",
         "SUPER★DRAGON"
       ],
       "statuses": [],
       "memberMatches": []
     },
     {
-      "id": "057ea26f98ab4095",
-      "title": "M!LK「美的ベストビューティマン」を史上初のグループ受賞！『美的』1月号SPECIAL EDITION表紙に登場「うれしすぎて滅！」",
+      "id": "cb28223f79e5fa84",
+      "title": "M!LK吉田仁人が澄んだ瞳でこちらを見つめ、そっと手を差し伸べる！「わぁ王子様」「少女漫画なら確実に“恋”が始まっていて神」「優しい『おいで』が聞こえてきそう」とファン悶絶",
       "sourceName": "THE FIRST TIMES",
       "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000921864/",
-      "publishedAt": "2026-11-19T10:30:50.000Z",
-      "summary": "M!LKが『美的』の「美的ベストビューティマン」を史上初のグループ受賞。11月20日発売の『美的...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "8f6ed4b54c718806",
-      "title": "M!LK吉田仁人、2～3年前から続く“つらい症状”を告白「今も全快ではない」 大事にしている“お辞儀”もできず悔しさ吐露",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-      "articleUrl": "https://news.mynavi.jp/article/20261119-5337490/",
-      "publishedAt": "2026-11-19T10:00:00.000Z",
-      "summary": "「ええっ!? と思わせるのが申し訳ないみたいなところで、話してなかったんだけど」――。アイドルグループ・M!LKの吉田仁人が12日、文化放送『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)に出演。2～3年前から悩んでいるという“症状”を打ち明けた。",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000923118/",
+      "publishedAt": "2026-11-20T06:11:36.000Z",
+      "summary": "文化放送『M!LK 吉田仁人のレコメン！』の公式Xが更新され、11月19日放送回のオフショットが公...",
       "groups": [
         "M!LK"
       ],
@@ -66,13 +67,124 @@
       ]
     },
     {
-      "id": "72add136c1c9b3c4",
-      "title": "佐野勇斗は誰よりも努力を惜しまない M!LKと俳優業への愛がGP帯ドラマ単独初主演に結実",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/11/post-2589274.html",
-      "publishedAt": "2026-11-19T09:30:36.000Z",
-      "summary": "M!LKの佐野勇斗が、日テレ系ドラマ『ディアマミー 俺たちの母ちゃんは、殺された。』でGP帯初単独主演を務め、母の死の真相を追う刑事を演じる。",
+      "id": "8b251a3c26ed3412",
+      "title": "M!LK5人がスーツ姿でギュッと寄り添い「変わらない僕らでいよう！」メンバーへの手書きメッセージに「目頭熱くなる」「字までかっこよくて好き」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000923048/",
+      "publishedAt": "2026-11-20T05:10:30.000Z",
+      "summary": "M!LKの5人がスーツ姿で肩を寄せ合う集合ショットが公開。メンバーへの手書きのメッセージを添...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "5d8b24e9f5f4102a",
+      "title": "M!LK塩﨑太智が大暴れ！大きく開いた脚の間から曽野舜太がひょっこり、端でちいこく踊る吉田仁人も「不意打ち登場のはやちゃんかわいい」「怪獣の股下くぐる舜ちゃん強すぎw」「だいちゃん脚長い」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000922921/",
+      "publishedAt": "2026-11-20T03:15:22.000Z",
+      "summary": "M!LKの公式TikTokが「ザッツ！暴れん坊」というコメント添え、塩崎太智（崎は、たつさきが正式...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "塩﨑太智",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "曽野舜太",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "0e69499c00500fba",
+      "title": "【ライブレポート】Lienel、＜ロマンティック・シンドローーム!!!!!!＞完走 「マジで、これからも絶対についてきてください！」",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1105669",
+      "publishedAt": "2026-11-20T03:07:41.000Z",
+      "summary": "Lienelが、＜Lienel 6th Live Tour 2026「ロマンティック・シンドローーム!!!!!!」＞の最終公演を、11月18・19日に東京・Kanadevia Hallで開催した。 大阪、愛知、東京の3都市を回った今ツアーは全公演ソールドアウトとなり、6公演で合計1.25万人を動員。Lienelならではの感性と等身大の情熱を表現し、「これまで",
+      "groups": [
+        "EBiDAN",
+        "SUPER★DRAGON",
+        "原因は自分にある。",
+        "Lienel"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "田中洸希",
+          "group": "SUPER★DRAGON",
+          "status": "active"
+        },
+        {
+          "name": "池田彪馬",
+          "group": "SUPER★DRAGON",
+          "status": "active"
+        },
+        {
+          "name": "桜木雅哉",
+          "group": "原因は自分にある。",
+          "status": "active"
+        },
+        {
+          "name": "芳賀柊斗",
+          "group": "Lienel",
+          "status": "active"
+        },
+        {
+          "name": "近藤駿太",
+          "group": "Lienel",
+          "status": "active"
+        },
+        {
+          "name": "高岡ミロ",
+          "group": "Lienel",
+          "status": "active"
+        },
+        {
+          "name": "森田璃空",
+          "group": "Lienel",
+          "status": "active"
+        },
+        {
+          "name": "武田創世",
+          "group": "Lienel",
+          "status": "active"
+        },
+        {
+          "name": "高桑真之",
+          "group": "Lienel",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "de09ed5cd60ea612",
+      "title": "M!LK佐野勇斗（180cm）＆橋本環奈（152cm）が“28cm差”で横並び！黒スーツ×肩出しドレスの華やかショットに「おむすびコンビ〜！！」「めざましくんに滅ポーズさせてるのかわいい」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000922834/",
+      "publishedAt": "2026-11-20T01:55:06.000Z",
+      "summary": "『めざましテレビ』（フジテレビ系）の公式Xで、11月20日の放送に先駆け、橋本環奈とM!LKの佐...",
       "groups": [
         "M!LK"
       ],
@@ -88,13 +200,13 @@
       ]
     },
     {
-      "id": "7481a88dbc4c2809",
-      "title": "Snow Man 向井康二、M!LK 山中柔太朗に壁ドン 見つめ合う急接近ショットに「違う恋始まる」「ニヤニヤが止まらない」",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/11/post-2589027.html",
-      "publishedAt": "2026-11-19T09:05:28.000Z",
-      "summary": "向井康二（Snow Man）が山中柔太朗（M!LK）に壁ドンをするオフショットが火曜ドラマ『いろはの恋は時代をかける』（TBS系）の公式SNSに公開されている。",
+      "id": "4618ae466b939497",
+      "title": "M!LK曽野舜太、映画『不可抗力のI LOVE YOU』に出演決定！黒髪×眼鏡姿のキャラクタービジュアルも解禁",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000922166/",
+      "publishedAt": "2026-11-19T23:00:05.000Z",
+      "summary": "M!LKの曽野舜太が、野村康太×上坂樹里W主演映画『不可抗力のI LOVE YOU』（2027年3月5日公開）...",
       "groups": [
         "M!LK"
       ],
@@ -103,11 +215,25 @@
       ],
       "memberMatches": [
         {
-          "name": "山中柔太朗",
+          "name": "曽野舜太",
           "group": "M!LK",
           "status": "active"
         }
       ]
+    },
+    {
+      "id": "84497a48b92f05fd",
+      "title": "Major 2nd Album「STAR」楽天ブックスにてオンライン予約抽選会開催！(※11/19更新)",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news11938/",
+      "publishedAt": "2026-11-19T11:00:41.000Z",
+      "summary": "SUPER★DRAGON Major 2nd Album「STAR」発売を記念してラッキードローの実施が決定いたしました！ 対象商品を楽天ブックスにて期間中にご購入いただいた方の中から抽選で、スペシャルな特典をプレゼント […] The post Major 2nd Album「STAR」楽天ブックスにてオンライン予約抽選会開催！(※11/19更新) fir",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
     },
     {
       "id": "4005d3a146930b1e",
@@ -144,8 +270,8 @@
     {
       "id": "2db1ee6e6d7854e5",
       "title": "「やっぱり佐野くんだった」M!LK佐野勇斗の新ドラマに続々予想的中 「ずっと目標にしていた夢」民放GP帯ドラマ初単独主演",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
       "articleUrl": "https://news.mynavi.jp/article/20261119-5360510/",
       "publishedAt": "2026-11-19T08:00:00.000Z",
       "summary": "「やっぱり佐野くんだった」――M!LKの佐野勇斗が、2027年1月期の日本テレビ系ドラマ『ディアマミー 俺たちの母ちゃんは、殺された。』(毎週日曜22:30～)で、民放GP帯ドラマ初の単独主演を務めることが19日に発表され、祝福の声が広がっている。",
@@ -158,28 +284,6 @@
       "memberMatches": [
         {
           "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "a4b64880ad6c9321",
-      "title": "M!LK吉田仁人が鹿児島弁で「好っじゃ！」自然と出る郷土訛りに「仁人くんの鹿児島弁メロすぎ」とファン歓喜",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000922194/",
-      "publishedAt": "2026-11-19T06:47:16.000Z",
-      "summary": "M!LK吉田仁人が鹿児島弁で「好っじゃ（すっじゃー）」と胸キュンセリフを言う動画が公開。吉田...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "吉田仁人",
           "group": "M!LK",
           "status": "active"
         }
@@ -429,12 +533,12 @@
     },
     {
       "id": "82a2a9dc99593def",
-      "title": "11/22(日)開催リリースイベント＠セブンパーク天美（大阪）参加方法・特典会内容についてのご案内",
+      "title": "11/22(日)開催リリースイベント＠セブンパーク天美（大阪）参加方法・特典会内容についてのご案内(11/20更新)",
       "sourceName": "SUPER★DRAGON 公式NEWS",
       "sourceUrl": "https://super-dragon.jp/news/feed/",
       "articleUrl": "https://super-dragon.jp/news/news11996/",
       "publishedAt": "2026-11-14T10:59:06.000Z",
-      "summary": "11月22日(日)にセブンパーク天美にて開催するリリースイベントの詳細をご案内致します。 必ず最後まで全てお読み頂き、会場にいらした皆様がイベントを楽しめるよう、ファンの皆様同士でルールとマナーの厳守をお願い致します。 […] The post 11/22(日)開催リリースイベント＠セブンパーク天美（大阪）参加方法・特典会内容についてのご案内 first a",
+      "summary": "11月22日(日)にセブンパーク天美にて開催するリリースイベントの詳細をご案内致します。 必ず最後まで全てお読み頂き、会場にいらした皆様がイベントを楽しめるよう、ファンの皆様同士でルールとマナーの厳守をお願い致します。 […] The post 11/22(日)開催リリースイベント＠セブンパーク天美（大阪）参加方法・特典会内容についてのご案内(11/20更新",
       "groups": [
         "SUPER★DRAGON"
       ],
@@ -2089,21 +2193,6 @@
       "publishedAt": "2026-07-02T11:00:15.000Z",
       "summary": "7/12(日)東京、7/19(日)大阪にて開催する楽天ブックスキャンペーンでのご購入者様を対象にしたイベントにつきまして、特典会参加券付きCD商品の前日からの追加販売が決定しました。過去の販売で事前予約購入されていない方 […] The post SUPER★DRAGON Major 6th Single「Call Me Asap / NUMBER」 7/1",
       "groups": [
-        "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "994b2615a52d9b30",
-      "title": "8月11日発売 EBiDAN15周年記念シングル「Yes! 東京」、 全9グループ総勢60名が出演のMUSIC VIDEOを公開！",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news11359/",
-      "publishedAt": "2026-07-02T09:30:34.000Z",
-      "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して、8月11日(火・祝)にリリースされるシングル「Yes! 東京」のMUSIC VIDEOを公開！ 今年15周年と節目を迎えたEBiDANは、元々学園をコンセプトに立ち […] The post 8月11日発売 EBiDAN15周年記念シングル「Yes! 東京」、 全9グループ総勢60名が出演のMUSIC ",
-      "groups": [
-        "EBiDAN",
         "SUPER★DRAGON"
       ],
       "statuses": [],
