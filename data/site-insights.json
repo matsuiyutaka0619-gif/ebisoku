@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-11-20T07:14:05.685Z",
+  "updatedAt": "2026-11-20T20:17:24.302Z",
   "totals": {
-    "all": 129,
-    "today": 9,
-    "week": 26
+    "all": 130,
+    "today": 4,
+    "week": 27
   },
   "groupRanking": [
     {
-      "name": "SUPER★DRAGON",
-      "count": 11
-    },
-    {
       "name": "M!LK",
-      "count": 8
+      "count": 10
     },
     {
-      "name": "EBiDAN",
-      "count": 5
+      "name": "SUPER★DRAGON",
+      "count": 10
     },
     {
       "name": "原因は自分にある。",
       "count": 5
+    },
+    {
+      "name": "EBiDAN",
+      "count": 2
     },
     {
       "name": "超特急",
@@ -38,23 +38,7 @@
   "memberRanking": [
     {
       "name": "佐野勇斗",
-      "count": 3
-    },
-    {
-      "name": "田中洸希",
-      "count": 3
-    },
-    {
-      "name": "塩﨑太智",
-      "count": 2
-    },
-    {
-      "name": "吉田仁人",
-      "count": 2
-    },
-    {
-      "name": "桜木雅哉",
-      "count": 2
+      "count": 4
     },
     {
       "name": "曽野舜太",
@@ -62,6 +46,10 @@
     },
     {
       "name": "大倉空人",
+      "count": 2
+    },
+    {
+      "name": "田中洸希",
       "count": 2
     },
     {
@@ -75,6 +63,18 @@
     {
       "name": "TETTA",
       "count": 1
+    },
+    {
+      "name": "タクヤ",
+      "count": 1
+    },
+    {
+      "name": "塩﨑太智",
+      "count": 1
+    },
+    {
+      "name": "吉田仁人",
+      "count": 1
     }
   ],
   "sourceRanking": [
@@ -83,8 +83,12 @@
       "count": 9
     },
     {
-      "name": "THE FIRST TIMES",
-      "count": 6
+      "name": "QJWeb",
+      "count": 3
+    },
+    {
+      "name": "マイナビニュース エンタメ",
+      "count": 3
     },
     {
       "name": "マイナビニュース テレビ",
@@ -95,11 +99,11 @@
       "count": 2
     },
     {
-      "name": "QJWeb",
+      "name": "THE FIRST TIMES",
       "count": 2
     },
     {
-      "name": "BARKS",
+      "name": "ENCOUNT",
       "count": 1
     },
     {
@@ -117,258 +121,120 @@
   ],
   "topics": [],
   "recentByGroup": {
-    "EBiDAN": [
+    "M!LK": [
       {
-        "id": "4211aba777dd2b06",
-        "title": "EBiDAN、15周年記念シングル『Yes! 東京』3形態で新たに発売 iiONDO加入の総勢67名新ビジュアルも",
+        "id": "bd072d758092d33d",
+        "title": "レコード大賞優秀作品受賞者など決定 ミセス史上初の４連覇なるか、M！LK、＝LOVEらも",
+        "sourceName": "日刊スポーツ 芸能",
+        "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+        "articleUrl": "https://www.nikkansports.com/entertainment/news/202611210000015.html",
+        "publishedAt": "2026-11-20T15:56:35.000Z",
+        "summary": "第68回日本レコード大賞（主催・日本作曲家協会など）の審査委員会が20日までに都内で行われ、大賞の候補となる優秀作品賞10作などが決定した。（以下敬称略） 「Brand New」が受賞したMrs．GREEN APPLEは大賞となれば史上…",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "df3e57cfdbae0314",
+        "title": "『第68回 輝く！日本レコード大賞』各賞受賞者を発表 優秀作品賞にHANA、Mrs. GREEN APPLE、M!LKら",
         "sourceName": "リアルサウンド 音楽",
         "sourceUrl": "https://realsound.jp/music/feed",
-        "articleUrl": "https://realsound.jp/2026/11/post-2590074.html",
-        "publishedAt": "2026-11-20T07:00:40.000Z",
-        "summary": "EBiDANの15周年記念シングル『Yes! 東京』が、新たに3形態で2027年2月10日にリリースされる。 このたび新グループ iiONDOが加わり、全10グループ総勢67名の規模となったEBiDAN。今年8月にミ",
+        "articleUrl": "https://realsound.jp/2026/11/post-2590886.html",
+        "publishedAt": "2026-11-20T15:00:14.000Z",
+        "summary": "『第68回 輝く！日本レコード大賞』（TBS系）が、12月30日17時30分より生放送。あわせて各賞の受賞者と楽曲が発表された。 優秀作品賞には、新浜レオン「愛のFIRE」、ILLIT「It's Me」、＝LOVE「",
         "groups": [
-          "EBiDAN"
+          "M!LK"
         ],
         "statuses": [],
         "memberMatches": []
       },
       {
-        "id": "d700ba7791fd74fb",
-        "title": "EBiDAN「Yes! 東京」あらたに3形態発売決定！新グループiiONDOも含めたEBiDANメンバー総勢67名の新キービジュアル公開",
+        "id": "d984076c1a900719",
+        "title": "Mrs. GREEN APPLE、史上初の4連覇なるか 『レコ大』大賞候補にM!LK、HANA、FRUITS ZIPPER、BE:FIRSTも",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20261121-5370275/",
+        "publishedAt": "2026-11-20T15:00:00.000Z",
+        "summary": "Mrs. GREEN APPLEの4年連続大賞受賞なるか――TBS系で12月30日(17:30～22:00)に生放送される『第68回 輝く!日本レコード大賞』の各賞受賞者・作品が21日、発表された。優秀作品賞にはM!LK、HANA、FRUITS ZIPPER、BE:FIRSTらの楽曲も選出。最優秀新人賞候補となる新人賞4組も明らかになった。",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "67d3572c48c74b8c",
+        "title": "M!LK吉田仁人主演ドラマ『溺愛 ～ 実は、最強ヒーロー ～』の番組公式グッズが発売決定！第5話の場面写真＆あらすじも公開",
         "sourceName": "THE FIRST TIMES",
         "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000922884/",
-        "publishedAt": "2026-11-20T07:00:23.000Z",
-        "summary": "新グループiiONDOも加わって全10グループ総勢67名となったEBiDANの15周年を記念したシングル「...",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000923283/",
+        "publishedAt": "2026-11-20T14:30:22.000Z",
+        "summary": "吉田仁人（M!LK）が主演を務め、TOKYO MX他にて放送中の金曜ドラマ『溺愛 ～ 実は、最強ヒー...",
         "groups": [
-          "EBiDAN"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "f9365d74947e21b2",
-        "title": "EBiDAN (恵比寿学園男子部) 15周年記念シングル『Yes! 東京』のEBiDAN盤・iiONDO盤・アナログ盤が 来年2月10日に発売！ iiONDOも含めたEBiDANメンバー総勢67名の新キービジュアルを公開！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news12026/",
-        "publishedAt": "2026-11-20T07:00:05.000Z",
-        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念したシングル『Yes! 東京』が新たに3形態、来年2027年2月10日に発売。新形態として、カップリングにiiONDOのメンバーも加わった「Yes! 東京 [EBiDAN […] The post EBiDAN (恵比寿学園男子部) 15周年記念シングル『Yes! 東京』のEBiDAN盤・iiONDO盤・アナ",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "0e69499c00500fba",
-        "title": "【ライブレポート】Lienel、＜ロマンティック・シンドローーム!!!!!!＞完走 「マジで、これからも絶対についてきてください！」",
-        "sourceName": "BARKS",
-        "sourceUrl": "https://www.barks.jp/feed/",
-        "articleUrl": "https://barks.jp/news/1105669",
-        "publishedAt": "2026-11-20T03:07:41.000Z",
-        "summary": "Lienelが、＜Lienel 6th Live Tour 2026「ロマンティック・シンドローーム!!!!!!」＞の最終公演を、11月18・19日に東京・Kanadevia Hallで開催した。 大阪、愛知、東京の3都市を回った今ツアーは全公演ソールドアウトとなり、6公演で合計1.25万人を動員。Lienelならではの感性と等身大の情熱を表現し、「これまで",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON",
-          "原因は自分にある。",
-          "Lienel"
+          "M!LK"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "田中洸希",
-            "group": "SUPER★DRAGON",
-            "status": "active"
-          },
-          {
-            "name": "池田彪馬",
-            "group": "SUPER★DRAGON",
-            "status": "active"
-          },
-          {
-            "name": "桜木雅哉",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "芳賀柊斗",
-            "group": "Lienel",
-            "status": "active"
-          },
-          {
-            "name": "近藤駿太",
-            "group": "Lienel",
-            "status": "active"
-          },
-          {
-            "name": "高岡ミロ",
-            "group": "Lienel",
-            "status": "active"
-          },
-          {
-            "name": "森田璃空",
-            "group": "Lienel",
-            "status": "active"
-          },
-          {
-            "name": "武田創世",
-            "group": "Lienel",
-            "status": "active"
-          },
-          {
-            "name": "高桑真之",
-            "group": "Lienel",
+            "name": "吉田仁人",
+            "group": "M!LK",
             "status": "active"
           }
         ]
       },
       {
-        "id": "1435a68b28c395c7",
-        "title": "【＠Loppi・HMV限定盤】Blu-ray『EBiDAN THE LIVE 2026 15th Anniversary』2027年2月10日(水)発売決定！さらにEBiDAN15周年アニバーサリーエディション版『EBiDAN Visual Dictionary 2027～15th Anniversary Edition～』も同時発売！本日より予約受付開始！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11875/",
-        "publishedAt": "2026-11-14T11:00:39.000Z",
-        "summary": "＠Loppi・HMV限定盤 Blu-ray『EBiDAN THE LIVE 2026 15th Anniversary』と、EBiDAN15周年アニバーサリーエディション版『EBiDAN Visual Dictionar […] The post 【＠Loppi・HMV限定盤】Blu-ray『EBiDAN THE LIVE 2026 15th Anniver",
+        "id": "bb2834a4a0fa1f0b",
+        "title": "「他の人と仲良くしていると嫉妬しちゃう」M!LK曽野舜太、役との共通点はメンバーへの愛 幼馴染を思いすぎるクールな“料理男子”で恋愛映画初出演",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20261120-5368117/",
+        "publishedAt": "2026-11-20T09:30:00.000Z",
+        "summary": "5人組ダンスボーカルグループ・M!LKの曽野舜太が、映画『不可抗力のI LOVE YOU』(2027年3月5日公開)に出演することが決定。曽野にとって初の恋愛映画出演となり、主人公の幼なじみで、知的でクールな“料理男子”を演じる。",
         "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "Lienel": [
+      {
+        "id": "6bfbcaa33f6145a0",
+        "title": "レコ大、Mrs. GREEN APPLEは史上初の4連覇なるか 最優秀新人賞争いはモナキ、Lienelら4組が候補【受賞者一覧】",
+        "sourceName": "ENCOUNT",
+        "sourceUrl": "https://encount.press/feed/",
+        "articleUrl": "https://encount.press/archives/1102227/",
+        "publishedAt": "2026-11-20T15:00:00.000Z",
+        "summary": "TBSは20日深夜、『第68回 輝く！日本レコード大賞』（12月30日午後5時30分）の候補となる優秀作品賞と最優秀新人賞の候補となる新人賞など、各賞の受賞者と楽曲を発表した。12月30日午後5時30分から放送 TBS […]",
+        "groups": [
+          "Lienel"
         ],
         "statuses": [],
         "memberMatches": []
       }
     ],
-    "SUPER★DRAGON": [
+    "原因は自分にある。": [
       {
-        "id": "f9365d74947e21b2",
-        "title": "EBiDAN (恵比寿学園男子部) 15周年記念シングル『Yes! 東京』のEBiDAN盤・iiONDO盤・アナログ盤が 来年2月10日に発売！ iiONDOも含めたEBiDANメンバー総勢67名の新キービジュアルを公開！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news12026/",
-        "publishedAt": "2026-11-20T07:00:05.000Z",
-        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念したシングル『Yes! 東京』が新たに3形態、来年2027年2月10日に発売。新形態として、カップリングにiiONDOのメンバーも加わった「Yes! 東京 [EBiDAN […] The post EBiDAN (恵比寿学園男子部) 15周年記念シングル『Yes! 東京』のEBiDAN盤・iiONDO盤・アナ",
+        "id": "ae9a919d236d498f",
+        "title": "原因は自分にある。小泉光咲×長野凌大×杢代和人×吉澤要人「夢はずっと大きいから、今後も満足しきれない」",
+        "sourceName": "QJWeb",
+        "sourceUrl": "https://qjweb.jp/feed/",
+        "articleUrl": "https://qjweb.jp/feature/167799/",
+        "publishedAt": "2026-11-20T09:00:00.000Z",
+        "summary": "7人組ボーカルダンスグループ「原因は自分にある。（通称：ゲンジブ）」が、2026年11月18日（水）発売の『Quick Japan Monologue』#01 SPECIAL EDITION版表紙と特集に登場。「渇望のまま大人に──予感を越えていく」と題した今回の特集では、今年全員が20代へと足を踏.. 投稿 原因は自分にある。小泉光咲×長野凌大×杢代和人×",
         "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "0e69499c00500fba",
-        "title": "【ライブレポート】Lienel、＜ロマンティック・シンドローーム!!!!!!＞完走 「マジで、これからも絶対についてきてください！」",
-        "sourceName": "BARKS",
-        "sourceUrl": "https://www.barks.jp/feed/",
-        "articleUrl": "https://barks.jp/news/1105669",
-        "publishedAt": "2026-11-20T03:07:41.000Z",
-        "summary": "Lienelが、＜Lienel 6th Live Tour 2026「ロマンティック・シンドローーム!!!!!!」＞の最終公演を、11月18・19日に東京・Kanadevia Hallで開催した。 大阪、愛知、東京の3都市を回った今ツアーは全公演ソールドアウトとなり、6公演で合計1.25万人を動員。Lienelならではの感性と等身大の情熱を表現し、「これまで",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON",
-          "原因は自分にある。",
-          "Lienel"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "田中洸希",
-            "group": "SUPER★DRAGON",
-            "status": "active"
-          },
-          {
-            "name": "池田彪馬",
-            "group": "SUPER★DRAGON",
-            "status": "active"
-          },
-          {
-            "name": "桜木雅哉",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "芳賀柊斗",
-            "group": "Lienel",
-            "status": "active"
-          },
-          {
-            "name": "近藤駿太",
-            "group": "Lienel",
-            "status": "active"
-          },
-          {
-            "name": "高岡ミロ",
-            "group": "Lienel",
-            "status": "active"
-          },
-          {
-            "name": "森田璃空",
-            "group": "Lienel",
-            "status": "active"
-          },
-          {
-            "name": "武田創世",
-            "group": "Lienel",
-            "status": "active"
-          },
-          {
-            "name": "高桑真之",
-            "group": "Lienel",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "84497a48b92f05fd",
-        "title": "Major 2nd Album「STAR」楽天ブックスにてオンライン予約抽選会開催！(※11/19更新)",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11938/",
-        "publishedAt": "2026-11-19T11:00:41.000Z",
-        "summary": "SUPER★DRAGON Major 2nd Album「STAR」発売を記念してラッキードローの実施が決定いたしました！ 対象商品を楽天ブックスにて期間中にご購入いただいた方の中から抽選で、スペシャルな特典をプレゼント […] The post Major 2nd Album「STAR」楽天ブックスにてオンライン予約抽選会開催！(※11/19更新) fir",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "b638821ab3764ec3",
-        "title": "【田中洸希】フジテレビ（関東ローカル） 『女優失格』出演決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news12016/",
-        "publishedAt": "2026-11-19T00:30:45.000Z",
-        "summary": "12月21日(月)24:45〜放送スタート フジテレビ（関東ローカル） 『女優失格』に 田中洸希が朱島朝陽役として出演決定！ お楽しみに！ 番組タイトル：『女優失格』 原作：メンギ『女優失格』 (「LINEマンガ」連載) […] The post 【田中洸希】フジテレビ（関東ローカル） 『女優失格』出演決定！ first appeared on SUPER★",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "田中洸希",
-            "group": "SUPER★DRAGON",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "0bdad40878ffff57",
-        "title": "原因は自分にある。大倉空人、アイドルの“ビジュアル担当”役にプレッシャー「セリフが僕自身にも刺さって」",
-        "sourceName": "マイナビニュース テレビ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-        "articleUrl": "https://news.mynavi.jp/article/20261119-5355412/",
-        "publishedAt": "2026-11-18T23:00:00.000Z",
-        "summary": "茅島みずきが主演するフジテレビのドラマ『女優失格』(12月21日スタート、初回は月曜24:45～、2話以降は毎週火曜深夜 ※関東ローカル、FOD配信)に、豊田裕大、大倉空人(原因は自分にある。)、田中洸希(SUPER★DRAGON)、なえなのらが出演することが発表された。",
-        "groups": [
-          "SUPER★DRAGON",
           "原因は自分にある。"
         ],
         "statuses": [
@@ -376,194 +242,23 @@
         ],
         "memberMatches": [
           {
-            "name": "田中洸希",
-            "group": "SUPER★DRAGON",
-            "status": "active"
-          },
-          {
-            "name": "大倉空人",
-            "group": "原因は自分にある。",
-            "status": "active"
-          }
-        ]
-      }
-    ],
-    "M!LK": [
-      {
-        "id": "cb28223f79e5fa84",
-        "title": "M!LK吉田仁人が澄んだ瞳でこちらを見つめ、そっと手を差し伸べる！「わぁ王子様」「少女漫画なら確実に“恋”が始まっていて神」「優しい『おいで』が聞こえてきそう」とファン悶絶",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000923118/",
-        "publishedAt": "2026-11-20T06:11:36.000Z",
-        "summary": "文化放送『M!LK 吉田仁人のレコメン！』の公式Xが更新され、11月19日放送回のオフショットが公...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "8b251a3c26ed3412",
-        "title": "M!LK5人がスーツ姿でギュッと寄り添い「変わらない僕らでいよう！」メンバーへの手書きメッセージに「目頭熱くなる」「字までかっこよくて好き」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000923048/",
-        "publishedAt": "2026-11-20T05:10:30.000Z",
-        "summary": "M!LKの5人がスーツ姿で肩を寄せ合う集合ショットが公開。メンバーへの手書きのメッセージを添...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "5d8b24e9f5f4102a",
-        "title": "M!LK塩﨑太智が大暴れ！大きく開いた脚の間から曽野舜太がひょっこり、端でちいこく踊る吉田仁人も「不意打ち登場のはやちゃんかわいい」「怪獣の股下くぐる舜ちゃん強すぎw」「だいちゃん脚長い」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000922921/",
-        "publishedAt": "2026-11-20T03:15:22.000Z",
-        "summary": "M!LKの公式TikTokが「ザッツ！暴れん坊」というコメント添え、塩崎太智（崎は、たつさきが正式...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "de09ed5cd60ea612",
-        "title": "M!LK佐野勇斗（180cm）＆橋本環奈（152cm）が“28cm差”で横並び！黒スーツ×肩出しドレスの華やかショットに「おむすびコンビ〜！！」「めざましくんに滅ポーズさせてるのかわいい」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000922834/",
-        "publishedAt": "2026-11-20T01:55:06.000Z",
-        "summary": "『めざましテレビ』（フジテレビ系）の公式Xで、11月20日の放送に先駆け、橋本環奈とM!LKの佐...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "4618ae466b939497",
-        "title": "M!LK曽野舜太、映画『不可抗力のI LOVE YOU』に出演決定！黒髪×眼鏡姿のキャラクタービジュアルも解禁",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000922166/",
-        "publishedAt": "2026-11-19T23:00:05.000Z",
-        "summary": "M!LKの曽野舜太が、野村康太×上坂樹里W主演映画『不可抗力のI LOVE YOU』（2027年3月5日公開）...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      }
-    ],
-    "原因は自分にある。": [
-      {
-        "id": "0e69499c00500fba",
-        "title": "【ライブレポート】Lienel、＜ロマンティック・シンドローーム!!!!!!＞完走 「マジで、これからも絶対についてきてください！」",
-        "sourceName": "BARKS",
-        "sourceUrl": "https://www.barks.jp/feed/",
-        "articleUrl": "https://barks.jp/news/1105669",
-        "publishedAt": "2026-11-20T03:07:41.000Z",
-        "summary": "Lienelが、＜Lienel 6th Live Tour 2026「ロマンティック・シンドローーム!!!!!!」＞の最終公演を、11月18・19日に東京・Kanadevia Hallで開催した。 大阪、愛知、東京の3都市を回った今ツアーは全公演ソールドアウトとなり、6公演で合計1.25万人を動員。Lienelならではの感性と等身大の情熱を表現し、「これまで",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON",
-          "原因は自分にある。",
-          "Lienel"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "田中洸希",
-            "group": "SUPER★DRAGON",
-            "status": "active"
-          },
-          {
-            "name": "池田彪馬",
-            "group": "SUPER★DRAGON",
-            "status": "active"
-          },
-          {
-            "name": "桜木雅哉",
+            "name": "小泉光咲",
             "group": "原因は自分にある。",
             "status": "active"
           },
           {
-            "name": "芳賀柊斗",
-            "group": "Lienel",
+            "name": "長野凌大",
+            "group": "原因は自分にある。",
             "status": "active"
           },
           {
-            "name": "近藤駿太",
-            "group": "Lienel",
+            "name": "杢代和人",
+            "group": "原因は自分にある。",
             "status": "active"
           },
           {
-            "name": "高岡ミロ",
-            "group": "Lienel",
-            "status": "active"
-          },
-          {
-            "name": "森田璃空",
-            "group": "Lienel",
-            "status": "active"
-          },
-          {
-            "name": "武田創世",
-            "group": "Lienel",
-            "status": "active"
-          },
-          {
-            "name": "高桑真之",
-            "group": "Lienel",
+            "name": "吉澤要人",
+            "group": "原因は自分にある。",
             "status": "active"
           }
         ]
@@ -676,20 +371,83 @@
         "memberMatches": []
       }
     ],
-    "Lienel": [
+    "SUPER★DRAGON": [
       {
-        "id": "0e69499c00500fba",
-        "title": "【ライブレポート】Lienel、＜ロマンティック・シンドローーム!!!!!!＞完走 「マジで、これからも絶対についてきてください！」",
-        "sourceName": "BARKS",
-        "sourceUrl": "https://www.barks.jp/feed/",
-        "articleUrl": "https://barks.jp/news/1105669",
-        "publishedAt": "2026-11-20T03:07:41.000Z",
-        "summary": "Lienelが、＜Lienel 6th Live Tour 2026「ロマンティック・シンドローーム!!!!!!」＞の最終公演を、11月18・19日に東京・Kanadevia Hallで開催した。 大阪、愛知、東京の3都市を回った今ツアーは全公演ソールドアウトとなり、6公演で合計1.25万人を動員。Lienelならではの感性と等身大の情熱を表現し、「これまで",
+        "id": "e4b81254402821e3",
+        "title": "SUPER★DRAGON LIVE TOUR 2027「house」オフィシャルグッズ＆生写真セット 事前通販決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news12032/",
+        "publishedAt": "2026-11-20T08:00:23.000Z",
+        "summary": "2027年2月6日(土)愛知公演よりスタートする、SUPER★DRAGON LIVE TOUR 2027「house」公演に先駆けて、 スタダ便にてオフィシャルグッズ＆生写真セットの事前通販が決定いたしました！ メンバー […] The post SUPER★DRAGON LIVE TOUR 2027「house」オフィシャルグッズ＆生写真セット 事前通販決",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "f9365d74947e21b2",
+        "title": "EBiDAN (恵比寿学園男子部) 15周年記念シングル『Yes! 東京』のEBiDAN盤・iiONDO盤・アナログ盤が 来年2月10日に発売！ iiONDOも含めたEBiDANメンバー総勢67名の新キービジュアルを公開！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news12026/",
+        "publishedAt": "2026-11-20T07:00:05.000Z",
+        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念したシングル『Yes! 東京』が新たに3形態、来年2027年2月10日に発売。新形態として、カップリングにiiONDOのメンバーも加わった「Yes! 東京 [EBiDAN […] The post EBiDAN (恵比寿学園男子部) 15周年記念シングル『Yes! 東京』のEBiDAN盤・iiONDO盤・アナ",
         "groups": [
           "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "84497a48b92f05fd",
+        "title": "Major 2nd Album「STAR」楽天ブックスにてオンライン予約抽選会開催！(※11/19更新)",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11938/",
+        "publishedAt": "2026-11-19T11:00:41.000Z",
+        "summary": "SUPER★DRAGON Major 2nd Album「STAR」発売を記念してラッキードローの実施が決定いたしました！ 対象商品を楽天ブックスにて期間中にご購入いただいた方の中から抽選で、スペシャルな特典をプレゼント […] The post Major 2nd Album「STAR」楽天ブックスにてオンライン予約抽選会開催！(※11/19更新) fir",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "b638821ab3764ec3",
+        "title": "【田中洸希】フジテレビ（関東ローカル） 『女優失格』出演決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news12016/",
+        "publishedAt": "2026-11-19T00:30:45.000Z",
+        "summary": "12月21日(月)24:45〜放送スタート フジテレビ（関東ローカル） 『女優失格』に 田中洸希が朱島朝陽役として出演決定！ お楽しみに！ 番組タイトル：『女優失格』 原作：メンギ『女優失格』 (「LINEマンガ」連載) […] The post 【田中洸希】フジテレビ（関東ローカル） 『女優失格』出演決定！ first appeared on SUPER★",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "田中洸希",
+            "group": "SUPER★DRAGON",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "0bdad40878ffff57",
+        "title": "原因は自分にある。大倉空人、アイドルの“ビジュアル担当”役にプレッシャー「セリフが僕自身にも刺さって」",
+        "sourceName": "マイナビニュース テレビ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
+        "articleUrl": "https://news.mynavi.jp/article/20261119-5355412/",
+        "publishedAt": "2026-11-18T23:00:00.000Z",
+        "summary": "茅島みずきが主演するフジテレビのドラマ『女優失格』(12月21日スタート、初回は月曜24:45～、2話以降は毎週火曜深夜 ※関東ローカル、FOD配信)に、豊田裕大、大倉空人(原因は自分にある。)、田中洸希(SUPER★DRAGON)、なえなのらが出演することが発表された。",
+        "groups": [
           "SUPER★DRAGON",
-          "原因は自分にある。",
-          "Lienel"
+          "原因は自分にある。"
         ],
         "statuses": [
           "active"
@@ -701,46 +459,88 @@
             "status": "active"
           },
           {
-            "name": "池田彪馬",
-            "group": "SUPER★DRAGON",
-            "status": "active"
-          },
-          {
-            "name": "桜木雅哉",
+            "name": "大倉空人",
             "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "芳賀柊斗",
-            "group": "Lienel",
-            "status": "active"
-          },
-          {
-            "name": "近藤駿太",
-            "group": "Lienel",
-            "status": "active"
-          },
-          {
-            "name": "高岡ミロ",
-            "group": "Lienel",
-            "status": "active"
-          },
-          {
-            "name": "森田璃空",
-            "group": "Lienel",
-            "status": "active"
-          },
-          {
-            "name": "武田創世",
-            "group": "Lienel",
-            "status": "active"
-          },
-          {
-            "name": "高桑真之",
-            "group": "Lienel",
             "status": "active"
           }
         ]
+      }
+    ],
+    "EBiDAN": [
+      {
+        "id": "f9365d74947e21b2",
+        "title": "EBiDAN (恵比寿学園男子部) 15周年記念シングル『Yes! 東京』のEBiDAN盤・iiONDO盤・アナログ盤が 来年2月10日に発売！ iiONDOも含めたEBiDANメンバー総勢67名の新キービジュアルを公開！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news12026/",
+        "publishedAt": "2026-11-20T07:00:05.000Z",
+        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念したシングル『Yes! 東京』が新たに3形態、来年2027年2月10日に発売。新形態として、カップリングにiiONDOのメンバーも加わった「Yes! 東京 [EBiDAN […] The post EBiDAN (恵比寿学園男子部) 15周年記念シングル『Yes! 東京』のEBiDAN盤・iiONDO盤・アナ",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "1435a68b28c395c7",
+        "title": "【＠Loppi・HMV限定盤】Blu-ray『EBiDAN THE LIVE 2026 15th Anniversary』2027年2月10日(水)発売決定！さらにEBiDAN15周年アニバーサリーエディション版『EBiDAN Visual Dictionary 2027～15th Anniversary Edition～』も同時発売！本日より予約受付開始！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11875/",
+        "publishedAt": "2026-11-14T11:00:39.000Z",
+        "summary": "＠Loppi・HMV限定盤 Blu-ray『EBiDAN THE LIVE 2026 15th Anniversary』と、EBiDAN15周年アニバーサリーエディション版『EBiDAN Visual Dictionar […] The post 【＠Loppi・HMV限定盤】Blu-ray『EBiDAN THE LIVE 2026 15th Anniver",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "8c1bb579c42e7230",
+        "title": "＜EBiDAN スペシャルブック＆Blu-rayの2作品発売記念＞＠Loppi・HMV限定 EBiDANオリジナルグッズ発売決定！2026年11月13日(金)10:00より予約受付開始！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11974/",
+        "publishedAt": "2026-11-12T07:00:06.000Z",
+        "summary": "このたび、2027年2月10日に発売されるEBiDANメンバーの撮り下ろしショットや各メンバーの15年年表、15周年への思いなどが掲載される書籍『EBiDAN Visual Dictionary 2027～15th An […] The post ＜EBiDAN スペシャルブック＆Blu-rayの2作品発売記念＞＠Loppi・HMV限定 EBiDANオリジナ",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "db4ee1640310da06",
+        "title": "『EBiDANくじvol.3 ～I feel warm inside when I’m with you.～』の発売が決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11961/",
+        "publishedAt": "2026-11-09T01:00:20.000Z",
+        "summary": "EBiDANグループくじ第3弾となる『EBiDANくじvol.3 ～I feel warm inside when I’m with you.～』が、2026年2月12日（金）より発売いたします！ 発売日：2 […] The post 『EBiDANくじvol.3 ～I feel warm inside when I’m with you.～』の発売が決定！",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "2d9e4e423771c6b6",
+        "title": "EBiDAN オンラインくじ vol.2発売決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11856/",
+        "publishedAt": "2026-10-23T07:00:16.000Z",
+        "summary": "「EBiDAN museum 2026」の大盛況を記念し、10月26日(月)13:00より「EBiDAN オンラインくじ vol.2」の販売が決定しました！ グループ別のくじとなり、それぞれ全5等級のいずれかの景品が必ず […] The post EBiDAN オンラインくじ vol.2発売決定！ first appeared on SUPER★DRAGON",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
       }
     ],
     "ONE N' ONLY": [
