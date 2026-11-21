@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T20:17:24.302Z",
+  "updatedAt": "2026-11-21T07:05:31.826Z",
   "sources": [
     {
       "source": "日刊スポーツ 芸能",
@@ -34,18 +34,21 @@
     },
     {
       "source": "マイナビニュース エンタメ",
-      "count": 50,
-      "ok": true
+      "count": 0,
+      "ok": false,
+      "error": "HTTP 502"
     },
     {
       "source": "マイナビニュース 芸能",
-      "count": 50,
-      "ok": true
+      "count": 0,
+      "ok": false,
+      "error": "HTTP 502"
     },
     {
       "source": "マイナビニュース テレビ",
-      "count": 50,
-      "ok": true
+      "count": 0,
+      "ok": false,
+      "error": "HTTP 502"
     },
     {
       "source": "マイナビニュース 映画",
