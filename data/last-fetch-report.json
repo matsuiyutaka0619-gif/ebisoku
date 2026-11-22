@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T19:14:48.348Z",
+  "updatedAt": "2026-11-22T06:46:22.623Z",
   "sources": [
     {
       "source": "日刊スポーツ 芸能",
@@ -69,8 +69,9 @@
     },
     {
       "source": "QJWeb",
-      "count": 12,
-      "ok": true
+      "count": 0,
+      "ok": false,
+      "error": "This operation was aborted"
     },
     {
       "source": "Bezzy",
@@ -117,7 +118,7 @@
       "source": "タワーレコード ニュース",
       "count": 0,
       "ok": false,
-      "error": "HTTP 503"
+      "error": "HTTP 403"
     },
     {
       "source": "THE FIRST TIMES",

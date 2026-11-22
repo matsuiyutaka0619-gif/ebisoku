@@ -1,6 +1,111 @@
 {
-  "updatedAt": "2026-11-21T19:14:48.346Z",
+  "updatedAt": "2026-11-22T06:46:22.622Z",
   "articles": [
+    {
+      "id": "af228467d0f95445",
+      "title": "「佐野勇斗 ウィンターキャンペーン」展開！「愛してるぜ。」のコピー乗る『OCEAN TRICO』",
+      "sourceName": "Edge Line",
+      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+      "articleUrl": "https://www.edgeline-tokyo.com/beauty/209148",
+      "publishedAt": "2026-11-22T04:11:29.000Z",
+      "summary": "アイドルグループ『M!LK』佐野勇斗がブランドアンバサダーを務める美容室『OCEAN TOKYO』（オーシャントーキョー）プロデュースのブランド『OCEAN TRICO』（オーシャントリコ）。その新キービジュアルが11...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "6cfe94dff4ccc72b",
+      "title": "M!LK佐野勇斗がヘアワックスを手にカメラを見つめる！OCEAN TRICO第三弾ビジュアル解禁",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000923861/",
+      "publishedAt": "2026-11-22T02:36:09.000Z",
+      "summary": "M!LKの佐野勇斗がブランドアンバサダーを務める、原宿発の美容室「OCEAN TOKYO（オーシャント...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "bae91c0645683b22",
+      "title": "ONE N’ ONLY・HAYATO（高尾颯斗）の多彩な“ヘアスタイルショット”を厳選！前髪ありから黒髪センターパート、赤髪やハイトーンハーフアップまで",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000919976/",
+      "publishedAt": "2026-11-22T02:00:02.000Z",
+      "summary": "EBiDANの楽曲「Yes! 東京」で《WABI SABI》のフレーズを担当したことから、“ワビサビニキ”の愛...",
+      "groups": [
+        "EBiDAN",
+        "ONE N' ONLY"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "HAYATO",
+          "group": "ONE N' ONLY",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "ad1e2231eef319ba",
+      "title": "SUPER★DRAGON田中洸希 イベント出演についてのお知らせ",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news12046/",
+      "publishedAt": "2026-11-22T00:15:12.000Z",
+      "summary": "いつもSUPER★DRAGONを応援していただき、誠にありがとうございます。 メンバーの田中洸希ですが、足の負傷により、本日開催のMajor 2nd Album「STAR」（大阪府：セブンパーク天美）に関しましては、ミニ […] The post SUPER★DRAGON田中洸希 イベント出演についてのお知らせ first appeared on SUPER",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "田中洸希",
+          "group": "SUPER★DRAGON",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "42fbe5526efaf83f",
+      "title": "超特急×M!LKの仲良しショット！先輩後輩の絆が伝わるツーショットや集合写真、ダンス動画も",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000919904/",
+      "publishedAt": "2026-11-22T00:00:56.000Z",
+      "summary": "同じEBiDANに所属する超特急とM!LK。先輩グループである超特急をM!LKのメンバーたちが慕ういっ...",
+      "groups": [
+        "EBiDAN",
+        "超特急",
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "ff649fd347e7121a",
       "title": "松本伊代、『うたコン』オフショに近藤真彦ら著名人続々 M!LKと“ジャーニーポーズ”で記念撮影",
@@ -58,32 +163,10 @@
       "memberMatches": []
     },
     {
-      "id": "6128c9b6d9830985",
-      "title": "【レポート】JO（&TEAM）、髙松アロハ（超特急）らが学生にエール！「悩む時間を大切にしながらも夢を追いかけていってほしい」（JO）",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/report/0000923501/",
-      "publishedAt": "2026-11-21T02:48:39.000Z",
-      "summary": "映画『ワンダンス』（11月27日全国公開）の「学生の夢を応援イベント」が11月20日、東京・共立...",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "アロハ",
-          "group": "超特急",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "d984076c1a900719",
       "title": "Mrs. GREEN APPLE、史上初の4連覇なるか 『レコ大』大賞候補にM!LK、HANA、FRUITS ZIPPER、BE:FIRSTも",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
       "articleUrl": "https://news.mynavi.jp/article/20261121-5370275/",
       "publishedAt": "2026-11-20T15:00:00.000Z",
       "summary": "Mrs. GREEN APPLEの4年連続大賞受賞なるか――TBS系で12月30日(17:30～22:00)に生放送される『第68回 輝く!日本レコード大賞』の各賞受賞者・作品が21日、発表された。優秀作品賞にはM!LK、HANA、FRUITS ZIPPER、BE:FIRSTらの楽曲も選出。最優秀新人賞候補となる新人賞4組も明らかになった。",
@@ -138,43 +221,6 @@
       ]
     },
     {
-      "id": "ae9a919d236d498f",
-      "title": "原因は自分にある。小泉光咲×長野凌大×杢代和人×吉澤要人「夢はずっと大きいから、今後も満足しきれない」",
-      "sourceName": "QJWeb",
-      "sourceUrl": "https://qjweb.jp/feed/",
-      "articleUrl": "https://qjweb.jp/feature/167799/",
-      "publishedAt": "2026-11-20T09:00:00.000Z",
-      "summary": "7人組ボーカルダンスグループ「原因は自分にある。（通称：ゲンジブ）」が、2026年11月18日（水）発売の『Quick Japan Monologue』#01 SPECIAL EDITION版表紙と特集に登場。「渇望のまま大人に──予感を越えていく」と題した今回の特集では、今年全員が20代へと足を踏.. 投稿 原因は自分にある。小泉光咲×長野凌大×杢代和人×",
-      "groups": [
-        "原因は自分にある。"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "小泉光咲",
-          "group": "原因は自分にある。",
-          "status": "active"
-        },
-        {
-          "name": "長野凌大",
-          "group": "原因は自分にある。",
-          "status": "active"
-        },
-        {
-          "name": "杢代和人",
-          "group": "原因は自分にある。",
-          "status": "active"
-        },
-        {
-          "name": "吉澤要人",
-          "group": "原因は自分にある。",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "e4b81254402821e3",
       "title": "SUPER★DRAGON LIVE TOUR 2027「house」オフィシャルグッズ＆生写真セット 事前通販決定！",
       "sourceName": "SUPER★DRAGON 公式NEWS",
@@ -216,38 +262,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "4005d3a146930b1e",
-      "title": "原因は自分にある。大倉空人×桜木雅哉×武藤潤「先輩の記録を縮めていかないと。3年以内にドームへ」",
-      "sourceName": "QJWeb",
-      "sourceUrl": "https://qjweb.jp/feed/",
-      "articleUrl": "https://qjweb.jp/feature/167793/",
-      "publishedAt": "2026-11-19T09:00:00.000Z",
-      "summary": "7人組ボーカルダンスグループ「原因は自分にある。（通称：ゲンジブ）」が、2026年11月18日（水）発売の『Quick Japan Monologue』#01 SPECIAL EDITION版表紙と特集に登場。「渇望のまま大人に──予感を越えていく」と題した今回の特集では、今年全員が20代へと足を踏.. 投稿 原因は自分にある。大倉空人×桜木雅哉×武藤潤「先",
-      "groups": [
-        "原因は自分にある。"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "大倉空人",
-          "group": "原因は自分にある。",
-          "status": "active"
-        },
-        {
-          "name": "桜木雅哉",
-          "group": "原因は自分にある。",
-          "status": "active"
-        },
-        {
-          "name": "武藤潤",
-          "group": "原因は自分にある。",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "2db1ee6e6d7854e5",
@@ -386,53 +400,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "510b6cd87912ea29",
-      "title": "ONE N' ONLY関哲汰＆山下永玖、W主演で市役所の“問題児コンビ”に「ガッツリお芝居でセリフを交わす機会はなかなかない」",
-      "sourceName": "マイナビニュース テレビ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-      "articleUrl": "https://news.mynavi.jp/article/20261118-5351303/",
-      "publishedAt": "2026-11-18T03:00:00.000Z",
-      "summary": "「メンバーの哲汰とガッツリお芝居でセリフを交わす機会はなかなかないので、すごく楽しみです」――ONE N' ONLYの関哲汰と山下永玖が、12月19日に放送される中京テレビのスペシャルドラマ『トンテキ食ってる場合じゃない!!』(13:30～14:30)でW主演。三重県四日市市を舞台に、異動の危機に直面する市役所観光交流課の“問題児コンビ”を演じる。関は、過去",
-      "groups": [
-        "ONE N' ONLY",
-        "原因は自分にある。"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "TETTA",
-          "group": "ONE N' ONLY",
-          "status": "active"
-        },
-        {
-          "name": "EIKU",
-          "group": "ONE N' ONLY",
-          "status": "active"
-        },
-        {
-          "name": "武藤潤",
-          "group": "原因は自分にある。",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "bbbf111af31dd4f7",
-      "title": "RUI（STARGLOW）、原因は自分にある。、JO（&TEAM）×RAN（MAZZEL）、蓮月（ブランデー戦記）がカバー＆特集に登場！【Quick Japan Monologue #01コンテンツ紹介】",
-      "sourceName": "QJWeb",
-      "sourceUrl": "https://qjweb.jp/feed/",
-      "articleUrl": "https://qjweb.jp/news/168323/",
-      "publishedAt": "2026-11-17T09:29:00.000Z",
-      "summary": "2026年11月18日（水）、『Quick Japan』が10代のために立ち上げた新レーベル『Quick Japan Monologue』#01が発売される。 コンセプトは「START YOUR STORY」。これからの時代を形作る表現者たちの現在進行形の姿と言葉を通して、読者自身の新しい物語が始ま.. 投稿 RUI（STARGLOW）、原因は自分にある。、",
-      "groups": [
-        "原因は自分にある。"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "eca139ad46d2dd81",
@@ -2119,20 +2086,6 @@
       "summary": "8月13日(木)～8月16日(日)に開催される『EBiDAN THE LIVE 2026 15th Anniversary』に先駆け、オフィシャルグッズ＆生写真セットの事前通販が決定いたしました！！今年も一部グッズをHM […] The post 『EBiDAN THE LIVE 2026 15th Anniversary』オフィシャルグッズ＆生写真セット事",
       "groups": [
         "EBiDAN",
-        "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "5126b69ba1a9c371",
-      "title": "7/11(土)開催リリースイベント＠イオンレイクタウンkaze 1F光の広場（埼玉）にて開催リリースイベントLINEアプリを使用した『CD購入整理券』『優先観覧エリア入場整理券』についてのご案内",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news11371/",
-      "publishedAt": "2026-07-03T10:59:59.000Z",
-      "summary": "▼ＣＤ購入整理券について 7/11(土)埼玉・イオンレイクタウンkaze 1F光の広場にて開催するリリースイベントの会場でのＣＤ販売は、会場の混雑緩和のため、LINEアプリを使用した事前応募制の『ＣＤ購入整理券』を導入致 […] The post 7/11(土)開催リリースイベント＠イオンレイクタウンkaze 1F光の広場（埼玉）にて開催リリースイベントLI",
-      "groups": [
         "SUPER★DRAGON"
       ],
       "statuses": [],

@@ -1,30 +1,26 @@
 {
-  "updatedAt": "2026-11-21T19:14:48.348Z",
+  "updatedAt": "2026-11-22T06:46:22.624Z",
   "totals": {
-    "all": 128,
-    "today": 0,
-    "week": 23
+    "all": 127,
+    "today": 5,
+    "week": 22
   },
   "groupRanking": [
     {
-      "name": "SUPER★DRAGON",
-      "count": 8
-    },
-    {
       "name": "M!LK",
-      "count": 7
+      "count": 10
     },
     {
-      "name": "原因は自分にある。",
-      "count": 5
-    },
-    {
-      "name": "超特急",
-      "count": 3
+      "name": "SUPER★DRAGON",
+      "count": 9
     },
     {
       "name": "EBiDAN",
-      "count": 1
+      "count": 3
+    },
+    {
+      "name": "超特急",
+      "count": 2
     },
     {
       "name": "Lienel",
@@ -33,35 +29,23 @@
     {
       "name": "ONE N' ONLY",
       "count": 1
+    },
+    {
+      "name": "原因は自分にある。",
+      "count": 1
     }
   ],
   "memberRanking": [
     {
       "name": "佐野勇斗",
-      "count": 3
-    },
-    {
-      "name": "大倉空人",
-      "count": 2
+      "count": 5
     },
     {
       "name": "田中洸希",
-      "count": 2
+      "count": 3
     },
     {
-      "name": "武藤潤",
-      "count": 2
-    },
-    {
-      "name": "EIKU",
-      "count": 1
-    },
-    {
-      "name": "TETTA",
-      "count": 1
-    },
-    {
-      "name": "アロハ",
+      "name": "HAYATO",
       "count": 1
     },
     {
@@ -73,26 +57,30 @@
       "count": 1
     },
     {
-      "name": "吉澤要人",
+      "name": "古川毅",
+      "count": 1
+    },
+    {
+      "name": "曽野舜太",
+      "count": 1
+    },
+    {
+      "name": "大倉空人",
       "count": 1
     }
   ],
   "sourceRanking": [
     {
       "name": "SUPER★DRAGON 公式NEWS",
-      "count": 7
+      "count": 8
     },
     {
-      "name": "QJWeb",
+      "name": "THE FIRST TIMES",
       "count": 3
     },
     {
       "name": "マイナビニュース テレビ",
       "count": 3
-    },
-    {
-      "name": "Bezzy",
-      "count": 2
     },
     {
       "name": "マイナビニュース 映画",
@@ -103,15 +91,15 @@
       "count": 2
     },
     {
-      "name": "THE FIRST TIMES",
+      "name": "Bezzy",
+      "count": 1
+    },
+    {
+      "name": "Edge Line",
       "count": 1
     },
     {
       "name": "WWSチャンネル",
-      "count": 1
-    },
-    {
-      "name": "マイナビニュース エンタメ",
       "count": 1
     },
     {
@@ -122,6 +110,66 @@
   "topics": [],
   "recentByGroup": {
     "M!LK": [
+      {
+        "id": "af228467d0f95445",
+        "title": "「佐野勇斗 ウィンターキャンペーン」展開！「愛してるぜ。」のコピー乗る『OCEAN TRICO』",
+        "sourceName": "Edge Line",
+        "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+        "articleUrl": "https://www.edgeline-tokyo.com/beauty/209148",
+        "publishedAt": "2026-11-22T04:11:29.000Z",
+        "summary": "アイドルグループ『M!LK』佐野勇斗がブランドアンバサダーを務める美容室『OCEAN TOKYO』（オーシャントーキョー）プロデュースのブランド『OCEAN TRICO』（オーシャントリコ）。その新キービジュアルが11...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "6cfe94dff4ccc72b",
+        "title": "M!LK佐野勇斗がヘアワックスを手にカメラを見つめる！OCEAN TRICO第三弾ビジュアル解禁",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000923861/",
+        "publishedAt": "2026-11-22T02:36:09.000Z",
+        "summary": "M!LKの佐野勇斗がブランドアンバサダーを務める、原宿発の美容室「OCEAN TOKYO（オーシャント...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "佐野勇斗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "42fbe5526efaf83f",
+        "title": "超特急×M!LKの仲良しショット！先輩後輩の絆が伝わるツーショットや集合写真、ダンス動画も",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000919904/",
+        "publishedAt": "2026-11-22T00:00:56.000Z",
+        "summary": "同じEBiDANに所属する超特急とM!LK。先輩グループである超特急をM!LKのメンバーたちが慕ういっ...",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
       {
         "id": "ff649fd347e7121a",
         "title": "松本伊代、『うたコン』オフショに近藤真彦ら著名人続々 M!LKと“ジャーニーポーズ”で記念撮影",
@@ -139,8 +187,8 @@
       {
         "id": "d984076c1a900719",
         "title": "Mrs. GREEN APPLE、史上初の4連覇なるか 『レコ大』大賞候補にM!LK、HANA、FRUITS ZIPPER、BE:FIRSTも",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "sourceName": "マイナビニュース テレビ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
         "articleUrl": "https://news.mynavi.jp/article/20261121-5370275/",
         "publishedAt": "2026-11-20T15:00:00.000Z",
         "summary": "Mrs. GREEN APPLEの4年連続大賞受賞なるか――TBS系で12月30日(17:30～22:00)に生放送される『第68回 輝く!日本レコード大賞』の各賞受賞者・作品が21日、発表された。優秀作品賞にはM!LK、HANA、FRUITS ZIPPER、BE:FIRSTらの楽曲も選出。最優秀新人賞候補となる新人賞4組も明らかになった。",
@@ -149,75 +197,142 @@
         ],
         "statuses": [],
         "memberMatches": []
-      },
+      }
+    ],
+    "EBiDAN": [
       {
-        "id": "bb2834a4a0fa1f0b",
-        "title": "「他の人と仲良くしていると嫉妬しちゃう」M!LK曽野舜太、役との共通点はメンバーへの愛 幼馴染を思いすぎるクールな“料理男子”で恋愛映画初出演",
-        "sourceName": "マイナビニュース 映画",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
-        "articleUrl": "https://news.mynavi.jp/article/20261120-5368117/",
-        "publishedAt": "2026-11-20T09:30:00.000Z",
-        "summary": "5人組ダンスボーカルグループ・M!LKの曽野舜太が、映画『不可抗力のI LOVE YOU』(2027年3月5日公開)に出演することが決定。曽野にとって初の恋愛映画出演となり、主人公の幼なじみで、知的でクールな“料理男子”を演じる。",
+        "id": "bae91c0645683b22",
+        "title": "ONE N’ ONLY・HAYATO（高尾颯斗）の多彩な“ヘアスタイルショット”を厳選！前髪ありから黒髪センターパート、赤髪やハイトーンハーフアップまで",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000919976/",
+        "publishedAt": "2026-11-22T02:00:02.000Z",
+        "summary": "EBiDANの楽曲「Yes! 東京」で《WABI SABI》のフレーズを担当したことから、“ワビサビニキ”の愛...",
         "groups": [
-          "M!LK"
+          "EBiDAN",
+          "ONE N' ONLY"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "曽野舜太",
-            "group": "M!LK",
+            "name": "HAYATO",
+            "group": "ONE N' ONLY",
             "status": "active"
           }
         ]
       },
       {
-        "id": "d91de83266bcc970",
-        "title": "“メンカラ”を添えてM!LKメンバーの魅力を語る佐野勇斗 選んだ今年の漢字にもグループ愛「五角形なので…」",
-        "sourceName": "マイナビニュース 芸能",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-        "articleUrl": "https://news.mynavi.jp/article/20261120-5366794/",
-        "publishedAt": "2026-11-20T09:00:00.000Z",
-        "summary": "5人組ダンスボーカルグループ・M!LKの佐野勇斗が19日、都内で行われた「美的ベストビューティウーマン／美的ベストビューティマン贈賞式」に出席した。",
+        "id": "42fbe5526efaf83f",
+        "title": "超特急×M!LKの仲良しショット！先輩後輩の絆が伝わるツーショットや集合写真、ダンス動画も",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000919904/",
+        "publishedAt": "2026-11-22T00:00:56.000Z",
+        "summary": "同じEBiDANに所属する超特急とM!LK。先輩グループである超特急をM!LKのメンバーたちが慕ういっ...",
         "groups": [
+          "EBiDAN",
+          "超特急",
           "M!LK"
         ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
+        "statuses": [],
+        "memberMatches": []
       },
       {
-        "id": "2db1ee6e6d7854e5",
-        "title": "「やっぱり佐野くんだった」M!LK佐野勇斗の新ドラマに続々予想的中 「ずっと目標にしていた夢」民放GP帯ドラマ初単独主演",
-        "sourceName": "マイナビニュース テレビ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-        "articleUrl": "https://news.mynavi.jp/article/20261119-5360510/",
-        "publishedAt": "2026-11-19T08:00:00.000Z",
-        "summary": "「やっぱり佐野くんだった」――M!LKの佐野勇斗が、2027年1月期の日本テレビ系ドラマ『ディアマミー 俺たちの母ちゃんは、殺された。』(毎週日曜22:30～)で、民放GP帯ドラマ初の単独主演を務めることが19日に発表され、祝福の声が広がっている。",
+        "id": "f9365d74947e21b2",
+        "title": "EBiDAN (恵比寿学園男子部) 15周年記念シングル『Yes! 東京』のEBiDAN盤・iiONDO盤・アナログ盤が 来年2月10日に発売！ iiONDOも含めたEBiDANメンバー総勢67名の新キービジュアルを公開！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news12026/",
+        "publishedAt": "2026-11-20T07:00:05.000Z",
+        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念したシングル『Yes! 東京』が新たに3形態、来年2027年2月10日に発売。新形態として、カップリングにiiONDOのメンバーも加わった「Yes! 東京 [EBiDAN […] The post EBiDAN (恵比寿学園男子部) 15周年記念シングル『Yes! 東京』のEBiDAN盤・iiONDO盤・アナ",
         "groups": [
-          "M!LK"
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "1435a68b28c395c7",
+        "title": "【＠Loppi・HMV限定盤】Blu-ray『EBiDAN THE LIVE 2026 15th Anniversary』2027年2月10日(水)発売決定！さらにEBiDAN15周年アニバーサリーエディション版『EBiDAN Visual Dictionary 2027～15th Anniversary Edition～』も同時発売！本日より予約受付開始！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11875/",
+        "publishedAt": "2026-11-14T11:00:39.000Z",
+        "summary": "＠Loppi・HMV限定盤 Blu-ray『EBiDAN THE LIVE 2026 15th Anniversary』と、EBiDAN15周年アニバーサリーエディション版『EBiDAN Visual Dictionar […] The post 【＠Loppi・HMV限定盤】Blu-ray『EBiDAN THE LIVE 2026 15th Anniver",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "8c1bb579c42e7230",
+        "title": "＜EBiDAN スペシャルブック＆Blu-rayの2作品発売記念＞＠Loppi・HMV限定 EBiDANオリジナルグッズ発売決定！2026年11月13日(金)10:00より予約受付開始！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11974/",
+        "publishedAt": "2026-11-12T07:00:06.000Z",
+        "summary": "このたび、2027年2月10日に発売されるEBiDANメンバーの撮り下ろしショットや各メンバーの15年年表、15周年への思いなどが掲載される書籍『EBiDAN Visual Dictionary 2027～15th An […] The post ＜EBiDAN スペシャルブック＆Blu-rayの2作品発売記念＞＠Loppi・HMV限定 EBiDANオリジナ",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
+    "ONE N' ONLY": [
+      {
+        "id": "bae91c0645683b22",
+        "title": "ONE N’ ONLY・HAYATO（高尾颯斗）の多彩な“ヘアスタイルショット”を厳選！前髪ありから黒髪センターパート、赤髪やハイトーンハーフアップまで",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000919976/",
+        "publishedAt": "2026-11-22T02:00:02.000Z",
+        "summary": "EBiDANの楽曲「Yes! 東京」で《WABI SABI》のフレーズを担当したことから、“ワビサビニキ”の愛...",
+        "groups": [
+          "EBiDAN",
+          "ONE N' ONLY"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "佐野勇斗",
-            "group": "M!LK",
+            "name": "HAYATO",
+            "group": "ONE N' ONLY",
             "status": "active"
           }
         ]
       }
     ],
     "SUPER★DRAGON": [
+      {
+        "id": "ad1e2231eef319ba",
+        "title": "SUPER★DRAGON田中洸希 イベント出演についてのお知らせ",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news12046/",
+        "publishedAt": "2026-11-22T00:15:12.000Z",
+        "summary": "いつもSUPER★DRAGONを応援していただき、誠にありがとうございます。 メンバーの田中洸希ですが、足の負傷により、本日開催のMajor 2nd Album「STAR」（大阪府：セブンパーク天美）に関しましては、ミニ […] The post SUPER★DRAGON田中洸希 イベント出演についてのお知らせ first appeared on SUPER",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "田中洸希",
+            "group": "SUPER★DRAGON",
+            "status": "active"
+          }
+        ]
+      },
       {
         "id": "83578a0a7164f9f5",
         "title": "11/29(日)開催リリースイベント＠ららぽーと名古屋みなとアクルス（愛知）参加方法・特典会内容についてのご案内",
@@ -274,60 +389,24 @@
         ],
         "statuses": [],
         "memberMatches": []
-      },
-      {
-        "id": "84497a48b92f05fd",
-        "title": "Major 2nd Album「STAR」楽天ブックスにてオンライン予約抽選会開催！(※11/19更新)",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11938/",
-        "publishedAt": "2026-11-19T11:00:41.000Z",
-        "summary": "SUPER★DRAGON Major 2nd Album「STAR」発売を記念してラッキードローの実施が決定いたしました！ 対象商品を楽天ブックスにて期間中にご購入いただいた方の中から抽選で、スペシャルな特典をプレゼント […] The post Major 2nd Album「STAR」楽天ブックスにてオンライン予約抽選会開催！(※11/19更新) fir",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "Lienel": [
-      {
-        "id": "622ec2617803725a",
-        "title": "日本レコード大賞の各賞発表！＝LOVE、HANA、Mrs. GREEN APPLE、BE:FIRSTら優秀作品賞、新人賞はSWEET STEADY、STARGLOW、モナキ、Lienel",
-        "sourceName": "WWSチャンネル",
-        "sourceUrl": "https://www.wws-channel.com/feed",
-        "articleUrl": "https://www.wws-channel.com/music2/683036.html",
-        "publishedAt": "2026-11-21T10:23:30.000Z",
-        "summary": "「第68回 輝く！日本レコード大賞」の各賞受賞者と受賞曲が発表された。番組は12月30日17時30分から22時まで、TBSで4時間半にわたり生放送される。日本レコード大賞の候補となる優秀作品賞には、新浜レオン「愛のFIRE」、ILLIT「It's Me」、＝LOVE「恋 ... The post 日本レコード大賞の各賞発表！＝LOVE、HANA、Mrs. G",
-        "groups": [
-          "Lienel"
-        ],
-        "statuses": [],
-        "memberMatches": []
       }
     ],
     "超特急": [
       {
-        "id": "6128c9b6d9830985",
-        "title": "【レポート】JO（&TEAM）、髙松アロハ（超特急）らが学生にエール！「悩む時間を大切にしながらも夢を追いかけていってほしい」（JO）",
+        "id": "42fbe5526efaf83f",
+        "title": "超特急×M!LKの仲良しショット！先輩後輩の絆が伝わるツーショットや集合写真、ダンス動画も",
         "sourceName": "THE FIRST TIMES",
         "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/report/0000923501/",
-        "publishedAt": "2026-11-21T02:48:39.000Z",
-        "summary": "映画『ワンダンス』（11月27日全国公開）の「学生の夢を応援イベント」が11月20日、東京・共立...",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000919904/",
+        "publishedAt": "2026-11-22T00:00:56.000Z",
+        "summary": "同じEBiDANに所属する超特急とM!LK。先輩グループである超特急をM!LKのメンバーたちが慕ういっ...",
         "groups": [
-          "超特急"
+          "EBiDAN",
+          "超特急",
+          "M!LK"
         ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "アロハ",
-            "group": "超特急",
-            "status": "active"
-          }
-        ]
+        "statuses": [],
+        "memberMatches": []
       },
       {
         "id": "eca139ad46d2dd81",
@@ -402,76 +481,23 @@
         ]
       }
     ],
+    "Lienel": [
+      {
+        "id": "622ec2617803725a",
+        "title": "日本レコード大賞の各賞発表！＝LOVE、HANA、Mrs. GREEN APPLE、BE:FIRSTら優秀作品賞、新人賞はSWEET STEADY、STARGLOW、モナキ、Lienel",
+        "sourceName": "WWSチャンネル",
+        "sourceUrl": "https://www.wws-channel.com/feed",
+        "articleUrl": "https://www.wws-channel.com/music2/683036.html",
+        "publishedAt": "2026-11-21T10:23:30.000Z",
+        "summary": "「第68回 輝く！日本レコード大賞」の各賞受賞者と受賞曲が発表された。番組は12月30日17時30分から22時まで、TBSで4時間半にわたり生放送される。日本レコード大賞の候補となる優秀作品賞には、新浜レオン「愛のFIRE」、ILLIT「It's Me」、＝LOVE「恋 ... The post 日本レコード大賞の各賞発表！＝LOVE、HANA、Mrs. G",
+        "groups": [
+          "Lienel"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
     "原因は自分にある。": [
-      {
-        "id": "ae9a919d236d498f",
-        "title": "原因は自分にある。小泉光咲×長野凌大×杢代和人×吉澤要人「夢はずっと大きいから、今後も満足しきれない」",
-        "sourceName": "QJWeb",
-        "sourceUrl": "https://qjweb.jp/feed/",
-        "articleUrl": "https://qjweb.jp/feature/167799/",
-        "publishedAt": "2026-11-20T09:00:00.000Z",
-        "summary": "7人組ボーカルダンスグループ「原因は自分にある。（通称：ゲンジブ）」が、2026年11月18日（水）発売の『Quick Japan Monologue』#01 SPECIAL EDITION版表紙と特集に登場。「渇望のまま大人に──予感を越えていく」と題した今回の特集では、今年全員が20代へと足を踏.. 投稿 原因は自分にある。小泉光咲×長野凌大×杢代和人×",
-        "groups": [
-          "原因は自分にある。"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "長野凌大",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "杢代和人",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "吉澤要人",
-            "group": "原因は自分にある。",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "4005d3a146930b1e",
-        "title": "原因は自分にある。大倉空人×桜木雅哉×武藤潤「先輩の記録を縮めていかないと。3年以内にドームへ」",
-        "sourceName": "QJWeb",
-        "sourceUrl": "https://qjweb.jp/feed/",
-        "articleUrl": "https://qjweb.jp/feature/167793/",
-        "publishedAt": "2026-11-19T09:00:00.000Z",
-        "summary": "7人組ボーカルダンスグループ「原因は自分にある。（通称：ゲンジブ）」が、2026年11月18日（水）発売の『Quick Japan Monologue』#01 SPECIAL EDITION版表紙と特集に登場。「渇望のまま大人に──予感を越えていく」と題した今回の特集では、今年全員が20代へと足を踏.. 投稿 原因は自分にある。大倉空人×桜木雅哉×武藤潤「先",
-        "groups": [
-          "原因は自分にある。"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "大倉空人",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "桜木雅哉",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "武藤潤",
-            "group": "原因は自分にある。",
-            "status": "active"
-          }
-        ]
-      },
       {
         "id": "0bdad40878ffff57",
         "title": "原因は自分にある。大倉空人、アイドルの“ビジュアル担当”役にプレッシャー「セリフが僕自身にも刺さって」",
@@ -495,165 +521,6 @@
           },
           {
             "name": "大倉空人",
-            "group": "原因は自分にある。",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "510b6cd87912ea29",
-        "title": "ONE N' ONLY関哲汰＆山下永玖、W主演で市役所の“問題児コンビ”に「ガッツリお芝居でセリフを交わす機会はなかなかない」",
-        "sourceName": "マイナビニュース テレビ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-        "articleUrl": "https://news.mynavi.jp/article/20261118-5351303/",
-        "publishedAt": "2026-11-18T03:00:00.000Z",
-        "summary": "「メンバーの哲汰とガッツリお芝居でセリフを交わす機会はなかなかないので、すごく楽しみです」――ONE N' ONLYの関哲汰と山下永玖が、12月19日に放送される中京テレビのスペシャルドラマ『トンテキ食ってる場合じゃない!!』(13:30～14:30)でW主演。三重県四日市市を舞台に、異動の危機に直面する市役所観光交流課の“問題児コンビ”を演じる。関は、過去",
-        "groups": [
-          "ONE N' ONLY",
-          "原因は自分にある。"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "TETTA",
-            "group": "ONE N' ONLY",
-            "status": "active"
-          },
-          {
-            "name": "EIKU",
-            "group": "ONE N' ONLY",
-            "status": "active"
-          },
-          {
-            "name": "武藤潤",
-            "group": "原因は自分にある。",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "bbbf111af31dd4f7",
-        "title": "RUI（STARGLOW）、原因は自分にある。、JO（&TEAM）×RAN（MAZZEL）、蓮月（ブランデー戦記）がカバー＆特集に登場！【Quick Japan Monologue #01コンテンツ紹介】",
-        "sourceName": "QJWeb",
-        "sourceUrl": "https://qjweb.jp/feed/",
-        "articleUrl": "https://qjweb.jp/news/168323/",
-        "publishedAt": "2026-11-17T09:29:00.000Z",
-        "summary": "2026年11月18日（水）、『Quick Japan』が10代のために立ち上げた新レーベル『Quick Japan Monologue』#01が発売される。 コンセプトは「START YOUR STORY」。これからの時代を形作る表現者たちの現在進行形の姿と言葉を通して、読者自身の新しい物語が始ま.. 投稿 RUI（STARGLOW）、原因は自分にある。、",
-        "groups": [
-          "原因は自分にある。"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "EBiDAN": [
-      {
-        "id": "f9365d74947e21b2",
-        "title": "EBiDAN (恵比寿学園男子部) 15周年記念シングル『Yes! 東京』のEBiDAN盤・iiONDO盤・アナログ盤が 来年2月10日に発売！ iiONDOも含めたEBiDANメンバー総勢67名の新キービジュアルを公開！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news12026/",
-        "publishedAt": "2026-11-20T07:00:05.000Z",
-        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念したシングル『Yes! 東京』が新たに3形態、来年2027年2月10日に発売。新形態として、カップリングにiiONDOのメンバーも加わった「Yes! 東京 [EBiDAN […] The post EBiDAN (恵比寿学園男子部) 15周年記念シングル『Yes! 東京』のEBiDAN盤・iiONDO盤・アナ",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "1435a68b28c395c7",
-        "title": "【＠Loppi・HMV限定盤】Blu-ray『EBiDAN THE LIVE 2026 15th Anniversary』2027年2月10日(水)発売決定！さらにEBiDAN15周年アニバーサリーエディション版『EBiDAN Visual Dictionary 2027～15th Anniversary Edition～』も同時発売！本日より予約受付開始！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11875/",
-        "publishedAt": "2026-11-14T11:00:39.000Z",
-        "summary": "＠Loppi・HMV限定盤 Blu-ray『EBiDAN THE LIVE 2026 15th Anniversary』と、EBiDAN15周年アニバーサリーエディション版『EBiDAN Visual Dictionar […] The post 【＠Loppi・HMV限定盤】Blu-ray『EBiDAN THE LIVE 2026 15th Anniver",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "8c1bb579c42e7230",
-        "title": "＜EBiDAN スペシャルブック＆Blu-rayの2作品発売記念＞＠Loppi・HMV限定 EBiDANオリジナルグッズ発売決定！2026年11月13日(金)10:00より予約受付開始！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11974/",
-        "publishedAt": "2026-11-12T07:00:06.000Z",
-        "summary": "このたび、2027年2月10日に発売されるEBiDANメンバーの撮り下ろしショットや各メンバーの15年年表、15周年への思いなどが掲載される書籍『EBiDAN Visual Dictionary 2027～15th An […] The post ＜EBiDAN スペシャルブック＆Blu-rayの2作品発売記念＞＠Loppi・HMV限定 EBiDANオリジナ",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "db4ee1640310da06",
-        "title": "『EBiDANくじvol.3 ～I feel warm inside when I’m with you.～』の発売が決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11961/",
-        "publishedAt": "2026-11-09T01:00:20.000Z",
-        "summary": "EBiDANグループくじ第3弾となる『EBiDANくじvol.3 ～I feel warm inside when I’m with you.～』が、2026年2月12日（金）より発売いたします！ 発売日：2 […] The post 『EBiDANくじvol.3 ～I feel warm inside when I’m with you.～』の発売が決定！",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "2d9e4e423771c6b6",
-        "title": "EBiDAN オンラインくじ vol.2発売決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11856/",
-        "publishedAt": "2026-10-23T07:00:16.000Z",
-        "summary": "「EBiDAN museum 2026」の大盛況を記念し、10月26日(月)13:00より「EBiDAN オンラインくじ vol.2」の販売が決定しました！ グループ別のくじとなり、それぞれ全5等級のいずれかの景品が必ず […] The post EBiDAN オンラインくじ vol.2発売決定！ first appeared on SUPER★DRAGON",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "ONE N' ONLY": [
-      {
-        "id": "510b6cd87912ea29",
-        "title": "ONE N' ONLY関哲汰＆山下永玖、W主演で市役所の“問題児コンビ”に「ガッツリお芝居でセリフを交わす機会はなかなかない」",
-        "sourceName": "マイナビニュース テレビ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-        "articleUrl": "https://news.mynavi.jp/article/20261118-5351303/",
-        "publishedAt": "2026-11-18T03:00:00.000Z",
-        "summary": "「メンバーの哲汰とガッツリお芝居でセリフを交わす機会はなかなかないので、すごく楽しみです」――ONE N' ONLYの関哲汰と山下永玖が、12月19日に放送される中京テレビのスペシャルドラマ『トンテキ食ってる場合じゃない!!』(13:30～14:30)でW主演。三重県四日市市を舞台に、異動の危機に直面する市役所観光交流課の“問題児コンビ”を演じる。関は、過去",
-        "groups": [
-          "ONE N' ONLY",
-          "原因は自分にある。"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "TETTA",
-            "group": "ONE N' ONLY",
-            "status": "active"
-          },
-          {
-            "name": "EIKU",
-            "group": "ONE N' ONLY",
-            "status": "active"
-          },
-          {
-            "name": "武藤潤",
             "group": "原因は自分にある。",
             "status": "active"
           }
