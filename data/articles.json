@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-11-22T06:46:22.622Z",
+  "updatedAt": "2026-11-22T19:38:56.555Z",
   "articles": [
+    {
+      "id": "f0090c72fb4481c2",
+      "title": "佐野勇斗は黒、亀梨和也は白！デコ出しヘアに対照的なカラーのジャケットで並ぶ姿に「ふたりともピンクがメンカラだ」「朝からイケメン」「推しと推しの並びうれしい」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000924040/",
+      "publishedAt": "2026-11-22T09:00:41.000Z",
+      "summary": "『ZIP!』公式SNSにて、11月20日に放送されたエンタメニュースの写真が公開されている。 ■クー...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐野勇斗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "f4273ae8bbffaa50",
+      "title": "M!LK曽野舜太がサラストヘア×メガネの白い学生服姿でピース！「詰襟かっこいい」「爆イケすぎて恋した」「二次元ビジュアルですごい」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000924031/",
+      "publishedAt": "2026-11-22T08:32:23.000Z",
+      "summary": "M!LK曽野舜太の白制服姿が、Xの個人アカウントで公開された。 ■“知的でクールなツンデレ男子”...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "曽野舜太",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "af228467d0f95445",
       "title": "「佐野勇斗 ウィンターキャンペーン」展開！「愛してるぜ。」のコピー乗る『OCEAN TRICO』",
@@ -101,20 +145,6 @@
       "groups": [
         "EBiDAN",
         "超特急",
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "ff649fd347e7121a",
-      "title": "松本伊代、『うたコン』オフショに近藤真彦ら著名人続々 M!LKと“ジャーニーポーズ”で記念撮影",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/11/post-2591538.html",
-      "publishedAt": "2026-11-21T13:24:45.000Z",
-      "summary": "松本伊代が、11月17日に出演した『うたコン』（NHK総合）のオフショットを自身のInstagramに投稿している。 松本は「センチメンタル・ジャーニー」を歌唱。「とてもとてもテンション上がる曲ばかり！楽しい生放送で",
-      "groups": [
         "M!LK"
       ],
       "statuses": [],
