@@ -1,37 +1,37 @@
 {
-  "updatedAt": "2026-11-22T19:38:56.558Z",
+  "updatedAt": "2026-11-23T07:36:33.604Z",
   "totals": {
-    "all": 128,
-    "today": 0,
-    "week": 23
+    "all": 132,
+    "today": 4,
+    "week": 26
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 11
+      "count": 14
     },
     {
       "name": "SUPER★DRAGON",
-      "count": 9
+      "count": 8
     },
     {
-      "name": "EBiDAN",
+      "name": "原因は自分にある。",
       "count": 3
     },
     {
-      "name": "超特急",
-      "count": 2
+      "name": "BUDDiiS",
+      "count": 1
+    },
+    {
+      "name": "EBiDAN",
+      "count": 1
     },
     {
       "name": "Lienel",
       "count": 1
     },
     {
-      "name": "ONE N' ONLY",
-      "count": 1
-    },
-    {
-      "name": "原因は自分にある。",
+      "name": "超特急",
       "count": 1
     }
   ],
@@ -41,7 +41,7 @@
       "count": 6
     },
     {
-      "name": "田中洸希",
+      "name": "塩﨑太智",
       "count": 3
     },
     {
@@ -49,15 +49,19 @@
       "count": 2
     },
     {
-      "name": "HAYATO",
+      "name": "田中洸希",
+      "count": 2
+    },
+    {
+      "name": "MORRIE",
       "count": 1
     },
     {
-      "name": "タクヤ",
+      "name": "SHOOT",
       "count": 1
     },
     {
-      "name": "塩﨑太智",
+      "name": "吉澤要人",
       "count": 1
     },
     {
@@ -65,7 +69,11 @@
       "count": 1
     },
     {
-      "name": "大倉空人",
+      "name": "桜木雅哉",
+      "count": 1
+    },
+    {
+      "name": "山中柔太朗",
       "count": 1
     }
   ],
@@ -79,11 +87,15 @@
       "count": 5
     },
     {
-      "name": "マイナビニュース テレビ",
+      "name": "QJWeb",
       "count": 3
     },
     {
-      "name": "マイナビニュース 映画",
+      "name": "WWSチャンネル",
+      "count": 2
+    },
+    {
+      "name": "マイナビニュース テレビ",
       "count": 2
     },
     {
@@ -99,13 +111,112 @@
       "count": 1
     },
     {
-      "name": "WWSチャンネル",
+      "name": "マイナビニュース 映画",
+      "count": 1
+    },
+    {
+      "name": "リアルサウンド 音楽",
       "count": 1
     }
   ],
   "topics": [],
   "recentByGroup": {
     "M!LK": [
+      {
+        "id": "17938211efdfe53e",
+        "title": "浜辺美波、大好物のお肉を満喫！『東京カレンダー』表紙に登場、M!LK山中柔太朗は特別増刊で初ソロ表紙",
+        "sourceName": "WWSチャンネル",
+        "sourceUrl": "https://www.wws-channel.com/feed",
+        "articleUrl": "https://www.wws-channel.com/magazine_book/683283.html",
+        "publishedAt": "2026-11-23T04:00:16.000Z",
+        "summary": "浜辺美波が、11月20日発売の『東京カレンダー』2027年1月号通常版の表紙を飾った。特別増刊の表紙には、M!LKの山中柔太朗がソロで初登場している。浜辺が同誌に登場するのは約1年ぶり、今回で4回目。西麻布の肉割烹「喜円」で撮影し、大好物という肉料理を次々と味わった。用 ... The post 浜辺美波、大好物のお肉を満喫！『東京カレンダー』表紙に登場、M",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "6cd8dad87c03b1b1",
+        "title": "BUDDiiSの“歌うま”兄弟・森英寿＆森愁斗“もーりーしゅーと”に注目！仲良しショット＆人気カバー動画で魅力を深掘り",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000921749/",
+        "publishedAt": "2026-11-23T02:02:05.000Z",
+        "summary": "超特急、M!LK、ONE N’ ONLY、BUDDiiSなど、様々なグループが所属する男性アーティスト集...",
+        "groups": [
+          "超特急",
+          "M!LK",
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "MORRIE",
+            "group": "BUDDiiS",
+            "status": "active"
+          },
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "b39565d3ea614e78",
+        "title": "Snow Man岩本照、M!LK塩﨑太智、『VIVANT』富栄ドラムら100人の挑戦者が集結！『SASUKE2026』2夜連続で放送決定",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000923936/",
+        "publishedAt": "2026-11-22T22:00:56.000Z",
+        "summary": "Snow Manの岩本照、M!LKの塩崎太智（「崎」は、たつさきが正式表記）らが、12月23日・24日に放...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "8a03b0caecd06491",
+        "title": "『SASUKE2026～第44回大会～』今年も2夜連続放送 Snow Man 岩本照、M!LK 塩﨑太智ら参戦",
+        "sourceName": "リアルサウンド 音楽",
+        "sourceUrl": "https://realsound.jp/music/feed",
+        "articleUrl": "https://realsound.jp/2026/11/post-2591643.html",
+        "publishedAt": "2026-11-22T22:00:25.000Z",
+        "summary": "『SASUKE2026～第44回大会～』（TBS系）が、12月23日、24日の2日間にわたり放送される。 昨年に引き続き2夜連続となる今回も、各界を代表する100人の挑戦者が集う。Snow Manの岩本照は、前回大会",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
       {
         "id": "f0090c72fb4481c2",
         "title": "佐野勇斗は黒、亀梨和也は白！デコ出しヘアに対照的なカラーのジャケットで並ぶ姿に「ふたりともピンクがメンカラだ」「朝からイケメン」「推しと推しの並びうれしい」",
@@ -127,196 +238,137 @@
             "status": "active"
           }
         ]
-      },
-      {
-        "id": "f4273ae8bbffaa50",
-        "title": "M!LK曽野舜太がサラストヘア×メガネの白い学生服姿でピース！「詰襟かっこいい」「爆イケすぎて恋した」「二次元ビジュアルですごい」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000924031/",
-        "publishedAt": "2026-11-22T08:32:23.000Z",
-        "summary": "M!LK曽野舜太の白制服姿が、Xの個人アカウントで公開された。 ■“知的でクールなツンデレ男子”...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "af228467d0f95445",
-        "title": "「佐野勇斗 ウィンターキャンペーン」展開！「愛してるぜ。」のコピー乗る『OCEAN TRICO』",
-        "sourceName": "Edge Line",
-        "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-        "articleUrl": "https://www.edgeline-tokyo.com/beauty/209148",
-        "publishedAt": "2026-11-22T04:11:29.000Z",
-        "summary": "アイドルグループ『M!LK』佐野勇斗がブランドアンバサダーを務める美容室『OCEAN TOKYO』（オーシャントーキョー）プロデュースのブランド『OCEAN TRICO』（オーシャントリコ）。その新キービジュアルが11...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "6cfe94dff4ccc72b",
-        "title": "M!LK佐野勇斗がヘアワックスを手にカメラを見つめる！OCEAN TRICO第三弾ビジュアル解禁",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000923861/",
-        "publishedAt": "2026-11-22T02:36:09.000Z",
-        "summary": "M!LKの佐野勇斗がブランドアンバサダーを務める、原宿発の美容室「OCEAN TOKYO（オーシャント...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "42fbe5526efaf83f",
-        "title": "超特急×M!LKの仲良しショット！先輩後輩の絆が伝わるツーショットや集合写真、ダンス動画も",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000919904/",
-        "publishedAt": "2026-11-22T00:00:56.000Z",
-        "summary": "同じEBiDANに所属する超特急とM!LK。先輩グループである超特急をM!LKのメンバーたちが慕ういっ...",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
       }
     ],
-    "EBiDAN": [
+    "超特急": [
       {
-        "id": "bae91c0645683b22",
-        "title": "ONE N’ ONLY・HAYATO（高尾颯斗）の多彩な“ヘアスタイルショット”を厳選！前髪ありから黒髪センターパート、赤髪やハイトーンハーフアップまで",
+        "id": "6cd8dad87c03b1b1",
+        "title": "BUDDiiSの“歌うま”兄弟・森英寿＆森愁斗“もーりーしゅーと”に注目！仲良しショット＆人気カバー動画で魅力を深掘り",
         "sourceName": "THE FIRST TIMES",
         "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000919976/",
-        "publishedAt": "2026-11-22T02:00:02.000Z",
-        "summary": "EBiDANの楽曲「Yes! 東京」で《WABI SABI》のフレーズを担当したことから、“ワビサビニキ”の愛...",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000921749/",
+        "publishedAt": "2026-11-23T02:02:05.000Z",
+        "summary": "超特急、M!LK、ONE N’ ONLY、BUDDiiSなど、様々なグループが所属する男性アーティスト集...",
         "groups": [
-          "EBiDAN",
-          "ONE N' ONLY"
+          "超特急",
+          "M!LK",
+          "BUDDiiS"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "HAYATO",
-            "group": "ONE N' ONLY",
+            "name": "MORRIE",
+            "group": "BUDDiiS",
+            "status": "active"
+          },
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
             "status": "active"
           }
         ]
       },
       {
-        "id": "42fbe5526efaf83f",
-        "title": "超特急×M!LKの仲良しショット！先輩後輩の絆が伝わるツーショットや集合写真、ダンス動画も",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000919904/",
-        "publishedAt": "2026-11-22T00:00:56.000Z",
-        "summary": "同じEBiDANに所属する超特急とM!LK。先輩グループである超特急をM!LKのメンバーたちが慕ういっ...",
+        "id": "eca139ad46d2dd81",
+        "title": "小関裕太×太宰治、藤原樹×芥川龍之介、草川拓弥×夏目漱石 中川龍太郎監督の3作品が劇場へ",
+        "sourceName": "マイナビニュース 映画",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
+        "articleUrl": "https://news.mynavi.jp/article/20261116-5331891/",
+        "publishedAt": "2026-11-16T01:00:00.000Z",
+        "summary": "映画監督・中川龍太郎氏が手がけた短編3作品『メロスの誕生』『欲望(蜘蛛の糸のように)』『こころ』が、2027年1月22日から新宿ピカデリーほか全国31館で2週間限定公開される。",
         "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "f9365d74947e21b2",
-        "title": "EBiDAN (恵比寿学園男子部) 15周年記念シングル『Yes! 東京』のEBiDAN盤・iiONDO盤・アナログ盤が 来年2月10日に発売！ iiONDOも含めたEBiDANメンバー総勢67名の新キービジュアルを公開！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news12026/",
-        "publishedAt": "2026-11-20T07:00:05.000Z",
-        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念したシングル『Yes! 東京』が新たに3形態、来年2027年2月10日に発売。新形態として、カップリングにiiONDOのメンバーも加わった「Yes! 東京 [EBiDAN […] The post EBiDAN (恵比寿学園男子部) 15周年記念シングル『Yes! 東京』のEBiDAN盤・iiONDO盤・アナ",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "1435a68b28c395c7",
-        "title": "【＠Loppi・HMV限定盤】Blu-ray『EBiDAN THE LIVE 2026 15th Anniversary』2027年2月10日(水)発売決定！さらにEBiDAN15周年アニバーサリーエディション版『EBiDAN Visual Dictionary 2027～15th Anniversary Edition～』も同時発売！本日より予約受付開始！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11875/",
-        "publishedAt": "2026-11-14T11:00:39.000Z",
-        "summary": "＠Loppi・HMV限定盤 Blu-ray『EBiDAN THE LIVE 2026 15th Anniversary』と、EBiDAN15周年アニバーサリーエディション版『EBiDAN Visual Dictionar […] The post 【＠Loppi・HMV限定盤】Blu-ray『EBiDAN THE LIVE 2026 15th Anniver",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "8c1bb579c42e7230",
-        "title": "＜EBiDAN スペシャルブック＆Blu-rayの2作品発売記念＞＠Loppi・HMV限定 EBiDANオリジナルグッズ発売決定！2026年11月13日(金)10:00より予約受付開始！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11974/",
-        "publishedAt": "2026-11-12T07:00:06.000Z",
-        "summary": "このたび、2027年2月10日に発売されるEBiDANメンバーの撮り下ろしショットや各メンバーの15年年表、15周年への思いなどが掲載される書籍『EBiDAN Visual Dictionary 2027～15th An […] The post ＜EBiDAN スペシャルブック＆Blu-rayの2作品発売記念＞＠Loppi・HMV限定 EBiDANオリジナ",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "ONE N' ONLY": [
-      {
-        "id": "bae91c0645683b22",
-        "title": "ONE N’ ONLY・HAYATO（高尾颯斗）の多彩な“ヘアスタイルショット”を厳選！前髪ありから黒髪センターパート、赤髪やハイトーンハーフアップまで",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000919976/",
-        "publishedAt": "2026-11-22T02:00:02.000Z",
-        "summary": "EBiDANの楽曲「Yes! 東京」で《WABI SABI》のフレーズを担当したことから、“ワビサビニキ”の愛...",
-        "groups": [
-          "EBiDAN",
-          "ONE N' ONLY"
+          "超特急"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "HAYATO",
-            "group": "ONE N' ONLY",
+            "name": "タクヤ",
+            "group": "超特急",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "b10e6e13c2be4a04",
+        "title": "超特急『エトランス・フィーバー』ジャケ写公開、初回盤にはメンバー手描きの干支イラスト",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/11/95036/",
+        "publishedAt": "2026-11-15T03:00:00.000Z",
+        "summary": "東京ドーム公演2Daysを目前に控える9人組メインダンサー＆バックボーカルグループ・超特急が、12月16日(水)に発売する24thシングル『エトランス・フィーバー』の全ジャケット写真を公開した。 今回のジャケット写真では、表題曲のテーマである「干支」をそれぞれ異なる形で表現。SNSでも話題となった顔はめパネルをあしらった通常盤に加え、初回限定盤にはメンバー自",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "69da96bf9d421a41",
+        "title": "「すごい好きだった」「毎日先生と…」超特急・柏木悠が学生に戻ってやりたいことを告白",
+        "sourceName": "マイナビニュース 映画",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
+        "articleUrl": "https://news.mynavi.jp/article/20261027-5205202/",
+        "publishedAt": "2026-10-27T12:00:00.000Z",
+        "summary": "映画『羊の皮を着たケモノ』(12月11日公開)に出演する、鈴木伸之と柏木悠が26日、東京・日比谷で行われた「第39回東京国際映画祭」(TIFF)のレッドカーペットに、楊礼平監督とともに登場した。",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "c9f5c5a6ee0ff870",
+        "title": "本日26歳誕生日、超特急・髙松アロハが挑発的なスタイルで魅せる『ワンダンス』場面写真3点解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/10/94062/",
+        "publishedAt": "2026-10-26T03:00:00.000Z",
+        "summary": "11月27日(金)に公開されるJO（&TEAM）の初主演映画『ワンダンス』から超特急・髙松アロハ演じるウセンの場面写真3点が解禁された。 本作は、単行本の累計発行部数が130万部を突破した珈琲による同名漫画の実写化。自分の気持ちを抑えて生活するカボこと小谷花木〈こたに・かぼく〉が、人目を気にせずダンスに没頭するワンダこと湾田光莉〈わんだ・ひかり〉に惹かれ、一",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "アロハ",
+            "group": "超特急",
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "BUDDiiS": [
+      {
+        "id": "6cd8dad87c03b1b1",
+        "title": "BUDDiiSの“歌うま”兄弟・森英寿＆森愁斗“もーりーしゅーと”に注目！仲良しショット＆人気カバー動画で魅力を深掘り",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000921749/",
+        "publishedAt": "2026-11-23T02:02:05.000Z",
+        "summary": "超特急、M!LK、ONE N’ ONLY、BUDDiiSなど、様々なグループが所属する男性アーティスト集...",
+        "groups": [
+          "超特急",
+          "M!LK",
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "MORRIE",
+            "group": "BUDDiiS",
+            "status": "active"
+          },
+          {
+            "name": "SHOOT",
+            "group": "BUDDiiS",
             "status": "active"
           }
         ]
@@ -403,96 +455,6 @@
         "memberMatches": []
       }
     ],
-    "超特急": [
-      {
-        "id": "42fbe5526efaf83f",
-        "title": "超特急×M!LKの仲良しショット！先輩後輩の絆が伝わるツーショットや集合写真、ダンス動画も",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000919904/",
-        "publishedAt": "2026-11-22T00:00:56.000Z",
-        "summary": "同じEBiDANに所属する超特急とM!LK。先輩グループである超特急をM!LKのメンバーたちが慕ういっ...",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "eca139ad46d2dd81",
-        "title": "小関裕太×太宰治、藤原樹×芥川龍之介、草川拓弥×夏目漱石 中川龍太郎監督の3作品が劇場へ",
-        "sourceName": "マイナビニュース 映画",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
-        "articleUrl": "https://news.mynavi.jp/article/20261116-5331891/",
-        "publishedAt": "2026-11-16T01:00:00.000Z",
-        "summary": "映画監督・中川龍太郎氏が手がけた短編3作品『メロスの誕生』『欲望(蜘蛛の糸のように)』『こころ』が、2027年1月22日から新宿ピカデリーほか全国31館で2週間限定公開される。",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "タクヤ",
-            "group": "超特急",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "b10e6e13c2be4a04",
-        "title": "超特急『エトランス・フィーバー』ジャケ写公開、初回盤にはメンバー手描きの干支イラスト",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/11/95036/",
-        "publishedAt": "2026-11-15T03:00:00.000Z",
-        "summary": "東京ドーム公演2Daysを目前に控える9人組メインダンサー＆バックボーカルグループ・超特急が、12月16日(水)に発売する24thシングル『エトランス・フィーバー』の全ジャケット写真を公開した。 今回のジャケット写真では、表題曲のテーマである「干支」をそれぞれ異なる形で表現。SNSでも話題となった顔はめパネルをあしらった通常盤に加え、初回限定盤にはメンバー自",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "69da96bf9d421a41",
-        "title": "「すごい好きだった」「毎日先生と…」超特急・柏木悠が学生に戻ってやりたいことを告白",
-        "sourceName": "マイナビニュース 映画",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
-        "articleUrl": "https://news.mynavi.jp/article/20261027-5205202/",
-        "publishedAt": "2026-10-27T12:00:00.000Z",
-        "summary": "映画『羊の皮を着たケモノ』(12月11日公開)に出演する、鈴木伸之と柏木悠が26日、東京・日比谷で行われた「第39回東京国際映画祭」(TIFF)のレッドカーペットに、楊礼平監督とともに登場した。",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "c9f5c5a6ee0ff870",
-        "title": "本日26歳誕生日、超特急・髙松アロハが挑発的なスタイルで魅せる『ワンダンス』場面写真3点解禁",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/10/94062/",
-        "publishedAt": "2026-10-26T03:00:00.000Z",
-        "summary": "11月27日(金)に公開されるJO（&TEAM）の初主演映画『ワンダンス』から超特急・髙松アロハ演じるウセンの場面写真3点が解禁された。 本作は、単行本の累計発行部数が130万部を突破した珈琲による同名漫画の実写化。自分の気持ちを抑えて生活するカボこと小谷花木〈こたに・かぼく〉が、人目を気にせずダンスに没頭するワンダこと湾田光莉〈わんだ・ひかり〉に惹かれ、一",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "アロハ",
-            "group": "超特急",
-            "status": "active"
-          }
-        ]
-      }
-    ],
     "Lienel": [
       {
         "id": "622ec2617803725a",
@@ -511,15 +473,14 @@
     ],
     "原因は自分にある。": [
       {
-        "id": "0bdad40878ffff57",
-        "title": "原因は自分にある。大倉空人、アイドルの“ビジュアル担当”役にプレッシャー「セリフが僕自身にも刺さって」",
-        "sourceName": "マイナビニュース テレビ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-        "articleUrl": "https://news.mynavi.jp/article/20261119-5355412/",
-        "publishedAt": "2026-11-18T23:00:00.000Z",
-        "summary": "茅島みずきが主演するフジテレビのドラマ『女優失格』(12月21日スタート、初回は月曜24:45～、2話以降は毎週火曜深夜 ※関東ローカル、FOD配信)に、豊田裕大、大倉空人(原因は自分にある。)、田中洸希(SUPER★DRAGON)、なえなのらが出演することが発表された。",
+        "id": "ae9a919d236d498f",
+        "title": "原因は自分にある。小泉光咲×長野凌大×杢代和人×吉澤要人「夢はずっと大きいから、今後も満足しきれない」",
+        "sourceName": "QJWeb",
+        "sourceUrl": "https://qjweb.jp/feed/",
+        "articleUrl": "https://qjweb.jp/feature/167799/",
+        "publishedAt": "2026-11-20T09:00:00.000Z",
+        "summary": "7人組ボーカルダンスグループ「原因は自分にある。（通称：ゲンジブ）」が、2026年11月18日（水）発売の『Quick Japan Monologue』#01 SPECIAL EDITION版表紙と特集に登場。「渇望のまま大人に──予感を越えていく」と題した今回の特集では、今年全員が20代へと足を踏.. 投稿 原因は自分にある。小泉光咲×長野凌大×杢代和人×",
         "groups": [
-          "SUPER★DRAGON",
           "原因は自分にある。"
         ],
         "statuses": [
@@ -527,16 +488,149 @@
         ],
         "memberMatches": [
           {
-            "name": "田中洸希",
-            "group": "SUPER★DRAGON",
+            "name": "小泉光咲",
+            "group": "原因は自分にある。",
             "status": "active"
           },
           {
-            "name": "大倉空人",
+            "name": "長野凌大",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "杢代和人",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "吉澤要人",
             "group": "原因は自分にある。",
             "status": "active"
           }
         ]
+      },
+      {
+        "id": "4005d3a146930b1e",
+        "title": "原因は自分にある。大倉空人×桜木雅哉×武藤潤「先輩の記録を縮めていかないと。3年以内にドームへ」",
+        "sourceName": "QJWeb",
+        "sourceUrl": "https://qjweb.jp/feed/",
+        "articleUrl": "https://qjweb.jp/feature/167793/",
+        "publishedAt": "2026-11-19T09:00:00.000Z",
+        "summary": "7人組ボーカルダンスグループ「原因は自分にある。（通称：ゲンジブ）」が、2026年11月18日（水）発売の『Quick Japan Monologue』#01 SPECIAL EDITION版表紙と特集に登場。「渇望のまま大人に──予感を越えていく」と題した今回の特集では、今年全員が20代へと足を踏.. 投稿 原因は自分にある。大倉空人×桜木雅哉×武藤潤「先",
+        "groups": [
+          "原因は自分にある。"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "大倉空人",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "桜木雅哉",
+            "group": "原因は自分にある。",
+            "status": "active"
+          },
+          {
+            "name": "武藤潤",
+            "group": "原因は自分にある。",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "bbbf111af31dd4f7",
+        "title": "RUI（STARGLOW）、原因は自分にある。、JO（&TEAM）×RAN（MAZZEL）、蓮月（ブランデー戦記）がカバー＆特集に登場！【Quick Japan Monologue #01コンテンツ紹介】",
+        "sourceName": "QJWeb",
+        "sourceUrl": "https://qjweb.jp/feed/",
+        "articleUrl": "https://qjweb.jp/news/168323/",
+        "publishedAt": "2026-11-17T09:29:00.000Z",
+        "summary": "2026年11月18日（水）、『Quick Japan』が10代のために立ち上げた新レーベル『Quick Japan Monologue』#01が発売される。 コンセプトは「START YOUR STORY」。これからの時代を形作る表現者たちの現在進行形の姿と言葉を通して、読者自身の新しい物語が始ま.. 投稿 RUI（STARGLOW）、原因は自分にある。、",
+        "groups": [
+          "原因は自分にある。"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
+    "EBiDAN": [
+      {
+        "id": "f9365d74947e21b2",
+        "title": "EBiDAN (恵比寿学園男子部) 15周年記念シングル『Yes! 東京』のEBiDAN盤・iiONDO盤・アナログ盤が 来年2月10日に発売！ iiONDOも含めたEBiDANメンバー総勢67名の新キービジュアルを公開！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news12026/",
+        "publishedAt": "2026-11-20T07:00:05.000Z",
+        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念したシングル『Yes! 東京』が新たに3形態、来年2027年2月10日に発売。新形態として、カップリングにiiONDOのメンバーも加わった「Yes! 東京 [EBiDAN […] The post EBiDAN (恵比寿学園男子部) 15周年記念シングル『Yes! 東京』のEBiDAN盤・iiONDO盤・アナ",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "1435a68b28c395c7",
+        "title": "【＠Loppi・HMV限定盤】Blu-ray『EBiDAN THE LIVE 2026 15th Anniversary』2027年2月10日(水)発売決定！さらにEBiDAN15周年アニバーサリーエディション版『EBiDAN Visual Dictionary 2027～15th Anniversary Edition～』も同時発売！本日より予約受付開始！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11875/",
+        "publishedAt": "2026-11-14T11:00:39.000Z",
+        "summary": "＠Loppi・HMV限定盤 Blu-ray『EBiDAN THE LIVE 2026 15th Anniversary』と、EBiDAN15周年アニバーサリーエディション版『EBiDAN Visual Dictionar […] The post 【＠Loppi・HMV限定盤】Blu-ray『EBiDAN THE LIVE 2026 15th Anniver",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "8c1bb579c42e7230",
+        "title": "＜EBiDAN スペシャルブック＆Blu-rayの2作品発売記念＞＠Loppi・HMV限定 EBiDANオリジナルグッズ発売決定！2026年11月13日(金)10:00より予約受付開始！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11974/",
+        "publishedAt": "2026-11-12T07:00:06.000Z",
+        "summary": "このたび、2027年2月10日に発売されるEBiDANメンバーの撮り下ろしショットや各メンバーの15年年表、15周年への思いなどが掲載される書籍『EBiDAN Visual Dictionary 2027～15th An […] The post ＜EBiDAN スペシャルブック＆Blu-rayの2作品発売記念＞＠Loppi・HMV限定 EBiDANオリジナ",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "db4ee1640310da06",
+        "title": "『EBiDANくじvol.3 ～I feel warm inside when I’m with you.～』の発売が決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11961/",
+        "publishedAt": "2026-11-09T01:00:20.000Z",
+        "summary": "EBiDANグループくじ第3弾となる『EBiDANくじvol.3 ～I feel warm inside when I’m with you.～』が、2026年2月12日（金）より発売いたします！ 発売日：2 […] The post 『EBiDANくじvol.3 ～I feel warm inside when I’m with you.～』の発売が決定！",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "2d9e4e423771c6b6",
+        "title": "EBiDAN オンラインくじ vol.2発売決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11856/",
+        "publishedAt": "2026-10-23T07:00:16.000Z",
+        "summary": "「EBiDAN museum 2026」の大盛況を記念し、10月26日(月)13:00より「EBiDAN オンラインくじ vol.2」の販売が決定しました！ グループ別のくじとなり、それぞれ全5等級のいずれかの景品が必ず […] The post EBiDAN オンラインくじ vol.2発売決定！ first appeared on SUPER★DRAGON",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
       }
     ],
     "ICEx": [
