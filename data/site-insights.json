@@ -1,26 +1,18 @@
 {
-  "updatedAt": "2026-11-23T23:52:33.538Z",
+  "updatedAt": "2026-11-24T09:53:10.493Z",
   "totals": {
-    "all": 135,
-    "today": 5,
-    "week": 29
+    "all": 127,
+    "today": 6,
+    "week": 21
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 15
+      "count": 13
     },
     {
       "name": "SUPER★DRAGON",
       "count": 8
-    },
-    {
-      "name": "原因は自分にある。",
-      "count": 3
-    },
-    {
-      "name": "超特急",
-      "count": 3
     },
     {
       "name": "EBiDAN",
@@ -30,14 +22,18 @@
   "memberRanking": [
     {
       "name": "佐野勇斗",
-      "count": 7
+      "count": 5
     },
     {
       "name": "山中柔太朗",
-      "count": 3
+      "count": 4
     },
     {
       "name": "塩﨑太智",
+      "count": 3
+    },
+    {
+      "name": "吉田仁人",
       "count": 2
     },
     {
@@ -49,23 +45,7 @@
       "count": 2
     },
     {
-      "name": "カイ",
-      "count": 1
-    },
-    {
-      "name": "タカシ",
-      "count": 1
-    },
-    {
-      "name": "ハル",
-      "count": 1
-    },
-    {
-      "name": "ユーキ",
-      "count": 1
-    },
-    {
-      "name": "リョウガ",
+      "name": "古川毅",
       "count": 1
     }
   ],
@@ -76,11 +56,7 @@
     },
     {
       "name": "THE FIRST TIMES",
-      "count": 5
-    },
-    {
-      "name": "QJWeb",
-      "count": 3
+      "count": 4
     },
     {
       "name": "WWSチャンネル",
@@ -91,23 +67,19 @@
       "count": 2
     },
     {
-      "name": "リアルサウンド 音楽",
-      "count": 2
-    },
-    {
-      "name": "BARKS",
-      "count": 1
-    },
-    {
       "name": "Bezzy",
       "count": 1
     },
     {
-      "name": "Edge Line",
+      "name": "マイナビニュース テレビ",
       "count": 1
     },
     {
-      "name": "マイナビニュース テレビ",
+      "name": "マイナビニュース 映画",
+      "count": 1
+    },
+    {
+      "name": "リアルサウンド 映画部",
       "count": 1
     }
   ],
@@ -115,27 +87,35 @@
   "recentByGroup": {
     "M!LK": [
       {
-        "id": "bdea7d611a9f9084",
-        "title": "M!LK、ファンへの想いと夢への渇望を原動力に“時代の顔”になるまで 結成12周年＆デビュー5周年に振り返る歴史",
-        "sourceName": "リアルサウンド 音楽",
-        "sourceUrl": "https://realsound.jp/music/feed",
-        "articleUrl": "https://realsound.jp/2026/11/post-2591045.html",
-        "publishedAt": "2026-11-23T23:00:24.000Z",
-        "summary": "11月24日にM!LKが結成12周年、そしてメジャーデビュー5周年を迎えた。本稿では、12年と5年、そのふたつの時間を重ね合わせながら、今まさに“時代の顔”となったM!LKの軌跡をあらためてたどってみたい。",
+        "id": "20db5d04e137e20f",
+        "title": "M!LK山中柔太朗が152cm上白石萌音の江戸走り特訓に飛び入り！並んでちょこまかステップを学ぶ様子に「トリックアートみたいな身長差」「一生懸命な先生たちかわいい」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000925164/",
+        "publishedAt": "2026-11-24T08:51:07.000Z",
+        "summary": "TBSドラマ『いろはの恋は時代をかける』公式SNSにて、上白石萌音が江戸走りを練習する様子が動...",
         "groups": [
           "M!LK"
         ],
-        "statuses": [],
-        "memberMatches": []
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
       },
       {
-        "id": "62512db0347f3cfc",
-        "title": "M!LK、5人がバッテリーに変身！佐野勇斗・塩﨑太智ら出演のチャージスポット新CM公開、結成12周年のお祝いも",
-        "sourceName": "WWSチャンネル",
-        "sourceUrl": "https://www.wws-channel.com/feed",
-        "articleUrl": "https://www.wws-channel.com/cm/683546.html",
-        "publishedAt": "2026-11-23T22:00:12.000Z",
-        "summary": "5人組ダンスボーカルグループ・M!LKが、モバイルバッテリーのシェアリングサービス「CHARGESPOT」の新CMキャラクターに就任。11月24日より、新TVCM「M!LKのチャースポ」篇が放映される。CMでは、佐野勇斗、塩﨑太智、曽野舜太、山中柔太朗、吉田仁人がバッテ ... The post M!LK、5人がバッテリーに変身！佐野勇斗・塩﨑太智ら出演のチ",
+        "id": "4d363602c5b44a78",
+        "title": "佐野勇斗、入浴中のオフショで魅せる色気 鍛え上げた広背筋と引き締まった上半身を披露",
+        "sourceName": "リアルサウンド 映画部",
+        "sourceUrl": "https://realsound.jp/movie/feed",
+        "articleUrl": "https://realsound.jp/movie/2026/11/post-2593249.html",
+        "publishedAt": "2026-11-24T08:30:48.000Z",
+        "summary": "「M!LK」の佐野勇斗が自身のInstagramを更新し、親友との温泉旅行で撮影したオフショットを披露した。 投稿には、檜風呂につかりながら、濡れた髪をオールバックにかき上げてカメラをまっすぐ見据える佐野の姿が。鍛え",
         "groups": [
           "M!LK"
         ],
@@ -147,19 +127,26 @@
             "name": "佐野勇斗",
             "group": "M!LK",
             "status": "active"
-          },
+          }
+        ]
+      },
+      {
+        "id": "99113115769d1b02",
+        "title": "M!LK吉田仁人の手料理を塩﨑太智が絶賛！プラベ感漂う間接照明キッチンで仲良くトークし食べる姿に「手際よくて料理上手」「じんだいかわいい」「レシピマネしたい」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000925117/",
+        "publishedAt": "2026-11-24T08:03:31.000Z",
+        "summary": "M!LK吉田仁人公式Xにて、YouTubeじんだいチャンネルが更新されたことがポストされた。今回更新...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
           {
             "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "曽野舜太",
-            "group": "M!LK",
-            "status": "active"
-          },
-          {
-            "name": "山中柔太朗",
             "group": "M!LK",
             "status": "active"
           },
@@ -171,13 +158,13 @@
         ]
       },
       {
-        "id": "7ef3c55f2f15bab9",
-        "title": "M!LK 佐野勇斗、浴衣で朝ご飯や温泉の入浴も 北海道旅行を大満喫「ドカメロすぎる」「高校生みたい」",
-        "sourceName": "リアルサウンド 音楽",
-        "sourceUrl": "https://realsound.jp/music/feed",
-        "articleUrl": "https://realsound.jp/2026/11/post-2591997.html",
-        "publishedAt": "2026-11-23T20:50:52.000Z",
-        "summary": "M!LKの佐野勇斗が、自身のYouTubeチャンネルに「【北海道旅行】に行ってきたよん！」を11月21日に更新した。 今回は、佐野のYouTubeチームとともに北海道 札幌へ。まずはジンギスカン屋へ行き、北海道在住の",
+        "id": "1ada255e421bb09d",
+        "title": "向井康二×竹財輝之助の和やかショット＆山中柔太朗さわやかサムズアップ！『恋とき』職員室ショットに「ドラマの緊迫感とのギャップがすごい」「裏側では仲良しでほっこり」と反響",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000924740/",
+        "publishedAt": "2026-11-24T04:03:09.000Z",
+        "summary": "ドラマ『いろはの恋は時代をかける』（TBS系）公式Instagramで、本作に出演する上白石萌音・向...",
         "groups": [
           "M!LK"
         ],
@@ -186,155 +173,22 @@
         ],
         "memberMatches": [
           {
-            "name": "佐野勇斗",
+            "name": "山中柔太朗",
             "group": "M!LK",
             "status": "active"
           }
         ]
       },
       {
-        "id": "9e519ec0ff9d614d",
-        "title": "M!LKが「CHARGESPOT」の新CMキャラクターに就任！撮影後に各々の“チャージ方法”なども語る",
+        "id": "888d15a9ccd2b87b",
+        "title": "「私も実はミルクで活動」荻野目洋子がM!LKと“爆裂ポーズ”！「共演胸アツ」と反響",
         "sourceName": "THE FIRST TIMES",
         "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000924341/",
-        "publishedAt": "2026-11-23T19:00:40.000Z",
-        "summary": "M!LKが、モバイルバッテリーのシェアリングサービス「CHARGESPOT」の新CMキャラクターに就任。...",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000924739/",
+        "publishedAt": "2026-11-24T03:19:49.000Z",
+        "summary": "荻野目洋子が自身のInstagramを更新。M!LKとの集合ショットを投稿した。 ■荻野目洋子とM!LKが...",
         "groups": [
           "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "6e199f54a2e3c193",
-        "title": "佐野勇斗「愛してるぜ。」力強いまなざしの新ビジュアル解禁！直筆サイン入りセットが当たるキャンペーンも開催",
-        "sourceName": "WWSチャンネル",
-        "sourceUrl": "https://www.wws-channel.com/feed",
-        "articleUrl": "https://www.wws-channel.com/music2/683497.html",
-        "publishedAt": "2026-11-23T11:45:08.000Z",
-        "summary": "俳優・アーティストの佐野勇斗を起用した「OCEAN TRICO」の新キービジュアルが、11月22日に公開された。ブランドアンバサダーを務める佐野のビジュアルは、今回が第3弾。ブランドロゴとトリコロールカラーを背景に、ヘアワックス「クレイ」を手にカメラを見つめる姿を収めた ... The post 佐野勇斗「愛してるぜ。」力強いまなざしの新ビジュアル解禁！直筆",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      }
-    ],
-    "超特急": [
-      {
-        "id": "8677d17f137edace",
-        "title": "松尾太陽２年連続「ネイルオブザイヤー」右手の小指にはファンへの感謝込め「８号車」イメージ",
-        "sourceName": "日刊スポーツ 芸能",
-        "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-        "articleUrl": "https://www.nikkansports.com/entertainment/news/202611230001552.html",
-        "publishedAt": "2026-11-23T21:55:00.000Z",
-        "summary": "超特急のタカシとしても活動する俳優の松尾太陽（30）が23日、都内で「ネイルオブザイヤー2026授賞式」に登壇した。 昨年に続く2年連続の受賞となり「自分の『好き』が形になっていくことがとてもうれしい」と笑顔を見せた。今年は超特急の15…",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "タカシ",
-            "group": "超特急",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "7575c743f40b8c5d",
-        "title": "超特急、2027年インターハイ公式応援ソングを担当。ユーキ「全力で、本気で、お届けできるように、一生懸命頑張ります！」",
-        "sourceName": "BARKS",
-        "sourceUrl": "https://www.barks.jp/feed/",
-        "articleUrl": "https://barks.jp/news/1106346",
-        "publishedAt": "2026-11-23T08:00:51.000Z",
-        "summary": "超特急が、2027年に開催される夏季の全国高校総体（インターハイ）の大会応援ソングを担当することが発表された。 発表の舞台となったのは、11月23日に川崎ルフロンで開催された＜2027インターハイFESTIVAL〜全国への第一歩～＞。イベント会場のスクリーンに超特急のメンバー9人がムービーでサプライズ登場し、14号車のハルが「インターハイの主役となるのは、高",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "カイ",
-            "group": "超特急",
-            "status": "active"
-          },
-          {
-            "name": "リョウガ",
-            "group": "超特急",
-            "status": "active"
-          },
-          {
-            "name": "ユーキ",
-            "group": "超特急",
-            "status": "active"
-          },
-          {
-            "name": "ハル",
-            "group": "超特急",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "406450d0ad4b385a",
-        "title": "「超特急 インターハイと連結」読売新聞のPR号外が登場",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000924237/",
-        "publishedAt": "2026-11-23T08:00:00.000Z",
-        "summary": "超特急が、2027年に開催される夏季の全国高校総体（インターハイ）の大会応援ソングを担当する...",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "eca139ad46d2dd81",
-        "title": "小関裕太×太宰治、藤原樹×芥川龍之介、草川拓弥×夏目漱石 中川龍太郎監督の3作品が劇場へ",
-        "sourceName": "マイナビニュース 映画",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
-        "articleUrl": "https://news.mynavi.jp/article/20261116-5331891/",
-        "publishedAt": "2026-11-16T01:00:00.000Z",
-        "summary": "映画監督・中川龍太郎氏が手がけた短編3作品『メロスの誕生』『欲望(蜘蛛の糸のように)』『こころ』が、2027年1月22日から新宿ピカデリーほか全国31館で2週間限定公開される。",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "タクヤ",
-            "group": "超特急",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "b10e6e13c2be4a04",
-        "title": "超特急『エトランス・フィーバー』ジャケ写公開、初回盤にはメンバー手描きの干支イラスト",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/11/95036/",
-        "publishedAt": "2026-11-15T03:00:00.000Z",
-        "summary": "東京ドーム公演2Daysを目前に控える9人組メインダンサー＆バックボーカルグループ・超特急が、12月16日(水)に発売する24thシングル『エトランス・フィーバー』の全ジャケット写真を公開した。 今回のジャケット写真では、表題曲のテーマである「干支」をそれぞれ異なる形で表現。SNSでも話題となった顔はめパネルをあしらった通常盤に加え、初回限定盤にはメンバー自",
-        "groups": [
-          "超特急"
         ],
         "statuses": [],
         "memberMatches": []
@@ -421,91 +275,6 @@
         "memberMatches": []
       }
     ],
-    "原因は自分にある。": [
-      {
-        "id": "ae9a919d236d498f",
-        "title": "原因は自分にある。小泉光咲×長野凌大×杢代和人×吉澤要人「夢はずっと大きいから、今後も満足しきれない」",
-        "sourceName": "QJWeb",
-        "sourceUrl": "https://qjweb.jp/feed/",
-        "articleUrl": "https://qjweb.jp/feature/167799/",
-        "publishedAt": "2026-11-20T09:00:00.000Z",
-        "summary": "7人組ボーカルダンスグループ「原因は自分にある。（通称：ゲンジブ）」が、2026年11月18日（水）発売の『Quick Japan Monologue』#01 SPECIAL EDITION版表紙と特集に登場。「渇望のまま大人に──予感を越えていく」と題した今回の特集では、今年全員が20代へと足を踏.. 投稿 原因は自分にある。小泉光咲×長野凌大×杢代和人×",
-        "groups": [
-          "原因は自分にある。"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "小泉光咲",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "長野凌大",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "杢代和人",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "吉澤要人",
-            "group": "原因は自分にある。",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "4005d3a146930b1e",
-        "title": "原因は自分にある。大倉空人×桜木雅哉×武藤潤「先輩の記録を縮めていかないと。3年以内にドームへ」",
-        "sourceName": "QJWeb",
-        "sourceUrl": "https://qjweb.jp/feed/",
-        "articleUrl": "https://qjweb.jp/feature/167793/",
-        "publishedAt": "2026-11-19T09:00:00.000Z",
-        "summary": "7人組ボーカルダンスグループ「原因は自分にある。（通称：ゲンジブ）」が、2026年11月18日（水）発売の『Quick Japan Monologue』#01 SPECIAL EDITION版表紙と特集に登場。「渇望のまま大人に──予感を越えていく」と題した今回の特集では、今年全員が20代へと足を踏.. 投稿 原因は自分にある。大倉空人×桜木雅哉×武藤潤「先",
-        "groups": [
-          "原因は自分にある。"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "大倉空人",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "桜木雅哉",
-            "group": "原因は自分にある。",
-            "status": "active"
-          },
-          {
-            "name": "武藤潤",
-            "group": "原因は自分にある。",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "bbbf111af31dd4f7",
-        "title": "RUI（STARGLOW）、原因は自分にある。、JO（&TEAM）×RAN（MAZZEL）、蓮月（ブランデー戦記）がカバー＆特集に登場！【Quick Japan Monologue #01コンテンツ紹介】",
-        "sourceName": "QJWeb",
-        "sourceUrl": "https://qjweb.jp/feed/",
-        "articleUrl": "https://qjweb.jp/news/168323/",
-        "publishedAt": "2026-11-17T09:29:00.000Z",
-        "summary": "2026年11月18日（水）、『Quick Japan』が10代のために立ち上げた新レーベル『Quick Japan Monologue』#01が発売される。 コンセプトは「START YOUR STORY」。これからの時代を形作る表現者たちの現在進行形の姿と言葉を通して、読者自身の新しい物語が始ま.. 投稿 RUI（STARGLOW）、原因は自分にある。、",
-        "groups": [
-          "原因は自分にある。"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
     "EBiDAN": [
       {
         "id": "f9365d74947e21b2",
@@ -578,6 +347,94 @@
         "groups": [
           "EBiDAN",
           "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
+    "超特急": [
+      {
+        "id": "eca139ad46d2dd81",
+        "title": "小関裕太×太宰治、藤原樹×芥川龍之介、草川拓弥×夏目漱石 中川龍太郎監督の3作品が劇場へ",
+        "sourceName": "マイナビニュース 映画",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
+        "articleUrl": "https://news.mynavi.jp/article/20261116-5331891/",
+        "publishedAt": "2026-11-16T01:00:00.000Z",
+        "summary": "映画監督・中川龍太郎氏が手がけた短編3作品『メロスの誕生』『欲望(蜘蛛の糸のように)』『こころ』が、2027年1月22日から新宿ピカデリーほか全国31館で2週間限定公開される。",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "タクヤ",
+            "group": "超特急",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "b10e6e13c2be4a04",
+        "title": "超特急『エトランス・フィーバー』ジャケ写公開、初回盤にはメンバー手描きの干支イラスト",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/11/95036/",
+        "publishedAt": "2026-11-15T03:00:00.000Z",
+        "summary": "東京ドーム公演2Daysを目前に控える9人組メインダンサー＆バックボーカルグループ・超特急が、12月16日(水)に発売する24thシングル『エトランス・フィーバー』の全ジャケット写真を公開した。 今回のジャケット写真では、表題曲のテーマである「干支」をそれぞれ異なる形で表現。SNSでも話題となった顔はめパネルをあしらった通常盤に加え、初回限定盤にはメンバー自",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "69da96bf9d421a41",
+        "title": "「すごい好きだった」「毎日先生と…」超特急・柏木悠が学生に戻ってやりたいことを告白",
+        "sourceName": "マイナビニュース 映画",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
+        "articleUrl": "https://news.mynavi.jp/article/20261027-5205202/",
+        "publishedAt": "2026-10-27T12:00:00.000Z",
+        "summary": "映画『羊の皮を着たケモノ』(12月11日公開)に出演する、鈴木伸之と柏木悠が26日、東京・日比谷で行われた「第39回東京国際映画祭」(TIFF)のレッドカーペットに、楊礼平監督とともに登場した。",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "c9f5c5a6ee0ff870",
+        "title": "本日26歳誕生日、超特急・髙松アロハが挑発的なスタイルで魅せる『ワンダンス』場面写真3点解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/10/94062/",
+        "publishedAt": "2026-10-26T03:00:00.000Z",
+        "summary": "11月27日(金)に公開されるJO（&TEAM）の初主演映画『ワンダンス』から超特急・髙松アロハ演じるウセンの場面写真3点が解禁された。 本作は、単行本の累計発行部数が130万部を突破した珈琲による同名漫画の実写化。自分の気持ちを抑えて生活するカボこと小谷花木〈こたに・かぼく〉が、人目を気にせずダンスに没頭するワンダこと湾田光莉〈わんだ・ひかり〉に惹かれ、一",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "アロハ",
+            "group": "超特急",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "6865cd3cb597efa2",
+        "title": "危うく強い鈴木伸之に柏木悠が宿す意思とは、映画『羊の皮を着たケモノ』緊張感漂う場面写真解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/10/93934/",
+        "publishedAt": "2026-10-23T03:00:00.000Z",
+        "summary": "鈴木伸之と柏木悠（超特急）がW主演を務め、12月11日(金)に公開される映画『羊の皮を着たケモノ』の場面写真5点が解禁された。 本作は、九號（きゅうごう）による同名BL漫画を実写化した、骨太で新感覚のボーイズ・ラブ。原作は「BLアワード2022 ディープ部門」で第13位、「BLアワード2024 ディープ部門」で第3位を獲得した人気作で、物語は前半の明るく甘い",
+        "groups": [
+          "超特急"
         ],
         "statuses": [],
         "memberMatches": []
