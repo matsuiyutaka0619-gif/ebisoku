@@ -1,52 +1,60 @@
 {
-  "updatedAt": "2026-11-24T22:25:35.452Z",
+  "updatedAt": "2026-11-25T08:32:09.328Z",
   "totals": {
-    "all": 133,
-    "today": 2,
-    "week": 28
+    "all": 130,
+    "today": 8,
+    "week": 26
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 18
+      "count": 15
     },
     {
       "name": "SUPER★DRAGON",
-      "count": 9
+      "count": 10
+    },
+    {
+      "name": "EBiDAN",
+      "count": 2
     },
     {
       "name": "BUDDiiS",
       "count": 1
     },
     {
-      "name": "EBiDAN",
+      "name": "超特急",
       "count": 1
     }
   ],
   "memberRanking": [
     {
       "name": "佐野勇斗",
-      "count": 7
-    },
-    {
-      "name": "塩﨑太智",
       "count": 5
     },
     {
       "name": "山中柔太朗",
+      "count": 5
+    },
+    {
+      "name": "塩﨑太智",
       "count": 4
     },
     {
-      "name": "吉田仁人",
+      "name": "曽野舜太",
       "count": 3
     },
     {
-      "name": "曽野舜太",
+      "name": "吉田仁人",
       "count": 2
     },
     {
       "name": "田中洸希",
       "count": 2
+    },
+    {
+      "name": "タクヤ",
+      "count": 1
     },
     {
       "name": "古川毅",
@@ -56,34 +64,30 @@
   "sourceRanking": [
     {
       "name": "SUPER★DRAGON 公式NEWS",
-      "count": 9
+      "count": 10
     },
     {
       "name": "THE FIRST TIMES",
-      "count": 5
+      "count": 4
     },
     {
       "name": "WWSチャンネル",
       "count": 4
     },
     {
-      "name": "マイナビニュース エンタメ",
-      "count": 2
-    },
-    {
       "name": "マイナビニュース 芸能",
-      "count": 2
+      "count": 3
     },
     {
-      "name": "リアルサウンド 映画部",
-      "count": 2
+      "name": "BARKS",
+      "count": 1
     },
     {
       "name": "Bezzy",
       "count": 1
     },
     {
-      "name": "マイナビニュース テレビ",
+      "name": "マイナビニュース エンタメ",
       "count": 1
     },
     {
@@ -99,35 +103,13 @@
   "recentByGroup": {
     "M!LK": [
       {
-        "id": "46df6cef0b6b7f0d",
-        "title": "佐野勇斗がサンタクロースに大変身!?ローソン「からあげクン 黄金チキン味」新TVCM公開「僕のお気に入りからあげクン味リストに追加された」",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000924937/",
-        "publishedAt": "2026-11-24T19:00:56.000Z",
-        "summary": "佐野勇⽃と川栄李奈が出演するローソン「からあげクン 黄金チキン味」新TVCM『輝く佐野サンタ...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "54a4d517e1a8adbc",
-        "title": "M!LK 佐野勇斗、ローソン新CMでサンタクロースに変身 川栄李奈とソリで夜空へテイクオフ",
+        "id": "4e6f3bbde845eb36",
+        "title": "M!LK、結成12周年にケーキを囲む仲良しショット 佐野勇斗、曽野舜太らの投稿に「この笑顔を永遠に守りたい」",
         "sourceName": "リアルサウンド 音楽",
         "sourceUrl": "https://realsound.jp/music/feed",
-        "articleUrl": "https://realsound.jp/2026/11/post-2593477.html",
-        "publishedAt": "2026-11-24T19:00:00.000Z",
-        "summary": "佐野勇斗（M!LK）と川栄李奈が、11月30日より放送のローソンの新TVCM『輝く佐野サンタと川栄店長』に出演。あわせて、2人のインタビューを含むメイキングムービーが、ローソン公式YouTubeチャンネルにて公開となっ",
+        "articleUrl": "https://realsound.jp/2026/11/post-2593973.html",
+        "publishedAt": "2026-11-25T07:30:00.000Z",
+        "summary": "M!LKが11月24日に結成12周年を迎え、YouTube生配信イベント「M!LK 12th Anniversary〜M!LK NIGHT〜」を行った。佐野勇斗、山中柔太朗、曽野舜太、塩﨑太智らメンバーがそれぞれInstagramにオフショットを公開している。",
         "groups": [
           "M!LK"
         ],
@@ -139,17 +121,75 @@
             "name": "佐野勇斗",
             "group": "M!LK",
             "status": "active"
+          },
+          {
+            "name": "塩﨑太智",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
           }
         ]
       },
       {
-        "id": "bf35c478d32f9825",
-        "title": "『いろはの恋は時代をかける』真島のまっすぐな優しさ 山中柔太朗の“隙”が愛おしい",
-        "sourceName": "リアルサウンド 映画部",
-        "sourceUrl": "https://realsound.jp/movie/feed",
-        "articleUrl": "https://realsound.jp/movie/2026/11/post-2593038.html",
-        "publishedAt": "2026-11-24T14:10:24.000Z",
-        "summary": "『いろはの恋は時代（とき）をかける』（TBS系）第7話では、言葉にできない思いが、教室の子どもたちと大人たちの間で交錯した。どれほど連絡が取りやすくなっても、本当に大切な気持ちほど簡単には口にできない。",
+        "id": "09539b66e36ddead",
+        "title": "M!LK結成12周年！ケーキを囲み満面の笑みを浮かべスペシャルな東京タワーを背にした姿に「うれしさ溢れたいい笑顔」「幸せもらえる」「大好きな5人」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000925855/",
+        "publishedAt": "2026-11-25T07:26:50.000Z",
+        "summary": "11月24日M!LKが結成12周年を迎え、YouTubeやファンクラブにて配信が行われた。また12周年を記...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "1e0c1c06371d9fd6",
+        "title": "M!LK山中柔太朗×超特急タクヤがお揃いのロンTで横並び！山中はシースルーバング、タクヤはセンター分け。顔を寄せ合うふたりに「なにこれ、かわいすぎる」「このペア天才」とファン歓喜",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000925843/",
+        "publishedAt": "2026-11-25T06:35:18.000Z",
+        "summary": "テレビ東京『DAN! DAN! EBiDAN!』の公式Instagramが、11月24日に誕生日を迎えた超特急のタクヤ...",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "タクヤ",
+            "group": "超特急",
+            "status": "active"
+          },
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "31cd014e4069d9c5",
+        "title": "M!LK5人で東京タワーを“撮る人を撮る”仲良しすぎる撮影リレー！メンバーカラーの東京タワーを撮る山中の後ろから次々に重なるメンバーの姿や集合自撮りショットも",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000925698/",
+        "publishedAt": "2026-11-25T04:39:45.000Z",
+        "summary": "M!LKのメンバーカラーにライトアップされた東京タワーを、山中柔太朗が自身のInstagramのスト...",
         "groups": [
           "M!LK"
         ],
@@ -165,27 +205,13 @@
         ]
       },
       {
-        "id": "deacccac9f7427d1",
-        "title": "M!LKがメンバー同士くっついて“紅白こえてないけどおどっちゃった”姿に「わちゃわちゃしててかわいい」「吉田さんみんなにもみくちゃにされてる（笑）」「これぞまさにM!LKの好きなとこ」",
+        "id": "131714b840a62343",
+        "title": "M!LK吉田仁人が両手を広げて“おいで～”ポーズ！ぬいぐるみとの撮影に「メロすぎ」「かわいすぎる」「尊い」と反響",
         "sourceName": "THE FIRST TIMES",
         "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000925243/",
-        "publishedAt": "2026-11-24T10:51:54.000Z",
-        "summary": "NHK紅白歌合戦公式SNSにて、M!LKが「好きすぎて滅！」を踊る動画が公開された。 ■両隣に挟まれ...",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "602dd4766e3f72fa",
-        "title": "「言い過ぎだけど…」自宅で普通のハサミを使って眉毛を切ったら…M!LK塩崎太智、まさかの“ビジュアルのピンチ”を告白",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20261124-5398261/",
-        "publishedAt": "2026-11-24T10:30:00.000Z",
-        "summary": "5人組ダンスボーカルグループ・M!LKが、モバイルバッテリーのシェアリングサービス「CHARGESPOT(チャージスポット)」の新CMキャラクターに就任。新テレビCM「M!LKのチャースポ」編が、24日から放映される。",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000925630/",
+        "publishedAt": "2026-11-25T04:08:52.000Z",
+        "summary": "M!LKの吉田仁人が、11月24日発売の『月刊TVガイド』1月号に登場。同誌の公式SNSでは、クマのぬ...",
         "groups": [
           "M!LK"
         ],
@@ -194,110 +220,43 @@
         ],
         "memberMatches": [
           {
-            "name": "塩﨑太智",
+            "name": "吉田仁人",
             "group": "M!LK",
             "status": "active"
           }
         ]
       }
     ],
-    "BUDDiiS": [
+    "EBiDAN": [
       {
-        "id": "408878b083282e40",
-        "title": "浜辺美波、ブルーのファー姿で『Ray』表紙に！KEY TO LITも初登場で特別版カバー、えびちゅう＆BUDDiiSの企画も",
-        "sourceName": "WWSチャンネル",
-        "sourceUrl": "https://www.wws-channel.com/feed",
-        "articleUrl": "https://www.wws-channel.com/magazine_book/683605.html",
-        "publishedAt": "2026-11-24T12:00:06.000Z",
-        "summary": "浜辺美波が、11月20日発売の『Ray』2027年1月号通常版の表紙を飾った。特別版表紙には、12月9日にCDデビューを控えるKEY TO LITが同誌初登場を果たしている。3度目の『Ray』表紙となる浜辺は、ブルーのファージャケット姿で登場。誌面ではレースやサテン、チ ... The post 浜辺美波、ブルーのファー姿で『Ray』表紙に！KEY TO L",
+        "id": "1e0c1c06371d9fd6",
+        "title": "M!LK山中柔太朗×超特急タクヤがお揃いのロンTで横並び！山中はシースルーバング、タクヤはセンター分け。顔を寄せ合うふたりに「なにこれ、かわいすぎる」「このペア天才」とファン歓喜",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000925843/",
+        "publishedAt": "2026-11-25T06:35:18.000Z",
+        "summary": "テレビ東京『DAN! DAN! EBiDAN!』の公式Instagramが、11月24日に誕生日を迎えた超特急のタクヤ...",
         "groups": [
-          "BUDDiiS"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "SUPER★DRAGON": [
-      {
-        "id": "4815035ace941d1b",
-        "title": "SUPER★DRAGON Major 2nd Album「STAR」楽天ブックスキャンペーン！12/12(土) 13(日)イベント詳細",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news12052/",
-        "publishedAt": "2026-11-24T10:00:32.000Z",
-        "summary": "楽天ブックスにてキャンペーン期間内に2026年12月9日発売のMajor 2nd Album「STAR」をご予約購入頂きますと以下の各特典会参加券をプレゼント！12/12(土)東京、12/13(日)大阪にて開催する限定イ […] The post SUPER★DRAGON Major 2nd Album「STAR」楽天ブックスキャンペーン！12/12(土) ",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "ad1e2231eef319ba",
-        "title": "SUPER★DRAGON田中洸希 イベント出演についてのお知らせ",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news12046/",
-        "publishedAt": "2026-11-22T00:15:12.000Z",
-        "summary": "いつもSUPER★DRAGONを応援していただき、誠にありがとうございます。 メンバーの田中洸希ですが、足の負傷により、本日開催のMajor 2nd Album「STAR」（大阪府：セブンパーク天美）に関しましては、ミニ […] The post SUPER★DRAGON田中洸希 イベント出演についてのお知らせ first appeared on SUPER",
-        "groups": [
-          "SUPER★DRAGON"
+          "EBiDAN",
+          "超特急",
+          "M!LK"
         ],
         "statuses": [
           "active"
         ],
         "memberMatches": [
           {
-            "name": "田中洸希",
-            "group": "SUPER★DRAGON",
+            "name": "タクヤ",
+            "group": "超特急",
+            "status": "active"
+          },
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
             "status": "active"
           }
         ]
       },
-      {
-        "id": "83578a0a7164f9f5",
-        "title": "11/29(日)開催リリースイベント＠ららぽーと名古屋みなとアクルス（愛知）参加方法・特典会内容についてのご案内",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news12040/",
-        "publishedAt": "2026-11-21T11:00:30.000Z",
-        "summary": "11月29日(日)にららぽーと名古屋みなとアクルスにて開催するリリースイベントの詳細をご案内致します。 必ず最後まで全てお読み頂き、会場にいらした皆様がイベントを楽しめるよう、ファンの皆様同士でルールとマナーの厳守をお願 […] The post 11/29(日)開催リリースイベント＠ららぽーと名古屋みなとアクルス（愛知）参加方法・特典会内容についてのご案内",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "5c5e96d2add7e0e4",
-        "title": "Major 2nd Album「STAR」11月29日(日)開催リリースイベント＠ららぽーと名古屋みなとアクルス（愛知）にて開催リリースイベントLINEアプリを使用した『CD購入整理券』『優先観覧エリア入場整理券』についてのご案内",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news12043/",
-        "publishedAt": "2026-11-21T10:59:18.000Z",
-        "summary": "▼ＣＤ購入整理券について 11月29日(日)愛知・ららぽーと名古屋みなとアクルスにて開催するリリースイベントの会場でのＣＤ販売は、会場の混雑緩和のため、LINEアプリを使用した事前応募制の『ＣＤ購入整理券』を導入致します […] The post Major 2nd Album「STAR」11月29日(日)開催リリースイベント＠ららぽーと名古屋みなとアクルス",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "e4b81254402821e3",
-        "title": "SUPER★DRAGON LIVE TOUR 2027「house」オフィシャルグッズ＆生写真セット 事前通販決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news12032/",
-        "publishedAt": "2026-11-20T08:00:23.000Z",
-        "summary": "2027年2月6日(土)愛知公演よりスタートする、SUPER★DRAGON LIVE TOUR 2027「house」公演に先駆けて、 スタダ便にてオフィシャルグッズ＆生写真セットの事前通販が決定いたしました！ メンバー […] The post SUPER★DRAGON LIVE TOUR 2027「house」オフィシャルグッズ＆生写真セット 事前通販決",
-        "groups": [
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      }
-    ],
-    "EBiDAN": [
       {
         "id": "f9365d74947e21b2",
         "title": "EBiDAN (恵比寿学園男子部) 15周年記念シングル『Yes! 東京』のEBiDAN盤・iiONDO盤・アナログ盤が 来年2月10日に発売！ iiONDOも含めたEBiDANメンバー総勢67名の新キービジュアルを公開！",
@@ -357,24 +316,38 @@
         ],
         "statuses": [],
         "memberMatches": []
-      },
-      {
-        "id": "2d9e4e423771c6b6",
-        "title": "EBiDAN オンラインくじ vol.2発売決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11856/",
-        "publishedAt": "2026-10-23T07:00:16.000Z",
-        "summary": "「EBiDAN museum 2026」の大盛況を記念し、10月26日(月)13:00より「EBiDAN オンラインくじ vol.2」の販売が決定しました！ グループ別のくじとなり、それぞれ全5等級のいずれかの景品が必ず […] The post EBiDAN オンラインくじ vol.2発売決定！ first appeared on SUPER★DRAGON",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
       }
     ],
     "超特急": [
+      {
+        "id": "1e0c1c06371d9fd6",
+        "title": "M!LK山中柔太朗×超特急タクヤがお揃いのロンTで横並び！山中はシースルーバング、タクヤはセンター分け。顔を寄せ合うふたりに「なにこれ、かわいすぎる」「このペア天才」とファン歓喜",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000925843/",
+        "publishedAt": "2026-11-25T06:35:18.000Z",
+        "summary": "テレビ東京『DAN! DAN! EBiDAN!』の公式Instagramが、11月24日に誕生日を迎えた超特急のタクヤ...",
+        "groups": [
+          "EBiDAN",
+          "超特急",
+          "M!LK"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "タクヤ",
+            "group": "超特急",
+            "status": "active"
+          },
+          {
+            "name": "山中柔太朗",
+            "group": "M!LK",
+            "status": "active"
+          }
+        ]
+      },
       {
         "id": "eca139ad46d2dd81",
         "title": "小関裕太×太宰治、藤原樹×芥川龍之介、草川拓弥×夏目漱石 中川龍太郎監督の3作品が劇場へ",
@@ -446,17 +419,99 @@
             "status": "active"
           }
         ]
+      }
+    ],
+    "SUPER★DRAGON": [
+      {
+        "id": "9b187162703fe94b",
+        "title": "SUPER★DRAGON LIVE TOUR 2027「house」 SOLD OUT！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news12054/",
+        "publishedAt": "2026-11-25T05:59:04.000Z",
+        "summary": "SUPER★DRAGON LIVE TOUR 2027「house」のチケットが好評につき完売いたしました！ たくさんのお申込みありがとうございました！ SUPER★DRAGON LIVE TOUR 2027「house […] The post SUPER★DRAGON LIVE TOUR 2027「house」 SOLD OUT！ first appea",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
       },
       {
-        "id": "6865cd3cb597efa2",
-        "title": "危うく強い鈴木伸之に柏木悠が宿す意思とは、映画『羊の皮を着たケモノ』緊張感漂う場面写真解禁",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/10/93934/",
-        "publishedAt": "2026-10-23T03:00:00.000Z",
-        "summary": "鈴木伸之と柏木悠（超特急）がW主演を務め、12月11日(金)に公開される映画『羊の皮を着たケモノ』の場面写真5点が解禁された。 本作は、九號（きゅうごう）による同名BL漫画を実写化した、骨太で新感覚のボーイズ・ラブ。原作は「BLアワード2022 ディープ部門」で第13位、「BLアワード2024 ディープ部門」で第3位を獲得した人気作で、物語は前半の明るく甘い",
+        "id": "4815035ace941d1b",
+        "title": "SUPER★DRAGON Major 2nd Album「STAR」楽天ブックスキャンペーン！12/12(土) 13(日)イベント詳細",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news12052/",
+        "publishedAt": "2026-11-24T10:00:32.000Z",
+        "summary": "楽天ブックスにてキャンペーン期間内に2026年12月9日発売のMajor 2nd Album「STAR」をご予約購入頂きますと以下の各特典会参加券をプレゼント！12/12(土)東京、12/13(日)大阪にて開催する限定イ […] The post SUPER★DRAGON Major 2nd Album「STAR」楽天ブックスキャンペーン！12/12(土) ",
         "groups": [
-          "超特急"
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "ad1e2231eef319ba",
+        "title": "SUPER★DRAGON田中洸希 イベント出演についてのお知らせ",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news12046/",
+        "publishedAt": "2026-11-22T00:15:12.000Z",
+        "summary": "いつもSUPER★DRAGONを応援していただき、誠にありがとうございます。 メンバーの田中洸希ですが、足の負傷により、本日開催のMajor 2nd Album「STAR」（大阪府：セブンパーク天美）に関しましては、ミニ […] The post SUPER★DRAGON田中洸希 イベント出演についてのお知らせ first appeared on SUPER",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "田中洸希",
+            "group": "SUPER★DRAGON",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "83578a0a7164f9f5",
+        "title": "11/29(日)開催リリースイベント＠ららぽーと名古屋みなとアクルス（愛知）参加方法・特典会内容についてのご案内",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news12040/",
+        "publishedAt": "2026-11-21T11:00:30.000Z",
+        "summary": "11月29日(日)にららぽーと名古屋みなとアクルスにて開催するリリースイベントの詳細をご案内致します。 必ず最後まで全てお読み頂き、会場にいらした皆様がイベントを楽しめるよう、ファンの皆様同士でルールとマナーの厳守をお願 […] The post 11/29(日)開催リリースイベント＠ららぽーと名古屋みなとアクルス（愛知）参加方法・特典会内容についてのご案内",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "5c5e96d2add7e0e4",
+        "title": "Major 2nd Album「STAR」11月29日(日)開催リリースイベント＠ららぽーと名古屋みなとアクルス（愛知）にて開催リリースイベントLINEアプリを使用した『CD購入整理券』『優先観覧エリア入場整理券』についてのご案内",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news12043/",
+        "publishedAt": "2026-11-21T10:59:18.000Z",
+        "summary": "▼ＣＤ購入整理券について 11月29日(日)愛知・ららぽーと名古屋みなとアクルスにて開催するリリースイベントの会場でのＣＤ販売は、会場の混雑緩和のため、LINEアプリを使用した事前応募制の『ＣＤ購入整理券』を導入致します […] The post Major 2nd Album「STAR」11月29日(日)開催リリースイベント＠ららぽーと名古屋みなとアクルス",
+        "groups": [
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
+    "BUDDiiS": [
+      {
+        "id": "408878b083282e40",
+        "title": "浜辺美波、ブルーのファー姿で『Ray』表紙に！KEY TO LITも初登場で特別版カバー、えびちゅう＆BUDDiiSの企画も",
+        "sourceName": "WWSチャンネル",
+        "sourceUrl": "https://www.wws-channel.com/feed",
+        "articleUrl": "https://www.wws-channel.com/magazine_book/683605.html",
+        "publishedAt": "2026-11-24T12:00:06.000Z",
+        "summary": "浜辺美波が、11月20日発売の『Ray』2027年1月号通常版の表紙を飾った。特別版表紙には、12月9日にCDデビューを控えるKEY TO LITが同誌初登場を果たしている。3度目の『Ray』表紙となる浜辺は、ブルーのファージャケット姿で登場。誌面ではレースやサテン、チ ... The post 浜辺美波、ブルーのファー姿で『Ray』表紙に！KEY TO L",
+        "groups": [
+          "BUDDiiS"
         ],
         "statuses": [],
         "memberMatches": []

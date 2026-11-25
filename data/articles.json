@@ -1,36 +1,14 @@
 {
-  "updatedAt": "2026-11-24T22:25:35.451Z",
+  "updatedAt": "2026-11-25T08:32:09.326Z",
   "articles": [
     {
-      "id": "46df6cef0b6b7f0d",
-      "title": "佐野勇斗がサンタクロースに大変身!?ローソン「からあげクン 黄金チキン味」新TVCM公開「僕のお気に入りからあげクン味リストに追加された」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000924937/",
-      "publishedAt": "2026-11-24T19:00:56.000Z",
-      "summary": "佐野勇⽃と川栄李奈が出演するローソン「からあげクン 黄金チキン味」新TVCM『輝く佐野サンタ...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "54a4d517e1a8adbc",
-      "title": "M!LK 佐野勇斗、ローソン新CMでサンタクロースに変身 川栄李奈とソリで夜空へテイクオフ",
+      "id": "4e6f3bbde845eb36",
+      "title": "M!LK、結成12周年にケーキを囲む仲良しショット 佐野勇斗、曽野舜太らの投稿に「この笑顔を永遠に守りたい」",
       "sourceName": "リアルサウンド 音楽",
       "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/11/post-2593477.html",
-      "publishedAt": "2026-11-24T19:00:00.000Z",
-      "summary": "佐野勇斗（M!LK）と川栄李奈が、11月30日より放送のローソンの新TVCM『輝く佐野サンタと川栄店長』に出演。あわせて、2人のインタビューを含むメイキングムービーが、ローソン公式YouTubeチャンネルにて公開となっ",
+      "articleUrl": "https://realsound.jp/2026/11/post-2593973.html",
+      "publishedAt": "2026-11-25T07:30:00.000Z",
+      "summary": "M!LKが11月24日に結成12周年を迎え、YouTube生配信イベント「M!LK 12th Anniversary〜M!LK NIGHT〜」を行った。佐野勇斗、山中柔太朗、曽野舜太、塩﨑太智らメンバーがそれぞれInstagramにオフショットを公開している。",
       "groups": [
         "M!LK"
       ],
@@ -42,17 +20,89 @@
           "name": "佐野勇斗",
           "group": "M!LK",
           "status": "active"
+        },
+        {
+          "name": "塩﨑太智",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "曽野舜太",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
         }
       ]
     },
     {
-      "id": "bf35c478d32f9825",
-      "title": "『いろはの恋は時代をかける』真島のまっすぐな優しさ 山中柔太朗の“隙”が愛おしい",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/11/post-2593038.html",
-      "publishedAt": "2026-11-24T14:10:24.000Z",
-      "summary": "『いろはの恋は時代（とき）をかける』（TBS系）第7話では、言葉にできない思いが、教室の子どもたちと大人たちの間で交錯した。どれほど連絡が取りやすくなっても、本当に大切な気持ちほど簡単には口にできない。",
+      "id": "09539b66e36ddead",
+      "title": "M!LK結成12周年！ケーキを囲み満面の笑みを浮かべスペシャルな東京タワーを背にした姿に「うれしさ溢れたいい笑顔」「幸せもらえる」「大好きな5人」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000925855/",
+      "publishedAt": "2026-11-25T07:26:50.000Z",
+      "summary": "11月24日M!LKが結成12周年を迎え、YouTubeやファンクラブにて配信が行われた。また12周年を記...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "1e0c1c06371d9fd6",
+      "title": "M!LK山中柔太朗×超特急タクヤがお揃いのロンTで横並び！山中はシースルーバング、タクヤはセンター分け。顔を寄せ合うふたりに「なにこれ、かわいすぎる」「このペア天才」とファン歓喜",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000925843/",
+      "publishedAt": "2026-11-25T06:35:18.000Z",
+      "summary": "テレビ東京『DAN! DAN! EBiDAN!』の公式Instagramが、11月24日に誕生日を迎えた超特急のタクヤ...",
+      "groups": [
+        "EBiDAN",
+        "超特急",
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "タクヤ",
+          "group": "超特急",
+          "status": "active"
+        },
+        {
+          "name": "山中柔太朗",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "9b187162703fe94b",
+      "title": "SUPER★DRAGON LIVE TOUR 2027「house」 SOLD OUT！",
+      "sourceName": "SUPER★DRAGON 公式NEWS",
+      "sourceUrl": "https://super-dragon.jp/news/feed/",
+      "articleUrl": "https://super-dragon.jp/news/news12054/",
+      "publishedAt": "2026-11-25T05:59:04.000Z",
+      "summary": "SUPER★DRAGON LIVE TOUR 2027「house」のチケットが好評につき完売いたしました！ たくさんのお申込みありがとうございました！ SUPER★DRAGON LIVE TOUR 2027「house […] The post SUPER★DRAGON LIVE TOUR 2027「house」 SOLD OUT！ first appea",
+      "groups": [
+        "SUPER★DRAGON"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "31cd014e4069d9c5",
+      "title": "M!LK5人で東京タワーを“撮る人を撮る”仲良しすぎる撮影リレー！メンバーカラーの東京タワーを撮る山中の後ろから次々に重なるメンバーの姿や集合自撮りショットも",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000925698/",
+      "publishedAt": "2026-11-25T04:39:45.000Z",
+      "summary": "M!LKのメンバーカラーにライトアップされた東京タワーを、山中柔太朗が自身のInstagramのスト...",
       "groups": [
         "M!LK"
       ],
@@ -66,6 +116,56 @@
           "status": "active"
         }
       ]
+    },
+    {
+      "id": "131714b840a62343",
+      "title": "M!LK吉田仁人が両手を広げて“おいで～”ポーズ！ぬいぐるみとの撮影に「メロすぎ」「かわいすぎる」「尊い」と反響",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000925630/",
+      "publishedAt": "2026-11-25T04:08:52.000Z",
+      "summary": "M!LKの吉田仁人が、11月24日発売の『月刊TVガイド』1月号に登場。同誌の公式SNSでは、クマのぬ...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "吉田仁人",
+          "group": "M!LK",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "5fe1b4fd6d0180b1",
+      "title": "M!LK、結成12周年記念に東京タワーがメンバーカラーへ。アリーナツアー開催発表も",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1106708",
+      "publishedAt": "2026-11-25T03:06:01.000Z",
+      "summary": "M!LKが、2026年11月24日に結成12周年を迎え、これを記念して東京タワーが1日限定でメンバーカラーにライトアップされた。 さらに、YouTubeにて生配信された「M!LK 12th Anniversary〜M!LK NIGHT〜」では、東京の夜景をバックにしたシックな雰囲気のセットの中で、「僕のすべては君のもの」「好きすぎて滅！(X’mas Remi",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "36e77de68c0c5347",
+      "title": "テレビ解説者・木村隆志のヨミトキ 第133回 今年の『レコ大』はミセス4連覇か、M!LK初受賞か、それとも… 『MAJ』台頭と音楽特番の増加で揺らぐ存在感",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/yomitoki-133/",
+      "publishedAt": "2026-11-25T02:00:00.000Z",
+      "summary": "年末の風物詩であり、日本で最も有名な音楽賞である『第68回 輝く!日本レコード大賞』(TBS系)の受賞者・受賞作品が発表された。昨年スタートしたばかりの『MUSIC AWARDS JAPAN』との違いや、今週末の『ベストアーティスト』(日本テレビ系)からはじまる音楽特番ラッシュなどを交えて、同賞の期待と課題をテレビ解説者の木村隆志があげていく。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
     },
     {
       "id": "408878b083282e40",
@@ -82,24 +182,10 @@
       "memberMatches": []
     },
     {
-      "id": "deacccac9f7427d1",
-      "title": "M!LKがメンバー同士くっついて“紅白こえてないけどおどっちゃった”姿に「わちゃわちゃしててかわいい」「吉田さんみんなにもみくちゃにされてる（笑）」「これぞまさにM!LKの好きなとこ」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000925243/",
-      "publishedAt": "2026-11-24T10:51:54.000Z",
-      "summary": "NHK紅白歌合戦公式SNSにて、M!LKが「好きすぎて滅！」を踊る動画が公開された。 ■両隣に挟まれ...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
       "id": "602dd4766e3f72fa",
       "title": "「言い過ぎだけど…」自宅で普通のハサミを使って眉毛を切ったら…M!LK塩崎太智、まさかの“ビジュアルのピンチ”を告白",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20261124-5398261/",
       "publishedAt": "2026-11-24T10:30:00.000Z",
       "summary": "5人組ダンスボーカルグループ・M!LKが、モバイルバッテリーのシェアリングサービス「CHARGESPOT(チャージスポット)」の新CMキャラクターに就任。新テレビCM「M!LKのチャースポ」編が、24日から放映される。",
@@ -118,47 +204,6 @@
       ]
     },
     {
-      "id": "29427bb9309cb09c",
-      "title": "「お前もっとがんばれよ!」「勇斗が一生懸命…」吉田仁人が明かしたM!LKの楽屋裏で起こった“最年長”と“最年少”のやり取り 塩崎太智が持ち込んできたメンバー内での“流行”とは",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-      "articleUrl": "https://news.mynavi.jp/article/20261124-5390300/",
-      "publishedAt": "2026-11-24T10:30:00.000Z",
-      "summary": "「勇斗が一生懸命食べてるのを見ながら、舜太は……」――アイドルグループ・M!LKの吉田仁人が19日、文化放送のラジオ番組『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)に出演。メンバーたちの“楽屋裏エピソード”を披露した。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "塩﨑太智",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "5610f175b56017f3",
-      "title": "M!LK5人が黒髪＆お揃いシャツに弾ける笑顔で肩を組み合ったライブオフショット！「前髪おろした大ちゃんかわいい」「柔太朗ふわふわ前髪だ」「みんなビジュよすぎ」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000925184/",
-      "publishedAt": "2026-11-24T10:24:12.000Z",
-      "summary": "M!LK公式SNSにて、『M!LK ARENA TOUR 2026-2027「シャカリキレボリューション」』神奈川・ぴあ...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
       "id": "4815035ace941d1b",
       "title": "SUPER★DRAGON Major 2nd Album「STAR」楽天ブックスキャンペーン！12/12(土) 13(日)イベント詳細",
       "sourceName": "SUPER★DRAGON 公式NEWS",
@@ -171,77 +216,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "20db5d04e137e20f",
-      "title": "M!LK山中柔太朗が152cm上白石萌音の江戸走り特訓に飛び入り！並んでちょこまかステップを学ぶ様子に「トリックアートみたいな身長差」「一生懸命な先生たちかわいい」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000925164/",
-      "publishedAt": "2026-11-24T08:51:07.000Z",
-      "summary": "TBSドラマ『いろはの恋は時代をかける』公式SNSにて、上白石萌音が江戸走りを練習する様子が動...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "山中柔太朗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "4d363602c5b44a78",
-      "title": "佐野勇斗、入浴中のオフショで魅せる色気 鍛え上げた広背筋と引き締まった上半身を披露",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/11/post-2593249.html",
-      "publishedAt": "2026-11-24T08:30:48.000Z",
-      "summary": "「M!LK」の佐野勇斗が自身のInstagramを更新し、親友との温泉旅行で撮影したオフショットを披露した。 投稿には、檜風呂につかりながら、濡れた髪をオールバックにかき上げてカメラをまっすぐ見据える佐野の姿が。鍛え",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "99113115769d1b02",
-      "title": "M!LK吉田仁人の手料理を塩﨑太智が絶賛！プラベ感漂う間接照明キッチンで仲良くトークし食べる姿に「手際よくて料理上手」「じんだいかわいい」「レシピマネしたい」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000925117/",
-      "publishedAt": "2026-11-24T08:03:31.000Z",
-      "summary": "M!LK吉田仁人公式Xにて、YouTubeじんだいチャンネルが更新されたことがポストされた。今回更新...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "塩﨑太智",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "62512db0347f3cfc",
@@ -375,20 +349,6 @@
       "summary": "▼ＣＤ購入整理券について 11月29日(日)愛知・ららぽーと名古屋みなとアクルスにて開催するリリースイベントの会場でのＣＤ販売は、会場の混雑緩和のため、LINEアプリを使用した事前応募制の『ＣＤ購入整理券』を導入致します […] The post Major 2nd Album「STAR」11月29日(日)開催リリースイベント＠ららぽーと名古屋みなとアクルス",
       "groups": [
         "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "d984076c1a900719",
-      "title": "Mrs. GREEN APPLE、史上初の4連覇なるか 『レコ大』大賞候補にM!LK、HANA、FRUITS ZIPPER、BE:FIRSTも",
-      "sourceName": "マイナビニュース テレビ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-      "articleUrl": "https://news.mynavi.jp/article/20261121-5370275/",
-      "publishedAt": "2026-11-20T15:00:00.000Z",
-      "summary": "Mrs. GREEN APPLEの4年連続大賞受賞なるか――TBS系で12月30日(17:30～22:00)に生放送される『第68回 輝く!日本レコード大賞』の各賞受賞者・作品が21日、発表された。優秀作品賞にはM!LK、HANA、FRUITS ZIPPER、BE:FIRSTらの楽曲も選出。最優秀新人賞候補となる新人賞4組も明らかになった。",
-      "groups": [
-        "M!LK"
       ],
       "statuses": [],
       "memberMatches": []
@@ -2223,21 +2183,6 @@
       "publishedAt": "2026-07-07T11:00:15.000Z",
       "summary": "7/20(月祝)に開催するSUPER★DRAGON OFFICIAL FANCLUB「AREA SD」会員様を対象にしたオンライン特典会につきまして、ポニーキャニオンショッピングクラブでの特典会参加券付きCDの追加販売が […] The post 7/20(月祝)開催SUPER★DRAGON 夏休みオンライン特典会の追加販売決定【AREA SD会員限定】 f",
       "groups": [
-        "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "ca0284afa9f3c73a",
-      "title": "2026年8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 《第3弾》 CD予約購入キャンペーン実施決定！",
-      "sourceName": "SUPER★DRAGON 公式NEWS",
-      "sourceUrl": "https://super-dragon.jp/news/feed/",
-      "articleUrl": "https://super-dragon.jp/news/news11383/",
-      "publishedAt": "2026-07-07T03:00:32.000Z",
-      "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念して、8月11日(火・祝)にリリースするシングル「Yes! 東京」の《第３弾》CD予約購入特典キャンペーンの実施が決定いたしました！ 2026年8月11日(火・祝)発売 […] The post 2026年8月11日発売、EBiDAN15周年記念シングル「Yes! 東京」 《第3弾》 CD予約購入キャンペーン",
-      "groups": [
-        "EBiDAN",
         "SUPER★DRAGON"
       ],
       "statuses": [],
