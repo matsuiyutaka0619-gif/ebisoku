@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-25T08:32:09.326Z",
+  "updatedAt": "2026-11-25T21:40:44.151Z",
   "articles": [
     {
-      "id": "4e6f3bbde845eb36",
-      "title": "M!LK、結成12周年にケーキを囲む仲良しショット 佐野勇斗、曽野舜太らの投稿に「この笑顔を永遠に守りたい」",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/11/post-2593973.html",
-      "publishedAt": "2026-11-25T07:30:00.000Z",
-      "summary": "M!LKが11月24日に結成12周年を迎え、YouTube生配信イベント「M!LK 12th Anniversary〜M!LK NIGHT〜」を行った。佐野勇斗、山中柔太朗、曽野舜太、塩﨑太智らメンバーがそれぞれInstagramにオフショットを公開している。",
+      "id": "f111f416cfea22e0",
+      "title": "當真あみ、佐野勇斗主演『ディアマミー』出演決定 母の死の真相を追うフリーライターに",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/11/post-2594739.html",
+      "publishedAt": "2026-11-25T21:00:59.000Z",
+      "summary": "佐野勇斗が主演を務める2027年1月期の日本テレビ系日曜ドラマ『ディアマミー 俺たちの母ちゃんは、殺された。』に、當真あみが出演することが発表された。 本作は、日本テレビの連続ドラマ『大病院占拠』『新空港占拠』『放送",
       "groups": [
         "M!LK"
       ],
@@ -20,19 +20,112 @@
           "name": "佐野勇斗",
           "group": "M!LK",
           "status": "active"
-        },
+        }
+      ]
+    },
+    {
+      "id": "6919851cd28ac0aa",
+      "title": "當真あみ、佐野勇斗主演『ディアマミー』に出演 主人公の妹で母の死の真相を追うフリーライター役に",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1105015/",
+      "publishedAt": "2026-11-25T21:00:00.000Z",
+      "summary": "俳優の當真あみが、佐野勇斗が主演を務める2027年1月期の日本テレビ系連続ドラマ『ディアマミー 俺たちの母ちゃんは、殺された。』（日曜午後10時30分）に出演することが26日、発表された。當真は、佐野が演じる主人公・十和 […]",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
         {
-          "name": "塩﨑太智",
+          "name": "佐野勇斗",
           "group": "M!LK",
           "status": "active"
-        },
+        }
+      ]
+    },
+    {
+      "id": "e83f02c67707b7dd",
+      "title": "M!LK、JOYSOUND年間ランキング3冠! 「好きすぎて滅!」総合首位、ボーイズグループ部門では嵐・Snow Manも上位に",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261126-5407783/",
+      "publishedAt": "2026-11-25T15:00:00.000Z",
+      "summary": "5人組ダンスボーカルグループ・M!LKが、26日に発表された「2026年JOYSOUNDカラオケ年間ランキング」で3冠を達成した。「好きすぎて滅!」がカラオケ総合ランキングの1位に輝き、「爆裂愛してる」も2026年発売曲の2部門で首位を獲得。ボーイズグループ部門では嵐やSnow Manなどの楽曲も上位に入った。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "c4a5d8459f3edef5",
+      "title": "「伯方の塩」カラオケ年間総合2位の快挙! わずか3秒でM!LKに次ぐ人気、伯方塩業担当者「うれし涙で塩分濃度も急上昇」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261126-5407837/",
+      "publishedAt": "2026-11-25T15:00:00.000Z",
+      "summary": "テレビCMでおなじみのサウンドロゴ「伯方の塩」が、26日に発表された「2026年JOYSOUNDカラオケ年間ランキング」の総合部門で2位に入った。わずか約3秒のフレーズが、人気アーティストのヒット曲を抑えて上位にランクインする異例の結果となった。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "c54b629e85ec5ff8",
+      "title": "『ポリティカルパン』ドンデコルテ 渡辺銀次が野党・党首役に 超特急 小笠原海らも出演",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/11/post-2594561.html",
+      "publishedAt": "2026-11-25T13:54:52.000Z",
+      "summary": "フジテレビ系にて放送されている石原さとみ主演ドラマ『ポリティカルパン』の第9話および第10話（最終話）に、渡辺銀次（ドンデコルテ）、尾上寛之、小笠原海（超特急）が出演することが発表された。",
+      "groups": [
+        "超特急"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "1c63b597682cbb65",
+      "title": "「好きじゃないけど…」勤め先のエース弁護士から突然のプロポーズ――阪口珠美、ショートドラマ『結婚しましょう、恋する前に』で“げんじぶ”武藤潤とW主演",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261125-5407100/",
+      "publishedAt": "2026-11-25T11:00:00.000Z",
+      "summary": "元乃木坂46の阪口珠美とダンスボーカルグループ・原因は自分にある。の武藤潤が、2027年1月配信開始予定のショートドラマ『結婚しましょう、恋する前に』(全37話)でW主演を務めることが決定した。",
+      "groups": [
+        "原因は自分にある。"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
         {
-          "name": "曽野舜太",
-          "group": "M!LK",
+          "name": "武藤潤",
+          "group": "原因は自分にある。",
           "status": "active"
-        },
+        }
+      ]
+    },
+    {
+      "id": "7e3c6ced9a200226",
+      "title": "「メンバーともしゃべってましたけど…」「M!LKの横が…」吉田仁人、2年連続2度目のM!LK『紅白』出場にしみじみ 昨年の初出場で感じたこと「雰囲気がすごいよくて…」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261125-5393183/",
+      "publishedAt": "2026-11-25T10:00:00.000Z",
+      "summary": "「メンバーともしゃべってましたけど……」――。アイドルグループ・M!LKの吉田仁人が19日、文化放送のラジオ番組『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)に出演。『第77回NHK紅白歌合戦』への出場決定に喜びを爆発させた。",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
         {
-          "name": "山中柔太朗",
+          "name": "吉田仁人",
           "group": "M!LK",
           "status": "active"
         }
@@ -91,64 +184,6 @@
       "summary": "SUPER★DRAGON LIVE TOUR 2027「house」のチケットが好評につき完売いたしました！ たくさんのお申込みありがとうございました！ SUPER★DRAGON LIVE TOUR 2027「house […] The post SUPER★DRAGON LIVE TOUR 2027「house」 SOLD OUT！ first appea",
       "groups": [
         "SUPER★DRAGON"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "31cd014e4069d9c5",
-      "title": "M!LK5人で東京タワーを“撮る人を撮る”仲良しすぎる撮影リレー！メンバーカラーの東京タワーを撮る山中の後ろから次々に重なるメンバーの姿や集合自撮りショットも",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000925698/",
-      "publishedAt": "2026-11-25T04:39:45.000Z",
-      "summary": "M!LKのメンバーカラーにライトアップされた東京タワーを、山中柔太朗が自身のInstagramのスト...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "山中柔太朗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "131714b840a62343",
-      "title": "M!LK吉田仁人が両手を広げて“おいで～”ポーズ！ぬいぐるみとの撮影に「メロすぎ」「かわいすぎる」「尊い」と反響",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000925630/",
-      "publishedAt": "2026-11-25T04:08:52.000Z",
-      "summary": "M!LKの吉田仁人が、11月24日発売の『月刊TVガイド』1月号に登場。同誌の公式SNSでは、クマのぬ...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "5fe1b4fd6d0180b1",
-      "title": "M!LK、結成12周年記念に東京タワーがメンバーカラーへ。アリーナツアー開催発表も",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1106708",
-      "publishedAt": "2026-11-25T03:06:01.000Z",
-      "summary": "M!LKが、2026年11月24日に結成12周年を迎え、これを記念して東京タワーが1日限定でメンバーカラーにライトアップされた。 さらに、YouTubeにて生配信された「M!LK 12th Anniversary〜M!LK NIGHT〜」では、東京の夜景をバックにしたシックな雰囲気のセットの中で、「僕のすべては君のもの」「好きすぎて滅！(X’mas Remi",
-      "groups": [
-        "M!LK"
       ],
       "statuses": [],
       "memberMatches": []
@@ -254,50 +289,6 @@
         },
         {
           "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "6e199f54a2e3c193",
-      "title": "佐野勇斗「愛してるぜ。」力強いまなざしの新ビジュアル解禁！直筆サイン入りセットが当たるキャンペーンも開催",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/music2/683497.html",
-      "publishedAt": "2026-11-23T11:45:08.000Z",
-      "summary": "俳優・アーティストの佐野勇斗を起用した「OCEAN TRICO」の新キービジュアルが、11月22日に公開された。ブランドアンバサダーを務める佐野のビジュアルは、今回が第3弾。ブランドロゴとトリコロールカラーを背景に、ヘアワックス「クレイ」を手にカメラを見つめる姿を収めた ... The post 佐野勇斗「愛してるぜ。」力強いまなざしの新ビジュアル解禁！直筆",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "17938211efdfe53e",
-      "title": "浜辺美波、大好物のお肉を満喫！『東京カレンダー』表紙に登場、M!LK山中柔太朗は特別増刊で初ソロ表紙",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/magazine_book/683283.html",
-      "publishedAt": "2026-11-23T04:00:16.000Z",
-      "summary": "浜辺美波が、11月20日発売の『東京カレンダー』2027年1月号通常版の表紙を飾った。特別増刊の表紙には、M!LKの山中柔太朗がソロで初登場している。浜辺が同誌に登場するのは約1年ぶり、今回で4回目。西麻布の肉割烹「喜円」で撮影し、大好物という肉料理を次々と味わった。用 ... The post 浜辺美波、大好物のお肉を満喫！『東京カレンダー』表紙に登場、M",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "山中柔太朗",
           "group": "M!LK",
           "status": "active"
         }
