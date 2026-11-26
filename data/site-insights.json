@@ -1,63 +1,55 @@
 {
-  "updatedAt": "2026-11-25T21:40:44.154Z",
+  "updatedAt": "2026-11-26T08:15:54.638Z",
   "totals": {
-    "all": 131,
-    "today": 4,
-    "week": 24
+    "all": 129,
+    "today": 7,
+    "week": 21
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 12
+      "count": 10
     },
     {
       "name": "SUPER★DRAGON",
-      "count": 9
-    },
-    {
-      "name": "EBiDAN",
-      "count": 2
-    },
-    {
-      "name": "超特急",
-      "count": 2
+      "count": 8
     },
     {
       "name": "BUDDiiS",
       "count": 1
     },
     {
+      "name": "EBiDAN",
+      "count": 1
+    },
+    {
       "name": "原因は自分にある。",
+      "count": 1
+    },
+    {
+      "name": "超特急",
       "count": 1
     }
   ],
   "memberRanking": [
     {
-      "name": "佐野勇斗",
-      "count": 4
-    },
-    {
-      "name": "塩﨑太智",
-      "count": 2
-    },
-    {
-      "name": "吉田仁人",
-      "count": 2
-    },
-    {
-      "name": "山中柔太朗",
-      "count": 2
-    },
-    {
       "name": "曽野舜太",
       "count": 2
     },
     {
-      "name": "田中洸希",
-      "count": 2
+      "name": "塩﨑太智",
+      "count": 1
     },
     {
-      "name": "タクヤ",
+      "name": "佐野勇斗",
+      "count": 1
+    },
+    {
+      "name": "山中柔太朗",
+      "count": 1
+    },
+    {
+      "name": "田中洸希",
       "count": 1
     },
     {
@@ -68,30 +60,26 @@
   "sourceRanking": [
     {
       "name": "SUPER★DRAGON 公式NEWS",
-      "count": 9
-    },
-    {
-      "name": "マイナビニュース エンタメ",
-      "count": 5
+      "count": 8
     },
     {
       "name": "THE FIRST TIMES",
-      "count": 2
+      "count": 4
     },
     {
-      "name": "WWSチャンネル",
-      "count": 2
+      "name": "マイナビニュース エンタメ",
+      "count": 4
     },
     {
       "name": "マイナビニュース 芸能",
       "count": 2
     },
     {
-      "name": "リアルサウンド 映画部",
-      "count": 2
+      "name": "WWSチャンネル",
+      "count": 1
     },
     {
-      "name": "ENCOUNT",
+      "name": "マイナビニュース テレビ",
       "count": 1
     },
     {
@@ -103,13 +91,41 @@
   "recentByGroup": {
     "M!LK": [
       {
-        "id": "f111f416cfea22e0",
-        "title": "當真あみ、佐野勇斗主演『ディアマミー』出演決定 母の死の真相を追うフリーライターに",
-        "sourceName": "リアルサウンド 映画部",
-        "sourceUrl": "https://realsound.jp/movie/feed",
-        "articleUrl": "https://realsound.jp/movie/2026/11/post-2594739.html",
-        "publishedAt": "2026-11-25T21:00:59.000Z",
-        "summary": "佐野勇斗が主演を務める2027年1月期の日本テレビ系日曜ドラマ『ディアマミー 俺たちの母ちゃんは、殺された。』に、當真あみが出演することが発表された。 本作は、日本テレビの連続ドラマ『大病院占拠』『新空港占拠』『放送",
+        "id": "87ad1ade6e31b31e",
+        "title": "=LOVE、推し活アプリの予定配信登録で1位に 紅白初出場・初の東京ドーム公演が影響か",
+        "sourceName": "マイナビニュース エンタメ",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+        "articleUrl": "https://news.mynavi.jp/article/20261126-5413981/",
+        "publishedAt": "2026-11-26T07:17:31.000Z",
+        "summary": "推し活記録アプリ「オシカツ部」を運営する株式会社オシカツは26日、公式LINEで予定を受け取るグループとして登録された人数のランキングを発表。指原莉乃がプロデュースするアイドルグループ・=LOVEが1位となり、CUTIE STREETとM!LKが同数で2位にランクインした。マイナビニュース編集部では、=LOVEが1位となった背景について、同社の広報担当者に話",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "3eec8a73ef332e80",
+        "title": "M!LKが黒スーツでクールな視線を向ける！治安悪めの6人がレトロな銭湯でキメた姿に「破壊力にめまいする」「昭和な雰囲気と令和のアイドルのかけ合わせ最高」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000926565/",
+        "publishedAt": "2026-11-26T07:15:06.000Z",
+        "summary": "『GQ JAPAN』公式SNSにて、『GQ MEN OF THE YEAR 2026』に選出されたアーティストが発表され、...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "0b7410ed074b3091",
+        "title": "M!LK山中柔太朗＆曽野舜太、ジャージでも隠しきれないスタイルの良さ！海を背に肩を寄せ合うふたりに「やわしゅんかわいい」「双子すぎる」「紅白でご利益ありそう」の声",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000926324/",
+        "publishedAt": "2026-11-26T02:49:09.000Z",
+        "summary": "M!LKの山中柔太朗と曽野舜太が、11月25日放送の『ニノなのに』（TBS系）にVTR出演した。M!LKの...",
         "groups": [
           "M!LK"
         ],
@@ -118,33 +134,30 @@
         ],
         "memberMatches": [
           {
-            "name": "佐野勇斗",
+            "name": "曽野舜太",
+            "group": "M!LK",
+            "status": "active"
+          },
+          {
+            "name": "山中柔太朗",
             "group": "M!LK",
             "status": "active"
           }
         ]
       },
       {
-        "id": "6919851cd28ac0aa",
-        "title": "當真あみ、佐野勇斗主演『ディアマミー』に出演 主人公の妹で母の死の真相を追うフリーライター役に",
-        "sourceName": "ENCOUNT",
-        "sourceUrl": "https://encount.press/feed/",
-        "articleUrl": "https://encount.press/archives/1105015/",
-        "publishedAt": "2026-11-25T21:00:00.000Z",
-        "summary": "俳優の當真あみが、佐野勇斗が主演を務める2027年1月期の日本テレビ系連続ドラマ『ディアマミー 俺たちの母ちゃんは、殺された。』（日曜午後10時30分）に出演することが26日、発表された。當真は、佐野が演じる主人公・十和 […]",
+        "id": "b18f806a3001731c",
+        "title": "M!LK『2026年JOYSOUNDカラオケ年間ランキング』で三冠の快挙！総合ランキング2位はまさかの「伯方の塩」",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000926151/",
+        "publishedAt": "2026-11-26T02:24:04.000Z",
+        "summary": "業務用通信カラオケ「JOYSOUND」の歌唱データをもとに集計された『2026年JOYSOUNDカラオケ年間...",
         "groups": [
           "M!LK"
         ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "佐野勇斗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
+        "statuses": [],
+        "memberMatches": []
       },
       {
         "id": "e83f02c67707b7dd",
@@ -159,87 +172,22 @@
         ],
         "statuses": [],
         "memberMatches": []
-      },
-      {
-        "id": "c4a5d8459f3edef5",
-        "title": "「伯方の塩」カラオケ年間総合2位の快挙! わずか3秒でM!LKに次ぐ人気、伯方塩業担当者「うれし涙で塩分濃度も急上昇」",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20261126-5407837/",
-        "publishedAt": "2026-11-25T15:00:00.000Z",
-        "summary": "テレビCMでおなじみのサウンドロゴ「伯方の塩」が、26日に発表された「2026年JOYSOUNDカラオケ年間ランキング」の総合部門で2位に入った。わずか約3秒のフレーズが、人気アーティストのヒット曲を抑えて上位にランクインする異例の結果となった。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "7e3c6ced9a200226",
-        "title": "「メンバーともしゃべってましたけど…」「M!LKの横が…」吉田仁人、2年連続2度目のM!LK『紅白』出場にしみじみ 昨年の初出場で感じたこと「雰囲気がすごいよくて…」",
-        "sourceName": "マイナビニュース エンタメ",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-        "articleUrl": "https://news.mynavi.jp/article/20261125-5393183/",
-        "publishedAt": "2026-11-25T10:00:00.000Z",
-        "summary": "「メンバーともしゃべってましたけど……」――。アイドルグループ・M!LKの吉田仁人が19日、文化放送のラジオ番組『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)に出演。『第77回NHK紅白歌合戦』への出場決定に喜びを爆発させた。",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "吉田仁人",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
       }
     ],
     "超特急": [
       {
-        "id": "c54b629e85ec5ff8",
-        "title": "『ポリティカルパン』ドンデコルテ 渡辺銀次が野党・党首役に 超特急 小笠原海らも出演",
-        "sourceName": "リアルサウンド 映画部",
-        "sourceUrl": "https://realsound.jp/movie/feed",
-        "articleUrl": "https://realsound.jp/movie/2026/11/post-2594561.html",
-        "publishedAt": "2026-11-25T13:54:52.000Z",
-        "summary": "フジテレビ系にて放送されている石原さとみ主演ドラマ『ポリティカルパン』の第9話および第10話（最終話）に、渡辺銀次（ドンデコルテ）、尾上寛之、小笠原海（超特急）が出演することが発表された。",
+        "id": "f0dd2a10a1ffa9e6",
+        "title": "DAIGO・北川景子夫妻が超特急の東京ドーム公演へ！「我が子を見るように」愛ある投稿＆集合ショットに「永遠の9号車」「素敵なご夫婦」と反響",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000926168/",
+        "publishedAt": "2026-11-26T02:11:34.000Z",
+        "summary": "DAIGO、北川景子がそれぞれXを更新。超特急との集合ショットを公開し、反響を呼んでいる。 ■北...",
         "groups": [
           "超特急"
         ],
         "statuses": [],
         "memberMatches": []
-      },
-      {
-        "id": "1e0c1c06371d9fd6",
-        "title": "M!LK山中柔太朗×超特急タクヤがお揃いのロンTで横並び！山中はシースルーバング、タクヤはセンター分け。顔を寄せ合うふたりに「なにこれ、かわいすぎる」「このペア天才」とファン歓喜",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000925843/",
-        "publishedAt": "2026-11-25T06:35:18.000Z",
-        "summary": "テレビ東京『DAN! DAN! EBiDAN!』の公式Instagramが、11月24日に誕生日を迎えた超特急のタクヤ...",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "タクヤ",
-            "group": "超特急",
-            "status": "active"
-          },
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
       },
       {
         "id": "eca139ad46d2dd81",
@@ -290,6 +238,28 @@
         ],
         "statuses": [],
         "memberMatches": []
+      },
+      {
+        "id": "c9f5c5a6ee0ff870",
+        "title": "本日26歳誕生日、超特急・髙松アロハが挑発的なスタイルで魅せる『ワンダンス』場面写真3点解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/10/94062/",
+        "publishedAt": "2026-10-26T03:00:00.000Z",
+        "summary": "11月27日(金)に公開されるJO（&TEAM）の初主演映画『ワンダンス』から超特急・髙松アロハ演じるウセンの場面写真3点が解禁された。 本作は、単行本の累計発行部数が130万部を突破した珈琲による同名漫画の実写化。自分の気持ちを抑えて生活するカボこと小谷花木〈こたに・かぼく〉が、人目を気にせずダンスに没頭するワンダこと湾田光莉〈わんだ・ひかり〉に惹かれ、一",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "アロハ",
+            "group": "超特急",
+            "status": "active"
+          }
+        ]
       }
     ],
     "原因は自分にある。": [
@@ -314,97 +284,6 @@
             "status": "active"
           }
         ]
-      }
-    ],
-    "EBiDAN": [
-      {
-        "id": "1e0c1c06371d9fd6",
-        "title": "M!LK山中柔太朗×超特急タクヤがお揃いのロンTで横並び！山中はシースルーバング、タクヤはセンター分け。顔を寄せ合うふたりに「なにこれ、かわいすぎる」「このペア天才」とファン歓喜",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000925843/",
-        "publishedAt": "2026-11-25T06:35:18.000Z",
-        "summary": "テレビ東京『DAN! DAN! EBiDAN!』の公式Instagramが、11月24日に誕生日を迎えた超特急のタクヤ...",
-        "groups": [
-          "EBiDAN",
-          "超特急",
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "タクヤ",
-            "group": "超特急",
-            "status": "active"
-          },
-          {
-            "name": "山中柔太朗",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "f9365d74947e21b2",
-        "title": "EBiDAN (恵比寿学園男子部) 15周年記念シングル『Yes! 東京』のEBiDAN盤・iiONDO盤・アナログ盤が 来年2月10日に発売！ iiONDOも含めたEBiDANメンバー総勢67名の新キービジュアルを公開！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news12026/",
-        "publishedAt": "2026-11-20T07:00:05.000Z",
-        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念したシングル『Yes! 東京』が新たに3形態、来年2027年2月10日に発売。新形態として、カップリングにiiONDOのメンバーも加わった「Yes! 東京 [EBiDAN […] The post EBiDAN (恵比寿学園男子部) 15周年記念シングル『Yes! 東京』のEBiDAN盤・iiONDO盤・アナ",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "1435a68b28c395c7",
-        "title": "【＠Loppi・HMV限定盤】Blu-ray『EBiDAN THE LIVE 2026 15th Anniversary』2027年2月10日(水)発売決定！さらにEBiDAN15周年アニバーサリーエディション版『EBiDAN Visual Dictionary 2027～15th Anniversary Edition～』も同時発売！本日より予約受付開始！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11875/",
-        "publishedAt": "2026-11-14T11:00:39.000Z",
-        "summary": "＠Loppi・HMV限定盤 Blu-ray『EBiDAN THE LIVE 2026 15th Anniversary』と、EBiDAN15周年アニバーサリーエディション版『EBiDAN Visual Dictionar […] The post 【＠Loppi・HMV限定盤】Blu-ray『EBiDAN THE LIVE 2026 15th Anniver",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "8c1bb579c42e7230",
-        "title": "＜EBiDAN スペシャルブック＆Blu-rayの2作品発売記念＞＠Loppi・HMV限定 EBiDANオリジナルグッズ発売決定！2026年11月13日(金)10:00より予約受付開始！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11974/",
-        "publishedAt": "2026-11-12T07:00:06.000Z",
-        "summary": "このたび、2027年2月10日に発売されるEBiDANメンバーの撮り下ろしショットや各メンバーの15年年表、15周年への思いなどが掲載される書籍『EBiDAN Visual Dictionary 2027～15th An […] The post ＜EBiDAN スペシャルブック＆Blu-rayの2作品発売記念＞＠Loppi・HMV限定 EBiDANオリジナ",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "db4ee1640310da06",
-        "title": "『EBiDANくじvol.3 ～I feel warm inside when I’m with you.～』の発売が決定！",
-        "sourceName": "SUPER★DRAGON 公式NEWS",
-        "sourceUrl": "https://super-dragon.jp/news/feed/",
-        "articleUrl": "https://super-dragon.jp/news/news11961/",
-        "publishedAt": "2026-11-09T01:00:20.000Z",
-        "summary": "EBiDANグループくじ第3弾となる『EBiDANくじvol.3 ～I feel warm inside when I’m with you.～』が、2026年2月12日（金）より発売いたします！ 発売日：2 […] The post 『EBiDANくじvol.3 ～I feel warm inside when I’m with you.～』の発売が決定！",
-        "groups": [
-          "EBiDAN",
-          "SUPER★DRAGON"
-        ],
-        "statuses": [],
-        "memberMatches": []
       }
     ],
     "SUPER★DRAGON": [
@@ -498,6 +377,83 @@
         "summary": "浜辺美波が、11月20日発売の『Ray』2027年1月号通常版の表紙を飾った。特別版表紙には、12月9日にCDデビューを控えるKEY TO LITが同誌初登場を果たしている。3度目の『Ray』表紙となる浜辺は、ブルーのファージャケット姿で登場。誌面ではレースやサテン、チ ... The post 浜辺美波、ブルーのファー姿で『Ray』表紙に！KEY TO L",
         "groups": [
           "BUDDiiS"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      }
+    ],
+    "EBiDAN": [
+      {
+        "id": "f9365d74947e21b2",
+        "title": "EBiDAN (恵比寿学園男子部) 15周年記念シングル『Yes! 東京』のEBiDAN盤・iiONDO盤・アナログ盤が 来年2月10日に発売！ iiONDOも含めたEBiDANメンバー総勢67名の新キービジュアルを公開！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news12026/",
+        "publishedAt": "2026-11-20T07:00:05.000Z",
+        "summary": "EBiDAN (恵比寿学園男子部)の15周年を記念したシングル『Yes! 東京』が新たに3形態、来年2027年2月10日に発売。新形態として、カップリングにiiONDOのメンバーも加わった「Yes! 東京 [EBiDAN […] The post EBiDAN (恵比寿学園男子部) 15周年記念シングル『Yes! 東京』のEBiDAN盤・iiONDO盤・アナ",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "1435a68b28c395c7",
+        "title": "【＠Loppi・HMV限定盤】Blu-ray『EBiDAN THE LIVE 2026 15th Anniversary』2027年2月10日(水)発売決定！さらにEBiDAN15周年アニバーサリーエディション版『EBiDAN Visual Dictionary 2027～15th Anniversary Edition～』も同時発売！本日より予約受付開始！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11875/",
+        "publishedAt": "2026-11-14T11:00:39.000Z",
+        "summary": "＠Loppi・HMV限定盤 Blu-ray『EBiDAN THE LIVE 2026 15th Anniversary』と、EBiDAN15周年アニバーサリーエディション版『EBiDAN Visual Dictionar […] The post 【＠Loppi・HMV限定盤】Blu-ray『EBiDAN THE LIVE 2026 15th Anniver",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "8c1bb579c42e7230",
+        "title": "＜EBiDAN スペシャルブック＆Blu-rayの2作品発売記念＞＠Loppi・HMV限定 EBiDANオリジナルグッズ発売決定！2026年11月13日(金)10:00より予約受付開始！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11974/",
+        "publishedAt": "2026-11-12T07:00:06.000Z",
+        "summary": "このたび、2027年2月10日に発売されるEBiDANメンバーの撮り下ろしショットや各メンバーの15年年表、15周年への思いなどが掲載される書籍『EBiDAN Visual Dictionary 2027～15th An […] The post ＜EBiDAN スペシャルブック＆Blu-rayの2作品発売記念＞＠Loppi・HMV限定 EBiDANオリジナ",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "db4ee1640310da06",
+        "title": "『EBiDANくじvol.3 ～I feel warm inside when I’m with you.～』の発売が決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11961/",
+        "publishedAt": "2026-11-09T01:00:20.000Z",
+        "summary": "EBiDANグループくじ第3弾となる『EBiDANくじvol.3 ～I feel warm inside when I’m with you.～』が、2026年2月12日（金）より発売いたします！ 発売日：2 […] The post 『EBiDANくじvol.3 ～I feel warm inside when I’m with you.～』の発売が決定！",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "2d9e4e423771c6b6",
+        "title": "EBiDAN オンラインくじ vol.2発売決定！",
+        "sourceName": "SUPER★DRAGON 公式NEWS",
+        "sourceUrl": "https://super-dragon.jp/news/feed/",
+        "articleUrl": "https://super-dragon.jp/news/news11856/",
+        "publishedAt": "2026-10-23T07:00:16.000Z",
+        "summary": "「EBiDAN museum 2026」の大盛況を記念し、10月26日(月)13:00より「EBiDAN オンラインくじ vol.2」の販売が決定しました！ グループ別のくじとなり、それぞれ全5等級のいずれかの景品が必ず […] The post EBiDAN オンラインくじ vol.2発売決定！ first appeared on SUPER★DRAGON",
+        "groups": [
+          "EBiDAN",
+          "SUPER★DRAGON"
         ],
         "statuses": [],
         "memberMatches": []

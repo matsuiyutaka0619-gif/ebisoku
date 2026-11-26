@@ -1,14 +1,42 @@
 {
-  "updatedAt": "2026-11-25T21:40:44.151Z",
+  "updatedAt": "2026-11-26T08:15:54.636Z",
   "articles": [
     {
-      "id": "f111f416cfea22e0",
-      "title": "當真あみ、佐野勇斗主演『ディアマミー』出演決定 母の死の真相を追うフリーライターに",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/11/post-2594739.html",
-      "publishedAt": "2026-11-25T21:00:59.000Z",
-      "summary": "佐野勇斗が主演を務める2027年1月期の日本テレビ系日曜ドラマ『ディアマミー 俺たちの母ちゃんは、殺された。』に、當真あみが出演することが発表された。 本作は、日本テレビの連続ドラマ『大病院占拠』『新空港占拠』『放送",
+      "id": "87ad1ade6e31b31e",
+      "title": "=LOVE、推し活アプリの予定配信登録で1位に 紅白初出場・初の東京ドーム公演が影響か",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261126-5413981/",
+      "publishedAt": "2026-11-26T07:17:31.000Z",
+      "summary": "推し活記録アプリ「オシカツ部」を運営する株式会社オシカツは26日、公式LINEで予定を受け取るグループとして登録された人数のランキングを発表。指原莉乃がプロデュースするアイドルグループ・=LOVEが1位となり、CUTIE STREETとM!LKが同数で2位にランクインした。マイナビニュース編集部では、=LOVEが1位となった背景について、同社の広報担当者に話",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "3eec8a73ef332e80",
+      "title": "M!LKが黒スーツでクールな視線を向ける！治安悪めの6人がレトロな銭湯でキメた姿に「破壊力にめまいする」「昭和な雰囲気と令和のアイドルのかけ合わせ最高」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000926565/",
+      "publishedAt": "2026-11-26T07:15:06.000Z",
+      "summary": "『GQ JAPAN』公式SNSにて、『GQ MEN OF THE YEAR 2026』に選出されたアーティストが発表され、...",
+      "groups": [
+        "M!LK"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "0b7410ed074b3091",
+      "title": "M!LK山中柔太朗＆曽野舜太、ジャージでも隠しきれないスタイルの良さ！海を背に肩を寄せ合うふたりに「やわしゅんかわいい」「双子すぎる」「紅白でご利益ありそう」の声",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000926324/",
+      "publishedAt": "2026-11-26T02:49:09.000Z",
+      "summary": "M!LKの山中柔太朗と曽野舜太が、11月25日放送の『ニノなのに』（TBS系）にVTR出演した。M!LKの...",
       "groups": [
         "M!LK"
       ],
@@ -17,33 +45,44 @@
       ],
       "memberMatches": [
         {
-          "name": "佐野勇斗",
+          "name": "曽野舜太",
+          "group": "M!LK",
+          "status": "active"
+        },
+        {
+          "name": "山中柔太朗",
           "group": "M!LK",
           "status": "active"
         }
       ]
     },
     {
-      "id": "6919851cd28ac0aa",
-      "title": "當真あみ、佐野勇斗主演『ディアマミー』に出演 主人公の妹で母の死の真相を追うフリーライター役に",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1105015/",
-      "publishedAt": "2026-11-25T21:00:00.000Z",
-      "summary": "俳優の當真あみが、佐野勇斗が主演を務める2027年1月期の日本テレビ系連続ドラマ『ディアマミー 俺たちの母ちゃんは、殺された。』（日曜午後10時30分）に出演することが26日、発表された。當真は、佐野が演じる主人公・十和 […]",
+      "id": "b18f806a3001731c",
+      "title": "M!LK『2026年JOYSOUNDカラオケ年間ランキング』で三冠の快挙！総合ランキング2位はまさかの「伯方の塩」",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000926151/",
+      "publishedAt": "2026-11-26T02:24:04.000Z",
+      "summary": "業務用通信カラオケ「JOYSOUND」の歌唱データをもとに集計された『2026年JOYSOUNDカラオケ年間...",
       "groups": [
         "M!LK"
       ],
-      "statuses": [
-        "active"
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "f0dd2a10a1ffa9e6",
+      "title": "DAIGO・北川景子夫妻が超特急の東京ドーム公演へ！「我が子を見るように」愛ある投稿＆集合ショットに「永遠の9号車」「素敵なご夫婦」と反響",
+      "sourceName": "THE FIRST TIMES",
+      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+      "articleUrl": "https://www.thefirsttimes.jp/news/0000926168/",
+      "publishedAt": "2026-11-26T02:11:34.000Z",
+      "summary": "DAIGO、北川景子がそれぞれXを更新。超特急との集合ショットを公開し、反響を呼んでいる。 ■北...",
+      "groups": [
+        "超特急"
       ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
+      "statuses": [],
+      "memberMatches": []
     },
     {
       "id": "e83f02c67707b7dd",
@@ -74,20 +113,6 @@
       "memberMatches": []
     },
     {
-      "id": "c54b629e85ec5ff8",
-      "title": "『ポリティカルパン』ドンデコルテ 渡辺銀次が野党・党首役に 超特急 小笠原海らも出演",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/11/post-2594561.html",
-      "publishedAt": "2026-11-25T13:54:52.000Z",
-      "summary": "フジテレビ系にて放送されている石原さとみ主演ドラマ『ポリティカルパン』の第9話および第10話（最終話）に、渡辺銀次（ドンデコルテ）、尾上寛之、小笠原海（超特急）が出演することが発表された。",
-      "groups": [
-        "超特急"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
       "id": "1c63b597682cbb65",
       "title": "「好きじゃないけど…」勤め先のエース弁護士から突然のプロポーズ――阪口珠美、ショートドラマ『結婚しましょう、恋する前に』で“げんじぶ”武藤潤とW主演",
       "sourceName": "マイナビニュース エンタメ",
@@ -110,71 +135,6 @@
       ]
     },
     {
-      "id": "7e3c6ced9a200226",
-      "title": "「メンバーともしゃべってましたけど…」「M!LKの横が…」吉田仁人、2年連続2度目のM!LK『紅白』出場にしみじみ 昨年の初出場で感じたこと「雰囲気がすごいよくて…」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-      "articleUrl": "https://news.mynavi.jp/article/20261125-5393183/",
-      "publishedAt": "2026-11-25T10:00:00.000Z",
-      "summary": "「メンバーともしゃべってましたけど……」――。アイドルグループ・M!LKの吉田仁人が19日、文化放送のラジオ番組『M!LK 吉田仁人のレコメン!』(毎週木曜22:00～25:00)に出演。『第77回NHK紅白歌合戦』への出場決定に喜びを爆発させた。",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "09539b66e36ddead",
-      "title": "M!LK結成12周年！ケーキを囲み満面の笑みを浮かべスペシャルな東京タワーを背にした姿に「うれしさ溢れたいい笑顔」「幸せもらえる」「大好きな5人」",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000925855/",
-      "publishedAt": "2026-11-25T07:26:50.000Z",
-      "summary": "11月24日M!LKが結成12周年を迎え、YouTubeやファンクラブにて配信が行われた。また12周年を記...",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "1e0c1c06371d9fd6",
-      "title": "M!LK山中柔太朗×超特急タクヤがお揃いのロンTで横並び！山中はシースルーバング、タクヤはセンター分け。顔を寄せ合うふたりに「なにこれ、かわいすぎる」「このペア天才」とファン歓喜",
-      "sourceName": "THE FIRST TIMES",
-      "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-      "articleUrl": "https://www.thefirsttimes.jp/news/0000925843/",
-      "publishedAt": "2026-11-25T06:35:18.000Z",
-      "summary": "テレビ東京『DAN! DAN! EBiDAN!』の公式Instagramが、11月24日に誕生日を迎えた超特急のタクヤ...",
-      "groups": [
-        "EBiDAN",
-        "超特急",
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "タクヤ",
-          "group": "超特急",
-          "status": "active"
-        },
-        {
-          "name": "山中柔太朗",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "9b187162703fe94b",
       "title": "SUPER★DRAGON LIVE TOUR 2027「house」 SOLD OUT！",
       "sourceName": "SUPER★DRAGON 公式NEWS",
@@ -191,8 +151,8 @@
     {
       "id": "36e77de68c0c5347",
       "title": "テレビ解説者・木村隆志のヨミトキ 第133回 今年の『レコ大』はミセス4連覇か、M!LK初受賞か、それとも… 『MAJ』台頭と音楽特番の増加で揺らぐ存在感",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
       "articleUrl": "https://news.mynavi.jp/article/yomitoki-133/",
       "publishedAt": "2026-11-25T02:00:00.000Z",
       "summary": "年末の風物詩であり、日本で最も有名な音楽賞である『第68回 輝く!日本レコード大賞』(TBS系)の受賞者・受賞作品が発表された。昨年スタートしたばかりの『MUSIC AWARDS JAPAN』との違いや、今週末の『ベストアーティスト』(日本テレビ系)からはじまる音楽特番ラッシュなどを交えて、同賞の期待と課題をテレビ解説者の木村隆志があげていく。",
@@ -251,48 +211,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "62512db0347f3cfc",
-      "title": "M!LK、5人がバッテリーに変身！佐野勇斗・塩﨑太智ら出演のチャージスポット新CM公開、結成12周年のお祝いも",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/cm/683546.html",
-      "publishedAt": "2026-11-23T22:00:12.000Z",
-      "summary": "5人組ダンスボーカルグループ・M!LKが、モバイルバッテリーのシェアリングサービス「CHARGESPOT」の新CMキャラクターに就任。11月24日より、新TVCM「M!LKのチャースポ」篇が放映される。CMでは、佐野勇斗、塩﨑太智、曽野舜太、山中柔太朗、吉田仁人がバッテ ... The post M!LK、5人がバッテリーに変身！佐野勇斗・塩﨑太智ら出演のチ",
-      "groups": [
-        "M!LK"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐野勇斗",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "塩﨑太智",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "曽野舜太",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "山中柔太朗",
-          "group": "M!LK",
-          "status": "active"
-        },
-        {
-          "name": "吉田仁人",
-          "group": "M!LK",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "ad1e2231eef319ba",
