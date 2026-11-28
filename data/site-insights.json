@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-27T21:16:01.166Z",
+  "updatedAt": "2026-11-28T07:46:59.568Z",
   "totals": {
-    "all": 132,
-    "today": 3,
-    "week": 25
+    "all": 134,
+    "today": 7,
+    "week": 27
   },
   "groupRanking": [
     {
       "name": "M!LK",
-      "count": 12
+      "count": 15
     },
     {
       "name": "SUPER★DRAGON",
@@ -19,6 +19,14 @@
       "count": 2
     },
     {
+      "name": "BUDDiiS",
+      "count": 1
+    },
+    {
+      "name": "ONE N' ONLY",
+      "count": 1
+    },
+    {
       "name": "超特急",
       "count": 1
     }
@@ -26,18 +34,22 @@
   "memberRanking": [
     {
       "name": "塩﨑太智",
-      "count": 4
+      "count": 3
     },
     {
       "name": "吉田仁人",
-      "count": 2
+      "count": 3
     },
     {
-      "name": "ジャン海渡",
+      "name": "FUMIYA",
       "count": 1
     },
     {
-      "name": "ユーキ",
+      "name": "HAYATO",
+      "count": 1
+    },
+    {
+      "name": "ジャン海渡",
       "count": 1
     },
     {
@@ -55,27 +67,31 @@
       "count": 10
     },
     {
+      "name": "THE FIRST TIMES",
+      "count": 6
+    },
+    {
       "name": "マイナビニュース 芸能",
       "count": 5
     },
     {
-      "name": "THE FIRST TIMES",
-      "count": 4
+      "name": "マイナビニュース テレビ",
+      "count": 2
     },
     {
-      "name": "ENCOUNT",
-      "count": 2
+      "name": "WWSチャンネル",
+      "count": 1
     },
     {
       "name": "マイナビニュース エンタメ",
-      "count": 2
-    },
-    {
-      "name": "マイナビニュース テレビ",
       "count": 1
     },
     {
       "name": "リアルサウンド 映画部",
+      "count": 1
+    },
+    {
+      "name": "リアルサウンド 音楽",
       "count": 1
     }
   ],
@@ -83,79 +99,85 @@
   "recentByGroup": {
     "M!LK": [
       {
-        "id": "9a6e3bb4e1c69b39",
-        "title": "塩﨑太智、ドラマ『焼肉の女 綾門寺赤奈』出演決定！小芝風花演じる主人公に長年寄り添う安心感抜群の“タン塩”のような彼氏役",
+        "id": "760d2dcc4be0e24d",
+        "title": "M!LKが5色の華やか袴姿でガッツポーズ！お正月先取りショットに「メンカラ袴かっこいい」「今からおめでたい」「年明けが楽しみ」",
         "sourceName": "THE FIRST TIMES",
         "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000927478/",
-        "publishedAt": "2026-11-27T20:00:34.000Z",
-        "summary": "塩崎太智（「崎」は、たつさきが正式表記）が、TBS系新火曜ドラマ『焼肉の女 綾門寺赤奈』第1...",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000927764/",
+        "publishedAt": "2026-11-28T07:01:58.000Z",
+        "summary": "日本テレビ『ザッツM!LK』公式SNSにて、2027年の年始に新春90分スペシャルが放送されることが...",
         "groups": [
           "M!LK"
         ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
+        "statuses": [],
+        "memberMatches": []
       },
       {
-        "id": "da8bdc851ca308ba",
-        "title": "塩﨑太智、小芝風花主演『焼肉の女 綾門寺赤奈』にゲスト出演 誰もが大好き“タン塩男”に",
-        "sourceName": "リアルサウンド 映画部",
-        "sourceUrl": "https://realsound.jp/movie/feed",
-        "articleUrl": "https://realsound.jp/movie/2026/11/post-2597755.html",
-        "publishedAt": "2026-11-27T20:00:18.000Z",
-        "summary": "2027年1月よりTBS系で放送がスタートする小芝風花主演の火曜ドラマ『焼肉の女 綾門寺赤奈』の第1話に、M!LKの塩﨑太智がゲスト出演することが決定した。 本作は、『マイルノビッチ』などで知られる佐藤ざくりによる漫",
+        "id": "999f4d930b831e4a",
+        "title": "『ベストアーティスト2026』Mrs. GREEN APPLE、M!LK、HANA……記録を更新し続ける、今年を象徴するアーティスト",
+        "sourceName": "リアルサウンド 音楽",
+        "sourceUrl": "https://realsound.jp/music/feed",
+        "articleUrl": "https://realsound.jp/2026/11/post-2598145.html",
+        "publishedAt": "2026-11-28T07:00:19.000Z",
+        "summary": "Mrs. GREEN APPLE、M!LK、HANAら『ベストアーティスト2026』出演者の活躍を紹介する。",
         "groups": [
           "M!LK"
         ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
+        "statuses": [],
+        "memberMatches": []
       },
       {
-        "id": "6e5bf0bbc0f59ee6",
-        "title": "塩﨑太智、小芝風花主演のラブコメドラマで彼氏役 第1話の重要キャラ“タン塩男”に",
-        "sourceName": "ENCOUNT",
-        "sourceUrl": "https://encount.press/feed/",
-        "articleUrl": "https://encount.press/archives/1106031/",
-        "publishedAt": "2026-11-27T20:00:00.000Z",
-        "summary": "M!LKの塩﨑太智が、2027年1月スタートの小芝風花主演のTBS系連続ドラマ『焼肉の女 綾門寺赤奈』（火曜午後10時）に出演することが28日、発表された。第1話のゲストとして、物語の重要な役割を担う主人公の彼氏・山本永 […]",
-        "groups": [
-          "M!LK"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "塩﨑太智",
-            "group": "M!LK",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "196b907bcd7d859a",
-        "title": "M!LK吉田仁人主演ドラマ『溺愛』第6話で真白（吉田）が佳奈（日比茉鈴）から誘惑される!?あらすじ＆場面写真12点公開",
+        "id": "0c688e8f82a87120",
+        "title": "ONE N' ONLY・HAYATO＆BUDDiiS・FUMIYAの\"高尾兄弟\"に注目！ダンス番組でも話題の実力派兄弟、キレキレダンスとほのぼの素顔のギャップが魅力",
         "sourceName": "THE FIRST TIMES",
         "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/news/0000927475/",
-        "publishedAt": "2026-11-27T14:30:48.000Z",
-        "summary": "M!LKの吉田仁人が主演を務めるドラマ『溺愛 ～ 実は、最強ヒーロー ～』より、第6話（12月4日...",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000923350/",
+        "publishedAt": "2026-11-28T02:02:02.000Z",
+        "summary": "超特急、M!LK、ONE N’ ONLY、BUDDiiSなど、様々なグループが所属する男性アーティスト集...",
+        "groups": [
+          "超特急",
+          "M!LK",
+          "ONE N' ONLY",
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "HAYATO",
+            "group": "ONE N' ONLY",
+            "status": "active"
+          },
+          {
+            "name": "FUMIYA",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "e886bdd402787029",
+        "title": "M!LKの王子様ショットに見惚れる！華やかなステージ衣装から気品漂うスーツ姿まで、目が離せない眼福カットを厳選",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000924379/",
+        "publishedAt": "2026-11-28T00:00:19.000Z",
+        "summary": "甘いルックスと個性豊かなキャラクターで人気を集めるM!LK。ステージでの煌びやかな衣装や、気...",
+        "groups": [
+          "M!LK"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "f94f7286f68b42f0",
+        "title": "M!LK・吉田仁人主演『溺愛』第6話の場面写真公開！深夜のオフィスで佳奈が真白を食事に誘う",
+        "sourceName": "WWSチャンネル",
+        "sourceUrl": "https://www.wws-channel.com/feed",
+        "articleUrl": "https://www.wws-channel.com/tv/684243.html",
+        "publishedAt": "2026-11-27T21:30:54.000Z",
+        "summary": "M!LKの吉田仁人が主演を務めるドラマ『溺愛 ～ 実は、最強ヒーロー ～』第6話の場面写真、あらすじ、予告動画が公開された。第6話は12月4日23時からTOKYO MXで放送され、TVerでも同時に無料配信される。本作は、シリーズ累計3,500万ダウンロードを突破した漫 ... The post M!LK・吉田仁人主演『溺愛』第6話の場面写真公開！深夜のオフ",
         "groups": [
           "M!LK"
         ],
@@ -169,20 +191,174 @@
             "status": "active"
           }
         ]
+      }
+    ],
+    "超特急": [
+      {
+        "id": "0c688e8f82a87120",
+        "title": "ONE N' ONLY・HAYATO＆BUDDiiS・FUMIYAの\"高尾兄弟\"に注目！ダンス番組でも話題の実力派兄弟、キレキレダンスとほのぼの素顔のギャップが魅力",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000923350/",
+        "publishedAt": "2026-11-28T02:02:02.000Z",
+        "summary": "超特急、M!LK、ONE N’ ONLY、BUDDiiSなど、様々なグループが所属する男性アーティスト集...",
+        "groups": [
+          "超特急",
+          "M!LK",
+          "ONE N' ONLY",
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "HAYATO",
+            "group": "ONE N' ONLY",
+            "status": "active"
+          },
+          {
+            "name": "FUMIYA",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
       },
       {
-        "id": "b003ed6979eadf3d",
-        "title": "『Mステ SUPER LIVE 2026』第1弾出演者の54組発表 M!LK、Snow Man、ミセスら…6時間40分生放送",
-        "sourceName": "ENCOUNT",
-        "sourceUrl": "https://encount.press/feed/",
-        "articleUrl": "https://encount.press/archives/1105788/",
-        "publishedAt": "2026-11-27T14:00:00.000Z",
-        "summary": "テレビ朝日系の音楽番組『ミュージックステーション SUPER LIVE 2026』が12月25日に午後4時30分から午後11時10分まで放送される。その第1弾出演アーティスト54組が27日、発表された。12月25日に幕張 […]",
+        "id": "eca139ad46d2dd81",
+        "title": "小関裕太×太宰治、藤原樹×芥川龍之介、草川拓弥×夏目漱石 中川龍太郎監督の3作品が劇場へ",
+        "sourceName": "マイナビニュース 映画",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
+        "articleUrl": "https://news.mynavi.jp/article/20261116-5331891/",
+        "publishedAt": "2026-11-16T01:00:00.000Z",
+        "summary": "映画監督・中川龍太郎氏が手がけた短編3作品『メロスの誕生』『欲望(蜘蛛の糸のように)』『こころ』が、2027年1月22日から新宿ピカデリーほか全国31館で2週間限定公開される。",
         "groups": [
-          "M!LK"
+          "超特急"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "タクヤ",
+            "group": "超特急",
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "id": "b10e6e13c2be4a04",
+        "title": "超特急『エトランス・フィーバー』ジャケ写公開、初回盤にはメンバー手描きの干支イラスト",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/11/95036/",
+        "publishedAt": "2026-11-15T03:00:00.000Z",
+        "summary": "東京ドーム公演2Daysを目前に控える9人組メインダンサー＆バックボーカルグループ・超特急が、12月16日(水)に発売する24thシングル『エトランス・フィーバー』の全ジャケット写真を公開した。 今回のジャケット写真では、表題曲のテーマである「干支」をそれぞれ異なる形で表現。SNSでも話題となった顔はめパネルをあしらった通常盤に加え、初回限定盤にはメンバー自",
+        "groups": [
+          "超特急"
         ],
         "statuses": [],
         "memberMatches": []
+      },
+      {
+        "id": "69da96bf9d421a41",
+        "title": "「すごい好きだった」「毎日先生と…」超特急・柏木悠が学生に戻ってやりたいことを告白",
+        "sourceName": "マイナビニュース 映画",
+        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
+        "articleUrl": "https://news.mynavi.jp/article/20261027-5205202/",
+        "publishedAt": "2026-10-27T12:00:00.000Z",
+        "summary": "映画『羊の皮を着たケモノ』(12月11日公開)に出演する、鈴木伸之と柏木悠が26日、東京・日比谷で行われた「第39回東京国際映画祭」(TIFF)のレッドカーペットに、楊礼平監督とともに登場した。",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [],
+        "memberMatches": []
+      },
+      {
+        "id": "c9f5c5a6ee0ff870",
+        "title": "本日26歳誕生日、超特急・髙松アロハが挑発的なスタイルで魅せる『ワンダンス』場面写真3点解禁",
+        "sourceName": "Bezzy",
+        "sourceUrl": "https://bezzy.jp/feed/",
+        "articleUrl": "https://bezzy.jp/2026/10/94062/",
+        "publishedAt": "2026-10-26T03:00:00.000Z",
+        "summary": "11月27日(金)に公開されるJO（&TEAM）の初主演映画『ワンダンス』から超特急・髙松アロハ演じるウセンの場面写真3点が解禁された。 本作は、単行本の累計発行部数が130万部を突破した珈琲による同名漫画の実写化。自分の気持ちを抑えて生活するカボこと小谷花木〈こたに・かぼく〉が、人目を気にせずダンスに没頭するワンダこと湾田光莉〈わんだ・ひかり〉に惹かれ、一",
+        "groups": [
+          "超特急"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "アロハ",
+            "group": "超特急",
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "ONE N' ONLY": [
+      {
+        "id": "0c688e8f82a87120",
+        "title": "ONE N' ONLY・HAYATO＆BUDDiiS・FUMIYAの\"高尾兄弟\"に注目！ダンス番組でも話題の実力派兄弟、キレキレダンスとほのぼの素顔のギャップが魅力",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000923350/",
+        "publishedAt": "2026-11-28T02:02:02.000Z",
+        "summary": "超特急、M!LK、ONE N’ ONLY、BUDDiiSなど、様々なグループが所属する男性アーティスト集...",
+        "groups": [
+          "超特急",
+          "M!LK",
+          "ONE N' ONLY",
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "HAYATO",
+            "group": "ONE N' ONLY",
+            "status": "active"
+          },
+          {
+            "name": "FUMIYA",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "BUDDiiS": [
+      {
+        "id": "0c688e8f82a87120",
+        "title": "ONE N' ONLY・HAYATO＆BUDDiiS・FUMIYAの\"高尾兄弟\"に注目！ダンス番組でも話題の実力派兄弟、キレキレダンスとほのぼの素顔のギャップが魅力",
+        "sourceName": "THE FIRST TIMES",
+        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
+        "articleUrl": "https://www.thefirsttimes.jp/news/0000923350/",
+        "publishedAt": "2026-11-28T02:02:02.000Z",
+        "summary": "超特急、M!LK、ONE N’ ONLY、BUDDiiSなど、様々なグループが所属する男性アーティスト集...",
+        "groups": [
+          "超特急",
+          "M!LK",
+          "ONE N' ONLY",
+          "BUDDiiS"
+        ],
+        "statuses": [
+          "active"
+        ],
+        "memberMatches": [
+          {
+            "name": "HAYATO",
+            "group": "ONE N' ONLY",
+            "status": "active"
+          },
+          {
+            "name": "FUMIYA",
+            "group": "BUDDiiS",
+            "status": "active"
+          }
+        ]
       }
     ],
     "SUPER★DRAGON": [
@@ -298,102 +474,6 @@
           {
             "name": "武藤潤",
             "group": "原因は自分にある。",
-            "status": "active"
-          }
-        ]
-      }
-    ],
-    "超特急": [
-      {
-        "id": "3e62bbbe24616205",
-        "title": "【ライブレポート】超特急、念願の東京ドーム公演完遂！「15年かけても必ず叶う！」（ユーキ）",
-        "sourceName": "THE FIRST TIMES",
-        "sourceUrl": "https://www.thefirsttimes.jp/feed/",
-        "articleUrl": "https://www.thefirsttimes.jp/report/0000927003/",
-        "publishedAt": "2026-11-27T07:15:01.000Z",
-        "summary": "11月25日・26日に開催された超特急初の東京ドーム公演『BULLET TRAIN 1st DOME LIVE Signal』...",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "ユーキ",
-            "group": "超特急",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "eca139ad46d2dd81",
-        "title": "小関裕太×太宰治、藤原樹×芥川龍之介、草川拓弥×夏目漱石 中川龍太郎監督の3作品が劇場へ",
-        "sourceName": "マイナビニュース 映画",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
-        "articleUrl": "https://news.mynavi.jp/article/20261116-5331891/",
-        "publishedAt": "2026-11-16T01:00:00.000Z",
-        "summary": "映画監督・中川龍太郎氏が手がけた短編3作品『メロスの誕生』『欲望(蜘蛛の糸のように)』『こころ』が、2027年1月22日から新宿ピカデリーほか全国31館で2週間限定公開される。",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "タクヤ",
-            "group": "超特急",
-            "status": "active"
-          }
-        ]
-      },
-      {
-        "id": "b10e6e13c2be4a04",
-        "title": "超特急『エトランス・フィーバー』ジャケ写公開、初回盤にはメンバー手描きの干支イラスト",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/11/95036/",
-        "publishedAt": "2026-11-15T03:00:00.000Z",
-        "summary": "東京ドーム公演2Daysを目前に控える9人組メインダンサー＆バックボーカルグループ・超特急が、12月16日(水)に発売する24thシングル『エトランス・フィーバー』の全ジャケット写真を公開した。 今回のジャケット写真では、表題曲のテーマである「干支」をそれぞれ異なる形で表現。SNSでも話題となった顔はめパネルをあしらった通常盤に加え、初回限定盤にはメンバー自",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "69da96bf9d421a41",
-        "title": "「すごい好きだった」「毎日先生と…」超特急・柏木悠が学生に戻ってやりたいことを告白",
-        "sourceName": "マイナビニュース 映画",
-        "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
-        "articleUrl": "https://news.mynavi.jp/article/20261027-5205202/",
-        "publishedAt": "2026-10-27T12:00:00.000Z",
-        "summary": "映画『羊の皮を着たケモノ』(12月11日公開)に出演する、鈴木伸之と柏木悠が26日、東京・日比谷で行われた「第39回東京国際映画祭」(TIFF)のレッドカーペットに、楊礼平監督とともに登場した。",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [],
-        "memberMatches": []
-      },
-      {
-        "id": "c9f5c5a6ee0ff870",
-        "title": "本日26歳誕生日、超特急・髙松アロハが挑発的なスタイルで魅せる『ワンダンス』場面写真3点解禁",
-        "sourceName": "Bezzy",
-        "sourceUrl": "https://bezzy.jp/feed/",
-        "articleUrl": "https://bezzy.jp/2026/10/94062/",
-        "publishedAt": "2026-10-26T03:00:00.000Z",
-        "summary": "11月27日(金)に公開されるJO（&TEAM）の初主演映画『ワンダンス』から超特急・髙松アロハ演じるウセンの場面写真3点が解禁された。 本作は、単行本の累計発行部数が130万部を突破した珈琲による同名漫画の実写化。自分の気持ちを抑えて生活するカボこと小谷花木〈こたに・かぼく〉が、人目を気にせずダンスに没頭するワンダこと湾田光莉〈わんだ・ひかり〉に惹かれ、一",
-        "groups": [
-          "超特急"
-        ],
-        "statuses": [
-          "active"
-        ],
-        "memberMatches": [
-          {
-            "name": "アロハ",
-            "group": "超特急",
             "status": "active"
           }
         ]
